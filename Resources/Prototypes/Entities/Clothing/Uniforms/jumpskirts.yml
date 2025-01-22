@@ -870,9 +870,9 @@
   description: A fancy skirt for the musically inclined. Perfect for any lounge act!
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirt/musician.rsi
+    sprite: Imperial/Clothing/Uniforms/jumpskirts/musician.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirt/musician.rsi
+    sprite: Imperial/Clothing/Uniforms/jumpskirts/musician.rsi
 
 - type: entity
   parent: ClothingUniformSkirtBase
