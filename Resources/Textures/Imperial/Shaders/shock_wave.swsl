@@ -1,3 +1,6 @@
+// license: This content is under ICLA. Copyright holder: orix0689 (discord) (Read more on: https://wiki.imperialspace.net/ru/icla)
+// copyright: "orix0689 (discord)"
+
 uniform sampler2D SCREEN_TEXTURE;
 uniform highp vec2 renderScale;
 
