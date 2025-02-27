@@ -83,6 +83,32 @@
   components:
   - type: Item
     size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
   - type: Sprite
     sprite: Imperial/Crook/Plushie/fumoplush.rsi
     state: junko
@@ -100,6 +126,32 @@
   components:
   - type: Item
     size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
   - type: Sprite
     sprite: Imperial/Crook/Plushie/fumoplush.rsi
     state: marisa
@@ -117,6 +169,32 @@
   components:
   - type: Item
     size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
   - type: Sprite
     sprite: Imperial/Crook/Plushie/fumoplush.rsi
     state: reimu
@@ -134,6 +212,32 @@
   components:
   - type: Item
     size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
   - type: Sprite
     sprite: Imperial/Crook/Plushie/fumoplush.rsi
     state: reisen
@@ -151,6 +255,32 @@
   components:
   - type: Item
     size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
   - type: Sprite
     sprite: Imperial/Crook/Plushie/fumoplush.rsi
     state: tewi
@@ -168,6 +298,32 @@
   components:
   - type: Item
     size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
   - type: Sprite
     sprite: Imperial/Crook/Plushie/fumoplush.rsi
     state: cirno
