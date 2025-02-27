@@ -241,7 +241,7 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
 
-- type: entity
+- type: entity # Imperial Space Revert Cabinetification Возвращает резиновые патроны в игру
   id: MagazinePistolHighCapacityRubber
   name: machine pistol magazine (.35 auto rubber)
   parent: BaseMagazinePistolHighCapacity

@@ -25,7 +25,7 @@
   - type: Appearance
 
 # Boxes
-- type: entity
+- type: entity # Imperial Space Revert Cabinetification 
   parent: BaseMagazineBoxAntiMateriel
   id: MagazineBoxAntiMaterielBig
   name: ammunition box (.60 anti-materiel)
