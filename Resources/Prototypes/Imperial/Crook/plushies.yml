@@ -63,6 +63,11 @@
   values:
     prefix: fumo-cirno-
     count: 2
+- type: localizedDataset
+  id: FumoSakuya
+  values:
+    prefix: fumo-sakuya-
+    count: 4
 # Datasets for Fumo
 
 - type: speechSounds
@@ -331,6 +336,49 @@
     speechSounds: Fumo
   - type: SpeakOnTrigger
     pack: FumoCirno
+
+- type: entity
+  parent: BaseFigurine
+  id: PlushieFumoSakuya
+  name: Sakuya Izayoi
+  suffix: Crook, COMMUNITY, TOY
+  description: She is the supervisor of the maids and cleaners of the Scarlet Devil Mansion and always uses her ability to stop time while working.
+  components:
+  - type: Item
+    size: Small
+  - type: PhysicalComposition
+    materialComposition:
+      Cloth: 100
+  - type: Tag
+    tags:
+      - Payload
+      - ClothMade
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      collection: ToySqueak
+    delay: 2
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 10
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 10
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ToySqueak
+    damage:
+      types:
+        Blunt: 0
+  - type: Sprite
+    sprite: Imperial/Crook/Plushie/fumoplush.rsi
+    state: sakuya
+  - type: Speech
+    speechSounds: Fumo
+  - type: SpeakOnTrigger
+    pack: FumoSakuya
 
 - type: entity
   id: FumoBoxCrook
