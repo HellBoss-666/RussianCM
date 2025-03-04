@@ -1,0 +1,79 @@
+- type: entity
+  #noSpawn: true
+  id: TDMUrbanSpawner
+  name: ghost role spawn point
+  suffix: TDM
+  parent: MarkerBase
+  components:
+    - type: GhostRole
+      name: tdm-urban-name
+      description: tdm-urban-desc
+      rules: tdm-urban-rules
+    - type: GhostRoleMobSpawner
+      prototype: TDMUrbanPreset
+    - type: Sprite
+      sprite: Markers/jobs.rsi
+      layers:
+        - state: green
+        - sprite: Markers/jobs.rsi
+          state: ertleadereva
+
+- type: entity
+  #noSpawn: true
+  id: TDMForestSpawner
+  name: ghost role spawn point
+  suffix: TDM
+  parent: MarkerBase
+  components:
+    - type: GhostRole
+      name: tdm-forest-name
+      description: tdm-forest-desc
+      rules: tdm-forest-rules
+    - type: GhostRoleMobSpawner
+      prototype: TDMForestPreset
+    - type: Sprite
+      sprite: Markers/jobs.rsi
+      layers:
+        - state: green
+        - sprite: Markers/jobs.rsi
+          state: ertleadereva
+
+- type: entity
+  #noSpawn: true
+  id: TDMSnowSpawner
+  name: ghost role spawn point
+  suffix: TDM
+  parent: MarkerBase
+  components:
+    - type: GhostRole
+      name: tdm-snow-name
+      description: tdm-snow-desc
+      rules: tdm-snow-rules
+    - type: GhostRoleMobSpawner
+      prototype: TDMSnowPreset
+    - type: Sprite
+      sprite: Markers/jobs.rsi
+      layers:
+        - state: green
+        - sprite: Markers/jobs.rsi
+          state: ertleadereva
+
+- type: entity
+  #noSpawn: true
+  id: TDMDesertSpawner
+  name: ghost role spawn point
+  suffix: TDM
+  parent: MarkerBase
+  components:
+    - type: GhostRole
+      name: tdm-desert-name
+      description: tdm-desert-desc
+      rules: tdm-desert-rules
+    - type: GhostRoleMobSpawner
+      prototype: TDMDesertPreset
+    - type: Sprite
+      sprite: Markers/jobs.rsi
+      layers:
+        - state: green
+        - sprite: Markers/jobs.rsi
+          state: ertleadereva

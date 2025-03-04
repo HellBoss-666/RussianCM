@@ -1,0 +1,143 @@
+- type: entity
+  noSpawn: false
+  parent: MobHuman
+  id: TDMUrbanPreset
+  name: UrbanPreset
+  suffix: TDM
+  components:
+    - type: AutoImplant
+      implants:
+      - DeathAcidifierImplanter
+    - type: RandomMetadata
+      nameSegments:
+      - NamesFirstMilitary
+      - names_last
+    - type: Sprite
+      netsync: false
+      sprite: Markers/jobs.rsi
+      state: ertleadereva
+    - type: Loadout
+      prototypes: [ TDMUrbanGear ]
+    - type: RandomHumanoidAppearance
+      randomizeName: false
+    # - type: CrewSkills
+    #   skills:
+    #     - skillBotany
+    #     - skillBaseMed
+    #     - skillBaseConstraction
+    #     - skillHacking
+    #     - skillInstrumentation
+    #     - skillMaintenance
+    #     - skillMedicalEquipment
+    #     - skillPharmacology
+    #     - skillPiloting
+    #     - skillShooting
+    #     - skillSurgery
+
+- type: entity
+  noSpawn: false
+  parent: MobHuman
+  id: TDMForestPreset
+  name: ForestPreset
+  suffix: TDM
+  components:
+    - type: AutoImplant
+      implants:
+      - DeathAcidifierImplanter
+    - type: RandomMetadata
+      nameSegments:
+      - NamesFirstMilitary
+      - names_last
+    - type: Sprite
+      netsync: false
+      sprite: Markers/jobs.rsi
+      state: ertleadereva
+    - type: Loadout
+      prototypes: [ TDMForestGear ]
+    - type: RandomHumanoidAppearance
+      randomizeName: false
+    # - type: CrewSkills
+    #   skills:
+    #     - skillBotany
+    #     - skillBaseMed
+    #     - skillBaseConstraction
+    #     - skillHacking
+    #     - skillInstrumentation
+    #     - skillMaintenance
+    #     - skillMedicalEquipment
+    #     - skillPharmacology
+    #     - skillPiloting
+    #     - skillShooting
+    #     - skillSurgery
+
+- type: entity
+  noSpawn: false
+  parent: MobHuman
+  id: TDMSnowPreset
+  name: SnowPreset
+  suffix: TDM
+  components:
+    - type: AutoImplant
+      implants:
+      - DeathAcidifierImplanter
+    - type: RandomMetadata
+      nameSegments:
+      - NamesFirstMilitary
+      - names_last
+    - type: Sprite
+      netsync: false
+      sprite: Markers/jobs.rsi
+      state: ertleadereva
+    - type: Loadout
+      prototypes: [ TDMSnowGear ]
+    - type: RandomHumanoidAppearance
+      randomizeName: false
+    # - type: CrewSkills
+    #   skills:
+    #     - skillBotany
+    #     - skillBaseMed
+    #     - skillBaseConstraction
+    #     - skillHacking
+    #     - skillInstrumentation
+    #     - skillMaintenance
+    #     - skillMedicalEquipment
+    #     - skillPharmacology
+    #     - skillPiloting
+    #     - skillShooting
+    #     - skillSurgery
+
+- type: entity
+  noSpawn: false
+  parent: MobHuman
+  id: TDMDesertPreset
+  name: DesertPreset
+  suffix: TDM
+  components:
+    - type: AutoImplant
+      implants:
+      - DeathAcidifierImplanter
+    - type: RandomMetadata
+      nameSegments:
+      - NamesFirstMilitary
+      - names_last
+    - type: Sprite
+      netsync: false
+      sprite: Markers/jobs.rsi
+      state: ertleadereva
+    - type: Loadout
+      prototypes: [ TDMDesertGear ]
+    - type: RandomHumanoidAppearance
+      randomizeName: false
+    # - type: CrewSkills
+    #   skills:
+    #     - skillBotany
+    #     - skillBaseMed
+    #     - skillBaseConstraction
+    #     - skillHacking
+    #     - skillInstrumentation
+    #     - skillMaintenance
+    #     - skillMedicalEquipment
+    #     - skillPharmacology
+    #     - skillPiloting
+    #     - skillShooting
+    #     - skillSurgery
