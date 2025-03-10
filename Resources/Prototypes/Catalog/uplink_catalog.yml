@@ -152,9 +152,9 @@
   productEntity: BriefcaseSyndieSniperBundleFilled
   discountCategory: usualDiscounts
   discountDownTo:
-    Telecrystal: 7
+    Telecrystal: 7 # Imperial balance
   cost:
-    Telecrystal: 15
+    Telecrystal: 15 # Imperial balance
   categories:
   - UplinkWeaponry
 
