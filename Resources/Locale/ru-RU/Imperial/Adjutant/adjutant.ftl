@@ -1,6 +1,6 @@
 ent-ClothingUniformJumpsuitAdjutant = комбинезон адъютанта 
     .desc = Стандартная униформа управленчиских колледжей НТ. На груди виден маленький значок.
-ent-ClothingUniformJumpskirtAdjutant = комбинезон адъютанта 
+ent-ClothingUniformJumpskirtAdjutant = юбка-комбинезон адъютанта 
     .desc = Стандартная униформа управленчиских колледжей НТ. На груди виден маленький значок.
 
 ent-AdjutantPDA = КПК адъютанта
