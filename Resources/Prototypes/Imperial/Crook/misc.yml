@@ -164,7 +164,7 @@
         - ReagentId: Vitamin
           Quantity: 5
   - type: Sprite
-    sprite: Imperial/Crook/Misk/ThermosBlue.rsi
+    sprite: Imperial/Crook/Misc/ThermosBlue.rsi
 
 - type: entity
   parent: FlaskBase
@@ -183,7 +183,7 @@
         - ReagentId: ChloralHydrate
           Quantity: 15
   - type: Sprite
-    sprite: Imperial/Crook/Misk/ThermosGreen.rsi
+    sprite: Imperial/Crook/Misc/ThermosGreen.rsi
 
 - type: entity
   parent: FlaskBase
@@ -204,7 +204,7 @@
         - ReagentId: Retropine
           Quantity: 14
   - type: Sprite
-    sprite: Imperial/Crook/Misk/ThermosRed.rsi
+    sprite: Imperial/Crook/Misc/ThermosRed.rsi
 
 - type: entity
   parent: FlaskBase
@@ -223,7 +223,7 @@
         - ReagentId: Water
           Quantity: 10
   - type: Sprite
-    sprite: Imperial/Crook/Misk/ThermosGray.rsi
+    sprite: Imperial/Crook/Misc/ThermosGray.rsi
 
 - type: emoteSounds
   id: SmilerVoice
