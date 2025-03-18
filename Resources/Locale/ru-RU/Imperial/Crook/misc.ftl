@@ -15,7 +15,7 @@ ent-FancyBoxFolder = папка
 
 tiles-backrooms-floor = необычный пол
 ent-WallBackrooms = необычная стена
-    .desc = Обычная стена, на ней, кажется, имеются обои.
+    .desc = Стена. На ней, кажется, имеются обои.
 ent-Smiler = улыбающийся
     .desc = Улыбается значит добрый.
 ent-MobDeathmoth = смертомоль
