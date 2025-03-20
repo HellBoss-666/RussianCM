@@ -12,12 +12,6 @@ namespace Content.Shared.Imperial.EntityLayer;
 public sealed partial class EntityLayerComponent : Component
 {
     /// <summary>
-    /// Can entity interact with normal world (pull entities, open ui-s e.t)
-    /// </summary>
-    [DataField, AutoNetworkedField]
-    public bool CanInteractWithOverworld = false;
-
-    /// <summary>
     /// Replicate current mask and layer to entity we containing
     /// </summary>
     [DataField, AutoNetworkedField]
@@ -63,13 +57,13 @@ public sealed partial class EntityLayerComponent : Component
     /// Layers we can interact with
     /// </summary>
     [DataField, AutoNetworkedField]
-    public HashSet<EntityLayerGroups> CollideMasks = new() { EntityLayerGroups.None };
+    public HashSet<EntityLayerGroups> CollideMasks = new() { EntityLayerGroups.Overworld };
 
     /// <summary>
     /// The layer on which the entity is located
     /// </summary>
     [DataField, AutoNetworkedField]
-    public HashSet<EntityLayerGroups> CollideLayers = new() { EntityLayerGroups.None };
+    public HashSet<EntityLayerGroups> CollideLayers = new() { EntityLayerGroups.Overworld };
 
 
     /// <summary>
