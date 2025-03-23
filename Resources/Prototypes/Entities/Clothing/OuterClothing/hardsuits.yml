@@ -909,6 +909,7 @@
   id: ClothingOuterHardsuitDeathsquad
   name: death squad hardsuit
   description: An advanced hardsuit favored by commandos for use in special operations.
+  suffix: DeathSquad
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Hardsuits/deathsquad.rsi
@@ -933,6 +934,8 @@
         Heat: 0.1
         Radiation: 0.1
         Caustic: 0.1
+        Cold: 0.1
+        Shock: 0.1 ## Added after adding stamina resist by Artur.
         Stamina: 0.3 ## Stamina resistance Imperial
   - type: ClothingSpeedModifier
     walkModifier: 1.0
