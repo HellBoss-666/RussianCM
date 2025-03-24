@@ -12,7 +12,7 @@
     sound: !type:SoundPathSpecifier
       path: /Audio/Magic/fireball.ogg
     icon:
-      sprite: imperial/DRGbeer/gnomeprojectile.rsi
+      sprite: Imperial/DRGbeer/gnomeprojectile.rsi
       state: spell
     event: !type:ProjectileSpellEvent
       prototype: BulletGnomish
@@ -20,13 +20,13 @@
       speech: action-speech-spell-Gnomik
 
 - type: entity
-  parent: BaseSubdermalImplant 
+  parent: BaseSubdermalImplant
   id: BeerImplantGnome
   name: absolutelyNothing
   noSpawn: true
   components:
     - type: SubdermalImplant
-      implantAction: ActionBeersleep      
+      implantAction: ActionBeersleep
     - type: Tag
       tags:
         - SubdermalImplant
