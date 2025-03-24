@@ -1,0 +1,10 @@
+- type: entity
+  parent: CommunityPosterBase
+  id: onsen_poster
+  name: "Onsen"
+  suffix: "onionsenpai, COMMUNITY, poster"
+  description: "Onsen would bring you to the cloud nine!"
+  components:
+  - type: Sprite
+    sprite: Imperial/onionsenpai/Posters/onsen_poster.rsi
+    state: onsen_poster
