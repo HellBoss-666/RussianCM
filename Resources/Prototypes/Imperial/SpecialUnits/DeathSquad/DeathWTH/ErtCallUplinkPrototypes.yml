@@ -13,6 +13,5 @@
       shader: unshaded
       visible: true
   - type: Store
-    preset: DeathSquadUplinkPresetAlt
     balance:
       BlueSpaceCube: 70
