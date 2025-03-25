@@ -19,6 +19,7 @@
     steps: 1
     zeroVisible: true
   - type: Wieldable
+  - type: GunWieldBonus
     minAngle: -20
     maxAngle: -20
   - type: Gun
