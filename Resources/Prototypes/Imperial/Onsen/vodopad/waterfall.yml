@@ -20,8 +20,9 @@
         - state: vodopadik
     - type: AmbientSound
       volume: -3
-      loop: true
       range: 5
-      pitch: 1
       sound:
         path: /Audio/Imperial/Onsen/waterfallsoundeffect.ogg
+        params:
+          pitch: 1
+          loop: true
