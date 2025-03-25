@@ -1,5 +1,4 @@
 - type: entity
-  noSpawn: false
   parent: MobHuman
   id: DeathSquadEVAPreset
   suffix: DeathSquad, Alt, Noghostrole
@@ -58,7 +57,7 @@
     mask: ClothingMaskDeathSquadAlt
     ears: SODDeathSquadHeadset
     gloves: ClothingHandsGlovesCombat
-    outerClothing: ClothingOuterHardsuitDeathsquad
+    outerClothing: ClothingOuterHardsuitDeathsquadAlt
     shoes: BootsMagDeathSquad
     id: DeadSquadPDA
     pocket1: EnergySword

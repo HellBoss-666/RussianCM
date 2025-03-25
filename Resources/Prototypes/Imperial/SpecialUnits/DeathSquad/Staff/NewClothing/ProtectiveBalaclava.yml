@@ -6,10 +6,10 @@
   suffix: DeathSquad
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\ProtectiveBalaclava.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/ProtectiveBalaclava.rsi
     state: icon
   - type: Clothing
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\ProtectiveBalaclava.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/ProtectiveBalaclava.rsi
   - type: BreathMask
   - type: FireProtection
     reduction: 0.9

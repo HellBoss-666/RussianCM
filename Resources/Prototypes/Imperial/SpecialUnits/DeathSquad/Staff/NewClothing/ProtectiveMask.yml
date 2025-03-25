@@ -6,10 +6,10 @@
   suffix: DeathSquad
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\ProtectiveMask.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/ProtectiveMask.rsi
     state: icon
   - type: Clothing
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\ProtectiveMask.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/ProtectiveMask.rsi
   - type: FlashImmunity
   - type: EyeProtection
   - type: FireProtection

@@ -6,8 +6,8 @@
   suffix: DeathSquad
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\DeathAdvancedGlasses.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/DeathAdvancedGlasses.rsi
   - type: Clothing
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\DeathAdvancedGlasses.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/DeathAdvancedGlasses.rsi
   - type: EyeProtection
   - type: SolutionScanner

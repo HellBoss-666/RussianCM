@@ -27,7 +27,7 @@
     - SODDeathSquad
     defaultChannel: SODDeathSquad
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\encryptionKeysExtended.yml
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/encryptionKeysExtended.yml
     layers:
     - state: crypt_blue
     - state: deathsquad_label

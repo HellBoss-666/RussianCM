@@ -6,7 +6,7 @@
   suffix: DeathSquad
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Weapones\PulseShotgun\PulseShotgun.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Weapones/PulseShotgun/PulseShotgun.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
@@ -28,7 +28,7 @@
     fireCost: 100
   - type: Item
     size: Large
-    sprite: Imperial\SpecialUnits\DeathSquad\Weapones\PulseShotgun\inhands_64.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Weapones/PulseShotgun/inhands_64.rsi
     heldPrefix: pulse
   - type: GunRequiresWield
   - type: Battery

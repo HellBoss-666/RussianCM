@@ -5,7 +5,7 @@
   description: A universal tool for taking other people's lives.
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Weapones\Deliverer\icon.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Weapones/Deliverer/icon.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]
@@ -13,7 +13,7 @@
       map: ["enum.GunVisualLayers.Mag"]
   - type: Item
     size: Large
-    sprite: Imperial\SpecialUnits\DeathSquad\Weapones\Deliverer\inhands_32.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Weapones/Deliverer/inhands_32.rsi
   - type: MagazineVisuals
     magState: mag
     steps: 1

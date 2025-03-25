@@ -6,11 +6,11 @@
   suffix: DeathSquad
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Weapones\MinigunR.yml
+    sprite: Imperial/SpecialUnits/DeathSquad/Weapones/MinigunR.yml
     layers:
     - state: icon
   - type: Item
-    sprite: Imperial\SpecialUnits\DeathSquad\Weapones\MinigunR.yml
+    sprite: Imperial/SpecialUnits/DeathSquad/Weapones/MinigunR.yml
   - type: Gun
     minAngle: 12
     maxAngle: 12

@@ -5,7 +5,7 @@
   description: What do you mean, "can I stroke your tail"?! I said blow up the station!
   components:
   - type: Sprite
-    sprite: Imperial\SpecialUnits\DeathSquad\Staff\OfficerAmeliaPlushie.rsi
+    sprite: Imperial/SpecialUnits/DeathSquad/Staff/OfficerAmeliaPlushie.rsi
     state: plushie_SOO
   - type: StaminaDamageOnHit
     damage: 32

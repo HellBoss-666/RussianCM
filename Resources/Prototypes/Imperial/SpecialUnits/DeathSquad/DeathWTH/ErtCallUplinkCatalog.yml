@@ -392,7 +392,7 @@
   cost:
     BlueSpaceCube: 10
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkThriveninChemistryBottleAlt
@@ -402,7 +402,7 @@
   cost:
     BlueSpaceCube: 5
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkHyposprayAlt
@@ -412,7 +412,7 @@
   cost:
     BlueSpaceCube: 6
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkGauzeAlt
@@ -422,7 +422,7 @@
   cost:
     BlueSpaceCube: 1
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkBrutepackAlt
@@ -432,7 +432,7 @@
   cost:
     BlueSpaceCube: 1
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkOintmentAlt
@@ -442,7 +442,7 @@
   cost:
     BlueSpaceCube: 1
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkStimpackAlt
@@ -452,7 +452,7 @@
   cost:
     BlueSpaceCube: 5
   categories:
-  - Medial
+  - Medical
 
 #new medipens
 
@@ -464,7 +464,7 @@
   cost:
     BlueSpaceCube: 4
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkBurnMedipenAlt
@@ -474,7 +474,7 @@
   cost:
     BlueSpaceCube: 3
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkBruteMedipenAlt
@@ -484,7 +484,7 @@
   cost:
     BlueSpaceCube: 3
   categories:
-  - Medial
+  - Medical
 
  #new medipens end
 
@@ -496,7 +496,7 @@
   cost:
     BlueSpaceCube: 5
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkEmergencyMedipenAlt
@@ -506,7 +506,7 @@
   cost:
     BlueSpaceCube: 1
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkHandheldHealthAnalyzerAlt
@@ -516,7 +516,7 @@
   cost:
     BlueSpaceCube: 1
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkMaterialBiomassAlt
@@ -526,7 +526,7 @@
   cost:
     BlueSpaceCube: 5
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkPillAmbuzolPlusAlt
@@ -536,7 +536,7 @@
   cost:
    BlueSpaceCube: 2
   categories:
-  - Medial
+  - Medical
 
 - type: listing
   id: DSCallUplinkSpaceMedipenAlt
@@ -546,7 +546,7 @@
   cost:
     BlueSpaceCube: 2
   categories:
-  - Medial
+  - Medical
 
 #DSUplinkWeaponNonCombat
 - type: listing

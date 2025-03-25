@@ -63,7 +63,6 @@
   id: BulletRifleUAP
   name: bullet (0.20 rifle UAP)
   parent: BaseBulletAP
-  noSpawn: true
   components:
   - type: Projectile
     damage:

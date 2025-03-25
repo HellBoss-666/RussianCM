@@ -34,7 +34,7 @@
   name: store-category-ert-uplink-explosives
 
 - type: storeCategory
-  id: Medial
+  id: Medical
   name: store-category-ert-uplink-medial
 
 - type: storeCategory
