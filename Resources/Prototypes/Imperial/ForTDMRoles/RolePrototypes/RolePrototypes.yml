@@ -185,7 +185,7 @@
       - DeathAcidifierImplanter
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitaryLeader
+      - NamesMilitaryFirstLeader
       - NamesLast
     - type: Sprite
       netsync: false
