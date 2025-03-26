@@ -6,8 +6,8 @@
   components:
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitary
-      - names_last
+      - NamesMilitaryFirst
+      - NamesMilitaryLast
     - type: Sprite
       netsync: false
       sprite: Markers/jobs.rsi
@@ -41,8 +41,8 @@
   components:
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitary
-      - names_last
+      - NamesMilitaryFirst
+      - NamesMilitaryLast
     - type: Sprite
       netsync: false
       sprite: Markers/jobs.rsi
@@ -76,8 +76,8 @@
   components:
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitary
-      - names_last
+      - NamesMilitaryFirst
+      - NamesMilitaryLast
     - type: Sprite
       netsync: false
       sprite: Markers/jobs.rsi
@@ -111,8 +111,8 @@
   components:
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitary
-      - names_last
+      - NamesMilitaryFirst
+      - NamesMilitaryLast
     - type: Sprite
       netsync: false
       sprite: Markers/jobs.rsi
@@ -146,8 +146,8 @@
   components:
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitary
-      - names_last
+      - NamesMilitaryFirst
+      - NamesMilitaryLast
     - type: Sprite
       netsync: false
       sprite: Markers/jobs.rsi
@@ -182,8 +182,8 @@
   components:
     - type: RandomMetadata
       nameSegments:
-      - NamesFirstMilitaryLeader
-      - names_last
+      - NamesMilitaryFirstLeader
+      - NamesMilitaryLast
     - type: Sprite
       netsync: false
       sprite: Markers/jobs.rsi
