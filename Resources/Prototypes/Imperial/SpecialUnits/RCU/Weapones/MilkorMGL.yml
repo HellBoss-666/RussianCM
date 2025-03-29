@@ -32,6 +32,7 @@
     soundGunshot:
       path:  /Audio/Imperial/SpecialUnits/RCU/Criminality/nuhuh.ogg
   - type: Wieldable
+  - type: GunWieldBonus
     minAngle: -18
     maxAngle: -18
   - type: GunRequiresWield

@@ -20,9 +20,10 @@
     steps: 1
     zeroVisible: true
   - type: Wieldable
+  - type: GunRequiresWield
+  - type: GunWieldBonus
     minAngle: -18
     maxAngle: -18
-  - type: GunRequiresWield
   - type: Gun
     fireRate: 7
     minAngle: 23

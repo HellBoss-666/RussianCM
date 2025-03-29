@@ -1,7 +1,6 @@
 #Пресеты болванок
 
 - type: entity
-  noSpawn: false
   parent: MobHuman
   id: RCUOperatorPreset
   suffix: RiotControlUnit, Noghostrole
@@ -50,7 +49,6 @@
         - skillNeuroSurgery
 
 - type: entity
-  noSpawn: false
   parent: RCUOperatorPreset
   id: RCUOfficerPreset
   suffix: RiotControlUnit, Noghostrole

@@ -723,7 +723,7 @@
   cost:
     BlueSpaceCube: 5
   categories:
-  - RCURCUImplants
+  - RCUImplants
 
 - type: listing
   id: RCUUplinkMicroBomb
