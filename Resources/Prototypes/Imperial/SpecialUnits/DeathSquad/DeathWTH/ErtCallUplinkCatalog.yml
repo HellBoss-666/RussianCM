@@ -55,7 +55,7 @@
   description: ert-uplink-ammononcombat-magazineboxmagnumap-desc
   productEntity: MagazineBoxMagnumAP
   cost:
-    BlueSpaceCube: 20
+    BlueSpaceCube: 10
   categories:
   - AmmoCombat
 

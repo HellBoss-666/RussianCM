@@ -1,0 +1,57 @@
+- type: entity
+  id: MachineGunODEN
+  parent: BaseWeaponLightMachineGun
+  name: ODEN
+  description: A powerful rifle with impressive ammunition. Uses ammo .30 caliber.
+  suffix: RiotControlUnit
+  components:
+  - type: Sprite
+    sprite: Imperial/SpecialUnits/RCU/Weapones/ODEN/icon.rsi
+    layers:
+    - state: base
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-0
+      map: ["enum.GunVisualLayers.Mag"]
+  - type: Item
+    size: Large
+    sprite: Imperial/SpecialUnits/RCU/Weapones/ODEN/inhand.rsi
+  - type: MagazineVisuals
+    magState: mag
+    steps: 1
+    zeroVisible: true
+  - type: Wieldable
+    minAngle: -18
+    maxAngle: -18
+  - type: GunRequiresWield
+  - type: Gun
+    fireRate: 7
+    minAngle: 23
+    maxAngle: 24
+    angleIncrease: 4
+    angleDecay: 10
+    selectedMode: FullAuto
+    availableModes:
+      - FullAuto
+      - SemiAuto
+    soundGunshot:
+      path: /Audio/Imperial/SpecialUnits/RCU/Criminality/oden.ogg
+  - type: ItemSlots
+    slots:
+      gun_magazine:
+        name: Magazine
+        startingItem: ItemODENMagazine
+        insertSound: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
+        ejectSound: /Audio/Weapons/Guns/MagOut/batrifle_magout.ogg
+        priority: 2
+        whitelist:
+          tags:
+            - ItemODENMagazine
+        blacklist:
+          tags:
+            - MagazineLightRifleBox
+  - type: Appearance
+  - type: ClothingFactionExplosion
+    friendlyFaction: RiotControlUnit
+    chance: 1
+  - type: Speech
+    speechSounds: Pai
