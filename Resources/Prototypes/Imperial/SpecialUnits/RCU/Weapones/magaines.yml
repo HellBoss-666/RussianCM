@@ -7,6 +7,9 @@
   description: Mag of a heavy rifle.
   suffix: RiotControlUnit
   components:
+  - type: Tag
+    tags:
+      - ItemODENMagazine
   - type: Item
     size: Small
   - type: BallisticAmmoProvider
@@ -59,6 +62,9 @@
   parent: BaseSpeedLoaderGrenadeFrag
   suffix: RiotControlUnit
   components:
+  - type: Tag
+    tags:
+      - SpeedLoaderGrenadeFrag
   - type: BallisticAmmoProvider
     proto: GrenadeFrag
   - type: Sprite
