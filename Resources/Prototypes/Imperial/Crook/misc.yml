@@ -536,9 +536,9 @@
   description: Time for an ass kicking!
   components:
   - type: Sprite
-    sprite: Imperial/Crook/Misc/Madzima/Uniforms/Shoes/Misc/Breakdance.rsi
+    sprite: Imperial/Crook/Misc/Madzima/Shoes/Misc/Breakdance.rsi
   - type: Clothing
-    sprite: Imperial/Crook/Misc/Madzima/Uniforms/Shoes/Misc/Breakdance.rsi
+    sprite: Imperial/Crook/Misc/Madzima/Shoes/Misc/Breakdance.rsi
 
 - type: entity
   parent: ClothingOuterStorageBase
