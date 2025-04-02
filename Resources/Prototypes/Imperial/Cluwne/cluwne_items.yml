@@ -25,13 +25,13 @@
   - type: Armor
     modifiers:
       coefficients:
-        Blunt: 3.0
-        Slash: 3.0
-        Piercing: 3.0
-        Heat: 3.0
-        Radiation: 3.0
-        Caustic: 3.0
-        Stamina: 1.3
+        Blunt: 4.0
+        Slash: 4.0
+        Piercing: 4.0
+        Heat: 4.0
+        Radiation: 4.0
+        Caustic: 4.0
+        Stamina: 1.5
 
 - type: entity
   name: pie gun
