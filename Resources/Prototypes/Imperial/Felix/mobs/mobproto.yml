@@ -64,8 +64,6 @@
   parent: BaseMobHuman
   id: FelixMercenaryAKS
   components:
-  - type: RandomMetadata
-    nameSegments:
   - type: NpcFactionMember
     factions:
     - SimpleHostile
