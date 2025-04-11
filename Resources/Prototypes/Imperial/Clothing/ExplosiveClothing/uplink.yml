@@ -10,4 +10,6 @@
     sprite: Clothing/Shoes/Specific/galoshes.rsi
     quickEquip: true
 
-
+- type: entity
+  noSpawn: true
+  id: ClothingOuterHardsuitEVAExpclothing
