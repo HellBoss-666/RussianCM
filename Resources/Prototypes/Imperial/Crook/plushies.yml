@@ -79,6 +79,22 @@
     contents:
       - id: FoodBurgerRobot
 
+- type: entity
+  parent: BasePlushieCharacter
+  id: PlushieErika
+  name: Эрика Штейнхофер
+  suffix: Crook, COMMUNITY, TOY
+  description: 
+  components:
+  - type: Item
+    size: Small
+  - type: Sprite
+    sprite: Imperial/Crook/Plushie/erikasteinhofer.rsi
+    state: icon
+  - type: StorageFill
+    contents:
+      - id: ClothingNeckTieDet
+
 # Фумо @buhoj_med
 
 # Datasets for Fumo
