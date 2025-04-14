@@ -237,9 +237,9 @@
   description: Защищает вашу голову от отсутствия атмосферы и ударов извне.
   components:
   - type: Sprite
-    sprite: Imperial/Felix/Argon/Clothing/Head/rig.rsi
+    sprite: Imperial/Felix/Argon/Clothing/Armor/Head/rig.rsi
   - type: Clothing
-    sprite: Imperial/Felix/Argon/Clothing/Head/rig.rsi
+    sprite: Imperial/Felix/Argon/Clothing/Armor/Head/rig.rsi
     equipSound: /Audio/Imperial/Modsuits/ballin.ogg
     unequipSound: /Audio/Imperial/Modsuits/ballout.ogg
   - type: Armor
@@ -268,9 +268,9 @@
   description: Это ваш Центр Р.И.Г-а.Таких центров много, но этот - ваш. Это - ваш лучший друг в плане защиты живота.
   components:
   - type: Sprite
-    sprite: Imperial/Felix/Argon/Clothing/OuterClothing/rig.rsi
+    sprite: Imperial/Felix/Argon/Clothing/Armor/OuterClothing/rig.rsi
   - type: Clothing
-    sprite: Imperial/Felix/Argon/Clothing/OuterClothing/rig.rsi
+    sprite: Imperial/Felix/Argon/Clothing/Armor/OuterClothing/rig.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.000002
     lowPressureMultiplier: 1000
