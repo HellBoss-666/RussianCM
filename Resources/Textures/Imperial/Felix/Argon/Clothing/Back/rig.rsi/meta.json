@@ -8,7 +8,15 @@
   },
   "states": [
     {
-      "name": "icon"
+      "name": "icon",
+      "delays": [
+        [
+          0.18625,
+          0.18625,
+          0.18625,
+          0.18625
+        ]
+      ]
     },
     {
       "name": "equipped-BACKPACK",
