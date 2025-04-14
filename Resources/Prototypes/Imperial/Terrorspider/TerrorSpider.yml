@@ -35,7 +35,6 @@
   id: ActionSpawnSpiderRusar
   name: Spawn web
   description: it spans the web. A little stronger than usual.
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 2.5
@@ -187,7 +186,6 @@
   parent: LightImplantSpider
   id: LightImplantSpiderDron
   name: Spawn eggs 2 tir
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnSpiderDron
@@ -196,7 +194,6 @@
   id: ActionSpawnSpiderDron
   name: Spawn web
   description: it spans the web. A little stronger than usual.
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 2
@@ -433,7 +430,6 @@
   - type: MovementSpeedModifier
     baseWalkSpeed : 4
     baseSprintSpeed : 4
-    actionPsionicInvisibility: ActionToggleSuitInvisiblePower
   - type: SlowOnDamage
     speedModifierThresholds:
       80: 0.7
@@ -911,7 +907,6 @@
   parent: LightImplantSpider
   id: LightImplantSpiderGuardian
   name: Spawn web
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnSpiderGuardian
@@ -920,7 +915,6 @@
   id: ActionSpawnSpiderGuardian
   name: Spawn web
   description: it spans the web. A little stronger than usual.
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 3
@@ -1324,7 +1318,6 @@
   parent: LightImplantSpider
   id: LightImplantSpiderPrincess
   name: Spawnd web
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnSpiderPrincess
@@ -1333,7 +1326,6 @@
   id: ActionSpawnSpiderPrincess
   name: Spawn web
   description: it spans the web. A little stronger than usual.
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 2
@@ -1353,7 +1345,6 @@
   parent: LightImplantSpider 
   id: LightImplantSpiderTir1
   name: Spawnd egg 1 tir
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnTerrorEgg1Tir
@@ -1362,7 +1353,6 @@
   id: ActionSpawnTerrorEgg1Tir
   name: Spawnd egg 1 tir
   description: Lays an egg
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 160
@@ -1382,7 +1372,6 @@
   parent: LightImplantSpider 
   id: LightImplantSpiderTir2
   name: Spawnd egg 2 tir
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnTerrorEgg2Tir
@@ -1391,7 +1380,6 @@
   id: ActionSpawnTerrorEgg2Tir
   name: Spawnd egg 2 tir
   description: Lays an egg
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 300
@@ -1567,7 +1555,6 @@
   parent: LightImplantSpider 
   id: LightImplantSpiderTir2Queen
   name: Spawnd egg 2 tir
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnTerrorEgg2TirQueen
@@ -1576,7 +1563,6 @@
   id: ActionSpawnTerrorEgg2TirQueen
   name: Spawnd egg 2 tir
   description: Lays an egg
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 400
@@ -1596,7 +1582,6 @@
   parent: LightImplantSpider 
   id: LightImplantSpiderTir1Queen
   name: Spawnd egg 1 tir
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnTerrorEgg1TirQueen
@@ -1605,7 +1590,6 @@
   id: ActionSpawnTerrorEgg1TirQueen
   name: Spawnd egg 1 tir
   description: Lays an egg
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 220
@@ -1625,7 +1609,6 @@
   parent: LightImplantSpider 
   id: LightImplantSpiderTir3
   name: Spawnd egg 3 tir
-  noSpawn: true
   components:
     - type: SubdermalImplant
       implantAction: ActionSpawnTerrorEgg3Tir
@@ -1634,7 +1617,6 @@
   id: ActionSpawnTerrorEgg3Tir
   name: Spawnd egg 3 tir
   description: Lays an egg
-  noSpawn: true
   components:
   - type: WorldTargetAction
     useDelay: 1600
