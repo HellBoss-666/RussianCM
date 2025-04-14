@@ -282,15 +282,15 @@
         Blunt: 0.5
         Slash: 0.5
         Piercing: 0.7 
-        Heat: 0.8
+        Heat: 0.4
         Cold: 0.8
         Shock: 0.9
-        Radiation: 0.8
+        Radiation: 0.1
         Caustic: 0.8
         Stamina: 0.7 
   - type: ClothingSpeedModifier
-    walkModifier: 0.7
-    sprintModifier: 0.7
+    walkModifier: 0.6
+    sprintModifier: 0.6
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetModsuitArgonSealed
     requiredSlot: outerClothing
@@ -322,9 +322,10 @@
     grid:
     - 0,0,10,6
   - type: PointLight
-    color: "#ff2400"
+    color: "#30d5c8"
     enabled: false
     mask: /Textures/Effects/LightMasks/cone.png
+    energy: 0.2
     radius: 12
     softness: 20
     autoRot: true
