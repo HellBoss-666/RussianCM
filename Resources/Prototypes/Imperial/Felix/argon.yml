@@ -289,8 +289,8 @@
         Caustic: 0.8
         Stamina: 0.7 
   - type: ClothingSpeedModifier
-    walkModifier: 0.6
-    sprintModifier: 0.6
+    walkModifier: 0.5
+    sprintModifier: 0.5
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetModsuitArgonSealed
     requiredSlot: outerClothing
