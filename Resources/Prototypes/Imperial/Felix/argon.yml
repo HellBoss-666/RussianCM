@@ -78,8 +78,8 @@
 
 - type: entity
   parent: UnsensoredClothingUniformBase
-  id: ArgonMercJumpsuitUnsensored
-  name: комбинезон Аргона
+  id: ArgonLeadMercJumpsuitUnsensored
+  name: комбинезон короля Аргона
   suffix: ArgonPrime
   description: Почётный комбинезон короля клана Аргон
   components:
