@@ -93,7 +93,8 @@
     state: icon
   - type: StorageFill
     contents:
-      - id: ClothingNeckTieDet
+      - id: ForensicPad
+      - id: ForensicPad
 
 # Фумо @buhoj_med
 
