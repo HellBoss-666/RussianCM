@@ -25,3 +25,6 @@
     containers:
       ballistic-ammo: !type:Container
         ents: []
+  - type: ClothingFactionExplosion
+    friendlyFaction: DeathSquad
+    chance: 1
