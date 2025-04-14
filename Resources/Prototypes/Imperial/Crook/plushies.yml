@@ -84,7 +84,7 @@
   id: PlushieErika
   name: Эрика Штейнхофер
   suffix: Crook, COMMUNITY, TOY
-  description: 
+  description: Не верит в совпадения. Особенно когда пассажир стоит рядом с телом
   components:
   - type: Item
     size: Small
