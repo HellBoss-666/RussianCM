@@ -1,4 +1,4 @@
-delivery-recipient-examine = Это письмо предназначено для {$recipient}, {$job}.
+delivery-recipient-examine = Это предназначено для {$recipient}, {$job}.
 delivery-already-opened-examine = Это уже открыто.
 delivery-recipient-no-name = Безымянный
 delivery-recipient-no-job = Неизвестный
