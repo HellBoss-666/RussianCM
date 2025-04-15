@@ -112,6 +112,22 @@
     contents:
       - id: SyringeEphedrine
 
+- type: entity
+  parent: BasePlushieCharacter
+  id: PlushieKainov
+  name: Александр Каинов
+  suffix: Crook, COMMUNITY, TOY
+  description: Он из тех кто напомнит вам, что доблесть превосходит количество, а верность своей Родине не оценивается количеством текущих проблем.
+  components:
+  - type: Item
+    size: Small
+  - type: Sprite
+    sprite: Imperial/Crook/Plushie/alexandrkainov.rsi
+    state: icon
+  - type: StorageFill
+    contents:
+      - id: CartridgePistol
+
 # Фумо @buhoj_med
 
 # Datasets for Fumo
