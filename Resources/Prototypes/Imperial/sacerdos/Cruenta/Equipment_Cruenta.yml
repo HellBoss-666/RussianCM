@@ -1,5 +1,4 @@
 - type: entity
-  noSpawn: false
   parent: MobHuman
   id: CruentaLeadersODTPreset
   name: Special-Leaders-nam
@@ -45,7 +44,6 @@
         - skillNeuroSurgery
 
 - type: entity
-  noSpawn: false
   parent: MobHuman
   id: fightCruentaODTPreset
   name: Special-Cruenta-Officer-nam
@@ -91,7 +89,6 @@
         - skillNeuroSurgery
   
 - type: entity
-  noSpawn: false
   parent: MobHuman
   id: MedCruentaODTPreset
   name: Special-med-nam
