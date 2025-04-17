@@ -11,6 +11,5 @@
     quickEquip: true
 
 - type: entity
-  noSpawn: true
   id: ClothingOuterHardsuitEVAExpclothing
   parent: ClothingOuterHardsuitEVA
