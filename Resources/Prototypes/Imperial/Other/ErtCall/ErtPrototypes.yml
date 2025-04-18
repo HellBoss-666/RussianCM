@@ -213,11 +213,16 @@
   id: DeathSquad
   hostile:
   - NanoTrasen
+  - RiotControlUnit
   - Syndicate
   - Passive
   - PetsNT
   - Zombie
   - Revolutionary
+  - Dragon
+  - SimpleHostile
+  - SyndicateAgent
+  - Wizard # Обновление фракци ЭС
 #DEAD SQUAD END
 
 
