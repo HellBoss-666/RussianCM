@@ -4,10 +4,11 @@ using Robust.Shared.GameStates;
 
 namespace Content.Shared.Borgs.Imperial;
 
-[RegisterComponent, NetworkedComponent]
-public sealed partial class BorgHandsImperialSecurityComponent : Component // Компонент для СБ борга Империала
+[RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
+public sealed partial class BorgHandsImperialComponent : Component // Компонент для вайтлиста боргов Империала
 {
-    // Этот компонент не содержит никаких данных, он просто служит маркером.
+    [DataField("whitelistHandTag"), AutoNetworkedField]
+    public string WhitelistHandTag { get; set; } = string.Empty; // Поле для ввода кастомного тега
 }
 
 public sealed partial class BorgHandsImperialSystem : EntitySystem
@@ -18,13 +19,16 @@ public sealed partial class BorgHandsImperialSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<BorgHandsImperialSecurityComponent, PickupAttemptEvent>(OnPickupAttempt);
+        SubscribeLocalEvent<BorgHandsImperialComponent, PickupAttemptEvent>(OnPickupAttempt);
     }
 
 
-    public void OnPickupAttempt(EntityUid uid, BorgHandsImperialSecurityComponent component, PickupAttemptEvent args)
+    public void OnPickupAttempt(EntityUid uid, BorgHandsImperialComponent component, PickupAttemptEvent args)
     {
-        if (_tagSystem.HasAnyTag(args.Item, "SecurityBorgItem")) return;
+        if (_tagSystem.HasAnyTag(args.Item, component.WhitelistHandTag))
+        {
+            return;
+        }
 
         args.Cancel();
     }

@@ -37,7 +37,8 @@
      0: Alive
      200: Critical
      300: Dead
-  - type: BorgHandsImperialSecurity
+  - type: BorgHandsImperial
+    whitelistHandTag: SecurityBorgItem
 
   radioChannels:
   - Security
