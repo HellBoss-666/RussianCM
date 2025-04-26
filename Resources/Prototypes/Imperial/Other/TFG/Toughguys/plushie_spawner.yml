@@ -17,6 +17,7 @@
         - PlushieSOGift
         - PlushieIAAGift
         - PlushieYeseniaGift
+        - PlushieBMGift
       rareChance: 0.15
       prototypes:
         - PlushieCapitan
@@ -43,6 +44,7 @@
         - PlushieAiden
         - PlushieKainov
         - PlushieYesenia
+        - PlushieBM
 
       chance: 0.75
       offset: 0.10
