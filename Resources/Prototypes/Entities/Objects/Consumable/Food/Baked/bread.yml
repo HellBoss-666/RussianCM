@@ -22,8 +22,6 @@
         reagents:
         - ReagentId: Nutriment
           Quantity: 20
-  - type: StaticPrice
-    price: 250 # Imperial Space Prices
 
 - type: entity
   parent: FoodBreadBase

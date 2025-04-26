@@ -30,8 +30,6 @@
   - type: Tag
     tags:
     - Pie
-  - type: StaticPrice
-    price: 500 # Imperial Space Prices
 
 - type: entity
   parent: FoodInjectableBase # Not sliceable
