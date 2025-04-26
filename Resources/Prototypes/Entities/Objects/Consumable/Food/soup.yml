@@ -62,7 +62,7 @@
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
   - type: StaticPrice
-    price: 750 # Imperial Space Prices
+    price: 500 # Imperial Space Prices
 
 # Custom Soup Example
 
