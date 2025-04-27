@@ -19,22 +19,23 @@
     - type: MobThresholds
       thresholds:
         0: Alive
-        100: Dead
+        400: Dead
     - type: MovementSpeedModifier
       baseWalkSpeed: 3
       baseSprintSpeed: 2
-    - type: NpcFactionMember
-      factions:
-        - SimpleHostile
     - type: HTN
       rootTask:
         task: SimpleHostileCompound
     - type: TimedDespawn
-      lifetime: 240
+      lifetime: 10
+    - type: SpawnOnDespawn
+      prototype: MedievalLightSphereDespawnEffect
     - type: Tag
       tags:
       - DoorBumpOpener
       - FootstepSound
     - type: FootstepModifier
       footstepSoundCollection:
-        path: /Audio/Imperial/Witchers/FootstepWitchersVendigo.ogg
+       collection: FootstepClown
+       params:
+        variation: 0.17

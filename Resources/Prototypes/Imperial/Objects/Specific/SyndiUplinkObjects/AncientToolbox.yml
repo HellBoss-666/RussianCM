@@ -1,19 +1,18 @@
 - type: entity
   name: Toolbox
-  parent: ToolboxBase
+  parent: ToolboxEmergency
   id: AncientToolbox
-  description: A stun baton for incapacitating people with. Actively harming with this is considered bad tone.
+  description: A toolbox typically stocked with electrical gear.
   components:
   - type: Sprite
-    sprite: Textures/Imperial/Objects/Fun/AncientToolbox.rsi
+    sprite: /Textures/Imperial/Objects/Fun/AncientToolbox.rsi
+    state: icon
   - type: Item
-    sprite: Textures/Imperial/Objects/Fun/AncientToolbox.rsi
-  - type: DamageModifierByItem
+    sprite: /Textures/Imperial/Objects/Fun/AncientToolbox.rsi
+  - type: DamageModifierByItemComponent
     itemIds:
-      - "Telecrystal"
-      - "Telecrystal1"
-      - "Telecrystal5"
-      - "Telecrystal10"
+     - "Telecrystal"
     damage:
-      types:
-        Blunt: 30
+     damage:
+       - type: Blunt
+         amount: 2

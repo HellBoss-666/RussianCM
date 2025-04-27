@@ -8,7 +8,6 @@ namespace Content.Server.Damage.Components
     [RegisterComponent]
     public sealed partial class DamageModifierByItemComponent : Component
     {
-
         [DataField("itemIds")]
         public List<string> ItemIds = new();
 
