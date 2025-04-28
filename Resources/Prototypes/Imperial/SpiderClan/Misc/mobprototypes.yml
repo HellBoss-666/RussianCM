@@ -2,7 +2,7 @@
 
 - type: entity
   name: Space Ninja
-  suffix: Crook, SpiderClan
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
   parent: MobHuman
   id: GreenSpaceNinja
   components:
@@ -28,7 +28,7 @@
 
 - type: entity
   name: Space Ninja
-  suffix: Crook, SpiderClan
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
   parent: MobHuman
   id: RedSpaceNinja
   components:
@@ -54,7 +54,7 @@
 
 - type: entity
   name: Space Ninja
-  suffix: Crook, SpiderClan
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
   parent: MobHuman
   id: BlueSpaceNinja
   components:
