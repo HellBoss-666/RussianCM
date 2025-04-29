@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Content.Shared.Damage.Components;
 using Content.Shared.Storage;
+using Content.Shared.Stacks;
 using Robust.Shared.Containers;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
@@ -28,7 +29,7 @@ namespace Content.Server.Damage
             if (storage.Container == null || storage.Container.ContainedEntities.Count == 0)
                 return;
 
-            var count = 0;
+            FixedPoint2 totalCount = FixedPoint2.Zero;
 
             foreach (var entity in storage.Container.ContainedEntities)
             {
@@ -40,16 +41,23 @@ namespace Content.Server.Damage
                 if (protoId == null)
                     continue;
 
-                if (protoId.StartsWith(component.TargetItemBaseId, System.StringComparison.OrdinalIgnoreCase))
+                if (!protoId.StartsWith(component.TargetItemBaseId, System.StringComparison.OrdinalIgnoreCase))
+                    continue;
+
+                if (_entityManager.TryGetComponent(entity, out StackComponent? stack))
                 {
-                    count++;
+                    totalCount += (FixedPoint2)stack.Count;
+                }
+                else
+                {
+                    totalCount += (FixedPoint2)1;
                 }
             }
 
-            if (count == 0)
+            if (totalCount == FixedPoint2.Zero)
                 return;
 
-            FixedPoint2 totalIncrease = component.DamageIncrease * count;
+            FixedPoint2 totalIncrease = component.DamageIncrease * totalCount;
 
             var newDamageDict = new Dictionary<string, FixedPoint2>(args.Damage.DamageDict);
 

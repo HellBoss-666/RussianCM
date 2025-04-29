@@ -12,6 +12,6 @@
   - type: EntityStorage
     capacity: 10
   - type: DamageModifierStorage
-    damageIncrease: 2
+    damageIncrease: 1.5
     targetItemBaseId: "telecrystal"
 

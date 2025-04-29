@@ -6,9 +6,9 @@
   productEntity: WeaponPieCannonClown
   discountCategory: rareDiscounts
   discountDownTo:
-    Telecrystal: 5
+    Telecrystal: 8
   cost:
-    Telecrystal: 7
+    Telecrystal: 10
   categories:
   - UplinkJob
   conditions:
@@ -25,7 +25,7 @@
   discountDownTo:
     Telecrystal: 3
   cost:
-    Telecrystal: 5
+    Telecrystal: 4
   categories:
   - UplinkJob
   conditions:
