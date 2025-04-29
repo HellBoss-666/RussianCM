@@ -1,5 +1,5 @@
 - type: entity
-  name: Toolbox
+  name: ТУЛБОКСПН
   parent: ToolboxEmergency
   id: AncientToolbox
   description: A toolbox typically stocked with electrical gear.
@@ -9,10 +9,9 @@
     state: icon
   - type: Item
     sprite: /Textures/Imperial/Objects/Fun/AncientToolbox.rsi
-  - type: DamageModifierByItemComponent
-    itemIds:
-     - "Telecrystal"
-    damage:
-     damage:
-       - type: Blunt
-         amount: 2
+  - type: EntityStorage
+    capacity: 10
+  - type: DamageModifierStorage
+    damageIncrease: 2
+    targetItemBaseId: "telecrystal"
+
