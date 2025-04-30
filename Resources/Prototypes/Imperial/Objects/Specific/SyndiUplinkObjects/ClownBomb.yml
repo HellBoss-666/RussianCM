@@ -1,29 +1,11 @@
 - type: entity
-  parent: ScatteringGrenadeBase
+  parent: [GrenadeBase, ScatteringGrenadeBase]
   id: ClownBombUplink
   name: foam dart grenade
   description: Releases a bothersome spray of foam darts that cause severe welching.
   components:
     - type: Sprite
       sprite: Imperial/Objects/Fun/ClownBomb.rsi
-      layers:
-        - state: syndicate-bomb
-        - state: syndicate-bomb-active
-          visible: false
-          map: ["primed"]
-        - state: syndicate-bomb-wires
-          visible: false
-          map: ["enum.WiresVisualLayers.MaintenancePanel"]
-    - type: GenericVisualizer
-      visuals:
-        enum.DefusableVisuals.Active:
-          primed:
-            True: { visible: true }
-            False: { visible: false }
-        enum.WiresVisualLayers.MaintenancePanel:
-          enum.WiresVisualLayers.MaintenancePanel:
-            True: { visible: true }
-            False: { visible: false }
     - type: ScatteringGrenade
       fillPrototype: ClownParten
       capacity: 30
@@ -32,7 +14,7 @@
       sound:
         path: /Audio/Weapons/Guns/Gunshots/batrifle.ogg
     - type: PointLight
-      color: "#fb18f4"
+      color: "#f00ee9"
       radius: 1.1
       softness: 1
     - type: OnUseTimerTrigger

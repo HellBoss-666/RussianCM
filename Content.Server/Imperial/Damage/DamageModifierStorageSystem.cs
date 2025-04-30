@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Content.Shared.Damage.Components;
+using Content.Shared.Imperial.Damage.Components;
 using Content.Shared.Storage;
 using Content.Shared.Stacks;
 using Robust.Shared.Containers;
@@ -9,7 +9,7 @@ using Robust.Shared.Utility;
 using Content.Shared.FixedPoint;
  using Content.Shared.Weapons.Melee.Events;
 
-namespace Content.Server.Damage
+namespace Content.Server.Imperial.Damage
 {
     public sealed class DamageModifierStorageSystem : EntitySystem
     {

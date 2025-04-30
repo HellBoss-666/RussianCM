@@ -2,7 +2,7 @@ using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
 
-namespace Content.Shared.Damage.Components
+namespace Content.Shared.Imperial.Damage.Components
 {
     /// <summary>
     /// Component that modifies melee damage based on the quantity of a specific item inside the entity's storage.
