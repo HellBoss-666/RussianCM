@@ -9,11 +9,12 @@
     - state: base
       map: ["enum.GunVisualLayers.Base"]
   - type: Item
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/SVUMkI-inhand.rsi
     size: Large
     shape:
     - 0,0,3,2
   - type: Clothing
-    sprite: Imperial/DeadSector/weapons/weapons/sniper/SVUMkI.rsi
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/SVUMkI-inhand.rsi
     quickEquip: false
     slots:
     - Back
@@ -51,11 +52,12 @@
     - state: base
       map: ["enum.GunVisualLayers.Base"]
   - type: Item
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/WeaponSniperSVUMkII-inhand.rsi
     size: Large
     shape:
     - 0,0,2,2
   - type: Clothing
-    sprite: Imperial/DeadSector/weapons/weapons/sniper/WeaponSniperSVUMkII.rsi
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/WeaponSniperSVUMkII-inhand.rsi
     quickEquip: false
     slots:
     - Back
@@ -93,11 +95,12 @@
     - state: base
       map: ["enum.GunVisualLayers.Base"]
   - type: Item
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/WeaponSniperSVD-inhand.rsi
     size: Large
     shape:
     - 0,0,3,2
   - type: Clothing
-    sprite: Imperial/DeadSector/weapons/weapons/sniper/WeaponSniperSVD.rsi
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/WeaponSniperSVD-inhand.rsi
     quickEquip: false
     slots:
     - Back
@@ -132,11 +135,12 @@
     - state: base
       map: ["enum.GunVisualLayers.Base"]
   - type: Item
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/VSSMkI-inhand.rsi
     size: Large
     shape:
     - 0,0,3,2
   - type: Clothing
-    sprite: Imperial/DeadSector/weapons/weapons/sniper/VSSMkI.rsi
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/VSSMkI-inhand.rsi
     quickEquip: false
     slots:
     - Back
@@ -174,11 +178,12 @@
     - state: base
       map: ["enum.GunVisualLayers.Base"]
   - type: Item
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/VSSMkII-inhand.rsi
     size: Large
     shape:
     - 0,0,3,2
   - type: Clothing
-    sprite: Imperial/DeadSector/weapons/weapons/sniper/VSSMkII.rsi
+    sprite: Imperial/DeadSector/weapons/weapons/sniper/VSSMkII-inhand.rsi
     quickEquip: false
     slots:
     - Back
