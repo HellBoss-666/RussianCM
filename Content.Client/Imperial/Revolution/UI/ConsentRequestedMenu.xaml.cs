@@ -9,6 +9,7 @@ public sealed partial class ConsentRequestedMenu : FancyWindow
 {
     public event Action? OnAccept;
     public event Action? OnDeny;
+
     public ConsentRequestedMenu()
     {
         RobustXamlLoader.Load(this);
@@ -18,9 +19,15 @@ public sealed partial class ConsentRequestedMenu : FancyWindow
         DenyButton.OnPressed += _ => OnDeny?.Invoke();
     }
 
+    /// <summary>
+    /// Устанавливает имя конвертера в тексте окна
+    /// </summary>
+    /// <param name="text">Имя конвертера</param>
     public void SetConverterName(string? text)
     {
-        MessageText.Text = text == null ? Loc.GetString("rev-consent-window-convert-text-no-user") : Loc.GetString("rev-consent-window-convert-text", ("user", text));
+        MessageText.Text = text == null
+            ? Loc.GetString("rev-consent-window-convert-text-no-user")
+            : Loc.GetString("rev-consent-window-convert-text", ("user", text));
     }
 }
 

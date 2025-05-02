@@ -6,43 +6,50 @@ namespace Content.Server.Imperial.Revolutionary.Components;
 public sealed partial class ConsentRevolutionaryComponent : Component
 {
     /// <summary>
-    /// Другой участник запроса на обращение. Если null, сущность не находится в процессе запроса.
+    /// Другой участник запроса на обращение. Если null, значит сущность не участвует в запросе.
     /// </summary>
-    [DataField] public EntityUid? OtherMember;
+    [DataField]
+    public EntityUid? OtherMember;
 
     /// <summary>
     /// Является ли сущность инициатором обращения.
     /// Если false, значит сущность запрашивает преобразование.
     /// </summary>
-    [DataField] public bool IsConverter = false;
+    [DataField]
+    public bool IsConverter = false;
 
     /// <summary>
-    /// Окно интерфейса для подтверждения обращения
+    /// Окно интерфейса подтверждения обращения
     /// </summary>
     public ConsentRequestedEui? Window;
 
     /// <summary>
-    /// Время последнего запроса на превращение в революционера
+    /// Время начала последнего запроса на обращение
     /// </summary>
-    [DataField] public TimeSpan? RequestStartTime;
+    [DataField]
+    public TimeSpan? RequestStartTime;
 
     /// <summary>
-    /// Таймаут для ответа на запрос обращения
+    /// Таймаут ожидания ответа на запрос обращения
     /// </summary>
-    [DataField] public TimeSpan ResponseTime = TimeSpan.FromSeconds(30);
+    [DataField]
+    public TimeSpan ResponseTime = TimeSpan.FromSeconds(30);
 
     /// <summary>
-    /// Период блокировки повторных запросов после отказа
+    /// Время блокировки повторных запросов после отказа
     /// </summary>
-    [DataField] public TimeSpan RequestBlockTime = TimeSpan.FromMinutes(5);
+    [DataField]
+    public TimeSpan RequestBlockTime = TimeSpan.FromMinutes(5);
 
     /// <summary>
-    /// Период блокировки новых запросов после успешного обращения
+    /// Время блокировки новых запросов после успешного обращения
     /// </summary>
-    [DataField] public TimeSpan ConversionBlockTime = TimeSpan.FromMinutes(2);
+    [DataField]
+    public TimeSpan ConversionBlockTime = TimeSpan.FromMinutes(2);
 
     /// <summary>
     /// Максимальная дистанция для взаимодействия при запросе
     /// </summary>
-    [DataField] public float MaxDistance = 3f;
+    [DataField]
+    public float MaxDistance = 3f;
 }

@@ -35,8 +35,8 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
     [Dependency] private readonly SharedTransformSystem _transform = default!;
     [Dependency] private readonly StatusEffectsSystem _status = default!;
 
-    private float _accumulator = 0;
-    private const float AccumulatorTreshold = 1f;
+    private float _accumulator = 0f;
+    private const float AccumulatorThreshold = 1f;
 
     public const string RevConvertDeniedStatusEffect = "RevConversionDenied";
     public const string RevConvertCooldownStatusEffect = "RevConversionCooldown";
@@ -44,6 +44,7 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
     public override void Initialize()
     {
         base.Initialize();
+
         SubscribeLocalEvent<HeadRevolutionaryComponent, GetVerbsEvent<InnateVerb>>(OnInnateVerb);
         SubscribeLocalEvent<ConsentRevolutionaryComponent, MobStateChangedEvent>(OnMobStateChanged);
         SubscribeLocalEvent<ConsentRevolutionaryComponent, MindRemovedMessage>(OnMindRemoved);
@@ -51,23 +52,24 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
         SubscribeLocalEvent<ConsentRevolutionaryComponent, RemoveConversionDeniedAlertEvent>(OnRemoveConversionDeniedAlert);
     }
 
-    private void OnRemoveConversionDeniedAlert(Entity<ConsentRevolutionaryComponent> ent, ref RemoveConversionDeniedAlertEvent args)
+    private void OnRemoveConversionDeniedAlert(Entity<ConsentRevolutionaryComponent> entity, ref RemoveConversionDeniedAlertEvent args)
     {
-        _status.TryRemoveStatusEffect(ent.Owner, RevConvertDeniedStatusEffect);
+        _status.TryRemoveStatusEffect(entity.Owner, RevConvertDeniedStatusEffect);
     }
 
     private void OnInnateVerb(EntityUid uid, HeadRevolutionaryComponent comp, GetVerbsEvent<InnateVerb> args)
     {
-        // Check if it's something convertable.
+        // Проверяем, можно ли конвертировать цель
         if (!comp.OnlyConsentConvert
             || !comp.ConvertAbilityEnabled
             || !args.CanAccess
             || !args.CanInteract
             || HasComp<RevolutionaryComponent>(args.Target)
             || !_mobState.IsAlive(args.Target)
-            || HasComp<ZombieComponent>(args.Target)
-            )
+            || HasComp<ZombieComponent>(args.Target))
+        {
             return;
+        }
 
         if (IsInConversionProcess(args.Target) || IsInConversionProcess(args.User))
             return;
@@ -75,16 +77,18 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
         var alwaysConvertible = HasComp<AlwaysRevolutionaryConvertibleComponent>(args.Target);
 
         if ((!HasComp<HumanoidAppearanceComponent>(args.Target) ||
-             !_mind.TryGetMind(args.Target, out var mindId, out var mind)
-            ) && !alwaysConvertible)
+             !_mind.TryGetMind(args.Target, out var mindId, out var mind))
+            && !alwaysConvertible)
+        {
             return;
+        }
 
-        // Initializing verb
         InnateVerb verb;
+
         if (HasComp<ConsentRevolutionaryCooldownComponent>(args.User))
         {
-            // Verb in case if converter have cooldown
-            verb = new InnateVerb()
+            // Если у конвертера есть кулдаун, показываем неактивный глагол
+            verb = new InnateVerb
             {
                 Disabled = true,
                 Text = Loc.GetString("rev-verb-consent-convert-text"),
@@ -94,12 +98,12 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
         }
         else
         {
-            // Actual conversion verb
-            verb = new InnateVerb()
+            // Активный глагол для обращения
+            verb = new InnateVerb
             {
                 Act = () =>
                 {
-                    // Don't let convert people that denied request recently
+                    // Запрещаем конвертацию, если цель недавно отказала
                     if (TryComp<ConsentRevolutionaryDenyComponent>(args.Target, out var denyComponent))
                     {
                         _popup.PopupEntity(
@@ -109,8 +113,7 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
                         return;
                     }
 
-                    // We don't hide verb if person has mindshield/command protection because that reveals it.
-                    // If verb was used in this situation, conversion will not proceed and both players will be alerted about.
+                    // Не скрываем глагол, если у цели есть mindshield или командная защита, чтобы не раскрывать механику
                     if (HasComp<MindShieldComponent>(args.Target) ||
                         HasComp<CommandStaffComponent>(args.Target))
                     {
@@ -118,8 +121,7 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
                             Loc.GetString("rev-consent-convert-attempted-to-be-converted", ("user", Identity.Entity(args.User, EntityManager))),
                             args.User,
                             args.Target,
-                            PopupType.MediumCaution
-                        );
+                            PopupType.MediumCaution);
                         _popup.PopupEntity(
                             Loc.GetString("rev-consent-convert-failed", ("target", Identity.Entity(args.Target, EntityManager))),
                             args.Target,
@@ -128,7 +130,7 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
                         return;
                     }
 
-                    // Check that entity is still convertable
+                    // Проверяем, что цель все еще конвертируема
                     if (!_revRule.IsConvertable(args.Target))
                         return;
 
@@ -140,7 +142,6 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
             };
         }
 
-        // Add verb
         args.Verbs.Add(verb);
     }
 
@@ -148,44 +149,38 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
     {
         _accumulator += frameTime;
 
-        if (_accumulator >= AccumulatorTreshold)
-            _accumulator -= AccumulatorTreshold;
-        else
+        if (_accumulator < AccumulatorThreshold)
             return;
+
+        _accumulator -= AccumulatorThreshold;
 
         var query = EntityQueryEnumerator<ConsentRevolutionaryComponent>();
         while (query.MoveNext(out var uid, out var consentRev))
         {
             if (consentRev.IsConverter || consentRev.OtherMember == null)
-            {
                 continue;
-            }
 
-            // Convertor component
-            if (!TryComp<ConsentRevolutionaryComponent>(consentRev.OtherMember, out var convertorConsentRev))
+            if (!TryComp<ConsentRevolutionaryComponent>(consentRev.OtherMember, out var converterConsentRev))
             {
                 consentRev.OtherMember = null;
                 continue;
             }
 
-            // Check time
             if (consentRev.RequestStartTime != null &&
                 _timing.CurTime - consentRev.RequestStartTime > consentRev.ResponseTime)
             {
                 CancelRequest((uid, consentRev),
-                    (consentRev.OtherMember.Value, convertorConsentRev),
+                    (consentRev.OtherMember.Value, converterConsentRev),
                     reason: Loc.GetString("rev-consent-convert-failed-mid-convert-timeout"));
                 continue;
             }
 
-            // Check positions
             if (!_transform.InRange(Transform(uid).Coordinates,
                     Transform(consentRev.OtherMember.Value).Coordinates,
-                    consentRev.MaxDistance)
-                )
+                    consentRev.MaxDistance))
             {
                 CancelRequest((uid, consentRev),
-                    (consentRev.OtherMember.Value, convertorConsentRev),
+                    (consentRev.OtherMember.Value, converterConsentRev),
                     reason: Loc.GetString("rev-consent-convert-failed-mid-convert-out-of-range"));
                 continue;
             }
@@ -245,17 +240,15 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
     }
 
     /// <summary>
-    /// Request conversion to entity
+    /// Запрос на обращение сущности
     /// </summary>
-    /// <param name="target">Entity to request convert</param>
-    /// <param name="converter">Entity that requests convert</param>
+    /// <param name="target">Цель обращения</param>
+    /// <param name="converter">Инициатор обращения</param>
     public void RequestConsentConversionToEntity(EntityUid target, EntityUid converter)
     {
-        // Start conversion
         if (_mind.TryGetMind(target, out var consentMindId, out var _) &&
             _mind.TryGetSession(consentMindId, out var session))
         {
-            // Tell the converter that request was sent
             _popup.PopupEntity(
                 Loc.GetString("rev-consent-convert-requested", ("target", Identity.Entity(target, EntityManager))),
                 converter,
@@ -263,14 +256,12 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
 
             var window = new ConsentRequestedEui(target, converter, _revRule, this, _popup, EntityManager);
 
-            // For target
             var targetComp = EnsureComp<ConsentRevolutionaryComponent>(target);
             targetComp.OtherMember = converter;
             targetComp.Window = window;
             targetComp.RequestStartTime = _timing.CurTime;
             targetComp.IsConverter = false;
 
-            // For converter
             var converterComp = EnsureComp<ConsentRevolutionaryComponent>(converter);
             converterComp.OtherMember = target;
             converterComp.IsConverter = true;
@@ -279,7 +270,6 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
         }
         else
         {
-            // Entity doesn't have mind (not controlled by player) to give response, but it's still convertable without it. We'll consent for them
             _popup.PopupEntity(
                 Loc.GetString("rev-consent-convert-auto-accepted", ("target", Identity.Entity(target, EntityManager))),
                 converter,
@@ -289,16 +279,18 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
     }
 
     /// <summary>
-    /// Is entity is currently member of convert request.
+    /// Проверяет, находится ли сущность в процессе обращения
     /// </summary>
-    /// <param name="entity">Entity to check</param>
-    /// <returns></returns>
+    /// <param name="entity">Сущность для проверки</param>
+    /// <returns>True, если в процессе обращения</returns>
     public bool IsInConversionProcess(EntityUid entity)
-    {
-        return TryComp<ConsentRevolutionaryComponent>(entity, out var consentRev)
-               && consentRev.OtherMember != null;
-    }
+        => TryComp<ConsentRevolutionaryComponent>(entity, out var consentRev)
+           && consentRev.OtherMember != null;
 
+    /// <summary>
+    /// Применяет кулдаун к конвертеру после обращения
+    /// </summary>
+    /// <param name="converter">Компонент конвертера</param>
     public void ApplyConversionCooldown(Entity<ConsentRevolutionaryComponent> converter)
     {
         _status.TryAddStatusEffect<ConsentRevolutionaryCooldownComponent>(converter,
@@ -307,6 +299,10 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
             true);
     }
 
+    /// <summary>
+    /// Применяет блокировку обращения к цели после отказа
+    /// </summary>
+    /// <param name="target">Компонент цели</param>
     public void ApplyConversionDeny(Entity<ConsentRevolutionaryComponent> target)
     {
         _status.TryAddStatusEffect<ConsentRevolutionaryDenyComponent>(target,
@@ -316,31 +312,19 @@ public sealed class ConsentRevolutionarySystem : EntitySystem
     }
 
     /// <summary>
-    /// Cancels convert request.
+    /// Отменяет запрос на обращение
     /// </summary>
-    /// <param name="target">Entity that being requested to convert</param>
-    /// <param name="converter">Entity that requests convert</param>
-    /// <param name="doBlock">If request block should be applied after cancel</param>
-    /// <param name="reason">Reason for cancel that will be sent to players as popup. If null, nothing will be sent</param>
+    /// <param name="target">Цель запроса</param>
+    /// <param name="converter">Инициатор запроса</param>
+    /// <param name="reason">Причина отмены, показываемая в попапах</param>
     public void CancelRequest(Entity<ConsentRevolutionaryComponent> target, Entity<ConsentRevolutionaryComponent> converter, string? reason = null)
     {
-        // If reason of cancel specified, popup it to both members of conversion
         if (reason != null)
         {
-            _popup.PopupEntity(
-                reason,
-                target,
-                target,
-                PopupType.MediumCaution
-            );
-            _popup.PopupEntity(
-                reason,
-                converter,
-                converter,
-                PopupType.MediumCaution);
+            _popup.PopupEntity(reason, target, target, PopupType.MediumCaution);
+            _popup.PopupEntity(reason, converter, converter, PopupType.MediumCaution);
         }
 
-        // Reset components
         target.Comp.OtherMember = null;
 
         if (target.Comp.Window != null)

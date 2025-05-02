@@ -3,6 +3,7 @@
                       Title="{Loc 'rev-consent-window-convert-title'}">
     <BoxContainer Orientation="Vertical" Margin="5">
         <Label Name="MessageText" Align="Center" Text="{Loc 'rev-consent-window-convert-text-no-user'}"/>
+        <Label Name="WarningText" Align="Center" FontColorOverride="#af0c0c"  Text="{Loc 'rev-consent-window-convert-warning'}"/>
         <BoxContainer Orientation="Horizontal" Align="Center">
             <Button Name="AcceptButton" Text="{Loc 'rev-consent-window-convert-accept'}"/>
             <Button Name="DenyButton" Text="{Loc 'rev-consent-window-convert-deny'}"/>

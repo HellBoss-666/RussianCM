@@ -10,11 +10,29 @@ using Content.Shared.Popups;
 
 namespace Content.Server.Imperial.Revolutionary.UI;
 
-public sealed class ConsentRequestedEui(EntityUid target, EntityUid converter, RevolutionaryRuleSystem revRuleSystem, ConsentRevolutionarySystem consRevSystem, PopupSystem popup, EntityManager entManager) : BaseEui
+public sealed class ConsentRequestedEui : BaseEui
 {
+    private readonly EntityUid _target;
+    private readonly EntityUid _converter;
+    private readonly RevolutionaryRuleSystem _revRuleSystem;
+    private readonly ConsentRevolutionarySystem _consRevSystem;
+    private readonly PopupSystem _popup;
+    private readonly EntityManager _entManager;
+
+    public ConsentRequestedEui(EntityUid target, EntityUid converter, RevolutionaryRuleSystem revRuleSystem, ConsentRevolutionarySystem consRevSystem, PopupSystem popup, EntityManager entManager)
+    {
+        _target = target;
+        _converter = converter;
+        _revRuleSystem = revRuleSystem;
+        _consRevSystem = consRevSystem;
+        _popup = popup;
+        _entManager = entManager;
+    }
+
     public override EuiStateBase GetNewState()
     {
-        return new ConsentRequestedState(Identity.Name(converter, entManager));
+        // Возвращаем состояние с именем конвертера
+        return new ConsentRequestedState(Identity.Name(_converter, _entManager));
     }
 
     public override void Opened()
@@ -27,44 +45,44 @@ public sealed class ConsentRequestedEui(EntityUid target, EntityUid converter, R
     {
         base.HandleMessage(msg);
 
-        if (msg is ConsentRequestedEuiMessage consent && revRuleSystem.IsConvertable(target))
+        if (msg is ConsentRequestedEuiMessage consent && _revRuleSystem.IsConvertable(_target))
         {
-            if (!entManager.TryGetComponent<ConsentRevolutionaryComponent>(target, out var targetConsRev)
-                || !entManager.TryGetComponent<ConsentRevolutionaryComponent>(converter, out var consRev))
+            if (!_entManager.TryGetComponent<ConsentRevolutionaryComponent>(_target, out var targetConsRev)
+                || !_entManager.TryGetComponent<ConsentRevolutionaryComponent>(_converter, out var consRev))
             {
                 return;
             }
 
             if (consent.IsAccepted)
             {
-                // Make target a revolutionary
-                revRuleSystem.ConvertEntityToRevolution(target, converter);
+                // Преобразуем цель в революционера
+                _revRuleSystem.ConvertEntityToRevolution(_target, _converter);
 
-                // Remove request
-                consRevSystem.CancelRequest((target, targetConsRev), (converter, consRev));
+                // Удаляем запрос
+                _consRevSystem.CancelRequest(( _target, targetConsRev), ( _converter, consRev));
 
-                // Apply cooldown to convertor
-                consRevSystem.ApplyConversionCooldown((converter, consRev));
+                // Применяем кулдаун к конвертеру
+                _consRevSystem.ApplyConversionCooldown(( _converter, consRev));
 
-                // Announce that convert was successful
-                popup.PopupEntity(
-                    Loc.GetString("rev-consent-convert-accepted", ("target", Identity.Entity(target, entManager))),
-                    target,
-                    converter);
+                // Показываем уведомление об успешном обращении
+                _popup.PopupEntity(
+                    Loc.GetString("rev-consent-convert-accepted", ("target", Identity.Entity(_target, _entManager))),
+                    _target,
+                    _converter);
             }
             else
             {
-                // Cancel request with cooldown
-                consRevSystem.CancelRequest((target, targetConsRev), (converter, consRev));
+                // Отменяем запрос с применением блокировки
+                _consRevSystem.CancelRequest(( _target, targetConsRev), ( _converter, consRev));
 
-                // Apply conversion block to target
-                consRevSystem.ApplyConversionDeny((target, targetConsRev));
+                // Применяем блокировку обращения к цели
+                _consRevSystem.ApplyConversionDeny(( _target, targetConsRev));
 
-                // Announce that convert failed
-                popup.PopupEntity(
-                    Loc.GetString("rev-consent-convert-denied", ("target", Identity.Entity(target, entManager))),
-                    target,
-                    converter,
+                // Показываем уведомление об отказе
+                _popup.PopupEntity(
+                    Loc.GetString("rev-consent-convert-denied", ("target", Identity.Entity(_target, _entManager))),
+                    _target,
+                    _converter,
                     PopupType.SmallCaution);
             }
         }
