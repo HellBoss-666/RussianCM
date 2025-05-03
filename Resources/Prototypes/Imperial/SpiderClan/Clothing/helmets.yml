@@ -9,6 +9,17 @@
     sprite: Imperial/SpiderClan/Clothing/Default/Helmets/redninja.rsi
   - type: Clothing
     sprite: Imperial/SpiderClan/Clothing/Default/Helmets/redninja.rsi
+  #- type: ToggleClothing
+  #  action: ActionToggleNightVision
+  #- type: NightVisionVisor
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Red"
+  #  useNoise: "false"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
 
 - type: entity
   parent: ClothingHeadHelmetSpaceNinja
@@ -21,6 +32,17 @@
     sprite: Imperial/SpiderClan/Clothing/Default/Helmets/blueninja.rsi
   - type: Clothing
     sprite: Imperial/SpiderClan/Clothing/Default/Helmets/blueninja.rsi
+  #- type: ToggleClothing
+  #  action: ActionToggleNightVision
+  #- type: NightVisionVisor
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Blue"
+  #  useNoise: "false"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
 
 - type: entity
   parent: ClothingHeadHelmetSpaceNinja
@@ -33,6 +55,17 @@
     sprite: Imperial/SpiderClan/Clothing/Default/Helmets/greenninja.rsi
   - type: Clothing
     sprite: Imperial/SpiderClan/Clothing/Default/Helmets/greenninja.rsi
+  #- type: ToggleClothing
+  #  action: ActionToggleNightVision
+  #- type: NightVisionVisor
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Green"
+  #  useNoise: "false"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
 
 - type: entity
   parent: [ClothingHeadBase, BaseMajorContraband]
@@ -56,6 +89,17 @@
   - type: TemperatureProtection
     heatingCoefficient: 0.2
     coolingCoefficient: 0.2
+  #- type: ToggleClothing
+  #  action: ActionToggleNightVision
+  #- type: NightVisionVisor
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Red"
+  #  useNoise: "false"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
 
 - type: entity
   parent: [ClothingHeadBase, BaseMajorContraband]
@@ -79,6 +123,17 @@
   - type: TemperatureProtection
     heatingCoefficient: 0.2
     coolingCoefficient: 0.2
+  #- type: ToggleClothing
+  #  action: ActionToggleNightVision
+  #- type: NightVisionVisor
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Blue"
+  #  useNoise: "false"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
 
 - type: entity
   parent: [ClothingHeadBase, BaseMajorContraband]
@@ -102,3 +157,14 @@
   - type: TemperatureProtection
     heatingCoefficient: 0.2
     coolingCoefficient: 0.2
+  #- type: ToggleClothing
+  #  action: ActionToggleNightVision
+  #- type: NightVisionVisor
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Green"
+  #  useNoise: "false"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
