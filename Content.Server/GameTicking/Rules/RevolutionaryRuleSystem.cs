@@ -130,7 +130,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
     private void OnGetBriefing(EntityUid uid, RevolutionaryRoleComponent comp, ref GetBriefingEvent args)
     {
         var ent = args.Mind.Comp.OwnedEntity;
-        // Reserve-ConsentRev-Start
+        // Imperial-RevaConsent-Start
         if (TryComp<HeadRevolutionaryComponent>(ent, out var headComp))
         {
             args.Append(Loc.GetString(headComp.OnlyConsentConvert ? "head-rev-briefing-consent-only" : "head-rev-briefing"));
@@ -139,8 +139,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
         {
             args.Append(Loc.GetString("rev-briefing"));
         }
-        // Reserve-ConsentRev-End
-    }
+        // // Imperial-RevaConsent-End
 
     /// <summary>
     /// Called when a Head Rev uses a flash in melee to convert somebody else.
@@ -148,7 +147,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
     private void OnPostFlash(EntityUid uid, HeadRevolutionaryComponent comp, ref AfterFlashedEvent ev)
     {
 
-        if (comp.OnlyConsentConvert) // Reserve-ConsentRev
+        if (comp.OnlyConsentConvert) // # Imperial-RevaConsent
             return;
 
         var alwaysConvertible = HasComp<AlwaysRevolutionaryConvertibleComponent>(ev.Target);
