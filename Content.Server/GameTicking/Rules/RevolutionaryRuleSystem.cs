@@ -140,7 +140,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
             args.Append(Loc.GetString("rev-briefing"));
         }
         // // Imperial-RevaConsent-End
-
+    }
     /// <summary>
     /// Called when a Head Rev uses a flash in melee to convert somebody else.
     /// </summary>
