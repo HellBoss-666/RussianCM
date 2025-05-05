@@ -186,7 +186,7 @@
   description: "Распечатанный документ с заголовком отдела: юридический департамент"
   components:
     - type: Paper
-      content: doc-text-printer-iaa-report
+      content: doc-text-printer-rfi-report
 
 - type: entity
   parent: Paper

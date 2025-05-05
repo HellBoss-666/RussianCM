@@ -1,10 +1,22 @@
+# - type: entity
+#   id: SpawnPointIAA
+#   parent: SpawnPointJobBase
+#   name: IAA
+#   components:
+#   - type: SpawnPoint
+#     job_id: IAA
+#   - type: Sprite
+#     layers:
+#       - state: green
+#       - state: lawyer
+
 - type: entity
-  id: SpawnPointIAA
+  id: SpawnPointRFI
   parent: SpawnPointJobBase
-  name: IAA
+  name: RFI
   components:
   - type: SpawnPoint
-    job_id: IAA
+    job_id: RFI
   - type: Sprite
     layers:
       - state: green
@@ -18,9 +30,9 @@
     state: RFI
 
 - type: job
-  id: IAA
-  name: job-name-iaa
-  playTimeTracker: JobIAA
+  id: RFI
+  name: job-name-rfi
+  playTimeTracker: JobIAA # Legacy. Оставлено, чтобы не сбивать таймер у людей, наигравших на АВД/РФИ
   requirements:
     - !type:RoleTimeRequirement
       role: JobLawyer
@@ -52,5 +64,5 @@
     id: RFIPDA
     ears: ClothingHeadsetRFI
 
-- type: playTimeTracker
+- type: playTimeTracker # Legacy. Трекер оставлен как IAA, чтобы у людей не сбивалось наигранное время для АВД/РФИ
   id: JobIAA

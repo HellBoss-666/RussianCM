@@ -1,6 +1,6 @@
-job-name-iaa = Агент Внутренних Дел
+job-name-rfi = Региональный фронтир инспектор
 
-JobIAA = агент внутренних дел
+JobRFI = Региональный фронтир инспектор
 
 ent-ClothingBackpackRFIFilled = рюкзак РФИ
     .desc = { ent-ClothingBackpack.desc }
@@ -36,6 +36,8 @@ ent-BriefcaseRFIFilled = чемодан РФИ
 ent-SpawnPointIAA = АВД
     .desc = {SpawnPointJobBase.desc}
 
+ent-SpawnPointRFI = РФИ
+    .desc = {SpawnPointJobBase.desc}
 
 ent-ClothingUniformJumpsuitRFI = комбинезон регионального фронтир инспектора
     .desc = От него пахнет бумагой и бюрократией. Это может вогнать некоторых в ужас.
@@ -55,12 +57,11 @@ ent-ClothingHeadRFI = шляпа РФИ
 stamp-component-stamped-name-rfi = Региональный Фронтир Инспектор
 
 ### Imperial Space @keeyn
-loadout-group-IAA-briefcase = РФИ, чемодан
-loadout-group-IAA-shoes = РФИ, обувь
+loadout-group-RFI-briefcase = РФИ, чемодан
+loadout-group-RFI-shoes = РФИ, обувь
 loadout-group-RFI-jumpsuit = РФИ, комбинезон
 loadout-group-RFI-backpack = РФИ, рюкзак
-loadout-group-IAA-glasses = РФИ, очки
+loadout-group-RFI-glasses = РФИ, очки
 loadout-group-RFI-coat = РФИ, пальто
 loadout-group-RFI-hat = РФИ, шляпа
-loadout-group-RFI-shoes = РФИ, обувь
 ### Imperial Space @keeyn

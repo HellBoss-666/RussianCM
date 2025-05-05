@@ -32,4 +32,4 @@
         - state: rficard
         - state: idrfi
     - type: PresetIdCard
-      job: IAA
+      job: RFI
