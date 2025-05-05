@@ -32,7 +32,7 @@
 - type: job
   id: RFI
   name: job-name-rfi
-  playTimeTracker: JobIAA # Legacy. Оставлено, чтобы не сбивать таймер у людей, наигравших на АВД/РФИ
+  playTimeTracker: JobRFI 
   requirements:
     - !type:RoleTimeRequirement
       role: JobLawyer
@@ -64,5 +64,5 @@
     id: RFIPDA
     ears: ClothingHeadsetRFI
 
-- type: playTimeTracker # Legacy. Трекер оставлен как IAA, чтобы у людей не сбивалось наигранное время для АВД/РФИ
-  id: JobIAA
+- type: playTimeTracker 
+  id: JobRFI
