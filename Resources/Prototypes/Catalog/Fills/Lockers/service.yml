@@ -88,8 +88,30 @@
   - type: StorageFill
     contents:
       - id: BriefcaseBrownFilled
-        prob: 0.80
+        prob: 0.8
       - id: ClothingOuterRobesJudge
+      - id: ClothingHeadHatPwig
+      - id: BookSpaceLaw
+      - id: ToyHammer
+      - id: Pen
+      - id: PlushieIsaac
+        prob: 0.3
+      - id: ToyFigurineLawyer
+        prob: 0.2
+      - id: BoxFolderRed
+        prob: 0.25
+        orGroup: Box
+      - id: BoxFolderYellow
+        prob: 0.25
+        orGroup: Box
+      - id: BoxFolderBlue
+        prob: 0.25
+        orGroup: Box
+      - id: BoxFolderGrey
+        prob: 0.25
+        orGroup: Box
+      - id: FoodBakedCaramelizedPaper
+        prob: 0.1
 
 - type: entity
   id: LockerBotanistFilled
