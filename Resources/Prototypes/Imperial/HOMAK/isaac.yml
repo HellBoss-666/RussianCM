@@ -36,6 +36,7 @@
   id: BriefcasePresentableAristocrat
   parent: BriefcasePresentable
   name: Aristocrat's suitcase
+  suffix: Filled
   description: An old and battered suitcase that had been rumored for a long time. Maybe you shouldn't touch it?
   components:
   - type: StorageFill
