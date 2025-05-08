@@ -200,4 +200,67 @@
   - type: Clothing
     sprite: Imperial\HOMAK\orangelawyer.rsi
 
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBowlerHatBrown
+  name: Brown hat
+  description: Stylish bowler hat.
+  components:
+  - type: Sprite
+    sprite: Imperial\HOMAK\bowler_hatold.rsi
+  - type: Clothing
+    sprite: Imperial\HOMAK\bowler_hatold.rsi
 
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBowlerOrange
+  name: Orange hat
+  description: Stylish bowler hat.
+  components:
+  - type: Sprite
+    sprite: Imperial\HOMAK\bowler_hatorange.rsi
+  - type: Clothing
+    sprite: Imperial\HOMAK\bowler_hatorange.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBowlerPink
+  name: Pink hat
+  description: Stylish bowler hat.
+  components:
+  - type: Sprite
+    sprite: Imperial\HOMAK\bowler_hatpink.rsi
+  - type: Clothing
+    sprite: Imperial\HOMAK\bowler_hatpink.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBowlerCool
+  name: Cool hat
+  description: Stylish bowler hat.
+  components:
+  - type: Sprite
+    sprite: Imperial\HOMAK\bowler_hatcool.rsi
+  - type: Clothing
+    sprite: Imperial\HOMAK\bowler_hatcool.rsi
+
+- type: entity
+  parent: ClothingBackpackDuffel
+  id: ClothingBackpackDuffelSetUniformLawye
+  name: A set of costumes for all occasions
+  description: Contains costumes for all occasions.
+  components:
+    - type: StorageFill
+      contents:
+      - id: ClothingUniformJumpsuitLawyerOld
+      - id: ClothingHeadHatBowlerHatBrown
+      - id: ClothingUniformJumpsuitLawyerOrange
+      - id: ClothingHeadHatBowlerOrange
+      - id: ClothingUniformJumpsuitLawyerCool
+      - id: ClothingHeadHatBowlerCool
+      - id: ClothingUniformJumpsuitLawyerStupid
+      - id: ClothingHeadHatBowlerPink
+      - id: ClothingUniformJumpsuitLawyerSporting
+      - id: ClothingUniformJumpsuitLawyerBrutal
+      - id: ClothingUniformJumpsuitLawyerLazy
+      - id: ClothingUniformJumpsuitLawyerStrange
