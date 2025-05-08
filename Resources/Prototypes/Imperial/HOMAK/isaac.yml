@@ -264,3 +264,36 @@
       - id: ClothingUniformJumpsuitLawyerBrutal
       - id: ClothingUniformJumpsuitLawyerLazy
       - id: ClothingUniformJumpsuitLawyerStrange
+
+
+- type: entity
+  parent: ClothingOuterCoatTrench
+  id: ClothingOuterCoatTrenchLawyer
+  name: Lawyer's Trench
+  description: A comfy trench coat.
+  components:
+  - type: Sprite
+    sprite: Imperial\HOMAK\trenchlawyer.rsi
+  - type: Clothing
+    sprite: Imperial\HOMAK\trenchlawyer.rsi
+  - type: StorageFill
+    contents:
+    - id: Pen
+    - id: PaperOffice
+      prob: 0.25
+      orGroup: bonus
+    - id: CigarGold
+      prob: 0.2
+      orGroup: bonus
+    - id: ToyFigurineLawyer
+      prob: 0.2
+      orGroup: bonus
+    - id: FlippoLighter
+      prob: 0.15
+      orGroup: bonus
+    - id: ClothingHeadHatTophat
+      prob: 0.1
+      orGroup: bonus
+    - id: PlushieIsaac
+      prob: 0.1
+      orGroup: bonus
