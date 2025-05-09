@@ -601,7 +601,7 @@
 
 - type: entity
   id: ElysiumBannerFlag
-  parent: BannerBase
+  parent: PosterBase
   name: знамя Элизиум Прайма
   suffix: 5ОКО
   description: Знамя великой федерации.
@@ -612,7 +612,7 @@
 
 - type: entity
   id: FifthEyeBannerFlag
-  parent: BannerBase
+  parent: PosterBase
   name: знамя 5-ого ОКА
   suffix: 5ОКО
   description: Знамя неизвестной вам организации.
