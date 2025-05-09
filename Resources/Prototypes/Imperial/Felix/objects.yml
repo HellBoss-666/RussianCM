@@ -600,7 +600,7 @@
   - type: Appearance
 
 - type: entity
-  id: ElysiumBanner
+  id: ElysiumBannerFlag
   parent: BannerBase
   name: знамя Элизиум Прайма
   suffix: 5ОКО
@@ -611,7 +611,7 @@
     state: elysium
 
 - type: entity
-  id: FifthEyeBanner
+  id: FifthEyeBannerFlag
   parent: BannerBase
   name: знамя 5-ого ОКА
   suffix: 5ОКО
