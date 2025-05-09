@@ -491,14 +491,14 @@
       cell_slot:
         name: power-cell-slot-component-slot-name-default
   #- type: NightVisionVisor
-  # overLayerDataPath: "/Textures/Effects/emp.rsi"
-  # overLayerDataState: "emp_pulse"
-  # color: "Green"
-  # useNoise: "true"
-  # maxOverlayRange: 10
-  # overlay: true
-  # useOverLayerData: true
-  # assaultOverLay: true
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Green"
+  #  useNoise: "true"
+  #  maxOverlayRange: 10
+  #  overlay: true
+  #  useOverLayerData: true
+  #  assaultOverLay: true
 
 - type: entity
   parent: ClothingHeadHelmetBase
@@ -529,8 +529,8 @@
       cell_slot:
         name: power-cell-slot-component-slot-name-default
   #- type: NightVisionVisor
-  # overLayerDataPath: "/Textures/Effects/emp.rsi"
-  # overLayerDataState: "emp_pulse"
-  # color: "Green"
-  # useNoise: "true"
-  # overlay: false
+  #  overLayerDataPath: "/Textures/Effects/emp.rsi"
+  #  overLayerDataState: "emp_pulse"
+  #  color: "Green"
+  #  useNoise: "true"
+  #  overlay: false
