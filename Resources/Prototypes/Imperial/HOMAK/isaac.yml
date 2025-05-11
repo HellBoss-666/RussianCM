@@ -297,3 +297,20 @@
     - id: PlushieIsaac
       prob: 0.1
       orGroup: bonus
+
+  - type: entity
+  id: BriefcaseLocker
+  parent: BriefcaseBrown
+  suffix: Filled
+  name: lawyer's Secure Briefcase
+  description: A lawyer's personal suitcase. Protected by access.
+  components:
+  - type: Appearance
+  - type: Lock
+  - type: LockVisuals
+  - type: AccessReader
+    access: [ [ "Lawyer" ] ]
+  - type: Sprite
+    sprite: Imperial\HOMAK\briefcaselocker.rsi
+  - type: Item
+    sprite: Imperial\HOMAK\briefcaselocker.rsi
