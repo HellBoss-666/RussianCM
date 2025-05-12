@@ -239,14 +239,14 @@
       max: 3
       playerRatio: 15
       briefing:
-        text: head-rev-role-greeting-consent-only # Imperial-RevaConsent
+        text: head-rev-role-greeting-consent-only # Imperial RevaConsent
         color: CornflowerBlue
         sound: "/Audio/Ambience/Antag/headrev_start.ogg"
-   #  startingGear: HeadRevGear  # Imperial-RevaConsent
+   #  startingGear: HeadRevGear  # Imperial RevaConsent
       components:
       - type: Revolutionary
       - type: HeadRevolutionary
-        onlyConsentConvert: true # Imperial-RevaConsent
+        onlyConsentConvert: true # Imperial RevaConsent
       mindRoles:
       - MindRoleHeadRevolutionary
 

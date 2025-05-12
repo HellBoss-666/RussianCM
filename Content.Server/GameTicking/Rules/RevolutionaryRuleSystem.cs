@@ -130,7 +130,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
     private void OnGetBriefing(EntityUid uid, RevolutionaryRoleComponent comp, ref GetBriefingEvent args)
     {
         var ent = args.Mind.Comp.OwnedEntity;
-        // Imperial-RevaConsent-Start
+        // Imperial RevaConsent Start
         if (TryComp<HeadRevolutionaryComponent>(ent, out var headComp))
         {
             args.Append(Loc.GetString(headComp.OnlyConsentConvert ? "head-rev-briefing-consent-only" : "head-rev-briefing"));
@@ -139,7 +139,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
         {
             args.Append(Loc.GetString("rev-briefing"));
         }
-        // // Imperial-RevaConsent-End
+        // // Imperial RevaConsent End
     }
     /// <summary>
     /// Called when a Head Rev uses a flash in melee to convert somebody else.
@@ -147,7 +147,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
     private void OnPostFlash(EntityUid uid, HeadRevolutionaryComponent comp, ref AfterFlashedEvent ev)
     {
 
-        if (comp.OnlyConsentConvert) // # Imperial-RevaConsent
+        if (comp.OnlyConsentConvert) // # Imperial RevaConsent
             return;
 
         var alwaysConvertible = HasComp<AlwaysRevolutionaryConvertibleComponent>(ev.Target);
@@ -328,7 +328,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
         // revs lost and heads died
         "rev-stalemate"
     };
-// Imperial-RevaConsent-Start
+// Imperial RevaConsent Start
     /// <summary>
     /// Преобразует сущность в революционера без проверки возможности преобразования.
     /// Внимание: Логика скопирована из обработчика события революционной вспышки.
@@ -410,5 +410,5 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
 
         return true;
     }
-    // Imperial-RevaConsent-End
+    // Imperial RevaConsent End
 }

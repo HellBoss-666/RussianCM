@@ -25,7 +25,7 @@ public sealed partial class HeadRevolutionaryComponent : Component
 
     public override bool SessionSpecific => true;
 
-  // Imperial-RevaConsent-Start
+  // Imperial RevaConsent Start
     /// <summary>
     /// Ограничивает конверсию главного революционера, требуя явного согласия целевого персонажа.
     /// Если true - преобразование возможно только через систему подтверждения с участием игрока.
@@ -37,5 +37,5 @@ public sealed partial class HeadRevolutionaryComponent : Component
     /// При false - функционал преобразования персонажей будет полностью отключен.
     /// </summary>
     [DataField] public bool ConvertAbilityEnabled = true;
-    // Imperial-RevaConsent-End
+    // Imperial RevaConsent End
 }
