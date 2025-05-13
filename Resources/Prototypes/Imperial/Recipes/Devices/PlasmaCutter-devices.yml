@@ -11,7 +11,7 @@
     Steel: 1000
     Glass: 700
     Plasma: 500
-    Gold: 100
+    Silver: 100
 
 - type: latheRecipePack
   id: SalvagePlasmaCutterWeapons
@@ -31,6 +31,7 @@
     Silver: 1000
     Plasma: 1000
     Glass: 500
+    Gold: 500
 
 - type: latheRecipePack
   id: SalvageAdvancedPlasmaCutterWeapons

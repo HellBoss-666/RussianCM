@@ -111,7 +111,7 @@
       types:
         Blunt: 1
         Piercing: 1
-        Heat: 5
+        Heat: 1
         Structural: 35
   - type: StaminaDamageOnCollide
     damage: 20
