@@ -87,7 +87,7 @@
   components:
   - type: StorageFill
     contents:
-      - id: BriefcaseBrownFilled
+      - id: BriefcaseBrownFilled // Imperial Space Updating_content Start
         prob: 0.8
       - id: ClothingOuterRobesJudge
       - id: ClothingHeadHatPwig
@@ -111,7 +111,7 @@
         prob: 0.25
         orGroup: Box
       - id: FoodBakedCaramelizedPaper
-        prob: 0.1
+        prob: 0.1 // Imperial Space Updating_content End
 
 - type: entity
   id: LockerBotanistFilled
