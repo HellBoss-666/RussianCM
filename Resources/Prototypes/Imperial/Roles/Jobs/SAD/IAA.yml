@@ -34,12 +34,9 @@
   name: job-name-rfi
   playTimeTracker: JobRFI 
   requirements:
-    - !type:RoleTimeRequirement
-      role: JobLawyer
-      time: 3600 #Imperial role timers
-    - !type:RoleTimeRequirement
-      role: JobWarden
-      time: 7200 #Imperial role timers
+    - !type:DepartmentTimeRequirement
+      department: Command
+      time: 18000 #Imperial role timers
   startingGear: RFIGear
   icon: "JobIconRFI"
   supervisors: job-supervisors-centcom
