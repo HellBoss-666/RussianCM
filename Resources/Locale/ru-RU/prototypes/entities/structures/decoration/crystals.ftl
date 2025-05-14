@@ -19,6 +19,6 @@ ent-CrystalCyan = голубой кристал
 ent-CrystalYellow = жёлтый кристал
     .desc = Обычный большой кристал
     .suffix = { "" }
-ent-CrystalYellow = черный кристал
+ent-CrystalBlack = черный кристал
     .desc = Обычный большой кристал
     .suffix = { "" }
