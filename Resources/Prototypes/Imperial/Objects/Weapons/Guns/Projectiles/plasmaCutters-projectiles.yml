@@ -24,7 +24,7 @@
         Blunt: 1
         Piercing: 1
         Heat: 5
-        Structural: 20
+        Structural: 35
   - type: StaminaDamageOnCollide
     damage: 15
   - type: TimedDespawn
@@ -112,7 +112,7 @@
         Blunt: 1
         Piercing: 1
         Heat: 1
-        Structural: 35
+        Structural: 55
   - type: StaminaDamageOnCollide
     damage: 20
   - type: TimedDespawn
