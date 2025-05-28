@@ -1,20 +1,19 @@
 # Space Ninja
 
 - type: entity
-  noSpawn: false
   name: Space Ninja
-  suffix: Crook, SpiderClan
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
   parent: MobHuman
   id: GreenSpaceNinja
   components:
   - type: RandomMetadata
     nameSegments:
-    - names_ninja_title
-    - names_ninja
+    - NamesNinjaTitle
+    - NamesNinja
   - type: Sprite
     netsync: false
     sprite: Markers/jobs.rsi
-    state: ertleadereva 
+    state: ertleadereva
   - type: Loadout
     prototypes: [ GreenNinja ]
   - type: NpcFactionMember
@@ -26,18 +25,17 @@
     - DeathAcidifierImplant
   - type: RandomHumanoidAppearance
     randomizeName: false
-    
+
 - type: entity
-  noSpawn: false
   name: Space Ninja
-  suffix: Crook, SpiderClan
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
   parent: MobHuman
   id: RedSpaceNinja
   components:
   - type: RandomMetadata
     nameSegments:
-    - names_ninja_title
-    - names_ninja
+    - NamesNinjaTitle
+    - NamesNinja
   - type: Sprite
     netsync: false
     sprite: Markers/jobs.rsi
@@ -55,22 +53,99 @@
     randomizeName: false
 
 - type: entity
-  noSpawn: false
   name: Space Ninja
-  suffix: Crook, SpiderClan
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
   parent: MobHuman
   id: BlueSpaceNinja
   components:
   - type: RandomMetadata
     nameSegments:
-    - names_ninja_title
-    - names_ninja
+    - NamesNinjaTitle
+    - NamesNinja
   - type: Sprite
     netsync: false
     sprite: Markers/jobs.rsi
     state: ertleadereva
   - type: Loadout
     prototypes: [ BlueNinja ]
+  - type: NpcFactionMember
+    factions:
+    - Syndicate
+  - type: SpaceNinja
+  - type: AutoImplant
+    implants:
+    - DeathAcidifierImplant
+  - type: RandomHumanoidAppearance
+    randomizeName: false
+
+- type: entity
+  name: Space Ninja
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
+  parent: MobHuman
+  id: AltGreenSpaceNinja
+  components:
+  - type: RandomMetadata
+    nameSegments:
+    - NamesNinjaTitle
+    - NamesNinja
+  - type: Sprite
+    netsync: false
+    sprite: Markers/jobs.rsi
+    state: ertleadereva
+  - type: Loadout
+    prototypes: [ AltGreenNinja ]
+  - type: NpcFactionMember
+    factions:
+    - Syndicate
+  - type: SpaceNinja
+  - type: AutoImplant
+    implants:
+    - DeathAcidifierImplant
+  - type: RandomHumanoidAppearance
+    randomizeName: false
+
+- type: entity
+  name: Space Ninja
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
+  parent: MobHuman
+  id: AltRedSpaceNinja
+  components:
+  - type: RandomMetadata
+    nameSegments:
+    - NamesNinjaTitle
+    - NamesNinja
+  - type: Sprite
+    netsync: false
+    sprite: Markers/jobs.rsi
+    state: ertleadereva
+  - type: Loadout
+    prototypes: [ AltRedNinja ]
+  - type: NpcFactionMember
+    factions:
+    - Syndicate
+  - type: SpaceNinja
+  - type: AutoImplant
+    implants:
+    - DeathAcidifierImplant
+  - type: RandomHumanoidAppearance
+    randomizeName: false
+
+- type: entity
+  name: Space Ninja
+  suffix: ЦЕЛЕЙ НЕТ, Crook, SpiderClan
+  parent: MobHuman
+  id: AltBlueSpaceNinja
+  components:
+  - type: RandomMetadata
+    nameSegments:
+    - NamesNinjaTitle
+    - NamesNinja
+  - type: Sprite
+    netsync: false
+    sprite: Markers/jobs.rsi
+    state: ertleadereva
+  - type: Loadout
+    prototypes: [ AltBlueNinja ]
   - type: NpcFactionMember
     factions:
     - Syndicate

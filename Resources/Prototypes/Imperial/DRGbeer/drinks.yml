@@ -112,7 +112,7 @@
   parent: BaseAlcohol
   desc: reagent-desc-wormhole
   physicalDesc: reagent-physical-desc-volatile
-  flavor: irishcarbomb
+  flavor: threemileisland
   color: "#D25FD2"
   metamorphicSprite:
     sprite: Imperial/DRGbeer/wormhole.rsi
@@ -163,7 +163,6 @@
   name: reagent-name-telethanol
   parent: BaseAlcohol
   desc: reagent-desc-telethanol
-  slippery: true
   physicalDesc: reagent-physical-desc-strong-smelling
   flavor: alcohol
   color: "#b05b3c"
@@ -382,7 +381,7 @@
     solution: drink
   - type: PhysicalComposition
     materialComposition:
-      Steel: 50 
+      Steel: 50
 
 - type: listing
   id: UplinkChemicalGnome
