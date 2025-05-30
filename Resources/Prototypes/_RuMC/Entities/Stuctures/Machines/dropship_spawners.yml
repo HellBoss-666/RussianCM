@@ -24,4 +24,4 @@
   - type: Sprite
     state: green
   - type: GridSpawner
-    spawn: "/Maps/_RMC14/alamo.yml"
+    spawn: "/Maps/_RMC14/normandy.yml"
