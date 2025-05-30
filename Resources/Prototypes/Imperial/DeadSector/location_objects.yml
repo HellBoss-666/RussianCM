@@ -515,3 +515,39 @@
     radius: 0
     energy: 0
     color: "#696969"
+
+- type: entity
+  id: DeadSectorDecorBarrier
+  parent: BaseStructure
+  name: шлагбаум
+  suffix: DeadSector, Decoration
+  description: Ты-ы-ы! Не-е-е! Пройдё-ё-ё-ё-шь!
+  components:
+  - type: Sprite
+    noRot: true
+    sprite: Imperial/DeadSector/location_objects/barrier.rsi
+    state: icon
+  - type: Damageable
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 600
+      behaviors:
+      - !type:DoActsBehavior
+        acts: ["Destruction"]
+      - !type:PlaySoundBehavior
+        sound:
+          collection: MetalSlam
+  - type: Physics
+    bodyType: Static
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-2,-0.2,2,0.2"
+        density: 1000
+        layer:
+        - WallLayer
+  - type: InteractionOutline
