@@ -35,15 +35,15 @@
           mask:
             - Impassable
             - HighImpassable
-      fly-by: &flybyfixture
-        shape: !type:PhysShapeCircle
-          radius: 1.5
-        layer:
-        - Impassable
-        - MidImpassable
-        - HighImpassable
-        - LowImpassable
-        hard: False
+        fly-by: &flybyfixture
+          shape: !type:PhysShapeCircle
+            radius: 1.5
+          layer:
+          - Impassable
+          - MidImpassable
+          - HighImpassable
+          - LowImpassable
+          hard: False
     - type: GrapplingProjectile
 
 - type: entity
