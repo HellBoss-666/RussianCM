@@ -1,60 +1,60 @@
 <Document>
-[color=#5f698a]█    █ █▄ █[/color] [head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]\n
-[color=#5f698a]▀ ▄▀ █ ▀█ [/color]
+  [color=#5f698a]█    █ █▄ █[/color] [head=2][bold]UNITED NATIONS MARINE CORPS[/bold][/head]\n
+  [color=#5f698a]▀ ▄▀ █ ▀█ [/color]
 
-#UNMC Rifleman's Primer
-  - Rise and shine, soldier! Get out of that cryobooth and get tactical!
+  #UNMC Руководство Стрелка
+    - Подъем, солдат! Вылезай из криокапсулы и приготовься!
 
-  - You've just woken up, so you're hungry. Head to the food vendor, dispense two meals from the machine and get them down your neck. If you have complaints about the food, you can address them to someone who gives a damn!
-  <Box>
-    <GuideEntityEmbed Entity="ColMarTechFood"/>
-    <GuideEntityEmbed Entity="CMMarinePreparedMealChicken"/>
-  </Box>
-   - You can't bring those trays with you, so leave them on a nearby table or throw them into the disposals. God help you if I catch you throwing them anywhere else!
-  <Box>
-  [color=red]MARINE! You cannot fight in your shorts! Get dressed! DOUBLE TIME! [/color]
-  </Box>
-  - Haul your ass to the automated equipment vendor and get your uniform on. Click on the vending machine, and then click the "Standard Marine Apparel".
-  - This will give you your uniform, including undersuit, boots, gloves, helmet, and headset - and you will wear them at ALL TIMES.
-  <GuideEntityEmbed Entity="ColMarTechEquipment"/>
-
-  - Take note of the colors on your helmet, they denote your squad:\n
-  [color=#E61919]Red for Alpha[/color], [color=#FFC32D]Yellow for Bravo[/color], [color=#C864C8]Purple for Charlie[/color], and [color=#4148C8]Blue for Delta[/color].
-
-  - You now have your choice of equipment. You will only be dispensed one item per category (two for pouches) so choose carefully. Anything marked in [color=green]Green[/color] is recommended for your role, so grab yourself some light or medium armor, an M276 Ammo Load Rig, some first aid pouches, and a gas mask or coif if you so desire.
+    - Ты только что проснулся и голоден как волк. Направляйся к торговому автомату, возьми две порции и заправься как следует. Если у тебя есть претензии насчет еды - можешь пожаловаться тому, кому не наплевать!
     <Box>
-    <GuideEntityEmbed Entity="CMBeltMarine"/>
-    <GuideEntityEmbed Entity="RMCPouchFirstAid"/>
+      <GuideEntityEmbed Entity="ColMarTechFood"/>
+      <GuideEntityEmbed Entity="CMMarinePreparedMealChicken"/>
     </Box>
-  - You have 45 points to spend on extra equipment, such as grenades, tools, or special ammo! Each item has its own point cost and some items are better value than others. For now, grab some extended or armor-piercing magazines for the M54C and store them in your belt.
+    - Эти подносы ты с собой забрать не можешь, так что брось их на ближайший стол или в мусорку. Если я увижу тебя с ними где-то еще - можешь начинать звать свою мамочку!
+    <Box>
+    [color=red]РАДОВОЙ!! Ты не можешь сражаться в одних трусах! Оденься! БЕГОМ МАРШ!! [/color]
+    </Box>
+    - Направь свою задницу к автомату с обмундированием и получай свою униформу. Нажми на раздатчик, а затем нажми на "Стандартное военное обмундирование".
+    - Это выдаст тебе твою униформу, включающую комбинезон, сапоги, перчатки, модный шлем, и гарнитуру - и ты должен носить их ВСЕ ВРЕМЯ.
+    <GuideEntityEmbed Entity="ColMarTechEquipment"/>
 
-  <Box>[color=red]Now you look like a marine![/color]
-  </Box>
-  - Now you're ready for prom but you ain't leaving this house without a chaperone!
-  - Head to the Automated Weapon rack and select your weapon. As before, recommended items are colored [color=green]Green[/color].
-  <Box>
-  <GuideEntityEmbed Entity="ColMarTechGuns"/>
-  </Box>
-   - Meet your new best friend, the [bold]M54C Assault Rifle MK2[/bold]. Take some extra magazines and put them in your belt or pouches, and don't forget to load the gun.
-   - Now you might be tempted to take your new buddy for a spin and get to know eachother a little better. Head to the firing range if you want to practice your aim.
-   -If you are not in the firing range you [color=red]do not[/color] discharge your weapon!
-    <GuideEntityEmbed Entity="WeaponRifleM54C"/>
-   - Make sure you have some standard and armor-piercing (AP) magazines. AP will punch through tougher targets, and that includes marines so WATCH. YOUR. FIRE.
-  <Box>
-  <GuideEntityEmbed Entity="CMMagazineRifleM54C"/>
-  <GuideEntityEmbed Entity="CMMagazineRifleM54CAP"/>
-  </Box>
-  - Inside the armory you will also find machines dispensing surplus uniforms, tools, munitions, and weapon attachments. We will cover weapon attachments in more detail another time.
-  <Box>[color=red]You're mean, you're green, you're a UN Marine! OORAH![/color]
-  </Box>
+    - Обрати внимание на цвет твоего шлема, он обозначает твой отряд:\n
+    [color=#E61919]Красный для "Альфы"[/color], [color=#FFC32D]Желтый для "Браво"[/color], [color=#C864C8]Розовый для "Чарли"[/color], и [color=#4148C8]Синий для "Дельты"[/color].
 
-  - Find your squadmates and head to briefing. If you're late to the party, head straight west to the hangar bay and get ready for deployment.
+    - Теперь тебе нужно выбрать свое снаряжение. Ты можешь выбрать только одно снаряжение для категории (два для подсумков), так что выбирай ВНИМАТЕЛЬНО. Все, что отмечено [color=green]зеленым[/color] цветом - рекомендовано для твоей роли, так что прибери себе несколько новинок армейской моды.
+      <Box>
+      <GuideEntityEmbed Entity="CMBeltMarine"/>
+      <GuideEntityEmbed Entity="RMCPouchFirstAid"/>
+      </Box>
+    - Помимо основного снаряжения, у тебя есть 45 очков на дополнительное, например, гранаты, инструменты, или специальные боеприпасы! Каждый предмет имеет свою стоимость и некоторые предметы стоят чуть выгоднее, чем другие. Выбирай сбалансированно, постарайся не поддаться соблазну растратить все на гранаты.
 
-  - If you need any help, you can ask any of your fellow marines, or your local mentor, the Senior Enlisted Advisor.
-  - If you need extra assistance or have a problem, you can press F1 to contact a mentor.
-  <Box>
-    <GuideEntityEmbed Entity="CMGuidebookRoleSEA"/>
+    <Box>[color=red]Теперь ты выглядишь как солдат![/color]
+    </Box>
+    - Теперь ты прекрасен, как принцесса на балу, но твой "кавалер" ждёт у оружейной!
+    - Направляйся к раздатчику оружия. Как и раньше, рекомендуемые предметы окрашены в [color=green]зеленый[/color].
+    <Box>
+    <GuideEntityEmbed Entity="ColMarTechGuns"/>
+    </Box>
+    - Познакомься со своим новым лучшим другом и постарайся не потерять его в первом же бою. Возьми немного лишних магазинов, положи их в пояс или подсумки, и не забудь зарядить свое оружие.
+    - Теперь ты наверное хочешь познакомиться со своим приятелем получше. Направляйся на стрельбище если ты хочешь попрактиковаться в стрельбе.
+    -Если вдруг ты не на стрельбище, тебе [color=red]не стоит[/color] доставать оружие!
+      <GuideEntityEmbed Entity="WeaponRifleM54C"/>
+    - Убедись, что у тебя есть немного стандартных и бронебойных (ББ) магазинов. ББ проходят сквозь прочные цели, как нож сквозь масло, в том числе пехоты, так что СМОТРИ. КУДА. СТРЕЛЯЕШЬ.
+    <Box>
+    <GuideEntityEmbed Entity="CMMagazineRifleM54C"/>
+    <GuideEntityEmbed Entity="CMMagazineRifleM54CAP"/>
+    </Box>
+    - В арсенале найдёшь раздатчики с различными примочками: дополнительная униформа, инструменты, боеприпасы, и оружейные модули. Мы поговорим о приспособлениях на твой ствол как-нибудь в другой раз.
+    <Box>[color=red]Зелёный и злой - солдат боевой! УРРРА![/color]
+    </Box>
+
+    - Найди своих сокомандников и послушай инструктаж. Если ты опоздал на вечеринку, направляйся прямо на запад, в ангарный отсек, и будь готов к высадке.
+
+    - Если тебе понадобится помощь, просто спроси ближайших сослуживцев, или обратись к наставнику желторотиков на корабле - Старшему Инструктору.
+    - Если тебе нужна дополнительная помощь, или ты столкнулся с внутриигровой проблемой, нажми кнопку F1 и напиши в раздел "Mentor" (или нажалуйся админам).
+    <Box>
+      <GuideEntityEmbed Entity="CMGuidebookRoleSEA"/>
+    </Box>
+  <Box>[color=red]SEMPER FI, МОРПЕХ! СВОБОДЕН![/color]
   </Box>
-<Box>[color=red]SEMPER FI, MARINE! DISMISSED![/color]
-</Box>
-</Document>
+  </Document>

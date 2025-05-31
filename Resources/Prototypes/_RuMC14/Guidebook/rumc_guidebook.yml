@@ -12,6 +12,10 @@
   children:
   - RuMCGuideNewPlayer
   - RuMCChemicals
+  - RuMCIntel
+  - RuMCMedical
+  - RuMCMedical
+
 
 - type: guideEntry
   parent: RuMC
@@ -70,3 +74,19 @@
   name: guide-entry-medicine
   text: "/ServerInfo/Guidebook/_RuMC14/Chemicals/Medicine.xml"
   filterEnabled: True
+
+
+- type: guideEntry
+  parent: RuMC
+  id: RuMCIntel
+  priority: 7
+  name: "Intel"
+  text: "/ServerInfo/Guidebook/_RuMC14/Guides/RuMCIntel.xml"
+
+
+- type: guideEntry
+  parent: RuMC
+  id: RuMCMedical
+  priority: 5
+  name: "Medical"
+  text: "/ServerInfo/Guidebook/_RuMC14/Guides/RuMCMedical.xml"
