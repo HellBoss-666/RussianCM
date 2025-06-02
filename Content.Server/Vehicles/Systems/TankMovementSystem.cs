@@ -11,6 +11,7 @@ using Robust.Shared.Timing;
 using Robust.Shared.Utility;
 using System.Numerics;
 using Robust.Shared.Physics;
+using Content.Shared.Vehicles.Components;
 
 namespace Content.Server.Vehicles.Systems;
 
@@ -76,6 +77,21 @@ public sealed class TankMovementSystem : EntitySystem
         while (query.MoveNext(out var uid, out var movement))
         {
             if (!movement.CanMove)
+                continue;
+
+            // Получаем водителя через TankDriverComponent
+            EntityUid? driver = null;
+            var driverQuery = EntityQueryEnumerator<TankDriverComponent>();
+            while (driverQuery.MoveNext(out var user, out var driverComp))
+            {
+                if (driverComp.Tank == uid)
+                {
+                    driver = user;
+                    break;
+                }
+            }
+
+            if (driver == null || !TryComp<ActorComponent>(driver.Value, out var actor))
                 continue;
 
             // Рассчитываем вектор движения на основе активных направлений

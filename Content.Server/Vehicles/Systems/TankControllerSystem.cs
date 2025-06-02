@@ -1,8 +1,8 @@
 using Content.Server.Vehicles.Components;
+using Content.Shared.Vehicles.Components;
 using Robust.Shared.Input;
 using Robust.Shared.Input.Binding;
 using Robust.Shared.Player;
-using Robust.Shared.GameObjects;
 
 namespace Content.Server.Vehicles.Systems;
 
@@ -14,7 +14,6 @@ public sealed class TankControllerSystem : EntitySystem
     {
         base.Initialize();
 
-        // Используем PointerInputCmdHandler вместо абстрактного InputCmdHandler
         CommandBinds.Builder
             .Bind(EngineKeyFunctions.Use,
                 new PointerInputCmdHandler(HandleShoot))
@@ -26,29 +25,25 @@ public sealed class TankControllerSystem : EntitySystem
         if (args.Session?.AttachedEntity is not { } user)
             return false;
 
-        if (!TryComp<TankControllerComponent>(user, out var controller) ||
-            controller.Controller is not { } tank)
+        if (!TryComp<TankDriverComponent>(user, out var driver) ||
+            !Exists(driver.Tank) ||
+            Deleted(driver.Tank))
             return false;
 
-        if (TryComp<TankGunComponent>(tank, out var gun))
-            _gunSystem.TryFire(tank, user, gun);
+        if (TryComp<TankGunComponent>(driver.Tank, out var gun))
+            _gunSystem.TryFire(driver.Tank, user, gun);
 
         return true;
     }
 
-    public void AssignController(EntityUid uid, EntityUid user, TankControllerComponent? controller = null)
+    public void AssignDriver(EntityUid tank, EntityUid user)
     {
-        if (!Resolve(uid, ref controller))
-            return;
-
-        controller.Controller = user;
+        var driver = EnsureComp<TankDriverComponent>(user);
+        driver.Tank = tank;
     }
 
-    public void UnassignController(EntityUid uid, TankControllerComponent? controller = null)
+    public void UnassignDriver(EntityUid user)
     {
-        if (!Resolve(uid, ref controller))
-            return;
-
-        controller.Controller = null;
+        RemComp<TankDriverComponent>(user);
     }
 }
