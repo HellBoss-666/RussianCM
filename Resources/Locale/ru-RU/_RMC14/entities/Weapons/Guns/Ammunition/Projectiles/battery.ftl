@@ -4,9 +4,8 @@ rmc-projectile-taser-description = Электрический разрядный
 
 ### Дополнительные параметры (опционально)
 rmc-projectile-taser-effect = {
-$section ->
     *[damage]
-        Наносит:
+        Наносит: 
         - 60 урона выносливости
         - 5 теплового урона
     [accuracy]

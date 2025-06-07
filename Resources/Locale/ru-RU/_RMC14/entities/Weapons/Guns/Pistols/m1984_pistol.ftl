@@ -13,26 +13,17 @@ entity-cmbulletpistol9mm-name = Пуля (9мм)
 entity-cmcartridgepistol9mm-name = Патрон (9мм)
 
 ### Теги ###
-entity-cmweaponpistolm1984-tag-sidearm-name =
-    { -tag-sidearm-name }
-
+tag-sidearm-name = Второстепенное оружие
 tag-cmweaponpistolm1984-name = Пистолет M1984
 tag-cmmagazinepistolm1984-name = Магазин M1984
 tag-rmcmagazinepistolm1984ap-name = Магазин M1984 AP
 tag-cmcartridgepistol9mm-name = Патрон 9мм
 
 ### Слоты и компоненты ###
-entity-cmweaponpistolm1984-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-cmweaponpistolm1984-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-cmweaponpistolm1984-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
-
-entity-cmweaponpistolm1984-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 ### Типы боеприпасов ###
 ammo-type-9mm = 9мм

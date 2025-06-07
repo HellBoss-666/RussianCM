@@ -14,24 +14,14 @@ tag-rmcmagazineriflear10-name = Магазин AR10
 tag-rmccartridgeriflear10-name = Патрон 7.62×51mm
 
 ### Слоты ###
-entity-weaponriflear10-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-weaponriflear10-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
-entity-weaponriflear10-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-weaponriflear10-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-entity-weaponriflear10-fire-mode-burst =
-    { -fire-mode-burst }
-
-entity-weaponriflear10-fire-mode-semiauto =
-    { -fire-mode-semiauto }
+fire-mode-semiauto = Полуавтомат
+fire-mode-burst = Очередь (3 выстр.)
 
 ### Типы боеприпасов ###
 ammo-type-762x51 = 7.62×51mm NATO

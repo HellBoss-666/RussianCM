@@ -10,26 +10,17 @@ entity-rmcmagazinepistolm13ext-name = Удлинённый магазин M13 HV
 entity-rmcmagazinepistolm13drum-name = Барабанный магазин M13 HV (10×20мм)
 
 ### Теги ###
-entity-rmcweaponpistolm13-tag-sidearm-name =
-    { -tag-sidearm-name }
-
+tag-sidearm-name = Второстепенное оружие
 tag-rmcweaponpistolm13-name = Пистолет M13
 tag-rmcmagazinepistolm13-name = Магазин M13
 tag-rmcmagazinepistolm13ext-name = Удлин. магазин M13
 tag-rmcmagazinepistolm13drum-name = Барабан M13
 
 ### Слоты и компоненты ###
-entity-rmcweaponpistolm13-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-rmcweaponpistolm13-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-rmcweaponpistolm13-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
-
-entity-rmcweaponpistolm13-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 item-camouflage-jungle = Камуфляж "Джунгли"
 item-camouflage-desert = Камуфляж "Пустыня"
@@ -38,5 +29,4 @@ item-camouflage-classic = Классическая расцветка
 item-camouflage-urban = Городской камуфляж
 
 ### Режимы стрельбы ###
-entity-rmcweaponpistolm13-fire-mode-fullauto =
-    { -fire-mode-fullauto }
+fire-mode-fullauto = Автоматический

@@ -7,7 +7,6 @@ rmc-bullet-sentry-description = Стандартный турельный бое
 
 ### Параметры точности (опционально)
 bullet-accuracy-params = {
-$section ->
     *[stats]
         Точность: { 110 }%
         Эффективная дальность: { 22 }м

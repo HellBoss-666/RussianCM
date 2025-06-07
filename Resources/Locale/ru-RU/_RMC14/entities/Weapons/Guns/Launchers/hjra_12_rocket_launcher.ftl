@@ -12,7 +12,6 @@ rmc-projectile-rocket-hjra12-description = Высокоточный (до 7 м) 
 
 ### Характеристики
 hjra12-stats = {
-    $section ->
     *[launcher]
         Тип: Противотанковый гранатомёт
         Ёмкость: 1 ракета

@@ -10,25 +10,16 @@ entity-cmcartridgepistolmk45-name = Патрон (.45 автомагнум)
 entity-cmbulletpistolmk45-name = Мощная пистолетная пуля (.45)
 
 ### Теги ###
-entity-rmcweaponpistolmk45-tag-sidearm-name =
-    { -tag-sidearm-name }
-
+tag-sidearm-name = Второстепенное оружие
 tag-rmcmk45-name = MK-45
 tag-rmcmagazinepistolmk45-name = Магазин MK-45
 tag-cmcartridgepistolmk45-name = Патрон .45 автомагнум
 
 ### Слоты и компоненты ###
-entity-rmcweaponpistolmk45-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-rmcweaponpistolmk45-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-rmcweaponpistolmk45-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
-
-entity-rmcweaponpistolmk45-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 ### Действия ###
 action-pump-action-name = Взвести затвор

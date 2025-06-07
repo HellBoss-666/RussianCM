@@ -19,28 +19,16 @@ ent-RMCMagazineRifleSSG45Incend = Магазин SSG45 с зажигательн
 ent-RMCMagazineRifleSSG45Incend-desc = Магазин с зажигательными патронами (30 патронов 7x62мм).
 
 ### Слоты и компоненты ###
-ent-WeaponRifleSSG45-slot-rmc-aslot-stock-name =
-    { -slot-rmc-aslot-stock-name }
-
-ent-WeaponRifleSSG45-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-ent-WeaponRifleSSG45-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
-ent-WeaponRifleSSG45-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-ent-WeaponRifleSSG45-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
+gun-magazine-name = Магазин
+rmc-aslot-barrel-name = Дульная насадка
+rmc-aslot-rail-name = Рельса
+rmc-aslot-stock-name = Приклад
+rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-ent-WeaponRifleSSG45-fire-mode-burst =
-    { -fire-mode-burst }
-ent-WeaponRifleSSG45-fire-mode-semiauto =
-    { -fire-mode-semiauto }
-ent-WeaponRifleSSG45-fire-mode-fullauto =
-    { -fire-mode-fullauto }
+gun-mode-SemiAuto = Одиночный
+gun-mode-Burst = Очередь (3 выстр.)
+gun-mode-FullAuto = Автоматический
 
 ### Обвесы ###
 rmc-attachment-barrel-charger = Дульный ускоритель

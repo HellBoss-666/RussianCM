@@ -20,22 +20,13 @@ tag-cmmagazineriflem4sprap-name = Магазин M4SPR AP
 tag-cmmagazineriflem4sprext-name = Удлин. магазин M4SPR
 
 ### Слоты ###
-
-entity-weaponriflem4spr-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-weaponriflem4spr-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
-entity-weaponriflem4spr-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-weaponriflem4spr-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-entity-weaponriflem4spr-fire-mode-semiauto =
-    { -fire-mode-semiauto }
+fire-mode-semiauto = Полуавтомат
 
 ### Типы боеприпасов ###
 ammo-type-10x24 = 10×24мм
@@ -43,20 +34,11 @@ ammo-type-10x24-ap = 10×24мм AP
 weapon-class-dmr = Снайперская винтовка
 
 ### Камуфляжи ###
-entity-weaponriflem4spr-camouflage-variation-Jungle =
-    { -camouflage-variation-Jungle }
-
-entity-weaponriflem4spr-camouflage-variation-Desert =
-    { -camouflage-variation-Desert }
-
-entity-weaponriflem4spr-camouflage-variation-Snow =
-    { -camouflage-variation-Snow }
-
-entity-weaponriflem4spr-camouflage-variation-Classic =
-    { -camouflage-variation-Classic }
-
-entity-weaponriflem4spr-camouflage-variation-Urban =
-    { -camouflage-variation-Urban }
+camouflage-jungle = Джунгли
+camouflage-desert = Пустыня
+camouflage-snow = Снег
+camouflage-classic = Классический
+camouflage-urban = Городской
 
 ### Интерфейс ###
 ui-weapon-m4spr-description = Буллпап-винтовка для точной стрельбы

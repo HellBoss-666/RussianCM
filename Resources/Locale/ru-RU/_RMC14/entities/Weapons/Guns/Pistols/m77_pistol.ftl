@@ -10,36 +10,21 @@ entity-cmbulletpistolm77ap-name = Пуля (9мм AP)
 entity-cmcartridgepistolm77ap-name = Патрон (9мм AP)
 
 ### Теги ###
-entity-rmcweaponpistolm77-tag-sidearm-name =
-    { -tag-sidearm-name }
-
+tag-sidearm-name = Второстепенное оружие
 tag-rmcweaponpistolm77-name = Пистолет M77
 tag-cmmagazinepistolm77ap-name = Магазин M77 AP
 tag-cmcartridgepistol9mmap-name = Патрон 9мм AP
 
 ### Слоты и компоненты ###
-entity-rmcweaponpistolm77-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-rmcweaponpistolm77-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-rmcweaponpistolm77-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
-
-entity-rmcweaponpistolm77-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-entity-rmcweaponpistolm77-fire-mode-semiauto =
-    { -fire-mode-semiauto }
-entity-rmcweaponpistolm77-fire-mode-burst =
-    { -fire-mode-burst }
+fire-mode-semiauto = Полуавтомат
+fire-mode-burst = Очередь (3 выстр.)
 
 ### Типы урона ###
-entity-rmcweaponpistolm77-damage-type-piercing =
-    { -damage-type-piercing }
-
-entity-rmcweaponpistolm77-damage-type-blunt =
-    { -damage-type-blunt }
+damage-type-piercing = Бронебойный
+damage-type-blunt = Ударный

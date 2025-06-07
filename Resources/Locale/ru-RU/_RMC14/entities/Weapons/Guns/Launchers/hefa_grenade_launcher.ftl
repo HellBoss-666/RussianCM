@@ -4,7 +4,6 @@ weapon-launcher-m83-hefa-description = Тяжёлый 10-зарядный гра
 
 ### Характеристики
 m83-hefa-stats = {
-    $section ->
     *[specs]
         Тип: Многозарядный гранатомёт
         Ёмкость: 10 гранат

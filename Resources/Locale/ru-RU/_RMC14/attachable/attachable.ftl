@@ -1,7 +1,7 @@
 rmc-attachable-holder-strip-ui-title = Снять модули
 rmc-attachable-holder-strip-ui-empty-slot = Пусто
 
--rmc-verb-strip-attachables = Снять модули
+rmc-verb-strip-attachables = Снять модули
 
 rmc-aslot-barrel = Ствол
 rmc-aslot-rail = Направляющая

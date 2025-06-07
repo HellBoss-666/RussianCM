@@ -11,19 +11,11 @@ entity-cmbulletpistol22mm-name = Пуля (.22)
 entity-cmcartridgepistol22mm-name = Патрон (.22)
 
 ### Слоты ###
-entity-rmcweaponpistolholdout-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-rmcweaponpistolholdout-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-rmcweaponpistolholdout-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
-
-entity-rmcweaponpistolholdout-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-underbarrel-name = Подствольник
 
 ### Теги ###
-entity-rmcweaponpistolholdout-tag-holdout-name =
-    { -tag-holdout-name }
+tag-holdout-name = Скрытый
 tag-rmcmagazinepistolholdout-name = Магазин карманного пистолета

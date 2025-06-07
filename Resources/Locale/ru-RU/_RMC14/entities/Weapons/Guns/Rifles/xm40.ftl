@@ -10,23 +10,14 @@ ent-RMCMagazineRifleXM40HEAP = Магазин XM40 с БОПП (10x24мм)
 ent-RMCMagazineRifleXM40HEAP-desc = Магазин с бронебойно-осколочными патронами (60 патронов 10x24мм).
 
 ### Слоты и компоненты ###
-
-ent-RMCWeaponRifleXM40-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-ent-RMCWeaponRifleXM40-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
-ent-RMCWeaponRifleXM40-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
+gun-magazine-name = Магазин
+rmc-aslot-barrel-name = Дульная насадка
+rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-ent-RMCWeaponRifleXM40-fire-mode-burst =
-    { -fire-mode-burst }
-ent-RMCWeaponRifleXM40-fire-mode-semiauto =
-    { -fire-mode-semiauto }
-ent-RMCWeaponRifleXM40-fire-mode-fullauto =
-    { -fire-mode-fullauto }
+gun-mode-SemiAuto = Одиночный
+gun-mode-Burst = Очередь
+gun-mode-FullAuto = Автоматический
 
 ### Особенности ###
 xm40-integrated-suppressor = Встроенный глушитель

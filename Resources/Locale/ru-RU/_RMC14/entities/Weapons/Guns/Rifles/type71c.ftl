@@ -6,25 +6,15 @@ ent-RMCWeaponRifleType71C-desc = Облегчённый вариант Type 71 �
 type71c-compatible-mags = Совместим с магазинами Type 71
 
 ### Слоты и компоненты ###
-ent-RMCWeaponRifleType71C-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-ent-RMCWeaponRifleType71C-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
-ent-RMCWeaponRifleType71C-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-ent-RMCWeaponRifleType71C-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
+gun-magazine-name = Магазин
+rmc-aslot-barrel-name = Дульная насадка
+rmc-aslot-rail-name = Рельса
+rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-ent-RMCWeaponRifleType71C-fire-mode-burst =
-    { -fire-mode-burst }
-ent-RMCWeaponRifleType71C-fire-mode-semiauto =
-    { -fire-mode-semiauto }
-ent-RMCWeaponRifleType71C-fire-mode-fullauto =
-    { -fire-mode-fullauto }
+gun-mode-SemiAuto = Одиночный
+gun-mode-Burst = Очередь (4 выстр.)
+gun-mode-FullAuto = Автоматический
 
 ### Характеристики ###
 type71c-damage-penalty = Пониженный урон (x0.8)

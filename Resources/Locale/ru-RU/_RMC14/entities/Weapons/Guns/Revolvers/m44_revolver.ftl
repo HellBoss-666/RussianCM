@@ -23,14 +23,7 @@ tag-rmcspeedloaderm44-name = Спидлоадер M44
 tag-rmcspeedloader44marksman-name = Снайперский спидлоадер M44
 
 ### Слоты ###
-entity-rmccartridgerevolver44-slot-revolver-ammo-name =
-    { -slot-revolver-ammo-name }
-
-entity-rmccartridgerevolver44-slot-rmc-aslot-stock-name =
-    { -slot-rmc-aslot-stock-name }
-
-entity-rmccartridgerevolver44-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-rmccartridgerevolver44-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
+slot-revolver-ammo-name = Каморный барабан
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
+slot-rmc-aslot-stock-name = При

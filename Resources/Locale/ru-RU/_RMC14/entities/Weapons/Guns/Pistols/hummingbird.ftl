@@ -7,21 +7,14 @@ entity-rmcmagazinepistold18-name = Магазин D18 (9мм)
 entity-rmcmagazinepistold18-description = Компактный магазин D18 на семь патронов 9мм. Как он вообще может быть таким маленьким?
 
 ### Теги ###
-entity-rmcmagazinepistold18-tag-holdout-name =
-    { -tag-holdout-name }
+tag-holdout-name = Скрытное
 tag-rmcweaponpistold18-name = Пистолет D18
 tag-rmcmagazinepistold18-name = Магазин D18
 
 ### Общие элементы ###
-entity-rmcweaponpistold18-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-entity-rmcweaponpistold18-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-entity-rmcweaponpistold18-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
-
+slot-gun-magazine-name = Магазин
+slot-rmc-aslot-barrel-name = Ствол
+slot-rmc-aslot-rail-name = Направляющая
 
 ### Калибры ###
 ammo-9mm-name = 9мм

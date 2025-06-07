@@ -26,30 +26,16 @@ ent-RMCCartridgeRifle545x39mmHEAP = Патрон (5.45x39мм БОПП)
 ent-RMCCartridgeRifle545x39mmHEAP-desc = Бронебойно-осколочный патрон 5.45x39мм.
 
 ### Слоты и компоненты ###
-ent-RMCWeaponRifleType71-slot-rmc-aslot-stock-name =
-    { -slot-rmc-aslot-stock-name }
-
-ent-RMCWeaponRifleType71-slot-gun-magazine-name =
-    { -slot-gun-magazine-name }
-
-ent-RMCWeaponRifleType71-slot-rmc-aslot-underbarrel-name =
-    { -slot-rmc-aslot-underbarrel-name }
-
-ent-RMCWeaponRifleType71-slot-rmc-aslot-barrel-name =
-    { -slot-rmc-aslot-barrel-name }
-
-ent-RMCWeaponRifleType71-slot-rmc-aslot-rail-name =
-    { -slot-rmc-aslot-rail-name }
+gun-magazine-name = Магазин
+rmc-aslot-barrel-name = Дульная насадка
+rmc-aslot-rail-name = Рельса
+rmc-aslot-stock-name = Приклад
+rmc-aslot-underbarrel-name = Подствольник
 
 ### Режимы стрельбы ###
-ent-RMCWeaponRifleType71-fire-mode-burst =
-    { -fire-mode-burst }
-
-ent-RMCWeaponRifleType71-fire-mode-semiauto =
-    { -fire-mode-semiauto }
-
-ent-RMCWeaponRifleType71-fire-mode-fullauto =
-    { -fire-mode-fullauto }
+gun-mode-SemiAuto = Одиночный
+gun-mode-Burst = Очередь (4 выстр.)
+gun-mode-FullAuto = Автоматический
 
 ### Обвесы ###
 rmc-attachment-type71-stock = Стандартный приклад Type 71
