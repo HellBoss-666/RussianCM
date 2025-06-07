@@ -18,15 +18,27 @@ tag-rmcmagazineriflem16-name = Магазин M16
 tag-rmccartridgeriflem16-name = Патрон 5.56×45мм
 
 ### Слоты ###
-slot-gun-magazine-name = Магазин
-slot-rmc-aslot-barrel-name = Ствол
-slot-rmc-aslot-rail-name = Направляющая
-slot-rmc-aslot-stock-name = Приклад
-slot-rmc-aslot-underbarrel-name = Подствольник
+entity-weaponriflem16-slot-rmc-aslot-stock-name =
+    { -slot-rmc-aslot-stock-name }
+
+entity-weaponriflem16-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+entity-weaponriflem16-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+entity-weaponriflem16-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+entity-weaponriflem16-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 
 ### Режимы стрельбы ###
-fire-mode-semiauto = Полуавтомат
-fire-mode-burst = Очередь (3 выстр.)
+entity-weaponriflem16-fire-mode-burst =
+    { -fire-mode-burst }
+
+entity-weaponriflem16-fire-mode-semiauto =
+    { -fire-mode-semiauto }
 
 ### Типы боеприпасов ###
 ammo-type-556x45 = 5.56×45мм NATO

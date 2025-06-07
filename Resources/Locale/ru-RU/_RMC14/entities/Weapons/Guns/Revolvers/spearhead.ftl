@@ -18,7 +18,11 @@ entity-rmcbulletrevolver357-name = Пуля (.357 Magnum)
 entity-rmcbulletrevolver357hollowpoint-name = Пуля (.357 Hollowpoint)
 
 ### Теги ###
-tag-sidearm-name = Второстепенное оружие
+entity-rmcweaponrevolverspearhead-tag-sidearm-name =
+    { -tag-sidearm-name }
+
+entity-rmcweaponrevolverspearhead-tag-rmcrevolver-name =
+    { -tag-rmcrevolver-name }
 tag-rmcrevolver-name = Револьвер
 tag-rmcweaponrevolverspearhead-name = Spearhead
 tag-rmcspeedloader357-name = Спидлоадер .357
@@ -27,11 +31,20 @@ tag-rmccartridgerevolver357-name = Патрон .357 Magnum
 tag-rmccartridgerevolver357hollowpoint-name = Патрон .357 Hollowpoint
 
 ### Слоты ###
-slot-revolver-ammo-name = Барабан
-slot-rmc-aslot-barrel-name = Ствол
-slot-rmc-aslot-rail-name = Направляющая
-slot-rmc-aslot-stock-name = Приклад
-slot-rmc-aslot-underbarrel-name = Подствольник
+entity-rmcweaponrevolverspearhead-slot-revolver-ammo-name =
+    { -slot-revolver-ammo-name }
+
+entity-rmcweaponrevolverspearhead-slot-rmc-aslot-stock-name =
+    { -slot-rmc-aslot-stock-name }
+
+entity-rmcweaponrevolverspearhead-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+entity-rmcweaponrevolverspearhead-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
+
+entity-rmcweaponrevolverspearhead-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
 
 ### Типы боеприпасов ###
 ammo-type-357-magnum = .357 Magnum

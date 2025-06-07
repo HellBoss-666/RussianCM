@@ -45,16 +45,25 @@ tag-rmcmagazineriflem54cheap-name = Магазин M54C HEAP
 tag-cmmagazineriflem54cext-name = Удлин. магазин M54C
 
 ### Слоты ###
-slot-gun-magazine-name = Магазин
-slot-rmc-aslot-barrel-name = Ствол
-slot-rmc-aslot-rail-name = Направляющая
-slot-rmc-aslot-stock-name = Приклад
-slot-rmc-aslot-underbarrel-name = Подствольник
+entity-weaponriflem54c-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+entity-weaponriflem54c-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+entity-weaponriflem54c-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+entity-weaponriflem54c-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 
 ### Режимы стрельбы ###
-fire-mode-semiauto = Полуавтомат
-fire-mode-burst = Очередь
-fire-mode-fullauto = Автомат
+entity-weaponriflem54c-fire-mode-burst =
+    { -fire-mode-burst }
+entity-weaponriflem54c-fire-mode-semiauto =
+    { -fire-mode-semiauto }
+entity-weaponriflem54c-fire-mode-fullauto =
+    { -fire-mode-fullauto }
 
 ### Типы боеприпасов ###
 ammo-type-10x24 = 10×24мм (безгильзовый)
@@ -69,8 +78,17 @@ ui-weapon-m54c-capacity = Ёмкость: 40 патронов
 ui-weapon-m54c-ext-capacity = Ёмкость: 60 патронов (удлин.)
 
 ### Камуфляжи ###
-camouflage-jungle = Джунгли
-camouflage-desert = Пустыня
-camouflage-snow = Снег
-camouflage-classic = Классический
-camouflage-urban = Городской
+entity-weaponriflem54c-camouflage-variation-Jungle =
+    { -camouflage-variation-Jungle }
+
+entity-weaponriflem54c-camouflage-variation-Desert =
+    { -camouflage-variation-Desert }
+
+entity-weaponriflem54c-camouflage-variation-Snow =
+    { -camouflage-variation-Snow }
+
+entity-weaponriflem54c-camouflage-variation-Classic =
+    { -camouflage-variation-Classic }
+
+entity-weaponriflem54c-camouflage-variation-Urban =
+    { -camouflage-variation-Urban }

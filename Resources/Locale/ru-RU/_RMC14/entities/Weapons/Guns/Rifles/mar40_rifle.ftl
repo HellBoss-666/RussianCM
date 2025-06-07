@@ -14,15 +14,26 @@ ent-RMCCartridgeRifleMAR40 = Патрон (7.62x39мм)
 ent-RMCCartridgeRifleMAR40-desc = Винтовочный патрон калибра 7.62x39мм.
 
 ### Слоты и компоненты ###
-gun-magazine-name = Магазин
-rmc-aslot-barrel-name = Дульная насадка
-rmc-aslot-rail-name = Рельса
-rmc-aslot-underbarrel-name = Подствольник
 
+ent-WeaponRifleMAR40-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+ent-WeaponRifleMAR40-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+ent-WeaponRifleMAR40-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+ent-WeaponRifleMAR40-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 ### Режимы стрельбы ###
-gun-mode-SemiAuto = Одиночный
-gun-mode-Burst = Очередь (4 выстр.)
-gun-mode-FullAuto = Автоматический
+
+ent-WeaponRifleMAR40-fire-mode-burst =
+    { -fire-mode-burst }
+ent-WeaponRifleMAR40-fire-mode-semiauto =
+    { -fire-mode-semiauto }
+ent-WeaponRifleMAR40-fire-mode-fullauto =
+    { -fire-mode-fullauto }
 
 ### Обвесы ###
 rmc-attachment-extended-barrel = Удлинённый ствол

@@ -1,11 +1,11 @@
 damage-type-asphyxiation = Удушение
 damage-type-bloodloss = Кровопотеря
-damage-type-blunt = Ушибы
+-damage-type-blunt = Ушибы
 damage-type-cellular = Клеточные
 damage-type-caustic = Кислотные
 damage-type-cold = Обморожение
 damage-type-heat = Термические
-damage-type-piercing = Уколы
+-damage-type-piercing = Уколы
 damage-type-poison = Яды
 damage-type-radiation = Радиация
 damage-type-shock = Электрические

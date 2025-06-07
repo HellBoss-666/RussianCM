@@ -8,20 +8,31 @@ entity-rmccartridgepistol9mmsquashhead-name = Патрон (9мм разрывн
 entity-rcmbulletpistol9mmsquashhead-name = Пуля (9мм разрывные)
 
 ### Теги ###
-tag-sidearm-name = Второстепенное оружие
+entity-rmcmk80-tag-sidearm-name =
+    { -tag-sidearm-name }
+
 tag-rmcmk80-name = MK80
 tag-cmmagazinepistolmk80-name = Магазин MK80
 tag-rmccartridgepistol9mmsquashhead-name = Патрон 9мм разрывные
 
 ### Слоты и компоненты ###
-slot-gun-magazine-name = Магазин
-slot-rmc-aslot-barrel-name = Ствол
-slot-rmc-aslot-rail-name = Направляющая
-slot-rmc-aslot-underbarrel-name = Подствольник
+entity-rmcmk80-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+entity-rmcmk80-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+entity-rmcmk80-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
+
+entity-rmcmk80-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
 
 ### Режимы стрельбы ###
-fire-mode-semiauto = Полуавтомат
-fire-mode-burst = Очередь (3 выстр.)
+entity-rmcmk80-fire-mode-semiauto =
+    { -fire-mode-semiauto }
+entity-rmcmk80-fire-mode-burst =
+    { -fire-mode-burst }
 
 ### Типы боеприпасов ###
 ammo-type-9mm-squash-head = 9мм разрывные

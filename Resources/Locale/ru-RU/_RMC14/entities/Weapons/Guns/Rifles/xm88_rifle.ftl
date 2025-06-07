@@ -10,27 +10,47 @@ ent-RMCBox458SOCOM = Ящик патронов .458 SOCOM
 ent-RMCBox458SOCOM-desc = Ящик с патронами .458 SOCOM для тяжёлой винтовки XM88.
 
 ### Характеристики ###
-xm88-features = 
+xm88-features =
     • Ручное перезаряжение
     • Мощный противо-материальный патрон
     • Ограниченная ёмкость (9 патронов)
 
 ### Слоты и компоненты ###
-gun-magazine-name = Магазин
-rmc-aslot-barrel-name = Дульная насадка
-rmc-aslot-rail-name = Рельса
-rmc-aslot-underbarrel-name = Подствольник
-rmc-aslot-stock-name = Приклад
+
+ent-WeaponRifleXM88-slot-rmc-aslot-stock-name =
+    { -slot-rmc-aslot-stock-name }
+
+ent-WeaponRifleXM88-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+ent-WeaponRifleXM88-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+ent-WeaponRifleXM88-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+ent-WeaponRifleXM88-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 
 ### Режимы стрельбы ###
-gun-mode-SemiAuto = Одиночный
+ent-WeaponRifleXM88-fire-mode-semiauto =
+    { -fire-mode-semiauto }
 
 ### Камуфляж ###
-camouflage-variation-Jungle = Джунгли
-camouflage-variation-Snow = Снег
-camouflage-variation-Desert = Пустыня
-camouflage-variation-Urban = Город
-camouflage-variation-Classic = Классика
+ent-WeaponRifleXM88-camouflage-variation-Jungle =
+    { -camouflage-variation-Jungle }
+
+ent-WeaponRifleXM88-camouflage-variation-Desert =
+    { -camouflage-variation-Desert }
+
+ent-WeaponRifleXM88-camouflage-variation-Snow =
+    { -camouflage-variation-Snow }
+
+ent-WeaponRifleXM88-camouflage-variation-Classic =
+    { -camouflage-variation-Classic }
+
+ent-WeaponRifleXM88-camouflage-variation-Urban =
+    { -camouflage-variation-Urban }
 
 ### Действия ###
 gun-reload-insert = Патрон заряжен

@@ -3,16 +3,30 @@ ent-RMCWeaponRifleM54C2 = Штурмовая винтовка M54C/2 MK2
 ent-RMCWeaponRifleM54C2-desc = Модифицированная версия штурмовой винтовки M54C MK2 с улучшенным весом, управляемостью и точностью. Стреляет точными очередями по два патрона. Выдается только элитным подразделениям.
 
 ### Слоты и компоненты ###
-gun-magazine-name = Магазин
-rmc-aslot-barrel-name = Дульная насадка
-rmc-aslot-rail-name = Рельса
-rmc-aslot-stock-name = Приклад
-rmc-aslot-underbarrel-name = Подствольник
+ent-RMCWeaponRifleM54C2-slot-rmc-aslot-stock-name =
+    { -slot-rmc-aslot-stock-name }
+
+ent-RMCWeaponRifleM54C2-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+ent-RMCWeaponRifleM54C2-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+ent-RMCWeaponRifleM54C2-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+ent-RMCWeaponRifleM54C2-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 
 ### Режимы стрельбы ###
-gun-mode-SemiAuto = Одиночный
-gun-mode-Burst = Очередь (2 выстр.)
-gun-mode-FullAuto = Автоматический
+ent-RMCWeaponRifleM54C2-fire-mode-burst =
+    { -fire-mode-burst }
+
+ent-RMCWeaponRifleM54C2-fire-mode-semiauto =
+    { -fire-mode-semiauto }
+
+ent-RMCWeaponRifleM54C2-fire-mode-fullauto =
+    { -fire-mode-fullauto }
 
 ### Дополнительные описания ###
 rmc-attachment-suppressor = Глушитель

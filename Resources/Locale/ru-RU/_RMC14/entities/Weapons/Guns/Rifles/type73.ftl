@@ -8,13 +8,19 @@ type73-integrated-scope = Встроенный прицел
 type73-fine-tuned = Вручную доведённый механизм
 
 ### Слоты и компоненты ###
-gun-magazine-name = Магазин
-rmc-aslot-underbarrel-name = Подствольник
+ent-RMCWeaponRifleType73-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+ent-RMCWeaponRifleType73-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
 
 ### Режимы стрельбы ###
-gun-mode-SemiAuto = Одиночный
-gun-mode-Burst = Очередь (4 выстр.)
-gun-mode-FullAuto = Автоматический
+ent-RMCWeaponRifleType73-fire-mode-burst =
+    { -fire-mode-burst }
+ent-RMCWeaponRifleType73-fire-mode-semiauto =
+    { -fire-mode-semiauto }
+ent-RMCWeaponRifleType73-fire-mode-fullauto =
+    { -fire-mode-fullauto }
 
 ### Статус ###
 type73-rare = Эксклюзивное оружие

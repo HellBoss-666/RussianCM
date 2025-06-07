@@ -29,15 +29,26 @@ tag-rmcmagazineriflem54cmk1incendiary-name = Магазин MK1 Incendiary
 tag-rmcmagazineriflem54cmk1heap-name = Магазин MK1 HEAP
 
 ### Слоты ###
-slot-gun-magazine-name = Магазин
-slot-rmc-aslot-barrel-name = Ствол
-slot-rmc-aslot-rail-name = Направляющая
-slot-rmc-aslot-underbarrel-name = Подствольник
+entity-weaponriflem54cmk1-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+entity-weaponriflem54cmk1-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+entity-weaponriflem54cmk1-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+entity-weaponriflem54cmk1-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 
 ### Режимы стрельбы ###
-fire-mode-semiauto = Полуавтомат
-fire-mode-burst = Очередь (4 выстр.)
-fire-mode-fullauto = Автомат
+entity-weaponriflem54cmk1-fire-mode-burst =
+    { -fire-mode-burst }
+
+entity-weaponriflem54cmk1-fire-mode-semiauto =
+    { -fire-mode-semiauto }
+entity-weaponriflem54cmk1-fire-mode-fullauto =
+    { -fire-mode-fullauto }
 
 ### Типы боеприпасов ###
 ammo-type-10x24-caseless = 10×24мм (безгильзовый)

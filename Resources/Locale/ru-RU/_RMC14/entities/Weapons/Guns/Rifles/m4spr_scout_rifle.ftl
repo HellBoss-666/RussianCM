@@ -37,8 +37,11 @@ tag-rmccartridgeriflem4spra19impact-name = Патрон A19 HV HI
 tag-rmccartridgeriflem4spra19incendiary-name = Патрон A19 HV INC
 
 ### Режимы стрельбы ###
-fire-mode-semiauto = Полуавтомат
-fire-mode-burst = Очередь (2 выстр.)
+entity-weaponriflem4sprcustom-fire-mode-burst =
+    { -fire-mode-burst }
+
+entity-weaponriflem4sprcustom-fire-mode-semiauto =
+    { -fire-mode-semiauto }
 
 ### Типы боеприпасов ###
 ammo-type-a19 = A19 HV
@@ -52,8 +55,17 @@ ui-weapon-m4sprcustom-capacity = Ёмкость: 18 патронов
 ui-weapon-m4sprcustom-special = Только для обученных операторов
 
 ### Камуфляжи ###
-camouflage-jungle = Джунгли
-camouflage-desert = Пустыня
-camouflage-snow = Снег
-camouflage-classic = Классический
-camouflage-urban = Городской
+entity-weaponriflem4sprcustom-camouflage-variation-Jungle =
+    { -camouflage-variation-Jungle }
+
+entity-weaponriflem4sprcustom-camouflage-variation-Desert =
+    { -camouflage-variation-Desert }
+
+entity-weaponriflem4sprcustom-camouflage-variation-Snow =
+    { -camouflage-variation-Snow }
+
+entity-weaponriflem4sprcustom-camouflage-variation-Classic =
+    { -camouflage-variation-Classic }
+
+entity-weaponriflem4sprcustom-camouflage-variation-Urban =
+    { -camouflage-variation-Urban }

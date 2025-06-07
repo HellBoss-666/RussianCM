@@ -26,14 +26,25 @@ tag-cmmagazineriflem54ce2-name = Магазин M54CE2
 tag-cmcartridgerifle10x24mmht-name = Патрон 10×24мм HT
 
 ### Слоты ###
-slot-gun-magazine-name = Магазин
-slot-rmc-aslot-barrel-name = Ствол
-slot-rmc-aslot-rail-name = Направляющая
-slot-rmc-aslot-underbarrel-name = Подствольник
+
+entity-weaponriflem54ce2-slot-gun-magazine-name =
+    { -slot-gun-magazine-name }
+
+entity-weaponriflem54ce2-slot-rmc-aslot-underbarrel-name =
+    { -slot-rmc-aslot-underbarrel-name }
+
+entity-weaponriflem54ce2-slot-rmc-aslot-barrel-name =
+    { -slot-rmc-aslot-barrel-name }
+
+entity-weaponriflem54ce2-slot-rmc-aslot-rail-name =
+    { -slot-rmc-aslot-rail-name }
 
 ### Режимы стрельбы ###
-fire-mode-semiauto = Полуавтомат
-fire-mode-burst = Очередь (5 выстр.)
+entity-weaponriflem54ce2-fire-mode-burst =
+    { -fire-mode-burst }
+
+entity-weaponriflem54ce2-fire-mode-semiauto =
+    { -fire-mode-semiauto }
 
 ### Типы боеприпасов ###
 ammo-type-10x24 = 10×24мм
@@ -48,8 +59,17 @@ ui-weapon-m54ce2-capacity = Ёмкость: 300 патронов
 ui-weapon-m54ce2-bipod = Рекомендуется использование с сошками
 
 ### Камуфляжи ###
-camouflage-jungle = Джунгли
-camouflage-desert = Пустыня
-camouflage-snow = Снег
-camouflage-classic = Классический
-camouflage-urban = Городской
+entity-weaponriflem54ce2-camouflage-variation-Jungle =
+    { -camouflage-variation-Jungle }
+
+entity-weaponriflem54ce2-camouflage-variation-Desert =
+    { -camouflage-variation-Desert }
+
+entity-weaponriflem54ce2-camouflage-variation-Snow =
+    { -camouflage-variation-Snow }
+
+entity-weaponriflem54ce2-camouflage-variation-Classic =
+    { -camouflage-variation-Classic }
+
+entity-weaponriflem54ce2-camouflage-variation-Urban =
+    { -camouflage-variation-Urban }
