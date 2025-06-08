@@ -2,6 +2,9 @@ using Robust.Shared.GameStates;
 
 namespace Content.Server.Vehicles.Components;
 
+/// <summary>
+/// Атрибуты контроллера танка
+/// </summary>
 [RegisterComponent, NetworkedComponent]
 public sealed partial class TankControllerComponent : Component
 {

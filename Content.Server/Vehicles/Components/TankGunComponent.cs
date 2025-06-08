@@ -4,30 +4,28 @@ using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototy
 
 namespace Content.Server.Vehicles.Components;
 
+/// <summary>
+/// Атрибуты оружия танка
+/// </summary>
 [RegisterComponent, NetworkedComponent]
 public sealed partial class TankGunComponent : Component
 {
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("maxAmmo")]
+    [DataField]
     public int MaxAmmo = 20;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("ammo")]
+    [DataField]
     public int Ammo = 20;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("cooldown")]
+    [DataField]
     public float Cooldown = 1.5f; // Секунд между выстрелами
 
     [ViewVariables]
     public TimeSpan NextFire = TimeSpan.Zero;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("projectilePrototype", customTypeSerializer: typeof(PrototypeIdSerializer<EntityPrototype>))]
+    [DataField(customTypeSerializer: typeof(PrototypeIdSerializer<EntityPrototype>))]
     public string ProjectilePrototype = "TankShell";
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("projectileSpeed")]
+    [DataField]
     public float ProjectileSpeed = 25f;
 
     // Добавлено новое свойство

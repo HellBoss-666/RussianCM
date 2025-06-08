@@ -1,23 +1,17 @@
 using Robust.Shared.GameStates;
-using Robust.Shared.Serialization;
-using Robust.Shared.Map;
-using System.Collections.Generic;
 
 namespace Content.Server.Vehicles.Components;
 
 [RegisterComponent, NetworkedComponent]
 public sealed partial class TankMovementComponent : Component
 {
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("maxSpeed")]
+    [DataField]
     public float MaxSpeed = 5f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("acceleration")]
+    [DataField]
     public float Acceleration = 2f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("rotationSpeed")]
+    [DataField]
     public float RotationSpeed = 1.5f;
 
     [ViewVariables]

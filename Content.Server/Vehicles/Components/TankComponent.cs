@@ -1,32 +1,28 @@
 using Robust.Shared.GameStates;
-using Robust.Shared.Serialization;
 
 namespace Content.Server.Vehicles.Components;
 
+/// <summary>
+/// Атрибуты танка
+/// </summary>
 [RegisterComponent, NetworkedComponent]
 public sealed partial class TankComponent : Component
 {
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("maxHealth")]
+    [DataField]
     public float MaxHealth = 1000f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("health")]
+    [DataField]
     public float Health = 1000f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("armor")]
+    [DataField]
     public float Armor = 500f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("maxFuel")]
+    [DataField]
     public float MaxFuel = 200f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("fuel")]
+    [DataField]
     public float Fuel = 200f;
 
-    [ViewVariables(VVAccess.ReadWrite)]
-    [DataField("fuelConsumptionRate")]
+    [DataField]
     public float FuelConsumptionRate = 0.5f; // Потребление топлива в секунду
 }

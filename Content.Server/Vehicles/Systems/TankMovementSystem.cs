@@ -1,25 +1,24 @@
+using System.Numerics;
 using Content.Server.Vehicles.Components;
+using Content.Shared.Vehicles.Components;
 using Robust.Server.GameObjects;
 using Robust.Shared.Input;
 using Robust.Shared.Input.Binding;
 using Robust.Shared.Physics.Components;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Player;
-using Robust.Shared.Map;
-using Robust.Shared.Maths;
 using Robust.Shared.Timing;
-using Robust.Shared.Utility;
-using System.Numerics;
-using Robust.Shared.Physics;
-using Content.Shared.Vehicles.Components;
 
 namespace Content.Server.Vehicles.Systems;
 
+/// <summary>
+/// Система перемещения танка
+/// </summary>
 public sealed class TankMovementSystem : EntitySystem
 {
-    [Dependency] private readonly SharedPhysicsSystem _physics = default!;
-    [Dependency] private readonly IGameTiming _gameTiming = default!;
-    [Dependency] private readonly TransformSystem _transform = default!; // Изменено на TransformSystem
+    [Dependency] private readonly SharedPhysicsSystem _physics = null!;
+    [Dependency] private readonly IGameTiming _gameTiming = null!;
+    [Dependency] private readonly TransformSystem _transform = null!; // Изменено на TransformSystem
 
     public override void Initialize()
     {
@@ -38,37 +37,42 @@ public sealed class TankMovementSystem : EntitySystem
             .Register<TankMovementSystem>();
     }
 
-    private sealed class MovementInputCmdHandler : InputCmdHandler
+    /// <summary>
+    /// Обработчик перемещения
+    /// </summary>
+    /// <param name="direction">направление</param>
+    private sealed class MovementInputCmdHandler(Direction direction) : InputCmdHandler
     {
-        private readonly Direction _direction;
-
-        public MovementInputCmdHandler(Direction direction)
-        {
-            _direction = direction;
-        }
-
-        public override bool HandleCmdMessage(IEntityManager entityManager, ICommonSession? session, IFullInputCmdMessage message)
+        public override bool HandleCmdMessage(IEntityManager entityManager,
+            ICommonSession? session,
+            IFullInputCmdMessage message)
         {
             if (session?.AttachedEntity is not { } entity)
                 return false;
 
             // Сохраняем состояние движения в компоненте
-            if (entityManager.TryGetComponent<TankMovementComponent>(entity, out var movement))
+            if (!entityManager.TryGetComponent<TankMovementComponent>(entity, out var movement))
+                return false;
+
+            // Двигаемся либо вперед, либо назад
+            switch (message.State)
             {
-                if (message.State == BoundKeyState.Down)
-                {
-                    movement.ActiveDirections.Add(_direction);
-                }
-                else if (message.State == BoundKeyState.Up)
-                {
-                    movement.ActiveDirections.Remove(_direction);
-                }
-                return true;
+                case BoundKeyState.Down:
+                    movement.ActiveDirections.Add(direction);
+                    break;
+                case BoundKeyState.Up:
+                    movement.ActiveDirections.Remove(direction);
+                    break;
             }
-            return false;
+
+            return true;
         }
     }
 
+    /// <summary>
+    /// Обновление позиции танка
+    /// </summary>
+    /// <param name="frameTime"></param>
     public override void Update(float frameTime)
     {
         base.Update(frameTime);
@@ -91,7 +95,7 @@ public sealed class TankMovementSystem : EntitySystem
                 }
             }
 
-            if (driver == null || !TryComp<ActorComponent>(driver.Value, out var actor))
+            if (driver == null || !TryComp<ActorComponent>(driver.Value, out _))
                 continue;
 
             // Рассчитываем вектор движения на основе активных направлений
@@ -112,6 +116,13 @@ public sealed class TankMovementSystem : EntitySystem
         }
     }
 
+    /// <summary>
+    /// Процесс перемещения
+    /// </summary>
+    /// <param name="uid"></param>
+    /// <param name="movement"></param>
+    /// <param name="moveDir"></param>
+    /// <param name="frameTime"></param>
     private void ProcessMovement(EntityUid uid, TankMovementComponent movement, Vector2 moveDir, float frameTime)
     {
         if (!TryComp<PhysicsComponent>(uid, out var physics))

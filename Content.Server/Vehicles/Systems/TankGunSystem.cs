@@ -1,23 +1,25 @@
-using Content.Server.Projectiles;
 using Content.Server.Vehicles.Components;
 using Content.Shared.Projectiles;
+using Content.Shared.Vehicles.Components;
 using Robust.Shared.GameStates;
-using Robust.Shared.Physics;
 using Robust.Shared.Physics.Components;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
-using Robust.Shared.Map;
-using System;
-using Robust.Shared.Serialization;
-using Content.Shared.Vehicles.Components; // Используем общий компонент состояния
 
+// Используем общий компонент состояния
+
+namespace Content.Server.Vehicles.Systems;
+
+/// <summary>
+/// Система управления оружием танка
+/// </summary>
 public sealed class TankGunSystem : EntitySystem
 {
-    [Dependency] private readonly IGameTiming _gameTiming = default!;
-    [Dependency] private readonly IPrototypeManager _proto = default!;
-    [Dependency] private readonly SharedPhysicsSystem _physics = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
+    [Dependency] private readonly IGameTiming _gameTiming = null!;
+    [Dependency] private readonly IPrototypeManager _proto = null!;
+    [Dependency] private readonly SharedPhysicsSystem _physics = null!;
+    [Dependency] private readonly SharedTransformSystem _transform = null!;
 
     public override void Initialize()
     {
@@ -25,11 +27,23 @@ public sealed class TankGunSystem : EntitySystem
         SubscribeLocalEvent<TankGunComponent, ComponentGetState>(OnGetState);
     }
 
-    private void OnGetState(EntityUid uid, TankGunComponent component, ref ComponentGetState args)
+    /// <summary>
+    /// Получение состояния оружия
+    /// </summary>
+    /// <param name="uid">Танк</param>
+    /// <param name="component">Компонент оружия</param>
+    /// <param name="args"></param>
+    private static void OnGetState(EntityUid uid, TankGunComponent component, ref ComponentGetState args)
     {
         args.State = new TankGunComponentState(component.Ammo, component.NextFire, component.CanShoot);
     }
 
+    /// <summary>
+    /// Стрельба
+    /// </summary>
+    /// <param name="uid"></param>
+    /// <param name="user">Игрок</param>
+    /// <param name="gun">Пушка</param>
     public void TryFire(EntityUid uid, EntityUid user, TankGunComponent gun)
     {
         if (gun.Ammo <= 0 || !gun.CanShoot || gun.NextFire > _gameTiming.CurTime)
