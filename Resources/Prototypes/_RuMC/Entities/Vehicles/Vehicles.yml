@@ -12,14 +12,18 @@
   - type: GiveHands
     hands:
     - name: Driver
-      location: Center
+      location: Middle
 
   # 2) Логика здоровья/топлива
   - type: Tank
     maxHealth: 1500
     armor: 700
     maxFuel: 300
-
+  - type: Strap
+    maxBuckleDistance: 2.0
+    buckleOffset: "0,0"
+  - type: MobMover
+  - type: InputMover
   # 3) Ваши системы движения и стрельбы
   - type: TankMovement
     maxSpeed: 4.5
@@ -51,8 +55,8 @@
 
   # 5) Визуализация и попадание урона
   - type: Sprite
-    sprite: Vehicles/tank.rsi
-    state: base
+    sprite: RuMC/Vehicles/tank.rsi
+    state: tank_base
   - type: Damageable
     damageContainer: Inorganic
   - type: Destructible

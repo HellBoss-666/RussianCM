@@ -1,20 +1,11 @@
-using Robust.Shared.GameStates;
 using Robust.Shared.Serialization;
-using System;
 
 namespace Content.Shared.Vehicles.Components;
 
 [Serializable, NetSerializable]
-public sealed class TankGunComponentState : ComponentState
+public sealed class TankGunComponentState(int ammo, TimeSpan nextFire, bool canShoot) : ComponentState
 {
-    public int Ammo { get; }
-    public TimeSpan NextFire { get; }
-    public bool CanShoot { get; }
-
-    public TankGunComponentState(int ammo, TimeSpan nextFire, bool canShoot)
-    {
-        Ammo = ammo;
-        NextFire = nextFire;
-        CanShoot = canShoot;
-    }
+    public int Ammo { get; } = ammo;
+    public TimeSpan NextFire { get; } = nextFire;
+    public bool CanShoot { get; } = canShoot;
 }

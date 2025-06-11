@@ -1,5 +1,5 @@
-using Content.Server.Vehicles.Components;
 using Content.Shared.Projectiles;
+using Content.Shared.RuMC.Vehicles.Components;
 using Content.Shared.Vehicles.Components;
 using Robust.Shared.GameStates;
 using Robust.Shared.Physics.Components;
@@ -9,7 +9,7 @@ using Robust.Shared.Timing;
 
 // Используем общий компонент состояния
 
-namespace Content.Server.Vehicles.Systems;
+namespace Content.Shared.RuMC.Vehicles.Systems;
 
 /// <summary>
 /// Система управления оружием танка

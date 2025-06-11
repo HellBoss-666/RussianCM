@@ -1,8 +1,8 @@
-using Content.Server.Vehicles.Components;
-using Content.Server.Vehicles.Systems;
+using Content.Shared.RuMC.Vehicles.Components;
+using Content.Shared.RuMC.Vehicles.Systems;
 using Content.Shared.Vehicles.Components;
 
-namespace Content.Server.Vehicles;
+namespace Content.Shared.RuMC.Vehicles;
 
 /// <summary>
 /// Модуль техники

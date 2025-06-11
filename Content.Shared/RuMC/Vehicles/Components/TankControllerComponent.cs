@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Server.Vehicles.Components;
+namespace Content.Shared.RuMC.Vehicles.Components;
 
 /// <summary>
 /// Атрибуты контроллера танка

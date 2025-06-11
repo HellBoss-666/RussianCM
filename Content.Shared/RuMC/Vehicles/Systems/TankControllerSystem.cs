@@ -1,9 +1,9 @@
-using Content.Server.Vehicles.Components;
+using Content.Shared.RuMC.Vehicles.Components;
 using Content.Shared.Vehicles.Components;
 using Robust.Shared.Input;
 using Robust.Shared.Input.Binding;
 
-namespace Content.Server.Vehicles.Systems;
+namespace Content.Shared.RuMC.Vehicles.Systems;
 
 /// <summary>
 /// Система контроля танка

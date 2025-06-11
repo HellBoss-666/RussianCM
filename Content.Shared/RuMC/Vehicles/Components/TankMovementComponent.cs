@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Server.Vehicles.Components;
+namespace Content.Shared.RuMC.Vehicles.Components;
 
 [RegisterComponent, NetworkedComponent]
 public sealed partial class TankMovementComponent : Component

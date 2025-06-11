@@ -1,8 +1,12 @@
-using Content.Server.Vehicles.Components;
+using Content.Shared.Buckle.Components;
+using Content.Shared.Interaction;
+using Content.Shared.Interaction.Components;
+using Content.Shared.Movement.Components;
+using Content.Shared.Movement.Systems;
+using Content.Shared.RuMC.Vehicles.Components;
 using Content.Shared.Vehicles.Components;
 
-namespace Content.Server.Vehicles.Systems;
-
+namespace Content.Shared.RuMC.Vehicles.Systems;
 
 /// <summary>
 /// Система танка
@@ -10,12 +14,17 @@ namespace Content.Server.Vehicles.Systems;
 public sealed class TankSystem : EntitySystem
 {
     [Dependency] private readonly TankControllerSystem _controllerSystem = null!;
+    [Dependency] private readonly SharedMoverController _mover = null!;
+    [Dependency] private readonly SharedInteractionSystem _interaction = null!;
 
     public override void Initialize()
     {
         base.Initialize();
         SubscribeLocalEvent<TankComponent, ComponentInit>(OnTankInit);
         SubscribeLocalEvent<TankComponent, EntityTerminatingEvent>(OnTankTerminating);
+        // Подписываемся на взаимодействие для посадки в танк через ПКМ-меню
+        SubscribeLocalEvent<TankComponent, StrappedEvent>(OnStrapped);
+        SubscribeLocalEvent<TankComponent, UnstrappedEvent>(OnUnstrapped);
     }
 
     /// <summary>
@@ -63,5 +72,26 @@ public sealed class TankSystem : EntitySystem
         tank.Health -= damage;
         if (tank.Health <= 0)
             QueueDel(uid);
+    }
+
+    private void OnStrapped(Entity<TankComponent> ent, ref StrappedEvent args)
+    {
+        var buckle = args.Buckle;
+
+        // Добавляем компонент, который будет релеить клики
+        var interactionRelay = EnsureComp<InteractionRelayComponent>(buckle);
+        // И вот тут передаём именно его
+        _interaction.SetRelay(buckle, ent, interactionRelay);
+
+        // Добавляем RelayInputMoverComponent и сразу подключаем ввод
+        EnsureComp<RelayInputMoverComponent>(buckle);
+        _mover.SetRelay(buckle, ent);
+    }
+
+    private void OnUnstrapped(Entity<TankComponent> ent, ref UnstrappedEvent args)
+    {
+        var buckle = args.Buckle;
+        RemCompDeferred<RelayInputMoverComponent>(buckle);
+        RemCompDeferred<InteractionRelayComponent>(buckle);
     }
 }

@@ -1,8 +1,6 @@
 using System.Linq;
 using System.Numerics;
-using Content.Server.Vehicles.Components;
 using Content.Shared.Vehicles.Components;
-using Robust.Server.GameObjects;
 using Robust.Shared.Input;
 using Robust.Shared.Input.Binding;
 using Robust.Shared.Physics.Components;
@@ -10,7 +8,7 @@ using Robust.Shared.Physics.Systems;
 using Robust.Shared.Player;
 using Robust.Shared.Timing;
 
-namespace Content.Server.Vehicles.Systems;
+namespace Content.Shared.RuMC.Vehicles.Systems;
 
 /// <summary>
 /// Система перемещения танка
@@ -19,7 +17,7 @@ public sealed class TankMovementSystem : EntitySystem
 {
     [Dependency] private readonly SharedPhysicsSystem _physics = null!;
     [Dependency] private readonly IGameTiming _gameTiming = null!;
-    [Dependency] private readonly TransformSystem _transform = null!; // Изменено на TransformSystem
+    [Dependency] private readonly SharedTransformSystem _transform = null!; // Изменено на TransformSystem
 
     public override void Initialize()
     {
@@ -52,7 +50,7 @@ public sealed class TankMovementSystem : EntitySystem
                 return false;
 
             // Сохраняем состояние движения в компоненте
-            if (!entityManager.TryGetComponent<TankMovementComponent>(entity, out var movement))
+            if (!entityManager.TryGetComponent<Shared.RuMC.Vehicles.Components.TankMovementComponent>(entity, out var movement))
                 return false;
 
             // Двигаемся либо вперед, либо назад
@@ -78,7 +76,7 @@ public sealed class TankMovementSystem : EntitySystem
     {
         base.Update(frameTime);
 
-        var query = EntityQueryEnumerator<TankMovementComponent>();
+        var query = EntityQueryEnumerator<Shared.RuMC.Vehicles.Components.TankMovementComponent>();
         while (query.MoveNext(out var uid, out var movement))
         {
             if (!movement.CanMove)
@@ -121,7 +119,7 @@ public sealed class TankMovementSystem : EntitySystem
     /// <param name="movement"></param>
     /// <param name="moveDir"></param>
     /// <param name="frameTime"></param>
-    private void ProcessMovement(EntityUid uid, TankMovementComponent movement, Vector2 moveDir, float frameTime)
+    private void ProcessMovement(EntityUid uid, Shared.RuMC.Vehicles.Components.TankMovementComponent movement, Vector2 moveDir, float frameTime)
     {
         if (!TryComp<PhysicsComponent>(uid, out var physics))
             return;
