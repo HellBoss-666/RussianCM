@@ -1,5 +1,7 @@
+using Content.Shared.Atmos.Components;
 using Content.Shared.Atmos.Prototypes;
 using Content.Shared.Body.Components;
+using Content.Shared.Body.Systems;
 using Robust.Shared.Prototypes;
 
 namespace Content.Shared.Atmos.EntitySystems
@@ -7,6 +9,7 @@ namespace Content.Shared.Atmos.EntitySystems
     public abstract partial class SharedAtmosphereSystem : EntitySystem
     {
         [Dependency] private readonly IPrototypeManager _prototypeManager = default!;
+        [Dependency] private readonly SharedInternalsSystem _internals = default!;
 
         private EntityQuery<InternalsComponent> _internalsQuery;
 
