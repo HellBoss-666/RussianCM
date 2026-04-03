@@ -4,15 +4,15 @@
   parent: ColMarTechBase
   id: ColMarTechCargo
   components:
-    - type: AccessReader
-      access:
-        - ["CMAccessRequisitions"]
-    - type: CMAutomatedVendor
-      sound:
-        path: /Audio/_RMC14/Machines/vending_drop.ogg
-        params:
-          maxDistance: 2
-          volume: -4
+  - type: AccessReader
+    access:
+    - [ "CMAccessRequisitions" ]
+  - type: CMAutomatedVendor
+    sound:
+      path: /Audio/_RMC14/Machines/vending_drop.ogg
+      params:
+        maxDistance: 2
+        volume: -4
 
 # ARMAMENTS VENDOR
 - type: entity
@@ -21,7 +21,11 @@
   name: ASRS automated armaments vendor
   description: An automated supply rack hooked up to a big storage of various firearms, explosives, load carrying equipment, and other miscellaneous items. Can be accessed by the Logistics Officer and Requisitions Technicians.
   components:
-    - type: Sprite
+  - type: Sprite
+    sprite: _RMC14/Structures/Machines/VendingMachines/ColMarTech/requisitions_wall/guns.rsi
+  - type: RMCRequisitionsVendor
+  - type: CMAutomatedVendor
+    baseSprite:
       sprite: _RMC14/Structures/Machines/VendingMachines/ColMarTech/requisitions_wall/guns.rsi
       state: base
     animationSprite:
@@ -351,7 +355,11 @@
   name: ASRS automated munition vendor
   description: An automated supply rack hooked up to a big storage of various ammunition types. Can be accessed by the Logistics Officer and Requisitions Technicians.
   components:
-    - type: Sprite
+  - type: Sprite
+    sprite: _RMC14/Structures/Machines/VendingMachines/ColMarTech/requisitions_wall/ammo.rsi
+  - type: RMCRequisitionsVendor
+  - type: CMAutomatedVendor
+    baseSprite:
       sprite: _RMC14/Structures/Machines/VendingMachines/ColMarTech/requisitions_wall/ammo.rsi
       state: base
     animationSprite:
@@ -608,7 +616,11 @@
   name: AEGIS Armaments attachments vendor
   description: An automated supply rack hooked up to a big storage of weapons attachments. Can be accessed by the Logistics Officer and Requisitions Technicians.
   components:
-    - type: Sprite
+  - type: Sprite
+    sprite: _RMC14/Structures/Machines/VendingMachines/ColMarTech/requisitions_wall/attachments.rsi
+  - type: RMCRequisitionsVendor
+  - type: CMAutomatedVendor
+    baseSprite:
       sprite: _RMC14/Structures/Machines/VendingMachines/ColMarTech/requisitions_wall/attachments.rsi
       state: base
     animationSprite:
