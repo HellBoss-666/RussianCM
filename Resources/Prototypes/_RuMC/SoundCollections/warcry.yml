@@ -63,7 +63,6 @@
 - type: soundCollection
   id: RuMCFemaleWarcry
   files:
-    - /Audio/_RuMC14/Voice/Human/warcry/female_warcry/- /Audio/_RuMC14/Voice/Human/warcry/female_warcry/male_wryy.ogg
     - /Audio/_RuMC14/Voice/Human/warcry/female_warcry/female_charge.ogg
     - /Audio/_RuMC14/Voice/Human/warcry/female_warcry/female_yell1.ogg
     - /Audio/_RuMC14/Voice/Human/warcry/female_warcry/warcry_female_1.ogg
