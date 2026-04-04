@@ -1,0 +1,16 @@
+ent-RMCTentBase-name = UNMC Field Tent
+ent-RMCTentBase-desc = A standard UNMC Tent. This one is just a general purpose version. Unfold in a suitable location for micro-FOB vibes. ComTech not included. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCBig-name = UNMC Big Tent
+ent-RMCTentUNMCBig-desc = A standard UNMC Field Tent. This one is just a general purpose, large version. Unfold in a suitable location for micro-FOB vibes. ComTech not included. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCStandardCommand-name = UNMC Command Tent
+ent-RMCTentUNMCStandardCommand-desc = A standard UNMC Command Tent. This one comes equipped with a self-powered Overwatch Console and a Telephone. Unfold in a suitable location to maximize usefulness. Staff Officer not included. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCStandardMedical-name = UNMC Medical Tent
+ent-RMCTentUNMCStandardMedical-desc = A standard UNMC Medical Tent. This one comes equipped with advanced field surgery facilities. Unfold in a suitable location to maximize health gains. Surgical Tray not included. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCExtended-name = UNMC Extended Field Tent
+ent-RMCTentUNMCExtended-desc = A standard UNMC Tent. This one is just an extended general purpose version. Unfold in a suitable location for mega FOB vibes. Mess Tech not included. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCExtendedReq-name = UNMC Requisitions Tent
+ent-RMCTentUNMCExtendedReq-desc = A standard UNMC Requisitions Tent. Now, you can enjoy req line anywhere you go! Unfold in a suitable location to maximize resource distribution. ASRS not included. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCExtendedMess-name = UNMC Mess Tent
+ent-RMCTentUNMCExtendedMess-desc = A standard UNMC Mess Tent. This one comes equipped with a kitchen and dining utilities. Unfold in a suitable location to maximize meal handouts. ENTRANCE TO THE SOUTH.
+ent-RMCTentUNMCExtendedMP-name = UNMC Military Police Tent
+ent-RMCTentUNMCExtendedMP-desc = A standard UNMC Military Police Tent. This one comes equipped with a single detention cell and detainee handling equipment. Unfold in a suitable location to maximize order enforcement. ENTRANCE TO THE SOUTH.

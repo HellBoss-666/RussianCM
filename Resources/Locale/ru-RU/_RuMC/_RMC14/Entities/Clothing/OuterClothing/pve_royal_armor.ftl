@@ -1,0 +1,16 @@
+ent-RMCArmorRoyalPVE-name = L3A Kestrel modular vest
+ent-RMCArmorRoyalPVE-desc = The ubiquitous Assault variant of the L3 Kestrel modular vest, standard issue body armor for Royal Crown Marines.
+ent-RMCArmorRoyalLightPVE-name = L3S Kestrel modular vest
+ent-RMCArmorRoyalLightPVE-desc = The light Support variant of the L3 Kestrel modular vest, standard issue body armor for officers and support personnel of the Royal Crown Marines.
+ent-RMCArmorRoyalPointmanPVE-name = L3T Kestrel modular vest
+ent-RMCArmorRoyalPointmanPVE-desc = The robust Technician variant of the L3 Kestrel modular vest, standard issue body armor for sappers and breachers of the Royal Crown Marines.
+ent-RMCArmorRoyalHarnessPVE-name = L3H Kestrel modular harness
+ent-RMCArmorRoyalHarnessPVE-desc = The aptly-named Harness variant of the L3 Kestrel modular vest, standard issue body armor for gunners of the Royal Crown Marines.
+ent-RMCPVEArmorCaseRoyal-name = L3A Kestrel modular armor kit
+ent-RMCPVEArmorCaseRoyal-desc = A case containing the L3A Kestrel modular vest, L5A2 helmet, and relevant accoutrements.
+ent-RMCPVEArmorCaseRoyalLight-name = L3S Kestrel modular armor kit
+ent-RMCPVEArmorCaseRoyalLight-desc = A case containing the L3S Kestrel modular vest, L5A3 helmet, and relevant accoutrements.
+ent-RMCPVEArmorCaseRoyalPointman-name = L3T Kestrel modular armor kit
+ent-RMCPVEArmorCaseRoyalPointman-desc = A case containing the L3T Kestrel modular vest, L5A3 helmet, and relevant accoutrements.
+ent-RMCPVEArmorCaseRoyalHarness-name = L3H Kestrel modular harness kit
+ent-RMCPVEArmorCaseRoyalHarness-desc = A case containing the L3H Kestrel modular harness, L5A3 helmet, and relevant accoutrements.

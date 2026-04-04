@@ -1,0 +1,12 @@
+ent-RMCWeaponRifleL42A-name = L42A battle rifle
+ent-RMCWeaponRifleL42A-desc = The L42A Battle Rifle, found commonly around the frontiers of the Galaxy. It's commonly used by colonists for self defense, as well as many colonial militias, whomever they serve due to it's rugged reliability and ease of use without much training. This rifle was put up for adoption by the UNMC and tested for a time, but ultimately lost to the M4SPR already in service.
+ent-RMCMagazineRifleL42A-name = L42A magazine (10x24mm)
+ent-RMCMagazineRifleL42A-desc = A 10x24mm battle rifle magazine.
+ent-RMCMagazineRifleL42AExtended-name = L42A Extended magazine (10x24mm)
+ent-RMCMagazineRifleL42AExtended-desc = A Extended 10x24mm battle rifle magazine.
+ent-RMCMagazineRifleL42AAP-name = L42A AP magazine (10x24mm)
+ent-RMCMagazineRifleL42AAP-desc = A 10x24mm Armor Piercing battle rifle magazine.
+ent-RMCMagazineRifleL42AWP-name = L42A WP magazine (10x24mm)
+ent-RMCMagazineRifleL42AWP-desc = A 10x24mm Wall Piercing battle rifle magazine.
+ent-RMCMagazineRifleL42AIncendiary-name = L42A incendiary magazine (10x24mm)
+ent-RMCMagazineRifleL42AIncendiary-desc = A 10x24mm Incendiary battle rifle magazine.

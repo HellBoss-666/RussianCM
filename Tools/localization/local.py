@@ -13,9 +13,8 @@ def sanitize_ftl_value(text):
     return text
 
 def create_ftl_from_prototypes_advanced():
-    prototypes_path = "Resources/Prototypes"
-    locale_base_path = "Resources/Locale/ru-RU/_RuMC"
-
+    prototypes_path = "../../Resources/Prototypes"
+    locale_base_path = "../../Resources/Locale/ru-RU/_RuMC"
     # Статистика
     stats = {
         'processed': 0,

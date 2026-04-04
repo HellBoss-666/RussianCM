@@ -1,0 +1,10 @@
+ent-RMCSmartGunMounted-name = ML66D heavy machine gun
+ent-RMCSmartGunMounted-desc = The top half of a ML66D heavy machine gun post. However it ain't much use without the tripod.
+ent-RMCSmartGunMountedStatic-name = ML66D heavy machine gun
+ent-RMCMagazineML66D-name = ML66D drum magazine (10x28mm)
+ent-RMCMagazineML66D-desc = A box of 700, 10x28mm caseless tungsten rounds for the ML66D heavy machine gun system.
+ent-RMCMagazineML66DLarge-name = large ML66D drum magazine (10x28mm)
+ent-RMCMagazineML66DLarge-desc = A box of 1500, 10x28mm caseless tungsten rounds for the ML66D heavy machine gun system.
+ent-RMCCartridgeHMG10x28mm-name = cartridge (10x28mm)
+ent-RMCCartridgeHMG10x28mmOffset-name = cartridge (10x28mm)
+ent-RMCBulletHMG10x28mm-name = bullet (10x28mm)

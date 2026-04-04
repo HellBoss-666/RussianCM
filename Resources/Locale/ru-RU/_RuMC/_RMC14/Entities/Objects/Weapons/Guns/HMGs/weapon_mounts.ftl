@@ -1,0 +1,12 @@
+ent-RMCBaseWeaponMount-name = weapon mount
+ent-RMCBaseWeaponMount-desc = A mount to place a weapon on
+ent-RMCML66DNestSandbag-name = scoped ML66D heavy machine gun nest
+ent-RMCML66DNestSandbag-desc = A scoped ML66D heavy machine gun mounted upon a small reinforced post with sandbags to provide a small machine gun nest for all your defensive needs.
+ent-RMCML66DNestMetal-name = scoped ML66D heavy machine gun
+ent-RMCML66DNestMetal-desc = A scoped ML66D heavy machine gun mounted behind a metal shield.
+ent-RMCML66DMount-name = ML66D mount
+ent-RMCML66DMount-desc = A foldable mount for the ML66D, provides stability to the ML66D.
+ent-RMCML66DMountAssembled-name = ML66D heavy machine gun
+ent-RMCML66DMountAssembled-desc = A deployable, heavy machine gun. It fires specialized tungsten rounds for increased armor penetration.
+ent-RMCM2CMount-name = M2C heavy machine gun
+ent-RMCM2CMount-desc = The disassembled M2C HMG, with its telescopic tripods folded up and unable to fire.

@@ -1,0 +1,17 @@
+ent-RMCSkillPresetSurvivor-name = Survivor
+ent-RMCSkillPresetSurvivorChaplain-name = Survivor Chaplain
+ent-RMCSkillPresetSurvivorWeYaManager-name = Survivor WeYa Manager
+ent-RMCSkillPresetSurvivorMarshal-name = Deputy Marshal Survivor
+ent-RMCSkillPresetSurvivorRiotControlTeamLeader-name = Survivor CMB Riot Control Team Leader
+ent-RMCSkillPresetSurvivorGoon-name = Survivor Goon
+ent-RMCSkillPresetSurvivorGoonMedic-name = Survivor Goon Medic
+ent-RMCSkillPresetSurvivorGoonTechnician-name = Survivor Goon Technician
+ent-RMCSkillPresetSurvivorGoonLead-name = Survivor Goon Lead
+ent-RMCSkillPresetSurvivorTrucker-name = Survivor Trucker
+ent-RMCSkillPresetSurvivorMiner-name = Survivor Miner
+ent-RMCSkillPresetSurvivorWeYaPMCStandard-name = Survivor PMC Standard
+ent-RMCSkillPresetSurvivorWeYaPMCMedic-name = Survivor PMC Medic
+ent-RMCSkillPresetSurvivorWeYaPMCEngineer-name = Survivor PMC Engineer
+ent-RMCSkillPresetSurvivorWeYaPMCLeader-name = Survivor PMC Team Leader
+ent-RMCSkillPresetSurvivorWeYaPMCCommander-name = Survivor PMC Field Operations Leader
+ent-RMCSkillPresetSurvivorPizzaGalaxyDriver-name = Survivor Pizza Galaxy Delivery Driver

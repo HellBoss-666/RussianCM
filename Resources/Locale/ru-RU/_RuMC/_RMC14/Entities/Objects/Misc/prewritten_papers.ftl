@@ -1,0 +1,16 @@
+ent-RMCPaperExecutionOrder-name = execution order
+ent-RMCPaperP304-name = P-304 armory request form
+ent-RMCPaperP399-name = P-399 gear retrieval form
+ent-RMCPaperP401-name = P-401 incident report
+ent-RMCPaperP402-name = P-402 provost correspondence
+ent-RMCPaperP403-name = P-403 arrest report
+ent-RMCPaperP404-name = P-404 witness statement
+ent-RMCPaperP415-name = P-415 record of misuse of authority
+ent-RMCPaperP508-name = P-508 search warrant
+ent-RMCPaperP509-name = P-509 arrest warrant
+ent-RMCPaperP512-name = P-512 deployment request
+ent-RMCPaperP605-name = P-605 incident report
+ent-RMCPaperP701-name = P-701 brigging checklist
+ent-RMCPaperP702-name = P-702 processing checklist
+ent-RMCPaperCLFVaradero-name = SOS!
+ent-RMCPaperCLFRocinante-name = Captain's Log

@@ -1,0 +1,2 @@
+ent-RMCSpawnPointSurvivorChancesTerraformingSpecialist-name = terraforming specialist spawn point
+ent-RMCRandomHumanoidSurvivorChancesTerraformingSpecialist-name = terraforming specialist ghost role

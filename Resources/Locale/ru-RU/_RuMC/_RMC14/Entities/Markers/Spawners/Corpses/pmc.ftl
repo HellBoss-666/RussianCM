@@ -1,0 +1,9 @@
+ent-RMCSpawnerCorpseWeYaGoon-name = Corpse Spawner - We-Ya Goon
+ent-RMCSpawnerCorpseWeYaGoonLead-name = Corpse Spawner - We-Ya Goon Lead
+ent-RMCSpawnerCorpseWeYaGoonLeadBurst-name = Corpse Spawner - We-Ya Goon Lead
+ent-RMCSpawnerCorpseWeYaPMC-name = Corpse Spawner - We-Ya PMC Standard
+ent-RMCSpawnerCorpseWeYaPMCStandardBurst-name = Corpse Spawner - We-Ya PMC Standard
+ent-RMCSpawnerCorpseWeYaGoonLeadHybrisa-name = Corpse Spawner - We-Ya Goon Hybrisa Lead
+ent-RMCSpawnerCorpseWeYaGoonLeadHybrisaBurst-name = Corpse Spawner - We-Ya Goon Hybrisa Lead
+ent-RMCSpawnerCorpseWeYaGoonHybrisa-name = Corpse Spawner - We-Ya Goon Hybrisa
+ent-RMCSpawnerCorpseWeYaGoonKutjevo-name = Corpse Spawner - We-Ya Goon Kutjevo

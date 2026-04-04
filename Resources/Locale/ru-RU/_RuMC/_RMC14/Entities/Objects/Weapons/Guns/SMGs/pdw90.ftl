@@ -1,0 +1,12 @@
+ent-RMCWeaponSMGPDW90-name = FN PDW90 submachine gun
+ent-RMCWeaponSMGPDW90-desc = The PDW90 submachine gun. An archaic design, but still widely used by corporate and mercenary groups, sometimes seen in the hands of civilian populations. This weapon only accepts 5.7×28mm rounds.
+ent-RMCWeaponSMGPDW90TSE-name = L57 submachine gun
+ent-RMCWeaponSMGPDW90TSE-desc = A PDW90 submachine gun in the colors of the Royal Crown Marines, manufactured for the TSE's armed forces under license. This weapon only accepts 5.7x28mm rounds.
+ent-RMCMagazineSMGPDW90-name = PDW90 magazine (5.7×28mm)
+ent-RMCMagazineSMGPDW90-desc = A 5.7×28mm magazine for the FN PDW90.
+ent-RMCMagazineSMGPDW90AP-name = PDW90 AP magazine (5.7×28mm)
+ent-RMCMagazineSMGPDW90AP-desc = An armor-piercing 5.7x28mm magazine for the FN PDW90.
+ent-RMCCartridge57x28mm-name = cartridge (57×28mm SMG)
+ent-RMCCartridge57x28mm-desc = A 5.7×28mm cartridge for the FN PDW90.
+ent-RMCCartridge57x28mmAP-name = cartridge (57×28mm SMG)
+ent-RMCCartridge57x28mmAP-desc = A 5.7×28mm AP cartridge for the FN PDW90.

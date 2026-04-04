@@ -1,0 +1,2 @@
+ent-RMCSpawnPointSurvivorChancesEnvironmentalResearcher-name = enviromental researcher spawn point
+ent-RMCRandomHumanoidSurvivorChancesEnvironmentalResearcher-name = chances environmental researcher ghost role

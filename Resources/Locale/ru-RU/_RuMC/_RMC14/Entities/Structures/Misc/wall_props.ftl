@@ -1,0 +1,10 @@
+ent-RMCWallPropBloodWallFloor-name = blood
+ent-RMCWallPropBloodWall-name = blood
+ent-RMCWallPropBloodWallAlt-name = blood
+ent-RMCWallPropGraffiti-name = graffiti
+ent-RMCWallPropDeadPilot-name = decapitated Weston-Yamada Pilot
+ent-RMCWallPropDeadPilot-desc = What remains of a Weston-Yamada Pilot. Their entire head is missing. Where'd it roll off to?...
+ent-RMCWallPropDeadTrooper-name = Unknown Trooper
+ent-RMCWallPropDeadTrooper-desc = What remains of a unknown trooper. May they rest in peace.
+ent-RMCWallPropDeadSteven-name = Rep. Steve Haifisch
+ent-RMCWallPropDeadSteven-desc = A card lays in his lap. "Happy birthday, Steve. Here's to another fruitful year!"

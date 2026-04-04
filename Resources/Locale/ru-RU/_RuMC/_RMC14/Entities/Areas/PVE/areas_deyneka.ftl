@@ -1,0 +1,13 @@
+ent-RMCAreaDeynekaCryo-name = Deyneka Cryo
+ent-RMCAreaDeynekaAI-name = Deyneka AI Core
+ent-RMCAreaDeynekaArmory-name = Deyneka Armory
+ent-RMCAreaDeynekaBridge-name = Deyneka Bridge
+ent-RMCAreaDeynekaCargo-name = Deyneka Cargo
+ent-RMCAreaDeynekaDorm-name = Deyneka Dorm
+ent-RMCAreaDeynekaEngi-name = Deyneka Engi
+ent-RMCAreaDeynekaHanger-name = Deyneka Hangar
+ent-RMCAreaDeynekaKitchen-name = Deyneka Kitchen
+ent-RMCAreaDeynekaLowerHall-name = Deyneka Lower Hall
+ent-RMCAreaDeynekaMed-name = Deyneka Med
+ent-RMCAreaDeynekaOOB-name = Deyneka OOB
+ent-RMCAreaDeynekaUpperHall-name = Deyneka Upper Hall

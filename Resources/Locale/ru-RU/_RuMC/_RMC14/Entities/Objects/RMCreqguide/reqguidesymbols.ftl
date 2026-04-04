@@ -1,0 +1,14 @@
+ent-RMCLogisticsofficerGuideBook-name = logistics Officers symbol
+ent-RMCLogisticsofficerGuideBook-desc = The Logistics Officers sumbol
+ent-RMCCargotechGuideBook-name = Requisitions Technicians symbol
+ent-RMCCargotechGuideBook-desc = The Cargo Technicians symbol
+ent-RMCPitRasedGuideBook-name = pitrased
+ent-RMCPitRasedGuideBook-desc = All 5 drop pads
+ent-RMCPitLowerdGuideBook-name = pitlowerd
+ent-RMCPitLowerdGuideBook-desc = cargo pit lowerd
+ent-RMCSupplyDropPadsGuideBook-name = supply drop pads
+ent-RMCSupplyDropPadsGuideBook-desc = All 5 drop pads
+ent-RMCTheLineGuideBook-name = The Line
+ent-RMCTheLineGuideBook-desc = The Line
+ent-RMCASRSinterfaceGuideBook-name = ASRS interface
+ent-RMCASRSinterfaceGuideBook-desc = The ASRS interface

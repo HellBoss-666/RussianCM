@@ -1,0 +1,12 @@
+ent-RMCL112SniperRifle-name = L112A2 designated marksman rifle
+ent-RMCL112SniperRifle-desc = The L112A2 DMR, a more modular variation on the A1 model. This one foregoes the integral suppressor in favor of a threaded barrel, and features an attachment rail to install foregrips.
+ent-RMCL112SniperRifleSuppressed-name = L112A1 designated marksman rifle
+ent-RMCL112SniperRifleSuppressed-desc = The L112A1 DMR, adopted by the TSE's Royal Crown Marines following a recognised need for long-range firepower on reconnaissance and covert operations and developed in tandem with the 7.7x56mmR HESH round.
+ent-RMCMagazineSniperL112-name = L112 magazine (7.7x56mmR)
+ent-RMCMagazineSniperL112-desc = A 25-round magazine of 7.7x56mm rimmed cartridges.
+ent-RMCMagazineSniperL112SH-name = L112 squash-head magazine (7.7x56mmR)
+ent-RMCMagazineSniperL112SH-desc = A 25-round magazine of 7.7x56mm rimmed squash-head cartridges.
+ent-RMCCartridgeSniper77x56mmR-name = cartridge (7.7x56mmR)
+ent-RMCCartridgeSniper77x56mmRSH-name = squash-head cartridge (7.7x56mmR)
+ent-RMCBulletSniper77x56mmR-name = bullet (7.7x56mmR)
+ent-RMCBulletSniper77x56mmRSH-name = squash-head bullet (7.7x56mmR)

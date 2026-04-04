@@ -1,0 +1,11 @@
+ent-RMCArmorWebbingBase-name = armor webbing
+ent-RMCArmorWebbingDrum-name = drum armor webbing
+ent-RMCArmorWebbingDrum-desc = A brown harness fitted with a pair of large pouches capable of carrying high-capacity drums and other large magazines.
+ent-RMCArmorWebbingMag-name = magazine armor webbing
+ent-RMCArmorWebbingMag-desc = A brown harness fitted with a set of four magazine pouches.
+ent-RMCArmorWebbingGrenade-name = grenade armor webbing
+ent-RMCArmorWebbingGrenade-desc = A brown harness fitted with an array of small pouches, capable of holding up to 6 grenades.
+ent-RMCArmorWebbingPouch-name = general armor webbing
+ent-RMCArmorWebbingPouch-desc = A brown harness fitted with several small pouches, capable of carrying assorted small items.
+ent-RMCArmorWebbingShell-name = shell armor webbing
+ent-RMCArmorWebbingShell-desc = A brown harness fitted with a number of loops designed to hold loose shotgun shells.

@@ -1,0 +1,12 @@
+ent-RMCPVEArmorPadsKestrel-name = Kestrel Pauldrons
+ent-RMCPVEArmorPadsKestrel-desc = Attachable supplementary armor for L3 Kestrel modular vests. Protects against overhead strikes.
+ent-RMCPVEArmorBracersKestrel-name = Kestrel Vambraces
+ent-RMCPVEArmorBracersKestrel-desc = Attachable supplementary armor for L3 Kestrel modular vests. Protects against shattered forearms.
+ent-RMCPVEArmorNeckGuardKestrel-name = Kestrel Gorget
+ent-RMCPVEArmorNeckGuardKestrel-desc = Attachable supplementary armor for L3 Kestrel modular vests. Protects against slit throats.
+ent-RMCPVEArmorGroinPlateKestrel-name = Kestrel Lap Panel
+ent-RMCPVEArmorGroinPlateKestrel-desc = Attachable supplementary armor for L3 Kestrel modular vests. Protects against sneak attacks.
+ent-RMCPVEArmorShinGuardKestrel-name = Kestrel Greaves
+ent-RMCPVEArmorShinGuardKestrel-desc = Attachable supplementary armor for L3 Kestrel modular vests. Protects against bruised shins.
+ent-RMCPVEArmorKneeGuardKestrel-name = Kestrel Kneepads
+ent-RMCPVEArmorKneeGuardKestrel-desc = Attachable supplementary armor for L3 Kestrel modular vests. Protects against grazed knees.

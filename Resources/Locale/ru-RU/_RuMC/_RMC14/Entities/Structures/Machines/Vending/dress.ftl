@@ -1,0 +1,10 @@
+ent-RMCAutomatedPersonalUniformCloset-name = automated personal uniform closet
+ent-RMCAutomatedPersonalUniformCloset-desc = An automated closet hooked up to a colossal storage of standard-issue dress uniform variants.
+ent-RMCUniformCaseDressEnlisted-name = enlisted dress uniform case
+ent-RMCUniformCaseDressEnlisted-desc = A case containing the dress uniform for an enlisted person.
+ent-RMCUniformCaseDressNCO-name = nco dress uniform case
+ent-RMCUniformCaseDressNCO-desc = A case containing the dress uniform for a non-commissioned officer.
+ent-RMCUniformCaseDressOfficer-name = officer dress uniform case
+ent-RMCUniformCaseDressOfficer-desc = A case containing the dress uniform for a commissioned officer.
+ent-RMCUniformCaseService-name = service uniform case
+ent-RMCUniformCaseService-desc = A case containing a standard-issue service uniform.
