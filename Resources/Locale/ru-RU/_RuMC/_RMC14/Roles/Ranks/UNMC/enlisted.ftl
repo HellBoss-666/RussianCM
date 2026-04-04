@@ -11,7 +11,7 @@ rank-RMCRankLieutenantColonel = Подполковник
   .prefix = Подполк.
 
 rank-RMCRankMajor = Майор
-  .prefix = Майор.
+  .prefix = Майор
 
 rank-RMCRankCaptain = Капитан
   .prefix = Кап.
@@ -29,16 +29,16 @@ rank-RMCRankWarrantOfficer = Прапорщик
   .prefix = Прап.
 
 rank-RMCRankSergeantMajor = Сержант-майор
-  .prefix: SgtMaj.
+  .prefix = Серж-майор
 
 rank-RMCRankMasterGunnerySergeant = Старший комендор-сержант
-  .prefix: Ст. Ком-серж.
+  .prefix = Ст. Ком-серж
 
 rank-RMCRankFirstSergeant = Первый сержант
   .prefix = 1-ый Серж.
 
-rank-RMCRankMasterSergeant = Master-Sergeant
-  .prefix: MSgt.
+rank-RMCRankMasterSergeant = Мастер-сержант
+  .prefix = Маст-Серж.
 
 rank-RMCRankGunnerySergeant = Комендор-сержант
   .prefix = Ком-серж.

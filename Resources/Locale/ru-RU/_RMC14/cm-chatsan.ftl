@@ -236,7 +236,6 @@ cm-chatsan-word-lz = лз
 cm-chatsan-replacement-lz = насест железной птицы
 
 cm-chatsan-word-lz2 = зп
-cm-chatsan-replacement-lz = насест железной птицы
 
 cm-chatsan-word-shoot = стрелять
 cm-chatsan-replacement-shoot = плевать

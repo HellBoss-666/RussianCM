@@ -142,10 +142,10 @@
     toxinDamage:
         groups:
           Toxin: 2
-      oxygenDamage:
+    oxygenDamage:
         types:
           Asphyxiation: 150
-      coughDamage:
+    coughDamage:
         groups:
           Brute: 5
   - type: RMCXenoDamageVisuals
