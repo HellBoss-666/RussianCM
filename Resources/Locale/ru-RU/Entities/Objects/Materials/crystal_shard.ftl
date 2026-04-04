@@ -1,13 +1,12 @@
-
-ent-ShardCrystalBase = crystal shard
-  .desc = A small piece of crystal.
-ent-ShardCrystalCyan = cyan crystal shard
-  .desc = A small piece of crystal.
-ent-ShardCrystalBlue = blue crystal shard
-ent-ShardCrystalYellow = yellow crystal shard
-ent-ShardCrystalOrange = orange crystal shard
-ent-ShardCrystalBlack = black crystal shard
-ent-ShardCrystalPink = pink crystal shard
-ent-ShardCrystalGreen = green crystal shard
-ent-ShardCrystalRed = red crystal shard
-ent-ShardCrystalRandom = random crystal shard
+ent-ShardCrystalBase-name = crystal shard
+ent-ShardCrystalBase-desc = A small piece of crystal.
+ent-ShardCrystalCyan-name = cyan crystal shard
+ent-ShardCrystalCyan-desc = A small piece of crystal.
+ent-ShardCrystalBlue-name = blue crystal shard
+ent-ShardCrystalYellow-name = yellow crystal shard
+ent-ShardCrystalOrange-name = orange crystal shard
+ent-ShardCrystalBlack-name = black crystal shard
+ent-ShardCrystalPink-name = pink crystal shard
+ent-ShardCrystalGreen-name = green crystal shard
+ent-ShardCrystalRed-name = red crystal shard
+ent-ShardCrystalRandom-name = random crystal shard

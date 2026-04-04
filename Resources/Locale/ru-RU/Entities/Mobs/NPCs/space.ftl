@@ -1,14 +1,13 @@
-
-ent-MobSpaceBasic = basic
-  .desc = It looks friendly. Why don't you give it a hug?
-ent-MobBearSpace = space bear
-  .desc = It looks friendly. Why don't you give it a hug?
-ent-MobKangarooSpace = space kangaroo
-  .desc = It looks friendly. Why don't you give it a hug?
-ent-MobSpiderSpace = space spider
-  .desc = It's so glowing, it looks dangerous.
-ent-MobCobraSpace = space cobra
-  .desc = Long fangs and a glowing hood, and the alluring look begs to come closer.
-ent-MobSnail = snail
-  .desc = Revolting unless you're french.
-ent-MobSnailMoth = Snoth
+ent-MobSpaceBasic-name = basic
+ent-MobSpaceBasic-desc = It looks friendly. Why don't you give it a hug?
+ent-MobBearSpace-name = space bear
+ent-MobBearSpace-desc = It looks friendly. Why don't you give it a hug?
+ent-MobKangarooSpace-name = space kangaroo
+ent-MobKangarooSpace-desc = It looks friendly. Why don't you give it a hug?
+ent-MobSpiderSpace-name = space spider
+ent-MobSpiderSpace-desc = It's so glowing, it looks dangerous.
+ent-MobCobraSpace-name = space cobra
+ent-MobCobraSpace-desc = Long fangs and a glowing hood, and the alluring look begs to come closer.
+ent-MobSnail-name = snail
+ent-MobSnail-desc = Revolting unless you're french.
+ent-MobSnailMoth-name = Snoth

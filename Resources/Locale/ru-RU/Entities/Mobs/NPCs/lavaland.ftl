@@ -1,7 +1,6 @@
-
-ent-MobWatcherBase = watcher
-  .desc = It's like it's staring right through you.
-ent-MobWatcherIcewing = icewing watcher
-ent-MobWatcherMagmawing = magmawing watcher
-ent-MobWatcherPride = pride watcher
-  .desc = This rare subspecies only appears in June.
+ent-MobWatcherBase-name = watcher
+ent-MobWatcherBase-desc = It's like it's staring right through you.
+ent-MobWatcherIcewing-name = icewing watcher
+ent-MobWatcherMagmawing-name = magmawing watcher
+ent-MobWatcherPride-name = pride watcher
+ent-MobWatcherPride-desc = This rare subspecies only appears in June.

@@ -1,3 +1,2 @@
-
-ent-ActionChargeSpell = Charge
-  .desc = Adds a charge back to your wand
+ent-ActionChargeSpell-name = Charge
+ent-ActionChargeSpell-desc = Adds a charge back to your wand

@@ -1,2 +1,1 @@
-
-ent-LootSpawnerEncryptionKey = random encryption key spawner
+ent-LootSpawnerEncryptionKey-name = random encryption key spawner

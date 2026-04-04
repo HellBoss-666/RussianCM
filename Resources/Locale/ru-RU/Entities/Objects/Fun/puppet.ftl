@@ -1,4 +1,3 @@
-
-ent-MrChips = mr chips
-  .desc = It's a dummy, dummy!
-ent-MrDips = mr dips
+ent-MrChips-name = mr chips
+ent-MrChips-desc = It's a dummy, dummy!
+ent-MrDips-name = mr dips

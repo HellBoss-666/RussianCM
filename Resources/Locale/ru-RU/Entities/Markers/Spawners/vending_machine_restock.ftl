@@ -1,4 +1,3 @@
-
-ent-SpawnVendingMachineRestockFoodDrink = Vending Machine Restock
-ent-SpawnVendingMachineRestockFood = Vending Machine Restock
-ent-SpawnVendingMachineRestockDrink = Vending Machine Restock
+ent-SpawnVendingMachineRestockFoodDrink-name = Vending Machine Restock
+ent-SpawnVendingMachineRestockFood-name = Vending Machine Restock
+ent-SpawnVendingMachineRestockDrink-name = Vending Machine Restock

@@ -1,3 +1,2 @@
-
-ent-Torch = torch
-  .desc = A torch fashioned from some wood.
+ent-Torch-name = torch
+ent-Torch-desc = A torch fashioned from some wood.

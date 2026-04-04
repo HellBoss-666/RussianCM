@@ -1,4 +1,3 @@
-
-ent-MobSkeletonPirate = skeleton pirate
-ent-MobSkeletonBiker = skeleton biker
-ent-MobSkeletonCloset = closet skeleton
+ent-MobSkeletonPirate-name = skeleton pirate
+ent-MobSkeletonBiker-name = skeleton biker
+ent-MobSkeletonCloset-name = closet skeleton

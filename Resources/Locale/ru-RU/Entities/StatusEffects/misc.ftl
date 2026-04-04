@@ -1,5 +1,4 @@
-
-ent-StatusEffectForcedSleeping = forced sleep
-ent-StatusEffectSSDSleeping = forced sleep
-ent-StatusEffectDrowsiness = drowsiness
-ent-StatusEffectSeeingRainbow = hallucinations
+ent-StatusEffectForcedSleeping-name = forced sleep
+ent-StatusEffectSSDSleeping-name = forced sleep
+ent-StatusEffectDrowsiness-name = drowsiness
+ent-StatusEffectSeeingRainbow-name = hallucinations

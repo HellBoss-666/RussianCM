@@ -1,3 +1,2 @@
-
-ent-MobGingerbread = Urist McCookie
-ent-MobGingerbreadAI = gingerbread man
+ent-MobGingerbread-name = Urist McCookie
+ent-MobGingerbreadAI-name = gingerbread man

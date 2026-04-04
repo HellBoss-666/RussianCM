@@ -1,2 +1,1 @@
-
-ent-SpawnMobHuman = Urist Spawner
+ent-SpawnMobHuman-name = Urist Spawner

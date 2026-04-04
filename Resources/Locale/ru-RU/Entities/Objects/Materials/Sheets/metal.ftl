@@ -1,12 +1,11 @@
-
-  .desc = A sheet of metal, used often on the station in various applications.
-ent-SheetSteel = steel
-ent-SheetSteel10 = steel
-ent-SheetSteel1 = steel
-ent-SheetBrass = brass
-  .desc = A sheet of brass, primarily used by clockwork enthusiasts and the remnants of Ratvarian cults.
-ent-SheetBrass10 = brass
-ent-SheetBrass1 = brass
-ent-SheetPlasteel = plasteel
-ent-SheetPlasteel10 = plasteel
-ent-SheetPlasteel1 = plasteel
+ent-SheetMetalBase-desc = A sheet of metal, used often on the station in various applications.
+ent-SheetSteel-name = steel
+ent-SheetSteel10-name = steel
+ent-SheetSteel1-name = steel
+ent-SheetBrass-name = brass
+ent-SheetBrass-desc = A sheet of brass, primarily used by clockwork enthusiasts and the remnants of Ratvarian cults.
+ent-SheetBrass10-name = brass
+ent-SheetBrass1-name = brass
+ent-SheetPlasteel-name = plasteel
+ent-SheetPlasteel10-name = plasteel
+ent-SheetPlasteel1-name = plasteel

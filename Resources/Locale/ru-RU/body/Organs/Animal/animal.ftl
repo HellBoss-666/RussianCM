@@ -1,7 +1,6 @@
-
-ent-OrganAnimalLungs = lungs
-ent-OrganAnimalStomach = stomach
-ent-OrganMouseStomach = stomach
-ent-OrganAnimalLiver = liver
-ent-OrganAnimalHeart = heart
-ent-OrganAnimalKidneys = kidneys
+ent-OrganAnimalLungs-name = lungs
+ent-OrganAnimalStomach-name = stomach
+ent-OrganMouseStomach-name = stomach
+ent-OrganAnimalLiver-name = liver
+ent-OrganAnimalHeart-name = heart
+ent-OrganAnimalKidneys-name = kidneys

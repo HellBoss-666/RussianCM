@@ -1,3 +1,2 @@
-
-ent-BaseFoldable = foldable
-ent-BaseDeployFoldable = deploy foldable
+ent-BaseFoldable-name = foldable
+ent-BaseDeployFoldable-name = deploy foldable

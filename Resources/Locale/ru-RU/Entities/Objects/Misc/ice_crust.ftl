@@ -1,3 +1,2 @@
-
-ent-IceCrust = ice crust
-  .desc = It's cold and slippery.
+ent-IceCrust-name = ice crust
+ent-IceCrust-desc = It's cold and slippery.

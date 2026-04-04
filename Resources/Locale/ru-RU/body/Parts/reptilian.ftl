@@ -1,12 +1,11 @@
-
-ent-PartReptilian = reptilian body part
-ent-TorsoReptilian = reptilian torso
-ent-HeadReptilian = reptilian head
-ent-LeftArmReptilian = left reptilian arm
-ent-RightArmReptilian = right reptilian arm
-ent-LeftHandReptilian = left reptilian hand
-ent-RightHandReptilian = right reptilian hand
-ent-LeftLegReptilian = left reptilian leg
-ent-RightLegReptilian = right reptilian leg
-ent-LeftFootReptilian = left reptilian foot
-ent-RightFootReptilian = right reptilian foot
+ent-PartReptilian-name = reptilian body part
+ent-TorsoReptilian-name = reptilian torso
+ent-HeadReptilian-name = reptilian head
+ent-LeftArmReptilian-name = left reptilian arm
+ent-RightArmReptilian-name = right reptilian arm
+ent-LeftHandReptilian-name = left reptilian hand
+ent-RightHandReptilian-name = right reptilian hand
+ent-LeftLegReptilian-name = left reptilian leg
+ent-RightLegReptilian-name = right reptilian leg
+ent-LeftFootReptilian-name = left reptilian foot
+ent-RightFootReptilian-name = right reptilian foot

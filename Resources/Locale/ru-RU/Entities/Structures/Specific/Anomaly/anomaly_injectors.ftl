@@ -1,2 +1,1 @@
-
-ent-BaseAnomalyInjector = anomaly injector
+ent-BaseAnomalyInjector-name = anomaly injector

@@ -1,2 +1,1 @@
-
-ent-RandomSoap = random soap spawner
+ent-RandomSoap-name = random soap spawner

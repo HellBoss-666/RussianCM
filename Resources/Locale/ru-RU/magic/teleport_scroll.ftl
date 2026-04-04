@@ -1,2 +1,1 @@
-
-ent-WizardTeleportScroll = teleport scroll
+ent-WizardTeleportScroll-name = teleport scroll

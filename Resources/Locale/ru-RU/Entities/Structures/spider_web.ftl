@@ -1,5 +1,4 @@
-
-ent-SpiderWeb = spider web
-  .desc = It's stringy and sticky.
-ent-SpiderWebClown = clown spider web
-  .desc = It's stringy and slippy.
+ent-SpiderWeb-name = spider web
+ent-SpiderWeb-desc = It's stringy and sticky.
+ent-SpiderWebClown-name = clown spider web
+ent-SpiderWebClown-desc = It's stringy and slippy.

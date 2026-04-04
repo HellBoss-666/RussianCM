@@ -1,4 +1,3 @@
-
-ent-OrganBloodsuckerStomach = stomach
-ent-OrganBloodsuckerLiver = liver
-ent-OrganBloodsuckerHeart = heart
+ent-OrganBloodsuckerStomach-name = stomach
+ent-OrganBloodsuckerLiver-name = liver
+ent-OrganBloodsuckerHeart-name = heart

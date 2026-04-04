@@ -1,5 +1,4 @@
-
-ent-BaseFirelock = firelock
-  .desc = Apply crowbar.
-ent-FirelockGlass = glass firelock
-ent-FirelockEdge = firelock
+ent-BaseFirelock-name = firelock
+ent-BaseFirelock-desc = Apply crowbar.
+ent-FirelockGlass-name = glass firelock
+ent-FirelockEdge-name = firelock

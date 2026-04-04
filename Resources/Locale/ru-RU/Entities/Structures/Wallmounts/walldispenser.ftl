@@ -1,4 +1,3 @@
-
-ent-CleanerDispenser = space cleaner dispenser
-  .desc = Wallmount reagent dispenser.
-ent-FuelDispenser = fuel dispenser
+ent-CleanerDispenser-name = space cleaner dispenser
+ent-CleanerDispenser-desc = Wallmount reagent dispenser.
+ent-FuelDispenser-name = fuel dispenser

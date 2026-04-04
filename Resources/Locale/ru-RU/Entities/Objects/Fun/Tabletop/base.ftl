@@ -1,4 +1,3 @@
-
-ent-BaseBoardEntity = board
-  .desc = A blank board.
-ent-BaseBoardTabletop = baseboard
+ent-BaseBoardEntity-name = board
+ent-BaseBoardEntity-desc = A blank board.
+ent-BaseBoardTabletop-name = baseboard

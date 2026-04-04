@@ -1,8 +1,7 @@
-
-ent-ToolboxEmergencyFilled = emergency toolbox
-ent-ToolboxElectricalFilled = electrical toolbox
-ent-ToolboxElectricalTurretFilled = electrical toolbox
-ent-ToolboxArtisticFilled = artistic toolbox
-ent-ToolboxMechanicalFilled = mechanical toolbox
-ent-ToolboxMechanicalFilledAllTools = mechanical toolbox
-ent-ToolboxGoldFilled = golden toolbox
+ent-ToolboxEmergencyFilled-name = emergency toolbox
+ent-ToolboxElectricalFilled-name = electrical toolbox
+ent-ToolboxElectricalTurretFilled-name = electrical toolbox
+ent-ToolboxArtisticFilled-name = artistic toolbox
+ent-ToolboxMechanicalFilled-name = mechanical toolbox
+ent-ToolboxMechanicalFilledAllTools-name = mechanical toolbox
+ent-ToolboxGoldFilled-name = golden toolbox

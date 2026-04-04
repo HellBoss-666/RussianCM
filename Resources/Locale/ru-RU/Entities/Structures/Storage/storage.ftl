@@ -1,3 +1,2 @@
-
-ent-Rack = rack
-  .desc = A rack for storing things on.
+ent-Rack-name = rack
+ent-Rack-desc = A rack for storing things on.

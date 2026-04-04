@@ -1,3 +1,2 @@
-
-ent-BaseCartridgeCap = cartridge (cap)
-ent-CartridgeCap = cap gun cartridge
+ent-BaseCartridgeCap-name = cartridge (cap)
+ent-CartridgeCap-name = cap gun cartridge

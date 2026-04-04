@@ -1,3 +1,1 @@
-
-ent-BasaltOne = basalt
-  .desc = Rock.
+ent-BasaltOne-name = basalt

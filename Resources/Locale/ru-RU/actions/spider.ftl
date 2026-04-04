@@ -1,5 +1,4 @@
-
-ent-ActionSpiderWeb = Spider Web
-  .desc = Spawns a web that slows your prey down.
-ent-ActionSericulture = Weave silk
-  .desc = Weave a bit of silk for use in arts and crafts.
+ent-ActionSpiderWeb-name = Spider Web
+ent-ActionSpiderWeb-desc = Spawns a web that slows your prey down.
+ent-ActionSericulture-name = Weave silk
+ent-ActionSericulture-desc = Weave a bit of silk for use in arts and crafts.

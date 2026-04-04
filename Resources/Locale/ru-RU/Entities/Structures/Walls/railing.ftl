@@ -1,3 +1,2 @@
-
-ent-BaseRailing = railing
-  .desc = Basic railing meant to protect idiots like you from falling.
+ent-BaseRailing-name = railing
+ent-BaseRailing-desc = Basic railing meant to protect idiots like you from falling.

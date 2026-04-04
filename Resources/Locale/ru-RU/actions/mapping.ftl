@@ -1,2 +1,1 @@
-
-ent-ActionMappingEraser = Erase Entity
+ent-ActionMappingEraser-name = Erase Entity

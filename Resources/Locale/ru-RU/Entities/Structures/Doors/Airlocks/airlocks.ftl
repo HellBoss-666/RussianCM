@@ -1,4 +1,3 @@
-
-ent-AirlockMaint = maintenance access
-ent-AirlockHatch = airtight hatch
-ent-AirlockHatchMaintenance = maintenance hatch
+ent-AirlockMaint-name = maintenance access
+ent-AirlockHatch-name = airtight hatch
+ent-AirlockHatchMaintenance-name = maintenance hatch

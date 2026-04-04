@@ -1,3 +1,2 @@
-
-ent-StrippingHiddenEntity = hidden entity
-  .desc = There is something in this pocket.
+ent-StrippingHiddenEntity-name = hidden entity
+ent-StrippingHiddenEntity-desc = There is something in this pocket.

@@ -1,4 +1,3 @@
-
-ent-OrganDwarfHeart = dwarf heart
-ent-OrganDwarfLiver = dwarf liver
-ent-OrganDwarfStomach = dwarf stomach
+ent-OrganDwarfHeart-name = dwarf heart
+ent-OrganDwarfLiver-name = dwarf liver
+ent-OrganDwarfStomach-name = dwarf stomach

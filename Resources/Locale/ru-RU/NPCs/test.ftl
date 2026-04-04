@@ -1,2 +1,1 @@
-
-ent-MobPathfindDummy = pathfind dummy
+ent-MobPathfindDummy-name = pathfind dummy

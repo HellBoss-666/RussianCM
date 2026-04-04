@@ -1,3 +1,2 @@
-
-ent-IntercomElectronics = intercom electronics
-  .desc = An electronics board used in intercoms.
+ent-IntercomElectronics-name = intercom electronics
+ent-IntercomElectronics-desc = An electronics board used in intercoms.

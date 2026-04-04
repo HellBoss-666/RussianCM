@@ -1,3 +1,2 @@
-
-ent-Skub = skub
-  .desc = Skub is the fifth Chaos God.
+ent-Skub-name = skub
+ent-Skub-desc = Skub is the fifth Chaos God.

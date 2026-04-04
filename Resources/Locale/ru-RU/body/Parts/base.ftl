@@ -1,12 +1,11 @@
-
-ent-BasePart = body part
-ent-BaseTorso = torso
-ent-BaseHead = head
-ent-BaseLeftArm = left arm
-ent-BaseRightArm = right arm
-ent-BaseLeftHand = left hand
-ent-BaseRightHand = right hand
-ent-BaseLeftLeg = left leg
-ent-BaseRightLeg = right leg
-ent-BaseLeftFoot = left foot
-ent-BaseRightFoot = right foot
+ent-BasePart-name = body part
+ent-BaseTorso-name = torso
+ent-BaseHead-name = head
+ent-BaseLeftArm-name = left arm
+ent-BaseRightArm-name = right arm
+ent-BaseLeftHand-name = left hand
+ent-BaseRightHand-name = right hand
+ent-BaseLeftLeg-name = left leg
+ent-BaseRightLeg-name = right leg
+ent-BaseLeftFoot-name = left foot
+ent-BaseRightFoot-name = right foot

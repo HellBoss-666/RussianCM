@@ -1,2 +1,1 @@
-
-ent-RandomInstruments = random instruments spawner
+ent-RandomInstruments-name = random instruments spawner

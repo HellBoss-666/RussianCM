@@ -1,5 +1,4 @@
-
-ent-BulletLightRifle = bullet (.20 rifle)
-ent-BulletLightRiflePractice = bullet (.20 rifle practice)
-ent-BulletLightRifleIncendiary = bullet (.20 rifle incendiary)
-ent-BulletLightRifleUranium = bullet (.20 rifle uranium)
+ent-BulletLightRifle-name = bullet (.20 rifle)
+ent-BulletLightRiflePractice-name = bullet (.20 rifle practice)
+ent-BulletLightRifleIncendiary-name = bullet (.20 rifle incendiary)
+ent-BulletLightRifleUranium-name = bullet (.20 rifle uranium)

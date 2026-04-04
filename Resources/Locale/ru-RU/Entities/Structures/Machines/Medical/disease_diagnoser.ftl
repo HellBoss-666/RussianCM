@@ -1,5 +1,4 @@
-
-ent-DiseaseDiagnoser = Disease Diagnoser Delta Extreme
-  .desc = A machine that analyzes disease samples.
-ent-DiagnosisReportPaper = disease diagnoser report
-  .desc = A chilling medical receipt.
+ent-DiseaseDiagnoser-name = Disease Diagnoser Delta Extreme
+ent-DiseaseDiagnoser-desc = A machine that analyzes disease samples.
+ent-DiagnosisReportPaper-name = disease diagnoser report
+ent-DiagnosisReportPaper-desc = A chilling medical receipt.

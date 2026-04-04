@@ -1,3 +1,2 @@
-
-ent-StationAnchorBase = station anchor
-  .desc = Prevents stations from moving.
+ent-StationAnchorBase-name = station anchor
+ent-StationAnchorBase-desc = Prevents stations from moving.

@@ -1,3 +1,2 @@
-
-ent-CandyBucket = candy bucket
-  .desc = A festive bucket for all your treats.
+ent-CandyBucket-name = candy bucket
+ent-CandyBucket-desc = A festive bucket for all your treats.

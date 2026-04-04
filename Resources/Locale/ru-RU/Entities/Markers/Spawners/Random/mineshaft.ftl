@@ -1,6 +1,5 @@
-
-ent-RandomWoodenSupport = wooden support spawner
-ent-RandomWoodenWall = wooden wall spawner
-ent-RandomStalagmiteOrCrystal = stalagmite or crystal spawner
-ent-RandomBrownStalagmite = brown stalagmite spawner
-ent-RandomGreyStalagmite = grey stalagmite spawner
+ent-RandomWoodenSupport-name = wooden support spawner
+ent-RandomWoodenWall-name = wooden wall spawner
+ent-RandomStalagmiteOrCrystal-name = stalagmite or crystal spawner
+ent-RandomBrownStalagmite-name = brown stalagmite spawner
+ent-RandomGreyStalagmite-name = grey stalagmite spawner

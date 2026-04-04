@@ -1,8 +1,7 @@
-
-ent-MobSpawnCrabQuartz = mobspawner quartzcrab
-ent-MobSpawnCrabIron = mobspawner ironcrab
-ent-MobSpawnCrabCoal = mobspawner coalcrab
-ent-MobSpawnCrabSilver = mobspawner silvercrab
-ent-MobSpawnCrabGold = mobspawner goldcrab
-ent-MobSpawnCrabUranium = mobspawner uraniumcrab
-ent-MobSpawnCrabBananium = mobspawner bananiumcrab
+ent-MobSpawnCrabQuartz-name = mobspawner quartzcrab
+ent-MobSpawnCrabIron-name = mobspawner ironcrab
+ent-MobSpawnCrabCoal-name = mobspawner coalcrab
+ent-MobSpawnCrabSilver-name = mobspawner silvercrab
+ent-MobSpawnCrabGold-name = mobspawner goldcrab
+ent-MobSpawnCrabUranium-name = mobspawner uraniumcrab
+ent-MobSpawnCrabBananium-name = mobspawner bananiumcrab

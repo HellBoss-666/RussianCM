@@ -1,2 +1,1 @@
-
-ent-RandomVendingSnacks = random vending machine spawner
+ent-RandomVendingSnacks-name = random vending machine spawner

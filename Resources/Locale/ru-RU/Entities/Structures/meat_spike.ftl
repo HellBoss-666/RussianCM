@@ -1,3 +1,2 @@
-
-ent-KitchenSpike = meat spike
-  .desc = A spike for collecting meat from animals.
+ent-KitchenSpike-name = meat spike
+ent-KitchenSpike-desc = A spike for collecting meat from animals.

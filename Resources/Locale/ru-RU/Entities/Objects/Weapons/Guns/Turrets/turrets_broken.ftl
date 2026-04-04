@@ -1,3 +1,2 @@
-
-ent-WeaponTurretSyndicateBroken = ballistic turret (broken)
-  .desc = A ballistic machine gun auto-turret.
+ent-WeaponTurretSyndicateBroken-name = ballistic turret (broken)
+ent-WeaponTurretSyndicateBroken-desc = A ballistic machine gun auto-turret.

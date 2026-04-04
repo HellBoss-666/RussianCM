@@ -1,4 +1,3 @@
-
-ent-PuddleSparkle = sparkle
-ent-Puddle = puddle
-  .desc = A puddle of liquid.
+ent-PuddleSparkle-name = sparkle
+ent-Puddle-name = puddle
+ent-Puddle-desc = A puddle of liquid.

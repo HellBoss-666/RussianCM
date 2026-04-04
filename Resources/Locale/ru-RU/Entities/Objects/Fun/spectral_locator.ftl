@@ -1,3 +1,2 @@
-
-ent-SpectralLocatorUnpowered = spectral locator
-  .desc = Appears to be a modified anomaly locator. Seems very old.
+ent-SpectralLocatorUnpowered-name = spectral locator
+ent-SpectralLocatorUnpowered-desc = Appears to be a modified anomaly locator. Seems very old.

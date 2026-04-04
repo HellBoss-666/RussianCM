@@ -1,2 +1,1 @@
-
-ent-PinionAirlockAssembly = airlock assembly
+ent-PinionAirlockAssembly-name = airlock assembly

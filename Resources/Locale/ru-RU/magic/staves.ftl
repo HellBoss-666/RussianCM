@@ -1,5 +1,4 @@
-
-ent-RGBStaff = RGB staff
-  .desc = Helps fix the underabundance of RGB gear on the station.
-ent-AnimationStaff = staff of animation
-  .desc = Brings inanimate objects to life!
+ent-RGBStaff-name = RGB staff
+ent-RGBStaff-desc = Helps fix the underabundance of RGB gear on the station.
+ent-AnimationStaff-name = staff of animation
+ent-AnimationStaff-desc = Brings inanimate objects to life!

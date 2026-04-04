@@ -1,2 +1,1 @@
-
-ent-PathfindPoint = pathfind point
+ent-PathfindPoint-name = pathfind point

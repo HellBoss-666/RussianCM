@@ -1,2 +1,1 @@
-
-ent-AdminInstantEffectBase = instant effect
+ent-AdminInstantEffectBase-name = instant effect

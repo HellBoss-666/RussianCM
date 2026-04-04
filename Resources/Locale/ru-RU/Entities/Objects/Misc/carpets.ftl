@@ -1,2 +1,1 @@
-
-ent-FloorCarpetItemRed = carpet
+ent-FloorCarpetItemRed-name = carpet

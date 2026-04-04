@@ -1,2 +1,1 @@
-
-ent-MagazineFoamBox = ammunition box (foam)
+ent-MagazineFoamBox-name = ammunition box (foam)

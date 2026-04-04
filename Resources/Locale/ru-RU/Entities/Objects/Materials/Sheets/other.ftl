@@ -1,13 +1,12 @@
-
-  .desc = A sheet of material, used often on the station in various applications.
-ent-SheetPaper = paper
-ent-SheetPaper1 = paper
-ent-SheetPlasma = plasma
-ent-SheetPlasma1 = plasma
-ent-SheetPlasmaLingering0 = plasma
-ent-SheetPlastic = plastic
-ent-SheetPlastic10 = plastic
-ent-SheetPlastic1 = plastic
-ent-SheetUranium = uranium
-ent-SheetUranium1 = uranium
-ent-MaterialSheetMeat = meat sheet
+ent-SheetOtherBase-desc = A sheet of material, used often on the station in various applications.
+ent-SheetPaper-name = paper
+ent-SheetPaper1-name = paper
+ent-SheetPlasma-name = plasma
+ent-SheetPlasma1-name = plasma
+ent-SheetPlasmaLingering0-name = plasma
+ent-SheetPlastic-name = plastic
+ent-SheetPlastic10-name = plastic
+ent-SheetPlastic1-name = plastic
+ent-SheetUranium-name = uranium
+ent-SheetUranium1-name = uranium
+ent-MaterialSheetMeat-name = meat sheet

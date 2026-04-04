@@ -1,2 +1,1 @@
-
-ent-BedsheetSpawner = Random Sheet Spawner
+ent-BedsheetSpawner-name = Random Sheet Spawner

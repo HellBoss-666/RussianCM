@@ -1,3 +1,2 @@
-
-ent-WeaponEnergyTurretStationMachineCircuitboardBase = sentry turret machine board
-  .desc = A machine printed circuit board for a sentry turret.
+ent-WeaponEnergyTurretStationMachineCircuitboardBase-name = sentry turret machine board
+ent-WeaponEnergyTurretStationMachineCircuitboardBase-desc = A machine printed circuit board for a sentry turret.

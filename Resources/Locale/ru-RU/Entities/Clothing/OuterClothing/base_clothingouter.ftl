@@ -1,4 +1,3 @@
-
-ent-ClothingOuterHardsuitBase = base hardsuit
-ent-ClothingOuterEVASuitBase = base EVA Suit
-ent-ClothingOuterBaseToggleable = hoodie with hood
+ent-ClothingOuterHardsuitBase-name = base hardsuit
+ent-ClothingOuterEVASuitBase-name = base EVA Suit
+ent-ClothingOuterBaseToggleable-name = hoodie with hood

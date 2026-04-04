@@ -1,2 +1,1 @@
-
-ent-RandomIngredient = random ingredient spawner
+ent-RandomIngredient-name = random ingredient spawner

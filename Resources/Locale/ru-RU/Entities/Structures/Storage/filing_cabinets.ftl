@@ -1,6 +1,5 @@
-
-  .desc = A cabinet for all your filing needs.
-ent-filingCabinet = filing cabinet
-ent-filingCabinetTall = tall cabinet
-ent-filingCabinetDrawer = chest drawer
-  .desc = A small drawer for all your filing needs, Now with wheels!
+ent-BaseFilingCabinet-desc = A cabinet for all your filing needs.
+ent-filingCabinet-name = filing cabinet
+ent-filingCabinetTall-name = tall cabinet
+ent-filingCabinetDrawer-name = chest drawer
+ent-filingCabinetDrawer-desc = A small drawer for all your filing needs, Now with wheels!

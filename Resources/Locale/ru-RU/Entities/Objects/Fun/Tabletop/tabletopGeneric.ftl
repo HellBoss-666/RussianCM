@@ -1,7 +1,6 @@
-
-ent-RedTabletopPiece = red piece
-ent-GreenTabletopPiece = green piece
-ent-YellowTabletopPiece = yellow piece
-ent-BlueTabletopPiece = blue piece
-ent-WhiteTabletopPiece = white piece
-ent-BlackTabletopPiece = black piece
+ent-RedTabletopPiece-name = red piece
+ent-GreenTabletopPiece-name = green piece
+ent-YellowTabletopPiece-name = yellow piece
+ent-BlueTabletopPiece-name = blue piece
+ent-WhiteTabletopPiece-name = white piece
+ent-BlackTabletopPiece-name = black piece

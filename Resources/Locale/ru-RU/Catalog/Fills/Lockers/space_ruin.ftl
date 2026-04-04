@@ -1,2 +1,1 @@
-
-ent-LockerOldAISat = closet
+ent-LockerOldAISat-name = closet

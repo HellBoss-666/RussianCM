@@ -1,4 +1,3 @@
-
-ent-AltarSpawner = random altar spawner
-ent-ConvertAltarSpawner = random convert-altar spawner
-ent-CultAltarSpawner = random cult-altar spawner
+ent-AltarSpawner-name = random altar spawner
+ent-ConvertAltarSpawner-name = random convert-altar spawner
+ent-CultAltarSpawner-name = random cult-altar spawner

@@ -1,2 +1,1 @@
-
-ent-BaseMachineCircuitboard = machine board
+ent-BaseMachineCircuitboard-name = machine board

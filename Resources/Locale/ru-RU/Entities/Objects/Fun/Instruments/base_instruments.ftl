@@ -1,4 +1,3 @@
-
-  .desc = That's an instrument.
-ent-BasePlaceableInstrument = baseinstrument
-ent-BasePlaceableInstrumentRotatable = baseinstrumentrotatable
+ent-BaseHandheldInstrument-desc = That's an instrument.
+ent-BasePlaceableInstrument-name = baseinstrument
+ent-BasePlaceableInstrumentRotatable-name = baseinstrumentrotatable

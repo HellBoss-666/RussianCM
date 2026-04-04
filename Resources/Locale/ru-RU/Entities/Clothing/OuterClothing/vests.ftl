@@ -1,7 +1,6 @@
-
-ent-ClothingOuterVestHazard = hi-viz vest
-  .desc = A high-visibility vest used in work zones.
-ent-ClothingOuterVest = vest
-  .desc = A thick vest with a rubbery, water-resistant shell.
-ent-ClothingOuterVestTank = tank harness
-  .desc = A simple harness that can hold a gas tank.
+ent-ClothingOuterVestHazard-name = hi-viz vest
+ent-ClothingOuterVestHazard-desc = A high-visibility vest used in work zones.
+ent-ClothingOuterVest-name = vest
+ent-ClothingOuterVest-desc = A thick vest with a rubbery, water-resistant shell.
+ent-ClothingOuterVestTank-name = tank harness
+ent-ClothingOuterVestTank-desc = A simple harness that can hold a gas tank.

@@ -1,2 +1,1 @@
-
-ent-MaintsRoomMarker = Maints interior marker
+ent-MaintsRoomMarker-name = Maints interior marker

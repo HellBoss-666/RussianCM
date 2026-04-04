@@ -1,2 +1,1 @@
-
-ent-DecalSpawnerBase = Decal Spawner
+ent-DecalSpawnerBase-name = Decal Spawner

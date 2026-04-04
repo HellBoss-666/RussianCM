@@ -1,3 +1,2 @@
-
-ent-BiomassReclaimer = biomass reclaimer
-  .desc = Reclaims biomass from corpses. Gruesome.
+ent-BiomassReclaimer-name = biomass reclaimer
+ent-BiomassReclaimer-desc = Reclaims biomass from corpses. Gruesome.

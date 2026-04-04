@@ -1,13 +1,12 @@
-
-ent-ParticleAcceleratorEmitterPort = PA port containment emitter
-  .desc = This launchs the Alpha particles, might not want to stand near this end.
-ent-ParticleAcceleratorEmitterFore = PA fore containment emitter
-  .desc = This launchs the Alpha particles, might not want to stand near this end.
-ent-ParticleAcceleratorEmitterStarboard = PA starboard containment emitter
-  .desc = This launchs the Alpha particles, might not want to stand near this end.
-ent-ParticleAcceleratorEmitterPortUnfinished = PA port containment emitter
-  .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
-ent-ParticleAcceleratorEmitterForeUnfinished = PA fore containment emitter
-  .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
-ent-ParticleAcceleratorEmitterStarboardUnfinished = PA starboard containment emitter
-  .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+ent-ParticleAcceleratorEmitterPort-name = PA port containment emitter
+ent-ParticleAcceleratorEmitterPort-desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterFore-name = PA fore containment emitter
+ent-ParticleAcceleratorEmitterFore-desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterStarboard-name = PA starboard containment emitter
+ent-ParticleAcceleratorEmitterStarboard-desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterPortUnfinished-name = PA port containment emitter
+ent-ParticleAcceleratorEmitterPortUnfinished-desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+ent-ParticleAcceleratorEmitterForeUnfinished-name = PA fore containment emitter
+ent-ParticleAcceleratorEmitterForeUnfinished-desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+ent-ParticleAcceleratorEmitterStarboardUnfinished-name = PA starboard containment emitter
+ent-ParticleAcceleratorEmitterStarboardUnfinished-desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.

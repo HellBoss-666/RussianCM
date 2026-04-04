@@ -1,6 +1,5 @@
-
-ent-BasePortal = bluespace portal
-  .desc = Transports you to a linked destination!
-  .desc = This one looks more like a redspace portal.
-ent-ShadowPortal = shadow rift
-  .desc = Looks unstable.
+ent-BasePortal-name = bluespace portal
+ent-BasePortal-desc = Transports you to a linked destination!
+ent-PortalRed-desc = This one looks more like a redspace portal.
+ent-ShadowPortal-name = shadow rift
+ent-ShadowPortal-desc = Looks unstable.

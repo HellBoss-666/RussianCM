@@ -1,3 +1,2 @@
-
-ent-Binoculars = binoculars
-  .desc = Used for long-distance surveillance.
+ent-Binoculars-name = binoculars
+ent-Binoculars-desc = Used for long-distance surveillance.

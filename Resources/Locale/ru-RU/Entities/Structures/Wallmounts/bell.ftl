@@ -1,3 +1,2 @@
-
-ent-BoxingBell = boxing bell
-  .desc = Ding ding!
+ent-BoxingBell-name = boxing bell
+ent-BoxingBell-desc = Ding ding!

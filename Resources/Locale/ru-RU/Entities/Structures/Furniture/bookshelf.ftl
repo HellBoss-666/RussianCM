@@ -1,3 +1,2 @@
-
-ent-Bookshelf = bookshelf
-  .desc = Mostly filled with books.
+ent-Bookshelf-name = bookshelf
+ent-Bookshelf-desc = Mostly filled with books.

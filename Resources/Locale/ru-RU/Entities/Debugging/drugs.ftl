@@ -1,3 +1,2 @@
-
-ent-DrinkMeth = meth
-  .desc = Just a whole glass of meth.
+ent-DrinkMeth-name = meth
+ent-DrinkMeth-desc = Just a whole glass of meth.

@@ -1,7 +1,6 @@
-
-  .desc = An egg!
-ent-Eggshells = eggshells
-  .desc = You're walkin' on 'em bud.
-ent-FoodEgg = egg
-ent-FoodEggBoiled = boiled egg
-  .desc = A delicious hardboiled egg.
+ent-FoodEggBase-desc = An egg!
+ent-Eggshells-name = eggshells
+ent-Eggshells-desc = You're walkin' on 'em bud.
+ent-FoodEgg-name = egg
+ent-FoodEggBoiled-name = boiled egg
+ent-FoodEggBoiled-desc = A delicious hardboiled egg.

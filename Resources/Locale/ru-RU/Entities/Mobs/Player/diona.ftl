@@ -1,3 +1,2 @@
-
-ent-MobDiona = Urist McPlants
-ent-MobDionaReformed = Reformed Diona
+ent-MobDiona-name = Urist McPlants
+ent-MobDionaReformed-name = Reformed Diona

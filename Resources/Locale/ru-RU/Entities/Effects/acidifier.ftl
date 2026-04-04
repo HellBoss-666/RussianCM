@@ -1,3 +1,2 @@
-
-ent-Acidifier = acid
-  .desc = Melts you into a puddle of yuck!
+ent-Acidifier-name = acid
+ent-Acidifier-desc = Melts you into a puddle of yuck!

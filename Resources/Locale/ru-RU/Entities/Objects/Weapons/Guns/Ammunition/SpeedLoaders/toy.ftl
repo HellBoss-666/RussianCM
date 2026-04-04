@@ -1,3 +1,2 @@
-
-ent-BaseSpeedLoaderCap = cap gun loader
-ent-SpeedLoaderCap = cap gun loader
+ent-BaseSpeedLoaderCap-name = cap gun loader
+ent-SpeedLoaderCap-name = cap gun loader

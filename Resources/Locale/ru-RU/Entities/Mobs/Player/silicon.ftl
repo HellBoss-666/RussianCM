@@ -1,13 +1,12 @@
-
-  .desc = Components added / removed from an entity that gets inserted into an AI core.
-  .desc = Components added / removed from an entity that gets inserted into an Intellicard.
-  .desc = Handles AI interactions across holocards + AI cores
-ent-Intellicard = intellicard
-  .desc = A storage device for AIs.
-ent-PlayerStationAiEmpty = AI Core
-  .desc = The latest in Artificial Intelligences.
-ent-StationAiHolo = AI eye
-  .desc = The AI's viewer.
-ent-StationAiHoloLocal = AI hologram
-  .desc = A holographic representation of an AI.
-ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = syndicate invasion borg spawner
+ent-AiHeld-desc = Components added / removed from an entity that gets inserted into an AI core.
+ent-AiHeldIntellicard-desc = Components added / removed from an entity that gets inserted into an Intellicard.
+ent-AiHolder-desc = Handles AI interactions across holocards + AI cores
+ent-Intellicard-name = intellicard
+ent-Intellicard-desc = A storage device for AIs.
+ent-PlayerStationAiEmpty-name = AI Core
+ent-PlayerStationAiEmpty-desc = The latest in Artificial Intelligences.
+ent-StationAiHolo-name = AI eye
+ent-StationAiHolo-desc = The AI's viewer.
+ent-StationAiHoloLocal-name = AI hologram
+ent-StationAiHoloLocal-desc = A holographic representation of an AI.
+ent-PlayerBorgSyndicateInvasionGhostRoleSpawner-name = syndicate invasion borg spawner

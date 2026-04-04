@@ -1,3 +1,2 @@
-
-ent-CollideFloorTrapSpawn = floor trap spawn
-ent-FloorTrapExplosion = explosion floor trap
+ent-CollideFloorTrapSpawn-name = floor trap spawn
+ent-FloorTrapExplosion-name = explosion floor trap

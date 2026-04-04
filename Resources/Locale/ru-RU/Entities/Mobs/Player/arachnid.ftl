@@ -1,2 +1,1 @@
-
-ent-MobArachnid = Urist McWeb
+ent-MobArachnid-name = Urist McWeb

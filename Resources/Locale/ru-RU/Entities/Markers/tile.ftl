@@ -1,3 +1,2 @@
-
-ent-RoofMarker = Roof
-ent-NoRoofMarker = Roof
+ent-RoofMarker-name = Roof
+ent-NoRoofMarker-name = Roof

@@ -1,4 +1,3 @@
-
-ent-LootSpawnerScienceMinor = science supplies spawner
-ent-LootSpawnerScienceMajor = science supplies spawner
-ent-LootSpawnerRoboticsBorgModule = robotics board spawner
+ent-LootSpawnerScienceMinor-name = science supplies spawner
+ent-LootSpawnerScienceMajor-name = science supplies spawner
+ent-LootSpawnerRoboticsBorgModule-name = robotics board spawner

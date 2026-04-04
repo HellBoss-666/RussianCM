@@ -1,2 +1,1 @@
-
-ent-TorsoRat = animal torso
+ent-TorsoRat-name = animal torso

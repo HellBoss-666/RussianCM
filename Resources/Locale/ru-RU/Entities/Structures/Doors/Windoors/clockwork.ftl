@@ -1,2 +1,1 @@
-
-ent-BaseClockworkWindoor = clockwork windoor
+ent-BaseClockworkWindoor-name = clockwork windoor

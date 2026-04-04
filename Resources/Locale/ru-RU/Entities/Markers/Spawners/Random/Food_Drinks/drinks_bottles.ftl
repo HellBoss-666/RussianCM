@@ -1,2 +1,1 @@
-
-ent-RandomDrinkBottle = random drink spawner
+ent-RandomDrinkBottle-name = random drink spawner

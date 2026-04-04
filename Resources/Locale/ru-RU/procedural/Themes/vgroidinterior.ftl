@@ -1,2 +1,1 @@
-
-ent-VGRoidInteriorRoomMarker = VGRoid interior marker
+ent-VGRoidInteriorRoomMarker-name = VGRoid interior marker

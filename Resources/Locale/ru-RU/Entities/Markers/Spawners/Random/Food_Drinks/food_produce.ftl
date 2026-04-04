@@ -1,2 +1,1 @@
-
-ent-RandomProduce = random produce spawner
+ent-RandomProduce-name = random produce spawner

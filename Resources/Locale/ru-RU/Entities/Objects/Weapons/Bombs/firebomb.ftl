@@ -1,6 +1,5 @@
-
-ent-FireBomb = fire bomb
-  .desc = A weak, improvised incendiary device.
-ent-FireBombEmpty = fire bomb
-  .desc = A weak, improvised incendiary device. This one has no fuel.
-  .desc = A weak, improvised incendiary device. This one is missing wires.
+ent-FireBomb-name = fire bomb
+ent-FireBomb-desc = A weak, improvised incendiary device.
+ent-FireBombEmpty-name = fire bomb
+ent-FireBombEmpty-desc = A weak, improvised incendiary device. This one has no fuel.
+ent-FireBombFuel-desc = A weak, improvised incendiary device. This one is missing wires.

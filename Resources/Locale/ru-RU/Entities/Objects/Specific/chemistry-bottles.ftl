@@ -1,3 +1,2 @@
-
-ent-BaseChemistryEmptyBottle = bottle
-  .desc = A small bottle.
+ent-BaseChemistryEmptyBottle-name = bottle
+ent-BaseChemistryEmptyBottle-desc = A small bottle.

@@ -1,4 +1,3 @@
-
-ent-NitrogenTankFilled = nitrogen tank
-ent-NitrousOxideTankFilled = nitrous oxide tank
-ent-PlasmaTankFilled = plasma tank
+ent-NitrogenTankFilled-name = nitrogen tank
+ent-NitrousOxideTankFilled-name = nitrous oxide tank
+ent-PlasmaTankFilled-name = plasma tank

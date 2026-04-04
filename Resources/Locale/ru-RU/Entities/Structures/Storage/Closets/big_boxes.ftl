@@ -1,6 +1,5 @@
-
-ent-BaseBigBox = cardboard box
-  .desc = Huh? Just a box...
-  .desc = Kept ya waiting, huh?
-ent-GhostBox = ghost box
-  .desc = Beware!
+ent-BaseBigBox-name = cardboard box
+ent-BaseBigBox-desc = Huh? Just a box...
+ent-StealthBox-desc = Kept ya waiting, huh?
+ent-GhostBox-name = ghost box
+ent-GhostBox-desc = Beware!

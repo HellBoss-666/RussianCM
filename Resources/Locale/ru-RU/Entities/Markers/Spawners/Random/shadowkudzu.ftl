@@ -1,2 +1,1 @@
-
-ent-ShadowKudzuLootSpawner = shadow kudzu loot spawner
+ent-ShadowKudzuLootSpawner-name = shadow kudzu loot spawner

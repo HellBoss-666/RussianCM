@@ -1,2 +1,1 @@
-
-ent-BaseMobSlimePerson = Urist McSlime
+ent-BaseMobSlimePerson-name = Urist McSlime

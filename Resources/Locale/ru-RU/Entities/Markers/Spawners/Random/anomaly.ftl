@@ -1,4 +1,3 @@
-
-ent-RandomAnomalySpawner = random anomaly spawner
-ent-RandomRockAnomalySpawner = random rock anomaly spawner
-ent-RandomAnomalyInjectorSpawner = random anomaly injector spawner
+ent-RandomAnomalySpawner-name = random anomaly spawner
+ent-RandomRockAnomalySpawner-name = random rock anomaly spawner
+ent-RandomAnomalyInjectorSpawner-name = random anomaly injector spawner

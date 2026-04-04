@@ -1,12 +1,11 @@
-
-ent-PelletShotgunSlug = pellet (.50 slug)
-ent-PelletShotgunBeanbag = beanbag (.50)
-ent-PelletShotgun = pellet (.50)
-ent-PelletShotgunIncendiary = pellet (.50 incendiary)
-ent-PelletShotgunPractice = pellet (.50 practice)
-ent-PelletShotgunImprovised = improvised pellet
-ent-PelletShotgunTranquilizer = pellet (.50 tranquilizer)
-ent-PelletShotgunFlare = pellet (.50 flare)
-ent-PelletShotgunUranium = pellet (.50 uranium)
-ent-PelletGrapeshot = grapeshot pellet
-ent-PelletGlass = glass shard
+ent-PelletShotgunSlug-name = pellet (.50 slug)
+ent-PelletShotgunBeanbag-name = beanbag (.50)
+ent-PelletShotgun-name = pellet (.50)
+ent-PelletShotgunIncendiary-name = pellet (.50 incendiary)
+ent-PelletShotgunPractice-name = pellet (.50 practice)
+ent-PelletShotgunImprovised-name = improvised pellet
+ent-PelletShotgunTranquilizer-name = pellet (.50 tranquilizer)
+ent-PelletShotgunFlare-name = pellet (.50 flare)
+ent-PelletShotgunUranium-name = pellet (.50 uranium)
+ent-PelletGrapeshot-name = grapeshot pellet
+ent-PelletGlass-name = glass shard

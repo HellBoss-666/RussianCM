@@ -1,5 +1,4 @@
-
-ent-GravityGenerator = gravity generator
-  .desc = It's what keeps you to the floor.
-ent-GravityGeneratorMini = mini gravity generator
-  .desc = It's what keeps you to the floor, now in fun size.
+ent-GravityGenerator-name = gravity generator
+ent-GravityGenerator-desc = It's what keeps you to the floor.
+ent-GravityGeneratorMini-name = mini gravity generator
+ent-GravityGeneratorMini-desc = It's what keeps you to the floor, now in fun size.

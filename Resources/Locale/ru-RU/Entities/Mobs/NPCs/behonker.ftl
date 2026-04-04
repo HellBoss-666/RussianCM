@@ -1,7 +1,6 @@
-
-ent-BaseMobBehonker = behonker
-  .desc = A floating demon aspect of the honkmother.
-ent-MobBehonkerElectrical = behonker
-ent-MobBehonkerPyro = behonker
-ent-MobBehonkerGrav = behonker
-ent-MobBehonkerIce = behonker
+ent-BaseMobBehonker-name = behonker
+ent-BaseMobBehonker-desc = A floating demon aspect of the honkmother.
+ent-MobBehonkerElectrical-name = behonker
+ent-MobBehonkerPyro-name = behonker
+ent-MobBehonkerGrav-name = behonker
+ent-MobBehonkerIce-name = behonker

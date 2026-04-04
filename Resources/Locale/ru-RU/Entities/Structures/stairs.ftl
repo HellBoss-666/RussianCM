@@ -1,3 +1,2 @@
-
-ent-Stairs = stairs
-  .desc = The greatest invention since rocket-propelled grenades.
+ent-Stairs-name = stairs
+ent-Stairs-desc = The greatest invention since rocket-propelled grenades.

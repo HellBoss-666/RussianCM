@@ -1,3 +1,2 @@
-
-ent-MobRevenant = revenant
-  .desc = A spooky ghostie.
+ent-MobRevenant-name = revenant
+ent-MobRevenant-desc = A spooky ghostie.

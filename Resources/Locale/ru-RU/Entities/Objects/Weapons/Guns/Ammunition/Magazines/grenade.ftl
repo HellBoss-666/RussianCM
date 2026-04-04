@@ -1,8 +1,7 @@
-
-ent-BaseMagazineGrenade = grenade cartridge
-ent-MagazineGrenadeEmpty = grenade cartridge
-ent-MagazineGrenadeFrag = frag grenade cartridge
-ent-MagazineGrenadeEMP = EMP grenade cartridge
-ent-MagazineGrenadeFlash = flash grenade cartridge
-ent-MagazineGrenadeBlast = blast grenade cartridge
-ent-MagazineGrenadeBaton = baton grenade cartridge
+ent-BaseMagazineGrenade-name = grenade cartridge
+ent-MagazineGrenadeEmpty-name = grenade cartridge
+ent-MagazineGrenadeFrag-name = frag grenade cartridge
+ent-MagazineGrenadeEMP-name = EMP grenade cartridge
+ent-MagazineGrenadeFlash-name = flash grenade cartridge
+ent-MagazineGrenadeBlast-name = blast grenade cartridge
+ent-MagazineGrenadeBaton-name = baton grenade cartridge

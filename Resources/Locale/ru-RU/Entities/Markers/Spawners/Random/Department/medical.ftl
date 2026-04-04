@@ -1,3 +1,2 @@
-
-ent-LootSpawnerMedicalMinor = healing supplies spawner
-ent-LootSpawnerMedicalClassy = medical loot spawner
+ent-LootSpawnerMedicalMinor-name = healing supplies spawner
+ent-LootSpawnerMedicalClassy-name = medical loot spawner

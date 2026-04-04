@@ -1,13 +1,12 @@
-
-ent-PartSkeleton = skeleton body part
-ent-TorsoSkeleton = skeleton torso
-ent-HeadSkeleton = skull
-  .desc = Alas poor Yorick...
-ent-LeftArmSkeleton = left skeleton arm
-ent-RightArmSkeleton = right skeleton arm
-ent-LeftHandSkeleton = left skeleton hand
-ent-RightHandSkeleton = right skeleton hand
-ent-LeftLegSkeleton = left skeleton leg
-ent-RightLegSkeleton = right skeleton leg
-ent-LeftFootSkeleton = left skeleton foot
-ent-RightFootSkeleton = right skeleton foot
+ent-PartSkeleton-name = skeleton body part
+ent-TorsoSkeleton-name = skeleton torso
+ent-HeadSkeleton-name = skull
+ent-HeadSkeleton-desc = Alas poor Yorick...
+ent-LeftArmSkeleton-name = left skeleton arm
+ent-RightArmSkeleton-name = right skeleton arm
+ent-LeftHandSkeleton-name = left skeleton hand
+ent-RightHandSkeleton-name = right skeleton hand
+ent-LeftLegSkeleton-name = left skeleton leg
+ent-RightLegSkeleton-name = right skeleton leg
+ent-LeftFootSkeleton-name = left skeleton foot
+ent-RightFootSkeleton-name = right skeleton foot

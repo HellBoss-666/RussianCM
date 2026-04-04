@@ -1,2 +1,1 @@
-
-ent-MiningWindow = mining window
+ent-MiningWindow-name = mining window

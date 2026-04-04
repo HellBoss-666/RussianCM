@@ -1,2 +1,1 @@
-
-ent-CrystalSpawner = Crystal Spawner
+ent-CrystalSpawner-name = Crystal Spawner

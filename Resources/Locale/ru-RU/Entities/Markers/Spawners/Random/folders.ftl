@@ -1,2 +1,1 @@
-
-ent-FolderSpawner = Random Folder Spawner
+ent-FolderSpawner-name = Random Folder Spawner

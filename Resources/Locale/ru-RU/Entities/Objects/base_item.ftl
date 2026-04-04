@@ -1,3 +1,2 @@
-
-ent-BaseItem = item
-ent-BaseStorageItem = storage item
+ent-BaseItem-name = item
+ent-BaseStorageItem-name = storage item

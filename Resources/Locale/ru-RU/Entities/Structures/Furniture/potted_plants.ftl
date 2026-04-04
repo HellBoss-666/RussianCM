@@ -1,12 +1,10 @@
-
-ent-PottedPlantBase = potted plant
-  .desc = A little bit of nature contained in a pot.
-ent-PottedPlantBioluminscent = bioluminescent potted plant
-  .desc = It produces light!
-  .desc = A pretty piece of nature contained in a pot.
-ent-PottedPlantRD = RD's potted plant
-  .desc = A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says "Y'all come back now, y'hear?"
-It doesn't look very healthy...
-  .desc = Is it just me, or is it blinking?
-ent-PottedPlant27 = plastic potted plant
-  .desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.
+ent-PottedPlantBase-name = potted plant
+ent-PottedPlantBase-desc = A little bit of nature contained in a pot.
+ent-PottedPlantBioluminscent-name = bioluminescent potted plant
+ent-PottedPlantBioluminscent-desc = It produces light!
+ent-PottedPlant10-desc = A pretty piece of nature contained in a pot.
+ent-PottedPlantRD-name = RD's potted plant
+ent-PottedPlantRD-desc = A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says "Y'all come back now, y'hear?" It doesn't look very healthy...
+ent-PottedPlant26-desc = Is it just me, or is it blinking?
+ent-PottedPlant27-name = plastic potted plant
+ent-PottedPlant27-desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.

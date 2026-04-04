@@ -1,4 +1,3 @@
-
-ent-BoxDonkSoftBase = foamdart box
-ent-BoxDonkSoftBox = box of foam darts
-ent-BoxCartridgeCap = cap gun cartridge box
+ent-BoxDonkSoftBase-name = foamdart box
+ent-BoxDonkSoftBox-name = box of foam darts
+ent-BoxCartridgeCap-name = cap gun cartridge box

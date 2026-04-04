@@ -1,3 +1,2 @@
-
-ent-DiskCase = diskcase
-  .desc = Case for storing a coordinates disk.
+ent-DiskCase-name = diskcase
+ent-DiskCase-desc = Case for storing a coordinates disk.

@@ -1,3 +1,2 @@
-
-ent-LoadoutDummyCandles = three candles
-  .desc = A set of three colorful candles for secret rituals!
+ent-LoadoutDummyCandles-name = three candles
+ent-LoadoutDummyCandles-desc = A set of three colorful candles for secret rituals!

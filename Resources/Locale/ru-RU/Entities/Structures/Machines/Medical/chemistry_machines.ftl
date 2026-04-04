@@ -1,5 +1,4 @@
-
-ent-MachineElectrolysisUnit = electrolysis unit
-  .desc = The latest in medicinal electrocution technology.
-ent-MachineCentrifuge = tabletop centrifuge
-  .desc = Around and around it goes...
+ent-MachineElectrolysisUnit-name = electrolysis unit
+ent-MachineElectrolysisUnit-desc = The latest in medicinal electrocution technology.
+ent-MachineCentrifuge-name = tabletop centrifuge
+ent-MachineCentrifuge-desc = Around and around it goes...

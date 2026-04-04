@@ -1,13 +1,12 @@
-
-ent-GoldRing = gold ring
-  .desc = A precious ring.
-ent-SilverRing = silver ring
-  .desc = Looks slightly less valuable than a gold one.
-ent-GoldRingDiamond = gold diamond ring
-  .desc = Made from ethically mined space diamonds.
-ent-SilverRingDiamond = silver diamond ring
-  .desc = Made from ethically mined space diamonds.
-ent-GoldRingGem = gold gem ring
-  .desc = Shiny and valuable!
-ent-SilverRingGem = silver gem ring
-  .desc = Shiny and not quite as valuable!
+ent-GoldRing-name = gold ring
+ent-GoldRing-desc = A precious ring.
+ent-SilverRing-name = silver ring
+ent-SilverRing-desc = Looks slightly less valuable than a gold one.
+ent-GoldRingDiamond-name = gold diamond ring
+ent-GoldRingDiamond-desc = Made from ethically mined space diamonds.
+ent-SilverRingDiamond-name = silver diamond ring
+ent-SilverRingDiamond-desc = Made from ethically mined space diamonds.
+ent-GoldRingGem-name = gold gem ring
+ent-GoldRingGem-desc = Shiny and valuable!
+ent-SilverRingGem-name = silver gem ring
+ent-SilverRingGem-desc = Shiny and not quite as valuable!

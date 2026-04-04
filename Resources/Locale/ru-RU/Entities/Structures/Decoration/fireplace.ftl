@@ -1,3 +1,2 @@
-
-ent-Fireplace = fireplace
-  .desc = A place that has fire. Cozy!
+ent-Fireplace-name = fireplace
+ent-Fireplace-desc = A place that has fire. Cozy!

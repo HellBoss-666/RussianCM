@@ -1,3 +1,2 @@
-
-ent-BulletCaselessRifle = bullet (.25 caseless)
-ent-BulletCaselessRiflePractice = bullet (.25 caseless practice)
+ent-BulletCaselessRifle-name = bullet (.25 caseless)
+ent-BulletCaselessRiflePractice-name = bullet (.25 caseless practice)

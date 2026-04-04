@@ -1,5 +1,4 @@
-
-ent-BaseScrapDebris = scrap debris
-ent-ScrapDebrisSmall = scrap debris small
-ent-ScrapDebrisMedium = scrap debris medium
-ent-ScrapDebrisLarge = scrap debris large
+ent-BaseScrapDebris-name = scrap debris
+ent-ScrapDebrisSmall-name = scrap debris small
+ent-ScrapDebrisMedium-name = scrap debris medium
+ent-ScrapDebrisLarge-name = scrap debris large

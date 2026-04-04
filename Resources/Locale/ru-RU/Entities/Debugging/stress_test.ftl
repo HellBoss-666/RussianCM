@@ -1,2 +1,1 @@
-
-ent-StressTest = stress test
+ent-StressTest-name = stress test

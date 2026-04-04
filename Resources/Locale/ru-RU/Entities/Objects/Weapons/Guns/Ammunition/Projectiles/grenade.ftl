@@ -1,4 +1,3 @@
-
-ent-PelletClusterRubber = pellet (ball, rubber)
-ent-PelletClusterLethal = pellet (ball, lethal)
-ent-PelletClusterIncendiary = pellet (ball, incendiary)
+ent-PelletClusterRubber-name = pellet (ball, rubber)
+ent-PelletClusterLethal-name = pellet (ball, lethal)
+ent-PelletClusterIncendiary-name = pellet (ball, incendiary)

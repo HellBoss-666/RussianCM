@@ -1,10 +1,9 @@
-
-ent-MobHuman = Urist McHands
-ent-MobHumanSyndicateAgentBase = syndicate agent
-ent-MobHumanSyndicateAgent = syndicate agent
-ent-MobHumanSyndicateAgentMedic = syndicate medic
-ent-MobHumanSyndicateAgentSpy = syndicate spy
-ent-MobHumanSyndicateAgentThief = syndicate thief
-ent-MobHumanNukeOp = Nuclear Operative
-ent-MobHumanLoneNuclearOperative = Lone Operative
-ent-MobHumanWizard = Wizard
+ent-MobHuman-name = Urist McHands
+ent-MobHumanSyndicateAgentBase-name = syndicate agent
+ent-MobHumanSyndicateAgent-name = syndicate agent
+ent-MobHumanSyndicateAgentMedic-name = syndicate medic
+ent-MobHumanSyndicateAgentSpy-name = syndicate spy
+ent-MobHumanSyndicateAgentThief-name = syndicate thief
+ent-MobHumanNukeOp-name = Nuclear Operative
+ent-MobHumanLoneNuclearOperative-name = Lone Operative
+ent-MobHumanWizard-name = Wizard

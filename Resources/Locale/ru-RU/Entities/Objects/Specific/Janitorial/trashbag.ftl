@@ -1,6 +1,5 @@
-
-ent-TrashBag = trash bag
-ent-TrashBagBlue = trash bag
-ent-BagOfSummoningGarbage = spell of all-consuming cleanliness
-ent-BorgTrashBag = internal trash bag
-  .desc = An upgraded trash bag with a larger internal volume, installed directly into a custodial cyborg.
+ent-TrashBag-name = trash bag
+ent-TrashBagBlue-name = trash bag
+ent-BagOfSummoningGarbage-name = spell of all-consuming cleanliness
+ent-BorgTrashBag-name = internal trash bag
+ent-BorgTrashBag-desc = An upgraded trash bag with a larger internal volume, installed directly into a custodial cyborg.

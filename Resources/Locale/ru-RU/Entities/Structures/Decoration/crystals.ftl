@@ -1,3 +1,2 @@
-
-ent-CrystalGreen = crystal
-  .desc = A crystaline solid.
+ent-CrystalGreen-name = crystal
+ent-CrystalGreen-desc = A crystaline solid.

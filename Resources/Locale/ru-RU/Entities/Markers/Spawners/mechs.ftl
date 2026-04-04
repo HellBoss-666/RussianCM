@@ -1,3 +1,2 @@
-
-ent-SpawnMechRipley = Ripley APLU Spawner
-ent-SpawnMechHonker = H.O.N.K. Spawner
+ent-SpawnMechRipley-name = Ripley APLU Spawner
+ent-SpawnMechHonker-name = H.O.N.K. Spawner

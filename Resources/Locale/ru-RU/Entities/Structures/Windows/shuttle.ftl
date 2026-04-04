@@ -1,2 +1,1 @@
-
-ent-ShuttleWindow = shuttle window
+ent-ShuttleWindow-name = shuttle window

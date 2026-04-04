@@ -1,2 +1,1 @@
-
-ent-FloorBananiumEntity = bananium floor
+ent-FloorBananiumEntity-name = bananium floor

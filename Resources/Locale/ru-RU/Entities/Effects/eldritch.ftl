@@ -1,2 +1,1 @@
-
-ent-EffectVoidBlink = void blink
+ent-EffectVoidBlink-name = void blink

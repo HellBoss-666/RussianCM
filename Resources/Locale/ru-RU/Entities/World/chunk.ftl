@@ -1,5 +1,2 @@
-
-ent-WorldChunk = world chunk
-  .desc = It's rude to stare.
-It's also a bit odd you're looking at the abstract representation of the grid of reality.
-
+ent-WorldChunk-name = world chunk
+ent-WorldChunk-desc = It's rude to stare. It's also a bit odd you're looking at the abstract representation of the grid of reality.

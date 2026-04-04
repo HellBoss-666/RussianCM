@@ -1,3 +1,2 @@
-
-ent-Error = error
-  .desc = Hmmmm. Something went wrong.
+ent-Error-name = error
+ent-Error-desc = Hmmmm. Something went wrong.

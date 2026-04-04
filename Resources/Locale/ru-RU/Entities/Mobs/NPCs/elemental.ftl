@@ -1,12 +1,11 @@
-
-ent-MobOreCrab = ore crab
-  .desc = An ore crab made from Quartz.
-  .desc = An ore crab made from iron.
-  .desc = An ore crab made from coal.
-  .desc = An ore crab made from uranium.
-  .desc = An ore crab made from bananium.
-  .desc = An ore crab made from silver.
-  .desc = An ore crab made from gold.
-ent-ReagentSlime = reagent slime
-  .desc = It consists of a liquid, and it wants to dissolve you in itself.
-ent-ReagentSlimeSpawner = Reagent Slime Spawner
+ent-MobOreCrab-name = ore crab
+ent-MobQuartzCrab-desc = An ore crab made from Quartz.
+ent-MobIronCrab-desc = An ore crab made from iron.
+ent-MobCoalCrab-desc = An ore crab made from coal.
+ent-MobUraniumCrab-desc = An ore crab made from uranium.
+ent-MobBananiumCrab-desc = An ore crab made from bananium.
+ent-MobSilverCrab-desc = An ore crab made from silver.
+ent-MobGoldCrab-desc = An ore crab made from gold.
+ent-ReagentSlime-name = reagent slime
+ent-ReagentSlime-desc = It consists of a liquid, and it wants to dissolve you in itself.
+ent-ReagentSlimeSpawner-name = Reagent Slime Spawner

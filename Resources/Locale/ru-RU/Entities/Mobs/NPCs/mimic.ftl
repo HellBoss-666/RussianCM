@@ -1,3 +1,2 @@
-
-ent-MobMimic = mimic
-  .desc = Surprise.
+ent-MobMimic-name = mimic
+ent-MobMimic-desc = Surprise.

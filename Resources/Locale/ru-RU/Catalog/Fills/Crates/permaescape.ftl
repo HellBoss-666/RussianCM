@@ -1,2 +1,1 @@
-
-ent-CratePermaEscapeSpawner = Perma Escape Crate Spawner
+ent-CratePermaEscapeSpawner-name = Perma Escape Crate Spawner

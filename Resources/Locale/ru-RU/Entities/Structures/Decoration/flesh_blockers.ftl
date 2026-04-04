@@ -1,3 +1,2 @@
-
-ent-FleshBlocker = flesh clump
-  .desc = An annoying clump of flesh.
+ent-FleshBlocker-name = flesh clump
+ent-FleshBlocker-desc = An annoying clump of flesh.

@@ -1,8 +1,7 @@
-
-ent-BaseLightning = lightning
-ent-Lightning = lightning
-ent-LightningRevenant = spooky lightning
-ent-ChargedLightning = charged lightning
-ent-Spark = lightning
-ent-SuperchargedLightning = supercharged lightning
-ent-HyperchargedLightning = hypercharged lightning
+ent-BaseLightning-name = lightning
+ent-Lightning-name = lightning
+ent-LightningRevenant-name = spooky lightning
+ent-ChargedLightning-name = charged lightning
+ent-Spark-name = lightning
+ent-SuperchargedLightning-name = supercharged lightning
+ent-HyperchargedLightning-name = hypercharged lightning

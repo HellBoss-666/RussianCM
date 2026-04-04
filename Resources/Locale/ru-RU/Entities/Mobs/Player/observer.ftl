@@ -1,14 +1,12 @@
-
-  .desc = Mobs without physical bodies
-ent-MobObserverBase = observer
-  .desc = Boo!
-ent-ActionGhostBoo = Boo!
-  .desc = Scare your crew members because of boredom!
-ent-ActionToggleLighting = Toggle Lighting
-  .desc = Toggle light rendering to better observe dark areas.
-ent-ActionToggleFov = Toggle FoV
-  .desc = Toggles field-of-view in order to see what players see.
-ent-ActionToggleGhosts = Toggle Ghosts
-  .desc = Toggle the visibility of other ghosts.
-ent-ActionToggleGhostHearing = Toggle Ghost Hearing
-  .desc = Toggle between hearing all messages and hearing only radio & nearby messages.
+ent-Incorporeal-desc = Mobs without physical bodies
+ent-MobObserverBase-name = observer
+ent-ActionGhostBoo-name = Boo!
+ent-ActionGhostBoo-desc = Scare your crew members because of boredom!
+ent-ActionToggleLighting-name = Toggle Lighting
+ent-ActionToggleLighting-desc = Toggle light rendering to better observe dark areas.
+ent-ActionToggleFov-name = Toggle FoV
+ent-ActionToggleFov-desc = Toggles field-of-view in order to see what players see.
+ent-ActionToggleGhosts-name = Toggle Ghosts
+ent-ActionToggleGhosts-desc = Toggle the visibility of other ghosts.
+ent-ActionToggleGhostHearing-name = Toggle Ghost Hearing
+ent-ActionToggleGhostHearing-desc = Toggle between hearing all messages and hearing only radio & nearby messages.

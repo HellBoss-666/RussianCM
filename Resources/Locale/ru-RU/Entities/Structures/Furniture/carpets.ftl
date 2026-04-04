@@ -1,4 +1,3 @@
-
-ent-CarpetBase = carpet
-  .desc = Fancy walking surface.
-ent-CarpetChapel = chapel's carpet
+ent-CarpetBase-name = carpet
+ent-CarpetBase-desc = Fancy walking surface.
+ent-CarpetChapel-name = chapel's carpet

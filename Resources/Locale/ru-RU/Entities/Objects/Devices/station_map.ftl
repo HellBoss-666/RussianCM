@@ -1,3 +1,2 @@
-
-ent-BaseHandheldStationMap = station map
-  .desc = Displays a readout of the current station.
+ent-BaseHandheldStationMap-name = station map
+ent-BaseHandheldStationMap-desc = Displays a readout of the current station.

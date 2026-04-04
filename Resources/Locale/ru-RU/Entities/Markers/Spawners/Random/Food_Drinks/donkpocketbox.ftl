@@ -1,2 +1,1 @@
-
-ent-DonkpocketBoxSpawner = Donkpocket Box Spawner
+ent-DonkpocketBoxSpawner-name = Donkpocket Box Spawner

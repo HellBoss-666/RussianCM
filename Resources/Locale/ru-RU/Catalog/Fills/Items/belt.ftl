@@ -1,2 +1,1 @@
-
-ent-ClothingBeltMilitaryWebbingGrenadeFilled = grenadier chest rig
+ent-ClothingBeltMilitaryWebbingGrenadeFilled-name = grenadier chest rig

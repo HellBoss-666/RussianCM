@@ -1,3 +1,2 @@
-
-ent-BrbSign = brb sign
-  .desc = Lets others know you are away.
+ent-BrbSign-name = brb sign
+ent-BrbSign-desc = Lets others know you are away.

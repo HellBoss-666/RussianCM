@@ -1,12 +1,11 @@
-
-ent-PartSlime = slime body part
-ent-TorsoSlime = slime torso
-ent-HeadSlime = slime head
-ent-LeftArmSlime = left slime arm
-ent-RightArmSlime = right slime arm
-ent-LeftHandSlime = left slime hand
-ent-RightHandSlime = right slime hand
-ent-LeftLegSlime = left slime leg
-ent-RightLegSlime = right slime leg
-ent-LeftFootSlime = left slime foot
-ent-RightFootSlime = right slime foot
+ent-PartSlime-name = slime body part
+ent-TorsoSlime-name = slime torso
+ent-HeadSlime-name = slime head
+ent-LeftArmSlime-name = left slime arm
+ent-RightArmSlime-name = right slime arm
+ent-LeftHandSlime-name = left slime hand
+ent-RightHandSlime-name = right slime hand
+ent-LeftLegSlime-name = left slime leg
+ent-RightLegSlime-name = right slime leg
+ent-LeftFootSlime-name = left slime foot
+ent-RightFootSlime-name = right slime foot

@@ -1,7 +1,6 @@
-
-ent-LootSpawnerMaterials = materials spawner
-ent-LootSpawnerMaterialsSupplementary = materials spawner
-ent-LootSpawnerMaterialsHighValueConstruction = high-value materials spawner
-ent-LootSpawnerMaterialsHighValue = high-value materials spawner
-ent-LootSpawnerMaterialsSurplus = surplus materials spawner
-ent-LootSpawnerCableCoil = cable coil spawner
+ent-LootSpawnerMaterials-name = materials spawner
+ent-LootSpawnerMaterialsSupplementary-name = materials spawner
+ent-LootSpawnerMaterialsHighValueConstruction-name = high-value materials spawner
+ent-LootSpawnerMaterialsHighValue-name = high-value materials spawner
+ent-LootSpawnerMaterialsSurplus-name = surplus materials spawner
+ent-LootSpawnerCableCoil-name = cable coil spawner

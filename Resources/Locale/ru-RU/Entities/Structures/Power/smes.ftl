@@ -1,5 +1,4 @@
-
-ent-BaseSMES = SMES
-  .desc = A high-capacity superconducting magnetic energy storage (SMES) unit.
-ent-SMESAdvanced = advanced SMES
-  .desc = An even-higher-capacity superconducting magnetic energy storage (SMES) unit.
+ent-BaseSMES-name = SMES
+ent-BaseSMES-desc = A high-capacity superconducting magnetic energy storage (SMES) unit.
+ent-SMESAdvanced-name = advanced SMES
+ent-SMESAdvanced-desc = An even-higher-capacity superconducting magnetic energy storage (SMES) unit.

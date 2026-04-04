@@ -1,3 +1,2 @@
-
-ent-HolopadMachineCircuitboard = holopad machine board
-  .desc = A machine printed circuit board for a holopad.
+ent-HolopadMachineCircuitboard-name = holopad machine board
+ent-HolopadMachineCircuitboard-desc = A machine printed circuit board for a holopad.

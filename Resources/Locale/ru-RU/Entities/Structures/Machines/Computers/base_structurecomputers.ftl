@@ -1,2 +1,1 @@
-
-ent-BaseComputer = computer
+ent-BaseComputer-name = computer

@@ -1,3 +1,2 @@
-
-ent-FTLPoint = FTL point
-ent-FTLExclusion = FTL exclusion point
+ent-FTLPoint-name = FTL point
+ent-FTLExclusion-name = FTL exclusion point

@@ -1,4 +1,3 @@
-
-ent-ToySpawner = Toy Spawner
-ent-FigureSpawner = Prize Figurine Spawner
-ent-SpacemenFigureSpawner = Spacemen Minifigure Spawner
+ent-ToySpawner-name = Toy Spawner
+ent-FigureSpawner-name = Prize Figurine Spawner
+ent-SpacemenFigureSpawner-name = Spacemen Minifigure Spawner

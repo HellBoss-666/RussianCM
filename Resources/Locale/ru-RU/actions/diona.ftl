@@ -1,5 +1,4 @@
-
-ent-DionaGibAction = Gib Yourself!
-  .desc = Split apart into 3 nymphs.
-ent-DionaReformAction = Reform
-  .desc = Reform back into a whole Diona.
+ent-DionaGibAction-name = Gib Yourself!
+ent-DionaGibAction-desc = Split apart into 3 nymphs.
+ent-DionaReformAction-name = Reform
+ent-DionaReformAction-desc = Reform back into a whole Diona.

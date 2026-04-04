@@ -1,2 +1,1 @@
-
-ent-RandomBoard = random board spawner
+ent-RandomBoard-name = random board spawner

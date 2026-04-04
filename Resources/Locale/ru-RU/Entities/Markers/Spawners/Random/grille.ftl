@@ -1,2 +1,1 @@
-
-ent-GrilleSpawner = Random Grille Spawner
+ent-GrilleSpawner-name = Random Grille Spawner

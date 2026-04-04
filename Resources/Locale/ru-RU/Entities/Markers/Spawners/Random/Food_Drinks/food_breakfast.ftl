@@ -1,2 +1,1 @@
-
-ent-RandomFoodBreakfast = random food spawner
+ent-RandomFoodBreakfast-name = random food spawner

@@ -1,2 +1,1 @@
-
-ent-dragshadow = drag shadow
+ent-dragshadow-name = drag shadow

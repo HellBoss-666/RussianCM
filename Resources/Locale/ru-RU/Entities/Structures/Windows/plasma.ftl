@@ -1,4 +1,3 @@
-
-ent-PlasmaWindow = plasma window
-ent-PlasmaWindowDirectional = directional plasma window
-  .desc = Don't smudge up the glass down there.
+ent-PlasmaWindow-name = plasma window
+ent-PlasmaWindowDirectional-name = directional plasma window
+ent-PlasmaWindowDirectional-desc = Don't smudge up the glass down there.

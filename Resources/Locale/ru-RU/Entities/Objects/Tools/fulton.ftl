@@ -1,7 +1,4 @@
-
-ent-FultonBeacon = fulton beacon
-  .desc = Beacon to receive fulton extractions.
-ent-Fulton = fulton
-  .desc = Used to extract containers, items, or forcibly recruit people into your base of operations.
-ent-Fulton1 = fulton
-ent-FultonEffect = fulton effect
+ent-FultonBeacon-name = fulton beacon
+ent-FultonBeacon-desc = Beacon to receive fulton extractions.
+ent-Fulton1-name = fulton
+ent-FultonEffect-name = fulton effect

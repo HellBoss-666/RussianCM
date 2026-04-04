@@ -1,2 +1,1 @@
-
-ent-MapText = map text
+ent-MapText-name = map text

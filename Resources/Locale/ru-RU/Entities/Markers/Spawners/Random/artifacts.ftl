@@ -1,3 +1,2 @@
-
-ent-RandomArtifactSpawner = random artifact spawner
-ent-RandomArtifactSpawner20 = random artifact spawner [20]
+ent-RandomArtifactSpawner-name = random artifact spawner
+ent-RandomArtifactSpawner20-name = random artifact spawner [20]

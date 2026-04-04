@@ -1,6 +1,5 @@
-
-ent-LootSpawnerSecurityBasic = security loot spawner
-ent-LootSpawnerSecurity = security loot spawner
-ent-LootSpawnerArmory = armory loot spawner
-ent-LootSpawnerArmoryGunsOnly = armory loot spawner
-ent-LootSpawnerArmoryArmorOnly = armory loot spawner
+ent-LootSpawnerSecurityBasic-name = security loot spawner
+ent-LootSpawnerSecurity-name = security loot spawner
+ent-LootSpawnerArmory-name = armory loot spawner
+ent-LootSpawnerArmoryGunsOnly-name = armory loot spawner
+ent-LootSpawnerArmoryArmorOnly-name = armory loot spawner

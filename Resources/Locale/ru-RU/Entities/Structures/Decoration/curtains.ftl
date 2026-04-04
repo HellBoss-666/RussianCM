@@ -1,4 +1,3 @@
-
-ent-BaseCurtains = curtains
-  .desc = Hides what others shouldn't see.
-  .desc = Contains less than 1% mercury.
+ent-BaseCurtains-name = curtains
+ent-BaseCurtains-desc = Hides what others shouldn't see.
+ent-HospitalCurtains-desc = Contains less than 1% mercury.

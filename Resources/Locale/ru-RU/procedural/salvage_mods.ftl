@@ -1,2 +1,1 @@
-
-ent-SalvageShuttleMarker = salvage shuttle marker
+ent-SalvageShuttleMarker-name = salvage shuttle marker

@@ -1,12 +1,11 @@
-
-ent-PartHuman = human body part
-ent-TorsoHuman = human torso
-ent-HeadHuman = human head
-ent-LeftArmHuman = left human arm
-ent-RightArmHuman = right human arm
-ent-LeftHandHuman = left human hand
-ent-RightHandHuman = right human hand
-ent-LeftLegHuman = left human leg
-ent-RightLegHuman = right human leg
-ent-LeftFootHuman = left human foot
-ent-RightFootHuman = right human foot
+ent-PartHuman-name = human body part
+ent-TorsoHuman-name = human torso
+ent-HeadHuman-name = human head
+ent-LeftArmHuman-name = left human arm
+ent-RightArmHuman-name = right human arm
+ent-LeftHandHuman-name = left human hand
+ent-RightHandHuman-name = right human hand
+ent-LeftLegHuman-name = left human leg
+ent-RightLegHuman-name = right human leg
+ent-LeftFootHuman-name = left human foot
+ent-RightFootHuman-name = right human foot

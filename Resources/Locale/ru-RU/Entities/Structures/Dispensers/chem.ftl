@@ -1,3 +1,2 @@
-
-ent-ChemDispenserEmpty = chemical dispenser
-  .desc = An industrial grade chemical dispenser.
+ent-ChemDispenserEmpty-name = chemical dispenser
+ent-ChemDispenserEmpty-desc = An industrial grade chemical dispenser.

@@ -1,3 +1,2 @@
-
-ent-HandHeldMassScanner = handheld mass scanner
-  .desc = A hand-held mass scanner.
+ent-HandHeldMassScanner-name = handheld mass scanner
+ent-HandHeldMassScanner-desc = A hand-held mass scanner.

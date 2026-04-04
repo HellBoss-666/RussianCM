@@ -1,2 +1,1 @@
-
-ent-BaseXenoArtifactStructure = artifact
+ent-BaseXenoArtifactStructure-name = artifact

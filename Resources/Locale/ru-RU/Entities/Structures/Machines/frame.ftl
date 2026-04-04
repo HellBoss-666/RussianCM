@@ -1,5 +1,4 @@
-
-ent-UnfinishedMachineFrame = machine frame
-  .desc = A machine under construction. Needs more parts.
-ent-MachineFrame = machine frame
-ent-MachineFrameDestroyed = destroyed machine frame
+ent-UnfinishedMachineFrame-name = machine frame
+ent-UnfinishedMachineFrame-desc = A machine under construction. Needs more parts.
+ent-MachineFrame-name = machine frame
+ent-MachineFrameDestroyed-name = destroyed machine frame

@@ -1,2 +1,1 @@
-
-ent-RandomArcade = random arcade spawner
+ent-RandomArcade-name = random arcade spawner

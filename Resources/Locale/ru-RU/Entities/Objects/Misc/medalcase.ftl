@@ -1,3 +1,2 @@
-
-ent-MedalCase = medal case
-  .desc = Case with medals.
+ent-MedalCase-name = medal case
+ent-MedalCase-desc = Case with medals.

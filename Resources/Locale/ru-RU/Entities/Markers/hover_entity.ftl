@@ -1,2 +1,1 @@
-
-ent-hoverentity = hover entity
+ent-hoverentity-name = hover entity

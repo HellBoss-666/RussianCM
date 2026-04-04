@@ -1,3 +1,2 @@
-
-ent-LockerWallMedicalFilled = medicine wall locker
-ent-LockerWallMedicalDoctorFilled = medical doctor's wall locker
+ent-LockerWallMedicalFilled-name = medicine wall locker
+ent-LockerWallMedicalDoctorFilled-name = medical doctor's wall locker

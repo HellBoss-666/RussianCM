@@ -1,14 +1,13 @@
-
-ent-AdminObserver = admin observer
-ent-ActionAGhostShowSolar = Solar Control Interface
-  .desc = View a Solar Control Interface.
-ent-ActionAGhostShowCommunications = Communications Interface
-  .desc = View a Communications Interface.
-ent-ActionAGhostShowRadar = Mass Scanner Interface
-  .desc = View a Mass Scanner Interface.
-ent-ActionAGhostShowCargo = Cargo Ordering Interface
-  .desc = View a Cargo Ordering Interface.
-ent-ActionAGhostShowCrewMonitoring = Crew Monitoring Interface
-  .desc = View a Crew Monitoring Interface.
-ent-ActionAGhostShowStationRecords = Station Records Interface
-  .desc = View a Station Records Interface.
+ent-AdminObserver-name = admin observer
+ent-ActionAGhostShowSolar-name = Solar Control Interface
+ent-ActionAGhostShowSolar-desc = View a Solar Control Interface.
+ent-ActionAGhostShowCommunications-name = Communications Interface
+ent-ActionAGhostShowCommunications-desc = View a Communications Interface.
+ent-ActionAGhostShowRadar-name = Mass Scanner Interface
+ent-ActionAGhostShowRadar-desc = View a Mass Scanner Interface.
+ent-ActionAGhostShowCargo-name = Cargo Ordering Interface
+ent-ActionAGhostShowCargo-desc = View a Cargo Ordering Interface.
+ent-ActionAGhostShowCrewMonitoring-name = Crew Monitoring Interface
+ent-ActionAGhostShowCrewMonitoring-desc = View a Crew Monitoring Interface.
+ent-ActionAGhostShowStationRecords-name = Station Records Interface
+ent-ActionAGhostShowStationRecords-desc = View a Station Records Interface.

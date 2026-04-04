@@ -1,4 +1,3 @@
-
-ent-RandomCableHVSpawner = HV power cable spawner
-ent-RandomCableMVSpawner = MV power cable spawner
-ent-RandomCableApcExtensionSpawner = LV power cable spawner
+ent-RandomCableHVSpawner-name = HV power cable spawner
+ent-RandomCableMVSpawner-name = MV power cable spawner
+ent-RandomCableApcExtensionSpawner-name = LV power cable spawner

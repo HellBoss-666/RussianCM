@@ -1,2 +1,1 @@
-
-ent-OrganAnimalRuminantStomach = ruminant stomach
+ent-OrganAnimalRuminantStomach-name = ruminant stomach

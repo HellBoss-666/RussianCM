@@ -1,7 +1,6 @@
-
-ent-ClickTestRotatingCornerVisible = ClickTestRotatingCornerVisible
-ent-ClickTestRotatingCornerVisibleNoRot = ClickTestRotatingCornerVisibleNoRot
-ent-ClickTestRotatingCornerInvisible = ClickTestRotatingCornerInvisible
-ent-ClickTestRotatingCornerInvisibleNoRot = ClickTestRotatingCornerInvisibleNoRot
-ent-ClickTestFixedCornerVisible = ClickTestFixedCornerVisible
-ent-ClickTestFixedCornerInvisible = ClickTestFixedCornerInvisible
+ent-ClickTestRotatingCornerVisible-name = ClickTestRotatingCornerVisible
+ent-ClickTestRotatingCornerVisibleNoRot-name = ClickTestRotatingCornerVisibleNoRot
+ent-ClickTestRotatingCornerInvisible-name = ClickTestRotatingCornerInvisible
+ent-ClickTestRotatingCornerInvisibleNoRot-name = ClickTestRotatingCornerInvisibleNoRot
+ent-ClickTestFixedCornerVisible-name = ClickTestFixedCornerVisible
+ent-ClickTestFixedCornerInvisible-name = ClickTestFixedCornerInvisible

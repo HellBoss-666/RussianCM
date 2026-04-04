@@ -1,3 +1,2 @@
-
-ent-RandomVending = random vending machine spawner
-ent-RandomVendingClothing = random vending machine spawner
+ent-RandomVending-name = random vending machine spawner
+ent-RandomVendingClothing-name = random vending machine spawner

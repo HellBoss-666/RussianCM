@@ -1,3 +1,2 @@
-
-ent-CratePirateChestCaptain = captains pirate chest
-ent-CratePirateChest = crews pirate chest
+ent-CratePirateChestCaptain-name = captains pirate chest
+ent-CratePirateChest-name = crews pirate chest

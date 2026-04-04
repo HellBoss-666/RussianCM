@@ -1,2 +1,1 @@
-
-ent-RandomSpawner = Trash Spawner
+ent-RandomSpawner-name = Trash Spawner

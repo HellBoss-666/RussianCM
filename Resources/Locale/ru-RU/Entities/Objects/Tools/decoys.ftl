@@ -1,11 +1,10 @@
-
-ent-BalloonOperative = operative balloon
-  .desc = Upon closer inspection, this Syndicate operative is actually a balloon.
-ent-BalloonAgent = corpsman balloon
-  .desc = Upon closer inspection, this Syndicate corpsman is actually a balloon.
-ent-BalloonElite = elite operative balloon
-  .desc = Upon closer inspection, this Syndicate elite operative is actually a balloon.
-ent-BalloonJuggernaut = juggernaut balloon
-  .desc = Upon closer inspection, this Syndicate juggernaut is actually a balloon.
-ent-BalloonCommander = commander balloon
-  .desc = Upon closer inspection, this Syndicate commander is actually a balloon.
+ent-BalloonOperative-name = operative balloon
+ent-BalloonOperative-desc = Upon closer inspection, this Syndicate operative is actually a balloon.
+ent-BalloonAgent-name = corpsman balloon
+ent-BalloonAgent-desc = Upon closer inspection, this Syndicate corpsman is actually a balloon.
+ent-BalloonElite-name = elite operative balloon
+ent-BalloonElite-desc = Upon closer inspection, this Syndicate elite operative is actually a balloon.
+ent-BalloonJuggernaut-name = juggernaut balloon
+ent-BalloonJuggernaut-desc = Upon closer inspection, this Syndicate juggernaut is actually a balloon.
+ent-BalloonCommander-name = commander balloon
+ent-BalloonCommander-desc = Upon closer inspection, this Syndicate commander is actually a balloon.

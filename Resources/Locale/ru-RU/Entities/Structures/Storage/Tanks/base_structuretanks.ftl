@@ -1,3 +1,2 @@
-
-ent-StorageTank = storage tank
-  .desc = A liquids storage tank.
+ent-StorageTank-name = storage tank
+ent-StorageTank-desc = A liquids storage tank.

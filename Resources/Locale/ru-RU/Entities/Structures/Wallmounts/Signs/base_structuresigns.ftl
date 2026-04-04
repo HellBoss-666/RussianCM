@@ -1,2 +1,1 @@
-
-ent-BaseSign = base sign
+ent-BaseSign-name = base sign

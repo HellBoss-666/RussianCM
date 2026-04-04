@@ -1,2 +1,1 @@
-
-ent-RandomPainting = random painting spawner
+ent-RandomPainting-name = random painting spawner

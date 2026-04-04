@@ -1,3 +1,2 @@
-
-ent-LootSpawnerIndustrialFluff = industrial fluff spawner
-ent-LootSpawnerIndustrial = industrial loot spawner
+ent-LootSpawnerIndustrialFluff-name = industrial fluff spawner
+ent-LootSpawnerIndustrial-name = industrial loot spawner

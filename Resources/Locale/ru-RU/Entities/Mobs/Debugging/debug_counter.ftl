@@ -1,7 +1,6 @@
-
-ent-MobDebugCounter = debug counter
-  .desc = He can count
-ent-MobDebugRandomCounter = debug random counter
-  .desc = He can randomize
-ent-MobDebugRandomLess = debug random less
-  .desc = He can lessing
+ent-MobDebugCounter-name = debug counter
+ent-MobDebugCounter-desc = He can count
+ent-MobDebugRandomCounter-name = debug random counter
+ent-MobDebugRandomCounter-desc = He can randomize
+ent-MobDebugRandomLess-name = debug random less
+ent-MobDebugRandomLess-desc = He can lessing

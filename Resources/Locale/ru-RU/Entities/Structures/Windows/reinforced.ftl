@@ -1,4 +1,3 @@
-
-ent-ReinforcedWindow = reinforced window
-ent-WindowReinforcedDirectional = directional reinforced window
-  .desc = Don't smudge up the glass down there.
+ent-ReinforcedWindow-name = reinforced window
+ent-WindowReinforcedDirectional-name = directional reinforced window
+ent-WindowReinforcedDirectional-desc = Don't smudge up the glass down there.

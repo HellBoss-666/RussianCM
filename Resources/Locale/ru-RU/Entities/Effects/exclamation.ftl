@@ -1,3 +1,2 @@
-
-ent-Exclamation = exclamation
-ent-WhistleExclamation = exclamation
+ent-Exclamation-name = exclamation
+ent-WhistleExclamation-name = exclamation

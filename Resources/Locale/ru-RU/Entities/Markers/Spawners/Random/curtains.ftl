@@ -1,2 +1,1 @@
-
-ent-CurtainSpawner = random curtain spawner
+ent-CurtainSpawner-name = random curtain spawner

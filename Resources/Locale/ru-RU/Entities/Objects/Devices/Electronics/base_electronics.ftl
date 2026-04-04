@@ -1,2 +1,1 @@
-
-ent-BaseElectronics = base electronics
+ent-BaseElectronics-name = base electronics

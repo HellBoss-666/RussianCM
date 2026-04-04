@@ -1,11 +1,10 @@
-
-ent-BaseSpellbook = spellbook
-ent-WizardsGrimoire = wizards grimoire
-ent-WizardsGrimoireNoRefund = wizards grimoire
-ent-SpawnSpellbook = spawn spellbook
-ent-ForceWallSpellbook = force wall spellbook
-ent-BlinkBook = blink spellbook
-ent-SmiteBook = smite spellbook
-ent-KnockSpellbook = knock spellbook
-ent-FireballSpellbook = fireball spellbook
-ent-ScrollRunes = scroll of runes
+ent-BaseSpellbook-name = spellbook
+ent-WizardsGrimoire-name = wizards grimoire
+ent-WizardsGrimoireNoRefund-name = wizards grimoire
+ent-SpawnSpellbook-name = spawn spellbook
+ent-ForceWallSpellbook-name = force wall spellbook
+ent-BlinkBook-name = blink spellbook
+ent-SmiteBook-name = smite spellbook
+ent-KnockSpellbook-name = knock spellbook
+ent-FireballSpellbook-name = fireball spellbook
+ent-ScrollRunes-name = scroll of runes

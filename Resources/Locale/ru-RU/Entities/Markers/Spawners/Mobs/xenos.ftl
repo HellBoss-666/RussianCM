@@ -1,9 +1,8 @@
-
-ent-SpawnMobXenoBurrower = Xeno Spawner
-ent-SpawnMobXenoDrone = Xeno Spawner
-ent-SpawnMobXenoPraetorian = Xeno Spawner
-ent-SpawnMobXenoQueen = Xeno Spawner
-ent-SpawnMobXenoRavager = Xeno Spawner
-ent-SpawnMobXenoRunner = Xeno Spawner
-ent-SpawnMobXenoSpitter = Xeno Spawner
-ent-SpawnMobXenoLonePraetorian = Xeno Spawner
+ent-SpawnMobXenoBurrower-name = Xeno Spawner
+ent-SpawnMobXenoDrone-name = Xeno Spawner
+ent-SpawnMobXenoPraetorian-name = Xeno Spawner
+ent-SpawnMobXenoQueen-name = Xeno Spawner
+ent-SpawnMobXenoRavager-name = Xeno Spawner
+ent-SpawnMobXenoRunner-name = Xeno Spawner
+ent-SpawnMobXenoSpitter-name = Xeno Spawner
+ent-SpawnMobXenoLonePraetorian-name = Xeno Spawner

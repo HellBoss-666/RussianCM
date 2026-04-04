@@ -1,3 +1,2 @@
-
-ent-ProximitySensor = proximity sensor
-  .desc = Senses things in close proximity.
+ent-ProximitySensor-name = proximity sensor
+ent-ProximitySensor-desc = Senses things in close proximity.

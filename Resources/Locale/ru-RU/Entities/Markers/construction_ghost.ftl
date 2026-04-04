@@ -1,2 +1,1 @@
-
-ent-constructionghost = construction ghost
+ent-constructionghost-name = construction ghost

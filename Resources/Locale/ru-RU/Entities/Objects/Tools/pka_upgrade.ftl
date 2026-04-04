@@ -1,6 +1,5 @@
-
-ent-BasePKAUpgrade = PKA modkit
-  .desc = A modkit for a proto-kinetic accelerator.
-ent-PKAUpgradeDamage = PKA modkit (damage)
-ent-PKAUpgradeRange = PKA modkit (range)
-ent-PKAUpgradeFireRate = PKA modkit (fire rate)
+ent-BasePKAUpgrade-name = PKA modkit
+ent-BasePKAUpgrade-desc = A modkit for a proto-kinetic accelerator.
+ent-PKAUpgradeDamage-name = PKA modkit (damage)
+ent-PKAUpgradeRange-name = PKA modkit (range)
+ent-PKAUpgradeFireRate-name = PKA modkit (fire rate)

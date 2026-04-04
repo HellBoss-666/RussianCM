@@ -1,3 +1,2 @@
-
-ent-Mannequin = mannequin
-  .desc = It can wear any clothing with style.
+ent-Mannequin-name = mannequin
+ent-Mannequin-desc = It can wear any clothing with style.

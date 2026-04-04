@@ -1,2 +1,1 @@
-
-ent-MobDwarf = Urist McHands The Dwarf
+ent-MobDwarf-name = Urist McHands The Dwarf

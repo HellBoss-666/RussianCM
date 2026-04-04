@@ -1,2 +1,1 @@
-
-ent-RandomFloraTree = random tree spawner
+ent-RandomFloraTree-name = random tree spawner

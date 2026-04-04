@@ -1,3 +1,2 @@
-
-ent-SpaceCash = spesos
-  .desc = You gotta have money.
+ent-SpaceCash-name = spesos
+ent-SpaceCash-desc = You gotta have money.
