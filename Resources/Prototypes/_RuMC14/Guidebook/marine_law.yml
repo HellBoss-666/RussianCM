@@ -29,7 +29,7 @@
   id: RuMCMarineLawRanks
   name: rumc-guide-entry-marine-law-ranks
   priority: 0
-  text: "ServerInfo/Guidebook/_RuMC14/Law/RuMCMarineLawRanks.xml"
+  text: "/ServerInfo/Guidebook/_RuMC14/Law/RuMCMarineLawRanks.xml"
 
 - type: guideEntry
   parent: RuMC
