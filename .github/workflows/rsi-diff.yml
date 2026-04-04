@@ -15,9 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout PR
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
 
       - name: Get changed files
@@ -36,15 +37,14 @@ jobs:
           modified: ${{ steps.files.outputs.modified }}
           removed: ${{ steps.files.outputs.removed }}
           added: ${{ steps.files.outputs.added }}
-          basename: ${{ github.event.pull_request.base.repo.full_name }}
+          basename: ${{ github.repository }}
           basesha: ${{ github.event.pull_request.base.sha }}
-          headname: ${{ github.event.pull_request.head.repo.full_name }}
+          headname: ${{ github.repository }}
           headsha: ${{ github.event.pull_request.head.sha }}
 
       - name: Post RSI diff comment
         uses: peter-evans/create-or-update-comment@v4
         with:
-          token: ${{ secrets.PAT }}
           issue-number: ${{ github.event.number }}
           body: |
             ## RSI Diff Bot
