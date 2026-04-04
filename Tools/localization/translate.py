@@ -3,7 +3,7 @@ import re
 import requests
 import time
 
-LOCALE_DIR = "../../Resources/Locale/ru-RU/_RuMC/_RMC14"
+LOCALE_DIR = "../../Resources/Locale/ru-RU/_RMC14/"
 
 # Словарь "ключ → желаемый перевод"
 DICTIONARY = {
