@@ -14,7 +14,6 @@
   - RuMCChemicals
   - RuMCIntel
   - RuMCMedical
-  - RuMCMedical
 
 
 - type: guideEntry
@@ -25,7 +24,7 @@
   children:
   - RuMCGuideRoleRifleman
   - RuMCGuideRoleDrone
-  - RuMCGuideSurvivour
+  - RuMCSurvivor
 
 - type: guideEntry
   parent: RuMC

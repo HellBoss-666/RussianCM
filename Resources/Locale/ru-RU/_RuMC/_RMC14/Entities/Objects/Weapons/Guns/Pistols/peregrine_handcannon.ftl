@@ -20,5 +20,3 @@ ent-RMCWeaponPistolHandcannon = ручная пушка "перегринг"
 
 ent-RMCD50WinterWyvernBeltFilled = пояс с пистолетом "Зимняя Виверна"
   .desc = Этот содержит редкий пистолет "Зимняя Виверна".
-ent-RMCD50WinterWyvernBeltFilled = пояс с пистолетом "Матеба"
-  .desc = Этот содержит редкий пистолет "Матеба".
