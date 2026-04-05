@@ -1,2 +1,0 @@
-ent-RMCGearSurvivorPresetHybrisaFireProtectionSpecialist = hybrisa fire protection specialist preset
-ent-RMCSpawnPointSurvivorHybrisaFireProtectionSpecialist = hybrisa fire protection specialist spawn point

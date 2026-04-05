@@ -1,1 +1,0 @@
-ent-CMBaseElectronics = base electronics

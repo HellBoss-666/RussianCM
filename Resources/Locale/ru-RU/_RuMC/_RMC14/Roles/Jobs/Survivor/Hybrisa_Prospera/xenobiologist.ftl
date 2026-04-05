@@ -1,2 +1,0 @@
-ent-RMCGearSurvivorPresetHybrisaXenobiologist = xenobiologist preset
-ent-RMCSpawnPointSurvivorHybrisaXenobiologist = xenobiologist spawn point

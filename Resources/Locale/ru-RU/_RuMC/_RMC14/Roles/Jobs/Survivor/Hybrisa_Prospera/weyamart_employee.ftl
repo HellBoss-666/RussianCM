@@ -1,2 +1,0 @@
-ent-RMCGearSurvivorPresetHybrisaWeyamartEmployee = hybrisa weyamart employee preset
-ent-RMCSpawnPointSurvivorHybrisaWeyamartEmployee = hybrisa weyamart employee spawn point

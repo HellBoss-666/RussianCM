@@ -1,2 +1,0 @@
-ent-RMCGearSurvivorPresetLV624CorporateDomeGoonEngineer = lv624 colonist preset
-ent-RMCSpawnPointSurvivorLV624CorporateDomeGoonEngineer = special survivor lv624 goon engineer spawn point
