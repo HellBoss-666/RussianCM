@@ -1,339 +1,339 @@
-ent-RMCContainerAegisLeft-name = AEGIS Cargo Container
-ent-RMCContainerAegisLeft-desc = A huge industrial shipping container.
+ent-RMCContainerAegisLeft-name = Грузовой контейнер AEGIS
+ent-RMCContainerAegisLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerUNMCLeft-name = United Nations Marine Corps Cargo Container
-ent-RMCContainerUNMCLeft-desc = A huge industrial shipping container.
+ent-RMCContainerUNMCLeft-name = Грузовой контейнер Корпуса Морпех Организации Объединенных Наций
+ent-RMCContainerUNMCLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerMSPLeft-name = Ministry of Space Protection Cargo Container
-ent-RMCContainerMSPLeft-desc = A huge industrial shipping container.
+ent-RMCContainerMSPLeft-name = Грузовой контейнер Министерства космической охраны
+ent-RMCContainerMSPLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerSPPLeft-name = SPP Cargo Container
-ent-RMCContainerSPPLeft-desc = A huge industrial shipping container.
+ent-RMCContainerSPPLeft-name = Грузовой контейнер СПП
+ent-RMCContainerSPPLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerAICMiddle-name = AIC Cargo Container
-ent-RMCContainerAICMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerAICMiddle-name = Грузовой контейнер АИК
+ent-RMCContainerAICMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerNovarisLeft-name = Novaris Cargo Container
-ent-RMCContainerNovarisLeft-desc = A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.
+ent-RMCContainerNovarisLeft-name = Грузовой контейнер Новарис
+ent-RMCContainerNovarisLeft-desc = Огромный промышленный транспортный контейнер. Этот от Novaris, они производят практически всё.
 
-ent-RMCContainerFerretLeft-name = Ferret Heavy Industries Cargo Container
-ent-RMCContainerFerretLeft-desc = A huge industrial shipping container.
+ent-RMCContainerFerretLeft-name = Грузовой контейнер Ferret Heavy Industries
+ent-RMCContainerFerretLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTrijentLeft-name = Trijent Corporation Cargo Container
-ent-RMCContainerTrijentLeft-desc = A huge industrial shipping container.
+ent-RMCContainerTrijentLeft-name = Грузовой контейнер корпорации Trijent
+ent-RMCContainerTrijentLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaLeft-name = Weston-Yamada Cargo Container
-ent-RMCContainerWeYaLeft-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaLeft-name = Грузовой контейнер Уэстон-Ямада
+ent-RMCContainerWeYaLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerPathosLeft-name = Pathos Cargo Container
-ent-RMCContainerPathosLeft-desc = A huge industrial shipping container.
+ent-RMCContainerPathosLeft-name = Грузовой контейнер Пафос
+ent-RMCContainerPathosLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerApocraphyLeft-name = Apocraphy Cargo Container
-ent-RMCContainerApocraphyLeft-desc = A huge industrial shipping container.
+ent-RMCContainerApocraphyLeft-name = Грузовой контейнер «Апократия»
+ent-RMCContainerApocraphyLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerFujinLeft-name = Fujin Cargo Container
-ent-RMCContainerFujinLeft-desc = A huge industrial shipping container.
+ent-RMCContainerFujinLeft-name = Грузовой контейнер Фуджин
+ent-RMCContainerFujinLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerBase-name = cargo container
-ent-RMCContainerBase-desc = A huge industrial shipping container.
+ent-RMCContainerBase-name = грузовой контейнер
+ent-RMCContainerBase-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerBlueLeft-name = cargo container
-ent-RMCContainerBlueLeft-desc = A huge industrial shipping container.
+ent-RMCContainerBlueLeft-name = грузовой контейнер
+ent-RMCContainerBlueLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerBlueMiddle-name = cargo container
-ent-RMCContainerBlueMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerBlueMiddle-name = грузовой контейнер
+ent-RMCContainerBlueMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerBlueRight-name = cargo container
-ent-RMCContainerBlueRight-desc = A huge industrial shipping container.
+ent-RMCContainerBlueRight-name = грузовой контейнер
+ent-RMCContainerBlueRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerGreenLeft-name = cargo container
-ent-RMCContainerGreenLeft-desc = A huge industrial shipping container.
+ent-RMCContainerGreenLeft-name = грузовой контейнер
+ent-RMCContainerGreenLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerGreenMiddle-name = cargo container
-ent-RMCContainerGreenMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerGreenMiddle-name = грузовой контейнер
+ent-RMCContainerGreenMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerGreenRight-name = cargo container
-ent-RMCContainerGreenRight-desc = A huge industrial shipping container.
+ent-RMCContainerGreenRight-name = грузовой контейнер
+ent-RMCContainerGreenRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerRedLeft-name = cargo container
-ent-RMCContainerRedLeft-desc = A huge industrial shipping container.
+ent-RMCContainerRedLeft-name = грузовой контейнер
+ent-RMCContainerRedLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerRedMiddle-name = cargo container
-ent-RMCContainerRedMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerRedMiddle-name = грузовой контейнер
+ent-RMCContainerRedMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerRedRight-name = cargo container
-ent-RMCContainerRedRight-desc = A huge industrial shipping container.
+ent-RMCContainerRedRight-name = грузовой контейнер
+ent-RMCContainerRedRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerFujinMiddle-name = Fujin Cargo Container
-ent-RMCContainerFujinMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerFujinMiddle-name = Грузовой контейнер Фуджин
+ent-RMCContainerFujinMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerApocraphyMiddle-name = Apocraphy Cargo Container
-ent-RMCContainerApocraphyMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerApocraphyMiddle-name = Грузовой контейнер «Апократия»
+ent-RMCContainerApocraphyMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerPathosMiddle-name = Pathos Cargo Container
-ent-RMCContainerPathosMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerPathosMiddle-name = Грузовой контейнер Пафос
+ent-RMCContainerPathosMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaMiddle-name = Weston-Yamada Cargo Container
-ent-RMCContainerWeYaMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaMiddle-name = Грузовой контейнер Уэстон-Ямада
+ent-RMCContainerWeYaMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaRight-name = Weston-Yamada Cargo Container
-ent-RMCContainerWeYaRight-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaRight-name = Грузовой контейнер Уэстон-Ямада
+ent-RMCContainerWeYaRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaAltLeft-name = Weston-Yamada Cargo Container
-ent-RMCContainerWeYaAltLeft-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaAltLeft-name = Грузовой контейнер Уэстон-Ямада
+ent-RMCContainerWeYaAltLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaAltMiddle-name = Weston-Yamada Cargo Container
-ent-RMCContainerWeYaAltMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaAltMiddle-name = Грузовой контейнер Уэстон-Ямада
+ent-RMCContainerWeYaAltMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaAltRight-name = Weston-Yamada Cargo Container
-ent-RMCContainerWeYaAltRight-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaAltRight-name = Грузовой контейнер Уэстон-Ямада
+ent-RMCContainerWeYaAltRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTrijentMiddle-name = Trijent Corporation Cargo Container
-ent-RMCContainerTrijentMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerTrijentMiddle-name = Грузовой контейнер корпорации Trijent
+ent-RMCContainerTrijentMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTrijentRight-name = Trijent Corporation Cargo Container
-ent-RMCContainerTrijentRight-desc = A huge industrial shipping container.
+ent-RMCContainerTrijentRight-name = Грузовой контейнер корпорации Trijent
+ent-RMCContainerTrijentRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTrijentAltLeft-name = Trijent Corporation Cargo Container
-ent-RMCContainerTrijentAltLeft-desc = A huge industrial shipping container.
+ent-RMCContainerTrijentAltLeft-name = Грузовой контейнер корпорации Trijent
+ent-RMCContainerTrijentAltLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTrijentAltMiddle-name = Trijent Corporation Cargo Container
-ent-RMCContainerTrijentAltMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerTrijentAltMiddle-name = Грузовой контейнер корпорации Trijent
+ent-RMCContainerTrijentAltMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTrijentAltRight-name = Trijent Corporation Cargo Container
-ent-RMCContainerTrijentAltRight-desc = A huge industrial shipping container.
+ent-RMCContainerTrijentAltRight-name = Грузовой контейнер корпорации Trijent
+ent-RMCContainerTrijentAltRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerFerretMiddle-name = Ferret Heavy Industries Cargo Container
-ent-RMCContainerFerretMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerFerretMiddle-name = Грузовой контейнер Ferret Heavy Industries
+ent-RMCContainerFerretMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerFerretRight-name = Ferret Heavy Industries Cargo Container
-ent-RMCContainerFerretRight-desc = A huge industrial shipping container.
+ent-RMCContainerFerretRight-name = Грузовой контейнер Ferret Heavy Industries
+ent-RMCContainerFerretRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerNovarisMiddle-name = Novaris Cargo Container
-ent-RMCContainerNovarisMiddle-desc = A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.
+ent-RMCContainerNovarisMiddle-name = Грузовой контейнер Новарис
+ent-RMCContainerNovarisMiddle-desc = Огромный промышленный транспортный контейнер. Этот от Novaris, они производят практически всё.
 
-ent-RMCContainerNovarisRight-name = Novaris Cargo Container
-ent-RMCContainerNovarisRight-desc = A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.
+ent-RMCContainerNovarisRight-name = Грузовой контейнер Новарис
+ent-RMCContainerNovarisRight-desc = Огромный промышленный транспортный контейнер. Этот от Novaris, они производят практически всё.
 
-ent-RMCContainerSPPMiddle-name = SPP Cargo Container
-ent-RMCContainerSPPMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerSPPMiddle-name = Грузовой контейнер СПП
+ent-RMCContainerSPPMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerSPPRight-name = SPP Cargo Container
-ent-RMCContainerSPPRight-desc = A huge industrial shipping container.
+ent-RMCContainerSPPRight-name = Грузовой контейнер СПП
+ent-RMCContainerSPPRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerSPPAltLeft-name = SPP Cargo Container
-ent-RMCContainerSPPAltLeft-desc = A huge industrial shipping container.
+ent-RMCContainerSPPAltLeft-name = Грузовой контейнер СПП
+ent-RMCContainerSPPAltLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerSPPAltMiddle-name = SPP Cargo Container
-ent-RMCContainerSPPAltMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerSPPAltMiddle-name = Грузовой контейнер СПП
+ent-RMCContainerSPPAltMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerSPPAltRight-name = SPP Cargo Container
-ent-RMCContainerSPPAltRight-desc = A huge industrial shipping container.
+ent-RMCContainerSPPAltRight-name = Грузовой контейнер СПП
+ent-RMCContainerSPPAltRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerMSPMiddle-name = Ministry of Space Protection Cargo Container
-ent-RMCContainerMSPMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerMSPMiddle-name = Грузовой контейнер Министерства космической охраны
+ent-RMCContainerMSPMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerMSPRight-name = Ministry of Space Protection Cargo Container
-ent-RMCContainerMSPRight-desc = A huge industrial shipping container.
+ent-RMCContainerMSPRight-name = Грузовой контейнер Министерства космической охраны
+ent-RMCContainerMSPRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerUNMCMiddle-name = United Nations Marine Corps Cargo Container
-ent-RMCContainerUNMCMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerUNMCMiddle-name = Грузовой контейнер Корпуса Морпех Организации Объединенных Наций
+ent-RMCContainerUNMCMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerUNMCRight-name = United Nations Marine Corps Cargo Container
-ent-RMCContainerUNMCRight-desc = A huge industrial shipping container.
+ent-RMCContainerUNMCRight-name = Грузовой контейнер Корпуса Морпех Организации Объединенных Наций
+ent-RMCContainerUNMCRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerAegisMiddle-name = AEGIS Cargo Container
-ent-RMCContainerAegisMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerAegisMiddle-name = Грузовой контейнер AEGIS
+ent-RMCContainerAegisMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerAegisRight-name = AEGIS Cargo Container
-ent-RMCContainerAegisRight-desc = A huge industrial shipping container.
+ent-RMCContainerAegisRight-name = Грузовой контейнер AEGIS
+ent-RMCContainerAegisRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTartarusLeft-name = cargo container
-ent-RMCContainerTartarusLeft-desc = A huge industrial shipping container.
+ent-RMCContainerTartarusLeft-name = грузовой контейнер
+ent-RMCContainerTartarusLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerTartarusRight-name = cargo container
-ent-RMCContainerTartarusRight-desc = A huge industrial shipping container.
+ent-RMCContainerTartarusRight-name = грузовой контейнер
+ent-RMCContainerTartarusRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortBlueLeft-name = cargo container
-ent-RMCContainerShortBlueLeft-desc = A huge industrial shipping container.
+ent-RMCContainerShortBlueLeft-name = грузовой контейнер
+ent-RMCContainerShortBlueLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortBlueRight-name = cargo container
-ent-RMCContainerShortBlueRight-desc = A huge industrial shipping container.
+ent-RMCContainerShortBlueRight-name = грузовой контейнер
+ent-RMCContainerShortBlueRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortGreenLeft-name = cargo container
-ent-RMCContainerShortGreenLeft-desc = A huge industrial shipping container.
+ent-RMCContainerShortGreenLeft-name = грузовой контейнер
+ent-RMCContainerShortGreenLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortGreenRight-name = cargo container
-ent-RMCContainerShortGreenRight-desc = A huge industrial shipping container.
+ent-RMCContainerShortGreenRight-name = грузовой контейнер
+ent-RMCContainerShortGreenRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortRedLeft-name = cargo container
-ent-RMCContainerShortRedLeft-desc = A huge industrial shipping container.
+ent-RMCContainerShortRedLeft-name = грузовой контейнер
+ent-RMCContainerShortRedLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortRedRight-name = cargo container
-ent-RMCContainerShortRedRight-desc = A huge industrial shipping container.
+ent-RMCContainerShortRedRight-name = грузовой контейнер
+ent-RMCContainerShortRedRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortTanLeft-name = cargo container
-ent-RMCContainerShortTanLeft-desc = A huge industrial shipping container.
+ent-RMCContainerShortTanLeft-name = грузовой контейнер
+ent-RMCContainerShortTanLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortTanRight-name = cargo container
-ent-RMCContainerShortTanRight-desc = A huge industrial shipping container.
+ent-RMCContainerShortTanRight-name = грузовой контейнер
+ent-RMCContainerShortTanRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPPLeft-name = cargo container
-ent-RMCContainerShortSPPLeft-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPPLeft-name = грузовой контейнер
+ent-RMCContainerShortSPPLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPPRight-name = cargo container
-ent-RMCContainerShortSPPRight-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPPRight-name = грузовой контейнер
+ent-RMCContainerShortSPPRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP2Left-name = cargo container
-ent-RMCContainerShortSPP2Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP2Left-name = грузовой контейнер
+ent-RMCContainerShortSPP2Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP2Right-name = cargo container
-ent-RMCContainerShortSPP2Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP2Right-name = грузовой контейнер
+ent-RMCContainerShortSPP2Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP3Left-name = cargo container
-ent-RMCContainerShortSPP3Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP3Left-name = грузовой контейнер
+ent-RMCContainerShortSPP3Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP3Right-name = cargo container
-ent-RMCContainerShortSPP3Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP3Right-name = грузовой контейнер
+ent-RMCContainerShortSPP3Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP4Left-name = cargo container
-ent-RMCContainerShortSPP4Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP4Left-name = грузовой контейнер
+ent-RMCContainerShortSPP4Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP4Right-name = cargo container
-ent-RMCContainerShortSPP4Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP4Right-name = грузовой контейнер
+ent-RMCContainerShortSPP4Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP5Left-name = cargo container
-ent-RMCContainerShortSPP5Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP5Left-name = грузовой контейнер
+ent-RMCContainerShortSPP5Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP5Right-name = cargo container
-ent-RMCContainerShortSPP5Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP5Right-name = грузовой контейнер
+ent-RMCContainerShortSPP5Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP6Left-name = cargo container
-ent-RMCContainerShortSPP6Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP6Left-name = грузовой контейнер
+ent-RMCContainerShortSPP6Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP6Right-name = cargo container
-ent-RMCContainerShortSPP6Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP6Right-name = грузовой контейнер
+ent-RMCContainerShortSPP6Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP7Left-name = cargo container
-ent-RMCContainerShortSPP7Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP7Left-name = грузовой контейнер
+ent-RMCContainerShortSPP7Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP7Right-name = cargo container
-ent-RMCContainerShortSPP7Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP7Right-name = грузовой контейнер
+ent-RMCContainerShortSPP7Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP8Left-name = cargo container
-ent-RMCContainerShortSPP8Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP8Left-name = грузовой контейнер
+ent-RMCContainerShortSPP8Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP8Right-name = cargo container
-ent-RMCContainerShortSPP8Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP8Right-name = грузовой контейнер
+ent-RMCContainerShortSPP8Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP9Left-name = cargo container
-ent-RMCContainerShortSPP9Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP9Left-name = грузовой контейнер
+ent-RMCContainerShortSPP9Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP9Right-name = cargo container
-ent-RMCContainerShortSPP9Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP9Right-name = грузовой контейнер
+ent-RMCContainerShortSPP9Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP10Left-name = cargo container
-ent-RMCContainerShortSPP10Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP10Left-name = грузовой контейнер
+ent-RMCContainerShortSPP10Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP10Right-name = cargo container
-ent-RMCContainerShortSPP10Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP10Right-name = грузовой контейнер
+ent-RMCContainerShortSPP10Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP11Left-name = cargo container
-ent-RMCContainerShortSPP11Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP11Left-name = грузовой контейнер
+ent-RMCContainerShortSPP11Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP11Right-name = cargo container
-ent-RMCContainerShortSPP11Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP11Right-name = грузовой контейнер
+ent-RMCContainerShortSPP11Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP12Left-name = cargo container
-ent-RMCContainerShortSPP12Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP12Left-name = грузовой контейнер
+ent-RMCContainerShortSPP12Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP12Right-name = cargo container
-ent-RMCContainerShortSPP12Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP12Right-name = грузовой контейнер
+ent-RMCContainerShortSPP12Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP13Left-name = cargo container
-ent-RMCContainerShortSPP13Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP13Left-name = грузовой контейнер
+ent-RMCContainerShortSPP13Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP13Right-name = cargo container
-ent-RMCContainerShortSPP13Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP13Right-name = грузовой контейнер
+ent-RMCContainerShortSPP13Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP14Left-name = cargo container
-ent-RMCContainerShortSPP14Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP14Left-name = грузовой контейнер
+ent-RMCContainerShortSPP14Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP14Right-name = cargo container
-ent-RMCContainerShortSPP14Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP14Right-name = грузовой контейнер
+ent-RMCContainerShortSPP14Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP15Left-name = cargo container
-ent-RMCContainerShortSPP15Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP15Left-name = грузовой контейнер
+ent-RMCContainerShortSPP15Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP15Right-name = cargo container
-ent-RMCContainerShortSPP15Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP15Right-name = грузовой контейнер
+ent-RMCContainerShortSPP15Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP16Left-name = cargo container
-ent-RMCContainerShortSPP16Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP16Left-name = грузовой контейнер
+ent-RMCContainerShortSPP16Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP16Right-name = cargo container
-ent-RMCContainerShortSPP16Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP16Right-name = грузовой контейнер
+ent-RMCContainerShortSPP16Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP17Left-name = cargo container
-ent-RMCContainerShortSPP17Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP17Left-name = грузовой контейнер
+ent-RMCContainerShortSPP17Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP17Right-name = cargo container
-ent-RMCContainerShortSPP17Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP17Right-name = грузовой контейнер
+ent-RMCContainerShortSPP17Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP18Left-name = cargo container
-ent-RMCContainerShortSPP18Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP18Left-name = грузовой контейнер
+ent-RMCContainerShortSPP18Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP18Right-name = cargo container
-ent-RMCContainerShortSPP18Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP18Right-name = грузовой контейнер
+ent-RMCContainerShortSPP18Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP19Left-name = cargo container
-ent-RMCContainerShortSPP19Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP19Left-name = грузовой контейнер
+ent-RMCContainerShortSPP19Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP19Right-name = cargo container
-ent-RMCContainerShortSPP19Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP19Right-name = грузовой контейнер
+ent-RMCContainerShortSPP19Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP20Left-name = cargo container
-ent-RMCContainerShortSPP20Left-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP20Left-name = грузовой контейнер
+ent-RMCContainerShortSPP20Left-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerShortSPP20Right-name = cargo container
-ent-RMCContainerShortSPP20Right-desc = A huge industrial shipping container.
+ent-RMCContainerShortSPP20Right-name = грузовой контейнер
+ent-RMCContainerShortSPP20Right-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaBlackLeft-name = cargo container
-ent-RMCContainerWeYaBlackLeft-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaBlackLeft-name = грузовой контейнер
+ent-RMCContainerWeYaBlackLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaBlackRight-name = cargo container
-ent-RMCContainerWeYaBlackRight-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaBlackRight-name = грузовой контейнер
+ent-RMCContainerWeYaBlackRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaGreyLeft-name = cargo container
-ent-RMCContainerWeYaGreyLeft-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaGreyLeft-name = грузовой контейнер
+ent-RMCContainerWeYaGreyLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaGreyRight-name = cargo container
-ent-RMCContainerWeYaGreyRight-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaGreyRight-name = грузовой контейнер
+ent-RMCContainerWeYaGreyRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaLightGreyLeft-name = cargo container
-ent-RMCContainerWeYaLightGreyLeft-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaLightGreyLeft-name = грузовой контейнер
+ent-RMCContainerWeYaLightGreyLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaLightGreyRight-name = cargo container
-ent-RMCContainerWeYaLightGreyRight-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaLightGreyRight-name = грузовой контейнер
+ent-RMCContainerWeYaLightGreyRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaWhiteLeft-name = cargo container
-ent-RMCContainerWeYaWhiteLeft-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaWhiteLeft-name = грузовой контейнер
+ent-RMCContainerWeYaWhiteLeft-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerWeYaWhiteRight-name = cargo container
-ent-RMCContainerWeYaWhiteRight-desc = A huge industrial shipping container.
+ent-RMCContainerWeYaWhiteRight-name = грузовой контейнер
+ent-RMCContainerWeYaWhiteRight-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerAMSLeft-name = cargo container
-ent-RMCContainerAMSLeft-desc = A huge industrial shipping container. This one belongs to the Asian Multinational Shipping Line, a bulk-freight Weston-Yamada subsidiary.
+ent-RMCContainerAMSLeft-name = грузовой контейнер
+ent-RMCContainerAMSLeft-desc = Огромный промышленный транспортный контейнер. 
 
-ent-RMCContainerAMSRight-name = cargo container
-ent-RMCContainerAMSRight-desc = A huge industrial shipping container. This one belongs to the Asian Multinational Shipping Line, a bulk-freight Weston-Yamada subsidiary.
+ent-RMCContainerAMSRight-name = грузовой контейнер
+ent-RMCContainerAMSRight-desc = Огромный промышленный транспортный контейнер. 
 
-ent-RMCContainerVerticalBottom-name = cargo container
-ent-RMCContainerVerticalBottom-desc = A huge industrial shipping container.
+ent-RMCContainerVerticalBottom-name = грузовой контейнер
+ent-RMCContainerVerticalBottom-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerVerticalMiddle-name = cargo container
-ent-RMCContainerVerticalMiddle-desc = A huge industrial shipping container.
+ent-RMCContainerVerticalMiddle-name = грузовой контейнер
+ent-RMCContainerVerticalMiddle-desc = Огромный промышленный транспортный контейнер.
 
-ent-RMCContainerVerticalTop-name = cargo container
-ent-RMCContainerVerticalTop-desc = A huge industrial shipping container.
+ent-RMCContainerVerticalTop-name = грузовой контейнер
+ent-RMCContainerVerticalTop-desc = Огромный промышленный транспортный контейнер.
 

@@ -1,51 +1,51 @@
-ent-CMSheetPlasteel1-name = plasteel
-ent-CMSheetPlasteel1-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel1-name = пласталь
+ent-CMSheetPlasteel1-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetPlasteel50-name = plasteel
-ent-CMSheetPlasteel50-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel50-name = пласталь
+ent-CMSheetPlasteel50-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetPlasteel40-name = plasteel
-ent-CMSheetPlasteel40-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel40-name = пласталь
+ent-CMSheetPlasteel40-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetPlasteel30-name = plasteel
-ent-CMSheetPlasteel30-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel30-name = пласталь
+ent-CMSheetPlasteel30-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetPlasteel15-name = plasteel
-ent-CMSheetPlasteel15-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel15-name = пласталь
+ent-CMSheetPlasteel15-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetPlasteel10-name = plasteel
-ent-CMSheetPlasteel10-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel10-name = пласталь
+ent-CMSheetPlasteel10-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetPlasteel-name = plasteel sheet
-ent-CMSheetPlasteel-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel-name = лист пластали
+ent-CMSheetPlasteel-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 
-ent-CMSheetMetal-name = metal sheets
-ent-CMSheetMetal-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal-name = металлические листы
+ent-CMSheetMetal-desc = Листы из металла. 
 
-ent-CMSheetMetalBase-name = item
-ent-CMSheetMetalBase-desc = A sheet of metal, used often on the station in various applications.
+ent-CMSheetMetalBase-name = элемент
+ent-CMSheetMetalBase-desc = Лист металла, часто используемый на станции в различных целях.
 
-ent-CMSheetMetal10-name = metal sheets
-ent-CMSheetMetal10-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal10-name = металлические листы
+ent-CMSheetMetal10-desc = Листы из металла. 
 
-ent-CMSheetMetal20-name = metal sheets
-ent-CMSheetMetal20-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal20-name = металлические листы
+ent-CMSheetMetal20-desc = Листы из металла. 
 
-ent-CMSheetMetal30-name = metal sheets
-ent-CMSheetMetal30-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal30-name = металлические листы
+ent-CMSheetMetal30-desc = Листы из металла. 
 
-ent-CMSheetMetal40-name = metal sheets
-ent-CMSheetMetal40-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal40-name = металлические листы
+ent-CMSheetMetal40-desc = Листы из металла. 
 
-ent-CMSheetMetal50-name = metal sheets
-ent-CMSheetMetal50-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal50-name = металлические листы
+ent-CMSheetMetal50-desc = Листы из металла. 
 
-ent-CMSheetMetal1-name = metal sheets
-ent-CMSheetMetal1-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal1-name = металлические листы
+ent-CMSheetMetal1-desc = Листы из металла. 
 
-ent-CMSheetMetal2-name = metal sheets
-ent-CMSheetMetal2-desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+ent-CMSheetMetal2-name = металлические листы
+ent-CMSheetMetal2-desc = Листы из металла. 
 
-ent-CMSheetPlasteel20-name = plasteel sheet
-ent-CMSheetPlasteel20-desc = Plasteel is an expensive, durable material made from combining platinum, steel, and advanced polymers to create a metal that is corrosion-resistant, highly durable, and lightweight. The only reason this isn't used more often is because of how damn costly it is.
+ent-CMSheetPlasteel20-name = лист пластали
+ent-CMSheetPlasteel20-desc = Пласталь — дорогой и прочный материал, изготовленный из сочетания платины, стали и современных полимеров для создания металла, устойчивого к коррозии, очень прочного и легкого. 
 

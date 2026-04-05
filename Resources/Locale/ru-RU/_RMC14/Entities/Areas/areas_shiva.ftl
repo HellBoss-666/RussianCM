@@ -1,116 +1,116 @@
-ent-RMCAreaShivaInteriorAuxPower-name = Shiva's Snowball - Auxiliary Generator Station
+ent-RMCAreaShivaInteriorAuxPower-name = Снежок Шивы — Вспомогательная генераторная станция
 
-ent-RMCAreaShivaInteriorLz2Habs-name = Shiva's Snowball - Argentinian Research Headquarters
+ent-RMCAreaShivaInteriorLz2Habs-name = Снежок Шивы - Аргентинский исследовательский штаб
 
-ent-RMCAreaShivaInteriorGarage-name = Shiva's Snowball - Cargo Tug Repair Station
+ent-RMCAreaShivaInteriorGarage-name = Снежок Шивы - Станция ремонта грузовых буксиров
 
-ent-RMCAreaShivaInteriorValleyHutsDisposals-name = Shiva's Snowball - Valley Disposals
+ent-RMCAreaShivaInteriorValleyHutsDisposals-name = Снежок Шивы - Избавление от долины
 
-ent-RMCAreaShivaInteriorValleyHutsNo2-name = Shiva's Snowball - Valley Bunker 2
+ent-RMCAreaShivaInteriorValleyHutsNo2-name = Снежок Шивы - Бункер Долины 2
 
-ent-RMCAreaShivaInteriorValleyHuts-name = Shiva's Snowball - Valley Bunker 1
+ent-RMCAreaShivaInteriorValleyHuts-name = Снежок Шивы — Бункер в Долине 1
 
-ent-RMCAreaShivaInteriorWarehouseCaves-name = Shiva's Snowball - Blue Warehouse Ice Cave
+ent-RMCAreaShivaInteriorWarehouseCaves-name = Снежок Шивы — Ледяная пещера Синего склада
 
-ent-RMCAreaShivaInteriorWarehouse-name = Shiva's Snowball - Blue Warehouse
+ent-RMCAreaShivaInteriorWarehouse-name = Снежок Шивы — Синий склад
 
-ent-RMCAreaShivaInteriorFortBiceps-name = Shiva's Snowball - Fort Biceps Interior
+ent-RMCAreaShivaInteriorFortBiceps-name = Снежок Шивы — интерьер Форта Бицепс
 
-ent-RMCAreaShivaInteriorBar-name = Shiva's Snowball - Anti-Freeze Bar
+ent-RMCAreaShivaInteriorBar-name = Снежок Шивы - незамерзающий батончик
 
-ent-RMCAreaShivaInteriorAerodrome-name = Shiva's Snowball - Aerodrome
+ent-RMCAreaShivaInteriorAerodrome-name = Снежок Шивы - Аэродром
 
-ent-RMCAreaShivaInteriorColonyDeck-name = Shiva's Snowball - Colony MegaStruct(TM) Open Deck
+ent-RMCAreaShivaInteriorColonyDeck-name = Снежок Шивы — открытая колода Colony MegaStruct™
 
-ent-RMCAreaShivaInteriorColonyMedseceng-name = Shiva's Snowball - Colony MegaStruct(TM) Med-Sec-Eng Segment
+ent-RMCAreaShivaInteriorColonyMedseceng-name = Снежок Шивы - Мед-сек-англоязычный сегмент колонии MegaStruct(TM)
 
-ent-RMCAreaShivaInteriorColonyResearchHab-name = Shiva's Snowball - Research Hab Interior
+ent-RMCAreaShivaInteriorColonyResearchHab-name = Снежок Шивы — Интерьер исследовательского центра
 
-ent-RMCAreaShivaInteriorColonyCentral-name = Shiva's Snowball - MegaStruct(TM) Residential Life
+ent-RMCAreaShivaInteriorColonyCentral-name = Снежок Шивы - Жилая жизнь MegaStruct(TM)
 
-ent-RMCAreaShivaInteriorColonyNAdmin-name = Shiva's Snowball - MegaStruct(TM) Administration
+ent-RMCAreaShivaInteriorColonyNAdmin-name = Снежок Шивы - Администрация MegaStruct(TM)
 
-ent-RMCAreaShivaInteriorColonySAdmin-name = Shiva's Snowball - MegaStruct(TM) Crisis Center
+ent-RMCAreaShivaInteriorColonySAdmin-name = Снежок Шивы - Кризисный центр MegaStruct™
 
-ent-RMCAreaShivaInteriorColonyBotany-name = Shiva's Snowball - MegaStruct(TM) Botanical Dorms
+ent-RMCAreaShivaInteriorColonyBotany-name = Снежок Шивы - Ботанические общежития MegaStruct(TM)
 
-ent-RMCAreaShivaInteriorColony-name = Shiva's Snowball - Colony MegaStruct(TM)
+ent-RMCAreaShivaInteriorColony-name = Снежок Шивы - Колония MegaStruct(TM)
 
-ent-RMCAreaShivaInteriorCavesMedsecengCaves-name = Shiva's Snowball - South Med-Sec-Eng Complex Caves
+ent-RMCAreaShivaInteriorCavesMedsecengCaves-name = Снежок Шивы - Пещеры Южного Медико-Инженерного Комплекса
 
-ent-RMCAreaShivaInteriorCavesResearchCaves-name = Shiva's Snowball - South Research Hab Caves
+ent-RMCAreaShivaInteriorCavesResearchCaves-name = Снежок Шивы — Пещеры Южного исследовательского центра
 
-ent-RMCAreaShivaInteriorCavesCpCamp-name = Shiva's Snowball - Cave Camp
+ent-RMCAreaShivaInteriorCavesCpCamp-name = Снежок Шивы — Пещерный лагерь
 
-ent-RMCAreaShivaInteriorCavesSLz2-name = Shiva's Snowball - South LZ2 Caves
+ent-RMCAreaShivaInteriorCavesSLz2-name = Снежок Шивы — южные пещеры LZ2.
 
-ent-RMCAreaShivaInteriorCavesLeftSpiders-name = Shiva's Snowball - Crevice Passage
+ent-RMCAreaShivaInteriorCavesLeftSpiders-name = Снежок Шивы — Проход в расщелину
 
-ent-RMCAreaShivaInteriorCavesRightSpiders-name = Shiva's Snowball - Forgotten Passage
+ent-RMCAreaShivaInteriorCavesRightSpiders-name = Снежок Шивы - Забытый проход
 
-ent-RMCAreaShivaInteriorCaves-name = Shiva's Snowball - Caves
+ent-RMCAreaShivaInteriorCaves-name = Снежок Шивы - Пещеры
 
-ent-RMCAreaShivaExteriorResearchAlley-name = Shiva's Snowball - South Research Alley
+ent-RMCAreaShivaExteriorResearchAlley-name = Снежок Шивы — Южная исследовательская аллея
 
-ent-RMCAreaShivaExteriorCpLz2-name = Shiva's Snowball - North Colony Grounds
+ent-RMCAreaShivaExteriorCpLz2-name = Снежок Шивы — Территория Северной колонии
 
-ent-RMCAreaShivaExteriorCpSResearch-name = Shiva's Snowball - Research Hab Exterior
+ent-RMCAreaShivaExteriorCpSResearch-name = Снежок Шивы — внешний вид исследовательского центра
 
-ent-RMCAreaShivaExteriorJunkyardCpBar-name = Shiva's Snowball - Bar Grounds
+ent-RMCAreaShivaExteriorJunkyardCpBar-name = Снежок Шивы - Территория бара
 
-ent-RMCAreaShivaExteriorJunkyardFortbiceps-name = Shiva's Snowball - Fort Biceps
+ent-RMCAreaShivaExteriorJunkyardFortbiceps-name = Снежок Шивы – Форт Бицепс
 
-ent-RMCAreaShivaExteriorJunkyard-name = Shiva's Snowball - Junkyard
+ent-RMCAreaShivaExteriorJunkyard-name = Снежок Шивы - Свалка
 
-ent-RMCAreaShivaExteriorCpColonyGrounds-name = Shiva's Snowball - Colony Grounds
+ent-RMCAreaShivaExteriorCpColonyGrounds-name = Снежок Шивы — Территория колонии
 
-ent-RMCAreaShivaExteriorSouthwestValley-name = Shiva's Snowball - Southwest Valley
+ent-RMCAreaShivaExteriorSouthwestValley-name = Снежок Шивы — Юго-Западная долина
 
-ent-RMCAreaShivaExteriorValley-name = Shiva's Snowball - Storage Bunker Valley
+ent-RMCAreaShivaExteriorValley-name = Снежок Шивы — Долина бункеров-хранилищ
 
-ent-RMCAreaShivaExteriorLz2Fortress-name = Shiva's Snowball - Landing Bulwark
+ent-RMCAreaShivaExteriorLz2Fortress-name = Снежок Шивы — приземляющийся оплот
 
-ent-RMCAreaShivaExteriorLz1Valley-name = Shiva's Snowball - Landing Valley
+ent-RMCAreaShivaExteriorLz1Valley-name = Снежок Шивы - Долина приземления
 
-ent-RMCAreaShivaCavesTelecommLz2South-name = Shiva's Snowball - Backup Communications Relay
+ent-RMCAreaShivaCavesTelecommLz2South-name = Снежок Шивы — резервное реле связи
 
-ent-RMCAreaShivaCavesTelecomm-name = Shiva's Snowball - Communications Relay
+ent-RMCAreaShivaCavesTelecomm-name = Снежок Шивы - Реле связи
 
-ent-RMCAreaShivaInteriorTelecommLz2Research-name = Shiva's Snowball - Argentinian Communications Relay
+ent-RMCAreaShivaInteriorTelecommLz2Research-name = Снежок Шивы - аргентинская ретранслятор связи
 
-ent-RMCAreaShivaInteriorTelecommLz1Flight-name = Shiva's Snowball - LZ1 Aerodrome Communications Relay
+ent-RMCAreaShivaInteriorTelecommLz1Flight-name = Снежок Шивы - Реле аэродромной связи LZ1
 
-ent-RMCAreaShivaInteriorTelecommLz1Biceps-name = Shiva's Snowball - Fort Biceps Communications Relay
+ent-RMCAreaShivaInteriorTelecommLz1Biceps-name = Снежок Шивы — реле связи форта бицепс
 
-ent-RMCAreaShivaInteriorTelecomm-name = Shiva's Snowball - Communications Relay
+ent-RMCAreaShivaInteriorTelecomm-name = Снежок Шивы - Реле связи
 
-ent-RMCAreaShivaExteriorTelecommLz2Northeast-name = Shiva's Snowball - North-East LZ2 Communications Relay
+ent-RMCAreaShivaExteriorTelecommLz2Northeast-name = Снежок Шивы — северо-восточное реле связи LZ2
 
-ent-RMCAreaShivaExteriorTelecommLz2Southeast-name = Shiva's Snowball - South-East LZ2 Communications Relay
+ent-RMCAreaShivaExteriorTelecommLz2Southeast-name = Снежок Шивы — юго-восточное реле связи LZ2
 
-ent-RMCAreaShivaExteriorTelecommLz1North-name = Shiva's Snowball - North LZ1 Communications Relay
+ent-RMCAreaShivaExteriorTelecommLz1North-name = Снежок Шивы — реле связи North LZ1
 
-ent-RMCAreaShivaExteriorTelecomm-name = Shiva's Snowball - Communications Relay
+ent-RMCAreaShivaExteriorTelecomm-name = Снежок Шивы - Реле связи
 
-ent-RMCAreaShivaInteriorOobDevRoom-name = Shiva's Snowball - Secret Room
+ent-RMCAreaShivaInteriorOobDevRoom-name = Снежок Шивы — Секретная комната
 
-ent-RMCAreaShivaInteriorOob-name = Shiva's Snowball - Out Of Bounds
+ent-RMCAreaShivaInteriorOob-name = Снежок Шивы - За пределами границ
 
-ent-RMCAreaShivaInterior-name = Shiva's Snowball - Interior
+ent-RMCAreaShivaInterior-name = Снежок Шивы - Интерьер
 
-ent-RMCAreaShivaExterior-name = Shiva's Snowball - Exterior
+ent-RMCAreaShivaExterior-name = Снежок Шивы — Внешний вид
 
-ent-RMCAreaShivaExteriorLz1ConsoleTwo-name = Shiva's Snowball - Dropship Normandy Console
+ent-RMCAreaShivaExteriorLz1ConsoleTwo-name = Снежок Шивы — Консоль Dropship Normandy
 
-ent-RMCAreaShivaExteriorLz1Console-name = Shiva's Snowball - Dropship Alamo Console
+ent-RMCAreaShivaExteriorLz1Console-name = Снежок Шивы — консоль Alamo Dropship
 
-ent-RMCAreaShuttleDrop2Shiva-name = Shiva's Snowball - Dropship Normandy Landing Zone
+ent-RMCAreaShuttleDrop2Shiva-name = Снежок Шивы - Зона высадки десантного корабля в Нормандии
 
-ent-RMCAreaShuttleDrop1Shiva-name = Shiva's Snowball - Dropship Alamo Landing Zone
+ent-RMCAreaShuttleDrop1Shiva-name = Снежок Шивы — зона приземления десантного корабля Аламо
 
-ent-RMCAreaShiva-name = Shiva's Snowball
+ent-RMCAreaShiva-name = Снежок Шивы
 
-ent-RMCAreaShivaCaves-name = Shiva's Snowball
+ent-RMCAreaShivaCaves-name = Снежок Шивы
 
-ent-RMCAreaShivaInteriorColonyCargoShuttle-name = Shiva's Snowball - Disabled Cargo Shuttle
+ent-RMCAreaShivaInteriorColonyCargoShuttle-name = Снежок Шивы — грузовой шаттл для инвалидов
 

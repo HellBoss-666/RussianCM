@@ -1,12 +1,12 @@
-ent-RMCCartridge46x30mm-name = cartridge (10x20mm)
+ent-RMCCartridge46x30mm-name = картридж (10х20мм)
 
-ent-RMCMagazineSMGMP27Extend-name = item
+ent-RMCMagazineSMGMP27Extend-name = элемент
 
-ent-RMCMagazineSMGMP27-name = item
+ent-RMCMagazineSMGMP27-name = элемент
 
-ent-RMCWeaponSMGMP27-name = MP27 submachinegun
-ent-RMCWeaponSMGMP27-desc = An archaic design going back almost a century, the MP27 was common in its day. Today it sees limited use as cheap computer-printed replicas or family heirlooms. An extremely ergonomic and lightweight design allows easy mass production and surpisingly good handling, but the cheap materials used hurt the weapon's scatter noticeably.
+ent-RMCWeaponSMGMP27-name = Пистолет-пулемет МП27
+ent-RMCWeaponSMGMP27-desc = Архаичный дизайн, возникший почти сто лет назад, MP27 был обычным явлением в свое время. 
 
-ent-RMCBullet46x30mm-name = BaseBullet
-ent-RMCBullet46x30mm-desc = If you can see this you're probably dead!
+ent-RMCBullet46x30mm-name = БазаBullet
+ent-RMCBullet46x30mm-desc = Если ты это видишь, ты, вероятно, мертв!
 

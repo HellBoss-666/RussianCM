@@ -1,96 +1,96 @@
-ent-RMCHeadsetGoldenArrow-name = sun riders radio headset
-ent-RMCHeadsetGoldenArrow-desc = This is used by the UNMC Sun Riders Platoon.
+ent-RMCHeadsetGoldenArrow-name = радиогарнитура Sun Riders
+ent-RMCHeadsetGoldenArrow-desc = Он используется взводом UNMC Sun Riders.
 
-ent-CMHeadsetFoxtrotMedic-name = marine foxtrot corpsman radio headset
-ent-CMHeadsetFoxtrotMedic-desc = This is used by the marine Foxtrot combat medics.
+ent-CMHeadsetFoxtrotMedic-name = Морпех фокстрот радиогарнитура санитара
+ent-CMHeadsetFoxtrotMedic-desc = Его используют боевые медики Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrotEngineer-name = marine foxtrot engineer radio headset
-ent-CMHeadsetFoxtrotEngineer-desc = This is used by the marine Foxtrot combat engineers.
+ent-CMHeadsetFoxtrotEngineer-name = Морпех Фокстрот инженерная радиогарнитура
+ent-CMHeadsetFoxtrotEngineer-desc = Его используют сапёры Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrotTeamLeader-name = marine foxtrot team leader radio headset
-ent-CMHeadsetFoxtrotTeamLeader-desc = This is used by the marine Foxtrot team leader.
+ent-CMHeadsetFoxtrotTeamLeader-name = Радиогарнитура лидера команды "Морпех фокстрот"
+ent-CMHeadsetFoxtrotTeamLeader-desc = Этим пользуется руководитель команды Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrotLeader-name = marine foxtrot leader radio headset
-ent-CMHeadsetFoxtrotLeader-desc = This is used by the marine Foxtrot squad leader.
+ent-CMHeadsetFoxtrotLeader-name = Радиогарнитура лидера фокстрота Морпех
+ent-CMHeadsetFoxtrotLeader-desc = Этим пользуется лидер отряда Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrot-name = marine foxtrot radio headset
-ent-CMHeadsetFoxtrot-desc = This is used by Foxtrot squad members.
+ent-CMHeadsetFoxtrot-name = Радиогарнитура Морпех Фокстрот
+ent-CMHeadsetFoxtrot-desc = Его используют члены отряда «Фокстрот».
 
-ent-CMHeadsetEchoMedic-name = marine echo corpsman radio headset
-ent-CMHeadsetEchoMedic-desc = This is used by the marine Echo combat medics.
+ent-CMHeadsetEchoMedic-name = Морпех Эхо-санитарная радиогарнитура
+ent-CMHeadsetEchoMedic-desc = Его используют боевые медики Морпех Эхо.
 
-ent-CMHeadsetEchoEngineer-name = marine echo engineer radio headset
-ent-CMHeadsetEchoEngineer-desc = This is used by the marine Echo combat engineers.
+ent-CMHeadsetEchoEngineer-name = Морпех радиогарнитура эхоинженера
+ent-CMHeadsetEchoEngineer-desc = Его используют боевые инженеры Морпех Эхо.
 
-ent-CMHeadsetEchoTeamLeader-name = marine echo team leader radio headset
-ent-CMHeadsetEchoTeamLeader-desc = This is used by the marine Echo team leader.
+ent-CMHeadsetEchoTeamLeader-name = Радиогарнитура лидера группы "Морпех Эхо"
+ent-CMHeadsetEchoTeamLeader-desc = Этим пользуется лидер команды Морпех Эхо.
 
-ent-CMHeadsetEchoLeader-name = marine echo leader radio headset
-ent-CMHeadsetEchoLeader-desc = This is used by the marine Echo squad leader.
+ent-CMHeadsetEchoLeader-name = Радиогарнитура Морпех Эхо Лидер
+ent-CMHeadsetEchoLeader-desc = Его использует командир отряда Морпех Эхо.
 
-ent-CMHeadsetEcho-name = marine echo radio headset
-ent-CMHeadsetEcho-desc = This is used by Echo squad members.
+ent-CMHeadsetEcho-name = Морпех Эхо радиогарнитура
+ent-CMHeadsetEcho-desc = Это используется членами отряда «Эхо».
 
-ent-CMHeadsetDeltaMedic-name = marine delta corpsman radio headset
-ent-CMHeadsetDeltaMedic-desc = This is used by the marine Delta combat medics.
+ent-CMHeadsetDeltaMedic-name = Радиогарнитура Морпех Дельта санитара
+ent-CMHeadsetDeltaMedic-desc = Его используют боевые медики Морпех Дельта.
 
-ent-CMHeadsetDeltaEngineer-name = marine delta engineer radio headset
-ent-CMHeadsetDeltaEngineer-desc = This is used by the marine Delta combat engineers.
+ent-CMHeadsetDeltaEngineer-name = Морпех дельта инженерная радиогарнитура
+ent-CMHeadsetDeltaEngineer-desc = Его используют сапёры Морпех Дельта.
 
-ent-CMHeadsetDeltaTeamLeader-name = marine delta team leader radio headset
-ent-CMHeadsetDeltaTeamLeader-desc = This is used by the marine Delta team leader.
+ent-CMHeadsetDeltaTeamLeader-name = Радиогарнитура руководителя группы Морпех Дельта
+ent-CMHeadsetDeltaTeamLeader-desc = Этим пользуется руководитель группы Морпех Дельта.
 
-ent-CMHeadsetDeltaLeader-name = marine delta leader radio headset
-ent-CMHeadsetDeltaLeader-desc = This is used by the marine Delta squad leader.
+ent-CMHeadsetDeltaLeader-name = Радиогарнитура Морпех Дельта Лидер
+ent-CMHeadsetDeltaLeader-desc = Его использует командир отряда Морпех Дельта.
 
-ent-CMHeadsetDelta-name = marine delta radio headset
-ent-CMHeadsetDelta-desc = This is used by Delta squad members.
+ent-CMHeadsetDelta-name = Радиогарнитура Морпех дельта
+ent-CMHeadsetDelta-desc = Это используется членами отряда Дельта.
 
-ent-CMHeadsetCharlieMedic-name = marine charlie corpsman radio headset
-ent-CMHeadsetCharlieMedic-desc = This is used by the marine Charlie combat medics.
+ent-CMHeadsetCharlieMedic-name = Морпех Чарли санитар радиогарнитура
+ent-CMHeadsetCharlieMedic-desc = Его используют боевые медики Морпех Чарли.
 
-ent-CMHeadsetCharlieEngineer-name = marine charlie engineer radio headset
-ent-CMHeadsetCharlieEngineer-desc = This is used by the marine Charlie combat engineers.
+ent-CMHeadsetCharlieEngineer-name = Морпех Чарли Инженер радиогарнитура
+ent-CMHeadsetCharlieEngineer-desc = Его используют боевые инженеры Морпех Чарли.
 
-ent-CMHeadsetCharlieTeamLeader-name = marine charlie team leader radio headset
-ent-CMHeadsetCharlieTeamLeader-desc = This is used by the marine Charlie team leader.
+ent-CMHeadsetCharlieTeamLeader-name = Морпех Чарли Team Leader радиогарнитура
+ent-CMHeadsetCharlieTeamLeader-desc = Этим пользуется лидер команды Морпех Чарли.
 
-ent-CMHeadsetCharlieLeader-name = marine charlie leader radio headset
-ent-CMHeadsetCharlieLeader-desc = This is used by the marine Charlie squad leader.
+ent-CMHeadsetCharlieLeader-name = Морпех Чарли Лидер радиогарнитура
+ent-CMHeadsetCharlieLeader-desc = Этим пользуется лидер отряда Морпех Чарли.
 
-ent-CMHeadsetCharlie-name = marine charlie radio headset
-ent-CMHeadsetCharlie-desc = This is used by Charlie squad members.
+ent-CMHeadsetCharlie-name = Радиогарнитура Морпех Чарли
+ent-CMHeadsetCharlie-desc = Это используется членами отряда Чарли.
 
-ent-CMHeadsetBravoMedic-name = marine bravo corpsman radio headset
-ent-CMHeadsetBravoMedic-desc = This is used by the marine Bravo combat medics.
+ent-CMHeadsetBravoMedic-name = Радиогарнитура Морпех браво санитара
+ent-CMHeadsetBravoMedic-desc = Его используют боевые медики Морпех Браво.
 
-ent-CMHeadsetBravoEngineer-name = marine bravo engineer radio headset
-ent-CMHeadsetBravoEngineer-desc = This is used by the marine Bravo combat engineers.
+ent-CMHeadsetBravoEngineer-name = Морпех браво инженер радиогарнитура
+ent-CMHeadsetBravoEngineer-desc = Его используют сапёры Морпех Браво.
 
-ent-CMHeadsetBravoTeamLeader-name = marine bravo team leader radio headset
-ent-CMHeadsetBravoTeamLeader-desc = This is used by the marine Bravo team leader.
+ent-CMHeadsetBravoTeamLeader-name = Радиогарнитура руководителя группы Морпех браво
+ent-CMHeadsetBravoTeamLeader-desc = Этим пользуется лидер команды Морпех Браво.
 
-ent-CMHeadsetBravoLeader-name = marine bravo leader radio headset
-ent-CMHeadsetBravoLeader-desc = This is used by the marine Bravo squad leader.
+ent-CMHeadsetBravoLeader-name = Радиогарнитура Морпех браво лидер
+ent-CMHeadsetBravoLeader-desc = Этим пользуется лидер отряда Морпех Браво.
 
-ent-CMHeadsetBravo-name = marine bravo radio headset
-ent-CMHeadsetBravo-desc = This is used by Bravo squad members.
+ent-CMHeadsetBravo-name = Радиогарнитура Морпех браво
+ent-CMHeadsetBravo-desc = Это используется членами отряда Браво.
 
-ent-CMHeadsetAlphaMedic-name = marine alpha corpsman radio headset
-ent-CMHeadsetAlphaMedic-desc = This is used by the marine Alpha combat medics.
+ent-CMHeadsetAlphaMedic-name = Радиогарнитура Морпех Альфа-санитар
+ent-CMHeadsetAlphaMedic-desc = Его используют боевые медики Морпех Альфа.
 
-ent-CMHeadsetAlphaEngineer-name = marine alpha engineer radio headset
-ent-CMHeadsetAlphaEngineer-desc = This is used by the marine Alpha combat engineers.
+ent-CMHeadsetAlphaEngineer-name = Морпех альфа-инженерная радиогарнитура
+ent-CMHeadsetAlphaEngineer-desc = Его используют сапёры Морпех Альфа.
 
-ent-CMHeadsetAlphaTeamLeader-name = marine alpha team leader radio headset
-ent-CMHeadsetAlphaTeamLeader-desc = This is used by the marine Alpha team leader.
+ent-CMHeadsetAlphaTeamLeader-name = Радиогарнитура лидера группы "Морпех Альфа"
+ent-CMHeadsetAlphaTeamLeader-desc = Этим пользуется руководитель группы Морпех Альфа.
 
-ent-CMHeadsetAlphaLeader-name = marine alpha leader radio headset
-ent-CMHeadsetAlphaLeader-desc = This is used by the marine Alpha squad leader.
+ent-CMHeadsetAlphaLeader-name = Радиогарнитура Морпех Альфа Лидер
+ent-CMHeadsetAlphaLeader-desc = Этим пользуется командир отряда Морпех Альфа.
 
-ent-CMHeadsetAlpha-name = marine alpha radio headset
-ent-CMHeadsetAlpha-desc = This is used by Alpha squad members.
+ent-CMHeadsetAlpha-name = Радиогарнитура Морпех Альфа
+ent-CMHeadsetAlpha-desc = Используется членами отряда «Альфа».
 
-ent-RMCHeadsetMarine-name = marine radio headset
-ent-RMCHeadsetMarine-desc = A standard military radio headset. Bulkier than combat models.
+ent-RMCHeadsetMarine-name = Радиогарнитура Морпех
+ent-RMCHeadsetMarine-desc = Стандартная военная радиогарнитура. 
 

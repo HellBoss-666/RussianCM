@@ -1,15 +1,15 @@
-ent-CMIDCardIntelOfficer-name = intel officer's ID card
-ent-CMIDCardIntelOfficer-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardIntelOfficer-name = удостоверение личности офицера разведки
+ent-CMIDCardIntelOfficer-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-CMIDCardDCC-name = dropship crew chief's ID card
-ent-CMIDCardDCC-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardDCC-name = удостоверение личности начальника экипажа десантного корабля
+ent-CMIDCardDCC-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardPilotGunship-name = gunship pilot's ID card
-ent-CMIDCardPilotGunship-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardPilotGunship-name = удостоверение пилота боевого корабля
+ent-CMIDCardPilotGunship-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardPilotDropship-name = dropship pilot's ID card
-ent-CMIDCardPilotDropship-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardPilotDropship-name = удостоверение личности пилота десантного корабля
+ent-CMIDCardPilotDropship-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardASO-name = auxiliary support officer ID card
-ent-CMIDCardASO-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardASO-name = удостоверение личности офицера вспомогательной поддержки
+ent-CMIDCardASO-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 

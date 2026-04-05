@@ -1,7 +1,7 @@
-ent-RMCRandomHumanoidSurvivorMiner-name = miner colonist ghost role
+ent-RMCRandomHumanoidSurvivorMiner-name = роль призрака шахтёра-колониста
 
-ent-RMCSurvivorPresetMiner-name = miner colonist preset
+ent-RMCSurvivorPresetMiner-name = предустановка шахтера-колониста
 
-ent-RMCSpawnPointSurvivorMiner-name = survivor miner spawn point
-ent-RMCSpawnPointSurvivorMiner-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorMiner-name = точка появления выжившего шахтера
+ent-RMCSpawnPointSurvivorMiner-desc = Создатель заданий RMC14. 
 

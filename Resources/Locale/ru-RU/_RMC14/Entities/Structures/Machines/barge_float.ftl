@@ -1,3 +1,3 @@
-ent-RMCBargeFloat-name = Barge Float
-ent-RMCBargeFloat-desc = A supportive lattice connected to two floating pontoons.
+ent-RMCBargeFloat-name = Баржа поплавок
+ent-RMCBargeFloat-desc = Несущая решетка, соединенная с двумя плавучими понтонами.
 

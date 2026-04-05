@@ -1,6 +1,6 @@
-ent-RMCVendorLifeboatWall-name = lifeboat wall cabinet
-ent-RMCVendorLifeboatWall-desc = A wall-mounted emergency cabinet containing survival supplies.
+ent-RMCVendorLifeboatWall-name = настенный шкаф для спасательной шлюпки
+ent-RMCVendorLifeboatWall-desc = Настенный аварийный шкаф со всем необходимым для выживания.
 
-ent-RMCVendorLifeboatMedical-name = lifeboat medical cabinet
-ent-RMCVendorLifeboatMedical-desc = A wall-mounted cabinet containing medical supplies vital to survival. While better equipped, it can only refill basic supplies.
+ent-RMCVendorLifeboatMedical-name = медицинский кабинет для спасательной шлюпки
+ent-RMCVendorLifeboatMedical-desc = Настенный шкаф с медикаментами, жизненно важными для выживания. 
 

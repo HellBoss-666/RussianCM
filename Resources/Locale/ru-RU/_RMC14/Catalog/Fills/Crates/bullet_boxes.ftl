@@ -1,12 +1,12 @@
-ent-RMCCrateBoxBulletsSMGAP-name = smg AP ammo box crate (10x20mm AP) (x600 rounds)
-ent-RMCCrateBoxBulletsSMGAP-desc = An ammunitions crate.
+ent-RMCCrateBoxBulletsSMGAP-name = Ящик боеприпасов ПП ББ (10х20 мм AP) (600 патронов)
+ent-RMCCrateBoxBulletsSMGAP-desc = Ящик с боеприпасами.
 
-ent-RMCCrateBoxBulletsSMG-name = smg ammo box crate (10x20mm) (x600 rounds)
-ent-RMCCrateBoxBulletsSMG-desc = An ammunitions crate.
+ent-RMCCrateBoxBulletsSMG-name = Ящик патронов ПП (10х20мм) (600 патронов)
+ent-RMCCrateBoxBulletsSMG-desc = Ящик с боеприпасами.
 
-ent-RMCCrateBoxBulletsRifleAP-name = rifle AP ammo box crate (10x24mm AP) (x600 rounds)
-ent-RMCCrateBoxBulletsRifleAP-desc = An ammunitions crate.
+ent-RMCCrateBoxBulletsRifleAP-name = Ящик винтовочных боеприпасов AP (10x24 мм AP) (600 патронов)
+ent-RMCCrateBoxBulletsRifleAP-desc = Ящик с боеприпасами.
 
-ent-RMCCrateBoxBulletsRifle-name = rifle ammo box crate (10x24mm) (x600 rounds)
-ent-RMCCrateBoxBulletsRifle-desc = An ammunitions crate.
+ent-RMCCrateBoxBulletsRifle-name = Ящик винтовочных боеприпасов (10х24 мм) (600 патронов)
+ent-RMCCrateBoxBulletsRifle-desc = Ящик с боеприпасами.
 

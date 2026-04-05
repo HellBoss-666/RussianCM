@@ -1,7 +1,7 @@
-ent-RMCRandomHumanoidSurvivorCorporate-name = corporate colonist ghost role
+ent-RMCRandomHumanoidSurvivorCorporate-name = роль призрака корпоративного колониста
 
-ent-RMCSurvivorPresetCorporate-name = corporate colonist preset
+ent-RMCSurvivorPresetCorporate-name = настройки корпоративного колониста
 
-ent-RMCSpawnPointSurvivorCorporate-name = survivor corporate spawn point
-ent-RMCSpawnPointSurvivorCorporate-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorCorporate-name = Корпоративная точка появления выживших
+ent-RMCSpawnPointSurvivorCorporate-desc = Создатель заданий RMC14. 
 

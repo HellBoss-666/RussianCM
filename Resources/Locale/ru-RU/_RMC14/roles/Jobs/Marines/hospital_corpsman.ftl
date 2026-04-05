@@ -1,18 +1,18 @@
-ent-CMSpawnPointHospitalCorpsman-name = hospital corpsman spawn point
-ent-CMSpawnPointHospitalCorpsman-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointHospitalCorpsman-name = Место появления санитара больницы
+ent-CMSpawnPointHospitalCorpsman-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointHospitalCorpsmanAlpha-name = hospital corpsman spawn point
-ent-CMSpawnPointHospitalCorpsmanAlpha-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointHospitalCorpsmanAlpha-name = Место появления санитара больницы
+ent-CMSpawnPointHospitalCorpsmanAlpha-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointHospitalCorpsmanBravo-name = hospital corpsman spawn point
-ent-CMSpawnPointHospitalCorpsmanBravo-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointHospitalCorpsmanBravo-name = Место появления санитара больницы
+ent-CMSpawnPointHospitalCorpsmanBravo-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointHospitalCorpsmanCharlie-name = hospital corpsman spawn point
-ent-CMSpawnPointHospitalCorpsmanCharlie-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointHospitalCorpsmanCharlie-name = Место появления санитара больницы
+ent-CMSpawnPointHospitalCorpsmanCharlie-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointHospitalCorpsmanDelta-name = hospital corpsman spawn point
-ent-CMSpawnPointHospitalCorpsmanDelta-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointHospitalCorpsmanDelta-name = Место появления санитара больницы
+ent-CMSpawnPointHospitalCorpsmanDelta-desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleHM-name = Hospital Corpsman
-ent-RMCGuidebookRoleHM-desc = Hospital Corpsman
+ent-RMCGuidebookRoleHM-name = Санитар больницы
+ent-RMCGuidebookRoleHM-desc = Санитар больницы
 

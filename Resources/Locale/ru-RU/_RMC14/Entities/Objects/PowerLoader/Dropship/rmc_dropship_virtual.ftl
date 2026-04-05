@@ -1,28 +1,28 @@
-ent-RMCVirtualPowerLoaderLeft-name = power loader left hydraulic claw
+ent-RMCVirtualPowerLoaderLeft-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualPowerLoaderRight-name = power loader right hydraulic claw
+ent-RMCVirtualPowerLoaderRight-name = правый гидравлический захват силового погрузчика
 
-ent-RMCVirtualDropshipGearRight-name = power loader right hydraulic claw
+ent-RMCVirtualDropshipGearRight-name = правый гидравлический захват силового погрузчика
 
-ent-RMCVirtualDropshipGearLeft-name = power loader left hydraulic claw
+ent-RMCVirtualDropshipGearLeft-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualDropshipAmmoRight-name = power loader right hydraulic claw
+ent-RMCVirtualDropshipAmmoRight-name = правый гидравлический захват силового погрузчика
 
-ent-RMCVirtualDropshipAmmoLeft-name = power loader left hydraulic claw
+ent-RMCVirtualDropshipAmmoLeft-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualCrateRight-name = power loader right hydraulic claw
+ent-RMCVirtualCrateRight-name = правый гидравлический захват силового погрузчика
 
-ent-RMCVirtualCrateLeft-name = power loader left hydraulic claw
+ent-RMCVirtualCrateLeft-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualFuelRight-name = power loader right hydraulic claw
+ent-RMCVirtualFuelRight-name = правый гидравлический захват силового погрузчика
 
-ent-RMCVirtualFuelLeft-name = power loader left hydraulic claw
+ent-RMCVirtualFuelLeft-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualWarheadRight-name = power loader right hydraulic claw
+ent-RMCVirtualWarheadRight-name = правый гидравлический захват силового погрузчика
 
-ent-RMCVirtualWarheadLeft-name = power loader left hydraulic claw
+ent-RMCVirtualWarheadLeft-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualWarheadLeftAegis-name = power loader left hydraulic claw
+ent-RMCVirtualWarheadLeftAegis-name = силовой погрузчик левый гидравлический захват
 
-ent-RMCVirtualWarheadRightAegis-name = power loader right hydraulic claw
+ent-RMCVirtualWarheadRightAegis-name = правый гидравлический захват силового погрузчика
 

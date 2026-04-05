@@ -1,3 +1,3 @@
-ent-WeaponShotgunM890Guard-name = M890 tactical shotgun
-ent-WeaponShotgunM890Guard-desc = The Weston-Yamada M890 Shotgun, a semi-automatic shotgun with a quick fire rate. Equipped with a red handle to signify its use with Military Police Honor Guards.
+ent-WeaponShotgunM890Guard-name = Тактический дробовик М890
+ent-WeaponShotgunM890Guard-desc = Ружье Weston-Yamada M890 — полуавтоматическое ружье с высокой скорострельностью. 
 

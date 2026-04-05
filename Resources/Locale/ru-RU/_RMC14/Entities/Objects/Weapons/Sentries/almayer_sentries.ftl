@@ -1,6 +1,6 @@
-ent-RMCDeployerSentry-name = sentry deployment system
-ent-RMCDeployerSentry-desc = A box that deploys a sentry turret.
+ent-RMCDeployerSentry-name = система развертывания сторожевого поста
+ent-RMCDeployerSentry-desc = Ящик, в котором размещается сторожевая турель.
 
-ent-RMCTurretAlmayer-name = UN-635C static gauss turret
-ent-RMCTurretAlmayer-desc = A fully-automated defence turret with mid-range targeting capabilities. Armed with a modified M32-S Autocannon and an internal belt feed and modified for UN warship use.
+ent-RMCTurretAlmayer-name = Статическая гауссовая турель UN-635C
+ent-RMCTurretAlmayer-desc = Полностью автоматизированная защитная турель с возможностью наведения на среднюю дальность. 
 

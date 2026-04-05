@@ -1,33 +1,33 @@
-ent-RMCScrubsGrey-name = grey medical scrubs
-ent-RMCScrubsGrey-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in mundane grey.
+ent-RMCScrubsGrey-name = серые медицинские скрабы
+ent-RMCScrubsGrey-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-RMCScrubsOlive-name = olive medical scrubs
-ent-RMCScrubsOlive-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in olive green.
+ent-RMCScrubsOlive-name = оливковые лечебные скрабы
+ent-RMCScrubsOlive-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-RMCScrubsLightBlue-name = light blue medical scrubs
-ent-RMCScrubsLightBlue-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in light blue.
+ent-RMCScrubsLightBlue-name = светло-голубые медицинские скрабы
+ent-RMCScrubsLightBlue-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-CMScrubsOrange-name = orange medical scrubs
-ent-CMScrubsOrange-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in prisoner orange.
+ent-CMScrubsOrange-name = Медицинские скрабы апельсинового цвета
+ent-CMScrubsOrange-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-CMScrubsPurple-name = purple medical scrubs
-ent-CMScrubsPurple-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in purple.
+ent-CMScrubsPurple-name = фиолетовые медицинские скрабы
+ent-CMScrubsPurple-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-CMScrubsGreen-name = green medical scrubs
-ent-CMScrubsGreen-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in dark green.
+ent-CMScrubsGreen-name = зеленые медицинские скрабы
+ent-CMScrubsGreen-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-CMScrubsBlue-name = blue medical scrubs
-ent-CMScrubsBlue-desc = They're made of a special fiber that provides minor protection against biohazards. These are in blue.
+ent-CMScrubsBlue-name = синие медицинские скрабы
+ent-CMScrubsBlue-desc = Они изготовлены из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-CMJumpsuitRD-name = research director's uniform
-ent-CMJumpsuitRD-desc = It's made of a special fiber that provides minor protection against biohazards. It has markings that denote the wearer is a Research Director.
+ent-CMJumpsuitRD-name = униформа директора по исследованиям
+ent-CMJumpsuitRD-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 
-ent-CMJumpsuitResearch-name = reseacher clothes
-ent-CMJumpsuitResearch-desc = A simple set of civilian clothes worn by researchers.
+ent-CMJumpsuitResearch-name = одежда исследователя
+ent-CMJumpsuitResearch-desc = Простой комплект гражданской одежды, которую носят исследователи.
 
-ent-CMJumpsuitCMO-name = chief medical officer's jumpsuit
-ent-CMJumpsuitCMO-desc = It's a jumpsuit worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
+ent-CMJumpsuitCMO-name = комбинезон главного врача
+ent-CMJumpsuitCMO-desc = Это комбинезон, который носят те, у кого есть опыт работы на должности главного врача. 
 
-ent-RMCScrubsLightBlueArmband-name = light blue medical scrubs
-ent-RMCScrubsLightBlueArmband-desc = It's made of a special fiber that provides minor protection against biohazards. This one is in light blue.
+ent-RMCScrubsLightBlueArmband-name = светло-голубые медицинские скрабы
+ent-RMCScrubsLightBlueArmband-desc = Он изготовлен из специального волокна, обеспечивающего незначительную защиту от биологических опасностей. 
 

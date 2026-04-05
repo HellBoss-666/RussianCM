@@ -1,432 +1,432 @@
-ent-RMCAreaSpaceAlmayerLifeboatDock-name = Port Lifeboat Docking
+ent-RMCAreaSpaceAlmayerLifeboatDock-name = Портовая пристань для спасательных шлюпок
 
-ent-RMCAreaAlmayerCommandLifeboat-name = Lifeboat Docking Port
+ent-RMCAreaAlmayerCommandLifeboat-name = Причал для спасательной шлюпки
 
-ent-RMCAreaAlmayerLifeboatPumpsSouth2-name = Port-Aft Lifeboat Fuel Pump
+ent-RMCAreaAlmayerLifeboatPumpsSouth2-name = Топливный насос спасательной шлюпки по левому борту
 
-ent-RMCAreaAlmayerLifeboatPumpsSouth1-name = Port-Fore Lifeboat Fuel Pump
+ent-RMCAreaAlmayerLifeboatPumpsSouth1-name = Топливный насос спасательной шлюпки в носовой части
 
-ent-RMCAreaAlmayerLifeboatPumpsNorth2-name = Starboard-Aft Lifeboat Fuel Pump
+ent-RMCAreaAlmayerLifeboatPumpsNorth2-name = Топливный насос спасательной шлюпки по правому борту и корме
 
-ent-RMCAreaAlmayerLifeboatPumpsNorth1-name = Starboard-Fore Lifeboat Fuel Pump
+ent-RMCAreaAlmayerLifeboatPumpsNorth1-name = Топливный насос спасательной шлюпки по правому борту
 
-ent-RMCAreaAlmayerLifeboatPumps-name = Lifeboat Fuel Pumps
+ent-RMCAreaAlmayerLifeboatPumps-name = Топливные насосы для спасательных шлюпок
 
-ent-RMCAreaAlmayerPoweredAgent-name = Unknown Area
+ent-RMCAreaAlmayerPoweredAgent-name = Неизвестный район
 
-ent-RMCAreaAlmayerSquadsReq-name = Requisitions
+ent-RMCAreaAlmayerSquadsReq-name = Реквизиты
 
-ent-RMCAreaAlmayerSquadsCharlieDeltaShared-name = Charlie Delta Equipment Preparation
+ent-RMCAreaAlmayerSquadsCharlieDeltaShared-name = Чарли Дельта Подготовка оборудования
 
-ent-RMCAreaAlmayerSquadsAlphaBravoShared-name = Alpha Bravo Equipment Preparation
+ent-RMCAreaAlmayerSquadsAlphaBravoShared-name = Подготовка снаряжения Альфа Браво
 
-ent-RMCAreaAlmayerSquadsDelta-name = Squad Delta Preparation
+ent-RMCAreaAlmayerSquadsDelta-name = Подготовка отряда Дельта
 
-ent-RMCAreaAlmayerSquadsCharlie-name = Squad Charlie Preparation
+ent-RMCAreaAlmayerSquadsCharlie-name = Подготовка отряда Чарли
 
-ent-RMCAreaAlmayerSquadsBravo-name = Squad Bravo Preparation
+ent-RMCAreaAlmayerSquadsBravo-name = Подготовка отряда Браво
 
-ent-RMCAreaAlmayerSquadsAlpha-name = Squad Alpha Preparation
+ent-RMCAreaAlmayerSquadsAlpha-name = Подготовка отряда Альфа
 
-ent-RMCAreaAlmayerMedicalLowerMedicalMedbay-name = Medical Lower Medbay
+ent-RMCAreaAlmayerMedicalLowerMedicalMedbay-name = Медицинский Нижний Медбай
 
-ent-RMCAreaAlmayerMedicalCryoTubes-name = Medical Cryogenics Tubes
+ent-RMCAreaAlmayerMedicalCryoTubes-name = Медицинские криогенные трубки
 
-ent-RMCAreaAlmayerMedicalLockerroom-name = Medical Locker Room
+ent-RMCAreaAlmayerMedicalLockerroom-name = Медицинская раздевалка
 
-ent-RMCAreaAlmayerMedicalChemistry-name = Medical Chemical laboratory
+ent-RMCAreaAlmayerMedicalChemistry-name = Медико-химическая лаборатория
 
-ent-RMCAreaAlmayerMedicalContainmentCellCl-name = Containment
+ent-RMCAreaAlmayerMedicalContainmentCellCl-name = Сдерживание
 
-ent-RMCAreaAlmayerMedicalContainmentCell-name = Medical Research containment cells
+ent-RMCAreaAlmayerMedicalContainmentCell-name = Камеры содержания медицинских исследований
 
-ent-RMCAreaAlmayerMedicalContainment-name = Medical Research containment
+ent-RMCAreaAlmayerMedicalContainment-name = Сдерживание медицинских исследований
 
-ent-RMCAreaAlmayerMedicalHydroponics-name = Medical Research hydroponics
+ent-RMCAreaAlmayerMedicalHydroponics-name = Медицинские исследования гидропоники
 
-ent-RMCAreaAlmayerMedicalMedicalScience-name = Medical Research laboratories
+ent-RMCAreaAlmayerMedicalMedicalScience-name = Медицинские исследовательские лаборатории
 
-ent-RMCAreaAlmayerMedicalOperatingRoomFour-name = Medical Operating Room 4
+ent-RMCAreaAlmayerMedicalOperatingRoomFour-name = Медицинская операционная 4
 
-ent-RMCAreaAlmayerMedicalOperatingRoomThree-name = Medical Operating Room 3
+ent-RMCAreaAlmayerMedicalOperatingRoomThree-name = Медицинская операционная 3
 
-ent-RMCAreaAlmayerMedicalOperatingRoomTwo-name = Medical Operating Room 2
+ent-RMCAreaAlmayerMedicalOperatingRoomTwo-name = Медицинская операционная 2
 
-ent-RMCAreaAlmayerMedicalOperatingRoomOne-name = Medical Operating Room 1
+ent-RMCAreaAlmayerMedicalOperatingRoomOne-name = Медицинская операционная 1
 
-ent-RMCAreaAlmayerMedicalMorgue-name = Morgue
+ent-RMCAreaAlmayerMedicalMorgue-name = Морг
 
-ent-RMCAreaAlmayerMedicalUpperMedical-name = Medical Upper
+ent-RMCAreaAlmayerMedicalUpperMedical-name = Медицинский Верх
 
-ent-RMCAreaAlmayerMedicalLowerMedicalLobby-name = Medical Lower Lobby
+ent-RMCAreaAlmayerMedicalLowerMedicalLobby-name = Медицинский нижний вестибюль
 
-ent-RMCAreaAlmayerLivingChapel-name = Almayer Chapel
+ent-RMCAreaAlmayerLivingChapel-name = Часовня Альмайера
 
-ent-RMCAreaAlmayerLivingNumbertwobunks-name = Executive Officer's Bunk
+ent-RMCAreaAlmayerLivingNumbertwobunks-name = Койка исполнительного директора
 
-ent-RMCAreaAlmayerLivingSynthcloset-name = Upper Deck Synthetic Storage Closet
+ent-RMCAreaAlmayerLivingSynthcloset-name = Синтетический шкаф для хранения вещей на верхней палубе
 
-ent-RMCAreaAlmayerLivingCommandbunks-name = Commanding Officer's Bunk
+ent-RMCAreaAlmayerLivingCommandbunks-name = Койка командира офицера
 
-ent-RMCAreaAlmayerLivingBridgebunks-name = Staff Officer Bunks
+ent-RMCAreaAlmayerLivingBridgebunks-name = Штабной офицер Банкс
 
-ent-RMCAreaAlmayerLivingPilotbunks-name = Pilot's Bunks
+ent-RMCAreaAlmayerLivingPilotbunks-name = Койки пилота
 
-ent-RMCAreaAlmayerLivingCaptainMess-name = Captain's Mess
+ent-RMCAreaAlmayerLivingCaptainMess-name = Капитанский беспорядок
 
-ent-RMCAreaAlmayerLivingOfficesFlight-name = Flight Office
+ent-RMCAreaAlmayerLivingOfficesFlight-name = Летное бюро
 
-ent-RMCAreaAlmayerLivingOffices-name = Lower Deck Conference Office
+ent-RMCAreaAlmayerLivingOffices-name = Конференц-офис нижней палубы
 
-ent-RMCAreaAlmayerLivingCafeteriaOfficer-name = Upper Deck Officer Cafeteria
+ent-RMCAreaAlmayerLivingCafeteriaOfficer-name = Офицерская столовая верхней палубы
 
-ent-RMCAreaAlmayerLivingGym-name = Lower Deck Gym
+ent-RMCAreaAlmayerLivingGym-name = Тренажерный зал нижней палубы
 
-ent-RMCAreaAlmayerLivingCafeteriaStarboard-name = Cafeteria Starboard
+ent-RMCAreaAlmayerLivingCafeteriaStarboard-name = Кафетерий по правому борту
 
-ent-RMCAreaAlmayerLivingCafeteriaPort-name = Cafeteria Port
+ent-RMCAreaAlmayerLivingCafeteriaPort-name = Кафетерий Порт
 
-ent-RMCAreaAlmayerLivingOfficerStudy-name = Upper Deck Officer's Study
+ent-RMCAreaAlmayerLivingOfficerStudy-name = Кабинет офицера верхней палубы
 
-ent-RMCAreaAlmayerLivingOfficerRnr-name = Upper Deck Officer's Lounge
+ent-RMCAreaAlmayerLivingOfficerRnr-name = Комната отдыха офицеров верхней палубы
 
-ent-RMCAreaAlmayerLivingGruntRnr-name = Lounge
+ent-RMCAreaAlmayerLivingGruntRnr-name = Бездельничать
 
-ent-RMCAreaAlmayerLivingBasketball-name = Basketball Court
+ent-RMCAreaAlmayerLivingBasketball-name = Баскетбольная площадка
 
-ent-RMCAreaAlmayerLivingStarboardGarden-name = Starboard Garden
+ent-RMCAreaAlmayerLivingStarboardGarden-name = Сад по правому борту
 
-ent-RMCAreaAlmayerLivingPortGarden-name = Port Garden
+ent-RMCAreaAlmayerLivingPortGarden-name = Портовый сад
 
-ent-RMCAreaAlmayerLivingStarboardEmb-name = Lower Deck Starboard Extended Mission Bunks
+ent-RMCAreaAlmayerLivingStarboardEmb-name = Койки для расширенных миссий на нижней палубе по правому борту
 
-ent-RMCAreaAlmayerLivingPortEmb-name = Lower Deck Port Extended Mission Bunks
+ent-RMCAreaAlmayerLivingPortEmb-name = Койки для расширенных миссий на нижней палубе по порту
 
-ent-RMCAreaAlmayerLivingBriefing-name = Briefing Area
+ent-RMCAreaAlmayerLivingBriefing-name = Зона для брифингов
 
-ent-RMCAreaAlmayerLivingCryoCells-name = Lower Deck Cryo Cells
+ent-RMCAreaAlmayerLivingCryoCells-name = Криокамеры нижней палубы
 
-ent-RMCAreaAlmayerLivingAuxiliaryOfficerOffice-name = Lower Deck Auxiliary Support Officer office
+ent-RMCAreaAlmayerLivingAuxiliaryOfficerOffice-name = Офис вспомогательного офицера поддержки нижней палубы
 
-ent-RMCAreaAlmayerLivingTankerbunks-name = Lower Deck Vehicle Crew Bunks
+ent-RMCAreaAlmayerLivingTankerbunks-name = Койки для экипажа транспортных средств на нижней палубе
 
-ent-RMCAreaAlmayerMaintHullUpperUAP-name = Upper Deck Port-Aft Hull
+ent-RMCAreaAlmayerMaintHullUpperUAP-name = Верхняя палуба по левому борту корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperUMP-name = Upper Deck Port-Midship Hull
+ent-RMCAreaAlmayerMaintHullUpperUMP-name = Верхняя палуба левого миделя корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperUFP-name = Upper Deck Port-Fore Hull
+ent-RMCAreaAlmayerMaintHullUpperUFP-name = Верхняя палуба в носовой части корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperUAS-name = Upper Deck Starboard-Aft Hull
+ent-RMCAreaAlmayerMaintHullUpperUAS-name = Верхняя палуба по правому борту - кормовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperUMS-name = Upper Deck Starboard-Midship Hull
+ent-RMCAreaAlmayerMaintHullUpperUMS-name = Верхняя палуба правого борта-миделя корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperUFS-name = Upper Deck Starboard-Fore Hull
+ent-RMCAreaAlmayerMaintHullUpperUFS-name = Верхняя палуба по правому борту - носовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperSStern-name = Upper Deck Starboard-Stern Hull
+ent-RMCAreaAlmayerMaintHullUpperSStern-name = Верхняя палуба правого борта и кормовой части корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperPStern-name = Upper Deck Port-Stern Hull
+ent-RMCAreaAlmayerMaintHullUpperPStern-name = Верхняя палуба левого кормового корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperSBow-name = Upper Deck Starboard-Bow Hull
+ent-RMCAreaAlmayerMaintHullUpperSBow-name = Верхняя палуба, правый борт, носовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperPBow-name = Upper Deck Port-Bow Hull
+ent-RMCAreaAlmayerMaintHullUpperPBow-name = Верхняя палуба левого носового корпуса
 
-ent-RMCAreaAlmayerMaintHullUpperStairs-name = Upper Deck Stairs Hull
+ent-RMCAreaAlmayerMaintHullUpperStairs-name = Лестница на верхнюю палубу корпуса
 
-ent-RMCAreaAlmayerMaintHullUpper-name = Upper Deck Hull
+ent-RMCAreaAlmayerMaintHullUpper-name = Верхняя палуба корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerLAP-name = Lower Deck Port-Aft Hull
+ent-RMCAreaAlmayerMaintHullLowerLAP-name = Нижняя палуба по левому борту и кормовой части корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerLMP-name = Lower Deck Port-Midship Hull
+ent-RMCAreaAlmayerMaintHullLowerLMP-name = Нижняя палуба левого и мидель корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerLFP-name = Lower Deck Port-Fore Hull
+ent-RMCAreaAlmayerMaintHullLowerLFP-name = Нижняя палуба в носовой части корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerLAS-name = Lower Deck Starboard-Aft Hull
+ent-RMCAreaAlmayerMaintHullLowerLAS-name = Нижняя палуба по правому борту - кормовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerLMS-name = Lower Deck Starboard-Midship Hull
+ent-RMCAreaAlmayerMaintHullLowerLMS-name = Нижняя палуба по правому борту и миделю корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerLFS-name = Lower Deck Starboard-Fore Hull
+ent-RMCAreaAlmayerMaintHullLowerLFS-name = Нижняя палуба, правый борт, носовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerSBow-name = Lower Deck Starboard-Bow Hull
+ent-RMCAreaAlmayerMaintHullLowerSBow-name = Нижняя палуба, правый борт, носовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerPBow-name = Lower Deck Port-Bow Hull
+ent-RMCAreaAlmayerMaintHullLowerPBow-name = Нижняя палуба, носовая часть корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerStern-name = Lower Deck Stern Hull
+ent-RMCAreaAlmayerMaintHullLowerStern-name = Нижняя палуба кормового корпуса
 
-ent-RMCAreaAlmayerMaintHullLowerStairs-name = Lower Deck Stairs Hull
+ent-RMCAreaAlmayerMaintHullLowerStairs-name = Лестница нижней палубы корпуса
 
-ent-RMCAreaAlmayerMaintHullLower-name = Lower Deck Hull
+ent-RMCAreaAlmayerMaintHullLower-name = Нижняя палуба корпуса
 
-ent-RMCAreaAlmayerMaintUpperUAS-name = Upper Deck Starboard-Aft Maintenance
+ent-RMCAreaAlmayerMaintUpperUAS-name = Техническое обслуживание верхней палубы по правому борту и корме
 
-ent-RMCAreaAlmayerMaintUpperUAP-name = Upper Deck Port-Aft Maintenance
+ent-RMCAreaAlmayerMaintUpperUAP-name = Техническое обслуживание верхней палубы по левому борту
 
-ent-RMCAreaAlmayerMaintUpperUFS-name = Upper Deck Starboard-Fore Maintenance
+ent-RMCAreaAlmayerMaintUpperUFS-name = Техническое обслуживание верхней палубы по правому борту и носовой части
 
-ent-RMCAreaAlmayerMaintUpperUFP-name = Upper Deck Port-Fore Maintenance
+ent-RMCAreaAlmayerMaintUpperUFP-name = Техническое обслуживание носовой части верхней палубы
 
-ent-RMCAreaAlmayerMaintUpperUMS-name = Upper Deck Starboard-Midship Maintenance
+ent-RMCAreaAlmayerMaintUpperUMS-name = Техническое обслуживание верхней палубы по правому борту и миделю
 
-ent-RMCAreaAlmayerMaintUpperUMP-name = Upper Deck Port-Midship Maintenance
+ent-RMCAreaAlmayerMaintUpperUMP-name = Техническое обслуживание верхней палубы по левому борту и на миделе
 
-ent-RMCAreaAlmayerMaintUpperMess-name = Upper Deck Mess Maintenance
+ent-RMCAreaAlmayerMaintUpperMess-name = Обслуживание столовой верхней палубы
 
-ent-RMCAreaAlmayerMaintUpper-name = Upper Deck Maintenance
+ent-RMCAreaAlmayerMaintUpper-name = Обслуживание верхней палубы
 
-ent-RMCAreaAlmayerMaintLowerCryoCells-name = Lower Deck Cryo Cells Maintenance
+ent-RMCAreaAlmayerMaintLowerCryoCells-name = Техническое обслуживание криокамер нижней палубы
 
-ent-RMCAreaAlmayerMaintLowerSBow-name = Lower Deck Starboard-Bow Maintenance
+ent-RMCAreaAlmayerMaintLowerSBow-name = Техническое обслуживание нижней палубы по правому борту и носовой части
 
-ent-RMCAreaAlmayerMaintLowerConstr-name = Lower Deck Construction Site
+ent-RMCAreaAlmayerMaintLowerConstr-name = Строительная площадка нижней палубы
 
-ent-RMCAreaAlmayerMaintLower-name = Lower Deck Maintenance
+ent-RMCAreaAlmayerMaintLower-name = Техническое обслуживание нижней палубы
 
-ent-RMCAreaAlmayerStairCloneUpper-name = Upper Deck Stairs
+ent-RMCAreaAlmayerStairCloneUpper-name = Лестница на верхнюю палубу
 
-ent-RMCAreaAlmayerStairClone-name = Lower Deck Stairs
+ent-RMCAreaAlmayerStairClone-name = Лестница на нижнюю палубу
 
-ent-RMCAreaAlmayerHallwaysUpperStarboard-name = Upper Deck Starboard Hallway
+ent-RMCAreaAlmayerHallwaysUpperStarboard-name = Коридор по правому борту на верхней палубе
 
-ent-RMCAreaAlmayerHallwaysUpperPort-name = Upper Deck Port Hallway
+ent-RMCAreaAlmayerHallwaysUpperPort-name = Портовый коридор верхней палубы
 
-ent-RMCAreaAlmayerHallwaysUpperMidshipHallway-name = Upper Deck Midship Hallway
+ent-RMCAreaAlmayerHallwaysUpperMidshipHallway-name = Коридор средней палубы верхней палубы
 
-ent-RMCAreaAlmayerHallwaysUpperForeHallway-name = Upper Deck Fore Hallway
+ent-RMCAreaAlmayerHallwaysUpperForeHallway-name = Передний коридор верхней палубы
 
-ent-RMCAreaAlmayerHallwaysUpperAftHallway-name = Upper Deck Aft Hallway
+ent-RMCAreaAlmayerHallwaysUpperAftHallway-name = Кормовой коридор верхней палубы
 
-ent-RMCAreaAlmayerHallwaysLowerStarboardAftHallway-name = Lower Deck Starboard-Aft Hallway
+ent-RMCAreaAlmayerHallwaysLowerStarboardAftHallway-name = Нижняя палуба по правому борту – кормовой коридор
 
-ent-RMCAreaAlmayerHallwaysLowerStarboardMidshipHallway-name = Lower Deck Starboard-Midship Hallway
+ent-RMCAreaAlmayerHallwaysLowerStarboardMidshipHallway-name = Коридор нижней палубы по правому борту и на миделе корабля
 
-ent-RMCAreaAlmayerHallwaysLowerStarboardForeHallway-name = Lower Deck Starboard-Fore Hallway
+ent-RMCAreaAlmayerHallwaysLowerStarboardForeHallway-name = Нижняя палуба по правому борту - носовой коридор
 
-ent-RMCAreaAlmayerHallwaysLowerPortAftHallway-name = Lower Deck Port-Aft Hallway
+ent-RMCAreaAlmayerHallwaysLowerPortAftHallway-name = Нижняя палуба, коридор в кормовой части
 
-ent-RMCAreaAlmayerHallwaysLowerPortMidshipHallway-name = Lower Deck Port-Midship Hallway
+ent-RMCAreaAlmayerHallwaysLowerPortMidshipHallway-name = Коридор нижней палубы по левому борту и миделю корабля
 
-ent-RMCAreaAlmayerHallwaysLowerPortForeHallway-name = Lower Deck Port-Fore Hallway
+ent-RMCAreaAlmayerHallwaysLowerPortForeHallway-name = Нижняя палуба, передний коридор
 
-ent-RMCAreaAlmayerHallwaysLowerPortUmbilical-name = Lower Deck Port Umbilical Hallway
+ent-RMCAreaAlmayerHallwaysLowerPortUmbilical-name = Пупочный коридор нижней палубы
 
-ent-RMCAreaAlmayerHallwaysLowerStarboardUmbilical-name = Lower Deck Starboard Umbilical Hallway
+ent-RMCAreaAlmayerHallwaysLowerStarboardUmbilical-name = Пупочный коридор по правому борту нижней палубы
 
-ent-RMCAreaAlmayerHallwaysLowerRepairBay-name = Lower Deck Deployment Workshop
+ent-RMCAreaAlmayerHallwaysLowerRepairBay-name = Мастер-класс по развертыванию нижней палубы
 
-ent-RMCAreaAlmayerHallwaysLowerVehiclehangar-name = Lower Deck Vehicle Storage
+ent-RMCAreaAlmayerHallwaysLowerVehiclehangar-name = Хранение транспортных средств на нижней палубе
 
-ent-RMCAreaAlmayerHallwaysHangar-name = Hangar
+ent-RMCAreaAlmayerHallwaysHangar-name = Ангар
 
-ent-RMCAreaAlmayerShipboardFiringRangeSouth-name = Port Firing Range
+ent-RMCAreaAlmayerShipboardFiringRangeSouth-name = Портовая дальность стрельбы
 
-ent-RMCAreaAlmayerShipboardFiringRangeNorth-name = Starboard Firing Range
+ent-RMCAreaAlmayerShipboardFiringRangeNorth-name = Дальность стрельбы по правому борту
 
-ent-RMCAreaAlmayerShipboardSeaOffice-name = Lower Deck Senior Enlisted Advisor Office
+ent-RMCAreaAlmayerShipboardSeaOffice-name = Офис старшего рядового советника нижней палубы
 
-ent-RMCAreaAlmayerShipboardBrigWardenOffice-name = Brig Warden Office
+ent-RMCAreaAlmayerShipboardBrigWardenOffice-name = Офис бригадного смотрителя
 
-ent-RMCAreaAlmayerShipboardBrigChiefMpOffice-name = Brig Chief MP Office
+ent-RMCAreaAlmayerShipboardBrigChiefMpOffice-name = Офис главного полицейского бригады
 
-ent-RMCAreaAlmayerShipboardBrigCells-name = Brig Cells
+ent-RMCAreaAlmayerShipboardBrigCells-name = Бриговые ячейки
 
-ent-RMCAreaAlmayerShipboardBrigProcessing-name = Brig Processing and Holding
+ent-RMCAreaAlmayerShipboardBrigProcessing-name = Бриговая обработка и удержание
 
-ent-RMCAreaAlmayerShipboardBrigDress-name = CIC Dress Uniform Room
+ent-RMCAreaAlmayerShipboardBrigDress-name = Комната парадной униформы CIC
 
-ent-RMCAreaAlmayerShipboardBrigCicHallway-name = Brig CiC Hallway
+ent-RMCAreaAlmayerShipboardBrigCicHallway-name = Бриг CiC Коридор
 
-ent-RMCAreaAlmayerShipboardBrigExecutionStorage-name = Brig Execution Storage
+ent-RMCAreaAlmayerShipboardBrigExecutionStorage-name = Бриговое хранилище казни
 
-ent-RMCAreaAlmayerShipboardBrigExecution-name = Brig Execution Room
+ent-RMCAreaAlmayerShipboardBrigExecution-name = Комната казни Брига
 
-ent-RMCAreaAlmayerShipboardBrigEvidenceStorage-name = Brig Evidence Storage
+ent-RMCAreaAlmayerShipboardBrigEvidenceStorage-name = Бриг Хранилище улик
 
-ent-RMCAreaAlmayerShipboardBrigGeneralEquipment-name = Brig General Equipment
+ent-RMCAreaAlmayerShipboardBrigGeneralEquipment-name = Бриг Общее оборудование
 
-ent-RMCAreaAlmayerShipboardBrigInterrogation-name = Brig Interrogation Room
+ent-RMCAreaAlmayerShipboardBrigInterrogation-name = Бриговая комната для допросов
 
-ent-RMCAreaAlmayerShipboardBrigMedical-name = Brig Medical
+ent-RMCAreaAlmayerShipboardBrigMedical-name = Бриг Медикал
 
-ent-RMCAreaAlmayerShipboardBrigCryo-name = Brig Cryo Pods
+ent-RMCAreaAlmayerShipboardBrigCryo-name = Бриговые криокапсулы
 
-ent-RMCAreaAlmayerShipboardBrigPerma-name = Brig Perma Cells
+ent-RMCAreaAlmayerShipboardBrigPerma-name = Бриг Перма Ячейки
 
-ent-RMCAreaAlmayerShipboardBrigStarboardHallway-name = Brig Starboard Hallway
+ent-RMCAreaAlmayerShipboardBrigStarboardHallway-name = Коридор брига по правому борту
 
-ent-RMCAreaAlmayerShipboardBrigMpBunks-name = Brig MP Bunks
+ent-RMCAreaAlmayerShipboardBrigMpBunks-name = Бриг МП Банккс
 
-ent-RMCAreaAlmayerShipboardBrigArmory-name = Brig Armory
+ent-RMCAreaAlmayerShipboardBrigArmory-name = Бриг Оружейная палата
 
-ent-RMCAreaAlmayerShipboardBrigLobby-name = Brig Lobby
+ent-RMCAreaAlmayerShipboardBrigLobby-name = Бриг Лобби
 
-ent-RMCAreaAlmayerShipboardBrig-name = Brig
+ent-RMCAreaAlmayerShipboardBrig-name = Бриг
 
-ent-RMCAreaAlmayerShipboardSternPointDefense-name = Lower Deck Stern Point Defense
+ent-RMCAreaAlmayerShipboardSternPointDefense-name = Защита кормовой точки нижней палубы
 
-ent-RMCAreaAlmayerShipboardPortPointDefense-name = Lower Deck Port Point Defense
+ent-RMCAreaAlmayerShipboardPortPointDefense-name = Защита порта нижней палубы
 
-ent-RMCAreaAlmayerShipboardStarboardPointDefense-name = Lower Deck Starboard Point Defense
+ent-RMCAreaAlmayerShipboardStarboardPointDefense-name = Оборона нижней палубы по правому борту
 
-ent-RMCAreaAlmayerShipboardWeaponRoom-name = Lower Deck Weapon Control
+ent-RMCAreaAlmayerShipboardWeaponRoom-name = Управление оружием нижней палубы
 
-ent-RMCAreaAlmayerShipboardPortMissiles-name = Upper Deck Port Missile Tubes
+ent-RMCAreaAlmayerShipboardPortMissiles-name = Ракетные аппараты верхней палубы
 
-ent-RMCAreaAlmayerShipboardStarboardMissiles-name = Upper Deck Starboard Missile Tubes
+ent-RMCAreaAlmayerShipboardStarboardMissiles-name = Ракетные аппараты правого борта верхней палубы
 
-ent-RMCAreaAlmayerShipboardPanic-name = Hangar Panic Room
+ent-RMCAreaAlmayerShipboardPanic-name = Комната Паники в Ангаре
 
-ent-RMCAreaAlmayerShipboardNavigation-name = Astronavigational Deck
+ent-RMCAreaAlmayerShipboardNavigation-name = Астронавигационная палуба
 
-ent-RMCAreaAlmayerEngineeringLaundry-name = Upper Deck Laundry Room
+ent-RMCAreaAlmayerEngineeringLaundry-name = Прачечная на верхней палубе
 
-ent-RMCAreaAlmayerEngineeringPortAtmos-name = Upper Deck Port Atmospherics
+ent-RMCAreaAlmayerEngineeringPortAtmos-name = Атмосфера порта верхней палубы
 
-ent-RMCAreaAlmayerEngineeringStarboardAtmos-name = Upper Deck Starboard Atmospherics
+ent-RMCAreaAlmayerEngineeringStarboardAtmos-name = Атмосфера на верхней палубе по правому борту
 
-ent-RMCAreaAlmayerEngineeringCeRoom-name = Upper Deck Chief Engineer Office
+ent-RMCAreaAlmayerEngineeringCeRoom-name = Офис главного инженера верхней палубы
 
-ent-RMCAreaAlmayerEngineeringUpperEngineeringPort-name = Upper Deck Port Engineering
+ent-RMCAreaAlmayerEngineeringUpperEngineeringPort-name = Портовая инженерия верхней палубы
 
-ent-RMCAreaAlmayerEngineeringUpperEngineeringStarboard-name = Upper Deck Starboard Engineering
+ent-RMCAreaAlmayerEngineeringUpperEngineeringStarboard-name = Инженерное обеспечение верхней палубы по правому борту
 
-ent-RMCAreaAlmayerEngineeringUpperEngineering-name = Upper Deck Engineering
+ent-RMCAreaAlmayerEngineeringUpperEngineering-name = Инженерное дело верхней палубы
 
-ent-RMCAreaAlmayerEngineeringLowerEngineCore-name = Engine Reactor Core Room
+ent-RMCAreaAlmayerEngineeringLowerEngineCore-name = Активная комната реактора двигателя
 
-ent-RMCAreaAlmayerEngineeringLowerWorkshopHangar-name = Ordnance Workshop
+ent-RMCAreaAlmayerEngineeringLowerWorkshopHangar-name = Артиллерийская мастерская
 
-ent-RMCAreaAlmayerEngineeringLowerWorkshop-name = Lower Deck Engineering Workshop
+ent-RMCAreaAlmayerEngineeringLowerWorkshop-name = Инженерная мастерская нижней палубы
 
-ent-RMCAreaAlmayerEngineeringLowerEngineMonitoring-name = Lower Deck Engine Reactor Monitoring
+ent-RMCAreaAlmayerEngineeringLowerEngineMonitoring-name = Мониторинг двигателя реактора нижней палубы
 
-ent-RMCAreaAlmayerEngineeringLower-name = Lower Deck Engineering
+ent-RMCAreaAlmayerEngineeringLower-name = Инженерное дело нижней палубы
 
-ent-RMCAreaAlmayerCommandCombatCorrespondent-name = Upper Deck Combat Correspondent Office
+ent-RMCAreaAlmayerCommandCombatCorrespondent-name = Боевой корреспондент на верхней палубе
 
-ent-RMCAreaAlmayerCommandCorporateliaison-name = Corporate Liaison Office
+ent-RMCAreaAlmayerCommandCorporateliaison-name = Офис корпоративных связей
 
-ent-RMCAreaAlmayerCommandSelfDestruct-name = Upper Deck Self-Destruct Core Room
+ent-RMCAreaAlmayerCommandSelfDestruct-name = Самоуничтожающаяся основная комната на верхней палубе
 
-ent-RMCAreaAlmayerCommandTelecomms-name = Upper Deck Telecommunications
+ent-RMCAreaAlmayerCommandTelecomms-name = Телекоммуникации верхней палубы
 
-ent-RMCAreaAlmayerCommandComputerlab-name = Upper Deck Computer Lab
+ent-RMCAreaAlmayerCommandComputerlab-name = Компьютерная лаборатория верхней палубы
 
-ent-RMCAreaAlmayerCommandSecurestorage-name = Upper Deck Secure Storage
+ent-RMCAreaAlmayerCommandSecurestorage-name = Безопасное хранилище на верхней палубе
 
-ent-RMCAreaAlmayerCommandAiroom-name = AI Core
+ent-RMCAreaAlmayerCommandAiroom-name = Ядро ИИ
 
-ent-RMCAreaAlmayerCommandCichallway-name = Secure Command Hallway
+ent-RMCAreaAlmayerCommandCichallway-name = Безопасный командный коридор
 
-ent-RMCAreaAlmayerCommandCic-name = Combat Information Center
+ent-RMCAreaAlmayerCommandCic-name = Боевой информационный центр
 
-ent-RMCAreaAlmayer-name = area
+ent-RMCAreaAlmayer-name = область
 
-ent-RMCAreaAlmayerCommand-name = area
+ent-RMCAreaAlmayerCommand-name = область
 
-ent-RMCAreaAlmayerEngineering-name = area
+ent-RMCAreaAlmayerEngineering-name = область
 
-ent-RMCAreaAlmayerEngineeringLowerEngine-name = Lower Deck Engineering
+ent-RMCAreaAlmayerEngineeringLowerEngine-name = Инженерное дело нижней палубы
 
-ent-RMCAreaAlmayerEngineeringUpperEngineeringNotunnel-name = Upper Deck Engineering
+ent-RMCAreaAlmayerEngineeringUpperEngineeringNotunnel-name = Инженерное дело верхней палубы
 
-ent-RMCAreaAlmayerShipboard-name = area
+ent-RMCAreaAlmayerShipboard-name = область
 
-ent-RMCAreaAlmayerShipboardWeaponRoomNotunnel-name = Lower Deck Weapon Control
+ent-RMCAreaAlmayerShipboardWeaponRoomNotunnel-name = Управление оружием нижней палубы
 
-ent-RMCAreaAlmayerHallways-name = area
+ent-RMCAreaAlmayerHallways-name = область
 
-ent-RMCAreaAlmayerHallwaysLower-name = area
+ent-RMCAreaAlmayerHallwaysLower-name = область
 
-ent-RMCAreaAlmayerHallwaysUpper-name = area
+ent-RMCAreaAlmayerHallwaysUpper-name = область
 
-ent-RMCAreaAlmayerMaint-name = area
+ent-RMCAreaAlmayerMaint-name = область
 
-ent-RMCAreaAlmayerMaintHull-name = area
+ent-RMCAreaAlmayerMaintHull-name = область
 
-ent-RMCAreaAlmayerLiving-name = area
+ent-RMCAreaAlmayerLiving-name = область
 
-ent-RMCAreaAlmayerMedical-name = area
+ent-RMCAreaAlmayerMedical-name = область
 
-ent-RMCAreaAlmayerSquads-name = area
+ent-RMCAreaAlmayerSquads-name = область
 
-ent-RMCAreaAlmayerPowered-name = area
+ent-RMCAreaAlmayerPowered-name = область
 
-ent-RMCAreaAlmayerEngineeringAirmix-name = area
+ent-RMCAreaAlmayerEngineeringAirmix-name = область
 
-ent-RMCAreaSpaceAlmayer-name = Space
+ent-RMCAreaSpaceAlmayer-name = Космос
 
-ent-RMCAreaAlmayerEvacuation-name = area
+ent-RMCAreaAlmayerEvacuation-name = область
 
-ent-RMCAreaAlmayerEvacuationPod1-name = area
+ent-RMCAreaAlmayerEvacuationPod1-name = область
 
-ent-RMCAreaAlmayerEvacuationPod2-name = area
+ent-RMCAreaAlmayerEvacuationPod2-name = область
 
-ent-RMCAreaAlmayerEvacuationPod3-name = area
+ent-RMCAreaAlmayerEvacuationPod3-name = область
 
-ent-RMCAreaAlmayerEvacuationPod4-name = area
+ent-RMCAreaAlmayerEvacuationPod4-name = область
 
-ent-RMCAreaAlmayerEvacuationPod5-name = area
+ent-RMCAreaAlmayerEvacuationPod5-name = область
 
-ent-RMCAreaAlmayerEvacuationPod6-name = area
+ent-RMCAreaAlmayerEvacuationPod6-name = область
 
-ent-RMCAreaAlmayerEvacuationPod7-name = area
+ent-RMCAreaAlmayerEvacuationPod7-name = область
 
-ent-RMCAreaAlmayerEvacuationPod8-name = area
+ent-RMCAreaAlmayerEvacuationPod8-name = область
 
-ent-RMCAreaAlmayerEvacuationPod9-name = area
+ent-RMCAreaAlmayerEvacuationPod9-name = область
 
-ent-RMCAreaAlmayerEvacuationPod10-name = area
+ent-RMCAreaAlmayerEvacuationPod10-name = область
 
-ent-RMCAreaAlmayerEvacuationPod11-name = area
+ent-RMCAreaAlmayerEvacuationPod11-name = область
 
-ent-RMCAreaAlmayerEvacuationPod12-name = area
+ent-RMCAreaAlmayerEvacuationPod12-name = область
 
-ent-RMCAreaAlmayerEvacuationPod13-name = area
+ent-RMCAreaAlmayerEvacuationPod13-name = область
 
-ent-RMCAreaAlmayerEvacuationPod14-name = area
+ent-RMCAreaAlmayerEvacuationPod14-name = область
 
-ent-RMCAreaAlmayerEvacuationPod15-name = area
+ent-RMCAreaAlmayerEvacuationPod15-name = область
 
-ent-RMCAreaAlmayerEvacuationPod16-name = area
+ent-RMCAreaAlmayerEvacuationPod16-name = область
 
-ent-RMCAreaAlmayerEvacuationPod17-name = area
+ent-RMCAreaAlmayerEvacuationPod17-name = область
 
-ent-RMCAreaAlmayerEvacuationPod18-name = area
+ent-RMCAreaAlmayerEvacuationPod18-name = область
 
-ent-RMCAreaAlmayerEvacuationStranded-name = area
+ent-RMCAreaAlmayerEvacuationStranded-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod1-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod1-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod2-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod2-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod3-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod3-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod4-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod4-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod5-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod5-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod6-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod6-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod7-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod7-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod8-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod8-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod9-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod9-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod10-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod10-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod11-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod11-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod12-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod12-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod13-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod13-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod14-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod14-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod15-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod15-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod16-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod16-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod17-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod17-name = область
 
-ent-RMCAreaAlmayerEvacuationStrandedPod18-name = area
+ent-RMCAreaAlmayerEvacuationStrandedPod18-name = область
 

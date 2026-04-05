@@ -1,12 +1,12 @@
-ent-CMIDCardResearcher-name = researcher's ID card
-ent-CMIDCardResearcher-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardResearcher-name = удостоверение личности исследователя
+ent-CMIDCardResearcher-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardNurse-name = nurse's ID card
-ent-CMIDCardNurse-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardNurse-name = удостоверение медсестры
+ent-CMIDCardNurse-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardDoctor-name = doctor's ID card
-ent-CMIDCardDoctor-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardDoctor-name = удостоверение личности врача
+ent-CMIDCardDoctor-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardCMO-name = chief medical officer ID card
-ent-CMIDCardCMO-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardCMO-name = удостоверение личности главного врача
+ent-CMIDCardCMO-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 

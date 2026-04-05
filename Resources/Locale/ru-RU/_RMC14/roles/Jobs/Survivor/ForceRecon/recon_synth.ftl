@@ -1,3 +1,3 @@
-ent-CMSpawnPointForeconSynth-name = forecon synthetic spawn point
-ent-CMSpawnPointForeconSynth-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointForeconSynth-name = Синтетическая точка появления Forecon
+ent-CMSpawnPointForeconSynth-desc = Создатель заданий RMC14. 
 

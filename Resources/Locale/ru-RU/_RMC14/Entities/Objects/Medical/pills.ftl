@@ -1,45 +1,45 @@
-ent-CMPill-name = pill
-ent-CMPill-desc = A pill.
+ent-CMPill-name = таблетка
+ent-CMPill-desc = Таблетка.
 
-ent-CMPillBicaridine-name = pill
-ent-CMPillBicaridine-desc = A pill.
+ent-CMPillBicaridine-name = таблетка
+ent-CMPillBicaridine-desc = Таблетка.
 
-ent-CMPillDexalin-name = pill
-ent-CMPillDexalin-desc = A pill.
+ent-CMPillDexalin-name = таблетка
+ent-CMPillDexalin-desc = Таблетка.
 
-ent-CMPillDylovene-name = pill
-ent-CMPillDylovene-desc = A pill.
+ent-CMPillDylovene-name = таблетка
+ent-CMPillDylovene-desc = Таблетка.
 
-ent-CMPillInaprovaline-name = pill
-ent-CMPillInaprovaline-desc = A pill.
+ent-CMPillInaprovaline-name = таблетка
+ent-CMPillInaprovaline-desc = Таблетка.
 
-ent-CMPillKelotane-name = pill
-ent-CMPillKelotane-desc = A pill.
+ent-CMPillKelotane-name = таблетка
+ent-CMPillKelotane-desc = Таблетка.
 
-ent-CMPillTricordrazine-name = pill
-ent-CMPillTricordrazine-desc = A pill.
+ent-CMPillTricordrazine-name = таблетка
+ent-CMPillTricordrazine-desc = Таблетка.
 
-ent-RMCPillRussianRed-name = pill
-ent-RMCPillRussianRed-desc = A pill.
+ent-RMCPillRussianRed-name = таблетка
+ent-RMCPillRussianRed-desc = Таблетка.
 
-ent-RMCPillMeralyneBicaridine-name = pill
-ent-RMCPillMeralyneBicaridine-desc = A pill.
+ent-RMCPillMeralyneBicaridine-name = таблетка
+ent-RMCPillMeralyneBicaridine-desc = Таблетка.
 
-ent-RMCPillKelotaneDermaline-name = pill
-ent-RMCPillKelotaneDermaline-desc = A pill.
+ent-RMCPillKelotaneDermaline-name = таблетка
+ent-RMCPillKelotaneDermaline-desc = Таблетка.
 
-ent-RMCPillImidazoline-name = pill
-ent-RMCPillImidazoline-desc = A pill.
+ent-RMCPillImidazoline-name = таблетка
+ent-RMCPillImidazoline-desc = Таблетка.
 
-ent-RMCPillAntiZed-name = pill
-ent-RMCPillAntiZed-desc = A pill.
+ent-RMCPillAntiZed-name = таблетка
+ent-RMCPillAntiZed-desc = Таблетка.
 
-ent-RMCPillCyanide-name = pill
-ent-RMCPillCyanide-desc = A cyanide pill. Don't swallow this!
+ent-RMCPillCyanide-name = таблетка
+ent-RMCPillCyanide-desc = Таблетка цианида. 
 
-ent-RMCPillDexalinPlus-name = pill
-ent-RMCPillDexalinPlus-desc = A pill.
+ent-RMCPillDexalinPlus-name = таблетка
+ent-RMCPillDexalinPlus-desc = Таблетка.
 
-ent-RMCPillIron-name = pill
-ent-RMCPillIron-desc = A pill.
+ent-RMCPillIron-name = таблетка
+ent-RMCPillIron-desc = Таблетка.
 

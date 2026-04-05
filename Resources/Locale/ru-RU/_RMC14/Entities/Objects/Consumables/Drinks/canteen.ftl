@@ -1,16 +1,16 @@
-ent-CMWEYAFlask-name = We-Ya flask
-ent-CMWEYAFlask-desc = A metal flask embossed with We-Ya's signature logo that some corporate bootlicker probably ordered to be stocked in military vessels' canteen vendors.
+ent-CMWEYAFlask-name = Мы-Я колба
+ent-CMWEYAFlask-desc = Металлическая фляга с тиснением фирменного логотипа We-Ya, которую какой-то корпоративный подхалим, вероятно, заказал для продажи в столовых военных кораблей.
 
-ent-CMMarineFlask-name = Marine flask
-ent-CMMarineFlask-desc = A metal flask embossed with the Marine logo and probably filled with a slurry of water, motor oil, and medicinal alcohol.
+ent-CMMarineFlask-name = Морпеховая колба
+ent-CMMarineFlask-desc = Металлическая колба с тиснением логотипа «Морпех», вероятно, наполненная суспензией воды, моторного масла и медицинского спирта.
 
-ent-CMMetalFlask-name = metal flask
-ent-CMMetalFlask-desc = A metal flask with a decent liquid capacity.
+ent-CMMetalFlask-name = металлическая колба
+ent-CMMetalFlask-desc = Металлическая колба с приличным объемом жидкости.
 
-ent-CMCanteen-name = canteen
-ent-CMCanteen-desc = You take a sip from your trusty Marine canteen...
+ent-CMCanteen-name = столовая
+ent-CMCanteen-desc = Делаешь глоток из своей верной фляги Морпех...
 
-ent-CMCanteenBase-name = item
+ent-CMCanteenBase-name = элемент
 
-ent-RMCWeYaThermos-name = item
+ent-RMCWeYaThermos-name = элемент
 

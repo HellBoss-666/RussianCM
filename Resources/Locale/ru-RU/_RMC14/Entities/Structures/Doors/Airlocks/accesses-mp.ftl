@@ -1,12 +1,12 @@
-ent-CMAirlockBrigLocked-name = security airlock
+ent-CMAirlockBrigLocked-name = шлюз безопасности
 
-ent-CMAirlockGlassBrigLocked-name = security airlock
-ent-CMAirlockGlassBrigLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassBrigLocked-name = шлюз безопасности
+ent-CMAirlockGlassBrigLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintBrigLocked-name = maintenance hatch
+ent-CMAirlockMaintBrigLocked-name = люк для обслуживания
 
-ent-CMAirlockArmoryLocked-name = security airlock
+ent-CMAirlockArmoryLocked-name = шлюз безопасности
 
-ent-CMAirlockGlassArmoryLocked-name = security airlock
-ent-CMAirlockGlassArmoryLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassArmoryLocked-name = шлюз безопасности
+ent-CMAirlockGlassArmoryLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 

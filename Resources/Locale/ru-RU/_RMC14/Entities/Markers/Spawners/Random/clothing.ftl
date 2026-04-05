@@ -1,15 +1,15 @@
-ent-RMCSpawnerRandomGoggles-name = goggles loot spawner
-ent-RMCSpawnerRandomGoggles-desc = This is a random set of goggles, for survivors.
+ent-RMCSpawnerRandomGoggles-name = спавнер лута в очках
+ent-RMCSpawnerRandomGoggles-desc = Это случайный набор очков для выживших.
 
-ent-RMCSpawnerRandomClothingBase-name = gun spawner
-ent-RMCSpawnerRandomClothingBase-desc = spawns a random clothing item
+ent-RMCSpawnerRandomClothingBase-name = генератор оружия
+ent-RMCSpawnerRandomClothingBase-desc = порождает случайный предмет одежды
 
-ent-RMCSpawnerRandomGogglesLowChance-name = goggles loot spawner
-ent-RMCSpawnerRandomGogglesLowChance-desc = This is a random set of goggles, for survivors.
+ent-RMCSpawnerRandomGogglesLowChance-name = спавнер лута в очках
+ent-RMCSpawnerRandomGogglesLowChance-desc = Это случайный набор очков для выживших.
 
-ent-RMCSpawnerRandomGogglesMidChance-name = goggles loot spawner
-ent-RMCSpawnerRandomGogglesMidChance-desc = This is a random set of goggles, for survivors.
+ent-RMCSpawnerRandomGogglesMidChance-name = спавнер лута в очках
+ent-RMCSpawnerRandomGogglesMidChance-desc = Это случайный набор очков для выживших.
 
-ent-RMCSpawnerRandomGogglesHighChance-name = goggles loot spawner
-ent-RMCSpawnerRandomGogglesHighChance-desc = This is a random set of goggles, for survivors.
+ent-RMCSpawnerRandomGogglesHighChance-name = спавнер лута в очках
+ent-RMCSpawnerRandomGogglesHighChance-desc = Это случайный набор очков для выживших.
 

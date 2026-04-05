@@ -1,39 +1,39 @@
-ent-RMCDrinkAlcoholVodkaChessWhiteRook-name = white rook bottle
-ent-RMCDrinkAlcoholVodkaChessWhiteRook-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessWhiteRook-name = бутылка белой ладьи
+ent-RMCDrinkAlcoholVodkaChessWhiteRook-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessWhiteQueen-name = white queen bottle
-ent-RMCDrinkAlcoholVodkaChessWhiteQueen-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessWhiteQueen-name = белая бутылка Королева
+ent-RMCDrinkAlcoholVodkaChessWhiteQueen-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessWhiteBishop-name = white bishop bottle
-ent-RMCDrinkAlcoholVodkaChessWhiteBishop-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessWhiteBishop-name = бутылка белого епископа
+ent-RMCDrinkAlcoholVodkaChessWhiteBishop-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessWhitePawn-name = white pawn bottle
-ent-RMCDrinkAlcoholVodkaChessWhitePawn-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessWhitePawn-name = белая пешка-бутылка
+ent-RMCDrinkAlcoholVodkaChessWhitePawn-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessWhiteKnight-name = white knight bottle
-ent-RMCDrinkAlcoholVodkaChessWhiteKnight-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessWhiteKnight-name = бутылка белого рыцаря
+ent-RMCDrinkAlcoholVodkaChessWhiteKnight-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessWhiteKing-name = white king bottle
-ent-RMCDrinkAlcoholVodkaChessWhiteKing-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessWhiteKing-name = белая королевская бутылка
+ent-RMCDrinkAlcoholVodkaChessWhiteKing-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessBlackRook-name = black rook bottle
-ent-RMCDrinkAlcoholVodkaChessBlackRook-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessBlackRook-name = бутылка черной ладьи
+ent-RMCDrinkAlcoholVodkaChessBlackRook-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessBlackQueen-name = black queen bottle
-ent-RMCDrinkAlcoholVodkaChessBlackQueen-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessBlackQueen-name = черная бутылка Королева
+ent-RMCDrinkAlcoholVodkaChessBlackQueen-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessBlackPawn-name = black pawn bottle
-ent-RMCDrinkAlcoholVodkaChessBlackPawn-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessBlackPawn-name = черная пешка бутылка
+ent-RMCDrinkAlcoholVodkaChessBlackPawn-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessBlackKnight-name = black knight bottle
-ent-RMCDrinkAlcoholVodkaChessBlackKnight-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessBlackKnight-name = бутылка черного рыцаря
+ent-RMCDrinkAlcoholVodkaChessBlackKnight-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessBlackKing-name = black king bottle
-ent-RMCDrinkAlcoholVodkaChessBlackKing-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessBlackKing-name = черная королевская бутылка
+ent-RMCDrinkAlcoholVodkaChessBlackKing-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChessBlackBishop-name = black bishop bottle
-ent-RMCDrinkAlcoholVodkaChessBlackBishop-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChessBlackBishop-name = бутылка черного епископа
+ent-RMCDrinkAlcoholVodkaChessBlackBishop-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 
-ent-RMCDrinkAlcoholVodkaChess-name = red star vodka
-ent-RMCDrinkAlcoholVodkaChess-desc = A promotional chess themed bottle of Red Star Vodka.
+ent-RMCDrinkAlcoholVodkaChess-name = водка красная звезда
+ent-RMCDrinkAlcoholVodkaChess-desc = Рекламная бутылка водки Red Star в шахматном стиле.
 

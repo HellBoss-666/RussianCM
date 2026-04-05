@@ -1,50 +1,50 @@
-ent-RMCAirFlareCAS-name = air signal flare
+ent-RMCAirFlareCAS-name = воздушный сигнал ракеты
 
-ent-RMCAirFlare-name = air flare
+ent-RMCAirFlare-name = воздушная вспышка
 
-ent-RMCFlareCASBullet-name = signal flare projectile
-ent-RMCFlareCASBullet-desc = If you can see this you're probably dead!
+ent-RMCFlareCASBullet-name = сигнальный ракетный снаряд
+ent-RMCFlareCASBullet-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCFlareBullet-name = flare projectile
-ent-RMCFlareBullet-desc = If you can see this you're probably dead!
+ent-RMCFlareBullet-name = сигнальный снаряд
+ent-RMCFlareBullet-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCPackFlareCAS-name = M94 marking flare pack
-ent-RMCPackFlareCAS-desc = A packet of eight M94 Marking Flares. Carried by Marine soldiers to light dark areas that cannot be reached with the usual TNR Shoulder Lamp.
+ent-RMCPackFlareCAS-name = Комплект сигнальных ракет для маркировки М94
+ent-RMCPackFlareCAS-desc = Пакет из восьми опознавательных ракет M94. 
 
-ent-CMPackFlareBase-name = M94 marking flare pack
-ent-CMPackFlareBase-desc = A packet of eight M94 Marking Flares. Carried by Marine soldiers to light dark areas that cannot be reached with the usual TNR Shoulder Lamp.
+ent-CMPackFlareBase-name = Комплект сигнальных ракет для маркировки М94
+ent-CMPackFlareBase-desc = Пакет из восьми опознавательных ракет M94. 
 
-ent-CMPackFlare-name = M94 marking flare pack
-ent-CMPackFlare-desc = A packet of eight M94 Marking Flares. Carried by Marine soldiers to light dark areas that cannot be reached with the usual TNR Shoulder Lamp.
+ent-CMPackFlare-name = Комплект сигнальных ракет для маркировки М94
+ent-CMPackFlare-desc = Пакет из восьми опознавательных ракет M94. 
 
-ent-RMCBoxPackFlareCASEmpty-name = Supply Box (M89-S)
-ent-RMCBoxPackFlareCASEmpty-desc = A box of M89 signal flare packs, to mark up the way.
+ent-RMCBoxPackFlareCASEmpty-name = Ящик с припасами (M89-S)
+ent-RMCBoxPackFlareCASEmpty-desc = Коробка сигнальных ракетниц М89 для обозначения пути.
 
-ent-RMCBoxPackFlareEmpty-name = Supply Box (M94)
-ent-RMCBoxPackFlareEmpty-desc = A box of M94 marking flare packs, to brighten up your day.
+ent-RMCBoxPackFlareEmpty-name = Ящик с припасами (M94)
+ent-RMCBoxPackFlareEmpty-desc = Коробка с сигнальными сигнальными ракетами M94, которые сделают ваш день ярче.
 
-ent-RMCStarShellAsh-name = burning star shell ash
-ent-RMCStarShellAsh-desc = Bright burning ash from a Star Shell 40mm. Don't touch, or it'll burn ya'.
+ent-RMCStarShellAsh-name = пепел горящей звезды
+ent-RMCStarShellAsh-desc = Яркий горящий пепел от Star Shell 40мм. 
 
-ent-RMCFlareCAS-name = flare
-ent-RMCFlareCAS-desc = A red Marine issued flare. There are instructions on the side, it reads 'pull cord, make light'.
+ent-RMCFlareCAS-name = вспышка
+ent-RMCFlareCAS-desc = Красный Морпех выпустил сигнальную ракету. 
 
-ent-CMFlare-name = flare
-ent-CMFlare-desc = A red Marine issued flare. There are instructions on the side, it reads 'pull cord, make light'.
+ent-CMFlare-name = вспышка
+ent-CMFlare-desc = Красный Морпех выпустил сигнальную ракету. 
 
-ent-RMCBoxPackFlare-name = Supply Box (M94)
-ent-RMCBoxPackFlare-desc = A box of M94 marking flare packs, to brighten up your day.
+ent-RMCBoxPackFlare-name = Ящик с припасами (M94)
+ent-RMCBoxPackFlare-desc = Коробка с сигнальными сигнальными ракетами M94, которые сделают ваш день ярче.
 
-ent-RMCBoxPackFlareCAS-name = Supply Box (M89-S)
-ent-RMCBoxPackFlareCAS-desc = A box of M89 signal flare packs, to mark up the way.
+ent-RMCBoxPackFlareCAS-name = Ящик с припасами (M89-S)
+ent-RMCBoxPackFlareCAS-desc = Коробка сигнальных ракетниц М89 для обозначения пути.
 
-ent-RMCFlareL96-name = item
+ent-RMCFlareL96-name = элемент
 
-ent-RMCPackFlareL96-name = M94 marking flare pack
-ent-RMCPackFlareL96-desc = A packet of eight M94 Marking Flares. Carried by Marine soldiers to light dark areas that cannot be reached with the usual TNR Shoulder Lamp.
+ent-RMCPackFlareL96-name = Комплект сигнальных ракет для маркировки М94
+ent-RMCPackFlareL96-desc = Пакет из восьми опознавательных ракет M94. 
 
-ent-RMCFlareL96Bullet-name = L96 flare projectile
-ent-RMCFlareL96Bullet-desc = If you can see this you're probably dead!
+ent-RMCFlareL96Bullet-name = Ракетный снаряд L96
+ent-RMCFlareL96Bullet-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCAirFlareL96-name = air flare
+ent-RMCAirFlareL96-name = воздушная вспышка
 

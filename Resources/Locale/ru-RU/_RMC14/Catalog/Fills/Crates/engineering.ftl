@@ -1,45 +1,45 @@
-ent-RMCCrateHighCapacityPowerCell-name = high-capacity power cell crate
-ent-RMCCrateHighCapacityPowerCell-desc = A construction crate.
+ent-RMCCrateHighCapacityPowerCell-name = ящик силовых элементов высокой емкости
+ent-RMCCrateHighCapacityPowerCell-desc = Строительный ящик.
 
-ent-RMCCrateFlashlights-name = flashlights crate
-ent-RMCCrateFlashlights-desc = A construction crate.
+ent-RMCCrateFlashlights-name = ящик фонариков
+ent-RMCCrateFlashlights-desc = Строительный ящик.
 
-ent-RMCCrateSuperPacmanParts-name = super pacman portable generator parts
-ent-RMCCrateSuperPacmanParts-desc = A construction crate.
+ent-RMCCrateSuperPacmanParts-name = Запчасти портативных генераторов Super pacman
+ent-RMCCrateSuperPacmanParts-desc = Строительный ящик.
 
-ent-RMCCratePacmanParts-name = pacman portable generator parts
-ent-RMCCratePacmanParts-desc = A construction crate.
+ent-RMCCratePacmanParts-name = части портативного генератора pacman
+ent-RMCCratePacmanParts-desc = Строительный ящик.
 
-ent-RMCCrateReplacementLights-name = replacement lights crate
-ent-RMCCrateReplacementLights-desc = A construction crate.
+ent-RMCCrateReplacementLights-name = замена фары в ящике
+ent-RMCCrateReplacementLights-desc = Строительный ящик.
 
-ent-RMCCrateMechanicalMaintenance-name = mechanical maintenance crate
-ent-RMCCrateMechanicalMaintenance-desc = A construction crate.
+ent-RMCCrateMechanicalMaintenance-name = механический ящик обслуживания
+ent-RMCCrateMechanicalMaintenance-desc = Строительный ящик.
 
-ent-RMCCrateElectricalMaintenance-name = electrical maintenance crate
-ent-RMCCrateElectricalMaintenance-desc = A construction crate.
+ent-RMCCrateElectricalMaintenance-name = ящик обслуживания электрооборудования
+ent-RMCCrateElectricalMaintenance-desc = Строительный ящик.
 
-ent-RMCCrateSuperconductingMagneticCoil-name = superconducting magnetic coil crate
-ent-RMCCrateSuperconductingMagneticCoil-desc = A construction crate.
+ent-RMCCrateSuperconductingMagneticCoil-name = ящик со сверхпроводящей магнитной катушкой
+ent-RMCCrateSuperconductingMagneticCoil-desc = Строительный ящик.
 
-ent-RMCCrateWoodenPlanks-name = wooden planks crate
-ent-RMCCrateWoodenPlanks-desc = A construction crate.
+ent-RMCCrateWoodenPlanks-name = ящик из деревянных досок
+ent-RMCCrateWoodenPlanks-desc = Строительный ящик.
 
-ent-RMCCrateGlassSheets-name = glass sheets crate
-ent-RMCCrateGlassSheets-desc = A construction crate.
+ent-RMCCrateGlassSheets-name = ящик из стеклянных листов
+ent-RMCCrateGlassSheets-desc = Строительный ящик.
 
-ent-RMCCratePlasteelSheets-name = plasteel sheets crate
-ent-RMCCratePlasteelSheets-desc = A construction crate.
+ent-RMCCratePlasteelSheets-name = ящик из пласталевых листов
+ent-RMCCratePlasteelSheets-desc = Строительный ящик.
 
-ent-RMCCrateMetalSheets-name = metal sheets crate
-ent-RMCCrateMetalSheets-desc = A construction crate.
+ent-RMCCrateMetalSheets-name = ящик из металлических листов
+ent-RMCCrateMetalSheets-desc = Строительный ящик.
 
-ent-RMCCrateSandbagsConstructionKit-name = sandbags construction kit
-ent-RMCCrateSandbagsConstructionKit-desc = A construction crate.
+ent-RMCCrateSandbagsConstructionKit-name = конструктор из мешков с песком
+ent-RMCCrateSandbagsConstructionKit-desc = Строительный ящик.
 
-ent-RMCCrateEmptySandbags-name = empty sandbags crate
-ent-RMCCrateEmptySandbags-desc = A construction crate.
+ent-RMCCrateEmptySandbags-name = пустой ящик из-под мешков с песком
+ent-RMCCrateEmptySandbags-desc = Строительный ящик.
 
-ent-RMCCrateInflatableBarriers-name = inflatable barriers crate
-ent-RMCCrateInflatableBarriers-desc = A construction crate.
+ent-RMCCrateInflatableBarriers-name = ящик надувных барьеров
+ent-RMCCrateInflatableBarriers-desc = Строительный ящик.
 

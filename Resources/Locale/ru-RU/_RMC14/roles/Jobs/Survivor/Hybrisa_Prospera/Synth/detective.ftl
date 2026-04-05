@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaSynthDetective-name = survivor synth hybrisa detective colonist preset
+ent-RMCSurvivorPresetHybrisaSynthDetective-name = пресет Survivor Synth Hybrisa детектив колонист
 

@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidSPPEngineerFriendly-name = spp ghost role engineer
+ent-RMCRandomHumanoidSPPEngineerFriendly-name = инженер роли призрака spp
 
-ent-RMCRandomHumanoidSPPEngineerHostile-name = spp ghost role engineer
+ent-RMCRandomHumanoidSPPEngineerHostile-name = инженер роли призрака spp
 

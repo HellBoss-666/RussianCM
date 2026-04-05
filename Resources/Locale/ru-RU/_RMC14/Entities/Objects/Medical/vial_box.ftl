@@ -1,4 +1,4 @@
-ent-RMCVialBox-name = storage item
+ent-RMCVialBox-name = предмет хранения
 
-ent-RMCVialBoxFull-name = storage item
+ent-RMCVialBoxFull-name = предмет хранения
 

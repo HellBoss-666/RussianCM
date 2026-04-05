@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetHybrisaCorporateLiaison-name = hybrisa corporate liaison preset
+ent-RMCSurvivorPresetHybrisaCorporateLiaison-name = Предустановка корпоративной связи hybrisa
 
-ent-RMCSpawnPointSurvivorHybrisaCorporateLiaison-name = hybrisa corporate liaison survivor spawn point
-ent-RMCSpawnPointSurvivorHybrisaCorporateLiaison-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaCorporateLiaison-name = точка возрождения выжившего корпоративной связи Hybrisa
+ent-RMCSpawnPointSurvivorHybrisaCorporateLiaison-desc = Создатель заданий RMC14. 
 

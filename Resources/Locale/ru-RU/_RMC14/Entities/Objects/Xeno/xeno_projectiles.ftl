@@ -1,39 +1,39 @@
-ent-XenoOppressorTailHook-name = tail hook
+ent-XenoOppressorTailHook-name = хвостовой крючок
 
-ent-XenoAcidBallProjectile-name = acid ball
-ent-XenoAcidBallProjectile-desc = A small, pulsating ball of gas.
+ent-XenoAcidBallProjectile-name = кислотный шар
+ent-XenoAcidBallProjectile-desc = Маленький пульсирующий газовый шарик.
 
-ent-CMGuidebookXenoBombardNeurotoxinProjectile-name = Neurotoxin Glob
+ent-CMGuidebookXenoBombardNeurotoxinProjectile-name = Нейротоксин Глоб
 
-ent-XenoBombardNeurotoxinProjectile-name = glob of neurotoxin gas
+ent-XenoBombardNeurotoxinProjectile-name = шарик нейротоксинового газа
 
-ent-CMGuidebookXenoBombardAcidProjectile-name = Acid Glob
+ent-CMGuidebookXenoBombardAcidProjectile-name = Кислотная капля
 
-ent-XenoBombardAcidProjectile-name = glob of acid gas
+ent-XenoBombardAcidProjectile-name = шарик кислого газа
 
-ent-XenoBoneChipsProjectile-name = bone chips
+ent-XenoBoneChipsProjectile-name = костные чипсы
 
-ent-XenoScatteredSpitProjectile-name = scattered spit
+ent-XenoScatteredSpitProjectile-name = разбросанная слюна
 
-ent-XenoQueenNeuroSpitProjectile-name = neurotoxic spit
+ent-XenoQueenNeuroSpitProjectile-name = нейротоксический плевок
 
-ent-XenoSlowingSpitProjectile-name = slowing spit
+ent-XenoSlowingSpitProjectile-name = замедляющий плевок
 
-ent-XenoSpitProjectile-name = spit
+ent-XenoSpitProjectile-name = плевать
 
-ent-XenoBaseProjectile-name = projectile
+ent-XenoBaseProjectile-name = снаряд
 
-ent-XenoChargedSpitProjectile-name = spit
+ent-XenoChargedSpitProjectile-name = плевать
 
-ent-XenoHedgehogSpikeProjectile-name = bone chips
+ent-XenoHedgehogSpikeProjectile-name = костные чипсы
 
-ent-XenoHedgehogSpikeProjectileSpread-name = small bone chips
+ent-XenoHedgehogSpikeProjectileSpread-name = мелкие костные чипсы
 
-ent-XenoHedgehogSpikeProjectileSpreadShort-name = small bone chips
+ent-XenoHedgehogSpikeProjectileSpreadShort-name = мелкие костные чипсы
 
-ent-XenoAcidBallSpitProjectile-name = spit
+ent-XenoAcidBallSpitProjectile-name = плевать
 
-ent-XenoSpitProjectilePraetorian-name = spit
+ent-XenoSpitProjectilePraetorian-name = плевать
 
-ent-XenoSpitProjectilePraetorianWarden-name = spit
+ent-XenoSpitProjectilePraetorianWarden-name = плевать
 

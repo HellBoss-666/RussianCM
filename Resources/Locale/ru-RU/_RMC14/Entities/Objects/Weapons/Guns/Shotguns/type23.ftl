@@ -1,2 +1,2 @@
-ent-RMCWeaponShotgunType23-name = item
+ent-RMCWeaponShotgunType23-name = элемент
 

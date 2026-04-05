@@ -1,18 +1,18 @@
-ent-CMVendorRobotics-name = Robotech Deluxe
-ent-CMVendorRobotics-desc = All the tools you need to create your own robot army.
+ent-CMVendorRobotics-name = Роботех Делюкс
+ent-CMVendorRobotics-desc = Все инструменты, необходимые для создания собственной армии роботов.
 
-ent-CMVendorScience-name = We-Ya SciVend
-ent-CMVendorScience-desc = Vendor containing basic equipment for your experiments.
+ent-CMVendorScience-name = Мы-Я SciVend
+ent-CMVendorScience-desc = Продавец базового оборудования для ваших экспериментов.
 
-ent-CMVendorComponent-name = component storage machine
-ent-CMVendorComponent-desc = A large storage machine containing various components.
+ent-CMVendorComponent-name = машина для хранения компонентов
+ent-CMVendorComponent-desc = Большая машина-хранилище, содержащая различные компоненты.
 
-ent-CMVendorElectronics-name = electronics vendor
-ent-CMVendorElectronics-desc = Spare tool vendor. What? Did you expect some witty description?
+ent-CMVendorElectronics-name = продавец электроники
+ent-CMVendorElectronics-desc = Поставщик запасных инструментов. 
 
-ent-CMVendorCircuits-name = circuit board vendor
-ent-CMVendorCircuits-desc = A safe storage for pre-programmed circuit boards, it has an internal gyroscope to keep any external force from moving the boards, thick insulation and a custom 2.1mm UPS port for charging various We-Ya exclusive devices (sold separately).
+ent-CMVendorCircuits-name = поставщик печатных плат
+ent-CMVendorCircuits-desc = Безопасное хранилище для заранее запрограммированных плат, оно оснащено внутренним гироскопом, предотвращающим перемещение плат при любой внешней силе, толстой изоляцией и специальным портом ИБП диаметром 2,1 мм для зарядки различных эксклюзивных устройств We-Ya (продаются отдельно).
 
-ent-CMVendorTool-name = tool storage machine
-ent-CMVendorTool-desc = A large storage machine containing various tools and devices for general repair.
+ent-CMVendorTool-name = машина для хранения инструментов
+ent-CMVendorTool-desc = Большая машина для хранения различных инструментов и приспособлений для общего ремонта.
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoDoctor-name = kutjevo doctor colonist preset
+ent-RMCGearSurvivorPresetKutjevoDoctor-name = Кутьево доктор колонист пресет
 
-ent-RMCSpawnPointSurvivorKutjevoDoctor-name = survivor kurjevo doctor spawn point
-ent-RMCSpawnPointSurvivorKutjevoDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorKutjevoDoctor-name = выживший доктор Курьево точка спавна
+ent-RMCSpawnPointSurvivorKutjevoDoctor-desc = Создатель заданий RMC14. 
 

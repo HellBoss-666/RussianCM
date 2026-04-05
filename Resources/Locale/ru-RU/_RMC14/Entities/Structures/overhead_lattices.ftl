@@ -1,93 +1,93 @@
-ent-RMCOverheadLattice-name = lattice
-ent-RMCOverheadLattice-desc = A support lattice.
+ent-RMCOverheadLattice-name = решетка
+ent-RMCOverheadLattice-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical1-name = lattice
-ent-RMCOverheadLatticeVertical1-desc = A support lattice.
+ent-RMCOverheadLatticeVertical1-name = решетка
+ent-RMCOverheadLatticeVertical1-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical2-name = lattice
-ent-RMCOverheadLatticeVertical2-desc = A support lattice.
+ent-RMCOverheadLatticeVertical2-name = решетка
+ent-RMCOverheadLatticeVertical2-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical3-name = lattice
-ent-RMCOverheadLatticeVertical3-desc = A support lattice.
+ent-RMCOverheadLatticeVertical3-name = решетка
+ent-RMCOverheadLatticeVertical3-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical1A-name = lattice
-ent-RMCOverheadLatticeVertical1A-desc = A support lattice.
+ent-RMCOverheadLatticeVertical1A-name = решетка
+ent-RMCOverheadLatticeVertical1A-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical1B-name = lattice
-ent-RMCOverheadLatticeVertical1B-desc = A support lattice.
+ent-RMCOverheadLatticeVertical1B-name = решетка
+ent-RMCOverheadLatticeVertical1B-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical1C-name = lattice
-ent-RMCOverheadLatticeVertical1C-desc = A support lattice.
+ent-RMCOverheadLatticeVertical1C-name = решетка
+ent-RMCOverheadLatticeVertical1C-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical1D-name = lattice
-ent-RMCOverheadLatticeVertical1D-desc = A support lattice.
+ent-RMCOverheadLatticeVertical1D-name = решетка
+ent-RMCOverheadLatticeVertical1D-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical2A-name = lattice
-ent-RMCOverheadLatticeVertical2A-desc = A support lattice.
+ent-RMCOverheadLatticeVertical2A-name = решетка
+ent-RMCOverheadLatticeVertical2A-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical2B-name = lattice
-ent-RMCOverheadLatticeVertical2B-desc = A support lattice.
+ent-RMCOverheadLatticeVertical2B-name = решетка
+ent-RMCOverheadLatticeVertical2B-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical2C-name = lattice
-ent-RMCOverheadLatticeVertical2C-desc = A support lattice.
+ent-RMCOverheadLatticeVertical2C-name = решетка
+ent-RMCOverheadLatticeVertical2C-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical2D-name = lattice
-ent-RMCOverheadLatticeVertical2D-desc = A support lattice.
+ent-RMCOverheadLatticeVertical2D-name = решетка
+ent-RMCOverheadLatticeVertical2D-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical3A-name = lattice
-ent-RMCOverheadLatticeVertical3A-desc = A support lattice.
+ent-RMCOverheadLatticeVertical3A-name = решетка
+ent-RMCOverheadLatticeVertical3A-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical3B-name = lattice
-ent-RMCOverheadLatticeVertical3B-desc = A support lattice.
+ent-RMCOverheadLatticeVertical3B-name = решетка
+ent-RMCOverheadLatticeVertical3B-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical3C-name = lattice
-ent-RMCOverheadLatticeVertical3C-desc = A support lattice.
+ent-RMCOverheadLatticeVertical3C-name = решетка
+ent-RMCOverheadLatticeVertical3C-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeVertical3D-name = lattice
-ent-RMCOverheadLatticeVertical3D-desc = A support lattice.
+ent-RMCOverheadLatticeVertical3D-name = решетка
+ent-RMCOverheadLatticeVertical3D-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal4-name = lattice
-ent-RMCOverheadLatticeHorizontal4-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal4-name = решетка
+ent-RMCOverheadLatticeHorizontal4-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal8-name = lattice
-ent-RMCOverheadLatticeHorizontal8-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal8-name = решетка
+ent-RMCOverheadLatticeHorizontal8-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal12-name = lattice
-ent-RMCOverheadLatticeHorizontal12-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal12-name = решетка
+ent-RMCOverheadLatticeHorizontal12-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal4A-name = lattice
-ent-RMCOverheadLatticeHorizontal4A-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal4A-name = решетка
+ent-RMCOverheadLatticeHorizontal4A-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal4B-name = lattice
-ent-RMCOverheadLatticeHorizontal4B-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal4B-name = решетка
+ent-RMCOverheadLatticeHorizontal4B-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal4C-name = lattice
-ent-RMCOverheadLatticeHorizontal4C-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal4C-name = решетка
+ent-RMCOverheadLatticeHorizontal4C-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal4D-name = lattice
-ent-RMCOverheadLatticeHorizontal4D-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal4D-name = решетка
+ent-RMCOverheadLatticeHorizontal4D-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal5A-name = lattice
-ent-RMCOverheadLatticeHorizontal5A-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal5A-name = решетка
+ent-RMCOverheadLatticeHorizontal5A-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal5B-name = lattice
-ent-RMCOverheadLatticeHorizontal5B-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal5B-name = решетка
+ent-RMCOverheadLatticeHorizontal5B-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal5C-name = lattice
-ent-RMCOverheadLatticeHorizontal5C-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal5C-name = решетка
+ent-RMCOverheadLatticeHorizontal5C-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal5D-name = lattice
-ent-RMCOverheadLatticeHorizontal5D-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal5D-name = решетка
+ent-RMCOverheadLatticeHorizontal5D-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal6A-name = lattice
-ent-RMCOverheadLatticeHorizontal6A-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal6A-name = решетка
+ent-RMCOverheadLatticeHorizontal6A-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal6B-name = lattice
-ent-RMCOverheadLatticeHorizontal6B-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal6B-name = решетка
+ent-RMCOverheadLatticeHorizontal6B-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal6C-name = lattice
-ent-RMCOverheadLatticeHorizontal6C-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal6C-name = решетка
+ent-RMCOverheadLatticeHorizontal6C-desc = Опорная решетка.
 
-ent-RMCOverheadLatticeHorizontal6D-name = lattice
-ent-RMCOverheadLatticeHorizontal6D-desc = A support lattice.
+ent-RMCOverheadLatticeHorizontal6D-name = решетка
+ent-RMCOverheadLatticeHorizontal6D-desc = Опорная решетка.
 

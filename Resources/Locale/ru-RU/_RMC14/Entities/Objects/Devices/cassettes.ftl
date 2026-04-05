@@ -1,33 +1,33 @@
-ent-RMCCassetteTapePigeonBeans-name = PigeonBeans cassette
-ent-RMCCassetteTapePigeonBeans-desc = A plastic cassette tape.
+ent-RMCCassetteTapePigeonBeans-name = Кассета PigeonBeans
+ent-RMCCassetteTapePigeonBeans-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeQwertyquerty-name = Qwertyquerty cassette
-ent-RMCCassetteTapeQwertyquerty-desc = A plastic cassette tape.
+ent-RMCCassetteTapeQwertyquerty-name = Qwertyquerty-кассета
+ent-RMCCassetteTapeQwertyquerty-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeBolgarich-name = Bolgarich cassette
-ent-RMCCassetteTapeBolgarich-desc = A plastic cassette tape.
+ent-RMCCassetteTapeBolgarich-name = Болгарич кассета
+ent-RMCCassetteTapeBolgarich-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeRedQwesta-name = Qwesta cassette
-ent-RMCCassetteTapeRedQwesta-desc = A plastic cassette tape.
+ent-RMCCassetteTapeRedQwesta-name = Квеста кассета
+ent-RMCCassetteTapeRedQwesta-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeGoodShowOldChap-name = GoodShowOldChap cassette
-ent-RMCCassetteTapeGoodShowOldChap-desc = A plastic cassette tape.
+ent-RMCCassetteTapeGoodShowOldChap-name = Кассета GoodShowOldChap
+ent-RMCCassetteTapeGoodShowOldChap-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeNighty-name = Nighty cassette
-ent-RMCCassetteTapeNighty-desc = A plastic cassette tape.
+ent-RMCCassetteTapeNighty-name = Спокойная кассета
+ent-RMCCassetteTapeNighty-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeMendax-name = Mendax cassette
-ent-RMCCassetteTapeMendax-desc = A plastic cassette tape.
+ent-RMCCassetteTapeMendax-name = Мендакс кассета
+ent-RMCCassetteTapeMendax-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeWigWoo1-name = WigWoo1 cassette
-ent-RMCCassetteTapeWigWoo1-desc = A plastic cassette tape.
+ent-RMCCassetteTapeWigWoo1-name = WigWoo1 кассета
+ent-RMCCassetteTapeWigWoo1-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeCustom-name = custom cassette
-ent-RMCCassetteTapeCustom-desc = A plastic cassette tape.
+ent-RMCCassetteTapeCustom-name = пользовательская кассета
+ent-RMCCassetteTapeCustom-desc = Пластиковая кассета.
 
-ent-RMCCassetteTapeBase-name = cassette
-ent-RMCCassetteTapeBase-desc = A plastic cassette tape.
+ent-RMCCassetteTapeBase-name = кассета
+ent-RMCCassetteTapeBase-desc = Пластиковая кассета.
 
-ent-RMCCassettePlayer-name = cassette player
-ent-RMCCassettePlayer-desc = A cassette player that first hit the market over 100 years ago. Crazy how these never went out of style.
+ent-RMCCassettePlayer-name = кассетный плеер
+ent-RMCCassettePlayer-desc = Кассетный проигрыватель, впервые появившийся на рынке более 100 лет назад. 
 

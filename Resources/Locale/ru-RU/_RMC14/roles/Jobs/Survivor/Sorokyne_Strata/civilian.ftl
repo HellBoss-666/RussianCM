@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetSoroCivilian-name = sorokyne civilian preset
+ent-RMCGearSurvivorPresetSoroCivilian-name = гражданский пресет сорокино
 
-ent-RMCSpawnPointSurvivorSoroCivilian-name = sorokyne civilian spawn point
-ent-RMCSpawnPointSurvivorSoroCivilian-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorSoroCivilian-name = Сорокино — точка возрождения гражданских лиц
+ent-RMCSpawnPointSurvivorSoroCivilian-desc = Создатель заданий RMC14. 
 

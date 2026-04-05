@@ -1,18 +1,18 @@
-ent-RMCAlienTank-name = cryo tank
-ent-RMCAlienTank-desc = There is something big inside...
+ent-RMCAlienTank-name = крио-танк
+ent-RMCAlienTank-desc = Внутри есть что-то большое...
 
-ent-RMCResearchThingies-name = jar shelf
+ent-RMCResearchThingies-name = полка для банок
 
-ent-RMCBaseAlienTank-name = cryo tank
+ent-RMCBaseAlienTank-name = крио-танк
 
-ent-RMCAlienTankEmpty-name = cryo tank
-ent-RMCAlienTankEmpty-desc = It is empty.
+ent-RMCAlienTankEmpty-name = крио-танк
+ent-RMCAlienTankEmpty-desc = Он пуст.
 
-ent-RMCAlienTankBroken-name = cryo tank
+ent-RMCAlienTankBroken-name = крио-танк
 
-ent-RMCAlienTankParasite-name = cryo tank
-ent-RMCAlienTankParasite-desc = There is something spider-like inside...
+ent-RMCAlienTankParasite-name = крио-танк
+ent-RMCAlienTankParasite-desc = Внутри что-то похожее на паука...
 
-ent-RMCAlienTankLarva-name = cryo tank
-ent-RMCAlienTankLarva-desc = There is something worm-like inside...
+ent-RMCAlienTankLarva-name = крио-танк
+ent-RMCAlienTankLarva-desc = Внутри что-то червеобразное...
 

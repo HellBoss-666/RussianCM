@@ -1,3 +1,3 @@
-ent-RMCBaseBullet-name = BaseBullet
-ent-RMCBaseBullet-desc = If you can see this you're probably dead!
+ent-RMCBaseBullet-name = БазаBullet
+ent-RMCBaseBullet-desc = Если ты это видишь, ты, вероятно, мертв!
 

@@ -1,10 +1,10 @@
-ent-RMCMechPropArmorBooster-name = Armor Booster Module (Close Combat Weaponry)
-ent-RMCMechPropArmorBooster-desc = Boosts exosuit armor against armed melee attacks. Requires energy to operate.
+ent-RMCMechPropArmorBooster-name = Броня-ускоритель модуль (Оружие ближнего боя)
+ent-RMCMechPropArmorBooster-desc = Усиливает экзокостюм Броня против вооруженных атак в ближнем бою. 
 
-ent-RMCMechPropClamp-name = Hydraulic Clamp
+ent-RMCMechPropClamp-name = Гидравлический зажим
 
-ent-RMCMechPropDrill-name = drill
-ent-RMCMechPropDrill-desc = This is the drill that'll pierce the heavens!
+ent-RMCMechPropDrill-name = сверлить
+ent-RMCMechPropDrill-desc = Это сверло, которое пронзит небеса!
 
-ent-RMCMechPropBase-name = item
+ent-RMCMechPropBase-name = элемент
 

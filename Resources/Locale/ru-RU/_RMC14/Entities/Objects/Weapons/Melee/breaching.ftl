@@ -1,3 +1,3 @@
-ent-RMCSynthBreachingHammer-name = b5 breaching hammer
-ent-RMCSynthBreachingHammer-desc = This 100-pound monstrosity of a sledgehammer is made of solid tungsten carbide and hits with enough force to level walls like they’re made of paper. It tears through steel and concrete without slowing down, and is completely unusable by anyone without superhuman strength. It’s too heavy for a normal person to even lift.
+ent-RMCSynthBreachingHammer-name = b5 пробивной молоток
+ent-RMCSynthBreachingHammer-desc = Это 100-фунтовое чудовище-кувалда сделано из твердого карбида вольфрама и бьет с такой силой, что выравнивает стены, как будто они сделаны из бумаги. 
 

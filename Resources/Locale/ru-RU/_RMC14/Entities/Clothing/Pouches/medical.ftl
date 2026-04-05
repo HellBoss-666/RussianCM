@@ -1,48 +1,48 @@
-ent-RMCPouchSyringe-name = syringe pouch
-ent-RMCPouchSyringe-desc = It can carry syringes.
+ent-RMCPouchSyringe-name = шприц-мешочек
+ent-RMCPouchSyringe-desc = Он может нести шприцы.
 
-ent-RMCPouchAutoinjector-name = auto-injector pouch
-ent-RMCPouchAutoinjector-desc = A pouch specifically for auto-injectors.
+ent-RMCPouchAutoinjector-name = чехол для автоинъектора
+ent-RMCPouchAutoinjector-desc = Чехол специально для автоинжекторов.
 
-ent-RMCPouchAutoinjectorFill-name = auto-injector pouch
-ent-RMCPouchAutoinjectorFill-desc = A pouch specifically for auto-injectors.
+ent-RMCPouchAutoinjectorFill-name = чехол для автоинъектора
+ent-RMCPouchAutoinjectorFill-desc = Чехол специально для автоинжекторов.
 
-ent-RMCPouchChem-name = chemist pouch
-ent-RMCPouchChem-desc = A pouch for carrying glass beakers.
+ent-RMCPouchChem-name = аптечная сумка
+ent-RMCPouchChem-desc = Сумка для переноски стеклянных стаканов.
 
-ent-RMCPouchVial-name = vial pouch
-ent-RMCPouchVial-desc = A pouch for carrying glass vials.
+ent-RMCPouchVial-name = мешочек для флаконов
+ent-RMCPouchVial-desc = Сумка для переноски стеклянных флаконов.
 
-ent-RMCPouchFirstResponder-name = first responder pouch
-ent-RMCPouchFirstResponder-desc = A pouch designed for carrying supplies to assist medical personnel and quickly respond to injuries on the battlefield without immediately treating them. Can hold supplies such as roller beds, stasis bags, and health analysers.
+ent-RMCPouchFirstResponder-name = сумка для экстренного реагирования
+ent-RMCPouchFirstResponder-desc = Подсумок, предназначенный для переноски принадлежностей для оказания помощи медицинскому персоналу и быстрого реагирования на травмы на поле боя без немедленной их оказания помощи. 
 
-ent-RMCPouchMedicalSocDutchUnmarked-name = tactical medical pouch
-ent-RMCPouchMedicalSocDutchUnmarked-desc = A heavy pouch containing everything one needs to get themselves back on their feet. Quite the selection. Somehow, the whole pouch manages to look classified, you feel like you're going to get court-marshalled for even looking at it.
+ent-RMCPouchMedicalSocDutchUnmarked-name = тактическая медицинская сумка
+ent-RMCPouchMedicalSocDutchUnmarked-desc = Тяжелая сумка, в которой есть все необходимое, чтобы снова встать на ноги. 
 
-ent-RMCPouchMedicalSocDutch-name = Dutch's Medical Pouch
-ent-RMCPouchMedicalSocDutch-desc = A pouch bought from a black market trader by Dutch quite a few years ago. Rumoured to be stolen from secret Marine assets. Its contents have been slowly used up and replaced over the years.
+ent-RMCPouchMedicalSocDutch-name = Медицинская сумка Датча
+ent-RMCPouchMedicalSocDutch-desc = Сумка, купленная голландцем у торговца на черном рынке несколько лет назад. 
 
-ent-RMCPouchMedicalSoc-name = tactical medical pouch
-ent-RMCPouchMedicalSoc-desc = A heavy pouch containing everything one needs to get themselves back on their feet. Quite the selection.
+ent-RMCPouchMedicalSoc-name = тактическая медицинская сумка
+ent-RMCPouchMedicalSoc-desc = Тяжелая сумка, в которой есть все необходимое, чтобы снова встать на ноги. 
 
-ent-RMCPouchMedicalSocFill-name = tactical medical pouch
-ent-RMCPouchMedicalSocFill-desc = A heavy pouch containing everything one needs to get themselves back on their feet. Quite the selection.
+ent-RMCPouchMedicalSocFill-name = тактическая медицинская сумка
+ent-RMCPouchMedicalSocFill-desc = Тяжелая сумка, в которой есть все необходимое, чтобы снова встать на ноги. 
 
-ent-RMCPouchMedicalSocDutchFill-name = Dutch's Medical Pouch
-ent-RMCPouchMedicalSocDutchFill-desc = A pouch bought from a black market trader by Dutch quite a few years ago. Rumoured to be stolen from secret Marine assets. Its contents have been slowly used up and replaced over the years.
+ent-RMCPouchMedicalSocDutchFill-name = Медицинская сумка Датча
+ent-RMCPouchMedicalSocDutchFill-desc = Сумка, купленная голландцем у торговца на черном рынке несколько лет назад. 
 
-ent-RMCPouchMedicalSocMarineRaiderFill-name = tactical medical pouch
-ent-RMCPouchMedicalSocMarineRaiderFill-desc = A heavy pouch containing everything one needs to get themselves back on their feet. Quite the selection.
+ent-RMCPouchMedicalSocMarineRaiderFill-name = тактическая медицинская сумка
+ent-RMCPouchMedicalSocMarineRaiderFill-desc = Тяжелая сумка, в которой есть все необходимое, чтобы снова встать на ноги. 
 
-ent-RMCPouchFirstResponderFill-name = first responder pouch
-ent-RMCPouchFirstResponderFill-desc = A pouch designed for carrying supplies to assist medical personnel and quickly respond to injuries on the battlefield without immediately treating them. Can hold supplies such as roller beds, stasis bags, and health analysers.
+ent-RMCPouchFirstResponderFill-name = сумка для экстренного реагирования
+ent-RMCPouchFirstResponderFill-desc = Подсумок, предназначенный для переноски принадлежностей для оказания помощи медицинскому персоналу и быстрого реагирования на травмы на поле боя без немедленной их оказания помощи. 
 
-ent-RMCPouchVialFill-name = vial pouch
-ent-RMCPouchVialFill-desc = A pouch for carrying glass vials.
+ent-RMCPouchVialFill-name = мешочек для флаконов
+ent-RMCPouchVialFill-desc = Сумка для переноски стеклянных флаконов.
 
-ent-RMCPouchChemFill-name = chemist pouch
-ent-RMCPouchChemFill-desc = A pouch for carrying glass beakers.
+ent-RMCPouchChemFill-name = аптечная сумка
+ent-RMCPouchChemFill-desc = Сумка для переноски стеклянных стаканов.
 
-ent-RMCPouchSyringeFill-name = syringe pouch
-ent-RMCPouchSyringeFill-desc = It can carry syringes.
+ent-RMCPouchSyringeFill-name = шприц-мешочек
+ent-RMCPouchSyringeFill-desc = Он может нести шприцы.
 

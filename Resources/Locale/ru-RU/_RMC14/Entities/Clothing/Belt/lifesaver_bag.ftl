@@ -1,21 +1,21 @@
-ent-RMCBeltMedicBagPMC-name = WY-TM625 pattern medical bag
-ent-RMCBeltMedicBagPMC-desc = The WY-TM625 is the standard load-bearing equipment of the W-Y security forces. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-RMCBeltMedicBagPMC-name = Медицинская сумка с узором WY-TM625
+ent-RMCBeltMedicBagPMC-desc = WY-TM625 является стандартным несущим оборудованием сил безопасности WY. 
 
-ent-CMBeltMedicBag-name = M276 pattern lifesaver bag
-ent-CMBeltMedicBag-desc = The M276 is the standard load-bearing equipment of the UNMC. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-CMBeltMedicBag-name = Спасательная сумка с узором M276
+ent-CMBeltMedicBag-desc = М276 является штатной несущей техникой UNMC. 
 
-ent-RMCBeltMedicBagERTFilled-name = M276 pattern lifesaver bag
-ent-RMCBeltMedicBagERTFilled-desc = The M276 is the standard load-bearing equipment of the UNMC. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-RMCBeltMedicBagERTFilled-name = Спасательная сумка с узором M276
+ent-RMCBeltMedicBagERTFilled-desc = М276 является штатной несущей техникой UNMC. 
 
-ent-RMCBeltMedicBagSPP-name = Type 41 pattern lifesaver bag
-ent-RMCBeltMedicBagSPP-desc = The Type 41 load rig is the standard load-bearing equipment of the SPP military. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-RMCBeltMedicBagSPP-name = Спасательная сумка типа 41
+ent-RMCBeltMedicBagSPP-desc = Грузовая установка Тип 41 является штатным силовым оборудованием военных СПП. 
 
-ent-RMCBeltMedicBagSPPCommandoFilled-name = Type 41 pattern lifesaver bag
-ent-RMCBeltMedicBagSPPCommandoFilled-desc = The Type 41 load rig is the standard load-bearing equipment of the SPP military. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-RMCBeltMedicBagSPPCommandoFilled-name = Спасательная сумка типа 41
+ent-RMCBeltMedicBagSPPCommandoFilled-desc = Грузовая установка Тип 41 является штатным силовым оборудованием военных СПП. 
 
-ent-RMCBeltMedicBagPMCFilled-name = WY-TM625 pattern medical bag
-ent-RMCBeltMedicBagPMCFilled-desc = The WY-TM625 is the standard load-bearing equipment of the W-Y security forces. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-RMCBeltMedicBagPMCFilled-name = Медицинская сумка с узором WY-TM625
+ent-RMCBeltMedicBagPMCFilled-desc = WY-TM625 является стандартным несущим оборудованием сил безопасности WY. 
 
-ent-RMCBeltMedicBagRoyal-name = M276 pattern lifesaver bag
-ent-RMCBeltMedicBagRoyal-desc = The M276 is the standard load-bearing equipment of the UNMC. This configuration mounts a duffel bag filled with a range of injectors and light medical supplies, and is common among medics.
+ent-RMCBeltMedicBagRoyal-name = Спасательная сумка с узором M276
+ent-RMCBeltMedicBagRoyal-desc = М276 является штатной несущей техникой UNMC. 
 

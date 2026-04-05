@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetArmyReservist-name = people's armed police officer preset
+ent-RMCGearSurvivorPresetArmyReservist-name = Предварительная настройка народного вооруженного полицейского
 
-ent-RMCSpawnPointSurvivorArmyReservist-name = army reservist spawn point
-ent-RMCSpawnPointSurvivorArmyReservist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorArmyReservist-name = точка появления армейских резервистов
+ent-RMCSpawnPointSurvivorArmyReservist-desc = Создатель заданий RMC14. 
 

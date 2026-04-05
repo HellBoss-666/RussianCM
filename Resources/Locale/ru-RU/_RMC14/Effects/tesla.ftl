@@ -1,2 +1,2 @@
-ent-EffectTeslaBeam-name = electric beam
+ent-EffectTeslaBeam-name = электрический луч
 

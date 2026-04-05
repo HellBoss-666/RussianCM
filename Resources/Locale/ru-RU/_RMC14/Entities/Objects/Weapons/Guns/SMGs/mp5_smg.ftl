@@ -1,10 +1,10 @@
-ent-CMCartridge9mmSMG-name = cartridge (10x20mm)
+ent-CMCartridge9mmSMG-name = картридж (10х20мм)
 
-ent-CMMagazineSMGMP5-name = item
+ent-CMMagazineSMGMP5-name = элемент
 
-ent-WeaponSMGMP5-name = MP5 submachinegun
-ent-WeaponSMGMP5-desc = A German design, this was one of the most widely used submachine guns in the world. It's still possible to find this firearm in the hands of collectors or gun fanatics.
+ent-WeaponSMGMP5-name = Пистолет-пулемет МП5
+ent-WeaponSMGMP5-desc = Немецкая конструкция, это был один из наиболее широко используемых пистолетов-пулеметов в мире. 
 
-ent-CMBullet9mmSMG-name = BaseBullet
-ent-CMBullet9mmSMG-desc = If you can see this you're probably dead!
+ent-CMBullet9mmSMG-name = БазаBullet
+ent-CMBullet9mmSMG-desc = Если ты это видишь, ты, вероятно, мертв!
 

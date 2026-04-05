@@ -1,33 +1,33 @@
-ent-RMCHeadRoyalHelmetBallistic-name = royal L5A3 ballistic helmet
-ent-RMCHeadRoyalHelmetBallistic-desc = A high-cut ballistic helmet featuring an attached mandible. Designed to be used by Royal Crown Marines as part of the Kestrel armour system.
+ent-RMCHeadRoyalHelmetBallistic-name = королевский баллистический Шлем L5A3
+ent-RMCHeadRoyalHelmetBallistic-desc = Баллистический шлем с высоким вырезом и прикрепленной нижней челюстью. 
 
-ent-RMCHeadRoyalHelmet-name = royal L5A2 ballistic helmet
-ent-RMCHeadRoyalHelmet-desc = A high-cut ballistic helmet. Designed to be used by Royal Crown Marines as part of the Kestrel armour system.
+ent-RMCHeadRoyalHelmet-name = королевский баллистический Шлем L5A2
+ent-RMCHeadRoyalHelmet-desc = Баллистический Шлем с высоким вырезом. 
 
-ent-RMCHeadRoyalBeretLead-name = royal marine leader beret
-ent-RMCHeadRoyalBeretLead-desc = A green beret belonging to the Royal Crown Marines.
+ent-RMCHeadRoyalBeretLead-name = берет королевского лидера Морпеха
+ent-RMCHeadRoyalBeretLead-desc = Зеленый берет, принадлежащий Королевской морской пехоте.
 
-ent-RMCHeadRoyalBeret-name = royal marine beret
-ent-RMCHeadRoyalBeret-desc = A green beret belonging to the Royal Crown Marines.
+ent-RMCHeadRoyalBeret-name = королевский берет Морпех
+ent-RMCHeadRoyalBeret-desc = Зеленый берет, принадлежащий Королевской морской пехоте.
 
-ent-RMCHeadRoyalTurban-name = royal marine turban
-ent-RMCHeadRoyalTurban-desc = A standard military turban found in the Royal Crown Marines. Considered a rare item, these kind of turbans are prized by collectors.
+ent-RMCHeadRoyalTurban-name = королевский тюрбан Морпех
+ent-RMCHeadRoyalTurban-desc = Стандартный военный тюрбан, найденный у Королевской морской пехоты. 
 
-ent-RMCHeadRoyalBeanie-name = royal marine beanie
-ent-RMCHeadRoyalBeanie-desc = A standard military beanie.
+ent-RMCHeadRoyalBeanie-name = королевская шапка Морпех
+ent-RMCHeadRoyalBeanie-desc = Стандартная военная шапка.
 
-ent-RMCHeadParaBeret-name = paramarine beret
-ent-RMCHeadParaBeret-desc = A distinctive crimson beret worn by the RCM's Paramarine regiments. Reinforced with flexible Kevlar, it offers minimal protection while maintaining a traditional and respected appearance.
+ent-RMCHeadParaBeret-name = парамариновый берет
+ent-RMCHeadParaBeret-desc = Характерный малиновый берет, который носят парамариновые полки RCM. 
 
-ent-RMCHeadParaBeretLead-name = paramarine team lead beret
-ent-RMCHeadParaBeretLead-desc = A distinctive crimson beret worn by NCOs of the RCM's Paramarine regiments. Reinforced with flexible Kevlar, it offers minimal protection while maintaining a traditional and respected appearance.
+ent-RMCHeadParaBeretLead-name = берет командира группы парамаринов
+ent-RMCHeadParaBeretLead-desc = Характерный малиновый берет, который носят унтер-офицеры парамариновых полков РКМ. 
 
-ent-RMCHeadCapPeakedPara-name = paramarine officer's service cap
-ent-RMCHeadCapPeakedPara-desc = A distinguished service cap worn by officers of the RCM's Paramarine regiments. Featuring a crimson band, gold RCM-P emblem, and a black patent peak, it reflects the discipline and authority of the Empire’s paramarine command.
+ent-RMCHeadCapPeakedPara-name = фуражка офицера-парамарина
+ent-RMCHeadCapPeakedPara-desc = Выдающаяся фуражка, которую носят офицеры парамариновых полков РКМ. 
 
-ent-RMCHeadRoyalL1HelmetBallistic-name = L1 ballistic helmet
-ent-RMCHeadRoyalL1HelmetBallistic-desc = A versatile ballistic helmet designed by Weston-Yamada for general use across various branches of the TSE military and affiliated organizations. Drawing some design inspiration from the UNMC’s M10 Pattern Helmet, the L1 offers reliable protection against shrapnel and ballistic threats..
+ent-RMCHeadRoyalL1HelmetBallistic-name = Баллистический Шлем L1
+ent-RMCHeadRoyalL1HelmetBallistic-desc = Универсальный баллистический шлем, разработанный Weston-Yamada для общего использования в различных подразделениях вооруженных сил TSE и связанных с ними организациях. 
 
-ent-RMCHeadRoyalFlightHelmet-name = PH-4 'Spitfire' flight helmet
-ent-RMCHeadRoyalFlightHelmet-desc = Standard flight helmet used across the Three Suns Empire’s aerospace forces, from fighter pilots to atmospheric crews. This PH-4 variant is tailored for dropship operations in space, featuring reinforced plating, HUD optics, and encrypted comms. Essential for high-risk insertions, landings, and exfil missions. Nicknamed “Spitfire” for its reliability under fire.
+ent-RMCHeadRoyalFlightHelmet-name = PH-4 'Спитфайр' рейс Шлем
+ent-RMCHeadRoyalFlightHelmet-desc = Стандартный полет Шлема, используемый в аэрокосмических силах Империи Трех Солнц, от пилотов-истребителей до атмосферных экипажей. 
 

@@ -1,2 +1,2 @@
-ent-CMBedsheetSpawner-name = Random Sheet Spawner
+ent-CMBedsheetSpawner-name = Случайный генератор листов
 

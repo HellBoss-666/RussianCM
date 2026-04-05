@@ -1,6 +1,6 @@
-ent-RMCGuidebookRoleCMP-name = The Chief MP
-ent-RMCGuidebookRoleCMP-desc = The Chief of Military Police.
+ent-RMCGuidebookRoleCMP-name = Главный депутат
+ent-RMCGuidebookRoleCMP-desc = Начальник военной полиции.
 
-ent-CMSpawnPointChiefMP-name = chief mp spawn point
-ent-CMSpawnPointChiefMP-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointChiefMP-name = точка появления главного депутата
+ent-CMSpawnPointChiefMP-desc = Создатель заданий RMC14. 
 

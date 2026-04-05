@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidHEFAShrapnelswornMeleeFriendly-name = hefa ghost role shrapnelsworn
+ent-RMCRandomHumanoidHEFAShrapnelswornMeleeFriendly-name = роль призрака хефа
 
-ent-RMCRandomHumanoidHEFAShrapnelswornMeleeHostile-name = hefa ghost role shrapnelsworn
+ent-RMCRandomHumanoidHEFAShrapnelswornMeleeHostile-name = роль призрака хефа
 

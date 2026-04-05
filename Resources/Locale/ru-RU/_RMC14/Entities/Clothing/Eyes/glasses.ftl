@@ -1,159 +1,159 @@
-ent-RMCGlassesMonocle-name = monocle
-ent-RMCGlassesMonocle-desc = Such a dapper eyepiece!
+ent-RMCGlassesMonocle-name = монокль
+ent-RMCGlassesMonocle-desc = Какой классный окуляр!
 
-ent-RMCGlassesJensen-name = augmented shades
-ent-RMCGlassesJensen-desc = Polarized bioneural eyewear, designed to augment your vision. Why don't you try getting a job?
+ent-RMCGlassesJensen-name = расширенные оттенки
+ent-RMCGlassesJensen-desc = Поляризационные бионейронные очки, предназначенные для улучшения вашего зрения. 
 
-ent-RMCGogglesKutjevo-name = kutjevo goggles
-ent-RMCGogglesKutjevo-desc = Goggles used to shield the eyes of workers on Kutjevo. N95Z Rated Goggles.
+ent-RMCGogglesKutjevo-name = кутьево очки
+ent-RMCGogglesKutjevo-desc = Раньше рабочие на Кутьево закрывали глаза очками. 
 
-ent-RMCWeldingGogglesSuperior-name = superior welding goggles
-ent-RMCWeldingGogglesSuperior-desc = Welding goggles made from more expensive materials, strangely smells like potatoes.
+ent-RMCWeldingGogglesSuperior-name = превосходные сварочные очки
+ent-RMCWeldingGogglesSuperior-desc = Сварочные очки, изготовленные из более дорогих материалов, странно пахнут картошкой.
 
-ent-RMCWeldingGoggles-name = welding goggles
-ent-RMCWeldingGoggles-desc = Protects the eyes from welders, approved by the mad scientist association.
+ent-RMCWeldingGoggles-name = сварочные очки
+ent-RMCWeldingGoggles-desc = Защищает глаза от сварщиков, одобрено ассоциацией сумасшедших ученых.
 
-ent-RMCHippieGlassesSunset-name = StarTex-Sightwear sunset rounded shades
-ent-RMCHippieGlassesSunset-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesSunset-name = StarTex-Sightwear солнцезащитные очки с закругленными углами
+ent-RMCHippieGlassesSunset-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlassesSunrise-name = StarTex-Sightwear sunrise rounded shades
-ent-RMCHippieGlassesSunrise-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesSunrise-name = StarTex-Sightwear солнцезащитные очки с закругленными углами
+ent-RMCHippieGlassesSunrise-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlassesPink-name = StarTex-Sightwear pink rounded shades
-ent-RMCHippieGlassesPink-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesPink-name = StarTex-Sightwear розовые округлые оттенки
+ent-RMCHippieGlassesPink-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlassesNightblue-name = StarTex-Sightwear nightblue rounded shades
-ent-RMCHippieGlassesNightblue-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesNightblue-name = StarTex-Sightwear темно-синие закругленные оттенки
+ent-RMCHippieGlassesNightblue-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlassesMidnight-name = StarTex-Sightwear midnight rounded shades
-ent-RMCHippieGlassesMidnight-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesMidnight-name = StarTex-Sightwear полуночные закругленные оттенки
+ent-RMCHippieGlassesMidnight-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlassesGreen-name = StarTex-Sightwear green rounded shades
-ent-RMCHippieGlassesGreen-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesGreen-name = StarTex-Sightwear зеленые закругленные оттенки
+ent-RMCHippieGlassesGreen-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlassesBloodred-name = StarTex-Sightwear bloodred rounded shades
-ent-RMCHippieGlassesBloodred-desc = Colorful, rounded shades from StarTex-Sightware, embraced by free spirits and those who march to the beat of their own drum. These vibrant, retro-inspired shades offer adequate protection against flashes while adding a touch of laid-back, bohemian style to any look.
+ent-RMCHippieGlassesBloodred-name = StarTex-Sightwear кроваво-красные закругленные очки
+ent-RMCHippieGlassesBloodred-desc = Красочные округлые очки от StarTex-Sightware, любимые свободным духом и теми, кто марширует в такт своему барабану. 
 
-ent-RMCHippieGlasses-name = rounded prescription glasses
-ent-RMCHippieGlasses-desc = Boring glasses, makes you look smart and potentially reputable.
+ent-RMCHippieGlasses-name = закругленные очки по рецепту
+ent-RMCHippieGlasses-desc = Скучные очки заставят вас выглядеть умным и потенциально авторитетным.
 
-ent-RMCHipsterGlasses-name = prescription glasses
-ent-RMCHipsterGlasses-desc = Boring glasses, makes you look smart and potentially reputable.
+ent-RMCHipsterGlasses-name = очки по рецепту
+ent-RMCHipsterGlasses-desc = Скучные очки заставят вас выглядеть умным и потенциально авторитетным.
 
-ent-RMCGlassesAviators-name = aviator shades
-ent-RMCGlassesAviators-desc = A pair of tan tinted sunglasses. You can faintly hear 80's music playing while wearing these.
+ent-RMCGlassesAviators-name = очки-авиаторы
+ent-RMCGlassesAviators-desc = Пара солнцезащитных очков коричневого цвета. 
 
-ent-RMCGlassesTriMaxBlackFake-name = TriMex Tactical Shades
-ent-RMCGlassesTriMaxBlackFake-desc = These are a bargain-bin pair of TriMax-style sunglasses—emphasis on the style.
+ent-RMCGlassesTriMaxBlackFake-name = Тактические очки TriMex
+ent-RMCGlassesTriMaxBlackFake-desc = Это выгодная пара солнцезащитных очков в стиле TriMax — акцент на стиле.
 
-ent-RMCGlassesTriMaxYellowFake-name = TriMex 'Polarized' Shades
-ent-RMCGlassesTriMaxYellowFake-desc = These are a bargain-bin pair of TriMax-style sunglasses—emphasis on the style.
+ent-RMCGlassesTriMaxYellowFake-name = TriMex «Поляризованные» оттенки
+ent-RMCGlassesTriMaxYellowFake-desc = Это выгодная пара солнцезащитных очков в стиле TriMax — акцент на стиле.
 
-ent-RMCSunglassesBigFake-name = TriMex personal shades
-ent-RMCSunglassesBigFake-desc = These are a bargain-bin pair of TriMax-style sunglasses—emphasis on the style.
+ent-RMCSunglassesBigFake-name = Персональные шторы TriMex
+ent-RMCSunglassesBigFake-desc = Это выгодная пара солнцезащитных очков в стиле TriMax — акцент на стиле.
 
-ent-RMCGlassesTriMaxBlack-name = TriMax Tactical Shades
-ent-RMCGlassesTriMaxBlack-desc = Sleek, angular shades designed for the modern operator.
+ent-RMCGlassesTriMaxBlack-name = Тактические очки TriMax
+ent-RMCGlassesTriMaxBlack-desc = Изящные угловатые шторы, созданные для современного оператора.
 
-ent-RMCGlassesTriMaxYellow-name = TriMax Polarized Shades
-ent-RMCGlassesTriMaxYellow-desc = Sleek, angular shades designed for the modern operator.
+ent-RMCGlassesTriMaxYellow-name = Поляризованные оттенки TriMax
+ent-RMCGlassesTriMaxYellow-desc = Изящные угловатые шторы, созданные для современного оператора.
 
-ent-RMCSunglassesBig-name = TriMax personal shades
-ent-RMCSunglassesBig-desc = These are an expensive pair of TriMax sunglasses. This brand is popular with UNMC foot sloggers because its patented mirror refraction has been said to offer protection from atomic flash, solar radiation, and targeting lasers. To top it all off, everyone seems to know a guy who knows a guy who knows a guy that had a laser pistol reflect off of his shades. TriMax came into popularity with the Marines after its 'Save the Colonies and Look Cool Doing It' ad campaign.
+ent-RMCSunglassesBig-name = Персональные шторы TriMax
+ent-RMCSunglassesBig-desc = Это дорогая пара солнцезащитных очков TriMax. 
 
-ent-RMCEyepatch-name = eyepatch
-ent-RMCEyepatch-desc = Once worn by swashbucklers of old, now more commonly associated with a figure of legend. They say he was big AND a boss. Impressive no? Don't let the MPs see you wearing this non-regulation attire.
+ent-RMCEyepatch-name = повязка на глазу
+ent-RMCEyepatch-desc = Когда-то в старину его носили головорезы, а теперь чаще ассоциируют с легендарной фигурой. 
 
-ent-RMCPrescriptionSunglasses-name = prescription sunglasses
-ent-RMCPrescriptionSunglasses-desc = A mixture of coolness and the inherent nerdiness of a prescription. Somehow manages to conceal both.
+ent-RMCPrescriptionSunglasses-name = солнцезащитные очки по рецепту
+ent-RMCPrescriptionSunglasses-desc = Смесь крутости и присущей рецепту занудности. 
 
-ent-RMCSunglasses-name = sunglasses
-ent-RMCSunglasses-desc = Generic off-brand eyewear, used to help provide rudimentary eye cover.
+ent-RMCSunglasses-name = солнцезащитные очки
+ent-RMCSunglasses-desc = Обычные очки других производителей, используемые для обеспечения элементарного прикрытия глаз.
 
-ent-RMCGogglesBallisticSquad-name = Advanced ballistic goggles
-ent-RMCGogglesBallisticSquad-desc = Cutting edge UNMC goggles. Advanced polymers and expensive nanotechnology allow the goggles to link with the wearer's armor and change the color of the lenses to match their squad designation. The lenses are invisible when worn by the unworthy.
+ent-RMCGogglesBallisticSquad-name = Усовершенствованные баллистические очки
+ent-RMCGogglesBallisticSquad-desc = Ультрасовременные очки UNMC. 
 
-ent-RMCGogglesM1A1BallisticBlue-name = blue marine ballistic goggles
-ent-RMCGogglesM1A1BallisticBlue-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has blue colored day lenses.
+ent-RMCGogglesM1A1BallisticBlue-name = баллистические очки Морпех синего цвета
+ent-RMCGogglesM1A1BallisticBlue-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesPrescriptionBallistic-name = prescription marine ballistic goggles
-ent-RMCGogglesPrescriptionBallistic-desc = Standard issue UNMC goggles. Mostly used to decorate one's helmet. Contains prescription lenses in case you weren't sure if they were lame or not.
+ent-RMCGogglesPrescriptionBallistic-name = баллистические очки Морпех по рецепту
+ent-RMCGogglesPrescriptionBallistic-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesM1A1Ballistic-name = M1A1 marine ballistic goggles
-ent-RMCGogglesM1A1Ballistic-desc = Newer issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger lenses.
+ent-RMCGogglesM1A1Ballistic-name = Баллистические очки М1А1 Морпех
+ent-RMCGogglesM1A1Ballistic-desc = Очки UNMC нового выпуска. 
 
-ent-RMCGogglesBallisticPolarizedOrange-name = M1A1 marine polarized ballistic goggles
-ent-RMCGogglesBallisticPolarizedOrange-desc = Newer issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger polarized lenses.
+ent-RMCGogglesBallisticPolarizedOrange-name = Поляризационные баллистические очки М1А1 Морпех
+ent-RMCGogglesBallisticPolarizedOrange-desc = Очки UNMC нового выпуска. 
 
-ent-RMCGogglesBallisticPolarizedBlue-name = M1A1 marine polarized ballistic goggles
-ent-RMCGogglesBallisticPolarizedBlue-desc = Newer issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This version has larger polarized lenses.
+ent-RMCGogglesBallisticPolarizedBlue-name = Поляризационные баллистические очки М1А1 Морпех
+ent-RMCGogglesBallisticPolarizedBlue-desc = Очки UNMC нового выпуска. 
 
-ent-RMCGogglesBallisticYellow-name = yellow marine ballistic goggles
-ent-RMCGogglesBallisticYellow-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has yellow colored day lenses.
+ent-RMCGogglesBallisticYellow-name = баллистические очки Морпех желтого цвета
+ent-RMCGogglesBallisticYellow-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesBallisticPurple-name = purple marine ballistic goggles
-ent-RMCGogglesBallisticPurple-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has purple colored day lenses.
+ent-RMCGogglesBallisticPurple-name = баллистические очки Морпех фиолетового цвета
+ent-RMCGogglesBallisticPurple-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesBallisticBlue-name = blue marine ballistic goggles
-ent-RMCGogglesBallisticBlue-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has blue colored day lenses.
+ent-RMCGogglesBallisticBlue-name = баллистические очки Морпех синего цвета
+ent-RMCGogglesBallisticBlue-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesBallisticRed-name = red marine ballistic goggles
-ent-RMCGogglesBallisticRed-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has scarlet colored day lenses.
+ent-RMCGogglesBallisticRed-name = красные баллистические очки Морпех
+ent-RMCGogglesBallisticRed-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesBallisticOrange-name = orange marine ballistic goggles
-ent-RMCGogglesBallisticOrange-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has amber colored day lenses.
+ent-RMCGogglesBallisticOrange-name = баллистические очки Морпех оранжевого цвета
+ent-RMCGogglesBallisticOrange-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesBallisticBlack-name = black marine ballistic goggles
-ent-RMCGogglesBallisticBlack-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes. This one has black tinted lenses.
+ent-RMCGogglesBallisticBlack-name = баллистические очки Морпех черного цвета
+ent-RMCGogglesBallisticBlack-desc = Стандартные очки UNMC. 
 
-ent-RMCGogglesBallistic-name = marine ballistic goggles
-ent-RMCGogglesBallistic-desc = Standard issue UNMC goggles. While commonly found mounted atop M10 pattern helmets, they are also capable of preventing insects, dust, and other things from getting into one's eyes.
+ent-RMCGogglesBallistic-name = Баллистические очки Морпех
+ent-RMCGogglesBallistic-desc = Стандартные очки UNMC. 
 
-ent-RMCGlassesMarineRpgOld-name = old marine RPG glasses
-ent-RMCGlassesMarineRpgOld-desc = The Corps may call them Regulation Prescription Glasses but you know them as Rut Prevention Glasses.
+ent-RMCGlassesMarineRpgOld-name = старые очки Морпех от РПГ
+ent-RMCGlassesMarineRpgOld-desc = В Корпусе они могут называться очками по рецепту, но вы знаете их как очки для предотвращения гона.
 
-ent-RMCGlassesMarineRpg-name = marine RPG glasses
-ent-RMCGlassesMarineRpg-desc = The Corps may call them Regulation Prescription Glasses but you know them as Rut Prevention Glasses.
+ent-RMCGlassesMarineRpg-name = Морпех РПГ очки
+ent-RMCGlassesMarineRpg-desc = В Корпусе они могут называться очками по рецепту, но вы знаете их как очки для предотвращения гона.
 
-ent-RMCGlassesReagentHUDGlasses-name = reagent scanner HUD goggles
-ent-RMCGlassesReagentHUDGlasses-desc = These goggles are probably of use to someone who isn't holding a rifle and actively seeking to lower their combat life expectancy.
+ent-RMCGlassesReagentHUDGlasses-name = сканер реагентов, очки HUD
+ent-RMCGlassesReagentHUDGlasses-desc = Эти очки, вероятно, пригодятся тем, кто не держит в руках винтовку и активно стремится сократить свой боевой срок службы.
 
-ent-RMCGlassesHUDSecurity-name = PatrolMate HUD
-ent-RMCGlassesHUDSecurity-desc = A heads-up display that scans the humans in view and provides accurate data about their ID status and security records.
+ent-RMCGlassesHUDSecurity-name = Интерфейс PatrolMate
+ent-RMCGlassesHUDSecurity-desc = Проекционный дисплей, который сканирует людей в поле зрения и предоставляет точные данные об их идентификационном статусе и записях безопасности.
 
 ent-RMCGlassesMedicalHUDGlasses-name = HealthMate HUD
-ent-RMCGlassesMedicalHUDGlasses-desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.
+ent-RMCGlassesMedicalHUDGlasses-desc = Проекционный дисплей, который сканирует гуманоидов в поле зрения и предоставляет точные данные о состоянии их здоровья.
 
-ent-RMCGlassesExperimentalMeson-name = experimental meson goggles
-ent-RMCGlassesExperimentalMeson-desc = An improved but experimental version of the standard issue meson goggles, due to increased complexity these can only be worn by synthetics. Allows for full night vision.
+ent-RMCGlassesExperimentalMeson-name = экспериментальные мезонные очки
+ent-RMCGlassesExperimentalMeson-desc = Улучшенная, но экспериментальная версия стандартных мезонных очков, из-за повышенной сложности их могут носить только синтетики. 
 
-ent-RMCGlassesSmartGunSight-name = ML66A head mounted sight
-ent-RMCGlassesSmartGunSight-desc = A headset and goggles system for the ML66A Smart Gun.
+ent-RMCGlassesSmartGunSight-name = Головной прицел МЛ66А
+ent-RMCGlassesSmartGunSight-desc = Система гарнитуры и очков для интеллектуального пистолета ML66A.
 
-ent-RMCGlassesM4SPRBattleSight-name = M4SPR Battle Sight
-ent-RMCGlassesM4SPRBattleSight-desc = A headset and night vision sighting system for the M4SPR Custom Battle Rifle. Allows highlighted imaging of surroundings, as well as the ability to view the suit sensor health status readouts of other marines.
+ent-RMCGlassesM4SPRBattleSight-name = Боевой прицел M4SPR
+ent-RMCGlassesM4SPRBattleSight-desc = Гарнитура и прицел ночного видения для боевой винтовки M4SPR Custom. 
 
-ent-CMGlassesM42ScoutSight-name = M96 scout sight
-ent-CMGlassesM42ScoutSight-desc = A headset and night vision sighting system for the M96 Scout Rifle. Allows highlighted imaging of surroundings.
+ent-CMGlassesM42ScoutSight-name = Разведывательный прицел М96
+ent-CMGlassesM42ScoutSight-desc = Гарнитура и прицел ночного видения для винтовки M96 Scout. 
 
-ent-CMGlassesSecurity-name = security HUD-glasses
-ent-CMGlassesSecurity-desc = Sunglasses wired up with the best nano-tech the UNMC can muster out on the frontier. Displays information about any person you decree worthy of your gaze.
+ent-CMGlassesSecurity-name = защитные HUD-очки
+ent-CMGlassesSecurity-desc = Солнцезащитные очки оснащены лучшими нанотехнологиями, которые UNMC может собрать на границе. 
 
-ent-RMCGlassesSecurityBlue-name = security HUD-glasses
-ent-RMCGlassesSecurityBlue-desc = Sunglasses wired up with the best nano-tech the UNMC can muster out on the frontier. Displays information about any person you decree worthy of your gaze.
+ent-RMCGlassesSecurityBlue-name = защитные HUD-очки
+ent-RMCGlassesSecurityBlue-desc = Солнцезащитные очки оснащены лучшими нанотехнологиями, которые UNMC может собрать на границе. 
 
-ent-RMCGlassesSecuritySwat-name = tactical SWAT HUD
-ent-RMCGlassesSecuritySwat-desc = Flash-resistant goggles with inbuilt combat and security information.
+ent-RMCGlassesSecuritySwat-name = тактический SWAT HUD
+ent-RMCGlassesSecuritySwat-desc = Устойчивые к вспышкам очки со встроенной боевой и охранной информацией.
 
-ent-RMCGlassesSPPCommandoNightVision-name = Type 9 commando goggles
-ent-RMCGlassesSPPCommandoNightVision-desc = A headset and night vision goggles system used by SPP forces. Allows highlighted imaging of surroundings.
+ent-RMCGlassesSPPCommandoNightVision-name = Очки коммандос Тип 9
+ent-RMCGlassesSPPCommandoNightVision-desc = Гарнитура и система ночного видения, используемые силами СПП. 
 
-ent-RMCGlassesTriMaxBronze-name = TriMax Polarized Shades
-ent-RMCGlassesTriMaxBronze-desc = Sleek, angular shades designed for the modern operator.
+ent-RMCGlassesTriMaxBronze-name = Поляризованные оттенки TriMax
+ent-RMCGlassesTriMaxBronze-desc = Изящные угловатые шторы, созданные для современного оператора.
 
-ent-RMCGlassesTriMaxBronzeFake-name = TriMex 'Polarized' Shades
-ent-RMCGlassesTriMaxBronzeFake-desc = These are a bargain-bin pair of TriMax-style sunglasses—emphasis on the style.
+ent-RMCGlassesTriMaxBronzeFake-name = TriMex «Поляризованные» оттенки
+ent-RMCGlassesTriMaxBronzeFake-desc = Это выгодная пара солнцезащитных очков в стиле TriMax — акцент на стиле.
 
-ent-RMCGlassesAviatorsSilver-name = aviator shades
-ent-RMCGlassesAviatorsSilver-desc = A pair of silver tinted sunglasses. You can faintly hear 80's music playing while wearing these.
+ent-RMCGlassesAviatorsSilver-name = очки-авиаторы
+ent-RMCGlassesAviatorsSilver-desc = Пара солнцезащитных очков серебристого оттенка. 
 

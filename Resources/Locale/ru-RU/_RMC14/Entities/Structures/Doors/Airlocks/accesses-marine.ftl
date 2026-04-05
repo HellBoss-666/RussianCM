@@ -1,117 +1,117 @@
-ent-CMAirlockPrepDeltaFTL-name = delta squad fireteam leader preparations
-ent-CMAirlockPrepDeltaFTL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaFTL-name = подготовка командира огневой группы отряда Дельта
+ent-CMAirlockPrepDeltaFTL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaSmart-name = delta squad smart gun operator preparations
-ent-CMAirlockPrepDeltaSmart-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaSmart-name = подготовка оператора умного оружия отряда Дельта
+ent-CMAirlockPrepDeltaSmart-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaMedical-name = delta squad medical preparations
-ent-CMAirlockPrepDeltaMedical-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaMedical-name = медицинские препараты отряда Дельта
+ent-CMAirlockPrepDeltaMedical-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaEngineer-name = delta squad comtech preparations
-ent-CMAirlockPrepDeltaEngineer-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaEngineer-name = подготовка комтех-отряда Дельта
+ent-CMAirlockPrepDeltaEngineer-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaSpec-name = delta squad specialist preparations
-ent-CMAirlockPrepDeltaSpec-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaSpec-name = подготовка специалистов отряда «Дельта»
+ent-CMAirlockPrepDeltaSpec-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaSL-name = delta squad leader preparations
-ent-CMAirlockPrepDeltaSL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaSL-name = подготовка командира отряда Дельта
+ent-CMAirlockPrepDeltaSL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieFTL-name = charlie squad fireteam leader preparations
-ent-CMAirlockPrepCharlieFTL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieFTL-name = подготовка командира боевой группы отряда Чарли
+ent-CMAirlockPrepCharlieFTL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieSmart-name = charlie squad smart gun operator preparations
-ent-CMAirlockPrepCharlieSmart-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieSmart-name = Подготовка оператора умного оружия отряда Чарли
+ent-CMAirlockPrepCharlieSmart-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieMedical-name = charlie squad medical preparations
-ent-CMAirlockPrepCharlieMedical-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieMedical-name = Медицинские препараты отряда Чарли
+ent-CMAirlockPrepCharlieMedical-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieEngineer-name = charlie squad comtech preparations
-ent-CMAirlockPrepCharlieEngineer-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieEngineer-name = Подготовка отряда Чарли к компьютерным технологиям
+ent-CMAirlockPrepCharlieEngineer-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieSpec-name = charlie squad specialist preparations
-ent-CMAirlockPrepCharlieSpec-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieSpec-name = подготовка специалиста отряда Чарли
+ent-CMAirlockPrepCharlieSpec-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieSL-name = charlie squad leader preparations
-ent-CMAirlockPrepCharlieSL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieSL-name = Подготовка лидера отряда Чарли
+ent-CMAirlockPrepCharlieSL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoFTL-name = bravo squad fireteam leader preparations
-ent-CMAirlockPrepBravoFTL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoFTL-name = подготовка командира огневой группы отряда Браво
+ent-CMAirlockPrepBravoFTL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoSmart-name = bravo squad smart gun operator preparations
-ent-CMAirlockPrepBravoSmart-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoSmart-name = подготовка оператора умного оружия отряда Браво
+ent-CMAirlockPrepBravoSmart-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoMedical-name = bravo squad medical preparations
-ent-CMAirlockPrepBravoMedical-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoMedical-name = медицинские препараты отряда браво
+ent-CMAirlockPrepBravoMedical-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoEngineer-name = bravo squad comtech preparations
-ent-CMAirlockPrepBravoEngineer-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoEngineer-name = подготовка к компьютерным технологиям отряда браво
+ent-CMAirlockPrepBravoEngineer-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoSpec-name = bravo squad specialist preparations
-ent-CMAirlockPrepBravoSpec-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoSpec-name = подготовка специалистов отряда Браво
+ent-CMAirlockPrepBravoSpec-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoSL-name = bravo squad leader preparations
-ent-CMAirlockPrepBravoSL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoSL-name = подготовка командира отряда браво
+ent-CMAirlockPrepBravoSL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaFTL-name = alpha squad fireteam leader preparations
-ent-CMAirlockPrepAlphaFTL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaFTL-name = подготовка командира огневой группы отряда «Альфа»
+ent-CMAirlockPrepAlphaFTL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaSmart-name = alpha squad smart gun operator preparations
-ent-CMAirlockPrepAlphaSmart-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaSmart-name = подготовка операторов умного оружия отряда альфа
+ent-CMAirlockPrepAlphaSmart-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaMedical-name = alpha squad medical preparations
-ent-CMAirlockPrepAlphaMedical-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaMedical-name = медицинские препараты отряда альфа
+ent-CMAirlockPrepAlphaMedical-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaEngineer-name = alpha squad comtech preparations
-ent-CMAirlockPrepAlphaEngineer-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaEngineer-name = подготовка к комтех-отряду Альфа
+ent-CMAirlockPrepAlphaEngineer-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaSpec-name = alpha squad specialist preparations
-ent-CMAirlockPrepAlphaSpec-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaSpec-name = подготовка специалистов отряда «Альфа»
+ent-CMAirlockPrepAlphaSpec-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaSL-name = alpha squad leader preparations
-ent-CMAirlockPrepAlphaSL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaSL-name = подготовка командира отряда «Альфа»
+ent-CMAirlockPrepAlphaSL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepFTL-name = squad fireteam leader preparations
-ent-CMAirlockPrepFTL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepFTL-name = подготовка командира огневой группы отделения
+ent-CMAirlockPrepFTL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepSmart-name = squad smart gun operator preparations
-ent-CMAirlockPrepSmart-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepSmart-name = подготовка оператора умного оружия отряда
+ent-CMAirlockPrepSmart-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepMedical-name = squad medical preparations
-ent-CMAirlockPrepMedical-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepMedical-name = медицинские препараты отряда
+ent-CMAirlockPrepMedical-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepEngineer-name = squad comtech preparations
-ent-CMAirlockPrepEngineer-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepEngineer-name = подготовка отряда к комтеху
+ent-CMAirlockPrepEngineer-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepSpec-name = squad specialist preparations
-ent-CMAirlockPrepSpec-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepSpec-name = подготовка специалистов отряда
+ent-CMAirlockPrepSpec-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepSL-name = squad leader preparations
-ent-CMAirlockPrepSL-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepSL-name = подготовка командира отделения
+ent-CMAirlockPrepSL-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepLocked-name = preparations airlock
-ent-CMAirlockPrepLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepLocked-name = приготовления шлюзовой шлюз
+ent-CMAirlockPrepLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaCommon-name = alpha squad preparations
-ent-CMAirlockPrepAlphaCommon-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaCommon-name = подготовка отряда альфа
+ent-CMAirlockPrepAlphaCommon-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepAlphaLocked-name = alpha squad preparations
-ent-CMAirlockPrepAlphaLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlphaLocked-name = подготовка отряда альфа
+ent-CMAirlockPrepAlphaLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoCommon-name = bravo squad preparations
-ent-CMAirlockPrepBravoCommon-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoCommon-name = подготовка отряда браво
+ent-CMAirlockPrepBravoCommon-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepBravoLocked-name = bravo squad preparations
-ent-CMAirlockPrepBravoLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravoLocked-name = подготовка отряда браво
+ent-CMAirlockPrepBravoLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieCommon-name = charlie squad preparations
-ent-CMAirlockPrepCharlieCommon-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieCommon-name = подготовка отряда Чарли
+ent-CMAirlockPrepCharlieCommon-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepCharlieLocked-name = charlie squad preparations
-ent-CMAirlockPrepCharlieLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlieLocked-name = подготовка отряда Чарли
+ent-CMAirlockPrepCharlieLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaCommon-name = delta squad preparations
-ent-CMAirlockPrepDeltaCommon-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaCommon-name = подготовка отряда дельта
+ent-CMAirlockPrepDeltaCommon-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockPrepDeltaLocked-name = delta squad preparations
-ent-CMAirlockPrepDeltaLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDeltaLocked-name = подготовка отряда дельта
+ent-CMAirlockPrepDeltaLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 

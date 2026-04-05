@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetForeconSupportTech-name = forecon support technician survivor preset
+ent-RMCSurvivorPresetForeconSupportTech-name = Предустановка выживания специалиста службы поддержки Forecon
 
-ent-CMSpawnPointForeconSupportTech-name = forecon support tech spawn point
-ent-CMSpawnPointForeconSupportTech-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointForeconSupportTech-name = точка появления технической поддержки Forecon
+ent-CMSpawnPointForeconSupportTech-desc = Создатель заданий RMC14. 
 

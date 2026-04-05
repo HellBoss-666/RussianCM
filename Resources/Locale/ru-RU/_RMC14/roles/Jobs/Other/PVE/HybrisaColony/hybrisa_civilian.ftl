@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVEHybrisaCivilian-name = hybrisa civilian spawn point
-ent-RMCSpawnPointPVEHybrisaCivilian-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPVEHybrisaCivilian-name = гражданская точка появления гибриды
+ent-RMCSpawnPointPVEHybrisaCivilian-desc = Создатель заданий RMC14. 
 

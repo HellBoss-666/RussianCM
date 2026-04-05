@@ -1,6 +1,6 @@
-ent-CMCrematorium-name = crematorium
-ent-CMCrematorium-desc = A human incinerator. Works well on barbecue nights.
+ent-CMCrematorium-name = крематорий
+ent-CMCrematorium-desc = Человеческий мусоросжигатель. 
 
-ent-CMMorgue-name = morgue
-ent-CMMorgue-desc = Used to store bodies until someone fetches them.
+ent-CMMorgue-name = морг
+ent-CMMorgue-desc = Используется для хранения тел, пока кто-нибудь их не заберет.
 

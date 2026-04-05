@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVEDynagridEngineer-name = dyangrid engineer spawn point
-ent-RMCSpawnPointPVEDynagridEngineer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPVEDynagridEngineer-name = точка спавна инженера диангрида
+ent-RMCSpawnPointPVEDynagridEngineer-desc = Создатель заданий RMC14. 
 

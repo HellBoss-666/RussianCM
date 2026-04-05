@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetInfrastructureEngineer-name = infrastructure engineer preset
+ent-RMCGearSurvivorPresetInfrastructureEngineer-name = предустановка инженера инфраструктуры
 
-ent-RMCSpawnPointSurvivorInfrastructureEngineer-name = survivor infrastructure engineer spawn point
-ent-RMCSpawnPointSurvivorInfrastructureEngineer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorInfrastructureEngineer-name = точка появления инженера инфраструктуры выжившего
+ent-RMCSpawnPointSurvivorInfrastructureEngineer-desc = Создатель заданий RMC14. 
 

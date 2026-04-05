@@ -1,9 +1,9 @@
-ent-ColMarTechSCTTools-name = ColMarTech squad comTech tools vendor
-ent-ColMarTechSCTTools-desc = A vending machine that stores various extra tools that are useful on the field.
+ent-ColMarTechSCTTools-name = Команда ColMarTech поставщик инструментов comTech
+ent-ColMarTechSCTTools-desc = Торговый автомат, в котором хранятся различные дополнительные инструменты, которые пригодятся на поле.
 
-ent-ColMarTechSCTEquipment-name = ColMarTech squad comtech equipment rack
-ent-ColMarTechSCTEquipment-desc = An automated rack hooked up to a colossal storage of combat technician standard-issue equipment.
+ent-ColMarTechSCTEquipment-name = Стойка для комтех-оборудования ColMarTech отряда
+ent-ColMarTechSCTEquipment-desc = Автоматизированная стойка, подключенная к колоссальному складу стандартного оборудования боевой техники.
 
-ent-ColMarTechSCTGear-name = ColMarTech squad comtech gear rack
-ent-ColMarTechSCTGear-desc = An automated gear rack for combat technicians.
+ent-ColMarTechSCTGear-name = Стойка для оборудования ColMarTech отряда comtech
+ent-ColMarTechSCTGear-desc = Автоматизированная зубчатая стойка для боевой техники.
 

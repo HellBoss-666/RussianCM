@@ -1,92 +1,92 @@
-ent-RMCOuterEngineeringUtilityOversuit-name = Weston-Yamada engineer utility oversuit
-ent-RMCOuterEngineeringUtilityOversuit-desc = A Weston-Yamada engineer utility uniform. Used as a general purpose utility oversuit by Weston-Yamada colony engineers.
+ent-RMCOuterEngineeringUtilityOversuit-name = Комбинезон инженера Weston-Yamada
+ent-RMCOuterEngineeringUtilityOversuit-desc = Униформа инженера Weston-Yamada. 
 
-ent-RMCDailyGrindApron-name = red apron
-ent-RMCDailyGrindApron-desc = A basic red apron.
+ent-RMCDailyGrindApron-name = красный фартук
+ent-RMCDailyGrindApron-desc = Базовый красный фартук.
 
-ent-RMCChefApron-name = A classic chef's apron
-ent-RMCChefApron-desc = A basic, dull, white chef's apron.
+ent-RMCChefApron-name = Классический поварской фартук.
+ent-RMCChefApron-desc = Простой, скучный белый фартук повара.
 
-ent-RMCHydroApron-name = apron
-ent-RMCHydroApron-desc = A basic blue apron.
+ent-RMCHydroApron-name = фартук
+ent-RMCHydroApron-desc = Базовый синий фартук.
 
-ent-RMCMedicalApron-name = medical apron
-ent-RMCMedicalApron-desc = A basic and sterile white apron, good for surgical and, of course, other medical practices.
+ent-RMCMedicalApron-name = медицинский фартук
+ent-RMCMedicalApron-desc = Простой и стерильный белый фартук, подходящий для хирургических и, конечно же, других медицинских практик.
 
-ent-RMCLabcoatScienceOpened-name = researcher's labcoat
+ent-RMCLabcoatScienceOpened-name = лабораторный халат исследователя
 
-ent-RMCLabcoatScience-name = researcher's labcoat
-ent-RMCLabcoatScience-desc = A high-quality labcoat, seemingly worn by scholars and researchers alike. It has a distinct leathery feel to it, and goads you towards adventure.
+ent-RMCLabcoatScience-name = лабораторный халат исследователя
+ent-RMCLabcoatScience-desc = Высококачественный лабораторный халат, который, судя по всему, носят как учёные, так и исследователи. 
 
-ent-RMCLabcoatVirologyOpened-name = labcoat
+ent-RMCLabcoatVirologyOpened-name = лабораторный халат
 
-ent-RMCLabcoatVirology-name = Virologist labcoat
-ent-RMCLabcoatVirology-desc = A suit that protects against minor chemical spills. Offers slightly more protection against biohazards than the standard model. Has a green stripe on the shoulder.
+ent-RMCLabcoatVirology-name = Лабораторный халат вирусолога
+ent-RMCLabcoatVirology-desc = Костюм, защищающий от небольших разливов химических веществ. 
 
-ent-RMCLabcoatBrownOpened-name = labcoat
+ent-RMCLabcoatBrownOpened-name = лабораторный халат
 
-ent-RMCLabcoatShortOpened-name = labcoat
+ent-RMCLabcoatShortOpened-name = лабораторный халат
 
-ent-RMCLabcoatLongOpened-name = labcoat
+ent-RMCLabcoatLongOpened-name = лабораторный халат
 
-ent-RMCLabcoatCMOOpened-name = chief medical officer's labcoat
+ent-RMCLabcoatCMOOpened-name = лабораторный халат главного врача
 
-ent-RMCLabcoatCMO-name = chief medical officer's labcoat
-ent-RMCLabcoatCMO-desc = A green sleek long labcoat, designed to distinguish a higher ranking medical personnel. Fabric has a better protection against chemical hazards.
+ent-RMCLabcoatCMO-name = лабораторный халат главного врача
+ent-RMCLabcoatCMO-desc = Зеленый гладкий длинный лабораторный халат, предназначенный для отличия медицинского персонала более высокого ранга. 
 
-ent-RMCLabcoatOpened-name = labcoat
+ent-RMCLabcoatOpened-name = лабораторный халат
 
-ent-RMCLabcoat-name = labcoat
-ent-RMCLabcoat-desc = A suit that protects against minor chemical spills.
+ent-RMCLabcoat-name = лабораторный халат
+ent-RMCLabcoat-desc = Костюм, защищающий от небольших разливов химических веществ.
 
-ent-RMCHazardVestEMTGreen-name = EMT - green hazard vest
-ent-RMCHazardVestEMTGreen-desc = A green and white EMT high-visibility hazard vest used in work zones.
+ent-RMCHazardVestEMTGreen-name = ЕМТ - зеленый аварийный жилет
+ent-RMCHazardVestEMTGreen-desc = Зелено-белый жилет повышенной видимости повышенной видимости ЕМТ, используемый в рабочих зонах.
 
-ent-RMCHazardVestEMT-name = EMT - red hazard vest
-ent-RMCHazardVestEMT-desc = A red and white EMT high-visibility hazard vest used in work zones.
+ent-RMCHazardVestEMT-name = ЕМТ - красный жилет опасности
+ent-RMCHazardVestEMT-desc = Красно-белый жилет повышенной видимости повышенной видимости скорой помощи, используемый в рабочих зонах.
 
-ent-RMCHazardVestTMCC-name = Tartarus-Mining hazard vest
-ent-RMCHazardVestTMCC-desc = A black high-visibility vest used in work zones.
+ent-RMCHazardVestTMCC-name = Тартарус-Горный аварийный жилет
+ent-RMCHazardVestTMCC-desc = Черный жилет повышенной видимости, используемый в рабочих зонах.
 
-ent-RMCHazardVestWeyamart-name = weyamart vest
-ent-RMCHazardVestWeyamart-desc = A blue 'Weyamart' employee vest, with name tag and all.
+ent-RMCHazardVestWeyamart-name = вейамарт жилет
+ent-RMCHazardVestWeyamart-desc = Синий жилет сотрудника «Weyamart» с именной биркой и всем остальным.
 
-ent-RMCHazardVestGreen-name = green hazard vest
-ent-RMCHazardVestGreen-desc = A green and white high-visibility vest used in work zones.
+ent-RMCHazardVestGreen-name = зеленый спасательный жилет
+ent-RMCHazardVestGreen-desc = Зелено-белый жилет повышенной видимости, используемый в рабочих зонах.
 
-ent-RMCHazardVestBlack-name = black hazard vest
-ent-RMCHazardVestBlack-desc = A niche-market, black, allegedly high-visibility vest supposedly used in work zones. Features extra-reflective tapes. The etiquette on the vest insists that it's fully compliant with all the United Nations workplace safety standards.
+ent-RMCHazardVestBlack-name = черный жилет опасности
+ent-RMCHazardVestBlack-desc = Нишевый рыночный черный жилет, предположительно повышенной видимости, предположительно используемый в рабочих зонах. 
 
-ent-RMCHazardVestYellow-name = yellow hazard vest
-ent-RMCHazardVestYellow-desc = A yellow high-visibility vest used in work zones.
+ent-RMCHazardVestYellow-name = желтый жилет опасности
+ent-RMCHazardVestYellow-desc = Желтый жилет повышенной видимости, используемый в рабочих зонах.
 
-ent-RMCHazardVestBlue-name = blue hazard vest
-ent-RMCHazardVestBlue-desc = A blue high-visibility vest used in work zones.
+ent-RMCHazardVestBlue-name = Синий аварийный жилет
+ent-RMCHazardVestBlue-desc = Синий жилет повышенной видимости, используемый в рабочих зонах.
 
-ent-RMCHazardVest-name = orange hazard vest
-ent-RMCHazardVest-desc = An orange high-visibility vest used in work zones.
+ent-RMCHazardVest-name = оранжевый жилет опасности
+ent-RMCHazardVest-desc = Оранжевый жилет повышенной видимости, используемый в рабочих зонах.
 
-ent-RMCCoatCorrespondent-name = combat correspondent jacket
-ent-RMCCoatCorrespondent-desc = A jacket for the most fashionable war correspondents.
+ent-RMCCoatCorrespondent-name = куртка боевого корреспондента
+ent-RMCCoatCorrespondent-desc = Куртка для самых модных военных корреспондентов.
 
-ent-RMCCoatCorrespondentGreen-name = combat correspondent jacket
-ent-RMCCoatCorrespondentGreen-desc = A jacket for the most fashionable war correspondents.
+ent-RMCCoatCorrespondentGreen-name = куртка боевого корреспондента
+ent-RMCCoatCorrespondentGreen-desc = Куртка для самых модных военных корреспондентов.
 
-ent-RMCCoatCorrespondentBlack-name = combat correspondent jacket
-ent-RMCCoatCorrespondentBlack-desc = A jacket for the most fashionable war correspondents.
+ent-RMCCoatCorrespondentBlack-name = куртка боевого корреспондента
+ent-RMCCoatCorrespondentBlack-desc = Куртка для самых модных военных корреспондентов.
 
-ent-RMCCoatCorrespondentBlue-name = combat correspondent jacket
-ent-RMCCoatCorrespondentBlue-desc = A jacket for the most fashionable war correspondents.
+ent-RMCCoatCorrespondentBlue-name = куртка боевого корреспондента
+ent-RMCCoatCorrespondentBlue-desc = Куртка для самых модных военных корреспондентов.
 
-ent-RMCLabcoatLong-name = labcoat
-ent-RMCLabcoatLong-desc = A suit that protects against minor chemical spills.
+ent-RMCLabcoatLong-name = лабораторный халат
+ent-RMCLabcoatLong-desc = Костюм, защищающий от небольших разливов химических веществ.
 
-ent-RMCLabcoatShort-name = labcoat
-ent-RMCLabcoatShort-desc = A suit that protects against minor chemical spills.
+ent-RMCLabcoatShort-name = лабораторный халат
+ent-RMCLabcoatShort-desc = Костюм, защищающий от небольших разливов химических веществ.
 
-ent-RMCLabcoatBrown-name = labcoat
-ent-RMCLabcoatBrown-desc = A suit that protects against minor chemical spills.
+ent-RMCLabcoatBrown-name = лабораторный халат
+ent-RMCLabcoatBrown-desc = Костюм, защищающий от небольших разливов химических веществ.
 
-ent-RMCOuterEngineeringUtilityOversuitAlt-name = Weston-Yamada engineer utility oversuit
-ent-RMCOuterEngineeringUtilityOversuitAlt-desc = A Weston-Yamada engineer utility uniform. Used as a general purpose utility oversuit by Weston-Yamada colony engineers.
+ent-RMCOuterEngineeringUtilityOversuitAlt-name = Комбинезон инженера Weston-Yamada
+ent-RMCOuterEngineeringUtilityOversuitAlt-desc = Униформа инженера Weston-Yamada. 
 

@@ -1,48 +1,48 @@
-ent-CMDoubleDoorBase-name = door
+ent-CMDoubleDoorBase-name = дверь
 
-ent-CMDoubleDoorAlmayerGlass-name = door
+ent-CMDoubleDoorAlmayerGlass-name = дверь
 
-ent-CMDoubleDoorAlmayerSolid-name = door
+ent-CMDoubleDoorAlmayerSolid-name = дверь
 
-ent-CMDoubleDoorCommandGlass-name = door
+ent-CMDoubleDoorCommandGlass-name = дверь
 
-ent-CMDoubleDoorCommandSolid-name = door
+ent-CMDoubleDoorCommandSolid-name = дверь
 
-ent-CMDoubleDoorEngineerGlass-name = door
+ent-CMDoubleDoorEngineerGlass-name = дверь
 
-ent-CMDoubleDoorEngineerSolid-name = door
+ent-CMDoubleDoorEngineerSolid-name = дверь
 
-ent-CMDoubleDoorGenericGlass-name = door
+ent-CMDoubleDoorGenericGlass-name = дверь
 
-ent-RMCDoubleDoorGlassHybrisa-name = door
+ent-RMCDoubleDoorGlassHybrisa-name = дверь
 
-ent-RMCDoubleDoorSolidHybrisa-name = door
+ent-RMCDoubleDoorSolidHybrisa-name = дверь
 
-ent-RMCDoubleDoorHybrisaMecical-name = door
+ent-RMCDoubleDoorHybrisaMecical-name = дверь
 
-ent-RMCDoubleDoorHybrisaGlassMecical-name = door
+ent-RMCDoubleDoorHybrisaGlassMecical-name = дверь
 
-ent-CMDoubleDoorGenericSolid-name = door
+ent-CMDoubleDoorGenericSolid-name = дверь
 
-ent-CMDoubleDoorMedicalGlass-name = door
+ent-CMDoubleDoorMedicalGlass-name = дверь
 
-ent-CMDoubleDoorMedicalSolid-name = door
+ent-CMDoubleDoorMedicalSolid-name = дверь
 
-ent-CMDoubleDoorPersonalGlass-name = door
+ent-CMDoubleDoorPersonalGlass-name = дверь
 
-ent-CMDoubleDoorPersonalSolid-name = door
+ent-CMDoubleDoorPersonalSolid-name = дверь
 
-ent-CMDoubleDoorPreparations-name = door
+ent-CMDoubleDoorPreparations-name = дверь
 
-ent-CMDoubleDoorPreparationsAlpha-name = door
+ent-CMDoubleDoorPreparationsAlpha-name = дверь
 
-ent-CMDoubleDoorPreparationsBravo-name = door
+ent-CMDoubleDoorPreparationsBravo-name = дверь
 
-ent-CMDoubleDoorPreparationsCharlie-name = door
+ent-CMDoubleDoorPreparationsCharlie-name = дверь
 
-ent-CMDoubleDoorPreparationsDelta-name = door
+ent-CMDoubleDoorPreparationsDelta-name = дверь
 
-ent-CMDoubleDoorSecurityGlass-name = door
+ent-CMDoubleDoorSecurityGlass-name = дверь
 
-ent-CMDoubleDoorSecuritySolid-name = door
+ent-CMDoubleDoorSecuritySolid-name = дверь
 

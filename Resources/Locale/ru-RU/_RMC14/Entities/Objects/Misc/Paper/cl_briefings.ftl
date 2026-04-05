@@ -1,9 +1,9 @@
-ent-RMCPaperWeYaLiaisonBriefingBase-name = weston-yamada official document
-ent-RMCPaperWeYaLiaisonBriefingBase-desc = A piece of white paper.
+ent-RMCPaperWeYaLiaisonBriefingBase-name = Официальный документ Уэстон-Ямада
+ent-RMCPaperWeYaLiaisonBriefingBase-desc = Кусок белой бумаги.
 
-ent-RMCPaperWeYaLiaisonBriefingSolaris-name = weston-yamada official document
-ent-RMCPaperWeYaLiaisonBriefingSolaris-desc = A piece of white paper.
+ent-RMCPaperWeYaLiaisonBriefingSolaris-name = Официальный документ Уэстон-Ямада
+ent-RMCPaperWeYaLiaisonBriefingSolaris-desc = Кусок белой бумаги.
 
-ent-RMCPaperWeYaLiaisonBriefingKutjevo-name = weston-yamada official document
-ent-RMCPaperWeYaLiaisonBriefingKutjevo-desc = A piece of white paper.
+ent-RMCPaperWeYaLiaisonBriefingKutjevo-name = Официальный документ Уэстон-Ямада
+ent-RMCPaperWeYaLiaisonBriefingKutjevo-desc = Кусок белой бумаги.
 

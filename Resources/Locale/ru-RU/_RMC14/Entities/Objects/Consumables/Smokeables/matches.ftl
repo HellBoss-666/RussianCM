@@ -1,12 +1,12 @@
-ent-RMCMatchstickPaper-name = paper match
-ent-RMCMatchstickPaper-desc = A simple match stick, used for lighting fine smokables.
+ent-RMCMatchstickPaper-name = бумажная спичка
+ent-RMCMatchstickPaper-desc = Простая спичка, используемая для зажигания хороших курительных сигарет.
 
-ent-RMCMatchstick-name = match
-ent-RMCMatchstick-desc = A simple match stick, used for lighting fine smokables.
+ent-RMCMatchstick-name = соответствовать
+ent-RMCMatchstick-desc = Простая спичка, используемая для зажигания хороших курительных сигарет.
 
-ent-RMCMatchboxFull-name = match box
-ent-RMCMatchboxFull-desc = A small box of 'Space-Proof' premium matches.
+ent-RMCMatchboxFull-name = спичечный коробок
+ent-RMCMatchboxFull-desc = Небольшая коробка премиум-спичек «Космос-защита».
 
-ent-RMCMatchbox-name = match box
-ent-RMCMatchbox-desc = A small box of 'Space-Proof' premium matches.
+ent-RMCMatchbox-name = спичечный коробок
+ent-RMCMatchbox-desc = Небольшая коробка премиум-спичек «Космос-защита».
 

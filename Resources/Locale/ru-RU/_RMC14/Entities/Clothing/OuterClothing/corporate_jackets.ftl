@@ -1,69 +1,69 @@
-ent-RMCJacketCorporateManager-name = manager's jacket
-ent-RMCJacketCorporateManager-desc = A jacket that belongs to someone very important. It is made of insulating material and offers minor protection from all forms of damage.
+ent-RMCJacketCorporateManager-name = куртка менеджера
+ent-RMCJacketCorporateManager-desc = Куртка, принадлежащая кому-то очень важному. 
 
-ent-RMCFancySuitJacketLightBrown-name = light-brown fancy suit jacket
-ent-RMCFancySuitJacketLightBrown-desc = A snappy dress jacket.
+ent-RMCFancySuitJacketLightBrown-name = светло-коричневый нарядный пиджак
+ent-RMCFancySuitJacketLightBrown-desc = Яркий пиджак.
 
-ent-RMCFancySuitJacketBrown-name = brown fancy suit jacket
-ent-RMCFancySuitJacketBrown-desc = A snappy dress jacket.
+ent-RMCFancySuitJacketBrown-name = коричневый модный пиджак
+ent-RMCFancySuitJacketBrown-desc = Яркий пиджак.
 
-ent-RMCFancySuitJacketRed-name = red fancy suit jacket
-ent-RMCFancySuitJacketRed-desc = A snappy dress jacket.
+ent-RMCFancySuitJacketRed-name = красный модный пиджак
+ent-RMCFancySuitJacketRed-desc = Яркий пиджак.
 
-ent-RMCFancySuitJacketPurp-name = purple fancy suit jacket
-ent-RMCFancySuitJacketPurp-desc = A snappy dress jacket.
+ent-RMCFancySuitJacketPurp-name = фиолетовый модный пиджак
+ent-RMCFancySuitJacketPurp-desc = Яркий пиджак.
 
-ent-RMCFancySuitJacketBlue-name = blue fancy suit jacket
-ent-RMCFancySuitJacketBlue-desc = A snappy dress jacket.
+ent-RMCFancySuitJacketBlue-name = синий модный пиджак
+ent-RMCFancySuitJacketBlue-desc = Яркий пиджак.
 
-ent-RMCFancySuitJacketBlack-name = black fancy suit jacket
-ent-RMCFancySuitJacketBlack-desc = A snappy dress jacket.
+ent-RMCFancySuitJacketBlack-name = черный модный пиджак
+ent-RMCFancySuitJacketBlack-desc = Яркий пиджак.
 
-ent-RMCVestBrown-name = brown vest
-ent-RMCVestBrown-desc = A casual brown vest.
+ent-RMCVestBrown-name = коричневый жилет
+ent-RMCVestBrown-desc = Повседневный коричневый жилет.
 
-ent-RMCWeYaFurCoat-name = WeYa fur coat
-ent-RMCWeYaFurCoat-desc = An old, unmarked fur coat once issued to corporate liaisons stationed in harsh climates. It has clearly changed hands many times — the fabric is worn, it carries a distinct smell, and any manufacturer tags have long since faded. A faint corporate insignia remains, stitched above a yellowing label that simply reads: "Dry clean only."
+ent-RMCWeYaFurCoat-name = WeYa шуба
+ent-RMCWeYaFurCoat-desc = Старая шуба без опознавательных знаков, когда-то выданная представителям корпораций, работавшим в суровом климате. 
 
-ent-RMCVestGrey-name = grey vest
-ent-RMCVestGrey-desc = A casual grey vest.
+ent-RMCVestGrey-name = серый жилет
+ent-RMCVestGrey-desc = Повседневный серый жилет.
 
-ent-RMCVestTan-name = tan vest
-ent-RMCVestTan-desc = A casual tan vest.
+ent-RMCVestTan-name = светло-коричневый жилет
+ent-RMCVestTan-desc = Повседневный светло-коричневый жилет.
 
-ent-RMCWeYaWhiteVest-name = WeYa white vest
-ent-RMCWeYaWhiteVest-desc = A white puffer vest.
+ent-RMCWeYaWhiteVest-name = WeYa белый жилет
+ent-RMCWeYaWhiteVest-desc = Белый пуховик.
 
-ent-RMCWeYaRedVest-name = WeYa red vest
-ent-RMCWeYaRedVest-desc = A red puffer vest.
+ent-RMCWeYaRedVest-name = WeYa красный жилет
+ent-RMCWeYaRedVest-desc = Красный пуховик.
 
-ent-RMCWeYaBlueVest-name = WeYa blue vest
-ent-RMCWeYaBlueVest-desc = A blue puffer vest.
+ent-RMCWeYaBlueVest-name = WeYa синий жилет
+ent-RMCWeYaBlueVest-desc = Синий пуховик.
 
-ent-RMCWeYaBrownVest-name = WeYa brown vest
-ent-RMCWeYaBrownVest-desc = A brown puffer vest.
+ent-RMCWeYaBrownVest-name = WeYa коричневый жилет
+ent-RMCWeYaBrownVest-desc = Коричневый пуховик.
 
-ent-RMCJacketCorporateKhaki-name = khaki jacket
-ent-RMCJacketCorporateKhaki-desc = A khaki suit jacket.
+ent-RMCJacketCorporateKhaki-name = куртка цвета хаки
+ent-RMCJacketCorporateKhaki-desc = Пиджак цвета хаки.
 
-ent-RMCJacketCorporateFormal-name = formal suit jacket
-ent-RMCJacketCorporateFormal-desc = A formal suit jacket.
+ent-RMCJacketCorporateFormal-name = формальный пиджак
+ent-RMCJacketCorporateFormal-desc = Официальный пиджак.
 
-ent-RMCJacketCorporateBrown-name = brown suit jacket
-ent-RMCJacketCorporateBrown-desc = A brown suit jacket.
+ent-RMCJacketCorporateBrown-name = коричневый пиджак
+ent-RMCJacketCorporateBrown-desc = Коричневый пиджак.
 
-ent-RMCJacketCorporateBlue-name = blue suit jacket
-ent-RMCJacketCorporateBlue-desc = A blue suit jacket.
+ent-RMCJacketCorporateBlue-name = синий пиджак
+ent-RMCJacketCorporateBlue-desc = Синий пиджак.
 
-ent-RMCJacketCorporateBlack-name = black suit jacket
-ent-RMCJacketCorporateBlack-desc = A black suit jacket.
+ent-RMCJacketCorporateBlack-name = черный пиджак
+ent-RMCJacketCorporateBlack-desc = Черный пиджак.
 
-ent-RMCCorporateLogisticsJacket-name = corporate logistics jacket
-ent-RMCCorporateLogisticsJacket-desc = A white jacket with brown accents. A popular choice among WEYA Logistic Managers.
+ent-RMCCorporateLogisticsJacket-name = куртка для корпоративной логистики
+ent-RMCCorporateLogisticsJacket-desc = Белый жакет с коричневыми вставками. 
 
-ent-RMCCorporateDutyJacket-name = corporate duty jacket
-ent-RMCCorporateDutyJacket-desc = A brown coat, built to withstand the conditions of the frontier, to orbital space stations, ships, and colonies. Surprisingly comfortable and warm.
+ent-RMCCorporateDutyJacket-name = корпоративный пиджак
+ent-RMCCorporateDutyJacket-desc = Коричневый плащ, созданный для того, чтобы противостоять условиям фронтира, орбитальным космическим станциям, кораблям и колониям. 
 
-ent-RMCJacketWindbreakerWEYA-name = green windbreaker
-ent-RMCJacketWindbreakerWEYA-desc = A green windbreaker.
+ent-RMCJacketWindbreakerWEYA-name = зеленая ветровка
+ent-RMCJacketWindbreakerWEYA-desc = Зеленая ветровка.
 

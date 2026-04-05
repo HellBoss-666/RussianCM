@@ -1,24 +1,24 @@
-ent-RMCIDCardPMCCorpse-name = PMC holo-badge
-ent-RMCIDCardPMCCorpse-desc = A corporate holo-badge. It has a unique uncapped bottom.
+ent-RMCIDCardPMCCorpse-name = Голо-значок ЧВК
+ent-RMCIDCardPMCCorpse-desc = Корпоративный голо-бейдж. 
 
-ent-RMCIDCardPMCGoonCorpse-name = PMC holo-badge
-ent-RMCIDCardPMCGoonCorpse-desc = A corporate holo-badge. It has a unique uncapped bottom.
+ent-RMCIDCardPMCGoonCorpse-name = Голо-значок ЧВК
+ent-RMCIDCardPMCGoonCorpse-desc = Корпоративный голо-бейдж. 
 
-ent-RMCIDCardPMCGoonLeadCorpse-name = PMC holo-badge
-ent-RMCIDCardPMCGoonLeadCorpse-desc = A corporate holo-badge. It has a unique uncapped bottom.
+ent-RMCIDCardPMCGoonLeadCorpse-name = Голо-значок ЧВК
+ent-RMCIDCardPMCGoonLeadCorpse-desc = Корпоративный голо-бейдж. 
 
-ent-RMCIDCardPrisonerCorpse-name = identification holo-lanyard
-ent-RMCIDCardPrisonerCorpse-desc = A crude holo-lanyard. As cheap as they come.
+ent-RMCIDCardPrisonerCorpse-name = голо-шнур для идентификации
+ent-RMCIDCardPrisonerCorpse-desc = Грубый голо-шнур. 
 
-ent-RMCIDCardChefCorpse-name = identification holo-lanyard
-ent-RMCIDCardChefCorpse-desc = A crude holo-lanyard. As cheap as they come.
+ent-RMCIDCardChefCorpse-name = голо-шнур для идентификации
+ent-RMCIDCardChefCorpse-desc = Грубый голо-шнур. 
 
-ent-RMCIDCardMinerCorpse-name = identification holo-lanyard
-ent-RMCIDCardMinerCorpse-desc = A crude holo-lanyard. As cheap as they come.
+ent-RMCIDCardMinerCorpse-name = голо-шнур для идентификации
+ent-RMCIDCardMinerCorpse-desc = Грубый голо-шнур. 
 
-ent-RMCIDCardRiotOfficerCorpse-name = silver identification holo-badge
-ent-RMCIDCardRiotOfficerCorpse-desc = A silver plated holo-badge which shows honour and dedication.
+ent-RMCIDCardRiotOfficerCorpse-name = серебряный идентификационный голографический бейдж
+ent-RMCIDCardRiotOfficerCorpse-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-RMCIDCardConstableCorpse-name = TSEPA silver badge
-ent-RMCIDCardConstableCorpse-desc = The silver badge which represents that the wearer is a TSEPA Constable. It is a sign of justice, authority, and protection. Protecting those who can't. This badge represents a commitment to a sworn oath always kept.
+ent-RMCIDCardConstableCorpse-name = Серебряный знак ЦЭПА
+ent-RMCIDCardConstableCorpse-desc = Серебряный значок, обозначающий, что владелец является констеблем TSEPA. 
 

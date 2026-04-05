@@ -1,9 +1,9 @@
-ent-RMCPouchConstruction-name = construction pouch
-ent-RMCPouchConstruction-desc = It's designed to hold construction materials - glass/metal sheets, metal rods, barbed wire, cable coil, and empty sandbags. It also has two hooks for an entrenching tool and light replacer.
+ent-RMCPouchConstruction-name = строительный мешок
+ent-RMCPouchConstruction-desc = Он предназначен для хранения строительных материалов: стеклянных/металлических листов, металлических стержней, колючей проволоки, катушек с кабелем и пустых мешков с песком. 
 
-ent-RMCPouchConstructionFillLowGrade-name = construction pouch
-ent-RMCPouchConstructionFillLowGrade-desc = It's designed to hold construction materials - glass/metal sheets, metal rods, barbed wire, cable coil, and empty sandbags. It also has two hooks for an entrenching tool and light replacer.
+ent-RMCPouchConstructionFillLowGrade-name = строительный мешок
+ent-RMCPouchConstructionFillLowGrade-desc = Он предназначен для хранения строительных материалов: стеклянных/металлических листов, металлических стержней, колючей проволоки, катушек с кабелем и пустых мешков с песком. 
 
-ent-RMCPouchConstructionFillFull-name = construction pouch
-ent-RMCPouchConstructionFillFull-desc = It's designed to hold construction materials - glass/metal sheets, metal rods, barbed wire, cable coil, and empty sandbags. It also has two hooks for an entrenching tool and light replacer.
+ent-RMCPouchConstructionFillFull-name = строительный мешок
+ent-RMCPouchConstructionFillFull-desc = Он предназначен для хранения строительных материалов: стеклянных/металлических листов, металлических стержней, колючей проволоки, катушек с кабелем и пустых мешков с песком. 
 

@@ -1,120 +1,120 @@
-ent-RMCPrefabGreebleBase-name = prefabricated structure
-ent-RMCPrefabGreebleBase-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreebleBase-name = сборная конструкция
+ent-RMCPrefabGreebleBase-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCWallPrefabOrange-name = prefabricated structure
-ent-RMCWallPrefabOrange-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange-name = сборная конструкция
+ent-RMCWallPrefabOrange-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefab32BaseTop-name = prefabricated structure
-ent-RMCPrefab32BaseTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefab32BaseTop-name = сборная конструкция
+ent-RMCPrefab32BaseTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabBaseTop-name = prefabricated structure
-ent-RMCPrefabBaseTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabBaseTop-name = сборная конструкция
+ent-RMCPrefabBaseTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabBase-name = prefabricated structure
-ent-RMCPrefabBase-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabBase-name = сборная конструкция
+ent-RMCPrefabBase-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabBlueBase-name = prefabricated structure
-ent-RMCPrefabBlueBase-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabBlueBase-name = сборная конструкция
+ent-RMCPrefabBlueBase-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabBlueTop-name = prefabricated structure
-ent-RMCPrefabBlueTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabBlueTop-name = сборная конструкция
+ent-RMCPrefabBlueTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabOrangeBase-name = prefabricated structure
-ent-RMCPrefabOrangeBase-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabOrangeBase-name = сборная конструкция
+ent-RMCPrefabOrangeBase-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabOrangeTop-name = prefabricated structure
-ent-RMCPrefabOrangeTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabOrangeTop-name = сборная конструкция
+ent-RMCPrefabOrangeTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabPinkBase-name = prefabricated structure
-ent-RMCPrefabPinkBase-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabPinkBase-name = сборная конструкция
+ent-RMCPrefabPinkBase-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabPinkTop-name = prefabricated structure
-ent-RMCPrefabPinkTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabPinkTop-name = сборная конструкция
+ent-RMCPrefabPinkTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabRedBase-name = prefabricated structure
-ent-RMCPrefabRedBase-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabRedBase-name = сборная конструкция
+ent-RMCPrefabRedBase-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabRedTop-name = prefabricated structure
-ent-RMCPrefabRedTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabRedTop-name = сборная конструкция
+ent-RMCPrefabRedTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabWhiteBase-name = prefabricated structure
-ent-RMCPrefabWhiteBase-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabWhiteBase-name = сборная конструкция
+ent-RMCPrefabWhiteBase-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabWhiteTop-name = prefabricated structure
-ent-RMCPrefabWhiteTop-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCPrefabWhiteTop-name = сборная конструкция
+ent-RMCPrefabWhiteTop-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange2-name = prefabricated structure
-ent-RMCWallPrefabOrange2-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange2-name = сборная конструкция
+ent-RMCWallPrefabOrange2-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange3-name = prefabricated structure
-ent-RMCWallPrefabOrange3-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange3-name = сборная конструкция
+ent-RMCWallPrefabOrange3-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange4-name = prefabricated structure
-ent-RMCWallPrefabOrange4-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange4-name = сборная конструкция
+ent-RMCWallPrefabOrange4-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange5-name = prefabricated structure
-ent-RMCWallPrefabOrange5-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange5-name = сборная конструкция
+ent-RMCWallPrefabOrange5-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange6-name = prefabricated structure
-ent-RMCWallPrefabOrange6-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange6-name = сборная конструкция
+ent-RMCWallPrefabOrange6-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange7-name = prefabricated structure
-ent-RMCWallPrefabOrange7-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange7-name = сборная конструкция
+ent-RMCWallPrefabOrange7-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange8-name = prefabricated structure
-ent-RMCWallPrefabOrange8-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange8-name = сборная конструкция
+ent-RMCWallPrefabOrange8-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange9-name = prefabricated structure
-ent-RMCWallPrefabOrange9-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange9-name = сборная конструкция
+ent-RMCWallPrefabOrange9-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange10-name = prefabricated structure
-ent-RMCWallPrefabOrange10-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange10-name = сборная конструкция
+ent-RMCWallPrefabOrange10-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange11-name = prefabricated structure
-ent-RMCWallPrefabOrange11-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange11-name = сборная конструкция
+ent-RMCWallPrefabOrange11-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange12-name = prefabricated structure
-ent-RMCWallPrefabOrange12-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange12-name = сборная конструкция
+ent-RMCWallPrefabOrange12-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange13-name = prefabricated structure
-ent-RMCWallPrefabOrange13-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange13-name = сборная конструкция
+ent-RMCWallPrefabOrange13-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCWallPrefabOrange14-name = prefabricated structure
-ent-RMCWallPrefabOrange14-desc = This structure is made of metal support rods and robust poly-kevlon plastics. A derivative of the stuff used in UN ballistics vests, UNMC and SPP uniforms. The loose walls roll with each gust of wind.
+ent-RMCWallPrefabOrange14-name = сборная конструкция
+ent-RMCWallPrefabOrange14-desc = Эта конструкция изготовлена ​​из металлических опорных стержней и прочного поликевлонового пластика. 
 
-ent-RMCPrefabGreeble1-name = prefabricated structure
-ent-RMCPrefabGreeble1-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble1-name = сборная конструкция
+ent-RMCPrefabGreeble1-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble2-name = prefabricated structure
-ent-RMCPrefabGreeble2-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble2-name = сборная конструкция
+ent-RMCPrefabGreeble2-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble3-name = prefabricated structure
-ent-RMCPrefabGreeble3-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble3-name = сборная конструкция
+ent-RMCPrefabGreeble3-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble4-name = prefabricated structure
-ent-RMCPrefabGreeble4-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble4-name = сборная конструкция
+ent-RMCPrefabGreeble4-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble5-name = prefabricated structure
-ent-RMCPrefabGreeble5-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble5-name = сборная конструкция
+ent-RMCPrefabGreeble5-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble6-name = prefabricated structure
-ent-RMCPrefabGreeble6-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble6-name = сборная конструкция
+ent-RMCPrefabGreeble6-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble7-name = prefabricated structure
-ent-RMCPrefabGreeble7-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble7-name = сборная конструкция
+ent-RMCPrefabGreeble7-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble8-name = prefabricated structure
-ent-RMCPrefabGreeble8-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble8-name = сборная конструкция
+ent-RMCPrefabGreeble8-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble9-name = prefabricated structure
-ent-RMCPrefabGreeble9-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble9-name = сборная конструкция
+ent-RMCPrefabGreeble9-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble10-name = prefabricated structure
-ent-RMCPrefabGreeble10-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble10-name = сборная конструкция
+ent-RMCPrefabGreeble10-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble11-name = prefabricated structure
-ent-RMCPrefabGreeble11-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble11-name = сборная конструкция
+ent-RMCPrefabGreeble11-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 
-ent-RMCPrefabGreeble12-name = prefabricated structure
-ent-RMCPrefabGreeble12-desc = Windsocks, Air-Con units, solarpanels, oh my!
+ent-RMCPrefabGreeble12-name = сборная конструкция
+ent-RMCPrefabGreeble12-desc = Ветровые указатели, кондиционеры, солнечные панели, о боже!
 

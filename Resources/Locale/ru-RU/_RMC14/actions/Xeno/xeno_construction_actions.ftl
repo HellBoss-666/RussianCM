@@ -1,48 +1,48 @@
-ent-ActionXenoExpandWeeds-name = Expand Weeds (50)
-ent-ActionXenoExpandWeeds-desc = Expand existing weeds or turn a weed tile into a node.
+ent-ActionXenoExpandWeeds-name = Расширить Сорняки (50)
+ent-ActionXenoExpandWeeds-desc = Расширьте существующие сорняки или превратите плитку сорняков в узел.
 
-ent-ActionLesserDronePlantWeeds-name = Plant Weeds (75)
-ent-ActionLesserDronePlantWeeds-desc = Plant a weed node that will spread more weeds.
+ent-ActionLesserDronePlantWeeds-name = Посадить смолу (75)
+ent-ActionLesserDronePlantWeeds-desc = Посадите узел сорняков, который будет распространять больше сорняков.
 
-ent-ActionXenoDigTunnel-name = Dig Tunnel (200)
-ent-ActionXenoDigTunnel-desc = Dig a tunnel for speedy transportation across the hive.
+ent-ActionXenoDigTunnel-name = Выкопать туннель (200)
+ent-ActionXenoDigTunnel-desc = Выкопайте туннель для быстрого перемещения по улью.
 
-ent-ActionXenoFruitPlantLesser-name = Plant Resin Fruit (50)
-ent-ActionXenoFruitPlantLesser-desc = Plant resin fruit on weeds at the cost of health and plasma.
+ent-ActionXenoFruitPlantLesser-name = Фрукты из растительной смолы (50)
+ent-ActionXenoFruitPlantLesser-desc = Посадите смолистые плоды на сорняки ценой здоровья и плазмы.
 
-ent-ActionXenoPlantWeedsHardy-name = Plant Hardy Weeds (125)
-ent-ActionXenoPlantWeedsHardy-desc = Plant a weed node that will spread hardier weeds, which grow fruit 25% faster, have slightly more health, and can be spread on some surfaces where normal weeds won't grow.
+ent-ActionXenoPlantWeedsHardy-name = Посадить выносливые сорняки (125)
+ent-ActionXenoPlantWeedsHardy-desc = Посадите узел сорняков, который будет распространять более выносливые сорняки, которые приносят плоды на 25% быстрее, имеют немного больше здоровья и могут распространяться на некоторых поверхностях, где обычные сорняки не растут.
 
-ent-ActionXenoFruitPlant-name = Plant Resin Fruit (100)
-ent-ActionXenoFruitPlant-desc = Plant chosen resin fruit on weeds at the cost of health and plasma. Xenos can pick these fruits once they're mature, you can also pick a plant early to get rid of it. Xenos can use them in hand or eat them on the ground to gain their effects. They can also be used on other xenos to feed them. You can only have 6 fruits planted and picked at a time.
+ent-ActionXenoFruitPlant-name = Растительная смола Фрукты (100)
+ent-ActionXenoFruitPlant-desc = Посадите выбранные смолистые плоды на сорняки ценой здоровья и плазмы.
 
-ent-ActionXenoFruitChoose-name = Change Fruit
-ent-ActionXenoFruitChoose-desc = Choose a fruit to be planted with 'Plant Resin Fruit' action.
+ent-ActionXenoFruitChoose-name = Изменить фрукты
+ent-ActionXenoFruitChoose-desc = Выберите фрукт, который хотите посадить, с помощью действия «Посадить смоляные плоды».
 
-ent-ActionXenoResinHole-name = Plant Resin Hole (200)
-ent-ActionXenoResinHole-desc = Places a resin hole on weeds. It can be filled with boiler gas, acid, or parasites.
+ent-ActionXenoResinHole-name = Сделать смоляное отверстие (200)
+ent-ActionXenoResinHole-desc = Создает смоляное отверстие на сорняках.
 
-ent-RMCGuidebookActionXenoOrderConstruction-name = Order Construction
-ent-RMCGuidebookActionXenoOrderConstruction-desc = Starts construction of an important hive structure.
+ent-RMCGuidebookActionXenoOrderConstruction-name = Заказать строительство
+ent-RMCGuidebookActionXenoOrderConstruction-desc = Начинает строительство важной структуры улья.
 
-ent-ActionXenoOrderConstruction-name = Order Construction
-ent-ActionXenoOrderConstruction-desc = Starts construction of an important hive structure.
+ent-ActionXenoOrderConstruction-name = Заказать строительство
+ent-ActionXenoOrderConstruction-desc = Начинает строительство важной структуры улья.
 
-ent-ActionXenoCoerceResin-name = Coerce Resin
-ent-ActionXenoCoerceResin-desc = Builds the structure chosen with the 'Choose Resin Structure' action. You may also build within line of sight if you are on weeds.
+ent-ActionXenoCoerceResin-name = Выделить смолу
+ent-ActionXenoCoerceResin-desc = Создает структуру, выбранную с помощью действия «Выбрать структуру смолы».
 
-ent-ActionXenoSecreteStructure-name = Secrete Resin
-ent-ActionXenoSecreteStructure-desc = Builds the structure chosen with the 'Choose Resin Structure' action.
+ent-ActionXenoSecreteStructure-name = Выделить смолу
+ent-ActionXenoSecreteStructure-desc = Создает структуру, выбранную с помощью действия «Выбрать структуру смолы».
 
-ent-ActionXenoChooseStructure-name = Choose Resin Structure
-ent-ActionXenoChooseStructure-desc = Choose a structure to secrete with the 'Secrete Resin' action.
+ent-ActionXenoChooseStructure-name = Выберите структуру смолы
+ent-ActionXenoChooseStructure-desc = Выберите структуру для выделения с помощью действия «Секретная смола».
 
-ent-ActionXenoPlantWeeds-name = Plant Weeds (75)
-ent-ActionXenoPlantWeeds-desc = Plant a weed node that will spread more weeds.
+ent-ActionXenoPlantWeeds-name = Сорняки растений (75)
+ent-ActionXenoPlantWeeds-desc = Посадите узел сорняков, который будет распространять больше сорняков.
 
-ent-ActionXenoDesignerSelectedDesign-name = Selected Design
-ent-ActionXenoDesignerSelectedDesign-desc = Toggle whether newly placed design nodes are wall or door nodes.
+ent-ActionXenoDesignerSelectedDesign-name = Выбранная смола
+ent-ActionXenoDesignerSelectedDesign-desc = Переключите, являются ли вновь размещенные узлы конструкции узлами стены или двери.
 
-ent-ActionXenoDesignerGreaterResinSurge-name = Greater Resin Surge (250)
-ent-ActionXenoDesignerGreaterResinSurge-desc = Consumes nearby design nodes to create temporary thick resin walls.
+ent-ActionXenoDesignerGreaterResinSurge-name = Большой выброс смолы (250)
+ent-ActionXenoDesignerGreaterResinSurge-desc = Поглощает близлежащие узлы конструкции для создания временных толстых смоляных стен.
 

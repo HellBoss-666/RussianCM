@@ -1,30 +1,30 @@
-ent-ColMarTechSeniorOfficerEquipment-name = ColMarTech Senior Officer Equipment Rack
-ent-ColMarTechSeniorOfficerEquipment-desc = An automated equipment vendor for Senior Officers.
+ent-ColMarTechSeniorOfficerEquipment-name = Стойка для оборудования старшего офицера ColMarTech
+ent-ColMarTechSeniorOfficerEquipment-desc = Поставщик автоматизированного оборудования для старших офицеров.
 
-ent-RMCVendorBundleMilitaryPoliceApparelCMP-name = Essential Police Set
-ent-RMCVendorBundleMilitaryPoliceApparelCMP-desc = Contains security HUD-glasses and a filled security belt.
+ent-RMCVendorBundleMilitaryPoliceApparelCMP-name = Незаменимый полицейский набор
+ent-RMCVendorBundleMilitaryPoliceApparelCMP-desc = Содержит защитные HUD-очки и наполненный ремень безопасности.
 
-ent-RMCVendorBundleXOShotgun-name = M890 tactical shotgun
-ent-RMCVendorBundleXOShotgun-desc = Contains the M890 tactical shotgun and various shells.
+ent-RMCVendorBundleXOShotgun-name = Тактический дробовик М890
+ent-RMCVendorBundleXOShotgun-desc = Содержит тактический дробовик M890 и различные патроны.
 
-ent-RMCVendorBundleXOFormal-name = formal uniform
-ent-RMCVendorBundleXOFormal-desc = Contains a peaked cap, formal uniform and jacket.
+ent-RMCVendorBundleXOFormal-name = официальная униформа
+ent-RMCVendorBundleXOFormal-desc = Содержит фуражку, форменную форму и куртку.
 
-ent-ColMarTechCommandingOfficerWeapon-name = ColMarTech Commanding Officer Weapon Rack
-ent-ColMarTechCommandingOfficerWeapon-desc = An automated weapons rack for the Commanding Officer. It features a robust selection of weaponry meant only for the UNMC's top officers.
+ent-ColMarTechCommandingOfficerWeapon-name = Стойка для оружия командира ColMarTech
+ent-ColMarTechCommandingOfficerWeapon-desc = Автоматизированная оружейная стойка командира. 
 
-ent-ColMarTechCommandingOfficerEquipment-name = ColMarTech Commanding Officer Equipment Rack
-ent-ColMarTechCommandingOfficerEquipment-desc = An automated equipment vendor for the Commanding Officer. Contains a prime selection of equipment for only the UNMC's top officers.
+ent-ColMarTechCommandingOfficerEquipment-name = Стойка для оборудования командира ColMarTech
+ent-ColMarTechCommandingOfficerEquipment-desc = Поставщик автоматизированного оборудования для командира. 
 
-ent-ColMarTechCommandingOfficerClothing-name = ColMarTech Commanding Officer Clothing Rack
-ent-ColMarTechCommandingOfficerClothing-desc = An automated closet hooked up to a colossal storage of standard-issue dress uniform variants.
+ent-ColMarTechCommandingOfficerClothing-name = Вешалка для одежды командира ColMarTech
+ent-ColMarTechCommandingOfficerClothing-desc = Автоматизированный шкаф, соединенный с огромным хранилищем стандартных вариантов парадной формы.
 
-ent-ColMarTechExecutiveOfficerWeapon-name = ColMarTech Executive Officer Weapon Rack
-ent-ColMarTechExecutiveOfficerWeapon-desc = An automated weapons rack for the Executive Officer. It features a decent selection of weaponry meant only for the second in command of a ship.
+ent-ColMarTechExecutiveOfficerWeapon-name = Стойка для оружия исполнительного директора ColMarTech
+ent-ColMarTechExecutiveOfficerWeapon-desc = Автоматизированная оружейная стойка для старшего офицера. 
 
-ent-ColMarTechStaffOfficerWeapon-name = ColMarTech Staff Officer Armory Weapon Rack
-ent-ColMarTechStaffOfficerWeapon-desc = An automated combat equipment vendor for Staff Officers.
+ent-ColMarTechStaffOfficerWeapon-name = Стойка для оружия штабного офицера ColMarTech
+ent-ColMarTechStaffOfficerWeapon-desc = Поставщик автоматизированного боевого оборудования для штабных офицеров.
 
-ent-ColMarTechStaffOfficerEquipment-name = ColMarTech Staff Officer Equipment Rack
-ent-ColMarTechStaffOfficerEquipment-desc = An automated equipment vendor for Staff Officers
+ent-ColMarTechStaffOfficerEquipment-name = Стойка для оборудования штабного офицера ColMarTech
+ent-ColMarTechStaffOfficerEquipment-desc = Поставщик автоматизированного оборудования для штабных офицеров
 

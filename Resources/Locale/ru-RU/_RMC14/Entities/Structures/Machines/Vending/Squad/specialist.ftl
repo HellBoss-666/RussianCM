@@ -1,9 +1,9 @@
-ent-ColMarTechSWSEquipment-name = ColMarTech squad weapons specialist equipment rack
-ent-ColMarTechSWSEquipment-desc = An automated rack hooked up to a colossal storage of Squad Weapons Specialist standard-issue equipment.
+ent-ColMarTechSWSEquipment-name = Стойка для специального оборудования для отряда ColMarTech
+ent-ColMarTechSWSEquipment-desc = Автоматизированная стойка, подключенная к огромному хранилищу стандартного оборудования специалиста по вооружению.
 
-ent-RMCKitWeaponsSpecialist-name = specialist kit
-ent-RMCKitWeaponsSpecialist-desc = A paper box. Open it and get a specialist kit.
+ent-RMCKitWeaponsSpecialist-name = специальный комплект
+ent-RMCKitWeaponsSpecialist-desc = Бумажная коробка. 
 
-ent-ColMarTechSWSGear-name = ColMarTech squad weapons specialist gear rack
-ent-ColMarTechSWSGear-desc = An automated gear rack for Squad Weapons Specialists.
+ent-ColMarTechSWSGear-name = Стойка для снаряжения специалиста по оружию отряда ColMarTech
+ent-ColMarTechSWSGear-desc = Автоматизированная стойка для специалистов по вооружению.
 

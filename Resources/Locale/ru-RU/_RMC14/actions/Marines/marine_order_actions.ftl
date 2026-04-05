@@ -1,9 +1,8 @@
-ent-ActionMarineMove-name = Issue Order - Move
-ent-ActionMarineMove-desc = Increases speed for nearby marines. [color=red]This won't affect anyone without armor![/color]
+ent-ActionMarineMove-name = Приказать – Ускориться!
+ent-ActionMarineMove-desc = Увеличивает скорость ближайших морских пехотинцев.
 
-ent-ActionMarineHold-name = Issue Order - Hold
-ent-ActionMarineHold-desc = Increases damage resistance for nearby marines.
+ent-ActionMarineHold-name = Приказать - Удержать!
+ent-ActionMarineHold-desc = Увеличивает сопротивление урону ближайших морских пехотинцев.
 
-ent-ActionMarineFocus-name = Issue Order - Focus
-ent-ActionMarineFocus-desc = Increases gun accuracy for nearby marines.
-
+ent-ActionMarineFocus-name = Приказать — Фокус!
+ent-ActionMarineFocus-desc = Увеличивает точность оружия для ближайших морских пехотинцев. (разработчик не рекомендует использовать этот приказ)

@@ -1,126 +1,126 @@
-ent-RMCAreaVaraderoInteriorProtectedVessel-name = New Varadero - Unknown Vessel
+ent-RMCAreaVaraderoInteriorProtectedVessel-name = Новый Варадеро – неизвестное судно
 
-ent-RMCAreaVaraderoInteriorProtectedMaintenanceSouth-name = New Varadero - Southern Maintenance
+ent-RMCAreaVaraderoInteriorProtectedMaintenanceSouth-name = Новый Варадеро – Южное обслуживание
 
-ent-RMCAreaVaraderoInteriorProtectedCavesSwcaves-name = New Varadero - Southwest Caves
+ent-RMCAreaVaraderoInteriorProtectedCavesSwcaves-name = Новый Варадеро – Юго-западные пещеры
 
-ent-RMCAreaVaraderoInteriorProtectedCavesDigsite-name = New Varadero - Dig Site
+ent-RMCAreaVaraderoInteriorProtectedCavesDigsite-name = Новый Варадеро — место раскопок
 
-ent-RMCAreaVaraderoInteriorProtectedCavesCentral-name = New Varadero - Grass Caves
+ent-RMCAreaVaraderoInteriorProtectedCavesCentral-name = Новый Варадеро – Травяные пещеры
 
-ent-RMCAreaVaraderoInteriorProtectedCaves-name = New Varadero - South Research Caves
+ent-RMCAreaVaraderoInteriorProtectedCaves-name = Новый Варадеро — Южные исследовательские пещеры
 
-ent-RMCAreaVaraderoInteriorCavesEast-name = New Varadero - Beach Caves
+ent-RMCAreaVaraderoInteriorCavesEast-name = Новый Варадеро – пляжные пещеры
 
-ent-RMCAreaVaraderoInteriorCavesNorthResearch-name = New Varadero - North Research Caves
+ent-RMCAreaVaraderoInteriorCavesNorthResearch-name = Новый Варадеро – Северные исследовательские пещеры
 
-ent-RMCAreaVaraderoInteriorCaves-name = New Varadero - PARENT TYPE CAVES
+ent-RMCAreaVaraderoInteriorCaves-name = Новый Варадеро - ПЕЩЕРЫ РОДИТЕЛЬСКОГО ТИПА
 
-ent-RMCAreaVaraderoInteriorRearElevator-name = New Varadero - Main Lift
+ent-RMCAreaVaraderoInteriorRearElevator-name = Нью-Варадеро – главный подъемник
 
-ent-RMCAreaVaraderoInteriorRecords-name = New Varadero - Records
+ent-RMCAreaVaraderoInteriorRecords-name = Нью Варадеро - Рекорды
 
-ent-RMCAreaVaraderoInteriorSecurity-name = New Varadero - Security Offices
+ent-RMCAreaVaraderoInteriorSecurity-name = Нью-Варадеро - Офисы безопасности
 
-ent-RMCAreaVaraderoInteriorBunks-name = New Varadero - Level 1 Quarters
+ent-RMCAreaVaraderoInteriorBunks-name = Новый Варадеро — кварталы 1-го уровня
 
-ent-RMCAreaVaraderoInteriorMess-name = New Varadero - Mess Hall
+ent-RMCAreaVaraderoInteriorMess-name = Новый Варадеро – Столовая
 
-ent-RMCAreaVaraderoInteriorCourt-name = New Varadero - Basketball Court
+ent-RMCAreaVaraderoInteriorCourt-name = Нью-Варадеро - Баскетбольная площадка
 
-ent-RMCAreaVaraderoInteriorLibrary-name = New Varadero - Library
+ent-RMCAreaVaraderoInteriorLibrary-name = Новый Варадеро - Библиотека
 
-ent-RMCAreaVaraderoInteriorAdministration-name = New Varadero - Administrative Offices
+ent-RMCAreaVaraderoInteriorAdministration-name = Нью-Варадеро – Административные офисы
 
-ent-RMCAreaVaraderoInteriorDisposals-name = New Varadero - Disposals
+ent-RMCAreaVaraderoInteriorDisposals-name = Нью-Варадеро - Утилизация
 
-ent-RMCAreaVaraderoInteriorLaundry-name = New Varadero - Laundry
+ent-RMCAreaVaraderoInteriorLaundry-name = Нью-Варадеро - Прачечная
 
-ent-RMCAreaVaraderoInteriorTechnicalStorage-name = New Varadero - Technical Storage
+ent-RMCAreaVaraderoInteriorTechnicalStorage-name = Нью-Варадеро – Технический склад
 
-ent-RMCAreaVaraderoInteriorToilets-name = New Varadero - Restrooms
+ent-RMCAreaVaraderoInteriorToilets-name = Новый Варадеро - Туалеты
 
-ent-RMCAreaVaraderoInteriorElectrical-name = New Varadero - Electrical Annex
+ent-RMCAreaVaraderoInteriorElectrical-name = Новый Варадеро — электрическая пристройка
 
-ent-RMCAreaVaraderoInteriorResearch-name = New Varadero - Research Offices
+ent-RMCAreaVaraderoInteriorResearch-name = Нью-Варадеро – исследовательские офисы
 
-ent-RMCAreaVaraderoInteriorMaintenanceSecuritySouth-name = New Varadero - South Sec. Maintenance
+ent-RMCAreaVaraderoInteriorMaintenanceSecuritySouth-name = Новый Варадеро – Южный сек. 
 
-ent-RMCAreaVaraderoInteriorMaintenanceSecurityNorth-name = New Varadero - North Sec. Maintenance
+ent-RMCAreaVaraderoInteriorMaintenanceSecurityNorth-name = Новый Варадеро - Северный сектор. 
 
-ent-RMCAreaVaraderoInteriorMaintenanceSecurity-name = New Varadero - Sec. Maintenance
+ent-RMCAreaVaraderoInteriorMaintenanceSecurity-name = Новый Варадеро – сек. 
 
-ent-RMCAreaVaraderoInteriorMaintenanceResearch-name = New Varadero - Research Maintenance
+ent-RMCAreaVaraderoInteriorMaintenanceResearch-name = Новый Варадеро — научно-исследовательское обслуживание
 
-ent-RMCAreaVaraderoInteriorMaintenanceNorth-name = New Varadero - Northern Maintenance
+ent-RMCAreaVaraderoInteriorMaintenanceNorth-name = Новый Варадеро – Северное обслуживание
 
-ent-RMCAreaVaraderoInteriorMaintenance-name = New Varadero - Central Maintenance
+ent-RMCAreaVaraderoInteriorMaintenance-name = Новый Варадеро — центральное техническое обслуживание
 
-ent-RMCAreaVaraderoInteriorMedical-name = New Varadero - Medical
+ent-RMCAreaVaraderoInteriorMedical-name = Нью-Варадеро - Медицинский
 
-ent-RMCAreaVaraderoInteriorMorgue-name = New Varadero - Morgue
+ent-RMCAreaVaraderoInteriorMorgue-name = Новый Варадеро - Морг
 
-ent-RMCAreaVaraderoInteriorChapel-name = New Vardero - Chapel
+ent-RMCAreaVaraderoInteriorChapel-name = Нью-Вардеро - Часовня
 
-ent-RMCAreaVaraderoInteriorHallSE-name = New Varadero - Hallway SE
+ent-RMCAreaVaraderoInteriorHallSE-name = Новый Варадеро – коридор SE
 
-ent-RMCAreaVaraderoInteriorHallN-name = New Varadero - Hallway N
+ent-RMCAreaVaraderoInteriorHallN-name = Новый Варадеро — коридор N
 
-ent-RMCAreaVaraderoInteriorHallNW-name = New Varadero - Hallway NW
+ent-RMCAreaVaraderoInteriorHallNW-name = Новый Варадеро — коридор СЗ
 
-ent-RMCAreaVaraderoInteriorCargo-name = New Varadero - Cargo
+ent-RMCAreaVaraderoInteriorCargo-name = Новый Варадеро - Груз
 
-ent-RMCAreaVaraderoInteriorDockControl-name = New Varadero - Dock Control
+ent-RMCAreaVaraderoInteriorDockControl-name = Новый Варадеро – контроль доков
 
-ent-RMCAreaVaraderoInteriorBeachBar-name = New Varadero - Beach Bar
+ent-RMCAreaVaraderoInteriorBeachBar-name = Новый Варадеро - Бар на пляже
 
-ent-RMCAreaVaraderoExteriorFarocean-name = New Varadero - Far Ocean
+ent-RMCAreaVaraderoExteriorFarocean-name = Новый Варадеро – Дальний океан
 
-ent-RMCAreaVaraderoExteriorEastocean-name = New Varadero - East Ocean
+ent-RMCAreaVaraderoExteriorEastocean-name = Новый Варадеро – Восточный океан
 
-ent-RMCAreaVaraderoExteriorPool-name = New Varadero - Interior Pool
+ent-RMCAreaVaraderoExteriorPool-name = Новый Варадеро - Внутренний бассейн
 
-ent-RMCAreaVaraderoExteriorMonsoon-name = New Varadero - Monsoon
+ent-RMCAreaVaraderoExteriorMonsoon-name = Нью-Варадеро - Муссон
 
-ent-RMCAreaVaraderoExteriorEastbeach-name = New Varadero - East Beach
+ent-RMCAreaVaraderoExteriorEastbeach-name = Нью-Варадеро – Восточный пляж
 
-ent-RMCAreaVaraderoExteriorPontoonBeach-name = New Varadero - Rockabilly Beach
+ent-RMCAreaVaraderoExteriorPontoonBeach-name = Новый Варадеро – пляж Рокабилли
 
-ent-RMCAreaVaraderoExteriorLz2Near-name = New Varadero - Palm Airfield
+ent-RMCAreaVaraderoExteriorLz2Near-name = Нью-Варадеро – аэродром Пальма
 
-ent-RMCAreaVaraderoExteriorLz1Near-name = New Varadero - Pontoon Airfield
+ent-RMCAreaVaraderoExteriorLz1Near-name = Нью-Варадеро - Понтонный аэродром
 
-ent-RMCAreaVaraderoExteriorLz1ConsoleTwo-name = New Varadero - Palm Airfield
+ent-RMCAreaVaraderoExteriorLz1ConsoleTwo-name = Нью-Варадеро – аэродром Пальма
 
-ent-RMCAreaVaraderoExteriorLz1Console-name = New Varadero - Pontoon Dock
+ent-RMCAreaVaraderoExteriorLz1Console-name = Нью-Варадеро – Понтонный причал
 
-ent-RMCAreaVaraderoInteriorOob-name = New Varadero - Out Of Bounds
+ent-RMCAreaVaraderoInteriorOob-name = Нью-Варадеро – за пределами поля
 
-ent-RMCAreaVaraderoExteriorComms4-name = New Varadero - Walkway Extension
+ent-RMCAreaVaraderoExteriorComms4-name = Новый Варадеро - Расширение пешеходной дорожки
 
-ent-RMCAreaVaraderoInteriorComms3-name = New Varadero - Engineering Communications
+ent-RMCAreaVaraderoInteriorComms3-name = Нью-Варадеро – Инженерные коммуникации
 
-ent-RMCAreaVaraderoInteriorComms2-name = New Varadero - Communications Project Site
+ent-RMCAreaVaraderoInteriorComms2-name = Новый Варадеро - Сайт коммуникационного проекта
 
-ent-RMCAreaVaraderoInteriorComms1-name = New Varadero - Cargo Generator
+ent-RMCAreaVaraderoInteriorComms1-name = Новый Варадеро — Генератор грузов
 
-ent-RMCAreaVaraderoInteriorProtected-name = New Varadero - Interior
+ent-RMCAreaVaraderoInteriorProtected-name = Новый Варадеро - Интерьер
 
-ent-RMCAreaVaraderoInterior-name = New Varadero - Interior
+ent-RMCAreaVaraderoInterior-name = Новый Варадеро - Интерьер
 
-ent-RMCAreaVaraderoExterior-name = New Varadero - Exterior
+ent-RMCAreaVaraderoExterior-name = Новый Варадеро — Внешний вид
 
-ent-RMCAreaShuttleDrop2Varadero-name = New Varadero - Dropship Normandy Landing Zone
+ent-RMCAreaShuttleDrop2Varadero-name = Новый Варадеро — зона высадки десантного корабля в Нормандии
 
-ent-RMCAreaShuttleDrop1Varadero-name = New Varadero - Dropship Alamo Landing Zone
+ent-RMCAreaShuttleDrop1Varadero-name = Нью-Варадеро — зона приземления десантного корабля Аламо
 
-ent-RMCAreaVaradero-name = New Varadero
+ent-RMCAreaVaradero-name = Новый Варадеро
 
-ent-RMCAreaVaraderoExteriorPontoonBeachLz-name = New Varadero - Rockabilly Beach
+ent-RMCAreaVaraderoExteriorPontoonBeachLz-name = Новый Варадеро – пляж Рокабилли
 
-ent-RMCAreaVaraderoInteriorRestaurant-name = New Varadero - Restaurant
+ent-RMCAreaVaraderoInteriorRestaurant-name = Новый Варадеро - Ресторан
 
-ent-RMCAreaVaraderoInteriorProtectedMaintenance-name = New Varadero - Interior
+ent-RMCAreaVaraderoInteriorProtectedMaintenance-name = Новый Варадеро - Интерьер
 
-ent-RMCAreaVaraderoInteriorUnregisteredShuttle-name = New Varadero - Unregistered Shuttle
+ent-RMCAreaVaraderoInteriorUnregisteredShuttle-name = Нью-Варадеро – незарегистрированный шаттл
 

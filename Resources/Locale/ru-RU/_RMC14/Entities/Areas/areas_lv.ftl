@@ -1,182 +1,182 @@
-ent-RMCAreaLv624LazarusCrashedShipContainers-name = Crashed Ship Containers
+ent-RMCAreaLv624LazarusCrashedShipContainers-name = Разбившиеся корабельные контейнеры
 
-ent-RMCAreaLv624LazarusCrashedShip-name = Crashed Ship
+ent-RMCAreaLv624LazarusCrashedShip-name = Разбившийся корабль
 
-ent-RMCAreaLv624LandingConsole2-name = LZ2 'Robotics'
+ent-RMCAreaLv624LandingConsole2-name = LZ2 «Робототехника»
 
-ent-RMCAreaLv624LandingConsole-name = LZ1 'Nexus'
+ent-RMCAreaLv624LandingConsole-name = LZ1 'Нексус'
 
-ent-RMCAreaLv624LazarusHydroponics-name = Hydroponics
+ent-RMCAreaLv624LazarusHydroponics-name = Гидропоника
 
-ent-RMCAreaLv624LazarusFitness-name = Fitness Room
+ent-RMCAreaLv624LazarusFitness-name = Фитнес-зал
 
-ent-RMCAreaLv624LazarusResearch-name = Research Lab
+ent-RMCAreaLv624LazarusResearch-name = Исследовательская лаборатория
 
-ent-RMCAreaLv624LazarusRobotics-name = Robotics
+ent-RMCAreaLv624LazarusRobotics-name = Робототехника
 
-ent-RMCAreaLv624LazarusSecureStorage-name = Secure Storage
+ent-RMCAreaLv624LazarusSecureStorage-name = Безопасное хранение
 
-ent-RMCAreaLv624LazarusComms-name = Communications Relay
+ent-RMCAreaLv624LazarusComms-name = Реле связи
 
-ent-RMCAreaLv624LazarusEngineering-name = Engineering
+ent-RMCAreaLv624LazarusEngineering-name = Инженерное дело
 
-ent-RMCAreaLv624LazarusQuartstorageOutdoors-name = Cargo Bay Area
+ent-RMCAreaLv624LazarusQuartstorageOutdoors-name = Зона грузового отсека
 
-ent-RMCAreaLv624LazarusQuartstorage-name = Cargo Bay
+ent-RMCAreaLv624LazarusQuartstorage-name = Грузовой отсек
 
-ent-RMCAreaLv624LazarusQuart-name = Quartermasters
+ent-RMCAreaLv624LazarusQuart-name = интенданты
 
-ent-RMCAreaLv624LazarusSleepFemale-name = Female Dorm
+ent-RMCAreaLv624LazarusSleepFemale-name = Женское общежитие
 
-ent-RMCAreaLv624LazarusSleepMale-name = Male Dorm
+ent-RMCAreaLv624LazarusSleepMale-name = Мужское общежитие
 
-ent-RMCAreaLv624LazarusChapel-name = Chapel
+ent-RMCAreaLv624LazarusChapel-name = Часовня
 
-ent-RMCAreaLv624LazarusToilet-name = Dormitory Toilet
+ent-RMCAreaLv624LazarusToilet-name = Общий туалет
 
-ent-RMCAreaLv624LazarusMainHall-name = Main Hallway
+ent-RMCAreaLv624LazarusMainHall-name = Главный коридор
 
-ent-RMCAreaLv624LazarusCanteen-name = Canteen
+ent-RMCAreaLv624LazarusCanteen-name = Столовая
 
-ent-RMCAreaLv624LazarusKitchen-name = Kitchen
+ent-RMCAreaLv624LazarusKitchen-name = Кухня
 
-ent-RMCAreaLv624LazarusHop-name = Head of Personnel's Office
+ent-RMCAreaLv624LazarusHop-name = Начальник отдела кадров
 
-ent-RMCAreaLv624LazarusCaptain-name = Commandant's Quarters
+ent-RMCAreaLv624LazarusCaptain-name = Комендантские помещения
 
-ent-RMCAreaLv624LazarusSecurity-name = Security
+ent-RMCAreaLv624LazarusSecurity-name = Безопасность
 
-ent-RMCAreaLv624LazarusArmory-name = Armory
+ent-RMCAreaLv624LazarusArmory-name = Оружейная палата
 
-ent-RMCAreaLv624LazarusMedbay-name = Medbay
+ent-RMCAreaLv624LazarusMedbay-name = Медбэй
 
-ent-RMCAreaLv624LazarusYggdrasil-name = Yggdrasil Tree
+ent-RMCAreaLv624LazarusYggdrasil-name = Дерево Иггдрасиль
 
-ent-RMCAreaLv624LazarusCorporateDome-name = Corporate Dome
+ent-RMCAreaLv624LazarusCorporateDome-name = Корпоративный купол
 
-ent-RMCAreaLv624LazarusLandingZonesLz2-name = Normandy Landing Zone
+ent-RMCAreaLv624LazarusLandingZonesLz2-name = Зона высадки в Нормандии
 
-ent-RMCAreaLv624LazarusLandingZonesLz1-name = Alamo Landing Zone
+ent-RMCAreaLv624LazarusLandingZonesLz1-name = Зона приземления Аламо
 
-ent-RMCAreaLv624Lazarus-name = Lazarus
+ent-RMCAreaLv624Lazarus-name = Лазарь
 
-ent-RMCAreaLv624GroundCavesSandTemplePowered-name = Sand Temple - Powered
+ent-RMCAreaLv624GroundCavesSandTemplePowered-name = Храм песка - Работает
 
-ent-RMCAreaLv624GroundCavesSandTemple-name = Sand Temple
+ent-RMCAreaLv624GroundCavesSandTemple-name = Песчаный храм
 
-ent-RMCAreaLv624GroundCavesSouthEastCaves-name = South East Caves
+ent-RMCAreaLv624GroundCavesSouthEastCaves-name = Юго-восточные пещеры
 
-ent-RMCAreaLv624GroundCavesSouthCentralCaves-name = South Central Caves
+ent-RMCAreaLv624GroundCavesSouthCentralCaves-name = Южно-центральные пещеры
 
-ent-RMCAreaLv624GroundCavesNorthCentralCavesLakeHouseTower-name = Lake House Communications Relay
+ent-RMCAreaLv624GroundCavesNorthCentralCavesLakeHouseTower-name = Реле связи дома у озера
 
-ent-RMCAreaLv624GroundCavesNorthCentralCaves-name = North Central Caves
+ent-RMCAreaLv624GroundCavesNorthCentralCaves-name = Северо-центральные пещеры
 
-ent-RMCAreaLv624GroundCavesNorthEastCaves-name = North Eastern Caves
+ent-RMCAreaLv624GroundCavesNorthEastCaves-name = Северо-восточные пещеры
 
-ent-RMCAreaLv624GroundCavesNorthWestCaves-name = North Western Caves
+ent-RMCAreaLv624GroundCavesNorthWestCaves-name = Северо-западные пещеры
 
-ent-RMCAreaLv624GroundCavesCentralCaves-name = Central Caves
+ent-RMCAreaLv624GroundCavesCentralCaves-name = Центральные пещеры
 
-ent-RMCAreaLv624GroundCavesEastCaves-name = Eastern Caves
+ent-RMCAreaLv624GroundCavesEastCaves-name = Восточные пещеры
 
-ent-RMCAreaLv624GroundCavesSouthWestCaves-name = South Western Caves
+ent-RMCAreaLv624GroundCavesSouthWestCaves-name = Юго-западные пещеры
 
-ent-RMCAreaLv624GroundCavesWestCaves-name = Western Caves
+ent-RMCAreaLv624GroundCavesWestCaves-name = Западные пещеры
 
-ent-RMCAreaLv624GroundCaves-name = Caves
+ent-RMCAreaLv624GroundCaves-name = Пещеры
 
-ent-RMCAreaLv624GroundColonyTelecommSwLz2-name = South-West LZ2 Communications Relay
+ent-RMCAreaLv624GroundColonyTelecommSwLz2-name = Юго-западное реле связи LZ2
 
-ent-RMCAreaLv624GroundColonyTelecommTcommdomeSouth-name = South Telecomms Dome Communications Relay
+ent-RMCAreaLv624GroundColonyTelecommTcommdomeSouth-name = Реле связи купола South Telecomms
 
-ent-RMCAreaLv624GroundColonyTelecommTcommdome-name = Telecomms Dome Communications Relay
+ent-RMCAreaLv624GroundColonyTelecommTcommdome-name = Реле телекоммуникационной купольной связи
 
-ent-RMCAreaLv624GroundColonyTelecommSwLz1-name = South-West LZ1 Communications Relay
+ent-RMCAreaLv624GroundColonyTelecommSwLz1-name = Юго-западное реле связи LZ1
 
-ent-RMCAreaLv624GroundColonyTelecommCargo-name = Far North Storage Dome Communications Relay
+ent-RMCAreaLv624GroundColonyTelecommCargo-name = Реле связи купольного хранилища Крайнего Севера
 
-ent-RMCAreaLv624GroundColonyTelecomm-name = LZ1 Communications Relay
+ent-RMCAreaLv624GroundColonyTelecomm-name = Реле связи LZ1
 
-ent-RMCAreaLv624GroundColonyWestTcommsRoad-name = West T-Comms Road
+ent-RMCAreaLv624GroundColonyWestTcommsRoad-name = Вест Т-Коммс Роуд
 
-ent-RMCAreaLv624GroundColonyNorthTcommsRoad-name = North T-Comms Road
+ent-RMCAreaLv624GroundColonyNorthTcommsRoad-name = Норт-Т-Коммс Роуд
 
-ent-RMCAreaLv624GroundColonyWestNexusRoad-name = West Nexus Road
+ent-RMCAreaLv624GroundColonyWestNexusRoad-name = Вест-Нексус-роуд
 
-ent-RMCAreaLv624GroundColonySouthNexusRoad-name = South Nexus Road
+ent-RMCAreaLv624GroundColonySouthNexusRoad-name = Саут-Нексус-роуд
 
-ent-RMCAreaLv624GroundColonySouthMedbayRoad-name = South Medbay Road
+ent-RMCAreaLv624GroundColonySouthMedbayRoad-name = Саут-Медбей-роуд
 
-ent-RMCAreaLv624GroundColonyNorthNexusRoad-name = North Nexus Road
+ent-RMCAreaLv624GroundColonyNorthNexusRoad-name = Норт-Нексус-роуд
 
-ent-RMCAreaLv624GroundColony-name = Weston-Yamada Compound
+ent-RMCAreaLv624GroundColony-name = Комплекс Уэстон-Ямада
 
-ent-RMCAreaLv624GroundRiverEastRiver-name = Eastern River
+ent-RMCAreaLv624GroundRiverEastRiver-name = Восточная река
 
-ent-RMCAreaLv624GroundRiverCentralRiver-name = Central River
+ent-RMCAreaLv624GroundRiverCentralRiver-name = Центральная река
 
-ent-RMCAreaLv624GroundRiverWestRiver-name = Western River
+ent-RMCAreaLv624GroundRiverWestRiver-name = Западная река
 
-ent-RMCAreaLv624GroundRiver-name = River
+ent-RMCAreaLv624GroundRiver-name = Река
 
-ent-RMCAreaLv624GroundBarrensSouthEasternJungleBarrens-name = South East Jungle Barrens
+ent-RMCAreaLv624GroundBarrensSouthEasternJungleBarrens-name = Юго-восточные пустоши джунглей
 
-ent-RMCAreaLv624GroundBarrensSouthEasternBarrens-name = South Eastern Barrens
+ent-RMCAreaLv624GroundBarrensSouthEasternBarrens-name = Юго-Восточные Степи
 
-ent-RMCAreaLv624GroundBarrensCentralBarrens-name = Central Barrens
+ent-RMCAreaLv624GroundBarrensCentralBarrens-name = Центральные Степи
 
-ent-RMCAreaLv624GroundBarrensSouthWestBarrens-name = South Western Barrens
+ent-RMCAreaLv624GroundBarrensSouthWestBarrens-name = Юго-Западные Степи
 
-ent-RMCAreaLv624GroundBarrensNorthEastBarrens-name = North Eastern Barrens
+ent-RMCAreaLv624GroundBarrensNorthEastBarrens-name = Северо-Восточные Степи
 
-ent-RMCAreaLv624GroundBarrensContainers-name = Containers
+ent-RMCAreaLv624GroundBarrensContainers-name = Контейнеры
 
-ent-RMCAreaLv624GroundBarrensEastBarrens-name = Eastern Barrens
+ent-RMCAreaLv624GroundBarrensEastBarrens-name = Восточные степи
 
-ent-RMCAreaLv624GroundBarrensWestBarrens-name = Western Barrens
+ent-RMCAreaLv624GroundBarrensWestBarrens-name = Западные Степи
 
-ent-RMCAreaLv624GroundBarrens-name = Barrens
+ent-RMCAreaLv624GroundBarrens-name = Степи
 
-ent-RMCAreaLv624GroundJungleEastCentralJungle-name = East Central Jungle
+ent-RMCAreaLv624GroundJungleEastCentralJungle-name = Восточно-центральные джунгли
 
-ent-RMCAreaLv624GroundJungleWestCentralJungle-name = West Central Jungle
+ent-RMCAreaLv624GroundJungleWestCentralJungle-name = Западно-центральные джунгли
 
-ent-RMCAreaLv624GroundJungleCentralJungle-name = Central Jungle
+ent-RMCAreaLv624GroundJungleCentralJungle-name = Центральные джунгли
 
-ent-RMCAreaLv624GroundJungleNorthEastJungle-name = Northeast Jungle
+ent-RMCAreaLv624GroundJungleNorthEastJungle-name = Северо-восточные джунгли
 
-ent-RMCAreaLv624GroundJungleNorthJungle-name = Northern Jungle
+ent-RMCAreaLv624GroundJungleNorthJungle-name = Северные джунгли
 
-ent-RMCAreaLv624GroundJungleNorthWestJungle-name = Northwest Jungle
+ent-RMCAreaLv624GroundJungleNorthWestJungle-name = Северо-западные джунгли
 
-ent-RMCAreaLv624GroundJungleEastJungle-name = Eastern Jungle
+ent-RMCAreaLv624GroundJungleEastJungle-name = Восточные джунгли
 
-ent-RMCAreaLv624GroundJungleWestJungle-name = Western Jungle
+ent-RMCAreaLv624GroundJungleWestJungle-name = Западные джунгли
 
-ent-RMCAreaLv624GroundJungleSouthWestJungle-name = Southwest Jungle
+ent-RMCAreaLv624GroundJungleSouthWestJungle-name = Юго-западные джунгли
 
-ent-RMCAreaLv624GroundJungleSouthCentralJungle-name = Southern Central Jungle
+ent-RMCAreaLv624GroundJungleSouthCentralJungle-name = Южные центральные джунгли
 
-ent-RMCAreaLv624GroundJungleSouthEastJungle-name = Southeast Jungle
+ent-RMCAreaLv624GroundJungleSouthEastJungle-name = Юго-восточные джунгли
 
-ent-RMCAreaLv624Ground-name = Ground
+ent-RMCAreaLv624Ground-name = Земля
 
-ent-RMCAreaLv624-name = area
+ent-RMCAreaLv624-name = область
 
-ent-RMCAreaLv624GroundJungle-name = Ground
+ent-RMCAreaLv624GroundJungle-name = Земля
 
-ent-RMCAreaLv624GroundJungleSouthWestJungleCeiling-name = Southwest Jungle
+ent-RMCAreaLv624GroundJungleSouthWestJungleCeiling-name = Юго-западные джунгли
 
-ent-RMCAreaLv624GroundJungleWestJungleCeiling-name = Western Jungle
+ent-RMCAreaLv624GroundJungleWestJungleCeiling-name = Западные джунгли
 
-ent-RMCAreaLv624GroundBarrensWestBarrensCeiling-name = Western Barrens
+ent-RMCAreaLv624GroundBarrensWestBarrensCeiling-name = Западные Степи
 
-ent-RMCAreaLv624GroundBarrensEastBarrensCeiling-name = Eastern Barrens
+ent-RMCAreaLv624GroundBarrensEastBarrensCeiling-name = Восточные степи
 
-ent-RMCAreaLv624GroundBarrensNorthEastBarrensCeiling-name = North Eastern Barrens
+ent-RMCAreaLv624GroundBarrensNorthEastBarrensCeiling-name = Северо-Восточные Степи
 
-ent-RMCAreaLv624LazarusLandingZones-name = Lazarus
+ent-RMCAreaLv624LazarusLandingZones-name = Лазарь
 
-ent-RMCAreaLv624Landing-name = area
+ent-RMCAreaLv624Landing-name = область
 

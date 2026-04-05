@@ -1,3 +1,3 @@
-ent-RMCSpawnPointCLFStandardPVE-name = clf standard spawn point
-ent-RMCSpawnPointCLFStandardPVE-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointCLFStandardPVE-name = clf стандартная точка появления
+ent-RMCSpawnPointCLFStandardPVE-desc = Создатель заданий RMC14. 
 

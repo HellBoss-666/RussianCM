@@ -1,36 +1,36 @@
-ent-Bedroll-name = bedroll
-ent-Bedroll-desc = A foldable bedroll, just about the only thing of comfort in the field. You're generally supposed to unroll it before sleeping, but who needs rules?
+ent-Bedroll-name = спальный мешок
+ent-Bedroll-desc = Складная кровать — чуть ли не единственное удобство в полевых условиях. 
 
-ent-RMCBedAlien-name = alien bed
-ent-RMCBedAlien-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedAlien-name = инопланетная кровать
+ent-RMCBedAlien-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-CMBed-name = bed
-ent-CMBed-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-CMBed-name = кровать
+ent-CMBed-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedAlt-name = bed
-ent-RMCBedAlt-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedAlt-name = кровать
+ent-RMCBedAlt-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedPsych-name = bed
-ent-RMCBedPsych-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedPsych-name = кровать
+ent-RMCBedPsych-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedDingy-name = bed
-ent-RMCBedDingy-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedDingy-name = кровать
+ent-RMCBedDingy-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedBunk-name = black bunk-bed
-ent-RMCBedBunk-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedBunk-name = черная двухъярусная кровать
+ent-RMCBedBunk-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedBunkBlue-name = blue bunk-bed
-ent-RMCBedBunkBlue-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedBunkBlue-name = синяя двухъярусная кровать
+ent-RMCBedBunkBlue-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedBunkGreen-name = green bunk-bed
-ent-RMCBedBunkGreen-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedBunkGreen-name = зеленая двухъярусная кровать
+ent-RMCBedBunkGreen-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedBunkGreenUnanchored-name = green bunk-bed
-ent-RMCBedBunkGreenUnanchored-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedBunkGreenUnanchored-name = зеленая двухъярусная кровать
+ent-RMCBedBunkGreenUnanchored-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-RMCBedBunkRed-name = red bunk-bed
-ent-RMCBedBunkRed-desc = A mattress seated on a rectangular metallic frame. This is used to support a lying person in a comfortable manner, notably for regular sleep. Ancient technology, but still useful.
+ent-RMCBedBunkRed-name = красная двухъярусная кровать
+ent-RMCBedBunkRed-desc = Матрас на прямоугольном металлическом каркасе. 
 
-ent-BedrollFolded-name = bedroll
-ent-BedrollFolded-desc = A foldable bedroll, just about the only thing of comfort in the field. You're generally supposed to unroll it before sleeping, but who needs rules?
+ent-BedrollFolded-name = спальный мешок
+ent-BedrollFolded-desc = Складная кровать — чуть ли не единственное удобство в полевых условиях. 
 

@@ -1,162 +1,162 @@
-ent-RMCLockerTSEPA-name = constable's locker
-ent-RMCLockerTSEPA-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerTSEPA-name = шкафчик констебля
+ent-RMCLockerTSEPA-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerTSEPASeniorConstable-name = senior constable's locker
-ent-RMCLockerTSEPASeniorConstable-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerTSEPASeniorConstable-name = шкафчик старшего констебля
+ent-RMCLockerTSEPASeniorConstable-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCCabinetTSEPAInspector-name = inspector's cabinet
-ent-RMCCabinetTSEPAInspector-desc = It's an immobile card-locked storage unit.
+ent-RMCCabinetTSEPAInspector-name = кабинет инспектора
+ent-RMCCabinetTSEPAInspector-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerHeavyGunnerCLF-name = heavy gunner locker
-ent-RMCLockerHeavyGunnerCLF-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerHeavyGunnerCLF-name = тяжелый шкафчик наводчика
+ent-RMCLockerHeavyGunnerCLF-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorPMCTwo-name = squad two support gunner locker
-ent-RMCLockerSmartGunOperatorPMCTwo-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorPMCTwo-name = шкафчик наводчика поддержки второго отделения
+ent-RMCLockerSmartGunOperatorPMCTwo-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorPMCOne-name = squad one support gunner locker
-ent-RMCLockerSmartGunOperatorPMCOne-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorPMCOne-name = шкафчик наводчика поддержки первого отряда
+ent-RMCLockerSmartGunOperatorPMCOne-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSquadLeaderPMC-name = force lead locker
-ent-RMCLockerSquadLeaderPMC-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSquadLeaderPMC-name = силовой шкафчик
+ent-RMCLockerSquadLeaderPMC-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorFour-name = squad four smartgun operator locker
-ent-RMCLockerSmartGunOperatorFour-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorFour-name = шкафчик для оператора смартгана четвертого отряда
+ent-RMCLockerSmartGunOperatorFour-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorThree-name = squad three smartgun operator locker
-ent-RMCLockerSmartGunOperatorThree-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorThree-name = шкафчик для оператора смартгана третьего отряда
+ent-RMCLockerSmartGunOperatorThree-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorTwo-name = squad two smartgun operator locker
-ent-RMCLockerSmartGunOperatorTwo-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorTwo-name = шкафчик для оператора смартгана второго отряда
+ent-RMCLockerSmartGunOperatorTwo-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorOne-name = squad one smartgun operator locker
-ent-RMCLockerSmartGunOperatorOne-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorOne-name = шкафчик для оператора смартгана первого отряда
+ent-RMCLockerSmartGunOperatorOne-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSquadLeader-name = section sergeant locker
-ent-RMCLockerSquadLeader-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSquadLeader-name = шкафчик сержанта отделения
+ent-RMCLockerSquadLeader-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerDetective-name = detective's cabinet
-ent-RMCLockerDetective-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerDetective-name = кабинет детектива
+ent-RMCLockerDetective-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCCabinet-name = cabinet
-ent-RMCCabinet-desc = It's an immobile card-locked storage unit.
+ent-RMCCabinet-name = кабинет
+ent-RMCCabinet-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerResearchDirector-name = research director's locker
-ent-RMCLockerResearchDirector-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerResearchDirector-name = шкафчик директора по исследованиям
+ent-RMCLockerResearchDirector-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerDelta-name = delta squad locker
-ent-CMLockerDelta-desc = It's an immobile card-locked storage unit.
+ent-CMLockerDelta-name = шкафчик отряда Дельта
+ent-CMLockerDelta-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerCharlie-name = charlie squad locker
-ent-CMLockerCharlie-desc = It's an immobile card-locked storage unit.
+ent-CMLockerCharlie-name = шкафчик отряда Чарли
+ent-CMLockerCharlie-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerBravo-name = bravo squad locker
-ent-CMLockerBravo-desc = It's an immobile card-locked storage unit.
+ent-CMLockerBravo-name = шкафчик отряда браво
+ent-CMLockerBravo-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerAlpha-name = alpha squad locker
-ent-CMLockerAlpha-desc = It's an immobile card-locked storage unit.
+ent-CMLockerAlpha-name = шкафчик отряда альфа
+ent-CMLockerAlpha-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerEngineerGeneric-name = workshop materials
-ent-RMCLockerEngineerGeneric-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerEngineerGeneric-name = материалы семинара
+ent-RMCLockerEngineerGeneric-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerEngineerWelder-name = welding supplies
-ent-CMLockerEngineerWelder-desc = It's an immobile card-locked storage unit.
+ent-CMLockerEngineerWelder-name = сварочные материалы
+ent-CMLockerEngineerWelder-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerEngineerElectrical-name = electrical supplies
-ent-CMLockerEngineerElectrical-desc = It's an immobile card-locked storage unit.
+ent-CMLockerEngineerElectrical-name = электроприборы
+ent-CMLockerEngineerElectrical-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerEngineer-name = engineer's locker
-ent-CMLockerEngineer-desc = It's an immobile card-locked storage unit.
+ent-CMLockerEngineer-name = шкафчик инженера
+ent-CMLockerEngineer-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerCE-name = chief engineer's locker
-ent-CMLockerCE-desc = It's an immobile card-locked storage unit.
+ent-CMLockerCE-name = шкафчик главного инженера
+ent-CMLockerCE-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerCMO-name = chief medical officer's locker
-ent-CMLockerCMO-desc = It's an immobile card-locked storage unit.
+ent-CMLockerCMO-name = шкафчик главного врача
+ent-CMLockerCMO-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerResearcher-name = researcher's locker
-ent-CMLockerResearcher-desc = It's an immobile card-locked storage unit.
+ent-CMLockerResearcher-name = шкафчик исследователя
+ent-CMLockerResearcher-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerSEA-name = SEA's locker
-ent-CMLockerSEA-desc = It's an immobile card-locked storage unit.
+ent-CMLockerSEA-name = шкафчик SEA
+ent-CMLockerSEA-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerCargo-name = requisitions technician's locker
-ent-CMLockerCargo-desc = It's an immobile card-locked storage unit.
+ent-CMLockerCargo-name = шкафчик технического специалиста
+ent-CMLockerCargo-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerQM-name = Logistics Officer's locker
-ent-CMLockerQM-desc = It's an immobile card-locked storage unit.
+ent-CMLockerQM-name = Шкафчик офицера по логистике
+ent-CMLockerQM-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerHydro-name = botanist's locker
-ent-RMCLockerHydro-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerHydro-name = шкафчик ботаника
+ent-RMCLockerHydro-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerHydroResearch-name = hydroponics research locker
-ent-CMLockerHydroResearch-desc = It's an immobile card-locked storage unit.
+ent-CMLockerHydroResearch-name = шкафчик для исследований гидропоники
+ent-CMLockerHydroResearch-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerMedicalWhite-name = medical locker
-ent-CMLockerMedicalWhite-desc = It's an immobile card-locked storage unit.
+ent-CMLockerMedicalWhite-name = медицинский шкафчик
+ent-CMLockerMedicalWhite-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerMedical-name = medical doctor's locker
-ent-CMLockerMedical-desc = It's an immobile card-locked storage unit.
+ent-CMLockerMedical-name = шкафчик врача
+ent-CMLockerMedical-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerWarden-name = warden's locker
-ent-CMLockerWarden-desc = It's an immobile card-locked storage unit.
+ent-CMLockerWarden-name = шкафчик начальника
+ent-CMLockerWarden-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerCMP-name = chief MP's locker
-ent-CMLockerCMP-desc = It's an immobile card-locked storage unit.
+ent-CMLockerCMP-name = шкафчик главного депутата
+ent-CMLockerCMP-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerGunRed-name = red alert gun cabinet
-ent-RMCLockerGunRed-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerGunRed-name = красный шкаф с оружием
+ent-RMCLockerGunRed-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerGun-name = gun cabinet
-ent-RMCLockerGun-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerGun-name = оружейный шкаф
+ent-RMCLockerGun-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerGunBlue-name = riot control equipment Cabinet
-ent-RMCLockerGunBlue-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerGunBlue-name = оборудование для борьбы с беспорядками Шкаф
+ent-RMCLockerGunBlue-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerGunBase-name = gun cabinet
-ent-RMCLockerGunBase-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerGunBase-name = оружейный шкаф
+ent-RMCLockerGunBase-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerPoliceSoro-name = security officer's locker
-ent-RMCLockerPoliceSoro-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerPoliceSoro-name = шкафчик офицера безопасности
+ent-RMCLockerPoliceSoro-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerPolice-name = military police's locker
-ent-CMLockerPolice-desc = It's an immobile card-locked storage unit.
+ent-CMLockerPolice-name = шкафчик военной полиции
+ent-CMLockerPolice-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerPilot-name = pilot's locker
-ent-CMLockerPilot-desc = It's an immobile card-locked storage unit.
+ent-CMLockerPilot-name = рундук пилота
+ent-CMLockerPilot-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerStaff-name = staff officer's locker
-ent-CMLockerStaff-desc = It's an immobile card-locked storage unit.
+ent-CMLockerStaff-name = шкафчик штабного офицера
+ent-CMLockerStaff-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSecureSafe-name = secure safe
-ent-RMCLockerSecureSafe-desc = A safe for an important person to store any valuables or equipment they need. The hinges have begun to rust.
+ent-RMCLockerSecureSafe-name = безопасный сейф
+ent-RMCLockerSecureSafe-desc = Сейф для важного человека, в котором можно хранить любые ценные вещи или необходимое оборудование. 
 
-ent-CMLockerCommanderSecure-name = commanding officer's secure box
-ent-CMLockerCommanderSecure-desc = A safe for the Commanding Officer to store any equipment they need to have ready at a moment's notice. There's a note inside saying that whatever was inside it before was moved out.
+ent-CMLockerCommanderSecure-name = безопасный ящик командира
+ent-CMLockerCommanderSecure-desc = Сейф, в котором командир может хранить любое оборудование, которое ему необходимо иметь наготове в любой момент. 
 
-ent-CMLockerCommander-name = commanding officer's locker
-ent-CMLockerCommander-desc = It's an immobile card-locked storage unit.
+ent-CMLockerCommander-name = шкафчик командира
+ent-CMLockerCommander-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerBase-name = secure locker
-ent-CMLockerBase-desc = It's an immobile card-locked storage unit.
+ent-CMLockerBase-name = безопасный шкафчик
+ent-CMLockerBase-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSecureSafeColony-name = secure safe
-ent-RMCLockerSecureSafeColony-desc = A safe for an important person to store any valuables or equipment they need. The hinges have begun to rust.
+ent-RMCLockerSecureSafeColony-name = безопасный сейф
+ent-RMCLockerSecureSafeColony-desc = Сейф для важного человека, в котором можно хранить любые ценные вещи или необходимое оборудование. 
 
-ent-RMCLockerSecureSafeLiaison-name = secure safe
-ent-RMCLockerSecureSafeLiaison-desc = A huge chunk of metal with a dial embedded in it. Fine print on the dial reads "Scarborough Arms - 2 tumbler safe, guaranteed thermite resistant, and explosion resistant."
+ent-RMCLockerSecureSafeLiaison-name = безопасный сейф
+ent-RMCLockerSecureSafeLiaison-desc = Огромный кусок металла со встроенным в него циферблатом. 
 
-ent-RMCLockerGunStorageBrig-name = Storage Cabinet
-ent-RMCLockerGunStorageBrig-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerGunStorageBrig-name = Шкаф для хранения
+ent-RMCLockerGunStorageBrig-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerGunStorageCommand-name = Storage Cabinet
-ent-RMCLockerGunStorageCommand-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerGunStorageCommand-name = Шкаф для хранения
+ent-RMCLockerGunStorageCommand-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSquadLeaderSPP-name = section lead locker
-ent-RMCLockerSquadLeaderSPP-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSquadLeaderSPP-name = шкафчик для свинца секции
+ent-RMCLockerSquadLeaderSPP-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorSPPOne-name = squad one heavy gunner locker
-ent-RMCLockerSmartGunOperatorSPPOne-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorSPPOne-name = шкафчик тяжелого стрелка первого отряда
+ent-RMCLockerSmartGunOperatorSPPOne-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerSmartGunOperatorSPPTwo-name = squad two heavy gunner locker
-ent-RMCLockerSmartGunOperatorSPPTwo-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerSmartGunOperatorSPPTwo-name = шкафчик тяжелого стрелка второго отделения
+ent-RMCLockerSmartGunOperatorSPPTwo-desc = Это неподвижное хранилище, закрывающееся картой.
 

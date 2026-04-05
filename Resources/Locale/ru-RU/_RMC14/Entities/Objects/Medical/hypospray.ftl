@@ -1,6 +1,6 @@
-ent-CMHypospray-name = item
+ent-CMHypospray-name = элемент
 
-ent-CMHyposprayWithVial-name = item
+ent-CMHyposprayWithVial-name = элемент
 
-ent-CMHyposprayFilledTricord-name = item
+ent-CMHyposprayFilledTricord-name = элемент
 

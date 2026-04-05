@@ -1,3 +1,3 @@
-ent-CMSpawnPointDCC-name = dropship crew chief spawn point
-ent-CMSpawnPointDCC-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointDCC-name = Место появления начальника экипажа десантного корабля
+ent-CMSpawnPointDCC-desc = Создатель заданий RMC14. 
 

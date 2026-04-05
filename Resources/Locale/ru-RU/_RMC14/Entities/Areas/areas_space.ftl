@@ -1,32 +1,32 @@
-ent-RMCAreaTdomeTdomeobserve-name = abandoned Thunderdome (Observer.)
+ent-RMCAreaTdomeTdomeobserve-name = заброшенный Громовой Купол (Наблюдатель.)
 
-ent-RMCAreaTdomeTdomeadmin-name = abandoned Thunderdome (Admin.)
+ent-RMCAreaTdomeTdomeadmin-name = заброшенный Громовой Купол (Админ.)
 
-ent-RMCAreaTdomeTdome2-name = abandoned Thunderdome (Team 2)
+ent-RMCAreaTdomeTdome2-name = заброшенный Громовой Купол (Команда 2)
 
-ent-RMCAreaTdomeTdome1-name = abandoned Thunderdome (Team 1)
+ent-RMCAreaTdomeTdome1-name = заброшенный Громовой Купол (Команда 1)
 
-ent-RMCAreaTdome-name = abandoned Thunderdome
+ent-RMCAreaTdome-name = заброшенный Громовой Купол
 
-ent-RMCAreaCentcomLiving-name = abandoned Centcom Living Quarters
+ent-RMCAreaCentcomLiving-name = заброшенные жилые помещения Центкома
 
-ent-RMCAreaCentcomControl-name = abandoned Centcom Control
+ent-RMCAreaCentcomControl-name = заброшенный Centcom Control
 
-ent-RMCAreaCentcom-name = abandoned Centcom
+ent-RMCAreaCentcom-name = заброшенный Центком
 
-ent-RMCAreaStart-name = start area
+ent-RMCAreaStart-name = стартовая зона
 
-ent-RMCAreaSpaceHighalt-name = High Altitude
+ent-RMCAreaSpaceHighalt-name = Большая высота
 
-ent-RMCAreaAdminDroppodLoading-name = Admin Supply Drops Loading
+ent-RMCAreaAdminDroppodLoading-name = Административные поставки снижают загрузку
 
-ent-RMCAreaAdminDroppodHolding-name = Admin Supply Drops Droppod
+ent-RMCAreaAdminDroppodHolding-name = Административные поставки Droppod
 
-ent-RMCAreaAdmin-name = Admin room
+ent-RMCAreaAdmin-name = Комната администратора
 
-ent-RMCAreaSpace-name = Space
+ent-RMCAreaSpace-name = Космос
 
-ent-RMCAreaEngine-name = area
+ent-RMCAreaEngine-name = область
 
-ent-RMCAreaAdminDroppod-name = Admin room
+ent-RMCAreaAdminDroppod-name = Комната администратора
 

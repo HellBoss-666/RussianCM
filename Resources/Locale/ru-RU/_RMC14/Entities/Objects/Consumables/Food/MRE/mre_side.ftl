@@ -1,30 +1,30 @@
-ent-CMMREFoodRisotto-name = risotto
-ent-CMMREFoodRisotto-desc = The contents of a Marine Standard issue MRE. This one is risotto.
+ent-CMMREFoodRisotto-name = ризотто
+ent-CMMREFoodRisotto-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodMashedPotatoes-name = mashed potatoes
-ent-CMMREFoodMashedPotatoes-desc = The contents of a Marine Standard issue MRE. This one is mashed potatoes.
+ent-CMMREFoodMashedPotatoes-name = картофельное пюре
+ent-CMMREFoodMashedPotatoes-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodRiceOnigiri-name = rice onigiri
-ent-CMMREFoodRiceOnigiri-desc = The contents of a Marine Standard issue MRE. This one is rice onigiri.
+ent-CMMREFoodRiceOnigiri-name = рисовый онигири
+ent-CMMREFoodRiceOnigiri-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodCracker-name = cracker
-ent-CMMREFoodCracker-desc = The contents of a Marine Standard issue MRE. This one is a cracker.
+ent-CMMREFoodCracker-name = крекер
+ent-CMMREFoodCracker-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREComponentRisotto-name = MRE component (risotto)
-ent-CMMREComponentRisotto-desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is risotto.
+ent-CMMREComponentRisotto-name = Компонент MRE (ризотто)
+ent-CMMREComponentRisotto-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentMashedPotatoes-name = MRE component (mashed potatoes)
-ent-CMMREComponentMashedPotatoes-desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is mashed potatoes.
+ent-CMMREComponentMashedPotatoes-name = Компонент МРЭ (картофельное пюре)
+ent-CMMREComponentMashedPotatoes-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentRiceOnigiri-name = MRE component (rice onigiri)
-ent-CMMREComponentRiceOnigiri-desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is rice onigiri.
+ent-CMMREComponentRiceOnigiri-name = Компонент MRE (рисовый онигири)
+ent-CMMREComponentRiceOnigiri-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentCracker-name = MRE component (cracker)
-ent-CMMREComponentCracker-desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is a cracker.
+ent-CMMREComponentCracker-name = Компонент MRE (взломщик)
+ent-CMMREComponentCracker-desc = Побочный компонент MRE. 
 
-ent-CMMRESideComponentBase-name = MRE component
-ent-CMMRESideComponentBase-desc = An MRE side component. Contains a side, to be eaten alongside the main.
+ent-CMMRESideComponentBase-name = компонент MRE
+ent-CMMRESideComponentBase-desc = Побочный компонент MRE. 
 
-ent-CMMREFoodSide-name = item
-ent-CMMREFoodSide-desc = The contents of a Marine Standard issue MRE.
+ent-CMMREFoodSide-name = элемент
+ent-CMMREFoodSide-desc = Содержание выпуска Морпех Standard MRE.
 

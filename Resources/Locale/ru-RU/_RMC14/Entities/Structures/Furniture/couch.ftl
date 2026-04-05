@@ -1,21 +1,21 @@
-ent-RMCCouchLeftBar-name = bar booth
-ent-RMCCouchLeftBar-desc = An old wooden booth with red cushioning. There are stains in the cushions.
+ent-RMCCouchLeftBar-name = барная будка
+ent-RMCCouchLeftBar-desc = Старая деревянная будка с красной подкладкой. 
 
-ent-RMCCouchMid-name = couch
-ent-RMCCouchMid-desc = A piece of Swedish flat pack furniture, just dont ask the MTs for an Allen key.
+ent-RMCCouchMid-name = диван
+ent-RMCCouchMid-desc = Кусок шведской плоской мебели, только не просите у МТ шестигранный ключ.
 
-ent-RMCCouchEnd-name = couch
-ent-RMCCouchEnd-desc = A piece of Swedish flat pack furniture, just dont ask the MTs for an Allen key.
+ent-RMCCouchEnd-name = диван
+ent-RMCCouchEnd-desc = Кусок шведской плоской мебели, только не просите у МТ шестигранный ключ.
 
-ent-RMCCouchMidRed-name = red couch
-ent-RMCCouchMidRed-desc = A piece of Swedish flat pack furniture, just dont ask the MTs for an Allen key.
+ent-RMCCouchMidRed-name = красный диван
+ent-RMCCouchMidRed-desc = Кусок шведской плоской мебели, только не просите у МТ шестигранный ключ.
 
-ent-RMCCouchEndLowerRed-name = red couch
-ent-RMCCouchEndLowerRed-desc = A piece of Swedish flat pack furniture, just dont ask the MTs for an Allen key.
+ent-RMCCouchEndLowerRed-name = красный диван
+ent-RMCCouchEndLowerRed-desc = Кусок шведской плоской мебели, только не просите у МТ шестигранный ключ.
 
-ent-RMCCouchEndUpperRed-name = red couch
-ent-RMCCouchEndUpperRed-desc = A piece of Swedish flat pack furniture, just dont ask the MTs for an Allen key.
+ent-RMCCouchEndUpperRed-name = красный диван
+ent-RMCCouchEndUpperRed-desc = Кусок шведской плоской мебели, только не просите у МТ шестигранный ключ.
 
-ent-RMCCouchRightBar-name = bar booth
-ent-RMCCouchRightBar-desc = An old wooden booth with red cushioning. There are stains in the cushions.
+ent-RMCCouchRightBar-name = барная будка
+ent-RMCCouchRightBar-desc = Старая деревянная будка с красной подкладкой. 
 

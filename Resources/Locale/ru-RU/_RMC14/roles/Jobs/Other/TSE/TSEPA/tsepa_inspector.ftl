@@ -1,3 +1,3 @@
-ent-RMCSpawnPointTSEPAInspector-name = tsepa inspector spawn point
-ent-RMCSpawnPointTSEPAInspector-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointTSEPAInspector-name = точка появления инспектора цепы
+ent-RMCSpawnPointTSEPAInspector-desc = Создатель заданий RMC14. 
 

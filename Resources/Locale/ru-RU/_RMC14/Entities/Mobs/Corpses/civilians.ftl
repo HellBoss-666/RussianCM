@@ -1,2 +1,2 @@
-ent-RMCGuidebookCorpseColonistBurst-name = Dead Colonist
+ent-RMCGuidebookCorpseColonistBurst-name = Мертвый колонист
 

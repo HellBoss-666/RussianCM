@@ -1,5 +1,5 @@
-ent-RMCGuidebookRoleIO-name = Intelligence Officer
+ent-RMCGuidebookRoleIO-name = Офицер разведки
 
-ent-CMSpawnPointIntelOfficer-name = intel officer spawn point
-ent-CMSpawnPointIntelOfficer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointIntelOfficer-name = точка появления офицера разведки
+ent-CMSpawnPointIntelOfficer-desc = Создатель заданий RMC14. 
 

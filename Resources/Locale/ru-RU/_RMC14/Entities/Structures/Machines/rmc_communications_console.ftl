@@ -1,36 +1,36 @@
-ent-RMCLifeboatConsole-name = lifeboat console
-ent-RMCLifeboatConsole-desc = A lifeboat control computer.
+ent-RMCLifeboatConsole-name = консоль спасательной шлюпки
+ent-RMCLifeboatConsole-desc = Компьютер управления спасательной шлюпкой.
 
-ent-RMCEscapePodController-name = escape pod controller
-ent-RMCEscapePodController-desc = A shuttle control computer.
+ent-RMCEscapePodController-name = контроллер спасательной капсулы
+ent-RMCEscapePodController-desc = Компьютер управления шаттлом.
 
-ent-RMCTacticalMapTable-name = map table
-ent-RMCTacticalMapTable-desc = A table that displays a map of the current operation location.
+ent-RMCTacticalMapTable-name = таблица карт
+ent-RMCTacticalMapTable-desc = Таблица, отображающая карту текущего местоположения операции.
 
-ent-RMCOverwatchConsole-name = overwatch console
-ent-RMCOverwatchConsole-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsole-name = консоль наблюдения
+ent-RMCOverwatchConsole-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCWarshipControlConsole-name = almayer control console
-ent-RMCWarshipControlConsole-desc = This is used for controlling ship and its related functions.
+ent-RMCWarshipControlConsole-name = консоль управления алмайера
+ent-RMCWarshipControlConsole-desc = Используется для управления кораблем и связанными с ним функциями.
 
-ent-RMCGroundsideOperationsConsole-name = groundside operations console
-ent-RMCGroundsideOperationsConsole-desc = This can be used for various important functions.
+ent-RMCGroundsideOperationsConsole-name = наземный пульт управления
+ent-RMCGroundsideOperationsConsole-desc = Это можно использовать для различных важных функций.
 
-ent-RMCOverwatchConsoleRotating-name = overwatch console
-ent-RMCOverwatchConsoleRotating-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleRotating-name = консоль наблюдения
+ent-RMCOverwatchConsoleRotating-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleRotatingPowered-name = overwatch console
-ent-RMCOverwatchConsoleRotatingPowered-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleRotatingPowered-name = консоль наблюдения
+ent-RMCOverwatchConsoleRotatingPowered-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCTacticalMapTableLarge-name = map table
-ent-RMCTacticalMapTableLarge-desc = A table that displays a map of the current operation location.
+ent-RMCTacticalMapTableLarge-name = таблица карт
+ent-RMCTacticalMapTableLarge-desc = Таблица, отображающая карту текущего местоположения операции.
 
-ent-RMCTacticalMapTableLargeRotated-name = map table
-ent-RMCTacticalMapTableLargeRotated-desc = A table that displays a map of the current operation location.
+ent-RMCTacticalMapTableLargeRotated-name = таблица карт
+ent-RMCTacticalMapTableLargeRotated-desc = Таблица, отображающая карту текущего местоположения операции.
 
-ent-RMCTacticalMapTableLargeSquare-name = map table
-ent-RMCTacticalMapTableLargeSquare-desc = A table that displays a map of the current operation location.
+ent-RMCTacticalMapTableLargeSquare-name = таблица карт
+ent-RMCTacticalMapTableLargeSquare-desc = Таблица, отображающая карту текущего местоположения операции.
 
-ent-RMCEscapePodControllerLiaison-name = escape pod controller
-ent-RMCEscapePodControllerLiaison-desc = A shuttle control computer.
+ent-RMCEscapePodControllerLiaison-name = контроллер спасательной капсулы
+ent-RMCEscapePodControllerLiaison-desc = Компьютер управления шаттлом.
 

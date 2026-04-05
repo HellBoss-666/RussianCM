@@ -1,26 +1,26 @@
-ent-RMCMapInsertTrijentShipGone-name = Ship Gone
+ent-RMCMapInsertTrijentShipGone-name = Корабль ушел
 
-ent-RMCMapInsertTrijentTempleIntact-name = Temple Intact
+ent-RMCMapInsertTrijentTempleIntact-name = Храм неповреждён
 
-ent-RMCMapInsertTrijentCaveInEngineering-name = Cave in Engineering
+ent-RMCMapInsertTrijentCaveInEngineering-name = Пещера в инженерии
 
-ent-RMCMapInsertTrijentPurpleBridge-name = Purple River New Bridge
+ent-RMCMapInsertTrijentPurpleBridge-name = Новый мост Пурпурной реки
 
-ent-RMCMapInsertTrijentGreenBridge-name = Green River New Bridge
+ent-RMCMapInsertTrijentGreenBridge-name = Новый мост Грин-Ривер
 
-ent-RMCMapInsertTrijentBase-name = Map Insert Base
+ent-RMCMapInsertTrijentBase-name = База для вставки карты
 
-ent-RMCMapInsertTrijentCLFPods-name = CLF Pods
+ent-RMCMapInsertTrijentCLFPods-name = Стручки CLF
 
-ent-RMCMapInsertTrijentCrashlandingSPPBar-name = Crashlanding SPP Bar
+ent-RMCMapInsertTrijentCrashlandingSPPBar-name = Бар Crashlanding SPP
 
-ent-RMCMapInsertTrijentMiniEvacWestResearch-name = Mini-evac West Research
+ent-RMCMapInsertTrijentMiniEvacWestResearch-name = Мини-эвакуация West Research
 
-ent-RMCMapInsertTrijentSurvSpawnHospital-name = Hospital Surv Spawn
+ent-RMCMapInsertTrijentSurvSpawnHospital-name = Больница Surv Spawn
 
-ent-RMCMapInsertTrijentSurvSpawnDam-name = Dam Surv Spawn
+ent-RMCMapInsertTrijentSurvSpawnDam-name = Появление плотины Surv
 
-ent-RMCMapInsertTrijentSurvSpawnBar-name = Bar Surv Spawn
+ent-RMCMapInsertTrijentSurvSpawnBar-name = Бар Surv Спаун
 
-ent-RMCMapInsertTrijentSurvSpawnTunnelDorm-name = Tunnel Dorm Surv Spawn
+ent-RMCMapInsertTrijentSurvSpawnTunnelDorm-name = Туннельное общежитие Surv Spawn
 

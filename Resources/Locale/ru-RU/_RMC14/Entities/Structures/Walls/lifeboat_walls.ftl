@@ -1,246 +1,246 @@
-ent-RMCWallLifeboat00-name = wall
-ent-RMCWallLifeboat00-desc = Separates you from certain death.
+ent-RMCWallLifeboat00-name = стена
+ent-RMCWallLifeboat00-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat01-name = wall
-ent-RMCWallLifeboat01-desc = Separates you from certain death.
+ent-RMCWallLifeboat01-name = стена
+ent-RMCWallLifeboat01-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat02-name = wall
-ent-RMCWallLifeboat02-desc = Separates you from certain death.
+ent-RMCWallLifeboat02-name = стена
+ent-RMCWallLifeboat02-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat03-name = wall
-ent-RMCWallLifeboat03-desc = Separates you from certain death.
+ent-RMCWallLifeboat03-name = стена
+ent-RMCWallLifeboat03-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat04-name = wall
-ent-RMCWallLifeboat04-desc = Separates you from certain death.
+ent-RMCWallLifeboat04-name = стена
+ent-RMCWallLifeboat04-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat05-name = wall
-ent-RMCWallLifeboat05-desc = Separates you from certain death.
+ent-RMCWallLifeboat05-name = стена
+ent-RMCWallLifeboat05-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat06-name = wall
-ent-RMCWallLifeboat06-desc = Separates you from certain death.
+ent-RMCWallLifeboat06-name = стена
+ent-RMCWallLifeboat06-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat10-name = wall
-ent-RMCWallLifeboat10-desc = Separates you from certain death.
+ent-RMCWallLifeboat10-name = стена
+ent-RMCWallLifeboat10-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat11-name = wall
-ent-RMCWallLifeboat11-desc = Separates you from certain death.
+ent-RMCWallLifeboat11-name = стена
+ent-RMCWallLifeboat11-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat12-name = wall
-ent-RMCWallLifeboat12-desc = Separates you from certain death.
+ent-RMCWallLifeboat12-name = стена
+ent-RMCWallLifeboat12-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat13-name = wall
-ent-RMCWallLifeboat13-desc = Separates you from certain death.
+ent-RMCWallLifeboat13-name = стена
+ent-RMCWallLifeboat13-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat14-name = wall
-ent-RMCWallLifeboat14-desc = Separates you from certain death.
+ent-RMCWallLifeboat14-name = стена
+ent-RMCWallLifeboat14-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat15-name = wall
-ent-RMCWallLifeboat15-desc = Separates you from certain death.
+ent-RMCWallLifeboat15-name = стена
+ent-RMCWallLifeboat15-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat16-name = wall
-ent-RMCWallLifeboat16-desc = Separates you from certain death.
+ent-RMCWallLifeboat16-name = стена
+ent-RMCWallLifeboat16-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat20-name = wall
-ent-RMCWallLifeboat20-desc = Separates you from certain death.
+ent-RMCWallLifeboat20-name = стена
+ent-RMCWallLifeboat20-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat21-name = wall
-ent-RMCWallLifeboat21-desc = Separates you from certain death.
+ent-RMCWallLifeboat21-name = стена
+ent-RMCWallLifeboat21-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat22-name = wall
-ent-RMCWallLifeboat22-desc = Separates you from certain death.
+ent-RMCWallLifeboat22-name = стена
+ent-RMCWallLifeboat22-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat23-name = wall
-ent-RMCWallLifeboat23-desc = Separates you from certain death.
+ent-RMCWallLifeboat23-name = стена
+ent-RMCWallLifeboat23-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat24-name = wall
-ent-RMCWallLifeboat24-desc = Separates you from certain death.
+ent-RMCWallLifeboat24-name = стена
+ent-RMCWallLifeboat24-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat25-name = wall
-ent-RMCWallLifeboat25-desc = Separates you from certain death.
+ent-RMCWallLifeboat25-name = стена
+ent-RMCWallLifeboat25-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat26-name = wall
-ent-RMCWallLifeboat26-desc = Separates you from certain death.
+ent-RMCWallLifeboat26-name = стена
+ent-RMCWallLifeboat26-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat30-name = wall
-ent-RMCWallLifeboat30-desc = Separates you from certain death.
+ent-RMCWallLifeboat30-name = стена
+ent-RMCWallLifeboat30-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat31-name = wall
-ent-RMCWallLifeboat31-desc = Separates you from certain death.
+ent-RMCWallLifeboat31-name = стена
+ent-RMCWallLifeboat31-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat35-name = wall
-ent-RMCWallLifeboat35-desc = Separates you from certain death.
+ent-RMCWallLifeboat35-name = стена
+ent-RMCWallLifeboat35-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat36-name = wall
-ent-RMCWallLifeboat36-desc = Separates you from certain death.
+ent-RMCWallLifeboat36-name = стена
+ent-RMCWallLifeboat36-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat60-name = wall
-ent-RMCWallLifeboat60-desc = Separates you from certain death.
+ent-RMCWallLifeboat60-name = стена
+ent-RMCWallLifeboat60-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat61-name = wall
-ent-RMCWallLifeboat61-desc = Separates you from certain death.
+ent-RMCWallLifeboat61-name = стена
+ent-RMCWallLifeboat61-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat65-name = wall
-ent-RMCWallLifeboat65-desc = Separates you from certain death.
+ent-RMCWallLifeboat65-name = стена
+ent-RMCWallLifeboat65-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat66-name = wall
-ent-RMCWallLifeboat66-desc = Separates you from certain death.
+ent-RMCWallLifeboat66-name = стена
+ent-RMCWallLifeboat66-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat70-name = wall
-ent-RMCWallLifeboat70-desc = Separates you from certain death.
+ent-RMCWallLifeboat70-name = стена
+ent-RMCWallLifeboat70-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat71-name = wall
-ent-RMCWallLifeboat71-desc = Separates you from certain death.
+ent-RMCWallLifeboat71-name = стена
+ent-RMCWallLifeboat71-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat75-name = wall
-ent-RMCWallLifeboat75-desc = Separates you from certain death.
+ent-RMCWallLifeboat75-name = стена
+ent-RMCWallLifeboat75-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat76-name = wall
-ent-RMCWallLifeboat76-desc = Separates you from certain death.
+ent-RMCWallLifeboat76-name = стена
+ent-RMCWallLifeboat76-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat110-name = wall
-ent-RMCWallLifeboat110-desc = Separates you from certain death.
+ent-RMCWallLifeboat110-name = стена
+ent-RMCWallLifeboat110-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat111-name = wall
-ent-RMCWallLifeboat111-desc = Separates you from certain death.
+ent-RMCWallLifeboat111-name = стена
+ent-RMCWallLifeboat111-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat115-name = wall
-ent-RMCWallLifeboat115-desc = Separates you from certain death.
+ent-RMCWallLifeboat115-name = стена
+ent-RMCWallLifeboat115-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat116-name = wall
-ent-RMCWallLifeboat116-desc = Separates you from certain death.
+ent-RMCWallLifeboat116-name = стена
+ent-RMCWallLifeboat116-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat120-name = wall
-ent-RMCWallLifeboat120-desc = Separates you from certain death.
+ent-RMCWallLifeboat120-name = стена
+ent-RMCWallLifeboat120-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat121-name = wall
-ent-RMCWallLifeboat121-desc = Separates you from certain death.
+ent-RMCWallLifeboat121-name = стена
+ent-RMCWallLifeboat121-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat125-name = wall
-ent-RMCWallLifeboat125-desc = Separates you from certain death.
+ent-RMCWallLifeboat125-name = стена
+ent-RMCWallLifeboat125-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat126-name = wall
-ent-RMCWallLifeboat126-desc = Separates you from certain death.
+ent-RMCWallLifeboat126-name = стена
+ent-RMCWallLifeboat126-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat160-name = wall
-ent-RMCWallLifeboat160-desc = Separates you from certain death.
+ent-RMCWallLifeboat160-name = стена
+ent-RMCWallLifeboat160-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat161-name = wall
-ent-RMCWallLifeboat161-desc = Separates you from certain death.
+ent-RMCWallLifeboat161-name = стена
+ent-RMCWallLifeboat161-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat165-name = wall
-ent-RMCWallLifeboat165-desc = Separates you from certain death.
+ent-RMCWallLifeboat165-name = стена
+ent-RMCWallLifeboat165-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat166-name = wall
-ent-RMCWallLifeboat166-desc = Separates you from certain death.
+ent-RMCWallLifeboat166-name = стена
+ent-RMCWallLifeboat166-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat170-name = wall
-ent-RMCWallLifeboat170-desc = Separates you from certain death.
+ent-RMCWallLifeboat170-name = стена
+ent-RMCWallLifeboat170-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat171-name = wall
-ent-RMCWallLifeboat171-desc = Separates you from certain death.
+ent-RMCWallLifeboat171-name = стена
+ent-RMCWallLifeboat171-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat175-name = wall
-ent-RMCWallLifeboat175-desc = Separates you from certain death.
+ent-RMCWallLifeboat175-name = стена
+ent-RMCWallLifeboat175-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat176-name = wall
-ent-RMCWallLifeboat176-desc = Separates you from certain death.
+ent-RMCWallLifeboat176-name = стена
+ent-RMCWallLifeboat176-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat180-name = wall
-ent-RMCWallLifeboat180-desc = Separates you from certain death.
+ent-RMCWallLifeboat180-name = стена
+ent-RMCWallLifeboat180-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat181-name = wall
-ent-RMCWallLifeboat181-desc = Separates you from certain death.
+ent-RMCWallLifeboat181-name = стена
+ent-RMCWallLifeboat181-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat185-name = wall
-ent-RMCWallLifeboat185-desc = Separates you from certain death.
+ent-RMCWallLifeboat185-name = стена
+ent-RMCWallLifeboat185-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat186-name = wall
-ent-RMCWallLifeboat186-desc = Separates you from certain death.
+ent-RMCWallLifeboat186-name = стена
+ent-RMCWallLifeboat186-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat220-name = wall
-ent-RMCWallLifeboat220-desc = Separates you from certain death.
+ent-RMCWallLifeboat220-name = стена
+ent-RMCWallLifeboat220-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat221-name = wall
-ent-RMCWallLifeboat221-desc = Separates you from certain death.
+ent-RMCWallLifeboat221-name = стена
+ent-RMCWallLifeboat221-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat225-name = wall
-ent-RMCWallLifeboat225-desc = Separates you from certain death.
+ent-RMCWallLifeboat225-name = стена
+ent-RMCWallLifeboat225-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat226-name = wall
-ent-RMCWallLifeboat226-desc = Separates you from certain death.
+ent-RMCWallLifeboat226-name = стена
+ent-RMCWallLifeboat226-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat230-name = wall
-ent-RMCWallLifeboat230-desc = Separates you from certain death.
+ent-RMCWallLifeboat230-name = стена
+ent-RMCWallLifeboat230-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat231-name = wall
-ent-RMCWallLifeboat231-desc = Separates you from certain death.
+ent-RMCWallLifeboat231-name = стена
+ent-RMCWallLifeboat231-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat235-name = wall
-ent-RMCWallLifeboat235-desc = Separates you from certain death.
+ent-RMCWallLifeboat235-name = стена
+ent-RMCWallLifeboat235-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat236-name = wall
-ent-RMCWallLifeboat236-desc = Separates you from certain death.
+ent-RMCWallLifeboat236-name = стена
+ent-RMCWallLifeboat236-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat240-name = wall
-ent-RMCWallLifeboat240-desc = Separates you from certain death.
+ent-RMCWallLifeboat240-name = стена
+ent-RMCWallLifeboat240-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat241-name = wall
-ent-RMCWallLifeboat241-desc = Separates you from certain death.
+ent-RMCWallLifeboat241-name = стена
+ent-RMCWallLifeboat241-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat242-name = wall
-ent-RMCWallLifeboat242-desc = Separates you from certain death.
+ent-RMCWallLifeboat242-name = стена
+ent-RMCWallLifeboat242-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat243-name = wall
-ent-RMCWallLifeboat243-desc = Separates you from certain death.
+ent-RMCWallLifeboat243-name = стена
+ent-RMCWallLifeboat243-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat244-name = wall
-ent-RMCWallLifeboat244-desc = Separates you from certain death.
+ent-RMCWallLifeboat244-name = стена
+ent-RMCWallLifeboat244-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat245-name = wall
-ent-RMCWallLifeboat245-desc = Separates you from certain death.
+ent-RMCWallLifeboat245-name = стена
+ent-RMCWallLifeboat245-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat246-name = wall
-ent-RMCWallLifeboat246-desc = Separates you from certain death.
+ent-RMCWallLifeboat246-name = стена
+ent-RMCWallLifeboat246-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat250-name = wall
-ent-RMCWallLifeboat250-desc = Separates you from certain death.
+ent-RMCWallLifeboat250-name = стена
+ent-RMCWallLifeboat250-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat251-name = wall
-ent-RMCWallLifeboat251-desc = Separates you from certain death.
+ent-RMCWallLifeboat251-name = стена
+ent-RMCWallLifeboat251-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat252-name = wall
-ent-RMCWallLifeboat252-desc = Separates you from certain death.
+ent-RMCWallLifeboat252-name = стена
+ent-RMCWallLifeboat252-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat253-name = wall
-ent-RMCWallLifeboat253-desc = Separates you from certain death.
+ent-RMCWallLifeboat253-name = стена
+ent-RMCWallLifeboat253-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat254-name = wall
-ent-RMCWallLifeboat254-desc = Separates you from certain death.
+ent-RMCWallLifeboat254-name = стена
+ent-RMCWallLifeboat254-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat255-name = wall
-ent-RMCWallLifeboat255-desc = Separates you from certain death.
+ent-RMCWallLifeboat255-name = стена
+ent-RMCWallLifeboat255-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat256-name = wall
-ent-RMCWallLifeboat256-desc = Separates you from certain death.
+ent-RMCWallLifeboat256-name = стена
+ent-RMCWallLifeboat256-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat261-name = wall
-ent-RMCWallLifeboat261-desc = Separates you from certain death.
+ent-RMCWallLifeboat261-name = стена
+ent-RMCWallLifeboat261-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat262-name = wall
-ent-RMCWallLifeboat262-desc = Separates you from certain death.
+ent-RMCWallLifeboat262-name = стена
+ent-RMCWallLifeboat262-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat263-name = wall
-ent-RMCWallLifeboat263-desc = Separates you from certain death.
+ent-RMCWallLifeboat263-name = стена
+ent-RMCWallLifeboat263-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat264-name = wall
-ent-RMCWallLifeboat264-desc = Separates you from certain death.
+ent-RMCWallLifeboat264-name = стена
+ent-RMCWallLifeboat264-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboat265-name = wall
-ent-RMCWallLifeboat265-desc = Separates you from certain death.
+ent-RMCWallLifeboat265-name = стена
+ent-RMCWallLifeboat265-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboatWindow1-name = wall
-ent-RMCWallLifeboatWindow1-desc = Separates you from certain death.
+ent-RMCWallLifeboatWindow1-name = стена
+ent-RMCWallLifeboatWindow1-desc = Отделяет тебя от верной смерти.
 
-ent-RMCWallLifeboatWindow2-name = wall
-ent-RMCWallLifeboatWindow2-desc = Separates you from certain death.
+ent-RMCWallLifeboatWindow2-name = стена
+ent-RMCWallLifeboatWindow2-desc = Отделяет тебя от верной смерти.
 

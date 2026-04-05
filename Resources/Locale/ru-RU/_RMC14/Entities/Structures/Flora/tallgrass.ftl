@@ -1,30 +1,30 @@
-ent-RMCGrassTallBase-name = tallgrass
+ent-RMCGrassTallBase-name = высокая трава
 
-ent-RMCGrassTallSidesBase-name = tallgrass
+ent-RMCGrassTallSidesBase-name = высокая трава
 
-ent-RMCGrassTallCornerBase-name = tallgrass
+ent-RMCGrassTallCornerBase-name = высокая трава
 
-ent-RMCGrassTallDesert-name = tallgrass
+ent-RMCGrassTallDesert-name = высокая трава
 
-ent-RMCGrassTallSidesDesert-name = tallgrass
+ent-RMCGrassTallSidesDesert-name = высокая трава
 
-ent-RMCGrassTallCornerDesert-name = tallgrass
+ent-RMCGrassTallCornerDesert-name = высокая трава
 
-ent-RMCGrassTallIce-name = tallgrass
+ent-RMCGrassTallIce-name = высокая трава
 
-ent-RMCGrassTallSidesIce-name = tallgrass
+ent-RMCGrassTallSidesIce-name = высокая трава
 
-ent-RMCGrassTallCornerIce-name = tallgrass
+ent-RMCGrassTallCornerIce-name = высокая трава
 
-ent-RMCGrassTallJungle-name = tallgrass
+ent-RMCGrassTallJungle-name = высокая трава
 
-ent-RMCGrassTallSidesJungle-name = tallgrass
+ent-RMCGrassTallSidesJungle-name = высокая трава
 
-ent-RMCGrassTallCornerJungle-name = tallgrass
+ent-RMCGrassTallCornerJungle-name = высокая трава
 
-ent-RMCGrassTallStrata-name = tallgrass
+ent-RMCGrassTallStrata-name = высокая трава
 
-ent-RMCGrassTallSidesStrata-name = tallgrass
+ent-RMCGrassTallSidesStrata-name = высокая трава
 
-ent-RMCGrassTallCornerStrata-name = tallgrass
+ent-RMCGrassTallCornerStrata-name = высокая трава
 

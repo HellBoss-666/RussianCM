@@ -1,40 +1,40 @@
-ent-RMCBoxShotgunHeavyDragonbreath-name = box of dragonbreath buckshot shells
-ent-RMCBoxShotgunHeavyDragonbreath-desc = A box filled with dragonbreath buckshot shotgun shells. 8 Gauge.
+ent-RMCBoxShotgunHeavyDragonbreath-name = коробка с картечью «Дыхание дракона»
+ent-RMCBoxShotgunHeavyDragonbreath-desc = Ящик, наполненный патронами для дробовика «Дыхание дракона». 
 
-ent-RMCBoxShotgunHeavyFlechette-name = box of heavy flechette shells
-ent-RMCBoxShotgunHeavyFlechette-desc = A box filled with heavy flechette shotgun shells. 8 Gauge.
+ent-RMCBoxShotgunHeavyFlechette-name = ящик с тяжелыми стрелковыми снарядами
+ent-RMCBoxShotgunHeavyFlechette-desc = Ящик, наполненный тяжелыми патронами для дробовика. 
 
-ent-RMCBoxShotgunHeavyBeanbagSlugs-name = box of heavy beanbag slugs shells
-ent-RMCBoxShotgunHeavyBeanbagSlugs-desc = A box filled with heavy beanbag shotgun shells used for non-lethal crowd control. 8 Gauge.
+ent-RMCBoxShotgunHeavyBeanbagSlugs-name = коробка с тяжелыми снарядами для слизней-погремушек
+ent-RMCBoxShotgunHeavyBeanbagSlugs-desc = Ящик, наполненный тяжелыми патронами для дробовика, используемыми для несмертельного сдерживания толпы. 
 
-ent-RMCBoxShotgunHeavySlugs-name = box of heavy slugs shells
-ent-RMCBoxShotgunHeavySlugs-desc = A box filled with heavy shotgun shells. A timeless classic.
+ent-RMCBoxShotgunHeavySlugs-name = коробка с тяжелыми пулями
+ent-RMCBoxShotgunHeavySlugs-desc = Ящик, наполненный тяжелыми патронами для дробовика. 
 
-ent-RMCBoxShotgunHeavyBuckshot-name = box of heavy buckshot shells
-ent-RMCBoxShotgunHeavyBuckshot-desc = A box filled with heavy buckshot spread shotgun shells. 8 Gauge.
+ent-RMCBoxShotgunHeavyBuckshot-name = ящик с тяжелой картечью
+ent-RMCBoxShotgunHeavyBuckshot-desc = Ящик, наполненный тяжелой картечью и гильзами для дробовика. 
 
-ent-RMCBoxShotgunBuckshot8g-name = box of buckshot shells
-ent-RMCBoxShotgunBuckshot8g-desc = A box filled with buckshot spread shotgun shells. 8 Gauge.
+ent-RMCBoxShotgunBuckshot8g-name = ящик с картечью
+ent-RMCBoxShotgunBuckshot8g-desc = Коробка, наполненная картечью и гильзами для дробовика. 
 
-ent-RMCBoxShotgunBreaching-name = box of shotgun shells
+ent-RMCBoxShotgunBreaching-name = ящик с патронами для дробовика
 
-ent-RMCBoxShotgunIncendiaryBuckshot-name = box of incendiary buckshot shells
-ent-RMCBoxShotgunIncendiaryBuckshot-desc = A box filled with self-detonating buckshot incendiary shotgun rounds. 12 Gauge.
+ent-RMCBoxShotgunIncendiaryBuckshot-name = ящик с зажигательными картечью
+ent-RMCBoxShotgunIncendiaryBuckshot-desc = Ящик, наполненный самодетонирующими патронами для зажигательного дробовика. 
 
-ent-RMCBoxShotgunFlechette-name = box of flechette shells
-ent-RMCBoxShotgunFlechette-desc = A box filled with flechette shotgun shells. 12 Gauge.
+ent-RMCBoxShotgunFlechette-name = коробка с патронами для стрел
+ent-RMCBoxShotgunFlechette-desc = Ящик, наполненный патронами для дробовика. 
 
-ent-RMCBoxShotgunBeanbag-name = box of beanbag shells
-ent-RMCBoxShotgunBeanbag-desc = A box filled with beanbag shotgun shells used for non-lethal crowd control. 12 Gauge.
+ent-RMCBoxShotgunBeanbag-name = коробка с ракушками-погремушками
+ent-RMCBoxShotgunBeanbag-desc = Ящик, наполненный патронами для дробовика, используемыми для несмертельного сдерживания толпы. 
 
-ent-RMCBoxShotgunIncendiary-name = box of incendiary slug shells
-ent-RMCBoxShotgunIncendiary-desc = A box filled with self-detonating incendiary shotgun rounds. 12 Gauge.
+ent-RMCBoxShotgunIncendiary-name = ящик с зажигательными снарядами
+ent-RMCBoxShotgunIncendiary-desc = Ящик, наполненный самодетонирующими зажигательными патронами для дробовика. 
 
-ent-RMCBoxShotgunSlugs-name = box of slug shells
-ent-RMCBoxShotgunSlugs-desc = A box filled with heavy shotgun shells. A timeless classic. 12 Gauge.
+ent-RMCBoxShotgunSlugs-name = коробка со слизняками
+ent-RMCBoxShotgunSlugs-desc = Ящик, наполненный тяжелыми патронами для дробовика. 
 
-ent-RMCBoxShotgunBuckshot-name = box of buckshot shells
-ent-RMCBoxShotgunBuckshot-desc = A box filled with buckshot spread shotgun shells. 12 Gauge.
+ent-RMCBoxShotgunBuckshot-name = ящик с картечью
+ent-RMCBoxShotgunBuckshot-desc = Коробка, наполненная картечью и гильзами для дробовика. 
 
-ent-RMCBoxShotgunBase-name = box of shotgun shells
+ent-RMCBoxShotgunBase-name = ящик с патронами для дробовика
 

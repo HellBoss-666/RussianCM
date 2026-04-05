@@ -1,14 +1,14 @@
-ent-RMCRandomHumanoidEchoWeaponsSpecialist-name = echo ghost role weapons specialist
+ent-RMCRandomHumanoidEchoWeaponsSpecialist-name = Эхо-призрак, специалист по оружию
 
-ent-RMCRandomHumanoidEchoSquadLeader-name = echo ghost role squad leader
+ent-RMCRandomHumanoidEchoSquadLeader-name = Эхо-призрак, роль лидера отряда
 
-ent-RMCRandomHumanoidEchoSmartGunOperator-name = echo ghost role smart gun operator
+ent-RMCRandomHumanoidEchoSmartGunOperator-name = роль эха-призрака, оператор умного оружия
 
-ent-RMCRandomHumanoidEchoRifleman-name = echo ghost role rifleman
+ent-RMCRandomHumanoidEchoRifleman-name = эхо призрак роль стрелок
 
-ent-RMCRandomHumanoidEchoHospitalCorpsman-name = echo ghost role hospital corpsman
+ent-RMCRandomHumanoidEchoHospitalCorpsman-name = эхо-призрак роль санитара больницы
 
-ent-RMCRandomHumanoidEchoFireteamLeader-name = echo ghost role fireteam leader
+ent-RMCRandomHumanoidEchoFireteamLeader-name = Эхо-призрак, роль лидера боевой группы
 
-ent-RMCRandomHumanoidEchoCombatTech-name = echo ghost role combat technician
+ent-RMCRandomHumanoidEchoCombatTech-name = роль эха-призрака, боевой техник
 

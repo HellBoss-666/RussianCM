@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidWeYaLawyerSupervisor-name = weya corporate ghost role lawyer supervisor
+ent-RMCRandomHumanoidWeYaLawyerSupervisor-name = Weya Корпоративный призрак, роль юриста-супервайзера
 

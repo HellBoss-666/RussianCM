@@ -1,15 +1,15 @@
-ent-CMSpawnPointWeaponsSpecialist-name = weapons specialist spawn point
-ent-CMSpawnPointWeaponsSpecialist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointWeaponsSpecialist-name = точка появления специалиста по оружию
+ent-CMSpawnPointWeaponsSpecialist-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointWeaponsSpecialistAlpha-name = weapons specialist spawn point
-ent-CMSpawnPointWeaponsSpecialistAlpha-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointWeaponsSpecialistAlpha-name = точка появления специалиста по оружию
+ent-CMSpawnPointWeaponsSpecialistAlpha-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointWeaponsSpecialistBravo-name = weapons specialist spawn point
-ent-CMSpawnPointWeaponsSpecialistBravo-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointWeaponsSpecialistBravo-name = точка появления специалиста по оружию
+ent-CMSpawnPointWeaponsSpecialistBravo-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointWeaponsSpecialistCharlie-name = weapons specialist spawn point
-ent-CMSpawnPointWeaponsSpecialistCharlie-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointWeaponsSpecialistCharlie-name = точка появления специалиста по оружию
+ent-CMSpawnPointWeaponsSpecialistCharlie-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointWeaponsSpecialistDelta-name = weapons specialist spawn point
-ent-CMSpawnPointWeaponsSpecialistDelta-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointWeaponsSpecialistDelta-name = точка появления специалиста по оружию
+ent-CMSpawnPointWeaponsSpecialistDelta-desc = Создатель заданий RMC14. 
 

@@ -1,44 +1,44 @@
-ent-RMCVisorSquad-name = squad optic
-ent-RMCVisorSquad-desc = An insertable visor HUD into a standard UNMC helmet. This type gives a heads-up display of marine squads.
+ent-RMCVisorSquad-name = оптика отряда
+ent-RMCVisorSquad-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorWelding-name = welding visor
-ent-RMCVisorWelding-desc = An insertable visor HUD into a standard UNMC helmet. This type protects the eyes from welders.
+ent-RMCVisorWelding-name = сварочный щиток
+ent-RMCVisorWelding-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorMedicalAdvanced-name = advanced medical optic
-ent-RMCVisorMedicalAdvanced-desc = An insertable visor HUD into a standard UNMC helmet. This type gives a heads-up display that shows data about nearby humanoids health status and research notes.
+ent-RMCVisorMedicalAdvanced-name = современная медицинская оптика
+ent-RMCVisorMedicalAdvanced-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorMedical-name = basic medical optic
-ent-RMCVisorMedical-desc = An insertable visor HUD into a standard UNMC helmet. This type gives a heads-up display that shows data about nearby humanoids health status.
+ent-RMCVisorMedical-name = базовая медицинская оптика
+ent-RMCVisorMedical-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorNightVision-name = night vision optic
-ent-RMCVisorNightVision-desc = An insertable visor HUD into a standard UNMC helmet. This type gives a form of night vision and is standard issue in units with regular funding. It can be inserted into a recharger to recharge its internal battery.
+ent-RMCVisorNightVision-name = оптика ночного видения
+ent-RMCVisorNightVision-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorBase-name = item
+ent-RMCVisorBase-name = элемент
 
-ent-RMCVisorMedicalAdvancedIntegrated-name = advanced medical optic
-ent-RMCVisorMedicalAdvancedIntegrated-desc = An insertable visor HUD into a standard UNMC helmet. This type gives a heads-up display that shows data about nearby humanoids health status and research notes.
+ent-RMCVisorMedicalAdvancedIntegrated-name = современная медицинская оптика
+ent-RMCVisorMedicalAdvancedIntegrated-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorWeldingIntegrated-name = welding visor
-ent-RMCVisorWeldingIntegrated-desc = An insertable visor HUD into a standard UNMC helmet. This type protects the eyes from welders.
+ent-RMCVisorWeldingIntegrated-name = сварочный щиток
+ent-RMCVisorWeldingIntegrated-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorSquadIntegrated-name = squad optic
-ent-RMCVisorSquadIntegrated-desc = An insertable visor HUD into a standard UNMC helmet. This type gives a heads-up display of marine squads.
+ent-RMCVisorSquadIntegrated-name = оптика отряда
+ent-RMCVisorSquadIntegrated-desc = Вставляемый HUD козырька в стандартный шлем UNMC. 
 
-ent-RMCVisorPilotBlack-name = MK30 black flight visor
-ent-RMCVisorPilotBlack-desc = A standard issue snap-on visor used by UNMC dropship pilots. Polarized to reduce glare and protect the eyes during atmospheric re-entry and orbital deployment.
+ent-RMCVisorPilotBlack-name = MK30 черный летный козырек
+ent-RMCVisorPilotBlack-desc = Стандартный пристегивающийся козырек, используемый пилотами десантных кораблей UNMC. 
 
-ent-RMCVisorPilotDarkblue-name = MK30 dark blue flight visor
-ent-RMCVisorPilotDarkblue-desc = A standard issue snap-on visor used by UNMC dropship pilots. Polarized to reduce glare and protect the eyes during atmospheric re-entry and orbital deployment.
+ent-RMCVisorPilotDarkblue-name = MK30 темно-синий полетный козырек
+ent-RMCVisorPilotDarkblue-desc = Стандартный пристегивающийся козырек, используемый пилотами десантных кораблей UNMC. 
 
-ent-RMCVisorPilotLightblue-name = MK30 light blue flight visor
-ent-RMCVisorPilotLightblue-desc = A standard issue snap-on visor used by UNMC dropship pilots. Polarized to reduce glare and protect the eyes during atmospheric re-entry and orbital deployment.
+ent-RMCVisorPilotLightblue-name = MK30 голубой летный козырек
+ent-RMCVisorPilotLightblue-desc = Стандартный пристегивающийся козырек, используемый пилотами десантных кораблей UNMC. 
 
-ent-RMCVisorPilotPurple-name = MK30 purple flight visor
-ent-RMCVisorPilotPurple-desc = A standard issue snap-on visor used by UNMC dropship pilots. Polarized to reduce glare and protect the eyes during atmospheric re-entry and orbital deployment.
+ent-RMCVisorPilotPurple-name = MK30 фиолетовый летный козырек
+ent-RMCVisorPilotPurple-desc = Стандартный пристегивающийся козырек, используемый пилотами десантных кораблей UNMC. 
 
-ent-RMCVisorPilotRed-name = MK30 red flight visor
-ent-RMCVisorPilotRed-desc = A standard issue snap-on visor used by UNMC dropship pilots. Polarized to reduce glare and protect the eyes during atmospheric re-entry and orbital deployment.
+ent-RMCVisorPilotRed-name = MK30 красный летный козырек
+ent-RMCVisorPilotRed-desc = Стандартный пристегивающийся козырек, используемый пилотами десантных кораблей UNMC. 
 
-ent-RMCVisorPilotYellow-name = MK30 yellow flight visor
-ent-RMCVisorPilotYellow-desc = A standard issue snap-on visor used by UNMC dropship pilots. Polarized to reduce glare and protect the eyes during atmospheric re-entry and orbital deployment.
+ent-RMCVisorPilotYellow-name = Желтый полетный козырек MK30
+ent-RMCVisorPilotYellow-desc = Стандартный пристегивающийся козырек, используемый пилотами десантных кораблей UNMC. 
 

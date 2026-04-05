@@ -1,87 +1,87 @@
-ent-RMCClosetGoldenArrowGear-name = personal locker
-ent-RMCClosetGoldenArrowGear-desc = An immobile storage unit.
+ent-RMCClosetGoldenArrowGear-name = личный шкафчик
+ent-RMCClosetGoldenArrowGear-desc = Неподвижное хранилище.
 
-ent-CMClosetAlien-name = strange closet
-ent-CMClosetAlien-desc = It looks alien!
+ent-CMClosetAlien-name = странный шкаф
+ent-CMClosetAlien-desc = Выглядит инопланетным!
 
-ent-CMClosetBio-name = level-3 biohazard suit closet
-ent-CMClosetBio-desc = It's a storage unit for level-3 biohazard gear.
+ent-CMClosetBio-name = Шкаф для костюмов биологической защиты 3-го уровня
+ent-CMClosetBio-desc = Это хранилище для биологического оборудования 3-го уровня.
 
-ent-CMClosetBomb-name = EOD closet
-ent-CMClosetBomb-desc = It's a storage unit for explosion-protective suits.
+ent-CMClosetBomb-name = шкаф EOD
+ent-CMClosetBomb-desc = Это хранилище взрывозащитных костюмов.
 
-ent-CMClosetRadiation-name = radiation suit closet
-ent-CMClosetRadiation-desc = It's a storage unit for rad-protective suits.
+ent-CMClosetRadiation-name = шкаф для радиационного костюма
+ent-CMClosetRadiation-desc = Это хранилище радиационно-защитных костюмов.
 
-ent-CMClosetTool-name = tool closet
-ent-CMClosetTool-desc = It's a storage unit for tools.
+ent-CMClosetTool-name = шкаф для инструментов
+ent-CMClosetTool-desc = Это хранилище для инструментов.
 
-ent-CMClosetFire-name = fire-safety closet
-ent-CMClosetFire-desc = It's a storage unit for fire-fighting supplies.
+ent-CMClosetFire-name = шкаф пожарной безопасности
+ent-CMClosetFire-desc = Это склад противопожарных принадлежностей.
 
-ent-CMClosetEmergency-name = emergency closet
-ent-CMClosetEmergency-desc = It's a storage unit for emergency breathmasks and o2 tanks.
+ent-CMClosetEmergency-name = аварийный туалет
+ent-CMClosetEmergency-desc = Это хранилище для аварийных масок и баллонов с кислородом.
 
-ent-RMCClosetPurple-name = custodial closet
-ent-RMCClosetPurple-desc = It's a storage unit for janitorial clothes and gear.
+ent-RMCClosetPurple-name = чулан для содержания под стражей
+ent-RMCClosetPurple-desc = Это хранилище для уборочной одежды и инвентаря.
 
-ent-RMCClosetBlue-name = legal closet
-ent-RMCClosetBlue-desc = It's a storage unit for courtroom apparel and items.
+ent-RMCClosetBlue-name = юридический шкаф
+ent-RMCClosetBlue-desc = Это хранилище для судебной одежды и предметов.
 
-ent-RMCClosetBlack-name = formal closet
-ent-RMCClosetBlack-desc = It's a storage unit for formal clothing.
+ent-RMCClosetBlack-name = формальный гардероб
+ent-RMCClosetBlack-desc = Это хранилище для официальной одежды.
 
-ent-RMCCabinetBase-name = cabinet
-ent-RMCCabinetBase-desc = Old will forever be in fashion.
+ent-RMCCabinetBase-name = кабинет
+ent-RMCCabinetBase-desc = Старое всегда будет в моде.
 
-ent-CMClosetBaseUnanchored-name = closet
-ent-CMClosetBaseUnanchored-desc = It's a basic storage unit.
+ent-CMClosetBaseUnanchored-name = шкаф
+ent-CMClosetBaseUnanchored-desc = Это базовая единица хранения.
 
-ent-CMClosetBase-name = closet
-ent-CMClosetBase-desc = It's a basic storage unit.
+ent-CMClosetBase-name = шкаф
+ent-CMClosetBase-desc = Это базовая единица хранения.
 
-ent-RMCCabinetBaseUnanchored-name = cabinet
-ent-RMCCabinetBaseUnanchored-desc = Old will forever be in fashion.
+ent-RMCCabinetBaseUnanchored-name = кабинет
+ent-RMCCabinetBaseUnanchored-desc = Старое всегда будет в моде.
 
-ent-CMClosetBioVirology-name = level-3 biohazard suit closet
-ent-CMClosetBioVirology-desc = It's a storage unit for level-3 biohazard gear.
+ent-CMClosetBioVirology-name = Шкаф для костюмов биологической защиты 3-го уровня
+ent-CMClosetBioVirology-desc = Это хранилище для биологического оборудования 3-го уровня.
 
-ent-CMClosetBioSecurity-name = level-3 biohazard suit closet
-ent-CMClosetBioSecurity-desc = It's a storage unit for level-3 biohazard gear.
+ent-CMClosetBioSecurity-name = Шкаф для костюмов биологической защиты 3-го уровня
+ent-CMClosetBioSecurity-desc = Это хранилище для биологического оборудования 3-го уровня.
 
-ent-CMClosetBioJanitor-name = level-3 biohazard suit closet
-ent-CMClosetBioJanitor-desc = It's a storage unit for level-3 biohazard gear.
+ent-CMClosetBioJanitor-name = Шкаф для костюмов биологической защиты 3-го уровня
+ent-CMClosetBioJanitor-desc = Это хранилище для биологического оборудования 3-го уровня.
 
-ent-CMClosetBioScientist-name = level-3 biohazard suit closet
-ent-CMClosetBioScientist-desc = It's a storage unit for level-3 biohazard gear.
+ent-CMClosetBioScientist-name = Шкаф для костюмов биологической защиты 3-го уровня
+ent-CMClosetBioScientist-desc = Это хранилище для биологического оборудования 3-го уровня.
 
-ent-RMCClosetMiner-name = miner's equipment
-ent-RMCClosetMiner-desc = It's a basic storage unit.
+ent-RMCClosetMiner-name = шахтерское оборудование
+ent-RMCClosetMiner-desc = Это базовая единица хранения.
 
-ent-RMCClosetPMCGear-name = personal locker
-ent-RMCClosetPMCGear-desc = An immobile storage unit.
+ent-RMCClosetPMCGear-name = личный шкафчик
+ent-RMCClosetPMCGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetSPPGear-name = personal locker
-ent-RMCClosetSPPGear-desc = An immobile storage unit.
+ent-RMCClosetSPPGear-name = личный шкафчик
+ent-RMCClosetSPPGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMGear-name = personal locker
-ent-RMCClosetRCMGear-desc = An immobile storage unit.
+ent-RMCClosetRCMGear-name = личный шкафчик
+ent-RMCClosetRCMGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMTroopSgtGear-name = troop sergeant locker
-ent-RMCClosetRCMTroopSgtGear-desc = An immobile storage unit.
+ent-RMCClosetRCMTroopSgtGear-name = шкафчик сержанта
+ent-RMCClosetRCMTroopSgtGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMSectionLeaderGear-name = section leader locker
-ent-RMCClosetRCMSectionLeaderGear-desc = An immobile storage unit.
+ent-RMCClosetRCMSectionLeaderGear-name = шкафчик руководителя секции
+ent-RMCClosetRCMSectionLeaderGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMGPMGGear-name = GPMG gunner locker
-ent-RMCClosetRCMGPMGGear-desc = An immobile storage unit.
+ent-RMCClosetRCMGPMGGear-name = Рундук наводчика ГПМГ
+ent-RMCClosetRCMGPMGGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMTeamLeaderGear-name = team leader locker
-ent-RMCClosetRCMTeamLeaderGear-desc = An immobile storage unit.
+ent-RMCClosetRCMTeamLeaderGear-name = шкафчик руководителя группы
+ent-RMCClosetRCMTeamLeaderGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMTroopCommanderGear-name = troop commander locker
-ent-RMCClosetRCMTroopCommanderGear-desc = An immobile storage unit.
+ent-RMCClosetRCMTroopCommanderGear-name = шкафчик командира отряда
+ent-RMCClosetRCMTroopCommanderGear-desc = Неподвижное хранилище.
 
-ent-RMCClosetRCMSapperGear-name = sapper locker
-ent-RMCClosetRCMSapperGear-desc = An immobile storage unit.
+ent-RMCClosetRCMSapperGear-name = саперный шкафчик
+ent-RMCClosetRCMSapperGear-desc = Неподвижное хранилище.
 

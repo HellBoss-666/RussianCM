@@ -1,27 +1,27 @@
-ent-RMCPouchMedkit-name = medical kit pouch
-ent-RMCPouchMedkit-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkit-name = сумка для медицинской аптечки
+ent-RMCPouchMedkit-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitFill-name = medical kit pouch
-ent-RMCPouchMedkitFill-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitFill-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitFill-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitFillAdvanced-name = medical kit pouch
-ent-RMCPouchMedkitFillAdvanced-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitFillAdvanced-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitFillAdvanced-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitFillSPP-name = medical kit pouch
-ent-RMCPouchMedkitFillSPP-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitFillSPP-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitFillSPP-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitPMC-name = medical kit pouch
-ent-RMCPouchMedkitPMC-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitPMC-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitPMC-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitPMCFilled-name = medical kit pouch
-ent-RMCPouchMedkitPMCFilled-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitPMCFilled-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitPMCFilled-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitPMCFullAdvanced-name = medical kit pouch
-ent-RMCPouchMedkitPMCFullAdvanced-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitPMCFullAdvanced-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitPMCFullAdvanced-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitFillRoyal-name = medical kit pouch
-ent-RMCPouchMedkitFillRoyal-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitFillRoyal-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitFillRoyal-desc = Он специально создан для хранения медицинских предметов.
 
-ent-RMCPouchMedkitFillRoyalMedic-name = medical kit pouch
-ent-RMCPouchMedkitFillRoyalMedic-desc = It's specifically made to hold medical items.
+ent-RMCPouchMedkitFillRoyalMedic-name = сумка для медицинской аптечки
+ent-RMCPouchMedkitFillRoyalMedic-desc = Он специально создан для хранения медицинских предметов.
 

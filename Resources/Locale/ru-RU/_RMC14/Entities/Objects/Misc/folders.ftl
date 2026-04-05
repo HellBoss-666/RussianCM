@@ -1,36 +1,36 @@
-ent-CMFolderBase-name = folder
-ent-CMFolderBase-desc = A folder.
+ent-CMFolderBase-name = папка
+ent-CMFolderBase-desc = Папка.
 
-ent-CMFolderBaseEmpty-name = folder
-ent-CMFolderBaseEmpty-desc = A folder.
+ent-CMFolderBaseEmpty-name = папка
+ent-CMFolderBaseEmpty-desc = Папка.
 
-ent-CMFolderBlue-name = folder
-ent-CMFolderBlue-desc = A formal blue folder.
+ent-CMFolderBlue-name = папка
+ent-CMFolderBlue-desc = Формальная синяя папка.
 
-ent-CMFolderBlueEmpty-name = folder
-ent-CMFolderBlueEmpty-desc = A formal blue folder.
+ent-CMFolderBlueEmpty-name = папка
+ent-CMFolderBlueEmpty-desc = Формальная синяя папка.
 
-ent-CMFolderRed-name = folder
-ent-CMFolderRed-desc = A firey red folder.
+ent-CMFolderRed-name = папка
+ent-CMFolderRed-desc = Огненно-красная папка.
 
-ent-CMFolderRedEmpty-name = folder
-ent-CMFolderRedEmpty-desc = A firey red folder.
+ent-CMFolderRedEmpty-name = папка
+ent-CMFolderRedEmpty-desc = Огненно-красная папка.
 
-ent-CMFolderYellow-name = folder
-ent-CMFolderYellow-desc = A cheerful yellow folder.
+ent-CMFolderYellow-name = папка
+ent-CMFolderYellow-desc = Веселая желтая папка.
 
-ent-CMFolderYellowEmpty-name = folder
-ent-CMFolderYellowEmpty-desc = A cheerful yellow folder.
+ent-CMFolderYellowEmpty-name = папка
+ent-CMFolderYellowEmpty-desc = Веселая желтая папка.
 
-ent-CMFolderWhite-name = folder
-ent-CMFolderWhite-desc = A plain white folder.
+ent-CMFolderWhite-name = папка
+ent-CMFolderWhite-desc = Обычная белая папка.
 
-ent-CMFolderWhiteEmpty-name = folder
-ent-CMFolderWhiteEmpty-desc = A plain white folder.
+ent-CMFolderWhiteEmpty-name = папка
+ent-CMFolderWhiteEmpty-desc = Обычная белая папка.
 
-ent-CMFolderBlack-name = folder
-ent-CMFolderBlack-desc = A sleek black folder.
+ent-CMFolderBlack-name = папка
+ent-CMFolderBlack-desc = Элегантная черная папка.
 
-ent-CMFolderBlackEmpty-name = folder
-ent-CMFolderBlackEmpty-desc = A sleek black folder.
+ent-CMFolderBlackEmpty-name = папка
+ent-CMFolderBlackEmpty-desc = Элегантная черная папка.
 

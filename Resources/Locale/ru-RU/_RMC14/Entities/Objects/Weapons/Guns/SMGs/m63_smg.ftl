@@ -1,45 +1,45 @@
-ent-RMCCartridge10x20mmHEAP-name = cartridge (10x20mm)
+ent-RMCCartridge10x20mmHEAP-name = картридж (10х20мм)
 
-ent-CMCartridge10x20mmAP-name = cartridge (10x20mm)
+ent-CMCartridge10x20mmAP-name = картридж (10х20мм)
 
-ent-CMCartridge10x20mm-name = cartridge (10x20mm)
+ent-CMCartridge10x20mm-name = картридж (10х20мм)
 
-ent-CMMagazineSMGM63Ext-name = item
+ent-CMMagazineSMGM63Ext-name = элемент
 
-ent-RMCMagazineSMGM63HEAP-name = item
+ent-RMCMagazineSMGM63HEAP-name = элемент
 
-ent-CMMagazineSMGM63AP-name = item
+ent-CMMagazineSMGM63AP-name = элемент
 
-ent-CMMagazineSMGM63-name = item
+ent-CMMagazineSMGM63-name = элемент
 
-ent-WeaponSMGM63-name = M63 submachine gun
-ent-WeaponSMGM63-desc = The AEGIS Armaments M-63 submachinegun. Occasionally carried by light-infantry, scouts, engineers and medics.
+ent-WeaponSMGM63-name = Пистолет-пулемет М63
+ent-WeaponSMGM63-desc = Пистолет-пулемет AEGIS Armaments M-63. 
 
-ent-RMCWeaponSMGM63ExtendedFilled-name = M63 submachine gun
-ent-RMCWeaponSMGM63ExtendedFilled-desc = The AEGIS Armaments M-63 submachinegun. Occasionally carried by light-infantry, scouts, engineers and medics.
+ent-RMCWeaponSMGM63ExtendedFilled-name = Пистолет-пулемет М63
+ent-RMCWeaponSMGM63ExtendedFilled-desc = Пистолет-пулемет AEGIS Armaments M-63. 
 
-ent-RMCMagazineSMGM63HEAPEmpty-name = item
+ent-RMCMagazineSMGM63HEAPEmpty-name = элемент
 
-ent-RMCMagazineSMGM63WP-name = item
+ent-RMCMagazineSMGM63WP-name = элемент
 
-ent-RMCMagazineSMGM63Incendiary-name = item
+ent-RMCMagazineSMGM63Incendiary-name = элемент
 
-ent-RMCCartridge10x20mmWP-name = cartridge (10x20mm)
+ent-RMCCartridge10x20mmWP-name = картридж (10х20мм)
 
-ent-RMCCartridge10x20mmIncendiary-name = cartridge (10x20mm)
+ent-RMCCartridge10x20mmIncendiary-name = картридж (10х20мм)
 
-ent-Bullet10x20mm-name = BaseBullet
-ent-Bullet10x20mm-desc = If you can see this you're probably dead!
+ent-Bullet10x20mm-name = БазаBullet
+ent-Bullet10x20mm-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-Bullet10x20mmAP-name = BaseBullet
-ent-Bullet10x20mmAP-desc = If you can see this you're probably dead!
+ent-Bullet10x20mmAP-name = БазаBullet
+ent-Bullet10x20mmAP-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCBullet10x20mmHEAP-name = BaseBullet
-ent-RMCBullet10x20mmHEAP-desc = If you can see this you're probably dead!
+ent-RMCBullet10x20mmHEAP-name = БазаBullet
+ent-RMCBullet10x20mmHEAP-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCBullet10x20mmWP-name = BaseBullet
-ent-RMCBullet10x20mmWP-desc = If you can see this you're probably dead!
+ent-RMCBullet10x20mmWP-name = БазаBullet
+ent-RMCBullet10x20mmWP-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCBullet10x20mmIncendiary-name = BaseBullet
-ent-RMCBullet10x20mmIncendiary-desc = If you can see this you're probably dead!
+ent-RMCBullet10x20mmIncendiary-name = БазаBullet
+ent-RMCBullet10x20mmIncendiary-desc = Если ты это видишь, ты, вероятно, мертв!
 

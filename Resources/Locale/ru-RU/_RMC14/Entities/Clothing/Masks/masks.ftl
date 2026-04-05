@@ -1,80 +1,80 @@
-ent-RMCMaskKeffiyeh-name = keffiyeh
-ent-RMCMaskKeffiyeh-desc = A traditional headscarf worn for protection from the elements and to conceal the face. Typically made of cotton, it can provide shade from the sun, guard against dust, and serve as camouflage in arid environments. Often worn by soldiers and civilians alike in desert and hostile regions, the keffiyeh has become a symbol of cultural identity and resilience.
+ent-RMCMaskKeffiyeh-name = куфия
+ent-RMCMaskKeffiyeh-desc = Традиционный головной платок, который носят для защиты от непогоды и скрытия лица. 
 
-ent-RMCVisorSWAT-name = TC2 CMB riot shield
-ent-RMCVisorSWAT-desc = Yellowish protective glass piece, can be lifted up when needed, makes you see everything in yellow.
+ent-RMCVisorSWAT-name = Защитный щит TC2 CMB
+ent-RMCVisorSWAT-desc = Желтоватое защитное стекло, которое при необходимости можно поднять, позволяет видеть все в желтом цвете.
 
-ent-RMCMaskSWAT-name = SWAT mask
-ent-RMCMaskSWAT-desc = A close-fitting tactical mask that can be connected to an air supply.
+ent-RMCMaskSWAT-name = Маска спецназа
+ent-RMCMaskSWAT-desc = Плотно прилегающая тактическая маска, которую можно подключить к системе подачи воздуха.
 
-ent-RMCMaskBalaclavaSkullBlue-name = skull balaclava
-ent-RMCMaskBalaclavaSkullBlue-desc = The face of your nightmares. Or at least that's how you imagined it'd be. Additionally protects against the cold.
+ent-RMCMaskBalaclavaSkullBlue-name = череп балаклава
+ent-RMCMaskBalaclavaSkullBlue-desc = Лицо твоих кошмаров. 
 
-ent-RMCMaskBalaclavaMARSOC-name = SOF armored balaclava
-ent-RMCMaskBalaclavaMARSOC-desc = Designed for maximum protection -- and badassery. Provides protection against facial attacks, filters toxins, and conceals the wearer's identity.
+ent-RMCMaskBalaclavaMARSOC-name = Бронированная балаклава ССО
+ent-RMCMaskBalaclavaMARSOC-desc = Создан для максимальной защиты и крутости. 
 
-ent-RMCMaskBalaclavaGreen-name = green balaclava
-ent-RMCMaskBalaclavaGreen-desc = A basic single eye-hole balaclava, available in almost every sporting goods, outdoor supply, or military surplus store in existence, protects your face from the cold almost as well as it conceals it. This one is in a non-standard green color.
+ent-RMCMaskBalaclavaGreen-name = зеленая балаклава
+ent-RMCMaskBalaclavaGreen-desc = Базовая балаклава с одним отверстием для глаз, доступная почти в каждом существующем магазине спортивных товаров, товаров для активного отдыха или военных товаров, защищает ваше лицо от холода почти так же хорошо, как и скрывает его. 
 
-ent-RMCMaskBalaclava-name = balaclava
-ent-RMCMaskBalaclava-desc = A basic single eye-hole balaclava, available in almost every sporting goods, outdoor supply, or military surplus store in existence, protects your face from the cold almost as well as it conceals it. This one is in a standard black color.
+ent-RMCMaskBalaclava-name = балаклава
+ent-RMCMaskBalaclava-desc = Базовая балаклава с одним отверстием для глаз, доступная почти в каждом существующем магазине спортивных товаров, товаров для активного отдыха или военных товаров, защищает ваше лицо от холода почти так же хорошо, как и скрывает его. 
 
-ent-RMCMaskCoifPMC-name = M8 pattern armored coif
-ent-RMCMaskCoifPMC-desc = An armored coif designed to conceal both the identity of the operator and act as an air-filter.
+ent-RMCMaskCoifPMC-name = Бронированный чепец модели M8
+ent-RMCMaskCoifPMC-desc = Бронированный капюшон, предназначенный для того, чтобы скрывать личность оператора и действовать как воздушный фильтр.
 
-ent-RMCMaskCoifTan-name = UNMC tan balaclava
-ent-RMCMaskCoifTan-desc = A close-fitting cap that covers the top, back, and sides of the head. Can also be adjusted to cover the lower part of the face so it keeps the user warm in harsh conditions.
+ent-RMCMaskCoifTan-name = UNMC коричневая балаклава
+ent-RMCMaskCoifTan-desc = Плотно прилегающая кепка, закрывающая верхнюю, заднюю и боковые части головы. 
 
-ent-RMCMaskCoifGrey-name = UNMC grey balaclava
-ent-RMCMaskCoifGrey-desc = A close-fitting cap that covers the top, back, and sides of the head. Can also be adjusted to cover the lower part of the face so it keeps the user warm in harsh conditions.
+ent-RMCMaskCoifGrey-name = UNMC серая балаклава
+ent-RMCMaskCoifGrey-desc = Плотно прилегающая кепка, закрывающая верхнюю, заднюю и боковые части головы. 
 
-ent-RMCMaskCoifGreen-name = UNMC green balaclava
-ent-RMCMaskCoifGreen-desc = A close-fitting cap that covers the top, back, and sides of the head. Can also be adjusted to cover the lower part of the face so it keeps the user warm in harsh conditions.
+ent-RMCMaskCoifGreen-name = UNMC зеленая балаклава
+ent-RMCMaskCoifGreen-desc = Плотно прилегающая кепка, закрывающая верхнюю, заднюю и боковые части головы. 
 
-ent-CMMaskCoif-name = heat absorbent coif
-ent-CMMaskCoif-desc = A close-fitting cap that covers the top, back, and sides of the head. Can also be adjusted to cover the lower part of the face so it keeps the user warm in harsh conditions.
+ent-CMMaskCoif-name = теплопоглощающий чепец
+ent-CMMaskCoif-desc = Плотно прилегающая кепка, закрывающая верхнюю, заднюю и боковые части головы. 
 
-ent-RMCMaskKutjevoRespirator-name = kutjevo respirator
-ent-RMCMaskKutjevoRespirator-desc = A respirator worn on the face that filters out harmful air particles often present in the air of Kutjevo.
+ent-RMCMaskKutjevoRespirator-name = Кутьево респиратор
+ent-RMCMaskKutjevoRespirator-desc = Лицевой респиратор, фильтрующий вредные частицы, часто присутствующие в воздухе Кутьева.
 
-ent-RMCMaskRebreather-name = rebreather
-ent-RMCMaskRebreather-desc = A close-fitting device that instantly heats or cools down air when you inhale so it doesn't damage your lungs.
+ent-RMCMaskRebreather-name = ребризер
+ent-RMCMaskRebreather-desc = Плотно прилегающее устройство, которое мгновенно нагревает или охлаждает воздух при вдохе, не повреждая легкие.
 
-ent-CMMaskGasMedical-name = medical gas mask
-ent-CMMaskGasMedical-desc = A close-fitting sterile mask that can be connected to an air supply.
+ent-CMMaskGasMedical-name = медицинский противогаз
+ent-CMMaskGasMedical-desc = Плотно прилегающая стерильная маска, которую можно подключить к источнику воздуха.
 
-ent-CMMaskSterile-name = sterile mask
-ent-CMMaskSterile-desc = A sterile mask designed to help prevent the spread of diseases.
+ent-CMMaskSterile-name = стерильная маска
+ent-CMMaskSterile-desc = Стерильная маска, предназначенная для предотвращения распространения заболеваний.
 
-ent-RMCMaskGasSPP-name = ShMB/4 gasmask
-ent-RMCMaskGasSPP-desc = The standard issue gasmask utilized by the SPP Vanguard Collective and many SPP civilian organizations.
+ent-RMCMaskGasSPP-name = Противогаз ШМБ/4
+ent-RMCMaskGasSPP-desc = Стандартный противогаз, используемый Коллективом Авангарда СПП и многими гражданскими организациями СПП.
 
-ent-CMMaskGas-name = gas mask
-ent-CMMaskGas-desc = A face-covering mask that can be connected to an air supply. Filters harmful gases from the air.
+ent-CMMaskGas-name = противогаз
+ent-CMMaskGas-desc = Маска, закрывающая лицо, которую можно подключить к источнику воздуха. 
 
-ent-CMBaseMask-name = lathe-category-clothing
+ent-CMBaseMask-name = токарный станок-категория-одежда
 
-ent-RMCMaskBreath-name = breath mask
-ent-RMCMaskBreath-desc = A close-fitting mask that can be connected to an air supply.
+ent-RMCMaskBreath-name = дыхательная маска
+ent-RMCMaskBreath-desc = Плотно прилегающая маска, которую можно подключить к источнику воздуха.
 
-ent-RMCMaskBalaclavaSPPCommando-name = SPP armored commando balaclava
-ent-RMCMaskBalaclavaSPPCommando-desc = Designed for maximum protection -- and badassery. Provides protection against facial attacks, filters toxins, and conceals the wearer's identity.
+ent-RMCMaskBalaclavaSPPCommando-name = Бронированная балаклава коммандос СПП
+ent-RMCMaskBalaclavaSPPCommando-desc = Создан для максимальной защиты и крутости. 
 
-ent-RMCMaskBalaclavaSkullBlack-name = skull balaclava
-ent-RMCMaskBalaclavaSkullBlack-desc = The face of your nightmares. Or at least that's how you imagined it'd be. Now in black!
+ent-RMCMaskBalaclavaSkullBlack-name = череп балаклава
+ent-RMCMaskBalaclavaSkullBlack-desc = Лицо твоих кошмаров. 
 
-ent-RMCMaskKeffiyehBlack-name = keffiyeh
-ent-RMCMaskKeffiyehBlack-desc = A traditional headscarf worn for protection from the elements and to conceal the face. Typically made of cotton, it can provide shade from the sun, guard against dust, and serve as camouflage in arid environments. Often worn by soldiers and civilians alike in desert and hostile regions, the keffiyeh has become a symbol of cultural identity and resilience.
+ent-RMCMaskKeffiyehBlack-name = куфия
+ent-RMCMaskKeffiyehBlack-desc = Традиционный головной платок, который носят для защиты от непогоды и скрытия лица. 
 
-ent-RMCMaskKeffiyehBlue-name = keffiyeh
-ent-RMCMaskKeffiyehBlue-desc = A traditional headscarf worn for protection from the elements and to conceal the face. Typically made of cotton, it can provide shade from the sun, guard against dust, and serve as camouflage in arid environments. Often worn by soldiers and civilians alike in desert and hostile regions, the keffiyeh has become a symbol of cultural identity and resilience.
+ent-RMCMaskKeffiyehBlue-name = куфия
+ent-RMCMaskKeffiyehBlue-desc = Традиционный головной платок, который носят для защиты от непогоды и скрытия лица. 
 
-ent-RMCMaskKeffiyehGreen-name = keffiyeh
-ent-RMCMaskKeffiyehGreen-desc = A traditional headscarf worn for protection from the elements and to conceal the face. Typically made of cotton, it can provide shade from the sun, guard against dust, and serve as camouflage in arid environments. Often worn by soldiers and civilians alike in desert and hostile regions, the keffiyeh has become a symbol of cultural identity and resilience.
+ent-RMCMaskKeffiyehGreen-name = куфия
+ent-RMCMaskKeffiyehGreen-desc = Традиционный головной платок, который носят для защиты от непогоды и скрытия лица. 
 
-ent-RMCMaskKeffiyehWhite-name = keffiyeh
-ent-RMCMaskKeffiyehWhite-desc = A traditional headscarf worn for protection from the elements and to conceal the face. Typically made of cotton, it can provide shade from the sun, guard against dust, and serve as camouflage in arid environments. Often worn by soldiers and civilians alike in desert and hostile regions, the keffiyeh has become a symbol of cultural identity and resilience.
+ent-RMCMaskKeffiyehWhite-name = куфия
+ent-RMCMaskKeffiyehWhite-desc = Традиционный головной платок, который носят для защиты от непогоды и скрытия лица. 
 
-ent-RMCMaskKeffiyehRed-name = keffiyeh
-ent-RMCMaskKeffiyehRed-desc = A traditional headscarf worn for protection from the elements and to conceal the face. Typically made of cotton, it can provide shade from the sun, guard against dust, and serve as camouflage in arid environments. Often worn by soldiers and civilians alike in desert and hostile regions, the keffiyeh has become a symbol of cultural identity and resilience.
+ent-RMCMaskKeffiyehRed-name = куфия
+ent-RMCMaskKeffiyehRed-desc = Традиционный головной платок, который носят для защиты от непогоды и скрытия лица. 
 

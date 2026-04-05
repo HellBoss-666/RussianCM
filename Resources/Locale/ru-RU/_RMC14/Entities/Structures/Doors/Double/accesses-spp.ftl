@@ -1,8 +1,8 @@
-ent-RMCDoubleDoorSecuritySPPGlassLocked-name = door
+ent-RMCDoubleDoorSecuritySPPGlassLocked-name = дверь
 
-ent-RMCAirlockSecuritySPPLocked-name = security airlock
+ent-RMCAirlockSecuritySPPLocked-name = шлюз безопасности
 
-ent-RMCAirlockSecuritySPPSecLocked-name = security airlock
+ent-RMCAirlockSecuritySPPSecLocked-name = шлюз безопасности
 
-ent-RMCAirlockSecureSPPSecLocked-name = secure airlock
+ent-RMCAirlockSecureSPPSecLocked-name = безопасный шлюз
 

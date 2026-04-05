@@ -1,72 +1,72 @@
-ent-RMCDogtagPVESectionSergeant-name = Section Sergeant's dogtags
-ent-RMCDogtagPVESectionSergeant-desc = A marine dog tag.
+ent-RMCDogtagPVESectionSergeant-name = Жетоны сержанта отделения
+ent-RMCDogtagPVESectionSergeant-desc = Жетон Морпех.
 
-ent-RMCDogtagPVESquadLeader-name = Squad Leader's dogtags
-ent-RMCDogtagPVESquadLeader-desc = A marine dog tag.
+ent-RMCDogtagPVESquadLeader-name = Жетоны командира отделения
+ent-RMCDogtagPVESquadLeader-desc = Жетон Морпех.
 
-ent-RMCDogtagPVESmartGunOperator-name = Smart Gun Operator's dogtags
-ent-RMCDogtagPVESmartGunOperator-desc = A marine dog tag.
+ent-RMCDogtagPVESmartGunOperator-name = Жетоны оператора умного оружия
+ent-RMCDogtagPVESmartGunOperator-desc = Жетон Морпех.
 
-ent-RMCDogtagPVERifleman-name = Rifleman's dogtags
-ent-RMCDogtagPVERifleman-desc = A marine dog tag.
+ent-RMCDogtagPVERifleman-name = жетоны стрелка
+ent-RMCDogtagPVERifleman-desc = Жетон Морпех.
 
-ent-RMCDogtagPVEHospitalCorpsman-name = Hospital Corpsman's dogtags
-ent-RMCDogtagPVEHospitalCorpsman-desc = A marine dog tag.
+ent-RMCDogtagPVEHospitalCorpsman-name = Жетоны санитара госпиталя
+ent-RMCDogtagPVEHospitalCorpsman-desc = Жетон Морпех.
 
-ent-CMDogtagWeaponsSpecialist-name = Weapons Specialist's dogtags
-ent-CMDogtagWeaponsSpecialist-desc = A marine dog tag.
+ent-CMDogtagWeaponsSpecialist-name = Жетоны специалиста по оружию
+ent-CMDogtagWeaponsSpecialist-desc = Жетон Морпех.
 
-ent-CMDogtagSquadLeader-name = Squad Leader's dogtags
-ent-CMDogtagSquadLeader-desc = A marine dog tag.
+ent-CMDogtagSquadLeader-name = Жетоны командира отделения
+ent-CMDogtagSquadLeader-desc = Жетон Морпех.
 
-ent-CMDogtagSmartGunOperator-name = Smart Gun Operator's dogtags
-ent-CMDogtagSmartGunOperator-desc = A marine dog tag.
+ent-CMDogtagSmartGunOperator-name = Жетоны оператора умного оружия
+ent-CMDogtagSmartGunOperator-desc = Жетон Морпех.
 
-ent-CMDogtagHospitalCorpsman-name = Hospital Corpsman's dogtags
-ent-CMDogtagHospitalCorpsman-desc = A marine dog tag.
+ent-CMDogtagHospitalCorpsman-name = Жетоны санитара госпиталя
+ent-CMDogtagHospitalCorpsman-desc = Жетон Морпех.
 
-ent-CMDogtagFireteamLeader-name = Fireteam Leader's dogtags
-ent-CMDogtagFireteamLeader-desc = A marine dog tag.
+ent-CMDogtagFireteamLeader-name = Жетоны командира огневой группы
+ent-CMDogtagFireteamLeader-desc = Жетон Морпех.
 
-ent-CMDogtagCombatTech-name = Combat Tech's dogtags
-ent-CMDogtagCombatTech-desc = A marine dog tag.
+ent-CMDogtagCombatTech-name = Жетоны Combat Tech
+ent-CMDogtagCombatTech-desc = Жетон Морпех.
 
-ent-CMDogtagRifleman-name = Rifleman's dogtags
-ent-CMDogtagRifleman-desc = A marine dog tag.
+ent-CMDogtagRifleman-name = жетоны стрелка
+ent-CMDogtagRifleman-desc = Жетон Морпех.
 
-ent-RMCDogtagRiflemanHidden-name = dog tag
-ent-RMCDogtagRiflemanHidden-desc = A marine dog tag.
+ent-RMCDogtagRiflemanHidden-name = жетон для собаки
+ent-RMCDogtagRiflemanHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagCombatTechHidden-name = dog tag
-ent-RMCDogtagCombatTechHidden-desc = A marine dog tag.
+ent-RMCDogtagCombatTechHidden-name = жетон для собаки
+ent-RMCDogtagCombatTechHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagFireteamLeaderHidden-name = dog tag
-ent-RMCDogtagFireteamLeaderHidden-desc = A marine dog tag.
+ent-RMCDogtagFireteamLeaderHidden-name = жетон для собаки
+ent-RMCDogtagFireteamLeaderHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagHospitalCorpsmanHidden-name = dog tag
-ent-RMCDogtagHospitalCorpsmanHidden-desc = A marine dog tag.
+ent-RMCDogtagHospitalCorpsmanHidden-name = жетон для собаки
+ent-RMCDogtagHospitalCorpsmanHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagSmartGunOperatorHidden-name = dog tag
-ent-RMCDogtagSmartGunOperatorHidden-desc = A marine dog tag.
+ent-RMCDogtagSmartGunOperatorHidden-name = жетон для собаки
+ent-RMCDogtagSmartGunOperatorHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagSquadLeaderHidden-name = dog tag
-ent-RMCDogtagSquadLeaderHidden-desc = A marine dog tag.
+ent-RMCDogtagSquadLeaderHidden-name = жетон для собаки
+ent-RMCDogtagSquadLeaderHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagWeaponsSpecialistHidden-name = dog tag
-ent-RMCDogtagWeaponsSpecialistHidden-desc = A marine dog tag.
+ent-RMCDogtagWeaponsSpecialistHidden-name = жетон для собаки
+ent-RMCDogtagWeaponsSpecialistHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagPVEHospitalCorpsmanHidden-name = dog tag
-ent-RMCDogtagPVEHospitalCorpsmanHidden-desc = A marine dog tag.
+ent-RMCDogtagPVEHospitalCorpsmanHidden-name = жетон для собаки
+ent-RMCDogtagPVEHospitalCorpsmanHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagPVERiflemanHidden-name = dog tag
-ent-RMCDogtagPVERiflemanHidden-desc = A marine dog tag.
+ent-RMCDogtagPVERiflemanHidden-name = жетон для собаки
+ent-RMCDogtagPVERiflemanHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagPVESmartGunOperatorHidden-name = dog tag
-ent-RMCDogtagPVESmartGunOperatorHidden-desc = A marine dog tag.
+ent-RMCDogtagPVESmartGunOperatorHidden-name = жетон для собаки
+ent-RMCDogtagPVESmartGunOperatorHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagPVESquadLeaderHidden-name = dog tag
-ent-RMCDogtagPVESquadLeaderHidden-desc = A marine dog tag.
+ent-RMCDogtagPVESquadLeaderHidden-name = жетон для собаки
+ent-RMCDogtagPVESquadLeaderHidden-desc = Жетон Морпех.
 
-ent-RMCDogtagPVESSectionSergeantHidden-name = dog tag
-ent-RMCDogtagPVESSectionSergeantHidden-desc = A marine dog tag.
+ent-RMCDogtagPVESSectionSergeantHidden-name = жетон для собаки
+ent-RMCDogtagPVESSectionSergeantHidden-desc = Жетон Морпех.
 

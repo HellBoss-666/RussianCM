@@ -1,81 +1,81 @@
-ent-RMCPropVehicleVanCandy-name = van
-ent-RMCPropVehicleVanCandy-desc = An old van, seems to be filled with... Candy?
+ent-RMCPropVehicleVanCandy-name = фургон
+ent-RMCPropVehicleVanCandy-desc = Старый фургон, кажется, наполнен... конфетами?
 
-ent-RMCPropVehicleVanSnow-name = van
-ent-RMCPropVehicleVanSnow-desc = An old van, seems to be broken down.
+ent-RMCPropVehicleVanSnow-name = фургон
+ent-RMCPropVehicleVanSnow-desc = Старый фургон, кажется, сломанный.
 
-ent-RMCPropVehicleVanDamaged-name = van
-ent-RMCPropVehicleVanDamaged-desc = An old van, seems to be broken down.
+ent-RMCPropVehicleVanDamaged-name = фургон
+ent-RMCPropVehicleVanDamaged-desc = Старый фургон, кажется, сломанный.
 
-ent-RMCPropVehicleVan-name = van
-ent-RMCPropVehicleVan-desc = An old van, seems to be broken down.
+ent-RMCPropVehicleVan-name = фургон
+ent-RMCPropVehicleVan-desc = Старый фургон, кажется, сломанный.
 
-ent-RMCPropVehicleTractorSnow-name = tractor
-ent-RMCPropVehicleTractorSnow-desc = An old cargo truck, seems to be broken down.
+ent-RMCPropVehicleTractorSnow-name = трактор
+ent-RMCPropVehicleTractorSnow-desc = Старый грузовой грузовик, кажется, сломался.
 
-ent-RMCPropVehicleTractorDamaged-name = tractor
-ent-RMCPropVehicleTractorDamaged-desc = An old cargo truck, seems to be broken down.
+ent-RMCPropVehicleTractorDamaged-name = трактор
+ent-RMCPropVehicleTractorDamaged-desc = Старый грузовой грузовик, кажется, сломался.
 
-ent-RMCPropVehicleTractor-name = tractor
-ent-RMCPropVehicleTractor-desc = An old tractor, seems to be broken down.
+ent-RMCPropVehicleTractor-name = трактор
+ent-RMCPropVehicleTractor-desc = Старый трактор, кажется, сломался.
 
-ent-RMCPropVehicleTruckCargoSnow-name = truck
-ent-RMCPropVehicleTruckCargoSnow-desc = An old cargo truck, seems to be broken down.
+ent-RMCPropVehicleTruckCargoSnow-name = грузовик
+ent-RMCPropVehicleTruckCargoSnow-desc = Старый грузовой грузовик, кажется, сломался.
 
-ent-RMCPropVehicleTruckSnow-name = truck
-ent-RMCPropVehicleTruckSnow-desc = An old truck, seems to be broken down.
+ent-RMCPropVehicleTruckSnow-name = грузовик
+ent-RMCPropVehicleTruckSnow-desc = Старый грузовик, кажется, сломанный.
 
-ent-RMCPropVehicleTruckBroken-name = truck
-ent-RMCPropVehicleTruckBroken-desc = An old truck, seems to be broken down.
+ent-RMCPropVehicleTruckBroken-name = грузовик
+ent-RMCPropVehicleTruckBroken-desc = Старый грузовик, кажется, сломанный.
 
-ent-RMCPropVehicleTruckMining-name = truck
-ent-RMCPropVehicleTruckMining-desc = An old mining truck, seems to be broken down.
+ent-RMCPropVehicleTruckMining-name = грузовик
+ent-RMCPropVehicleTruckMining-desc = Старый карьерный самосвал, кажется, сломался.
 
-ent-RMCPropVehicleTruckCargo-name = truck
-ent-RMCPropVehicleTruckCargo-desc = An old cargo truck, seems to be broken down.
+ent-RMCPropVehicleTruckCargo-name = грузовик
+ent-RMCPropVehicleTruckCargo-desc = Старый грузовой грузовик, кажется, сломался.
 
-ent-RMCPropVehicleTruck-name = truck
-ent-RMCPropVehicleTruck-desc = An old truck, seems to be broken down.
+ent-RMCPropVehicleTruck-name = грузовик
+ent-RMCPropVehicleTruck-desc = Старый грузовик, кажется, сломанный.
 
-ent-RMCPropVehicleCrawlerFuel-name = colony crawler
-ent-RMCPropVehicleCrawlerFuel-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawlerFuel-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawlerFuel-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCrawlerCrateWY-name = colony crawler
-ent-RMCPropVehicleCrawlerCrateWY-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawlerCrateWY-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawlerCrateWY-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCrawlerCrate3-name = colony crawler
-ent-RMCPropVehicleCrawlerCrate3-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawlerCrate3-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawlerCrate3-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCrawlerCrate2-name = colony crawler
-ent-RMCPropVehicleCrawlerCrate2-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawlerCrate2-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawlerCrate2-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCrawlerCrate-name = colony crawler
-ent-RMCPropVehicleCrawlerCrate-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawlerCrate-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawlerCrate-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCrawlerCovered-name = colony crawler
-ent-RMCPropVehicleCrawlerCovered-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawlerCovered-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawlerCovered-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCrawler-name = colony crawler
-ent-RMCPropVehicleCrawler-desc = It is a tread bound crawler used in harsh conditions. Supplied by Orbital Blue International; 'Your friends, in the Aerospace business.' A subsidiary of We-Ya.
+ent-RMCPropVehicleCrawler-name = колониальный гусеничный робот
+ent-RMCPropVehicleCrawler-desc = Это гусеничный транспортер с протектором, используемый в суровых условиях. 
 
-ent-RMCPropVehicleCargoCraneDestroyed-name = cargo crane
-ent-RMCPropVehicleCargoCraneDestroyed-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCraneDestroyed-name = грузовой кран
+ent-RMCPropVehicleCargoCraneDestroyed-desc = Кран, используемый для погрузки и разгрузки грузов.
 
-ent-RMCPropVehicleCargoCraneSnow-name = cargo crane
-ent-RMCPropVehicleCargoCraneSnow-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCraneSnow-name = грузовой кран
+ent-RMCPropVehicleCargoCraneSnow-desc = Кран, используемый для погрузки и разгрузки грузов.
 
-ent-RMCPropVehicleCargoCraneCargoSnow-name = cargo crane
-ent-RMCPropVehicleCargoCraneCargoSnow-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCraneCargoSnow-name = грузовой кран
+ent-RMCPropVehicleCargoCraneCargoSnow-desc = Кран, используемый для погрузки и разгрузки грузов.
 
-ent-RMCPropVehicleCargoCraneCargo-name = cargo crane
-ent-RMCPropVehicleCargoCraneCargo-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCraneCargo-name = грузовой кран
+ent-RMCPropVehicleCargoCraneCargo-desc = Кран, используемый для погрузки и разгрузки грузов.
 
-ent-RMCPropVehicleCargoCrane-name = cargo crane
-ent-RMCPropVehicleCargoCrane-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCrane-name = грузовой кран
+ent-RMCPropVehicleCargoCrane-desc = Кран, используемый для погрузки и разгрузки грузов.
 
-ent-RMCPropVehicleCargoCraneAltHitbox-name = cargo crane
-ent-RMCPropVehicleCargoCraneAltHitbox-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCraneAltHitbox-name = грузовой кран
+ent-RMCPropVehicleCargoCraneAltHitbox-desc = Кран, используемый для погрузки и разгрузки грузов.
 
-ent-RMCPropVehicleCargoCraneAltHitboxWest-name = cargo crane
-ent-RMCPropVehicleCargoCraneAltHitboxWest-desc = A crane used for loading and unloading cargo.
+ent-RMCPropVehicleCargoCraneAltHitboxWest-name = грузовой кран
+ent-RMCPropVehicleCargoCraneAltHitboxWest-desc = Кран, используемый для погрузки и разгрузки грузов.
 

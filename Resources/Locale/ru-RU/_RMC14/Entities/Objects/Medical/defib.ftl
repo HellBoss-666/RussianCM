@@ -1,21 +1,21 @@
-ent-RMCSynthResetKey-name = WeYa synthetic reset key
-ent-RMCSynthResetKey-desc = This device can fix major glitches or programming errors of synthetic units, as well as being able to restart a synthetic that has suffered critical failure. It can only be used once before being reset.
+ent-RMCSynthResetKey-name = Синтетический ключ сброса WeYa
+ent-RMCSynthResetKey-desc = Это устройство может исправить серьезные сбои или ошибки программирования синтетических блоков, а также перезапустить синтетический, в котором произошел критический сбой. 
 
-ent-RMCDefibrillatorCompact-name = compact defibrillator
+ent-RMCDefibrillatorCompact-name = компактный дефибриллятор
 ent-RMCDefibrillatorCompact-desc = This particular defibrillator has halved charge capacity compared to the standard emergency defibrillator, but can fit in your pocket.
 
-ent-CMBaseDefibrillator-name = emergency defibrillator
-ent-CMBaseDefibrillator-desc = A handheld emergency defibrillator, used to restore fibrillating patients. Can optionally bring people back from the dead.
+ent-CMBaseDefibrillator-name = экстренный дефибриллятор
+ent-CMBaseDefibrillator-desc = Ручной дефибриллятор для экстренной помощи, используемый для восстановления пациентов с фибрилляцией. 
 
-ent-CMDefibrillator-name = emergency defibrillator
-ent-CMDefibrillator-desc = A handheld emergency defibrillator, used to restore fibrillating patients. Can optionally bring people back from the dead.
+ent-CMDefibrillator-name = экстренный дефибриллятор
+ent-CMDefibrillator-desc = Ручной дефибриллятор для экстренной помощи, используемый для восстановления пациентов с фибрилляцией. 
 
-ent-CMDefibrillatorEmpty-name = emergency defibrillator
-ent-CMDefibrillatorEmpty-desc = A handheld emergency defibrillator, used to restore fibrillating patients. Can optionally bring people back from the dead.
+ent-CMDefibrillatorEmpty-name = экстренный дефибриллятор
+ent-CMDefibrillatorEmpty-desc = Ручной дефибриллятор для экстренной помощи, используемый для восстановления пациентов с фибрилляцией. 
 
-ent-CMDefibrillatorInfinite-name = emergency defibrillator
-ent-CMDefibrillatorInfinite-desc = A handheld emergency defibrillator, used to restore fibrillating patients. Can optionally bring people back from the dead.
+ent-CMDefibrillatorInfinite-name = экстренный дефибриллятор
+ent-CMDefibrillatorInfinite-desc = Ручной дефибриллятор для экстренной помощи, используемый для восстановления пациентов с фибрилляцией. 
 
-ent-RMCSynthResetKeySMART-name = SMART WeYa synthetic reset key
-ent-RMCSynthResetKeySMART-desc = This device can fix major glitches or programming errors of synthetic units, as well as being able to restart a synthetic that has suffered critical failure. It can only be used once before being reset. This one has a microfunction AI and can be operated by anyone.
+ent-RMCSynthResetKeySMART-name = Синтетический ключ сброса SMART WeYa
+ent-RMCSynthResetKeySMART-desc = Это устройство может исправить серьезные сбои или ошибки программирования синтетических блоков, а также перезапустить синтетический, в котором произошел критический сбой. 
 

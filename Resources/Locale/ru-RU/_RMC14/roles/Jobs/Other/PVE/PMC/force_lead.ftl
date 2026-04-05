@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPMCForceLeadPVE-name = weya pmc force lead spawn point
-ent-RMCSpawnPointPMCForceLeadPVE-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCForceLeadPVE-name = Weya PMC Force Lead точка появления
+ent-RMCSpawnPointPMCForceLeadPVE-desc = Создатель заданий RMC14. 
 

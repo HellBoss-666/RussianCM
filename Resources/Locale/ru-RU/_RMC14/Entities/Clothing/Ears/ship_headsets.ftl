@@ -1,74 +1,74 @@
-ent-RMCHeadsetPrisoner-name = prisoner headset
-ent-RMCHeadsetPrisoner-desc = Headset provided to prisoners as directed by Marine Law.
+ent-RMCHeadsetPrisoner-name = заключенный гарнитура
+ent-RMCHeadsetPrisoner-desc = Наушники выдаются заключенным в соответствии с Законом Морпеха.
 
-ent-RMCHeadsetSynth-name = marine synth headset
-ent-RMCHeadsetSynth-desc = Issued only to UNMC synthetics.
+ent-RMCHeadsetSynth-name = Синтезатор Морпех
+ent-RMCHeadsetSynth-desc = Выпускается только синтетика UNMC.
 
-ent-RMCHeadsetSEA-name = marine senior enlisted advisor headset
-ent-RMCHeadsetSEA-desc = Issued only to senior enlisted advisors.
+ent-RMCHeadsetSEA-name = Гарнитура старшего рядового советника Морпеха
+ent-RMCHeadsetSEA-desc = Выдается только старшим рядовым советникам.
 
-ent-CMHeadsetHighCommand-name = UNMC high command headset
-ent-CMHeadsetHighCommand-desc = Issued only to high command staff.
+ent-CMHeadsetHighCommand-name = Гарнитура высшего командования UNMC
+ent-CMHeadsetHighCommand-desc = Выдается только высшему командному составу.
 
-ent-CMHeadsetSeniorCommand-name = marine senior command headset
-ent-CMHeadsetSeniorCommand-desc = Issued only to senior command staff.
+ent-CMHeadsetSeniorCommand-name = Морпех старший командирский наушник
+ent-CMHeadsetSeniorCommand-desc = Выдается только старшему командному составу.
 
-ent-CMHeadsetReporter-name = reporter radio headset
-ent-CMHeadsetReporter-desc = Used by the combat correspondent to get the scoop.
+ent-CMHeadsetReporter-name = репортерская радиогарнитура
+ent-CMHeadsetReporter-desc = Используется боевым корреспондентом для получения сенсационной информации.
 
-ent-RMCHeadsetLiaison-name = corporate liaison radio headset
-ent-RMCHeadsetLiaison-desc = Used by the CL to convince people to sign NDAs.
+ent-RMCHeadsetLiaison-name = корпоративная радиогарнитура для связи
+ent-RMCHeadsetLiaison-desc = Используется CL, чтобы убедить людей подписать соглашения о неразглашении.
 
-ent-CMHeadsetIntel-name = marine intel radio headset
-ent-CMHeadsetIntel-desc = Used by Intelligence Officers.
+ent-CMHeadsetIntel-name = Морпех intel радиогарнитура
+ent-CMHeadsetIntel-desc = Используется офицерами разведки.
 
-ent-CMHeadsetPilot-name = marine pilot radio headset
-ent-CMHeadsetPilot-desc = Used by Dropship and Gunship Pilots.
+ent-CMHeadsetPilot-name = Радиогарнитура пилота Морпех
+ent-CMHeadsetPilot-desc = Используется пилотами десантных и боевых кораблей.
 
-ent-RMCHeadsetMarineCommand-name = marine command radio headset
-ent-RMCHeadsetMarineCommand-desc = Used by CIC staff and higher-ups, features a non-standard brace.
+ent-RMCHeadsetMarineCommand-name = Командная радиогарнитура Морпех
+ent-RMCHeadsetMarineCommand-desc = Используется сотрудниками CIC и руководителями, имеет нестандартную скобу.
 
-ent-RMCHeadsetMW-name = marine military warden radio headset
-ent-RMCHeadsetMW-desc = It seems oddly similar to the CMP's... Smells like donuts too.
+ent-RMCHeadsetMW-name = Радиогарнитура военного начальника Морпех
+ent-RMCHeadsetMW-desc = Кажется, он до странности похож на CMP... Пахнет тоже пончиками.
 
-ent-CMHeadsetCMP-name = marine chief MP radio headset
-ent-CMHeadsetCMP-desc = For discussing the purchase of donuts and arresting of hooligans.
+ent-CMHeadsetCMP-name = Радиогарнитура начальника МП Морпех
+ent-CMHeadsetCMP-desc = За обсуждение покупки пончиков и задержание хулиганов.
 
-ent-RMCHeadsetMPHonor-name = marine honor guard radio headset
-ent-RMCHeadsetMPHonor-desc = This is used by members of the marine honor guard.
+ent-RMCHeadsetMPHonor-name = Радиогарнитура почетного караула Морпех
+ent-RMCHeadsetMPHonor-desc = Этим пользуются члены почетного караула Морпеха.
 
-ent-CMHeadsetMPO-name = marine military police radio headset
-ent-CMHeadsetMPO-desc = This is used by marine military police members.
+ent-CMHeadsetMPO-name = Радиогарнитура военной полиции Морпех
+ent-CMHeadsetMPO-desc = Этим пользуются сотрудники военной полиции Морпеха.
 
-ent-CMHeadsetQM-name = Logistics Officer radio headset
-ent-CMHeadsetQM-desc = A headset used by the Logistics Officer.
+ent-CMHeadsetQM-name = Радиогарнитура для офицера логистики
+ent-CMHeadsetQM-desc = Гарнитура, используемая офицером по логистике.
 
-ent-CMHeadsetResearcher-name = researcher radio headset
-ent-CMHeadsetResearcher-desc = A headset used by medbay's skilled researchers.
+ent-CMHeadsetResearcher-name = исследовательская радиогарнитура
+ent-CMHeadsetResearcher-desc = Гарнитура, используемая опытными исследователями Medbay.
 
-ent-CMHeadsetMedical-name = medical radio headset
-ent-CMHeadsetMedical-desc = A headset used by the highly trained staff of the medbay.
+ent-CMHeadsetMedical-name = медицинская радиогарнитура
+ent-CMHeadsetMedical-desc = Гарнитура, используемая высококвалифицированным персоналом медотсека.
 
-ent-CMHeadsetChef-name = kitchen radio headset
-ent-CMHeadsetChef-desc = Used by the onboard kitchen staff, filled with background noise of sizzling pots.
+ent-CMHeadsetChef-name = кухонная радиогарнитура
+ent-CMHeadsetChef-desc = Используется бортовым кухонным персоналом, наполненным фоновым шумом шипящих кастрюль.
 
-ent-CMHeadsetRequisition-name = requisitions radio headset
-ent-CMHeadsetRequisition-desc = Used by the Requisitions Technicians, lightweight and portable.
+ent-CMHeadsetRequisition-name = заявки на радиогарнитуру
+ent-CMHeadsetRequisition-desc = Используется техническими специалистами по заявкам, легкий и портативный.
 
-ent-CMHeadsetEngineer-name = engineering radio headset
-ent-CMHeadsetEngineer-desc = Useful for coordinating maintenance bars and orbital bombardments. Of robust and sturdy construction.
+ent-CMHeadsetEngineer-name = инженерная радиогарнитура
+ent-CMHeadsetEngineer-desc = Полезно для координации планок технического обслуживания и орбитальных бомбардировок. 
 
-ent-CMHeadsetCMO-name = chief medical officer's headset
-ent-CMHeadsetCMO-desc = A headset issued to the top brass of medical professionals.
+ent-CMHeadsetCMO-name = гарнитура главного врача
+ent-CMHeadsetCMO-desc = Гарнитура, предназначенная для высшего руководства медицинских работников.
 
-ent-CMHeadsetCE-name = chief engineer's headset
-ent-CMHeadsetCE-desc = The headset of the guy in charge of spooling engines, managing MTs, and tearing up the floor for scrap metal. Of robust and sturdy construction.
+ent-CMHeadsetCE-name = гарнитура главного инженера
+ent-CMHeadsetCE-desc = Гарнитура парня, отвечающего за раскрутку двигателей, управление МТ и рвение полов на металлолом. 
 
-ent-RMCHeadsetShip-name = marine radio headset
-ent-RMCHeadsetShip-desc = A standard military radio headset. Bulkier than combat models.
+ent-RMCHeadsetShip-name = Радиогарнитура Морпех
+ent-RMCHeadsetShip-desc = Стандартная военная радиогарнитура. 
 
-ent-CMHeadset-name = lathe-category-clothing
+ent-CMHeadset-name = токарный станок-категория-одежда
 
-ent-RMCHeadsetMarineCommandAlternative-name = marine command radio headset
-ent-RMCHeadsetMarineCommandAlternative-desc = Used by CIC staff and higher-ups, features a non-standard brace.
+ent-RMCHeadsetMarineCommandAlternative-name = Командная радиогарнитура Морпех
+ent-RMCHeadsetMarineCommandAlternative-desc = Используется сотрудниками CIC и руководителями, имеет нестандартную скобу.
 

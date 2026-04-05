@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVECorpsman-name = PVE corpsman spawn point
-ent-RMCSpawnPointPVECorpsman-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPVECorpsman-name = Точка появления санитара PVE
+ent-RMCSpawnPointPVECorpsman-desc = Создатель заданий RMC14. 
 

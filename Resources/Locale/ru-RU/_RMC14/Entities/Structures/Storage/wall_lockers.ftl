@@ -1,12 +1,12 @@
-ent-CMLockerCMDCabinet-name = command tablet cabinet
-ent-CMLockerCMDCabinet-desc = A bulletproof cabinet containing the command tablet for usage by a Commander.
+ent-CMLockerCMDCabinet-name = командный планшетный шкаф
+ent-CMLockerCMDCabinet-desc = Пуленепробиваемый шкаф, содержащий командный планшет для использования командиром.
 
-ent-CMLockerCMDCabinetFilled-name = command tablet cabinet
-ent-CMLockerCMDCabinetFilled-desc = A bulletproof cabinet containing the command tablet for usage by a Commander.
+ent-CMLockerCMDCabinetFilled-name = командный планшетный шкаф
+ent-CMLockerCMDCabinetFilled-desc = Пуленепробиваемый шкаф, содержащий командный планшет для использования командиром.
 
-ent-RMCEmergencySurgicalCabinet-name = emergency surgical equipment cabinet
-ent-RMCEmergencySurgicalCabinet-desc = A hyper-safe, self-sterilizing, wall-mounted cabinet containing extra surgical beds, surgical webbing vests, and portable dialysis machines. It unlocks and opens itself when the ship is threatened by a hostile force.
+ent-RMCEmergencySurgicalCabinet-name = шкаф для неотложного хирургического оборудования
+ent-RMCEmergencySurgicalCabinet-desc = Сверхбезопасный самостерилизирующийся настенный шкаф с дополнительными хирургическими кроватями, хирургическими жилетами и портативными аппаратами для диализа. 
 
-ent-RMCEmergencySurgicalCabinetFilled-name = emergency surgical equipment cabinet
-ent-RMCEmergencySurgicalCabinetFilled-desc = A hyper-safe, self-sterilizing, wall-mounted cabinet containing extra surgical beds, surgical webbing vests, and portable dialysis machines. It unlocks and opens itself when the ship is threatened by a hostile force.
+ent-RMCEmergencySurgicalCabinetFilled-name = шкаф для неотложного хирургического оборудования
+ent-RMCEmergencySurgicalCabinetFilled-desc = Сверхбезопасный самостерилизирующийся настенный шкаф с дополнительными хирургическими кроватями, хирургическими жилетами и портативными аппаратами для диализа. 
 

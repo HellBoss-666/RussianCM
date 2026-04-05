@@ -1,42 +1,42 @@
-ent-RMCArmorRoyalPointman-name = kestrel pointman armour
-ent-RMCArmorRoyalPointman-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalPointman-name = броня стрелка пустельги
+ent-RMCArmorRoyalPointman-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalHarness-name = kestrel armoured smart gun harness
-ent-RMCArmorRoyalHarness-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalHarness-name = Бронированная «умная» пушка Kestrel
+ent-RMCArmorRoyalHarness-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalPadded-name = kestrel armoured carry vest
-ent-RMCArmorRoyalPadded-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalPadded-name = бронежилет пустельги
+ent-RMCArmorRoyalPadded-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalLight-name = kestrel light armoured vest
-ent-RMCArmorRoyalLight-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalLight-name = легкий бронежилет пустельга
+ent-RMCArmorRoyalLight-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyal-name = kestrel armoured vest
-ent-RMCArmorRoyal-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyal-name = бронежилет пустельги
+ent-RMCArmorRoyal-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalHarnessFilled-name = kestrel armoured smart gun harness
-ent-RMCArmorRoyalHarnessFilled-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalHarnessFilled-name = Бронированная «умная» пушка Kestrel
+ent-RMCArmorRoyalHarnessFilled-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalLightFilled-name = kestrel light armoured vest
-ent-RMCArmorRoyalLightFilled-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalLightFilled-name = легкий бронежилет пустельга
+ent-RMCArmorRoyalLightFilled-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalLightFilledMedic-name = kestrel light armoured vest
-ent-RMCArmorRoyalLightFilledMedic-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalLightFilledMedic-name = легкий бронежилет пустельга
+ent-RMCArmorRoyalLightFilledMedic-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalPointmanFilled-name = kestrel pointman armour
-ent-RMCArmorRoyalPointmanFilled-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalPointmanFilled-name = броня стрелка пустельги
+ent-RMCArmorRoyalPointmanFilled-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalPaddedFilled-name = kestrel armoured carry vest
-ent-RMCArmorRoyalPaddedFilled-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalPaddedFilled-name = бронежилет пустельги
+ent-RMCArmorRoyalPaddedFilled-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorRoyalPaddedFilledCO-name = kestrel armoured carry vest
-ent-RMCArmorRoyalPaddedFilledCO-desc = A suit of armor designed by the Royal Crown Marines to be modular, flexible, and lightweight.
+ent-RMCArmorRoyalPaddedFilledCO-name = бронежилет пустельги
+ent-RMCArmorRoyalPaddedFilledCO-desc = Костюм Брони, разработанный Королевской морской пехотой, должен быть модульным, гибким и легким.
 
-ent-RMCArmorParaVest-name = goshawk airborne vest
-ent-RMCArmorParaVest-desc = A lightweight, high-mobility flak vest designed for the RCM's Paramarines. Developed by Weston-Yamada, the Goshawk offers crucial protection while ensuring paratroopers retain full freedom of movement during high-risk insertions. Advanced composite plating and reinforced webbing make it effective against shrapnel and small-arms fire, striking the perfect balance between defense and agility for those who strike fast and strike hard.
+ent-RMCArmorParaVest-name = жилет десанта тетеревятника
+ent-RMCArmorParaVest-desc = Легкий, высокомобильный бронежилет, разработанный для парамаринов RCM. 
 
-ent-RMCArmorParaSynthVest-name = goshawk airborne synthetic vest
-ent-RMCArmorParaSynthVest-desc = A lightweight, high-mobility flak vest designed for synthetic units attached to the RCM's Paramarine regiments. Developed by Weston-Yamada, the Goshawk offers crucial protection while ensuring paratroopers retain full freedom of movement during high-risk insertions. Advanced composite plating and reinforced webbing make it effective against shrapnel and small-arms fire, striking the perfect balance between defense and agility for those who strike fast and strike hard.
+ent-RMCArmorParaSynthVest-name = Синтетический жилет для десанта тетеревятника
+ent-RMCArmorParaSynthVest-desc = Легкий, высокомобильный бронежилет, предназначенный для синтетических подразделений, приданных полкам парамаринов RCM. 
 
-ent-RMCArmorParaSynthVestFill-name = goshawk airborne synthetic vest
-ent-RMCArmorParaSynthVestFill-desc = A lightweight, high-mobility flak vest designed for synthetic units attached to the RCM's Paramarine regiments. Developed by Weston-Yamada, the Goshawk offers crucial protection while ensuring paratroopers retain full freedom of movement during high-risk insertions. Advanced composite plating and reinforced webbing make it effective against shrapnel and small-arms fire, striking the perfect balance between defense and agility for those who strike fast and strike hard.
+ent-RMCArmorParaSynthVestFill-name = Синтетический жилет для десанта тетеревятника
+ent-RMCArmorParaSynthVestFill-desc = Легкий, высокомобильный бронежилет, предназначенный для синтетических подразделений, приданных полкам парамаринов RCM. 
 

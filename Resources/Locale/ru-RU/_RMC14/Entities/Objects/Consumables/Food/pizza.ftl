@@ -1,84 +1,84 @@
-ent-RMCBoxPizza-name = pizza box
-ent-RMCBoxPizza-desc = A box suited for pizzas.
+ent-RMCBoxPizza-name = коробка для пиццы
+ent-RMCBoxPizza-desc = Коробка, подходящая для пиццы.
 
-ent-RMCFoodPizzaHawaiianSlice-name = hawaiian slice
-ent-RMCFoodPizzaHawaiianSlice-desc = A slice of joy/sin.
+ent-RMCFoodPizzaHawaiianSlice-name = Гавайский ломтик
+ent-RMCFoodPizzaHawaiianSlice-desc = Кусочек радости/греха.
 
-ent-RMCFoodPizzaHawaiianFull-name = hawaiian pizza
-ent-RMCFoodPizzaHawaiianFull-desc = Makes people burst into tears. Tears of joy or sadness depends on the person's fondness for pineapple.
+ent-RMCFoodPizzaHawaiianFull-name = гавайская пицца
+ent-RMCFoodPizzaHawaiianFull-desc = Заставляет людей плакать. 
 
-ent-RMCFoodPizzaVegetableSlice-name = vegetable slice
-ent-RMCFoodPizzaVegetableSlice-desc = A slice of the most green pizza of all pizzas not containing green ingredients.
+ent-RMCFoodPizzaVegetableSlice-name = овощной ломтик
+ent-RMCFoodPizzaVegetableSlice-desc = Кусочек самой зеленой пиццы из всех пицц, не содержащих зеленых ингредиентов.
 
-ent-RMCFoodPizzaVegetableFull-name = vegetable pizza
-ent-RMCFoodPizzaVegetableFull-desc = No one of Tomato Sapiens were harmed during making this pizza.
+ent-RMCFoodPizzaVegetableFull-name = овощная пицца
+ent-RMCFoodPizzaVegetableFull-desc = Никто из Tomato Sapiens не пострадал во время приготовления этой пиццы.
 
-ent-RMCFoodPizzaMushroomSlice-name = mushroom pizza slice
-ent-RMCFoodPizzaMushroomSlice-desc = Maybe it is the last slice of pizza in your life.
+ent-RMCFoodPizzaMushroomSlice-name = кусок пиццы с грибами
+ent-RMCFoodPizzaMushroomSlice-desc = Возможно, это последний кусок пиццы в вашей жизни.
 
-ent-RMCFoodPizzaMushroomFull-name = mushroom pizza
-ent-RMCFoodPizzaMushroomFull-desc = Very special pizza.
+ent-RMCFoodPizzaMushroomFull-name = пицца с грибами
+ent-RMCFoodPizzaMushroomFull-desc = Очень особенная пицца.
 
-ent-RMCFoodPizzaMeatSlice-name = meat pizza slice
-ent-RMCFoodPizzaMeatSlice-desc = A slice of a meaty pizza.
+ent-RMCFoodPizzaMeatSlice-name = кусок мясной пиццы
+ent-RMCFoodPizzaMeatSlice-desc = Кусочек мясистой пиццы.
 
-ent-RMCFoodPizzaMeatFull-name = meat pizza
-ent-RMCFoodPizzaMeatFull-desc = A pizza with meat topping.
+ent-RMCFoodPizzaMeatFull-name = мясная пицца
+ent-RMCFoodPizzaMeatFull-desc = Пицца с мясной начинкой.
 
-ent-RMCFoodPizzaMargheritaSlice-name = margherita slice
-ent-RMCFoodPizzaMargheritaSlice-desc = A slice of the classic pizza.
+ent-RMCFoodPizzaMargheritaSlice-name = кусочек маргариты
+ent-RMCFoodPizzaMargheritaSlice-desc = Кусочек классической пиццы.
 
-ent-RMCFoodPizzaMargheritaFull-name = margherita
-ent-RMCFoodPizzaMargheritaFull-desc = The golden standard of pizzas.
+ent-RMCFoodPizzaMargheritaFull-name = Маргарита
+ent-RMCFoodPizzaMargheritaFull-desc = Золотой стандарт пиццы.
 
-ent-RMCFoodPizzaBase-name = item
+ent-RMCFoodPizzaBase-name = элемент
 
-ent-RMCFoodPizzaFullBase-name = item
+ent-RMCFoodPizzaFullBase-name = элемент
 
-ent-RMCFoodPizzaSliceBase-name = item
+ent-RMCFoodPizzaSliceBase-name = элемент
 
-ent-RMCFoodPizzaSupremeFull-name = supreme pizza
-ent-RMCFoodPizzaSupremeFull-desc = With this many toppings, it lives up to its name.
+ent-RMCFoodPizzaSupremeFull-name = высшая пицца
+ent-RMCFoodPizzaSupremeFull-desc = Благодаря такому количеству начинок он оправдывает свое название.
 
-ent-RMCFoodPizzaSupremeSlice-name = supreme slice
-ent-RMCFoodPizzaSupremeSlice-desc = A slice of the top.
+ent-RMCFoodPizzaSupremeSlice-name = высший кусок
+ent-RMCFoodPizzaSupremeSlice-desc = Кусочек верха.
 
-ent-RMCFoodPizzaCalabresaFull-name = calabresa pizza
-ent-RMCFoodPizzaCalabresaFull-desc = Pizza so good it will make you see Cristo Redentor!
+ent-RMCFoodPizzaCalabresaFull-name = пицца калабреза
+ent-RMCFoodPizzaCalabresaFull-desc = Пицца настолько хороша, что вы увидите Кристо Редентора!
 
-ent-RMCFoodPizzaCalabresaSlice-name = slice de calabresa
-ent-RMCFoodPizzaCalabresaSlice-desc = A slice of paraíso.
+ent-RMCFoodPizzaCalabresaSlice-name = кусочек де калабреза
+ent-RMCFoodPizzaCalabresaSlice-desc = Кусочек параисо.
 
-ent-RMCBoxPizzaGalaxy-name = Pizza Galaxy pizza box
-ent-RMCBoxPizzaGalaxy-desc = A box suited for the finest pizzas.
+ent-RMCBoxPizzaGalaxy-name = Коробка для пиццы «Пицца Галакси»
+ent-RMCBoxPizzaGalaxy-desc = Коробка для лучшей пиццы.
 
-ent-RMCBoxPizzaMargherita-name = pizza box
-ent-RMCBoxPizzaMargherita-desc = A box suited for pizzas.
+ent-RMCBoxPizzaMargherita-name = коробка для пиццы
+ent-RMCBoxPizzaMargherita-desc = Коробка, подходящая для пиццы.
 
-ent-RMCBoxPizzaGalaxyMargherita-name = Pizza Galaxy pizza box
-ent-RMCBoxPizzaGalaxyMargherita-desc = A box suited for the finest pizzas.
+ent-RMCBoxPizzaGalaxyMargherita-name = Коробка для пиццы «Пицца Галакси»
+ent-RMCBoxPizzaGalaxyMargherita-desc = Коробка для лучшей пиццы.
 
-ent-RMCBoxPizzaMeat-name = pizza box
-ent-RMCBoxPizzaMeat-desc = A box suited for pizzas.
+ent-RMCBoxPizzaMeat-name = коробка для пиццы
+ent-RMCBoxPizzaMeat-desc = Коробка, подходящая для пиццы.
 
-ent-RMCBoxPizzaGalaxyMeat-name = Pizza Galaxy pizza box
-ent-RMCBoxPizzaGalaxyMeat-desc = A box suited for the finest pizzas.
+ent-RMCBoxPizzaGalaxyMeat-name = Коробка для пиццы «Пицца Галакси»
+ent-RMCBoxPizzaGalaxyMeat-desc = Коробка для лучшей пиццы.
 
-ent-RMCBoxPizzaMushroom-name = pizza box
-ent-RMCBoxPizzaMushroom-desc = A box suited for pizzas.
+ent-RMCBoxPizzaMushroom-name = коробка для пиццы
+ent-RMCBoxPizzaMushroom-desc = Коробка, подходящая для пиццы.
 
-ent-RMCBoxPizzaGalaxyMushroom-name = Pizza Galaxy pizza box
-ent-RMCBoxPizzaGalaxyMushroom-desc = A box suited for the finest pizzas.
+ent-RMCBoxPizzaGalaxyMushroom-name = Коробка для пиццы «Пицца Галакси»
+ent-RMCBoxPizzaGalaxyMushroom-desc = Коробка для лучшей пиццы.
 
-ent-RMCBoxPizzaVegetable-name = pizza box
-ent-RMCBoxPizzaVegetable-desc = A box suited for pizzas.
+ent-RMCBoxPizzaVegetable-name = коробка для пиццы
+ent-RMCBoxPizzaVegetable-desc = Коробка, подходящая для пиццы.
 
-ent-RMCBoxPizzaGalaxyVegetable-name = Pizza Galaxy pizza box
-ent-RMCBoxPizzaGalaxyVegetable-desc = A box suited for the finest pizzas.
+ent-RMCBoxPizzaGalaxyVegetable-name = Коробка для пиццы «Пицца Галакси»
+ent-RMCBoxPizzaGalaxyVegetable-desc = Коробка для лучшей пиццы.
 
-ent-RMCBoxPizzaRandom-name = pizza box
-ent-RMCBoxPizzaRandom-desc = A box suited for pizzas.
+ent-RMCBoxPizzaRandom-name = коробка для пиццы
+ent-RMCBoxPizzaRandom-desc = Коробка, подходящая для пиццы.
 
-ent-RMCBoxPizzaGalaxyMystery-name = Pizza Galaxy pizza box
-ent-RMCBoxPizzaGalaxyMystery-desc = A box suited for the finest pizzas.
+ent-RMCBoxPizzaGalaxyMystery-name = Коробка для пиццы «Пицца Галакси»
+ent-RMCBoxPizzaGalaxyMystery-desc = Коробка для лучшей пиццы.
 

@@ -1,78 +1,78 @@
-ent-RMCCurtainColourableTransparentAlt-name = blinds
-ent-RMCCurtainColourableTransparentAlt-desc = Hides what others shouldn't see.
+ent-RMCCurtainColourableTransparentAlt-name = жалюзи
+ent-RMCCurtainColourableTransparentAlt-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainColourableTransparent-name = blinds
-ent-RMCCurtainColourableTransparent-desc = Hides what others shouldn't see.
+ent-RMCCurtainColourableTransparent-name = жалюзи
+ent-RMCCurtainColourableTransparent-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainRed-name = red curtain
-ent-RMCCurtainRed-desc = Hides what others shouldn't see.
+ent-RMCCurtainRed-name = красный занавес
+ent-RMCCurtainRed-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainShower-name = shower curtain
-ent-RMCCurtainShower-desc = Hides what others shouldn't see.
+ent-RMCCurtainShower-name = занавеска для душа
+ent-RMCCurtainShower-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainMedical-name = plastic curtain
-ent-RMCCurtainMedical-desc = Hides what others shouldn't see.
+ent-RMCCurtainMedical-name = пластиковый занавес
+ent-RMCCurtainMedical-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainBase-name = curtain
-ent-RMCCurtainBase-desc = Hides what others shouldn't see.
+ent-RMCCurtainBase-name = занавес
+ent-RMCCurtainBase-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainGreen-name = curtain
-ent-RMCCurtainGreen-desc = Hides what others shouldn't see.
+ent-RMCCurtainGreen-name = занавес
+ent-RMCCurtainGreen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainBlack-name = curtain
-ent-RMCCurtainBlack-desc = Hides what others shouldn't see.
+ent-RMCCurtainBlack-name = занавес
+ent-RMCCurtainBlack-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainMedicalOpen-name = plastic curtain
-ent-RMCCurtainMedicalOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainMedicalOpen-name = пластиковый занавес
+ent-RMCCurtainMedicalOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainShowerOpen-name = shower curtain
-ent-RMCCurtainShowerOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainShowerOpen-name = занавеска для душа
+ent-RMCCurtainShowerOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainColourableTransparentOpen-name = blinds
-ent-RMCCurtainColourableTransparentOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainColourableTransparentOpen-name = жалюзи
+ent-RMCCurtainColourableTransparentOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainColourableTransparentOpenAlt-name = blinds
-ent-RMCCurtainColourableTransparentOpenAlt-desc = Hides what others shouldn't see.
+ent-RMCCurtainColourableTransparentOpenAlt-name = жалюзи
+ent-RMCCurtainColourableTransparentOpenAlt-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBlack-name = blinds
-ent-RMCCurtainTransparentBlack-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBlack-name = жалюзи
+ent-RMCCurtainTransparentBlack-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBlackOpen-name = blinds
-ent-RMCCurtainTransparentBlackOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBlackOpen-name = жалюзи
+ent-RMCCurtainTransparentBlackOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBeige-name = blinds
-ent-RMCCurtainTransparentBeige-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBeige-name = жалюзи
+ent-RMCCurtainTransparentBeige-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBeigeOpen-name = blinds
-ent-RMCCurtainTransparentBeigeOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBeigeOpen-name = жалюзи
+ent-RMCCurtainTransparentBeigeOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBrown-name = blinds
-ent-RMCCurtainTransparentBrown-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBrown-name = жалюзи
+ent-RMCCurtainTransparentBrown-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBrownOpen-name = blinds
-ent-RMCCurtainTransparentBrownOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBrownOpen-name = жалюзи
+ent-RMCCurtainTransparentBrownOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentDesatBlue-name = blinds
-ent-RMCCurtainTransparentDesatBlue-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentDesatBlue-name = жалюзи
+ent-RMCCurtainTransparentDesatBlue-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentDesatBlueOpen-name = blinds
-ent-RMCCurtainTransparentDesatBlueOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentDesatBlueOpen-name = жалюзи
+ent-RMCCurtainTransparentDesatBlueOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBlue-name = blinds
-ent-RMCCurtainTransparentBlue-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBlue-name = жалюзи
+ent-RMCCurtainTransparentBlue-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentBlueOpen-name = blinds
-ent-RMCCurtainTransparentBlueOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentBlueOpen-name = жалюзи
+ent-RMCCurtainTransparentBlueOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentGreen-name = blinds
-ent-RMCCurtainTransparentGreen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentGreen-name = жалюзи
+ent-RMCCurtainTransparentGreen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentGreenOpen-name = blinds
-ent-RMCCurtainTransparentGreenOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentGreenOpen-name = жалюзи
+ent-RMCCurtainTransparentGreenOpen-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentRed-name = blinds
-ent-RMCCurtainTransparentRed-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentRed-name = жалюзи
+ent-RMCCurtainTransparentRed-desc = Скрывает то, что другие не должны видеть.
 
-ent-RMCCurtainTransparentRedOpen-name = blinds
-ent-RMCCurtainTransparentRedOpen-desc = Hides what others shouldn't see.
+ent-RMCCurtainTransparentRedOpen-name = жалюзи
+ent-RMCCurtainTransparentRedOpen-desc = Скрывает то, что другие не должны видеть.
 

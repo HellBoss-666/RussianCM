@@ -1,6 +1,6 @@
-ent-CMSpawnPointMilitaryWarden-name = military warden spawn point
-ent-CMSpawnPointMilitaryWarden-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointMilitaryWarden-name = точка появления военного надзирателя
+ent-CMSpawnPointMilitaryWarden-desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleMW-name = Military Warden
-ent-RMCGuidebookRoleMW-desc = Military Warden
+ent-RMCGuidebookRoleMW-name = Военный начальник
+ent-RMCGuidebookRoleMW-desc = Военный начальник
 

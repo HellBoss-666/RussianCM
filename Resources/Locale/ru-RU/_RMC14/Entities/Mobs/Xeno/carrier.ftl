@@ -1,8 +1,8 @@
-ent-RMCXenoCarrierBase-name = Carrier
-ent-RMCXenoCarrierBase-desc = A strange-looking alien creature. It carries a number of scuttling jointed crablike creatures.
+ent-RMCXenoCarrierBase-name = Перевозчик
+ent-RMCXenoCarrierBase-desc = Странное инопланетное существо. 
 
-ent-CMXenoCarrier-name = cm-job-name-xeno-carrier
+ent-CMXenoCarrier-name = cm-имя-задания-xeno-carrier
 
-ent-RMCXenoCarrierEggsac-name = Carrier
-ent-RMCXenoCarrierEggsac-desc = A strange-looking alien creature. It carries a number of scuttling jointed crablike creatures.
+ent-RMCXenoCarrierEggsac-name = Перевозчик
+ent-RMCXenoCarrierEggsac-desc = Странное инопланетное существо. 
 

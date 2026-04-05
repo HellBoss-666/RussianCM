@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVESectionSergeant-name = PVE section sergeant spawn point
-ent-RMCSpawnPointPVESectionSergeant-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPVESectionSergeant-name = Точка возрождения сержанта секции PVE
+ent-RMCSpawnPointPVESectionSergeant-desc = Создатель заданий RMC14. 
 

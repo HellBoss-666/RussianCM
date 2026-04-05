@@ -1,186 +1,186 @@
-ent-RMCPropVehicleMonoSupronOrange-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronOrange-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronOrange-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronOrange-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCCarPileup-name = burned out vehicle pileup
-ent-RMCCarPileup-desc = Burned-out vehicles block your path, their charred frames and shattered glass hinting at recent chaos. The acrid smell of smoke lingers.
+ent-RMCCarPileup-name = скопление сгоревшего автомобиля
+ent-RMCCarPileup-desc = Сгоревшие машины преграждают вам путь, их обгоревшие рамы и разбитые стекла намекают на недавний хаос. 
 
-ent-RMCPropVehicleMonoSupronOrangeFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronOrangeFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronOrangeFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronOrangeFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlack-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlack-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlack-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlack-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlackFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlackFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlackFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlackFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlue-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlue-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlue-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlue-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlueFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlueFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlueFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlueFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBrown-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBrown-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBrown-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBrown-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBrownFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBrownFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBrownFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBrownFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronCop-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronCop-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronCop-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronCop-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronCopFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronCopFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronCopFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronCopFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronDesatBlue-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronDesatBlue-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronDesatBlue-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronDesatBlue-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronDesatBlueFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronDesatBlueFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronDesatBlueFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronDesatBlueFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronGreen-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronGreen-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronGreen-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronGreen-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronGreenFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronGreenFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronGreenFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronGreenFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronLightBlue-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronLightBlue-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronLightBlue-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronLightBlue-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronLightBlueFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronLightBlueFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronLightBlueFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronLightBlueFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPink-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPink-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPink-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPink-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPinkFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPinkFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPinkFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPinkFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPurple-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPurple-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPurple-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPurple-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPurpleFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPurpleFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPurpleFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPurpleFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronRed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronRed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronRed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronRed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronRedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronRedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronRedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronRedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronShell-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronShell-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronShell-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronShell-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronShellFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronShellFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronShellFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronShellFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTaxi-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTaxi-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTaxi-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTaxi-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTaxiFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTaxiFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTaxiFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTaxiFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTurquoise-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTurquoise-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTurquoise-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTurquoise-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTurquoiseFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTurquoiseFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTurquoiseFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTurquoiseFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronWY-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronWY-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronWY-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronWY-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronWYFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronWYFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronWYFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronWYFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronOrangeDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronOrangeDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronOrangeDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronOrangeDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronOrangeDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronOrangeDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronOrangeDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronOrangeDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlackDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlackDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlackDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlackDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlackDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlackDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlackDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlackDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlueDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlueDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlueDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlueDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlueDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlueDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlueDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlueDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBrownDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBrownDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBrownDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBrownDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBrownDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBrownDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBrownDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBrownDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronCopDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronCopDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronCopDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronCopDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronCopDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronCopDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronCopDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronCopDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronDesatBlueDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronDesatBlueDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronDesatBlueDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronDesatBlueDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronDesatBlueDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronDesatBlueDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronDesatBlueDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronDesatBlueDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronGreenDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronGreenDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronGreenDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronGreenDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronGreenDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronGreenDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronGreenDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronGreenDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronLightBlueDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronLightBlueDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronLightBlueDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronLightBlueDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronLightBlueDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronLightBlueDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronLightBlueDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronLightBlueDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPinkDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPinkDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPinkDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPinkDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPinkDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPinkDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPinkDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPinkDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPurpleDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPurpleDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPurpleDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPurpleDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronPurpleDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronPurpleDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronPurpleDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronPurpleDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronRedDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronRedDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronRedDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronRedDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronRedDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronRedDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronRedDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronRedDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTaxiDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTaxiDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTaxiDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTaxiDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTaxiDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTaxiDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTaxiDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTaxiDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTurquoiseDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTurquoiseDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTurquoiseDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTurquoiseDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTurquoiseDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTurquoiseDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTurquoiseDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTurquoiseDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronWYDestroyed-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronWYDestroyed-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronWYDestroyed-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronWYDestroyed-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronWYDestroyedFlipped-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronWYDestroyedFlipped-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronWYDestroyedFlipped-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronWYDestroyedFlipped-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronBlueOffset-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronBlueOffset-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronBlueOffset-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronBlueOffset-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronRedOffset-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronRedOffset-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronRedOffset-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronRedOffset-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 
-ent-RMCPropVehicleMonoSupronTurquoiseOffset-name = Mono-Supron
-ent-RMCPropVehicleMonoSupronTurquoiseOffset-desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.
+ent-RMCPropVehicleMonoSupronTurquoiseOffset-name = Моно-Супрон
+ent-RMCPropVehicleMonoSupronTurquoiseOffset-desc = «Моно-Супрон», серийный гражданский автомобиль для колониальных рынков, внутри и за пределами Организации Объединенных Наций. 
 

@@ -1,12 +1,12 @@
-ent-RMCCandle4-name = red candle
-ent-RMCCandle4-desc = a candle.
+ent-RMCCandle4-name = красная свеча
+ent-RMCCandle4-desc = свеча.
 
-ent-RMCCandle-name = red candle
-ent-RMCCandle-desc = a candle.
+ent-RMCCandle-name = красная свеча
+ent-RMCCandle-desc = свеча.
 
-ent-RMCCandle2-name = red candle
-ent-RMCCandle2-desc = a candle.
+ent-RMCCandle2-name = красная свеча
+ent-RMCCandle2-desc = свеча.
 
-ent-RMCCandle3-name = red candle
-ent-RMCCandle3-desc = a candle.
+ent-RMCCandle3-name = красная свеча
+ent-RMCCandle3-desc = свеча.
 

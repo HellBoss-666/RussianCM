@@ -1,15 +1,15 @@
-ent-CMJumpsuitProvostAgent-name = special agent uniform
-ent-CMJumpsuitProvostAgent-desc = A modified Provost uniform, with its original insignia replaced by those of the Intelligence Service. Special Agents are often recruited from the upper echelons of law enforcement agencies in various armed forces. These recruits often take all their gear, uniform included with them and later modify them to include intelligence service insignia.
+ent-CMJumpsuitProvostAgent-name = униформа специального агента
+ent-CMJumpsuitProvostAgent-desc = Модифицированная униформа Провоста, в которой оригинальные знаки отличия заменены знаками разведки. 
 
-ent-CMJumpsuitProvostMarshal-name = provost marshal uniform
-ent-CMJumpsuitProvostMarshal-desc = The crisp uniform of a Provost Marshal.
+ent-CMJumpsuitProvostMarshal-name = униформа маршала проректора
+ent-CMJumpsuitProvostMarshal-desc = Нарядная форма проректора-маршала.
 
-ent-CMJumpsuitProvostSenior-name = provost senior uniform
-ent-CMJumpsuitProvostSenior-desc = The crisp uniform of a senior member of the Provost Office.
+ent-CMJumpsuitProvostSenior-name = проректор старшей формы
+ent-CMJumpsuitProvostSenior-desc = Яркая униформа старшего сотрудника проректора.
 
-ent-CMJumpsuitProvostCI-name = provost uniform
-ent-CMJumpsuitProvostCI-desc = The crisp uniform of a Provost Officer.
+ent-CMJumpsuitProvostCI-name = униформа проректора
+ent-CMJumpsuitProvostCI-desc = Нарядная форма офицера-проректора.
 
-ent-CMJumpsuitProvost-name = provost uniform
-ent-CMJumpsuitProvost-desc = The crisp uniform of a Provost Officer.
+ent-CMJumpsuitProvost-name = униформа проректора
+ent-CMJumpsuitProvost-desc = Нарядная форма офицера-проректора.
 

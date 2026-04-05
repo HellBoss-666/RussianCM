@@ -1,42 +1,42 @@
-ent-CMMREFoodHoneyFlan-name = honey flan
-ent-CMMREFoodHoneyFlan-desc = The contents of a Marine Standard issue MRE. This one is honey flan.
+ent-CMMREFoodHoneyFlan-name = медовый флан
+ent-CMMREFoodHoneyFlan-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodFlan-name = flan
-ent-CMMREFoodFlan-desc = The contents of a Marine Standard issue MRE. This one is flan.
+ent-CMMREFoodFlan-name = флан
+ent-CMMREFoodFlan-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodCocoBar-name = coco bar
-ent-CMMREFoodCocoBar-desc = The contents of a Marine Standard issue MRE. This one is a coco bar.
+ent-CMMREFoodCocoBar-name = кокосовый бар
+ent-CMMREFoodCocoBar-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodSugarCookie-name = sugar cookie
-ent-CMMREFoodSugarCookie-desc = The contents of a Marine Standard issue MRE. This one is a sugar cookie.
+ent-CMMREFoodSugarCookie-name = сахарное печенье
+ent-CMMREFoodSugarCookie-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodChocolateBrownie-name = chocolate brownie
-ent-CMMREFoodChocolateBrownie-desc = The contents of a Marine Standard issue MRE. This one is a chocolate brownie.
+ent-CMMREFoodChocolateBrownie-name = шоколадное пирожное
+ent-CMMREFoodChocolateBrownie-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodSpicedApples-name = spiced apples
-ent-CMMREFoodSpicedApples-desc = The contents of a Marine Standard issue MRE. This one is spiced apples.
+ent-CMMREFoodSpicedApples-name = пряные яблоки
+ent-CMMREFoodSpicedApples-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREComponentHoneyFlan-name = MRE component (honey flan)
-ent-CMMREComponentHoneyFlan-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious). This one is honey flan.
+ent-CMMREComponentHoneyFlan-name = Компонент MRE (медовый флан)
+ent-CMMREComponentHoneyFlan-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentFlan-name = MRE component (flan)
-ent-CMMREComponentFlan-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious). This one is flan.
+ent-CMMREComponentFlan-name = Компонент MRE (флан)
+ent-CMMREComponentFlan-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentCocoBar-name = MRE component (coco bar)
-ent-CMMREComponentCocoBar-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious). This one is a coco bar.
+ent-CMMREComponentCocoBar-name = Компонент MRE (кокосовый батончик)
+ent-CMMREComponentCocoBar-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentSugarCookie-name = MRE component (sugar cookie)
-ent-CMMREComponentSugarCookie-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious). This one is a sugar cookie.
+ent-CMMREComponentSugarCookie-name = Компонент MRE (сахарное печенье)
+ent-CMMREComponentSugarCookie-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentChocolateBrownie-name = MRE component (chocolate brownie)
-ent-CMMREComponentChocolateBrownie-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious). This one is a chocolate brownie.
+ent-CMMREComponentChocolateBrownie-name = Компонент MRE (шоколадный брауни)
+ent-CMMREComponentChocolateBrownie-desc = Побочный компонент MRE. 
 
-ent-CMMREComponentSpicedApples-name = MRE component (spiced apples)
-ent-CMMREComponentSpicedApples-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious). This one is spiced apples.
+ent-CMMREComponentSpicedApples-name = Компонент MRE (яблоки с пряностями)
+ent-CMMREComponentSpicedApples-desc = Побочный компонент MRE. 
 
-ent-CMMREDessertComponentBase-name = MRE component
-ent-CMMREDessertComponentBase-desc = An MRE side component. Contains a sweet dessert, to be eaten after the main (or before, if you're rebellious).
+ent-CMMREDessertComponentBase-name = компонент MRE
+ent-CMMREDessertComponentBase-desc = Побочный компонент MRE. 
 
-ent-CMMREFoodDessert-name = item
-ent-CMMREFoodDessert-desc = The contents of a Marine Standard issue MRE.
+ent-CMMREFoodDessert-name = элемент
+ent-CMMREFoodDessert-desc = Содержание выпуска Морпех Standard MRE.
 

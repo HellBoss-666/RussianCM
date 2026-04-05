@@ -1,18 +1,18 @@
-ent-RMCMechPowerLoader-name = LU-50 Power loader
-ent-RMCMechPowerLoader-desc = An old Fujin design refurbished by Weston-Yamada used in warehouses, constructions and military ships everywhere.
+ent-RMCMechPowerLoader-name = ЛУ-50 Мощный погрузчик
+ent-RMCMechPowerLoader-desc = Старая конструкция Fujin, отремонтированная Weston-Yamada, повсеместно используется на складах, постройках и военных кораблях.
 
-ent-RMCMechPowerLoaderWreckage-name = LU-50 Power loader wreckage
-ent-RMCMechPowerLoaderWreckage-desc = The wreckage of a LU-50 Power loader.
+ent-RMCMechPowerLoaderWreckage-name = Обломки силового погрузчика ЛУ-50
+ent-RMCMechPowerLoaderWreckage-desc = Обломки погрузчика ЛУ-50 Power.
 
-ent-RMCMechPowerLoaderWreckageGreen-name = LU-43 Power loader wreckage
-ent-RMCMechPowerLoaderWreckageGreen-desc = The wreckage of a LU-43 Power loader.
+ent-RMCMechPowerLoaderWreckageGreen-name = Обломки силового погрузчика ЛУ-43
+ent-RMCMechPowerLoaderWreckageGreen-desc = Обломки силового погрузчика ЛУ-43.
 
-ent-RMCMechPowerLoaderWreckageBlue-name = LU-52 Power loader wreckage
-ent-RMCMechPowerLoaderWreckageBlue-desc = The wreckage of a LU-52 Power loader.
+ent-RMCMechPowerLoaderWreckageBlue-name = Обломки силового погрузчика ЛУ-52
+ent-RMCMechPowerLoaderWreckageBlue-desc = Обломки силового погрузчика ЛУ-52.
 
-ent-RMCMechPowerLoaderGreen-name = LU-43 Power loader
-ent-RMCMechPowerLoaderGreen-desc = An really old but trusted design used in warehouses, constructions and military ships everywhere. This one has a signature green and yellow livery of Fujin. The label claims they make electronics and machinery, though you’ve never heard of them before.
+ent-RMCMechPowerLoaderGreen-name = ЛУ-43 Мощный погрузчик
+ent-RMCMechPowerLoaderGreen-desc = Действительно старая, но проверенная конструкция, повсеместно используемая на складах, постройках и военных кораблях. 
 
-ent-RMCMechPowerLoaderBlue-name = LU-52 Power loader
-ent-RMCMechPowerLoaderBlue-desc = A modernized design made to outdo the older models once used in fancy ports and facilities. It was built by Ferret Heavy Industries before they went bankrupt, making these units surprisingly affordable.
+ent-RMCMechPowerLoaderBlue-name = ЛУ-52 ​​Мощный погрузчик
+ent-RMCMechPowerLoaderBlue-desc = Модернизированный дизайн, призванный превзойти старые модели, которые когда-то использовались в модных портах и ​​объектах. 
 

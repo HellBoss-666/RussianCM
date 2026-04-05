@@ -1,14 +1,14 @@
-ent-RMCRandomHumanoidBravoWeaponsSpecialist-name = bravo ghost role weapons specialist
+ent-RMCRandomHumanoidBravoWeaponsSpecialist-name = браво специалист по оружию в роли призрака
 
-ent-RMCRandomHumanoidBravoSquadLeader-name = bravo ghost role squad leader
+ent-RMCRandomHumanoidBravoSquadLeader-name = браво лидер отряда в роли призрака
 
-ent-RMCRandomHumanoidBravoSmartGunOperator-name = bravo ghost role smart gun operator
+ent-RMCRandomHumanoidBravoSmartGunOperator-name = браво роль призрака оператор умного оружия
 
-ent-RMCRandomHumanoidBravoRifleman-name = bravo ghost role rifleman
+ent-RMCRandomHumanoidBravoRifleman-name = браво роль призрака стрелок
 
-ent-RMCRandomHumanoidBravoHospitalCorpsman-name = bravo ghost role hospital corpsman
+ent-RMCRandomHumanoidBravoHospitalCorpsman-name = браво роль призрака санитар больницы
 
-ent-RMCRandomHumanoidBravoFireteamLeader-name = bravo ghost role fireteam leader
+ent-RMCRandomHumanoidBravoFireteamLeader-name = браво роль призрака командир боевой группы
 
-ent-RMCRandomHumanoidBravoCombatTech-name = bravo ghost role combat technician
+ent-RMCRandomHumanoidBravoCombatTech-name = браво, боевой техник в роли призрака
 

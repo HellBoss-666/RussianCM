@@ -1,9 +1,9 @@
-ent-RMCArmorHelmetParamedic-name = MT-SHIELD-X 525 helmet
-ent-RMCArmorHelmetParamedic-desc = TThe MT-SHIELD-X 525 (MedTech - Safety Helmet Integrated for Extreme Danger). A closed helmet designed to protect the wearer from hazardous environments, this specific model is designed to be effective in a variety of hazardous environments and protects the user from potential biohazards. This helmet was designed by Halcyon Systems, in collaboration with MedTech.
+ent-RMCArmorHelmetParamedic-name = MT-SHIELD-X 525 Шлем
+ent-RMCArmorHelmetParamedic-desc = MT-SHIELD-X 525 (MedTech – интегрированный защитный шлем для экстремальной опасности). 
 
-ent-RMCArmorHelmetTMCCMiner-name = HS-TM-SHIELD-X 550 helmet
-ent-RMCArmorHelmetTMCCMiner-desc = The HS-TM-SHIELD-X 550 (Halcyon Systems - Tartarus Mining - Safety Helmet Integrated for Extreme Danger). A closed helmet designed to protect the wearer from hazardous environments, this specific model is designed to be effective in a variety of hazardous environments and protect the user from toxic fume inhalation. It has a built in semi-closed breathing system. This helmet was designed by Halcyon Systems, in collaboration with Tartarus-Mining.
+ent-RMCArmorHelmetTMCCMiner-name = HS-TM-SHIELD-X 550 Шлем
+ent-RMCArmorHelmetTMCCMiner-desc = HS-TM-SHIELD-X 550 (Halcyon Systems – Tartarus Mining – Интегрированный защитный шлем для экстремальной опасности). 
 
-ent-RMCArmorHelmetFirefighter-name = HS-SHIELD-X 500 helmet
-ent-RMCArmorHelmetFirefighter-desc = The HS-SHIELD-X 500 (Halcyon Systems - Safety Helmet Integrated for Extreme Danger). A closed helmet designed to protect the wearer from hazardous environments, this specific model is designed to be effective in high heat environments and protect the user from smoke inhalation. It has a built in semi-closed breathing system. This helmet was designed by Halcyon Systems.
+ent-RMCArmorHelmetFirefighter-name = HS-SHIELD-X 500 Шлем
+ent-RMCArmorHelmetFirefighter-desc = HS-SHIELD-X 500 (Halcyon Systems – интегрированный защитный шлем для экстремальной опасности). 
 

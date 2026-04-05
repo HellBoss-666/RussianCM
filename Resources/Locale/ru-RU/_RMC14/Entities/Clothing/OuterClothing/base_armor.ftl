@@ -1,16 +1,16 @@
-ent-RMCBaseArmorNoAccessory-name = lathe-category-clothing
+ent-RMCBaseArmorNoAccessory-name = токарный станок-категория-одежда
 
-ent-RMCBaseArmor-name = lathe-category-clothing
+ent-RMCBaseArmor-name = токарный станок-категория-одежда
 
-ent-RMCBaseMarineArmorNoAccessory-name = lathe-category-clothing
+ent-RMCBaseMarineArmorNoAccessory-name = токарный станок-категория-одежда
 
-ent-RMCBaseArmorPVE-name = lathe-category-clothing
+ent-RMCBaseArmorPVE-name = токарный станок-категория-одежда
 
-ent-RMCBaseMarineArmor-name = lathe-category-clothing
+ent-RMCBaseMarineArmor-name = токарный станок-категория-одежда
 
-ent-RMCBaseMarineArmorLightNoAccessory-name = lathe-category-clothing
+ent-RMCBaseMarineArmorLightNoAccessory-name = токарный станок-категория-одежда
 
-ent-RMCBaseMarineArmorLight-name = lathe-category-clothing
+ent-RMCBaseMarineArmorLight-name = токарный станок-категория-одежда
 
-ent-RMCBasePMCArmorLight-name = lathe-category-clothing
+ent-RMCBasePMCArmorLight-name = токарный станок-категория-одежда
 

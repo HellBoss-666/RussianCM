@@ -1,11 +1,11 @@
-ent-CMCOSmartGunOperatorEquipmentCase-name = ML66B smart gun system case
-ent-CMCOSmartGunOperatorEquipmentCase-desc = A large case containing an ML66B 'cavalier' Smartgun, ML66A combat harness, head mounted sight and powerpack.
+ent-CMCOSmartGunOperatorEquipmentCase-name = Чехол для системы «умного оружия» ML66B
+ent-CMCOSmartGunOperatorEquipmentCase-desc = Большой кейс, в котором находится «кавалерский» пистолет ML66B Smartgun, боевая подвеска ML66A, наголовный прицел и блок питания.
 
-ent-CMSmartGunOperatorEquipmentCase-name = ML66A smart gun system case
-ent-CMSmartGunOperatorEquipmentCase-desc = A large case containing an ML66A Smartgun, ML66A combat harness, head mounted sight and powerpack. NOTE: You cannot put items back inside this case.
-ent-CMSmartGunOperatorEquipmentCaseBelt-name = ML66A smart gun system case
-ent-CMSmartGunOperatorEquipmentCaseBelt-desc = A large case containing an ML66A Smartgun, ML66A combat harness, head mounted sight and powerpack.
+ent-CMSmartGunOperatorEquipmentCase-name = Чехол для системы «умного оружия» ML66A
+ent-CMSmartGunOperatorEquipmentCase-desc = Большой кейс, в котором находится ML66A Smartgun, боевая подвеска ML66A, наголовный прицел и блок питания. 
+ent-CMSmartGunOperatorEquipmentCaseBelt-name = Чехол для системы «умного оружия» ML66A
+ent-CMSmartGunOperatorEquipmentCaseBelt-desc = Большой кейс, в котором находится ML66A Smartgun, боевая подвеска ML66A, наголовный прицел и блок питания.
 
-ent-CMCOSmartGunOperatorEquipmentCaseBelt-name = ML66B smart gun system case
-ent-CMCOSmartGunOperatorEquipmentCaseBelt-desc = A large case containing an ML66B 'cavalier' Smartgun, ML66A combat harness, head mounted sight and powerpack.
+ent-CMCOSmartGunOperatorEquipmentCaseBelt-name = Чехол для системы «умного оружия» ML66B
+ent-CMCOSmartGunOperatorEquipmentCaseBelt-desc = Большой кейс, в котором находится «кавалерский» пистолет ML66B Smartgun, боевая подвеска ML66A, наголовный прицел и блок питания.
 

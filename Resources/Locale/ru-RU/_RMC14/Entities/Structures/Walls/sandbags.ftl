@@ -1,22 +1,22 @@
-ent-CMSandbagFull-name = empty sandbags
+ent-CMSandbagFull-name = пустые мешки с песком
 
-ent-CMSandbagEmpty-name = empty sandbags
+ent-CMSandbagEmpty-name = пустые мешки с песком
 
-ent-CMBarricadeSandbag-name = sandbag barricade
-ent-CMBarricadeSandbag-desc = A makeshift barricade made out of the sand from the ground. Tough to beat but easy to pierce.
+ent-CMBarricadeSandbag-name = баррикада из мешков с песком
+ent-CMBarricadeSandbag-desc = Импровизированная баррикада, сделанная из песка с земли. 
 
-ent-CMSandbagEmpty50-name = empty sandbags
+ent-CMSandbagEmpty50-name = пустые мешки с песком
 
-ent-CMSandbagEmpty25-name = empty sandbags
+ent-CMSandbagEmpty25-name = пустые мешки с песком
 
-ent-CMSandbagEmpty10-name = empty sandbags
+ent-CMSandbagEmpty10-name = пустые мешки с песком
 
-ent-CMSandbagFull50-name = empty sandbags
+ent-CMSandbagFull50-name = пустые мешки с песком
 
-ent-CMSandbagFull25-name = empty sandbags
+ent-CMSandbagFull25-name = пустые мешки с песком
 
-ent-CMSandbagFull5-name = empty sandbags
+ent-CMSandbagFull5-name = пустые мешки с песком
 
-ent-RMCBarricadeSandbagSoro-name = sandbag barricade
-ent-RMCBarricadeSandbagSoro-desc = A makeshift barricade made out of the sand from the ground. Tough to beat but easy to pierce.
+ent-RMCBarricadeSandbagSoro-name = баррикада из мешков с песком
+ent-RMCBarricadeSandbagSoro-desc = Импровизированная баррикада, сделанная из песка с земли. 
 

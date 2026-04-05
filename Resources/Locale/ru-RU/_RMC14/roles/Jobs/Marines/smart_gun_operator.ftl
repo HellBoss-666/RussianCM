@@ -1,18 +1,18 @@
-ent-CMSpawnPointSmartGunOperator-name = smart gun operator spawn point
-ent-CMSpawnPointSmartGunOperator-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSmartGunOperator-name = точка появления оператора умного оружия
+ent-CMSpawnPointSmartGunOperator-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSmartGunOperatorAlpha-name = smart gun operator spawn point
-ent-CMSpawnPointSmartGunOperatorAlpha-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSmartGunOperatorAlpha-name = точка появления оператора умного оружия
+ent-CMSpawnPointSmartGunOperatorAlpha-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSmartGunOperatorBravo-name = smart gun operator spawn point
-ent-CMSpawnPointSmartGunOperatorBravo-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSmartGunOperatorBravo-name = точка появления оператора умного оружия
+ent-CMSpawnPointSmartGunOperatorBravo-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSmartGunOperatorCharlie-name = smart gun operator spawn point
-ent-CMSpawnPointSmartGunOperatorCharlie-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSmartGunOperatorCharlie-name = точка появления оператора умного оружия
+ent-CMSpawnPointSmartGunOperatorCharlie-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSmartGunOperatorDelta-name = smart gun operator spawn point
-ent-CMSpawnPointSmartGunOperatorDelta-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSmartGunOperatorDelta-name = точка появления оператора умного оружия
+ent-CMSpawnPointSmartGunOperatorDelta-desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleSGO-name = Smart Gun Operator
-ent-RMCGuidebookRoleSGO-desc = Smart Gun Operator
+ent-RMCGuidebookRoleSGO-name = Умный оператор оружия
+ent-RMCGuidebookRoleSGO-desc = Умный оператор оружия
 

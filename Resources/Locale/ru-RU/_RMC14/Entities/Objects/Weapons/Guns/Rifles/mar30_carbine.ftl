@@ -1,3 +1,3 @@
-ent-RMCWeaponRifleMAR30-name = MAR-30 battle carbine
-ent-RMCWeaponRifleMAR30-desc = A cheap, reliable carbine chambered in 7.62x39mm. Commonly found in the hands of criminals or mercenaries.
+ent-RMCWeaponRifleMAR30-name = Боевой карабин МАР-30
+ent-RMCWeaponRifleMAR30-desc = Дешевый и надежный карабин под патрон 7,62х39 мм. 
 

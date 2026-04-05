@@ -1,30 +1,30 @@
-ent-CMWardrobeYellow-name = yellow wardrobe
-ent-CMWardrobeYellow-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeYellow-name = желтый шкаф
+ent-CMWardrobeYellow-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeWhite-name = white wardrobe
-ent-CMWardrobeWhite-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeWhite-name = белый шкаф
+ent-CMWardrobeWhite-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeRed-name = red wardrobe
-ent-CMWardrobeRed-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeRed-name = красный шкаф
+ent-CMWardrobeRed-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobePurple-name = purple wardrobe
-ent-CMWardrobePurple-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobePurple-name = фиолетовый гардероб
+ent-CMWardrobePurple-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobePink-name = pink wardrobe
-ent-CMWardrobePink-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobePink-name = розовый шкаф
+ent-CMWardrobePink-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeOrange-name = orange wardrobe
-ent-CMWardrobeOrange-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeOrange-name = оранжевый шкаф
+ent-CMWardrobeOrange-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeGreen-name = green wardrobe
-ent-CMWardrobeGreen-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeGreen-name = зеленый шкаф
+ent-CMWardrobeGreen-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeBlue-name = blue wardrobe
-ent-CMWardrobeBlue-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeBlue-name = синий шкаф
+ent-CMWardrobeBlue-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeBlack-name = black wardrobe
-ent-CMWardrobeBlack-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeBlack-name = черный шкаф
+ent-CMWardrobeBlack-desc = Это хранилище для стандартной одежды.
 
-ent-CMWardrobeBase-name = closet
-ent-CMWardrobeBase-desc = It's a storage unit for standard-issue attire.
+ent-CMWardrobeBase-name = шкаф
+ent-CMWardrobeBase-desc = Это хранилище для стандартной одежды.
 

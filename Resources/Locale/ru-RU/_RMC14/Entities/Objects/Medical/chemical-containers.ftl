@@ -1,72 +1,72 @@
-ent-RMCJugSulphuricAcid-name = jug
-ent-RMCJugSulphuricAcid-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugSulphuricAcid-name = кувшин
+ent-RMCJugSulphuricAcid-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugWater-name = jug
-ent-RMCJugWater-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugWater-name = кувшин
+ent-RMCJugWater-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugOxygen-name = jug
-ent-RMCJugOxygen-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugOxygen-name = кувшин
+ent-RMCJugOxygen-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugNitrogen-name = jug
-ent-RMCJugNitrogen-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugNitrogen-name = кувшин
+ent-RMCJugNitrogen-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugSugar-name = jug
-ent-RMCJugSugar-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugSugar-name = кувшин
+ent-RMCJugSugar-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugEthanol-name = jug
-ent-RMCJugEthanol-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugEthanol-name = кувшин
+ent-RMCJugEthanol-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugSilver-name = jug
-ent-RMCJugSilver-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugSilver-name = кувшин
+ent-RMCJugSilver-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugMercury-name = jug
-ent-RMCJugMercury-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugMercury-name = кувшин
+ent-RMCJugMercury-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugGold-name = jug
-ent-RMCJugGold-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugGold-name = кувшин
+ent-RMCJugGold-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugCopper-name = jug
-ent-RMCJugCopper-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugCopper-name = кувшин
+ent-RMCJugCopper-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugIron-name = jug
-ent-RMCJugIron-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugIron-name = кувшин
+ent-RMCJugIron-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugRadium-name = jug
-ent-RMCJugRadium-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugRadium-name = кувшин
+ent-RMCJugRadium-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugPotassium-name = jug
-ent-RMCJugPotassium-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugPotassium-name = кувшин
+ent-RMCJugPotassium-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugSodium-name = jug
-ent-RMCJugSodium-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugSodium-name = кувшин
+ent-RMCJugSodium-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugLithium-name = jug
-ent-RMCJugLithium-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugLithium-name = кувшин
+ent-RMCJugLithium-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugHydrogen-name = jug
-ent-RMCJugHydrogen-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugHydrogen-name = кувшин
+ent-RMCJugHydrogen-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugSilicon-name = jug
-ent-RMCJugSilicon-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugSilicon-name = кувшин
+ent-RMCJugSilicon-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugSulfur-name = jug
-ent-RMCJugSulfur-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugSulfur-name = кувшин
+ent-RMCJugSulfur-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugPhosphorus-name = jug
-ent-RMCJugPhosphorus-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugPhosphorus-name = кувшин
+ent-RMCJugPhosphorus-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugAluminum-name = jug
-ent-RMCJugAluminum-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugAluminum-name = кувшин
+ent-RMCJugAluminum-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugChlorine-name = jug
-ent-RMCJugChlorine-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugChlorine-name = кувшин
+ent-RMCJugChlorine-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugFluorine-name = jug
-ent-RMCJugFluorine-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugFluorine-name = кувшин
+ent-RMCJugFluorine-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJugCarbon-name = jug
-ent-RMCJugCarbon-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJugCarbon-name = кувшин
+ent-RMCJugCarbon-desc = Используется для содержания очень большого количества химикатов или растворов. 
 
-ent-RMCJug-name = jug
-ent-RMCJug-desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-RMCJug-name = кувшин
+ent-RMCJug-desc = Используется для содержания очень большого количества химикатов или растворов. 
 

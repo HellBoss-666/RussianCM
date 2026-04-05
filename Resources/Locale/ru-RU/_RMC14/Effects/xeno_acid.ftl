@@ -1,29 +1,28 @@
-ent-XenoAcidSprayTrapStrong-name = strong splatter
-ent-XenoAcidSprayTrapStrong-desc = It burns a lot!
+ent-XenoAcidSprayTrapStrong-name = сильные брызги
+ent-XenoAcidSprayTrapStrong-desc = Оно сильно жжется!
 
-ent-XenoAcidSprayTrapWeak-name = weak splatter
-ent-XenoAcidSprayTrapWeak-desc = It burns! It burns, but not as much!
+ent-XenoAcidSprayTrapWeak-name = слабые брызги
+ent-XenoAcidSprayTrapWeak-desc = Оно жжется!
 
-ent-XenoAcidSprayTrap-name = splatter
-ent-XenoAcidSprayTrap-desc = It burns! It burns like hygiene!
+ent-XenoAcidSprayTrap-name = брызги
+ent-XenoAcidSprayTrap-desc = Оно жжется!
 
-ent-XenoAcidSprayAcidStacks-name = splatter
-ent-XenoAcidSprayAcidStacks-desc = It burns! It burns like hygiene!
+ent-XenoAcidSprayAcidStacks-name = брызги
+ent-XenoAcidSprayAcidStacks-desc = Оно жжется!
 
-ent-XenoAcidSprayStrong-name = splatter
-ent-XenoAcidSprayStrong-desc = It burns! It burns like hygiene!
+ent-XenoAcidSprayStrong-name = брызги
+ent-XenoAcidSprayStrong-desc = Оно жжется!
 
-ent-XenoAcidSprayWeak-name = weak splatter
-ent-XenoAcidSprayWeak-desc = It burns! It burns, but not as much!
+ent-XenoAcidSprayWeak-name = слабые брызги
+ent-XenoAcidSprayWeak-desc = Оно жжется!
 
-ent-XenoAcidStrong-name = strong corrosive acid
-ent-XenoAcidStrong-desc = Burbling corrosive stuff. I wouldn't want to touch it.
+ent-XenoAcidStrong-name = сильная едкая кислота
+ent-XenoAcidStrong-desc = Бурлящая едкая штука.
 
-ent-XenoAcidWeak-name = weak corrosive acid
-ent-XenoAcidWeak-desc = Burbling corrosive stuff. I wouldn't want to touch it.
+ent-XenoAcidWeak-name = слабая едкая кислота
+ent-XenoAcidWeak-desc = Бурлящая едкая штука.
 
-ent-XenoAcidNormal-name = corrosive acid
-ent-XenoAcidNormal-desc = Burbling corrosive stuff. I wouldn't want to touch it.
+ent-XenoAcidNormal-name = едкая кислота
+ent-XenoAcidNormal-desc = Бурлящая едкая штука.
 
-ent-XenoAcidExtinguishEffect-desc = It's cold...
-
+ent-XenoAcidExtinguishEffect-desc = Холодно...

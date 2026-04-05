@@ -1,15 +1,15 @@
-ent-RMCActionToggleMotionDetector-name = Toggle Motion Detector
-ent-RMCActionToggleMotionDetector-desc = Periodically pings any unknown movement near you.
+ent-RMCActionToggleMotionDetector-name = Переключить детектор движения
+ent-RMCActionToggleMotionDetector-desc = Периодически пингует любое неизвестное движение рядом с вами.
 
-ent-RMCActionToggleFarSight-name = Toggle Far Sight
-ent-RMCActionToggleFarSight-desc = Lets you see slightly farther away.
+ent-RMCActionToggleFarSight-name = Переключить дальнее зрение
+ent-RMCActionToggleFarSight-desc = Позволяет видеть немного дальше.
 
-ent-RMCActionToggleAutoFire-name = Toggle Auto Fire
-ent-RMCActionToggleAutoFire-desc = Makes the gun automatically shoot a single shot towards a target every couple seconds.
+ent-RMCActionToggleAutoFire-name = Переключить автоматический огонь
+ent-RMCActionToggleAutoFire-desc = Заставляет оружие автоматически производить одиночный выстрел в сторону цели каждые пару секунд.
 
-ent-RMCActionToggleRecoil-name = Toggle Recoil Compensation
-ent-RMCActionToggleRecoil-desc = Removes all recoil when firing this gun.
+ent-RMCActionToggleRecoil-name = Переключить компенсацию отдачи
+ent-RMCActionToggleRecoil-desc = Убирает всю отдачу при стрельбе из этого пистолета.
 
-ent-RMCActionToggleAmmo-name = Toggle Ammo Type
-ent-RMCActionToggleAmmo-desc = Switch the ammo type fired by this gun. [color=red]You can activate this by pressing the unique gun action keybind, Spacebar by default![/color]
+ent-RMCActionToggleAmmo-name = Переключить тип боеприпасов
+ent-RMCActionToggleAmmo-desc = Переключите тип боеприпасов, выпущенных из этого оружия.
 

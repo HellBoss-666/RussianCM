@@ -1,15 +1,15 @@
-ent-RMCSpawnerRandomPillBase-name = pill bottle loot spawner
-ent-RMCSpawnerRandomPillBase-desc = This is a random pill bottle, for survivors.
+ent-RMCSpawnerRandomPillBase-name = спаунер добычи из бутылки с таблетками
+ent-RMCSpawnerRandomPillBase-desc = Это случайный флакон с таблетками для выживших.
 
-ent-RMCSpawnerRandomPillBottle-name = pill bottle loot spawner
-ent-RMCSpawnerRandomPillBottle-desc = This is a random pill bottle, for survivors.
+ent-RMCSpawnerRandomPillBottle-name = спаунер добычи из бутылки с таблетками
+ent-RMCSpawnerRandomPillBottle-desc = Это случайный флакон с таблетками для выживших.
 
-ent-RMCSpawnerRandomPillBottleLowChance-name = pill bottle loot spawner
-ent-RMCSpawnerRandomPillBottleLowChance-desc = This is a random pill bottle, for survivors.
+ent-RMCSpawnerRandomPillBottleLowChance-name = спаунер добычи из бутылки с таблетками
+ent-RMCSpawnerRandomPillBottleLowChance-desc = Это случайный флакон с таблетками для выживших.
 
-ent-RMCSpawnerRandomPillBottleMidChance-name = pill bottle loot spawner
-ent-RMCSpawnerRandomPillBottleMidChance-desc = This is a random pill bottle, for survivors.
+ent-RMCSpawnerRandomPillBottleMidChance-name = спаунер добычи из бутылки с таблетками
+ent-RMCSpawnerRandomPillBottleMidChance-desc = Это случайный флакон с таблетками для выживших.
 
-ent-RMCSpawnerRandomPillBottleHighChance-name = pill bottle loot spawner
-ent-RMCSpawnerRandomPillBottleHighChance-desc = This is a random pill bottle, for survivors.
+ent-RMCSpawnerRandomPillBottleHighChance-name = спаунер добычи из бутылки с таблетками
+ent-RMCSpawnerRandomPillBottleHighChance-desc = Это случайный флакон с таблетками для выживших.
 

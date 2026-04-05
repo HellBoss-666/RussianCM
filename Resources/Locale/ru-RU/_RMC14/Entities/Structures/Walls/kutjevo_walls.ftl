@@ -1,15 +1,15 @@
-ent-RMCWallKutjevoHull-name = heavy reinforced colony wall
-ent-RMCWallKutjevoHull-desc = Dusty worn down walls that were once built to last. This one is indestructible.
+ent-RMCWallKutjevoHull-name = тяжелая укрепленная стена колонии
+ent-RMCWallKutjevoHull-desc = Пыльные обветшалые стены, которые когда-то были построены на века. 
 
-ent-RMCWallKutjevoReinforced-name = reinforced colony wall
-ent-RMCWallKutjevoReinforced-desc = Dusty worn down walls that were once built to last. This one is reinforced
+ent-RMCWallKutjevoReinforced-name = усиленная стена колонии
+ent-RMCWallKutjevoReinforced-desc = Пыльные обветшалые стены, которые когда-то были построены на века. 
 
-ent-RMCWallKutjevo-name = colony wall
-ent-RMCWallKutjevo-desc = Dusty worn down walls that were once built to last.
+ent-RMCWallKutjevo-name = стена колонии
+ent-RMCWallKutjevo-desc = Пыльные обветшалые стены, которые когда-то были построены на века.
 
-ent-RMCWallKutjevoRock-name = rock wall
-ent-RMCWallKutjevoRock-desc = Tall sandy rocks. Imposing. Impressive. Attention grabbing.
+ent-RMCWallKutjevoRock-name = каменная стена
+ent-RMCWallKutjevoRock-desc = Высокие песчаные скалы. 
 
-ent-RMCWallKutjevoRockBorder-name = rock wall
-ent-RMCWallKutjevoRockBorder-desc = Tall sandy rocks. Imposing. Impressive. Attention grabbing.
+ent-RMCWallKutjevoRockBorder-name = каменная стена
+ent-RMCWallKutjevoRockBorder-desc = Высокие песчаные скалы. 
 

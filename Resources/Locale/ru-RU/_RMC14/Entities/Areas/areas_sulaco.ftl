@@ -1,74 +1,74 @@
-ent-RMCAreaShuttleDistressArriveSEngi-name = VIP Shuttle
+ent-RMCAreaShuttleDistressArriveSEngi-name = VIP-шаттл
 
-ent-RMCAreaShuttleDistressArriveNEngi-name = VIP Shuttle
+ent-RMCAreaShuttleDistressArriveNEngi-name = VIP-шаттл
 
-ent-RMCAreaShuttleDistressTransitSmall-name = VIP Shuttle Transit
+ent-RMCAreaShuttleDistressTransitSmall-name = VIP-трансфер
 
-ent-RMCAreaShuttleDistressStartSmall-name = VIP Shuttle
+ent-RMCAreaShuttleDistressStartSmall-name = VIP-шаттл
 
-ent-RMCAreaShuttleDistressArriveSHangar-name = Distress Shuttle
+ent-RMCAreaShuttleDistressArriveSHangar-name = Аварийный шаттл
 
-ent-RMCAreaShuttleDistressArriveNHangar-name = Distress Shuttle
+ent-RMCAreaShuttleDistressArriveNHangar-name = Аварийный шаттл
 
-ent-RMCAreaShuttleDistressArrive3-name = Distress Shuttle
+ent-RMCAreaShuttleDistressArrive3-name = Аварийный шаттл
 
-ent-RMCAreaShuttleDistressArrive2-name = Distress Shuttle
+ent-RMCAreaShuttleDistressArrive2-name = Аварийный шаттл
 
-ent-RMCAreaShuttleDistressArrive1-name = Distress Shuttle
+ent-RMCAreaShuttleDistressArrive1-name = Аварийный шаттл
 
-ent-RMCAreaShuttleDistressTransitBig-name = Distress Shuttle Big Transit
+ent-RMCAreaShuttleDistressTransitBig-name = Аварийный шаттл «Большой транзит»
 
-ent-RMCAreaShuttleDistressStartBig-name = Distress Shuttle Big
+ent-RMCAreaShuttleDistressStartBig-name = Аварийный шаттл Большой
 
-ent-RMCAreaShuttleDistressTransitUpp-name = Distress Shuttle SPP Transit
+ent-RMCAreaShuttleDistressTransitUpp-name = Аварийный шаттл СПП Транзит
 
-ent-RMCAreaShuttleDistressStartUpp-name = Distress Shuttle SPP
+ent-RMCAreaShuttleDistressStartUpp-name = Аварийный шаттл СПП
 
-ent-RMCAreaShuttleDistressTransitPmc-name = Distress Shuttle PMC Transit
+ent-RMCAreaShuttleDistressTransitPmc-name = Аварийный шаттл ЧВК Транзит
 
-ent-RMCAreaShuttleDistressStartPmc-name = Distress Shuttle PMC
+ent-RMCAreaShuttleDistressStartPmc-name = Аварийный шаттл ЧВК
 
-ent-RMCAreaShuttleDistressTransit-name = Distress Shuttle Transit
+ent-RMCAreaShuttleDistressTransit-name = Транзит аварийного шаттла
 
-ent-RMCAreaShuttleDistressStart-name = Distress Shuttle
+ent-RMCAreaShuttleDistressStart-name = Аварийный шаттл
 
-ent-RMCAreaShuttleDrop2Lz2-name = Normandy Landing Zone
+ent-RMCAreaShuttleDrop2Lz2-name = Зона высадки в Нормандии
 
-ent-RMCAreaShuttleDrop2Transit-name = Dropship Normandy Transit
+ent-RMCAreaShuttleDrop2Transit-name = Транзит Нормандия
 
-ent-RMCAreaShuttleDrop2DesertDam-name = Dropship Normandy
+ent-RMCAreaShuttleDrop2DesertDam-name = Дропшиппинг Нормандия
 
-ent-RMCAreaShuttleDrop2IceColony-name = Dropship Normandy
+ent-RMCAreaShuttleDrop2IceColony-name = Дропшиппинг Нормандия
 
-ent-RMCAreaShuttleDrop2BigRed-name = Dropship Normandy
+ent-RMCAreaShuttleDrop2BigRed-name = Дропшиппинг Нормандия
 
-ent-RMCAreaShuttleDrop2Prison-name = Dropship Normandy
+ent-RMCAreaShuttleDrop2Prison-name = Дропшиппинг Нормандия
 
-ent-RMCAreaShuttleDrop2LV624-name = Dropship Normandy
+ent-RMCAreaShuttleDrop2LV624-name = Дропшиппинг Нормандия
 
-ent-RMCAreaShuttleDrop2Sulaco-name = Dropship Normandy
+ent-RMCAreaShuttleDrop2Sulaco-name = Дропшиппинг Нормандия
 
-ent-RMCAreaShuttleDrop1Lz1-name = Alamo Landing Zone
+ent-RMCAreaShuttleDrop1Lz1-name = Зона приземления Аламо
 
-ent-RMCAreaShuttleDrop1Transit-name = Dropship Alamo Transit
+ent-RMCAreaShuttleDrop1Transit-name = Dropship Аламо Транзит
 
-ent-RMCAreaShuttleDrop1DesertDam-name = Dropship Alamo
+ent-RMCAreaShuttleDrop1DesertDam-name = Дропшиппинг Аламо
 
-ent-RMCAreaShuttleDrop1IceColony-name = Dropship Alamo
+ent-RMCAreaShuttleDrop1IceColony-name = Дропшиппинг Аламо
 
-ent-RMCAreaShuttleDrop1BigRed-name = Dropship Alamo
+ent-RMCAreaShuttleDrop1BigRed-name = Дропшиппинг Аламо
 
-ent-RMCAreaShuttleDrop1Prison-name = Dropship Alamo
+ent-RMCAreaShuttleDrop1Prison-name = Дропшиппинг Аламо
 
-ent-RMCAreaShuttleDrop1LV624-name = Dropship Alamo
+ent-RMCAreaShuttleDrop1LV624-name = Дропшиппинг Аламо
 
-ent-RMCAreaShuttleDrop1Sulaco-name = Dropship Alamo
+ent-RMCAreaShuttleDrop1Sulaco-name = Дропшиппинг Аламо
 
-ent-RMCAreaShuttle-name = area
+ent-RMCAreaShuttle-name = область
 
-ent-RMCAreaShuttleDrop1-name = area
+ent-RMCAreaShuttleDrop1-name = область
 
-ent-RMCAreaShuttleDrop2-name = area
+ent-RMCAreaShuttleDrop2-name = область
 
-ent-RMCAreaShuttleDistress-name = area
+ent-RMCAreaShuttleDistress-name = область
 

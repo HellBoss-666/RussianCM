@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPSectionLeadPVE-name = spp section lead spawn point
-ent-RMCSpawnPointSPPSectionLeadPVE-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSPPSectionLeadPVE-name = точка спавна лидера раздела spp
+ent-RMCSpawnPointSPPSectionLeadPVE-desc = Создатель заданий RMC14. 
 

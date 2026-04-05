@@ -1,42 +1,42 @@
-ent-RMCPlatformStrataRockCornerSmall-name = rock corner
-ent-RMCPlatformStrataRockCornerSmall-desc = A solid chunk of desolate rocks.
+ent-RMCPlatformStrataRockCornerSmall-name = рок-уголок
+ent-RMCPlatformStrataRockCornerSmall-desc = Твердый кусок пустынной скалы.
 
-ent-RMCPlatformStrataRockBroken-name = destroyed rock edge
-ent-RMCPlatformStrataRockBroken-desc = A solid chunk of desolate rocks. Looks like you could climb it with some difficulty. It has been destroyed.
+ent-RMCPlatformStrataRockBroken-name = разрушенный край скалы
+ent-RMCPlatformStrataRockBroken-desc = Твердый кусок пустынной скалы. 
 
-ent-RMCPlatformStrataRock-name = rock edge
-ent-RMCPlatformStrataRock-desc = A solid chunk of desolate rocks. Looks like you could climb it with some difficulty.
+ent-RMCPlatformStrataRock-name = край скалы
+ent-RMCPlatformStrataRock-desc = Твердый кусок пустынной скалы. 
 
-ent-RMCPlatformStrataThreeCornerSmall-name = raised metal corner
-ent-RMCPlatformStrataThreeCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformStrataThreeCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformStrataThreeCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrataThree-name = raised metal edge
-ent-RMCPlatformStrataThree-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformStrataThree-name = приподнятый металлический край
+ent-RMCPlatformStrataThree-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrataTwoCornerSmall-name = raised metal corner
-ent-RMCPlatformStrataTwoCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformStrataTwoCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformStrataTwoCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrataTwo-name = raised metal edge
-ent-RMCPlatformStrataTwo-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformStrataTwo-name = приподнятый металлический край
+ent-RMCPlatformStrataTwo-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrataCornerSmall-name = raised metal corner
-ent-RMCPlatformStrataCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformStrataCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformStrataCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrata-name = raised metal edge
-ent-RMCPlatformStrata-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformStrata-name = приподнятый металлический край
+ent-RMCPlatformStrata-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrataBroken-name = destroyed platform
-ent-RMCPlatformStrataBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformStrataBroken-name = разрушенная платформа
+ent-RMCPlatformStrataBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformStrataStair-name = raised metal edge
-ent-RMCPlatformStrataStair-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformStrataStair-name = приподнятый металлический край
+ent-RMCPlatformStrataStair-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrataStairAlt-name = raised metal edge
-ent-RMCPlatformStrataStairAlt-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformStrataStairAlt-name = приподнятый металлический край
+ent-RMCPlatformStrataStairAlt-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformStrata2Broken-name = destroyed platform
-ent-RMCPlatformStrata2Broken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformStrata2Broken-name = разрушенная платформа
+ent-RMCPlatformStrata2Broken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformStrata3Broken-name = destroyed platform
-ent-RMCPlatformStrata3Broken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformStrata3Broken-name = разрушенная платформа
+ent-RMCPlatformStrata3Broken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 

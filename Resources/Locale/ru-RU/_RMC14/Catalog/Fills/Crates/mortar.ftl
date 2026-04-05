@@ -1,12 +1,12 @@
-ent-RMCCrateMortarShellFlare-name = M402 mortar shells crate (x6 Flare/Camera)
-ent-RMCCrateMortarShellFlare-desc = A crate containing live mortar shells with various payloads. DO NOT DROP. KEEP AWAY FROM FIRE SOURCES.
+ent-RMCCrateMortarShellFlare-name = Ящик с минометными снарядами M402 (6 вспышек/камер)
+ent-RMCCrateMortarShellFlare-desc = Ящик с боевыми минометами различной боевой нагрузки.
 
-ent-RMCCrateMortarShellIncendiary-name = M402 mortar shells crate (x6 Incend)
-ent-RMCCrateMortarShellIncendiary-desc = A crate containing live mortar shells with various payloads. DO NOT DROP. KEEP AWAY FROM FIRE SOURCES.
+ent-RMCCrateMortarShellIncendiary-name = Ящик с минометными снарядами M402 (x6 зажигательных)
+ent-RMCCrateMortarShellIncendiary-desc = Ящик с боевыми минометами различной боевой нагрузки.
 
-ent-RMCCrateMortarShellHE-name = M402 mortar shells crate (x6 HE)
-ent-RMCCrateMortarShellHE-desc = A crate containing live mortar shells with various payloads. DO NOT DROP. KEEP AWAY FROM FIRE SOURCES.
+ent-RMCCrateMortarShellHE-name = Ящик для минометных снарядов М402 (6 ОФ)
+ent-RMCCrateMortarShellHE-desc = Ящик с боевыми минометами различной боевой нагрузки.
 
-ent-RMCCrateMortarKit-name = M402 mortar crate (Mortar x1, Mortar shell backpack x1)
-ent-RMCCrateMortarKit-desc = A weapons crate.
+ent-RMCCrateMortarKit-name = Ящик с минометом M402 (1 миномет, 1 рюкзак для минометных снарядов)
+ent-RMCCrateMortarKit-desc = Ящик с оружием.
 

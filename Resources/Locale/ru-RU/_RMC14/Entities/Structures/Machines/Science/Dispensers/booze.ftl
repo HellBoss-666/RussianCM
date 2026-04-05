@@ -1,6 +1,6 @@
-ent-CMDispenserBooze-name = booze dispenser
-ent-CMDispenserBooze-desc = A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+ent-CMDispenserBooze-name = дозатор выпивки
+ent-CMDispenserBooze-desc = Технологическое чудо, предположительно способное приготовить именно ту смесь, которую вы хотите выпить, в тот момент, когда вы ее попросите.
 
-ent-CMDispenserBoozeEmpty-name = booze dispenser
-ent-CMDispenserBoozeEmpty-desc = A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+ent-CMDispenserBoozeEmpty-name = дозатор выпивки
+ent-CMDispenserBoozeEmpty-desc = Технологическое чудо, предположительно способное приготовить именно ту смесь, которую вы хотите выпить, в тот момент, когда вы ее попросите.
 

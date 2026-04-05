@@ -1,18 +1,18 @@
-ent-RMCLadder-name = ladder
-ent-RMCLadder-desc = A sturdy metal ladder.
+ent-RMCLadder-name = лестница
+ent-RMCLadder-desc = Прочная металлическая лестница.
 
-ent-RMCLadderUp-name = ladder
-ent-RMCLadderUp-desc = A sturdy metal ladder.
+ent-RMCLadderUp-name = лестница
+ent-RMCLadderUp-desc = Прочная металлическая лестница.
 
-ent-RMCLadderThrough-name = ladder
-ent-RMCLadderThrough-desc = A sturdy metal ladder.
+ent-RMCLadderThrough-name = лестница
+ent-RMCLadderThrough-desc = Прочная металлическая лестница.
 
-ent-RMCLadderHatch-name = ladder
-ent-RMCLadderHatch-desc = A sturdy metal ladder.
+ent-RMCLadderHatch-name = лестница
+ent-RMCLadderHatch-desc = Прочная металлическая лестница.
 
-ent-RMCLadderRope-name = rope
-ent-RMCLadderRope-desc = A sturdy rope.
+ent-RMCLadderRope-name = веревка
+ent-RMCLadderRope-desc = Прочная веревка.
 
-ent-RMCLadderRopeAltDrawdepth-name = rope
-ent-RMCLadderRopeAltDrawdepth-desc = A sturdy rope.
+ent-RMCLadderRopeAltDrawdepth-name = веревка
+ent-RMCLadderRopeAltDrawdepth-desc = Прочная веревка.
 

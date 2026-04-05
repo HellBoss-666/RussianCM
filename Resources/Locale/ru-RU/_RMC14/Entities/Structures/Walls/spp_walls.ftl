@@ -1,18 +1,18 @@
-ent-RMCWallSPPHull-name = ribbed hull walls
-ent-RMCWallSPPHull-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPHull-name = ребристые стенки корпуса
+ent-RMCWallSPPHull-desc = Толстая и массивная металлическая стена. 
 
-ent-RMCWallSPPReinforced-name = reinforced wall
-ent-RMCWallSPPReinforced-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPReinforced-name = усиленная стена
+ent-RMCWallSPPReinforced-desc = Толстая и массивная металлическая стена. 
 
-ent-RMCWallSPPGreyReinforced-name = reinforced wall
-ent-RMCWallSPPGreyReinforced-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPGreyReinforced-name = усиленная стена
+ent-RMCWallSPPGreyReinforced-desc = Толстая и массивная металлическая стена. 
 
-ent-RMCWallSPPWhiteReinforced-name = reinforced wall
-ent-RMCWallSPPWhiteReinforced-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPWhiteReinforced-name = усиленная стена
+ent-RMCWallSPPWhiteReinforced-desc = Толстая и массивная металлическая стена. 
 
-ent-RMCWallSPPGreyHull-name = ribbed hull walls
-ent-RMCWallSPPGreyHull-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPGreyHull-name = ребристые стенки корпуса
+ent-RMCWallSPPGreyHull-desc = Толстая и массивная металлическая стена. 
 
-ent-RMCWallSPPWhiteHull-name = ribbed hull walls
-ent-RMCWallSPPWhiteHull-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallSPPWhiteHull-name = ребристые стенки корпуса
+ent-RMCWallSPPWhiteHull-desc = Толстая и массивная металлическая стена. 
 

@@ -1,15 +1,15 @@
-ent-RMCSpoonPlastic-name = plastic spoon
-ent-RMCSpoonPlastic-desc = It's a plastic spoon. How dull.
+ent-RMCSpoonPlastic-name = пластиковая ложка
+ent-RMCSpoonPlastic-desc = Это пластиковая ложка. 
 
-ent-RMCSpoon-name = spoon
-ent-RMCSpoon-desc = It's a spoon. You can see your own upside-down face in it.
+ent-RMCSpoon-name = ложка
+ent-RMCSpoon-desc = Это ложка. 
 
-ent-RMCForkPlastic-name = plastic fork
-ent-RMCForkPlastic-desc = Yay, no washing up to do.
+ent-RMCForkPlastic-name = пластиковая вилка
+ent-RMCForkPlastic-desc = Ура, нечего мыть.
 
-ent-RMCFork-name = fork
-ent-RMCFork-desc = It's a fork. Sure is pointy.
+ent-RMCFork-name = вилка
+ent-RMCFork-desc = Это вилка. 
 
-ent-RMCRollingPin-name = rolling pin
-ent-RMCRollingPin-desc = Used to knock out the Bartender.
+ent-RMCRollingPin-name = скалка
+ent-RMCRollingPin-desc = Используется, чтобы вырубить бармена.
 

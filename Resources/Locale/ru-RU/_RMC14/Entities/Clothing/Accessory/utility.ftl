@@ -1,9 +1,9 @@
-ent-RMCStethoscope-name = stethoscope
-ent-RMCStethoscope-desc = An outdated, but still useful medical apparatus for listening to the sounds of the human body. It also makes you look like you know what you're doing.
+ent-RMCStethoscope-name = стетоскоп
+ent-RMCStethoscope-desc = Устаревший, но все еще полезный медицинский аппарат для прослушивания звуков человеческого тела. 
 
-ent-RMCUtilityBase-name = utility accessory
-ent-RMCUtilityBase-desc = An abstract utility accessory.
+ent-RMCUtilityBase-name = утилитарный аксессуар
+ent-RMCUtilityBase-desc = Абстрактный практичный аксессуар.
 
-ent-RMCHorizonFlower-name = blue horizon flower
-ent-RMCHorizonFlower-desc = A beautiful blue flower that symbolizes hope and rememberance.
+ent-RMCHorizonFlower-name = Синий цветок горизонта
+ent-RMCHorizonFlower-desc = Красивый синий цветок, символизирующий надежду и память.
 

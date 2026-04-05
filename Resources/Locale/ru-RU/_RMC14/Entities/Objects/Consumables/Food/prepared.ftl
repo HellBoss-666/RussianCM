@@ -1,104 +1,104 @@
-ent-RMCTrayEmpty-name = empty tray
-ent-RMCTrayEmpty-desc = Finished with its tour of duty.
+ent-RMCTrayEmpty-name = пустой поднос
+ent-RMCTrayEmpty-desc = Закончил свой дежурство.
 
-ent-RMCMarinePreparedMealFruitcake-name = Marine 'X-MAS' Meal: Fruitcake
-ent-RMCMarinePreparedMealFruitcake-desc = The UNMC M25 Fruitcake Meal was the third meal designed by an officers' committee as part of the M25 Project; this shows through the terrible hardness and tartness of the bread and raisined fruits. It can be logically deduced that the people who vended this option are worse than the Grinch and the Miser combined, along with the people who designed and prepared this fruitcake.
+ent-RMCMarinePreparedMealFruitcake-name = Морпех 'Рождественское' Обед: Кекс
+ent-RMCMarinePreparedMealFruitcake-desc = Фруктовый обед UNMC M25 был третьим обедом, разработанным офицерским комитетом в рамках проекта M25; 
 
-ent-RMCMarinePreparedMealGingerbread-name = Marine 'X-MAS' Meal: Gingerbread Cookies
-ent-RMCMarinePreparedMealGingerbread-desc = The UNMC M25 Gingerbread Cookies Meal was designed to give marines convenient and cheap access to gingerbread cookies as a replacement for annual gingerbread making classes due to rising expenses and comically low success rates for the Basic Holidays Festivities Course. However, due to cost saving measures, these cookies seldom inspire happiness, nor holiday spirit.
+ent-RMCMarinePreparedMealGingerbread-name = Морпех «Рождественское» блюдо: пряники
+ent-RMCMarinePreparedMealGingerbread-desc = Обед с пряниками UNMC M25 был разработан, чтобы предоставить морским пехотинцам удобный и дешевый доступ к пряникам в качестве замены ежегодных занятий по изготовлению пряников из-за растущих расходов и комично низких показателей успеха базового курса праздничных торжеств. 
 
-ent-RMCMarinePreparedMealCookies-name = Marine 'X-MAS' Meal: Sugar Cookies
-ent-RMCMarinePreparedMealCookies-desc = The UNMC M25 Sugar Cookies Meal was designed to give marines a feeling of Christmas joy. But to the bemusement of superior officers, the costs-savings measure of simply fabricating protein bars in the shape of cookies with chocolate substitute chips and the replacement of the expected milk with artificially colored water did not go over well with most marines.
+ent-RMCMarinePreparedMealCookies-name = Морпех «Рождественское» блюдо: сахарное печенье
+ent-RMCMarinePreparedMealCookies-desc = Обед UNMC M25 Sugar Cookies был разработан, чтобы подарить морским пехотинцам ощущение рождественской радости. 
 
-ent-CMMarinePreparedMealTofu-name = UNMC prepared meal (tofu)
-ent-CMMarinePreparedMealTofu-desc = The UNMC doesn't serve tofu you grass sucking hippie. The flag signifies your defeat.
+ent-CMMarinePreparedMealTofu-name = Готовая еда UNMC (тофу)
+ent-CMMarinePreparedMealTofu-desc = UNMC не подает тофу, ты, хиппи, сосущий траву. 
 
-ent-CMMarinePreparedMealPork-name = UNMC prepared meal (pork)
-ent-CMMarinePreparedMealPork-desc = A tray of standard UNMC food. Partially raw pork, goopy corn and some watery mashed potatoes fill this tray.
+ent-CMMarinePreparedMealPork-name = Готовый обед UNMC (свинина)
+ent-CMMarinePreparedMealPork-desc = Поднос со стандартной едой UNMC. 
 
-ent-CMMarinePreparedMealPizza-name = UNMC prepared meal (pizza)
-ent-CMMarinePreparedMealPizza-desc = A tray of standard UNMC food. Cold pizza, wet green beans and a shitty egg fill this tray. Get something other than pizza, lardass.
+ent-CMMarinePreparedMealPizza-name = Готовое блюдо UNMC (пицца)
+ent-CMMarinePreparedMealPizza-desc = Поднос со стандартной едой UNMC. 
 
-ent-CMMarinePreparedMealPasta-name = UNMC prepared meal (pasta)
-ent-CMMarinePreparedMealPasta-desc = A tray of standard UNMC food. Overcooked spaghetti, waterlogged carrots and two french fries fill this tray.
+ent-CMMarinePreparedMealPasta-name = Готовая еда UNMC (макароны)
+ent-CMMarinePreparedMealPasta-desc = Поднос со стандартной едой UNMC. 
 
-ent-CMMarinePreparedMealChicken-name = UNMC prepared meal (chicken)
-ent-CMMarinePreparedMealChicken-desc = A tray of standard UNMC food. Moist chicken, dry rice and a mildly depressed piece of broccoli fill this tray.
+ent-CMMarinePreparedMealChicken-name = Готовое блюдо UNMC (курица)
+ent-CMMarinePreparedMealChicken-desc = Поднос со стандартной едой UNMC. 
 
-ent-CMMarinePreparedMealCornbread-name = UNMC prepared meal (cornbread)
-ent-CMMarinePreparedMealCornbread-desc = A tray of standard UNMC food. Stale cornbread, tomato paste and some green goop fill this tray.
+ent-CMMarinePreparedMealCornbread-name = Готовая еда UNMC (кукурузный хлеб)
+ent-CMMarinePreparedMealCornbread-desc = Поднос со стандартной едой UNMC. 
 
-ent-CMMarinePreparedMealBase-name = item
+ent-CMMarinePreparedMealBase-name = элемент
 
-ent-RMCMarinePreparedMealSPPBanush-name = SPP prepared meal (banush)
-ent-RMCMarinePreparedMealSPPBanush-desc = A Ukrainian style Banush cornmeal stew, dried apricots, and a couple vienna sausages.
+ent-RMCMarinePreparedMealSPPBanush-name = Готовое блюдо СПП (бануш)
+ent-RMCMarinePreparedMealSPPBanush-desc = Тушеное блюдо бануш из кукурузной муки по-украински, курага и пара венских сосисок.
 
-ent-RMCMarinePreparedMealSPPChowMein-name = SPP prepared meal (chow mein)
-ent-RMCMarinePreparedMealSPPChowMein-desc = Chow mein with imitation shrimp, two slightly overcooked spring rolls, some type of porridge and a small tofu cube.
+ent-RMCMarinePreparedMealSPPChowMein-name = Готовое блюдо SPP (чау-мейн)
+ent-RMCMarinePreparedMealSPPChowMein-desc = Чау-мейн с имитацией креветок, два слегка переваренных блинчика с начинкой, какая-то каша и небольшой кубик тофу.
 
-ent-RMCMarinePreparedMealSPPCuban-name = SPP prepared meal (cuban rice)
-ent-RMCMarinePreparedMealSPPCuban-desc = Cuban rice with bland-ish eggs pieces, tomato sauce, potato salad, and a dry biscuit.
+ent-RMCMarinePreparedMealSPPCuban-name = Готовое блюдо SPP (кубинский рис)
+ent-RMCMarinePreparedMealSPPCuban-desc = Кубинский рис с кусочками мягких яиц, томатным соусом, картофельным салатом и сухим печеньем.
 
-ent-RMCMarinePreparedMealSPPFrankfurter-name = SPP prepared meal (frankfurter)
-ent-RMCMarinePreparedMealSPPFrankfurter-desc = A large, juicy frankfurter with mashed potato, crispy potato pancakes and saurkraut.
+ent-RMCMarinePreparedMealSPPFrankfurter-name = Готовое блюдо SPP (сосиска)
+ent-RMCMarinePreparedMealSPPFrankfurter-desc = Большая, сочная сосиска с картофельным пюре, хрустящими драниками и квашеной капустой.
 
-ent-RMCMarinePreparedMealSPPJiaozi-name = SPP prepared meal (jiaozi)
-ent-RMCMarinePreparedMealSPPJiaozi-desc = Four boiled dumplings, soy-vinegar dipping sauce, pickled red cucumbers and two rye biscuits.
+ent-RMCMarinePreparedMealSPPJiaozi-name = Готовая еда SPP (цзяоцзы)
+ent-RMCMarinePreparedMealSPPJiaozi-desc = Четыре отварных пельмени, соево-уксусный соус, маринованные красные огурцы и два ржаных печенья.
 
-ent-RMCMarinePreparedMealSPPLuncheon-name = SPP prepared meal (luncheon)
-ent-RMCMarinePreparedMealSPPLuncheon-desc = Two scoops of slightly dried out rice, a square of some kind of luncheon meat, two carrot sticks, and a 'fruit' bar.
+ent-RMCMarinePreparedMealSPPLuncheon-name = Готовая еда SPP (обед)
+ent-RMCMarinePreparedMealSPPLuncheon-desc = Две ложки слегка подсушенного риса, кусок какого-то мясного обеда, две морковные палочки и «фруктовый» батончик.
 
-ent-RMCMarinePreparedMealSPPMeatballs-name = SPP prepared meal (meatballs)
-ent-RMCMarinePreparedMealSPPMeatballs-desc = Königsberger Klopse meatballs, a creamy sauce, some spinach, and a scoop of rice. One of the better options out of the pre-packaged meals and is rarely ever in stock.
+ent-RMCMarinePreparedMealSPPMeatballs-name = Готовое блюдо SPP (фрикадельки)
+ent-RMCMarinePreparedMealSPPMeatballs-desc = Кенигсбергские фрикадельки Клопсе, сливочный соус, немного шпината и ложка риса. 
 
-ent-RMCMarinePreparedMealSPPShrimp-name = SPP prepared meal (shrimp)
-ent-RMCMarinePreparedMealSPPShrimp-desc = A greasy rice patty with bits of fake imitation shrimp and egg flavoring. Smells quite off. On the side there's a slightly soggy spring roll.
+ent-RMCMarinePreparedMealSPPShrimp-name = Готовое блюдо SPP (креветки)
+ent-RMCMarinePreparedMealSPPShrimp-desc = Жирная рисовая котлета с кусочками имитации креветок и яичным вкусом. 
 
-ent-RMCMarinePreparedMealSPPWursts-name = SPP prepared meal (wursts)
-ent-RMCMarinePreparedMealSPPWursts-desc = Two scoops of rice, two Weiner wursts, a tortilla with tomato sauce and a small bowl of Mungbean soup fill this tray.
+ent-RMCMarinePreparedMealSPPWursts-name = Готовые блюда SPP (колбаски)
+ent-RMCMarinePreparedMealSPPWursts-desc = На этом подносе лежат две ложки риса, две колбаски Вайнер, лепешка с томатным соусом и небольшая тарелка супа из маша.
 
-ent-RMCTrayEmptySPP-name = empty tray
-ent-RMCTrayEmptySPP-desc = Finished with its tour of duty.
+ent-RMCTrayEmptySPP-name = пустой поднос
+ent-RMCTrayEmptySPP-desc = Закончил свой дежурство.
 
-ent-RMCMarinePreparedMealPMCIkanBakar-name = PMC prepared meal (Ikan Bakar)
-ent-RMCMarinePreparedMealPMCIkanBakar-desc = A chunk of grilled fish, Gado-Gado with 2 hard-boiled eggs, and a fermented soybean cake fill this tray.
+ent-RMCMarinePreparedMealPMCIkanBakar-name = Приготовление еды ЧВК (Икан Бакар)
+ent-RMCMarinePreparedMealPMCIkanBakar-desc = На этом подносе находится кусок жареной рыбы, Гадо-Гадо с двумя яйцами, сваренными вкрутую, и жмых из ферментированных соевых бобов.
 
-ent-RMCMarinePreparedMealPMCSoba-name = PMC prepared meal (Soba Noodles)
-ent-RMCMarinePreparedMealPMCSoba-desc = Soba Noodles with Sesame seeds, 2 pieces of Onigiri, and a bowl of Miso soup with surprisingly okay tofu chunks.
+ent-RMCMarinePreparedMealPMCSoba-name = Готовое блюдо PMC (лапша соба)
+ent-RMCMarinePreparedMealPMCSoba-desc = Лапша соба с кунжутом, 2 кусочка онигири и тарелка супа мисо с удивительно вкусными кусочками тофу.
 
-ent-RMCMarinePreparedMealPMCAlooGobi-name = PMC prepared meal (Aloo Gobi Curry)
-ent-RMCMarinePreparedMealPMCAlooGobi-desc = A tray filled with Aloo Gobi curry, A thick piece of Paratha flatbread, and a few greasy vegetable Pekoras. A foremost vegetarian option for PMCs.
+ent-RMCMarinePreparedMealPMCAlooGobi-name = Готовая еда PMC (Алоо Гоби Карри)
+ent-RMCMarinePreparedMealPMCAlooGobi-desc = Поднос с карри Алу Гоби, толстый кусок лепешки Паратха и несколько жирных овощных пекор. 
 
-ent-RMCMarinePreparedMealPMCFishAndChips-name = PMC prepared meal (Fish & Chips)
-ent-RMCMarinePreparedMealPMCFishAndChips-desc = A tray filled with a piece of crispy fried fish, 3 dry Yorkshire puddings, and a few spoonfuls of runny Baked Beans.
+ent-RMCMarinePreparedMealPMCFishAndChips-name = Готовая еда PMC (Fish & Chips)
+ent-RMCMarinePreparedMealPMCFishAndChips-desc = Поднос с куском хрустящей жареной рыбы, тремя сухими йоркширскими пудингами и несколькими ложками жидкой запеченной фасоли.
 
-ent-RMCMarinePreparedMealPMCButterChicken-name = PMC prepared meal (Butter Chicken)
-ent-RMCMarinePreparedMealPMCButterChicken-desc = A helping of Butter Chicken loaded onto a bed of fluffy rice, alongside a few Samosas and Aloo Tikki with Tamarind sauce.
+ent-RMCMarinePreparedMealPMCButterChicken-name = Готовое блюдо PMC (Курица с маслом)
+ent-RMCMarinePreparedMealPMCButterChicken-desc = Порция цыпленка с маслом, выложенная на слой пышного риса, вместе с несколькими самосами и алоо тикки с тамариндовым соусом.
 
-ent-RMCMarinePreparedMealPMCBirria-name = PMC prepared meal (Birria)
-ent-RMCMarinePreparedMealPMCBirria-desc = A tray filled with a piece of Birria, alongside a few spoonfuls of Orange Rice and some consommé for dipping.
+ent-RMCMarinePreparedMealPMCBirria-name = Готовая еда ЧВК (Биррия)
+ent-RMCMarinePreparedMealPMCBirria-desc = Поднос с кусочком биррии, несколькими ложками апельсинового риса и консоме для макания.
 
-ent-RMCMarinePreparedMealPMCBobotie-name = PMC prepared meal (Bobotie)
-ent-RMCMarinePreparedMealPMCBobotie-desc = A tray filled with a slice of Bobotie, a large Roosterkoek breadroll, and spicy Chakalaka.
+ent-RMCMarinePreparedMealPMCBobotie-name = Готовая еда ЧВК (Боботи)
+ent-RMCMarinePreparedMealPMCBobotie-desc = Поднос с ломтиком боботи, большой булочкой «Рустеркук» и острой чакалакой.
 
-ent-RMCTrayEmptyPMC-name = empty tray
-ent-RMCTrayEmptyPMC-desc = A standard WEYA-produced plastic tray, built for PMCs, by PMCs, to help PMCs meet their nutrient requirements.
+ent-RMCTrayEmptyPMC-name = пустой поднос
+ent-RMCTrayEmptyPMC-desc = Стандартный пластиковый лоток производства WEYA, созданный ЧВК для ЧВК, чтобы помочь ЧВК удовлетворить свои потребности в питательных веществах.
 
-ent-RMCMarinePreparedMealRCMFish-name = RCM prepared meal (seafood platter)
-ent-RMCMarinePreparedMealRCMFish-desc = Numerous kinds of sushi occupy the side-component slots of this tray, with the main component being several slices of salmon sashimi atop cold, boiled rice.
+ent-RMCMarinePreparedMealRCMFish-name = Готовое блюдо RCM (ассорти из морепродуктов)
+ent-RMCMarinePreparedMealRCMFish-desc = Боковые части этого подноса занимают многочисленные виды суши, причем основным компонентом являются несколько ломтиков сашими из лосося поверх холодного отварного риса.
 
-ent-RMCMarinePreparedMealRCMKatsu-name = RCM prepared meal (katsu curry)
-ent-RMCMarinePreparedMealRCMKatsu-desc = Breaded chicken strips slathered in a Japanese style curry sauce. Comes with a helping of fluffy rice and an unidentifiable mound of overcooked veg as the side components.
+ent-RMCMarinePreparedMealRCMKatsu-name = Готовое блюдо RCM (кацу карри)
+ent-RMCMarinePreparedMealRCMKatsu-desc = Куриные полоски в панировке, покрытые соусом карри в японском стиле. 
 
-ent-RMCMarinePreparedMealRCMSausage-name = RCM prepared meal (sausage and eggs)
-ent-RMCMarinePreparedMealRCMSausage-desc = Several overdone sausages, a wodge of scrambled eggs, and a load of sweet potato fries & green beans fill this tray.
+ent-RMCMarinePreparedMealRCMSausage-name = Готовая еда RCM (колбаса и яйца)
+ent-RMCMarinePreparedMealRCMSausage-desc = На этом подносе лежат несколько пережаренных сосисок, яичница, а также порция картофеля фри и зеленой фасоли.
 
-ent-RMCMarinePreparedMealRCMMeat-name = RCM prepared meal (roast beef)
-ent-RMCMarinePreparedMealRCMMeat-desc = A slab of imitation beef drenched in too-salty gravy, with a portion of undercooked peas, soggy carrots and oddly dry mashed potatoes.
+ent-RMCMarinePreparedMealRCMMeat-name = Готовое блюдо RCM (ростбиф)
+ent-RMCMarinePreparedMealRCMMeat-desc = Кусок искусственной говядины, залитый слишком соленой подливкой, с порцией недоваренного горошка, сырой моркови и странно сухого картофельного пюре.
 
-ent-RMCMarinePreparedMealRCMTikka-name = RCM prepared meal (tikka curry)
-ent-RMCMarinePreparedMealRCMTikka-desc = Chunks of pork and potato submerged in a mass of mild Indian curry sauce, with a side of fluffy rice and a lukewarm bit of naan flatbread.
+ent-RMCMarinePreparedMealRCMTikka-name = Готовая еда RCM (тикка карри)
+ent-RMCMarinePreparedMealRCMTikka-desc = Кусочки свинины и картофеля, погруженные в массу мягкого индийского соуса карри, с воздушным рисом и кусочком теплой лепешки наан.
 
-ent-RMCTrayEmptyRCM-name = empty tray
-ent-RMCTrayEmptyRCM-desc = Finished with its tour of duty.
+ent-RMCTrayEmptyRCM-name = пустой поднос
+ent-RMCTrayEmptyRCM-desc = Закончил свой дежурство.
 

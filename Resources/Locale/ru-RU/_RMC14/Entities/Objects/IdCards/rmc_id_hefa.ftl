@@ -1,6 +1,6 @@
-ent-RMCIDCardHEFAShrapnelsworn-name = HEFA ID card
-ent-RMCIDCardHEFAShrapnelsworn-desc = A gold plated holo-badge which shows power and might.
+ent-RMCIDCardHEFAShrapnelsworn-name = ID-карта HEFA
+ent-RMCIDCardHEFAShrapnelsworn-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 
-ent-RMCIDCardHEFAShrapnelswornMelee-name = HEFA ID card
-ent-RMCIDCardHEFAShrapnelswornMelee-desc = A gold plated holo-badge which shows power and might.
+ent-RMCIDCardHEFAShrapnelswornMelee-name = ID-карта HEFA
+ent-RMCIDCardHEFAShrapnelswornMelee-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 

@@ -1,11 +1,11 @@
-ent-CMCartridgePistol22mm-name = cartridge (.22)
+ent-CMCartridgePistol22mm-name = патрон (.22)
 
-ent-CMBulletPistol22mm-name = bullet (.22)
-ent-CMBulletPistol22mm-desc = If you can see this you're probably dead!
+ent-CMBulletPistol22mm-name = пуля (.22)
+ent-CMBulletPistol22mm-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCMagazinePistolHoldout-name = item
-ent-RMCMagazinePistolHoldout-desc = A pistol magazine.
+ent-RMCMagazinePistolHoldout-name = элемент
+ent-RMCMagazinePistolHoldout-desc = Журнал Пистолет.
 
-ent-RMCWeaponPistolHoldout-name = holdout pistol
-ent-RMCWeaponPistolHoldout-desc = A tiny pistol meant for hiding in hard-to-reach areas. Best not ask where it came from.
+ent-RMCWeaponPistolHoldout-name = удержание Пистолет
+ent-RMCWeaponPistolHoldout-desc = Крохотный Пистолет, предназначенный для сокрытия в труднодоступных местах. 
 

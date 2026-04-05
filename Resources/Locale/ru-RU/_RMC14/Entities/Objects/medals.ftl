@@ -1,138 +1,138 @@
-ent-RMCMedalPlatinumNametagService-name = executive specialist name badge
-ent-RMCMedalPlatinumNametagService-desc = An engraved gold-and-black badge, containing the wearer's name, rank, and department. The highest rank most executives can reach within their lifetimes, it signifies ones influence, skill, and importance to the Weston-Yamada Corporation.
+ent-RMCMedalPlatinumNametagService-name = именной бейдж исполнительного специалиста
+ent-RMCMedalPlatinumNametagService-desc = Черно-золотой значок с гравировкой имени, звания и отдела владельца. 
 
-ent-RMCMedalPlatinumNametag-name = gold and black name badge
-ent-RMCMedalPlatinumNametag-desc = A very prestigious gold-black name badge, handed out to those deemed worthy by the chief executives.
+ent-RMCMedalPlatinumNametag-name = золотой и черный бейдж
+ent-RMCMedalPlatinumNametag-desc = Очень престижный золотисто-черный именной значок, вручаемый руководителями тех, кого они сочли достойными.
 
-ent-RMCMedalGoldNametagService-name = senior executive name badge
-ent-RMCMedalGoldNametagService-desc = An engraved golden badge, containing the wearer's name, rank, and department. This one is rare, awarded to those who have shown their dedication to the Company, and has been deemed both a skilled and reliable asset.
+ent-RMCMedalGoldNametagService-name = именной бейдж старшего руководителя
+ent-RMCMedalGoldNametagService-desc = Золотой значок с гравировкой, на котором указаны имя, звание и отдел владельца. 
 
-ent-RMCMedalGoldNametag-name = gold name badge
-ent-RMCMedalGoldNametag-desc = A prestigious golden name badge.
+ent-RMCMedalGoldNametag-name = золотой бейдж с именем
+ent-RMCMedalGoldNametag-desc = Престижный золотой именной значок.
 
-ent-RMCMedalSilverNametagService-name = executive name badge
-ent-RMCMedalSilverNametagService-desc = An engraved bright silver badge, containing the wearer's name, rank, and department. This one is given to those who have proven their worth to Weston-Yamada as a valuable employee.
+ent-RMCMedalSilverNametagService-name = бейдж с именем руководителя
+ent-RMCMedalSilverNametagService-desc = Яркий серебряный значок с выгравированным именем, званием и отделом владельца. 
 
-ent-RMCMedalSilverNametag-name = silver name badge
-ent-RMCMedalSilverNametag-desc = A silver name badge.
+ent-RMCMedalSilverNametag-name = серебряный бейдж
+ent-RMCMedalSilverNametag-desc = Серебряный бейдж.
 
-ent-RMCMedalBronzeNametagService-name = junior executive name badge
-ent-RMCMedalBronzeNametagService-desc = An engraved bronze badge, containing the wearer's name, rank, and department. This one is given to those who have just begun to climb the Corporate ladder.
+ent-RMCMedalBronzeNametagService-name = именной бейдж младшего руководителя
+ent-RMCMedalBronzeNametagService-desc = Бронзовый значок с гравировкой, содержащий имя, звание и отдел владельца. 
 
-ent-RMCMedalBronzeNametag-name = bronze name badge
-ent-RMCMedalBronzeNametag-desc = A bronze name badge.
+ent-RMCMedalBronzeNametag-name = бронзовый бейдж
+ent-RMCMedalBronzeNametag-desc = Бронзовый бейдж.
 
-ent-RMCMedalRibbonPrismaticService-name = prismatic award ribbon
-ent-RMCMedalRibbonPrismaticService-desc = A legendary prismatic ribbon awarded to civilians, whom may be a god walking amongst mere mortals. Such awards require a nigh on impossible amount of time and dedication to the organization to achieve.
+ent-RMCMedalRibbonPrismaticService-name = призматическая наградная лента
+ent-RMCMedalRibbonPrismaticService-desc = Легендарная призматическая лента, которой награждают мирных жителей, которые могут быть богом, ходящим среди простых смертных. 
 
-ent-RMCMedalRibbonPrismatic-name = Prismatic ribbon
-ent-RMCMedalRibbonPrismatic-desc = An prismatic ribbon.
+ent-RMCMedalRibbonPrismatic-name = Призматическая лента
+ent-RMCMedalRibbonPrismatic-desc = Призматическая лента.
 
-ent-RMCMedalRibbonAmethystService-name = amethyst award ribbon
-ent-RMCMedalRibbonAmethystService-desc = A mythical amethyst ribbon awarded to civilians for going far above and beyond in UNMC-sponsored events. Such awards require unreasonable amounts of time and dedication to the organization to achieve.
+ent-RMCMedalRibbonAmethystService-name = наградная лента с аметистом
+ent-RMCMedalRibbonAmethystService-desc = Мифическая аметистовая лента, вручаемая гражданским лицам за то, что они сделали все возможное в мероприятиях, спонсируемых UNMC. 
 
-ent-RMCMedalRibbonAmethyst-name = Amethyst ribbon
-ent-RMCMedalRibbonAmethyst-desc = An amethyst ribbon.
+ent-RMCMedalRibbonAmethyst-name = Аметистовая лента
+ent-RMCMedalRibbonAmethyst-desc = Аметистовая лента.
 
-ent-RMCMedalRibbonEmeraldService-name = emerald award ribbon
-ent-RMCMedalRibbonEmeraldService-desc = A revered emerald ribbon awarded to civilians for going above and beyond in UNMC-sponsored events. Such awards require exorbitant amounts of time and dedication to the organization to achieve.
+ent-RMCMedalRibbonEmeraldService-name = изумрудная наградная лента
+ent-RMCMedalRibbonEmeraldService-desc = Почитаемая изумрудная лента, вручаемая гражданским лицам за выдающиеся достижения в мероприятиях, спонсируемых UNMC. 
 
-ent-RMCMedalRibbonEmerald-name = emerald ribbon
-ent-RMCMedalRibbonEmerald-desc = An emerald ribbon.
+ent-RMCMedalRibbonEmerald-name = изумрудная лента
+ent-RMCMedalRibbonEmerald-desc = Изумрудная лента.
 
-ent-RMCMedalRibbonRedService-name = red award ribbon
-ent-RMCMedalRibbonRedService-desc = A vibrant red ribbon awarded to civilians for going above and beyond in UNMC-sponsored events. Such awards require excessive amounts of time and dedication to the organization to achieve.
+ent-RMCMedalRibbonRedService-name = красная наградная лента
+ent-RMCMedalRibbonRedService-desc = Яркая красная лента, вручаемая гражданским лицам за выдающиеся достижения в мероприятиях, спонсируемых UNMC. 
 
-ent-RMCMedalRibbonRed-name = red ribbon
-ent-RMCMedalRibbonRed-desc = A red ribbon.
+ent-RMCMedalRibbonRed-name = красная лента
+ent-RMCMedalRibbonRed-desc = Красная лента.
 
-ent-RMCMedalRibbonBlueService-name = blue award ribbon
-ent-RMCMedalRibbonBlueService-desc = A prestigious blue ribbon awarded to civilians for participation in a UNMC-sponsored event. Such awards require significant amounts of time and dedication to the organization to achieve.
+ent-RMCMedalRibbonBlueService-name = синяя наградная лента
+ent-RMCMedalRibbonBlueService-desc = Престижная голубая лента, вручаемая гражданским лицам за участие в мероприятии, спонсируемом UNMC. 
 
-ent-RMCMedalRibbonBlue-name = blue ribbon
-ent-RMCMedalRibbonBlue-desc = A blue ribbon.
+ent-RMCMedalRibbonBlue-name = голубая лента
+ent-RMCMedalRibbonBlue-desc = Голубая лента.
 
-ent-RMCMedalRibbonYellowService-name = yellow award ribbon
-ent-RMCMedalRibbonYellowService-desc = A bright yellow ribbon awarded to civilians for participation in a UNMC-sponsored event. It is a rare award, signifying their dedication and support for the organization.
+ent-RMCMedalRibbonYellowService-name = желтая наградная лента
+ent-RMCMedalRibbonYellowService-desc = Ярко-желтая лента, вручаемая гражданским лицам за участие в мероприятии, спонсируемом UNMC. 
 
-ent-RMCMedalRibbonYellow-name = yellow ribbon
-ent-RMCMedalRibbonYellow-desc = A yellow ribbon.
+ent-RMCMedalRibbonYellow-name = желтая лента
+ent-RMCMedalRibbonYellow-desc = Желтая лента.
 
-ent-RMCMedalRibbonWhiteService-name = white award ribbon
-ent-RMCMedalRibbonWhiteService-desc = A white ribbon awarded to civilians for participation in a UNMC-sponsored event. It is a somewhat common award, signifying their dedication and support for the organization.
+ent-RMCMedalRibbonWhiteService-name = белая наградная лента
+ent-RMCMedalRibbonWhiteService-desc = Белая лента, вручаемая гражданским лицам за участие в мероприятии, спонсируемом UNMC. 
 
-ent-RMCMedalRibbonWhite-name = white ribbon
-ent-RMCMedalRibbonWhite-desc = A white ribbon.
+ent-RMCMedalRibbonWhite-name = белая лента
+ent-RMCMedalRibbonWhite-desc = Белая лента.
 
-ent-RMCMedalRibbonBronzeService-name = bronze award ribbon
-ent-RMCMedalRibbonBronzeService-desc = A bronze ribbon awarded to civilians for participation in a UNMC-sponsored event. It is a very common award, and is typically the first award a civilian would receive.
+ent-RMCMedalRibbonBronzeService-name = бронзовая наградная лента
+ent-RMCMedalRibbonBronzeService-desc = Бронзовая лента, вручаемая гражданским лицам за участие в мероприятии, спонсируемом UNMC. 
 
-ent-RMCMedalRibbonBronze-name = bronze ribbon
-ent-RMCMedalRibbonBronze-desc = A bronze ribbon.
+ent-RMCMedalRibbonBronze-name = бронзовая лента
+ent-RMCMedalRibbonBronze-desc = Бронзовая лента.
 
-ent-RMCMedalPrismaticService-name = prismatic service medal
-ent-RMCMedalPrismaticService-desc = A multi-colored prismatic medal awarded for a marine's service within the UNMC. Prismatic medals are traditionally awarded to those who have spent countless years of service in their position. Medals like these are generally issued directly by adjutants or staff representing members of UNMC Command as the final possible service medal.
+ent-RMCMedalPrismaticService-name = призматическая медаль за службу
+ent-RMCMedalPrismaticService-desc = Разноцветная призматическая медаль, вручаемая Морпеху за службу в составе UNMC. 
 
-ent-RMCMedalPrismatic-name = prismatic medal
-ent-RMCMedalPrismatic-desc = A mythical prismatic medal, only able to be handed out by High Command due to especially special circumstances.
+ent-RMCMedalPrismatic-name = призматическая медаль
+ent-RMCMedalPrismatic-desc = Мифическая призматическая медаль, которую Высшее командование может выдать только в особых обстоятельствах.
 
-ent-RMCMedalEmeraldService-name = emerald service medal
-ent-RMCMedalEmeraldService-desc = A bright emerald medal awarded for a marine's service within the UNMC. Emerald medals are awarded to represent a marine's multiple years of effort to grow and learn in their position, it is one of the final awards representing a marine's career through service medals.
+ent-RMCMedalEmeraldService-name = изумрудная медаль за службу
+ent-RMCMedalEmeraldService-desc = Яркая изумрудная медаль Морпеха за службу в составе UNMC. 
 
-ent-RMCMedalEmerald-name = emerald medal
-ent-RMCMedalEmerald-desc = A revered emerald medal, only able to be handed out by High Command due to especially special circumstances.
+ent-RMCMedalEmerald-name = изумрудная медаль
+ent-RMCMedalEmerald-desc = Почитаемая изумрудная медаль, которую Высшее командование может вручить только в особых случаях.
 
-ent-RMCMedalAmethystService-name = amethyst service medal
-ent-RMCMedalAmethystService-desc = A pale violet colored medal awarded for a marine's service within the UNMC. This medal and those after represent someone who has weathered countless long and difficult deployments but conquered and learned from them.
+ent-RMCMedalAmethystService-name = медаль за службу с аметистом
+ent-RMCMedalAmethystService-desc = Медаль бледно-фиолетового цвета, вручаемая Морпеху за службу в UNMC. 
 
-ent-RMCMedalAmethyst-name = amethyst medal
-ent-RMCMedalAmethyst-desc = A mythical amethyst medal, only able to be handed out by High Command due to especially special circumstances.
+ent-RMCMedalAmethyst-name = аметист медаль
+ent-RMCMedalAmethyst-desc = Мифическая аметистовая медаль, которую Высшее командование может выдать только в особых обстоятельствах.
 
-ent-RMCMedalRubyService-name = ruby service medal
-ent-RMCMedalRubyService-desc = A deep crimson colored medal awarded for a marine's consistent service within the UNMC. This medal represent true dedication to one department and position.
+ent-RMCMedalRubyService-name = рубиновая медаль за службу
+ent-RMCMedalRubyService-desc = Медаль темно-малинового цвета, вручаемая Морпеху за последовательную службу в UNMC. 
 
-ent-RMCMedalRuby-name = ruby medal
-ent-RMCMedalRuby-desc = An exalted ruby medal, only able to be handed out by Generals due to special circumstances.
+ent-RMCMedalRuby-name = рубиновая медаль
+ent-RMCMedalRuby-desc = Возвышенная рубиновая медаль, которую генералы могут вручать только при особых обстоятельствах.
 
-ent-RMCMedalPlatinumService-name = platinum service medal
-ent-RMCMedalPlatinumService-desc = A dark blue medal awarded for a marine's service within the UNMC. These medals are issued to those who have shown a clear passion for their position and its success.
+ent-RMCMedalPlatinumService-name = платиновая медаль за службу
+ent-RMCMedalPlatinumService-desc = Темно-синяя медаль Морпеха за службу в составе UNMC. 
 
-ent-RMCMedalPlatinum-name = platinum medal
-ent-RMCMedalPlatinum-desc = An esteemed platinum medal, only able to be handed out by generals due to special circumstances.
+ent-RMCMedalPlatinum-name = платиновая медаль
+ent-RMCMedalPlatinum-desc = Ценная платиновая медаль, которую генералы могут вручать только в особых обстоятельствах.
 
-ent-RMCMedalGoldService-name = gold service medal
-ent-RMCMedalGoldService-desc = A reflective gold medal awarded for a marine's service within the UNMC. It represents the first major step of many a marine takes in becoming highly qualified in their positions.
+ent-RMCMedalGoldService-name = золотая медаль за службу
+ent-RMCMedalGoldService-desc = Светоотражающая золотая медаль Морпеха за службу в UNMC. 
 
-ent-RMCMedalGold-name = gold medal
-ent-RMCMedalGold-desc = A prestigious golden medal.
+ent-RMCMedalGold-name = золотая медаль
+ent-RMCMedalGold-desc = Престижная золотая медаль.
 
-ent-RMCMedalSilverService-name = silver service medal
-ent-RMCMedalSilverService-desc = A shiny silver medal awarded for a marine's service within the UNMC. While somewhat common, it signifies someone's growing expertise and time invested into their department and skills.
+ent-RMCMedalSilverService-name = серебряная медаль за службу
+ent-RMCMedalSilverService-desc = Блестящая серебряная медаль Морпеха за службу в UNMC. 
 
-ent-RMCMedalSilver-name = silver medal
-ent-RMCMedalSilver-desc = A silver medal.
+ent-RMCMedalSilver-name = серебряная медаль
+ent-RMCMedalSilver-desc = Серебряная медаль.
 
-ent-RMCMedalBronzeService-name = bronze service medal
-ent-RMCMedalBronzeService-desc = A bronze medal awarded for a marine's service within the UNMC. While the most common of medals, it signifies someone's first few steps into their respective positions.
+ent-RMCMedalBronzeService-name = бронзовая медаль за службу
+ent-RMCMedalBronzeService-desc = Бронзовая медаль Морпеха за службу в составе UNMC. 
 
-ent-RMCMedalBronze-name = bronze medal
-ent-RMCMedalBronze-desc = A bronze medal.
+ent-RMCMedalBronze-name = бронзовая медаль
+ent-RMCMedalBronze-desc = Бронзовая медаль.
 
-ent-RMCMedalBase-name = medal
-ent-RMCMedalBase-desc = A medal.
+ent-RMCMedalBase-name = медаль
+ent-RMCMedalBase-desc = Медаль.
 
-ent-RMCMedalBronzeDistinguishedConduct-name = distinguished conduct medal
-ent-RMCMedalBronzeDistinguishedConduct-desc = A bronze medal awarded for distinguished conduct. Whilst a great honor, this is the most basic award given by the UNMC.
+ent-RMCMedalBronzeDistinguishedConduct-name = медаль за выдающееся поведение
+ent-RMCMedalBronzeDistinguishedConduct-desc = Бронзовая медаль за отличное поведение. 
 
-ent-RMCMedalBronzeHeart-name = bronze heart medal
-ent-RMCMedalBronzeHeart-desc = A bronze heart-shaped medal awarded for sacrifice. It is often awarded posthumously or for severe injury in the line of duty.
+ent-RMCMedalBronzeHeart-name = бронзовая медаль сердца
+ent-RMCMedalBronzeHeart-desc = Бронзовая медаль в форме сердца, вручаемая за жертвоприношение. 
 
-ent-RMCMedalSilverValor-name = medal of valor
-ent-RMCMedalSilverValor-desc = A silver medal awarded for acts of exceptional valor. Normally given to those who outstand themselves from the ranks, either it be in Leadership skills or actions crucial to the mission success.
+ent-RMCMedalSilverValor-name = медаль за отвагу
+ent-RMCMedalSilverValor-desc = Серебряная медаль за исключительную доблесть. 
 
-ent-RMCMedalGoldExceptionalHeroism-name = medal of exceptional heroism
-ent-RMCMedalGoldExceptionalHeroism-desc = An extremely rare golden medal awarded only by the UNMC. To receive such a medal is the highest honor and as such, very few exist.
+ent-RMCMedalGoldExceptionalHeroism-name = медаль за исключительный героизм
+ent-RMCMedalGoldExceptionalHeroism-desc = Чрезвычайно редкая золотая медаль, присуждаемая только UNMC. 
 
-ent-RMCMedalHighCommandHonor-name = UNMC High Command Medal of honor
-ent-RMCMedalHighCommandHonor-desc = A star-shaped golden medal bestowed solely by UNMC High Command. It is not earned through valor alone, but granted by command authority for deeds that transcend recognized heroism. As the UNMC’s ultimate distinction, it eclipses every other commendation. Its recipients are known to history, not statistics.
+ent-RMCMedalHighCommandHonor-name = Почетная медаль Верховного командования UNMC
+ent-RMCMedalHighCommandHonor-desc = Золотая медаль в форме звезды, вручаемая исключительно Высшим командованием UNMC. 
 

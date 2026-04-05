@@ -1,78 +1,78 @@
-ent-RMCIDRoyalMarines-name = royal marine dogtags
-ent-RMCIDRoyalMarines-desc = A marine dog tag.
+ent-RMCIDRoyalMarines-name = королевские жетоны Морпех
+ent-RMCIDRoyalMarines-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesHidden-name = dog tag
-ent-RMCIDRoyalMarinesHidden-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesHidden-name = жетон для собаки
+ent-RMCIDRoyalMarinesHidden-desc = Жетон Морпех.
 
-ent-RMCIDCardGoldRoyalMarines-name = royal marine commanding officer ID card
-ent-RMCIDCardGoldRoyalMarines-desc = A gold plated holo-badge which shows power and might.
+ent-RMCIDCardGoldRoyalMarines-name = удостоверение личности командира королевского Морпеха
+ent-RMCIDCardGoldRoyalMarines-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 
-ent-RMCIDRoyalMarinesCommando-name = Commando's dogtags
-ent-RMCIDRoyalMarinesCommando-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesCommando-name = жетоны коммандос
+ent-RMCIDRoyalMarinesCommando-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesBreacher-name = Breacher's dogtags
-ent-RMCIDRoyalMarinesBreacher-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesBreacher-name = Жетоны Бричера
+ent-RMCIDRoyalMarinesBreacher-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesSGO-name = SGO's dogtags
-ent-RMCIDRoyalMarinesSGO-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesSGO-name = жетоны SGO
+ent-RMCIDRoyalMarinesSGO-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesMarksman-name = Marksman's dogtags
-ent-RMCIDRoyalMarinesMarksman-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesMarksman-name = жетоны стрелка
+ent-RMCIDRoyalMarinesMarksman-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesMedic-name = Medic's dogtags
-ent-RMCIDRoyalMarinesMedic-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesMedic-name = Жетоны медика
+ent-RMCIDRoyalMarinesMedic-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesTeamlead-name = Team Leader's dogtags
-ent-RMCIDRoyalMarinesTeamlead-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesTeamlead-name = Жетоны руководителя группы
+ent-RMCIDRoyalMarinesTeamlead-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesRiflemanPVE-name = Rifleman's dogtags
-ent-RMCIDRoyalMarinesRiflemanPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesRiflemanPVE-name = жетоны стрелка
+ent-RMCIDRoyalMarinesRiflemanPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesBombSpecPVE-name = Bombardment Specialist's dogtags
-ent-RMCIDRoyalMarinesBombSpecPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesBombSpecPVE-name = Жетоны специалиста по бомбардировкам
+ent-RMCIDRoyalMarinesBombSpecPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesMedicPVE-name = Medical Assistant's dogtags
-ent-RMCIDRoyalMarinesMedicPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesMedicPVE-name = Жетоны фельдшера
+ent-RMCIDRoyalMarinesMedicPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesTroopSargePVE-name = Troop Sergeant's dogtags
-ent-RMCIDRoyalMarinesTroopSargePVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesTroopSargePVE-name = Жетоны сержанта войсковой части
+ent-RMCIDRoyalMarinesTroopSargePVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesSectionLeaderPVE-name = Section Leader's dogtags
-ent-RMCIDRoyalMarinesSectionLeaderPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesSectionLeaderPVE-name = Жетоны руководителя секции
+ent-RMCIDRoyalMarinesSectionLeaderPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesTeamLeaderPVE-name = Team Leader's dogtags
-ent-RMCIDRoyalMarinesTeamLeaderPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesTeamLeaderPVE-name = Жетоны руководителя группы
+ent-RMCIDRoyalMarinesTeamLeaderPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesSmartgunnerPVE-name = GPMG Gunner's dogtags
-ent-RMCIDRoyalMarinesSmartgunnerPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesSmartgunnerPVE-name = Жетоны наводчика GPMG
+ent-RMCIDRoyalMarinesSmartgunnerPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesScoutSniperPVE-name = Scout Sniper's dogtags
-ent-RMCIDRoyalMarinesScoutSniperPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesScoutSniperPVE-name = Жетоны разведчика-снайпера
+ent-RMCIDRoyalMarinesScoutSniperPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesAssaultEngineerPVE-name = Assault Engineer's dogtags
-ent-RMCIDRoyalMarinesAssaultEngineerPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesAssaultEngineerPVE-name = Жетоны штурмового инженера
+ent-RMCIDRoyalMarinesAssaultEngineerPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalMarinesTroopCommanderPVE-name = Troop Commander's dogtags
-ent-RMCIDRoyalMarinesTroopCommanderPVE-desc = A marine dog tag.
+ent-RMCIDRoyalMarinesTroopCommanderPVE-name = Жетоны командира отряда
+ent-RMCIDRoyalMarinesTroopCommanderPVE-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesRifleman-name = Rifleman's dogtags
-ent-RMCIDRoyalParamarinesRifleman-desc = A marine dog tag.
+ent-RMCIDRoyalParamarinesRifleman-name = жетоны стрелка
+ent-RMCIDRoyalParamarinesRifleman-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesCombatEngineer-name = Combat Engineer's dogtags
-ent-RMCIDRoyalParamarinesCombatEngineer-desc = A marine dog tag.
+ent-RMCIDRoyalParamarinesCombatEngineer-name = Жетоны боевого инженера
+ent-RMCIDRoyalParamarinesCombatEngineer-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesMedicalTechnician-name = Medical Technician's dogtags
-ent-RMCIDRoyalParamarinesMedicalTechnician-desc = A marine dog tag.
+ent-RMCIDRoyalParamarinesMedicalTechnician-name = Жетоны медицинского техника
+ent-RMCIDRoyalParamarinesMedicalTechnician-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesPilot-name = Pilot's dogtags
-ent-RMCIDRoyalParamarinesPilot-desc = A marine dog tag.
+ent-RMCIDRoyalParamarinesPilot-name = Жетоны пилота
+ent-RMCIDRoyalParamarinesPilot-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesTeamLeader-name = Team Leader's dogtags
-ent-RMCIDRoyalParamarinesTeamLeader-desc = A marine dog tag.
+ent-RMCIDRoyalParamarinesTeamLeader-name = Жетоны руководителя группы
+ent-RMCIDRoyalParamarinesTeamLeader-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesSupportSynthetic-name = Support Synthetic's dogtags
-ent-RMCIDRoyalParamarinesSupportSynthetic-desc = A marine dog tag.
+ent-RMCIDRoyalParamarinesSupportSynthetic-name = Поддержка жетонов Synthetic
+ent-RMCIDRoyalParamarinesSupportSynthetic-desc = Жетон Морпех.
 
-ent-RMCIDRoyalParamarinesCommander-name = Commander ID Card
-ent-RMCIDRoyalParamarinesCommander-desc = A gold plated holo-badge which shows power and might.
+ent-RMCIDRoyalParamarinesCommander-name = Удостоверение командира
+ent-RMCIDRoyalParamarinesCommander-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 

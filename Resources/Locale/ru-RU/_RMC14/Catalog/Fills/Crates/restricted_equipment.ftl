@@ -1,9 +1,9 @@
-ent-RMCCrateRestrictedEquipmentIntelSupportKit-name = Field Intelligence Support Kit crate (x1 fulton, x1 data detector, 1x intel pamphlet, 1x large document pouch, 1x intel radio key)
-ent-RMCCrateRestrictedEquipmentIntelSupportKit-desc = A rectangular metal crate.
+ent-RMCCrateRestrictedEquipmentIntelSupportKit-name = Ящик с комплектом поддержки полевой разведки (1 фултон, 1 детектор данных, 1 брошюра с информацией, 1 большой пакет для документов, 1 радиоключ с информацией о разведке)
+ent-RMCCrateRestrictedEquipmentIntelSupportKit-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateRestrictedEquipmentArmorB12-name = B12 pattern marine armor crate (x1 helmet, x1 armor)
-ent-RMCCrateRestrictedEquipmentArmorB12-desc = A rectangular metal crate.
+ent-RMCCrateRestrictedEquipmentArmorB12-name = ящик брони B12 (x1 Шлем, x1 Броня)
+ent-RMCCrateRestrictedEquipmentArmorB12-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateRestrictedEquipmentArmorM4-name = M4 pattern marine armor crate (x1 helmet, x1 armor)
-ent-RMCCrateRestrictedEquipmentArmorM4-desc = A rectangular metal crate.
+ent-RMCCrateRestrictedEquipmentArmorM4-name = ящик брони М4 Ящик (x1 Шлем, x1 Броня)
+ent-RMCCrateRestrictedEquipmentArmorM4-desc = Металлический ящик прямоугольной формы.
 

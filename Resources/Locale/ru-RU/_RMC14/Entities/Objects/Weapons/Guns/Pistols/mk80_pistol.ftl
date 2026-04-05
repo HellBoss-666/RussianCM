@@ -1,14 +1,14 @@
-ent-RCMBulletPistol9mmSquashHead-name = bullet (9mm Squash-Head)
-ent-RCMBulletPistol9mmSquashHead-desc = If you can see this you're probably dead!
+ent-RCMBulletPistol9mmSquashHead-name = пуля (9 мм сквош-головка)
+ent-RCMBulletPistol9mmSquashHead-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCCartridgePistol9mmSquashHead-name = cartridge (.35 auto)
+ent-RMCCartridgePistol9mmSquashHead-name = патрон (.35 авто)
 
-ent-CMMagazinePistolMK80-name = item
-ent-CMMagazinePistolMK80-desc = A pistol magazine.
+ent-CMMagazinePistolMK80-name = элемент
+ent-CMMagazinePistolMK80-desc = Журнал Пистолет.
 
-ent-RMCMK80-name = MK80 pistol
-ent-RMCMK80-desc = A massive, formidable semi-automatic handgun chambered in 9mm squash-head rounds. A common sight throughout both UN and TSE space, often held by both We-Ya PMC units and corporate executives. This weapon is also undergoing limited field testing as part of the Marines' next generation pistol program. The slide is engraved with the We-Ya logo reminding you who's really in charge.
+ent-RMCMK80-name = Пистолет МК80
+ent-RMCMK80-desc = Массивный, грозный полуавтоматический пистолет под патроны с плоской головкой калибра 9 мм. 
 
-ent-RMCMagazinePistolMK80Empty-name = item
-ent-RMCMagazinePistolMK80Empty-desc = A pistol magazine.
+ent-RMCMagazinePistolMK80Empty-name = элемент
+ent-RMCMagazinePistolMK80Empty-desc = Журнал Пистолет.
 

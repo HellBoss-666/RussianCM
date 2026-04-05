@@ -1,24 +1,24 @@
-ent-RMCToolboxSyndicate-name = suspicious toolbox
-ent-RMCToolboxSyndicate-desc = A compact and suspicious looking toolbox. This one is small enough to fit into a bag.
+ent-RMCToolboxSyndicate-name = подозрительный ящик для инструментов
+ent-RMCToolboxSyndicate-desc = Компактный и подозрительно выглядящий ящик для инструментов. 
 
-ent-RMCToolboxMechanical-name = mechanical toolbox
+ent-RMCToolboxMechanical-name = механический ящик для инструментов
 
-ent-RMCToolboxElectrical-name = electrical toolbox
+ent-RMCToolboxElectrical-name = электрический ящик для инструментов
 
-ent-RMCToolboxEmergency-name = emergency toolbox
+ent-RMCToolboxEmergency-name = аварийный ящик для инструментов
 
-ent-RMCToolboxBase-name = storage item
+ent-RMCToolboxBase-name = предмет хранения
 
-ent-RMCToolboxEmergencyFilled-name = emergency toolbox
+ent-RMCToolboxEmergencyFilled-name = аварийный ящик для инструментов
 
-ent-RMCToolboxElectricalFilled-name = electrical toolbox
+ent-RMCToolboxElectricalFilled-name = электрический ящик для инструментов
 
-ent-RMCToolboxMechanicalFilled-name = mechanical toolbox
+ent-RMCToolboxMechanicalFilled-name = механический ящик для инструментов
 
-ent-RMCToolboxMechanicalGreen-name = mechanical toolbox
+ent-RMCToolboxMechanicalGreen-name = механический ящик для инструментов
 
-ent-RMCToolboxMechanicalGreenFilled-name = mechanical toolbox
+ent-RMCToolboxMechanicalGreenFilled-name = механический ящик для инструментов
 
-ent-RMCToolboxSyndicateFilled-name = suspicious toolbox
-ent-RMCToolboxSyndicateFilled-desc = A compact and suspicious looking toolbox. This one is small enough to fit into a bag.
+ent-RMCToolboxSyndicateFilled-name = подозрительный ящик для инструментов
+ent-RMCToolboxSyndicateFilled-desc = Компактный и подозрительно выглядящий ящик для инструментов. 
 

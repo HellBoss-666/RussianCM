@@ -1,6 +1,6 @@
-ent-CMWindoorAssemblySecure-name = secure windoor assembly
-ent-CMWindoorAssemblySecure-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorAssemblySecure-name = надежный монтаж оконной двери
+ent-CMWindoorAssemblySecure-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorAssembly-name = windoor assembly
-ent-CMWindoorAssembly-desc = It opens, it closes, and you can see through it!
+ent-CMWindoorAssembly-name = оконная сборка
+ent-CMWindoorAssembly-desc = Он открывается, закрывается, и вы можете видеть сквозь него!
 

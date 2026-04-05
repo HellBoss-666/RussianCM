@@ -1,10 +1,10 @@
-ent-RMCRiverSorokyne-name = river
+ent-RMCRiverSorokyne-name = река
 
-ent-CMFloorDeepWaterEntity-name = deep water
+ent-CMFloorDeepWaterEntity-name = глубокая вода
 
-ent-CMFloorShallowWaterEntity-name = shallow water
+ent-CMFloorShallowWaterEntity-name = мелководье
 
-ent-RMCFloorShallowWaterEntityRed-name = shallow water
+ent-RMCFloorShallowWaterEntityRed-name = мелководье
 
-ent-RMCFloorShallowWaterEntityDarkRed-name = shallow water
+ent-RMCFloorShallowWaterEntityDarkRed-name = мелководье
 

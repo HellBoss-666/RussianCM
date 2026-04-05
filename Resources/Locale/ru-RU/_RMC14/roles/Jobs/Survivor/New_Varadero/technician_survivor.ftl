@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTechnician-name = technician colonist preset
+ent-RMCGearSurvivorPresetTechnician-name = предустановка технического колониста
 
-ent-RMCSpawnPointSurvivorTechnician-name = survivor engineering technician spawn point
-ent-RMCSpawnPointSurvivorTechnician-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorTechnician-name = точка появления выжившего инженера-техника
+ent-RMCSpawnPointSurvivorTechnician-desc = Создатель заданий RMC14. 
 

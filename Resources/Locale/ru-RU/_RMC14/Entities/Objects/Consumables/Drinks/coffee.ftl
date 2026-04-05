@@ -1,18 +1,18 @@
-ent-RMCDrinkHotCocoa-name = dutch hot cocoa
-ent-RMCDrinkHotCocoa-desc = Made in Space South America.
+ent-RMCDrinkHotCocoa-name = голландское горячее какао
+ent-RMCDrinkHotCocoa-desc = Сделано в космосе, Южная Америка.
 
-ent-RMCDrinkTea-name = Duke Purple tea
-ent-RMCDrinkTea-desc = An insult to Duke Purple is an insult to the Space Queen! Any proper gentleman will fight you, if you sully this tea.
+ent-RMCDrinkTea-name = Дьюк Фиолетовый чай
+ent-RMCDrinkTea-desc = Оскорбление Герцога Пурпурного — это оскорбление Космической Королевы! 
 
-ent-RMCDrinkCoffeeGrind-name = The Daily Grind
-ent-RMCDrinkCoffeeGrind-desc = Rise and Shine! Time to drink the Daily Grind!
+ent-RMCDrinkCoffeeGrind-name = Ежедневная работа
+ent-RMCDrinkCoffeeGrind-desc = Восстань и сияй! 
 
-ent-RMCDrinkCoffee-name = coffee
-ent-RMCDrinkCoffee-desc = Careful, the beverage you're about to enjoy is extremely hot.
+ent-RMCDrinkCoffee-name = кофе
+ent-RMCDrinkCoffee-desc = Будьте осторожны: напиток, который вы собираетесь попробовать, очень горячий.
 
-ent-RMCDrinkTeaSPP-name = insulated container
-ent-RMCDrinkTeaSPP-desc = A small, reusable, insulated container for holding liquids with a sip lid.
+ent-RMCDrinkTeaSPP-name = изолированный контейнер
+ent-RMCDrinkTeaSPP-desc = Небольшой многоразовый изолированный контейнер для хранения жидкостей с крышкой.
 
-ent-RMCDrinkWaterSPP-name = insulated container
-ent-RMCDrinkWaterSPP-desc = A small, reusable, insulated container for holding liquids with a sip lid.
+ent-RMCDrinkWaterSPP-name = изолированный контейнер
+ent-RMCDrinkWaterSPP-desc = Небольшой многоразовый изолированный контейнер для хранения жидкостей с крышкой.
 

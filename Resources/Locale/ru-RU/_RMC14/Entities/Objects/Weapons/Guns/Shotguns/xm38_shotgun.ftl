@@ -1,6 +1,6 @@
-ent-RMCWeaponShotgunXM38-name = XM38 tactical shotgun
-ent-RMCWeaponShotgunXM38-desc = Several years ago, We-Ya began testing the MK221. The UNMC picked up an early prototype, and later adopted it with a limited military contract. But the UNMC Special Operations Forces wasn't satisfied, and iterated on the early prototypes they had access to; eventually, their internal armorers and tinkerers produced the MK210, designated XM38, a lightweight folding shotgun that snaps to the belt. And to boot, it's fully automatic, made of stamped medal, and keeps the UGL. Truly an engineering marvel.
+ent-RMCWeaponShotgunXM38-name = Тактический дробовик XM38
+ent-RMCWeaponShotgunXM38-desc = Несколько лет назад We-Ya начала испытания MK221. 
 
-ent-RMCWeaponShotgunXM38Filled-name = XM38 tactical shotgun
-ent-RMCWeaponShotgunXM38Filled-desc = Several years ago, We-Ya began testing the MK221. The UNMC picked up an early prototype, and later adopted it with a limited military contract. But the UNMC Special Operations Forces wasn't satisfied, and iterated on the early prototypes they had access to; eventually, their internal armorers and tinkerers produced the MK210, designated XM38, a lightweight folding shotgun that snaps to the belt. And to boot, it's fully automatic, made of stamped medal, and keeps the UGL. Truly an engineering marvel.
+ent-RMCWeaponShotgunXM38Filled-name = Тактический дробовик XM38
+ent-RMCWeaponShotgunXM38Filled-desc = Несколько лет назад We-Ya начала испытания MK221. 
 

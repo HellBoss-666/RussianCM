@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCLeader-name = weya pmc squad leader spawn point
-ent-RMCSpawnPointPMCLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCLeader-name = точка возрождения лидера отряда ЧВК Weya
+ent-RMCSpawnPointPMCLeader-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCLeader-name = weya pmc ghost role leader
+ent-RMCRandomHumanoidPMCLeader-name = Weya PMC — лидер роли призрака
 

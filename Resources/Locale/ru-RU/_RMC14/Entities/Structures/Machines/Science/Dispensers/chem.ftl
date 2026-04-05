@@ -1,36 +1,36 @@
-ent-RMCChemDispenserCorpsmanBase-name = pressurized chemical dispenser
-ent-RMCChemDispenserCorpsmanBase-desc = A more basic chemical dispenser, designed for use with pressurized reagent canisters. A We-Ya product.
+ent-RMCChemDispenserCorpsmanBase-name = дозатор химикатов под давлением
+ent-RMCChemDispenserCorpsmanBase-desc = Более простой дозатор химикатов, предназначенный для использования с канистрами с реагентами под давлением. 
 
-ent-RMCChemStorageBase-name = chemical storage system
-ent-RMCChemStorageBase-desc = Storage system for a large supply of chemicals, which slowly recharges.
+ent-RMCChemStorageBase-name = система хранения химикатов
+ent-RMCChemStorageBase-desc = Система хранения большого запаса химикатов, которая медленно пополняется.
 
-ent-RMCChemDispenserBase-name = chemical dispenser
-ent-RMCChemDispenserBase-desc = A complex machine for mixing elements into chemicals. A We-Ya product.
+ent-RMCChemDispenserBase-name = химический дозатор
+ent-RMCChemDispenserBase-desc = Сложная машина для смешивания элементов в химические вещества. 
 
-ent-RMCChemDispenserGround-name = chemical dispenser
-ent-RMCChemDispenserGround-desc = A complex machine for mixing elements into chemicals. A We-Ya product.
+ent-RMCChemDispenserGround-name = химический дозатор
+ent-RMCChemDispenserGround-desc = Сложная машина для смешивания элементов в химические вещества. 
 
-ent-RMCChemDispenserMedbay-name = chemical dispenser
-ent-RMCChemDispenserMedbay-desc = A complex machine for mixing elements into chemicals. A We-Ya product.
+ent-RMCChemDispenserMedbay-name = химический дозатор
+ent-RMCChemDispenserMedbay-desc = Сложная машина для смешивания элементов в химические вещества. 
 
-ent-RMCChemDispenserResearch-name = chemical dispenser
-ent-RMCChemDispenserResearch-desc = A complex machine for mixing elements into chemicals. A We-Ya product.
+ent-RMCChemDispenserResearch-name = химический дозатор
+ent-RMCChemDispenserResearch-desc = Сложная машина для смешивания элементов в химические вещества. 
 
-ent-RMCChemDispenserOCP-name = chemical dispenser
-ent-RMCChemDispenserOCP-desc = A complex machine for mixing elements into chemicals. A We-Ya product.
+ent-RMCChemDispenserOCP-name = химический дозатор
+ent-RMCChemDispenserOCP-desc = Сложная машина для смешивания элементов в химические вещества. 
 
-ent-RMCChemStorageGround-name = chemical storage system
-ent-RMCChemStorageGround-desc = Storage system for a large supply of chemicals, which slowly recharges.
+ent-RMCChemStorageGround-name = система хранения химикатов
+ent-RMCChemStorageGround-desc = Система хранения большого запаса химикатов, которая медленно пополняется.
 
-ent-RMCChemStorageMedbay-name = chemical storage system
-ent-RMCChemStorageMedbay-desc = Storage system for a large supply of chemicals, which slowly recharges.
+ent-RMCChemStorageMedbay-name = система хранения химикатов
+ent-RMCChemStorageMedbay-desc = Система хранения большого запаса химикатов, которая медленно пополняется.
 
-ent-RMCChemStorageResearch-name = chemical storage system
-ent-RMCChemStorageResearch-desc = Storage system for a large supply of chemicals, which slowly recharges.
+ent-RMCChemStorageResearch-name = система хранения химикатов
+ent-RMCChemStorageResearch-desc = Система хранения большого запаса химикатов, которая медленно пополняется.
 
-ent-RMCChemStorageOCP-name = chemical storage system
-ent-RMCChemStorageOCP-desc = Storage system for a large supply of chemicals, which slowly recharges.
+ent-RMCChemStorageOCP-name = система хранения химикатов
+ent-RMCChemStorageOCP-desc = Система хранения большого запаса химикатов, которая медленно пополняется.
 
-ent-RMCChemDispenserCorpsmanMedbay-name = pressurized chemical dispenser
-ent-RMCChemDispenserCorpsmanMedbay-desc = A more basic chemical dispenser, designed for use with pressurized reagent canisters. A We-Ya product.
+ent-RMCChemDispenserCorpsmanMedbay-name = дозатор химикатов под давлением
+ent-RMCChemDispenserCorpsmanMedbay-desc = Более простой дозатор химикатов, предназначенный для использования с канистрами с реагентами под давлением. 
 

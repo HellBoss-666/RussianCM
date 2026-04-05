@@ -1,14 +1,14 @@
-ent-RMCCableHeavy-name = large power cable
-ent-RMCCableHeavy-desc = This cable is tough. It cannot be cut with simple hand tools.
+ent-RMCCableHeavy-name = большой силовой кабель
+ent-RMCCableHeavy-desc = Этот кабель жесткий. 
 
-ent-RMCCableBase-name = stack-hv-cable
+ent-RMCCableBase-name = стек-высоковольтный кабель
 
-ent-RMCCableBlue-name = power cable
-ent-RMCCableBlue-desc = This cable is tough. It cannot be cut with simple hand tools.
+ent-RMCCableBlue-name = силовой кабель
+ent-RMCCableBlue-desc = Этот кабель жесткий. 
 
-ent-RMCCableRed-name = power cable
-ent-RMCCableRed-desc = This cable is tough. It cannot be cut with simple hand tools.
+ent-RMCCableRed-name = силовой кабель
+ent-RMCCableRed-desc = Этот кабель жесткий. 
 
-ent-RMCCableYellow-name = power cable
-ent-RMCCableYellow-desc = This cable is tough. It cannot be cut with simple hand tools.
+ent-RMCCableYellow-name = силовой кабель
+ent-RMCCableYellow-desc = Этот кабель жесткий. 
 

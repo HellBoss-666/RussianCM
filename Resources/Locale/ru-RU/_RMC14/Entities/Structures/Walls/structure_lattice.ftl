@@ -1,18 +1,18 @@
-ent-RMCStructureLatticeDouble-name = structural lattice
-ent-RMCStructureLatticeDouble-desc = Like rebar, but in space.
+ent-RMCStructureLatticeDouble-name = структурная решетка
+ent-RMCStructureLatticeDouble-desc = Как арматура, но в космосе.
 
-ent-RMCStructureLattice-name = structural lattice
-ent-RMCStructureLattice-desc = Like rebar, but in space.
+ent-RMCStructureLattice-name = структурная решетка
+ent-RMCStructureLattice-desc = Как арматура, но в космосе.
 
-ent-RMCStructureLatticeB-name = structural lattice
-ent-RMCStructureLatticeB-desc = Like rebar, but in space.
+ent-RMCStructureLatticeB-name = структурная решетка
+ent-RMCStructureLatticeB-desc = Как арматура, но в космосе.
 
-ent-RMCStructureLatticeC-name = structural lattice
-ent-RMCStructureLatticeC-desc = Like rebar, but in space.
+ent-RMCStructureLatticeC-name = структурная решетка
+ent-RMCStructureLatticeC-desc = Как арматура, но в космосе.
 
-ent-RMCStructureLatticeDoubleB-name = structural lattice
-ent-RMCStructureLatticeDoubleB-desc = Like rebar, but in space.
+ent-RMCStructureLatticeDoubleB-name = структурная решетка
+ent-RMCStructureLatticeDoubleB-desc = Как арматура, но в космосе.
 
-ent-RMCStructureLatticeDoubleC-name = structural lattice
-ent-RMCStructureLatticeDoubleC-desc = Like rebar, but in space.
+ent-RMCStructureLatticeDoubleC-name = структурная решетка
+ent-RMCStructureLatticeDoubleC-desc = Как арматура, но в космосе.
 

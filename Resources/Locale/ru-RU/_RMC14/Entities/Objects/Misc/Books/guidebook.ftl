@@ -1,9 +1,9 @@
-ent-RMCGuidebookSOP-name = standard operating procedure
-ent-RMCGuidebookSOP-desc = One of the most important books onboard any United Nations Marine Corps vessel, or at least that's how you are supposed to feel about it. The book carries within it's pages the UNMC guidelines and procedures regarding all kinds of situations.
+ent-RMCGuidebookSOP-name = стандартная рабочая процедура
+ent-RMCGuidebookSOP-desc = Одна из самых важных книг на борту любого корабля Корпуса Морпех Организации Объединенных Наций, по крайней мере, вы должны так к ней относиться. 
 
-ent-RMCGuidebookLawMarineProvost-name = Marine Law: limited provost edition
-ent-RMCGuidebookLawMarineProvost-desc = Usually being the favorite read of any member of the Military Police of the UNMC, it's whole meaning is to work as the scales for the sword of justice that brandishes onboard the vessels of the United Nations Marine Corps, so peace and order can be maintained. It's nicknames may include but are not limited to: Devil's Red Book, Bible of All Sinners, THE Book, ML, Red Brick, Provost's Torture Manual, Provost's Red Devil's Torture Bible of All Sinners.
+ent-RMCGuidebookLawMarineProvost-name = Закон Морпеха: ограниченное издание провоста
+ent-RMCGuidebookLawMarineProvost-desc = Обычно это любимое чтение любого члена военной полиции UNMC, и весь его смысл состоит в том, чтобы служить весами для меча правосудия, который размахивает на борту кораблей Корпуса Морпех Организации Объединенных Наций, чтобы можно было поддерживать мир и порядок. 
 
-ent-RMCGuidebookLawMarine-name = Marine Law
-ent-RMCGuidebookLawMarine-desc = Usually being the favorite read of any member of the Military Police of the UNMC, it's whole meaning is to work as the scales for the sword of justice that brandishes onboard the vessels of the United Nations Marine Corps, so peace and order can be maintained. It's nicknames may include but are not limited to: Devil's Red Book, Bible of All Sinners, THE Book, ML, Red Brick, Provost's Torture Manual, Provost's Red Devil's Torture Bible of All Sinners.
+ent-RMCGuidebookLawMarine-name = Морпех Лоу
+ent-RMCGuidebookLawMarine-desc = Обычно это любимое чтение любого члена военной полиции UNMC, и весь его смысл состоит в том, чтобы служить весами для меча правосудия, который размахивает на борту кораблей Корпуса Морпех Организации Объединенных Наций, чтобы можно было поддерживать мир и порядок. 
 

@@ -1,6 +1,6 @@
-ent-RMCHeadsetProvost-name = UNMC provost headset
-ent-RMCHeadsetProvost-desc = A standard military radio headset. Bulkier than combat models.
+ent-RMCHeadsetProvost-name = Гарнитура проректора UNMC
+ent-RMCHeadsetProvost-desc = Стандартная военная радиогарнитура. 
 
-ent-RMCHeadsetProvostLead-name = UNMC provost headset
-ent-RMCHeadsetProvostLead-desc = A standard military radio headset. Bulkier than combat models.
+ent-RMCHeadsetProvostLead-name = Гарнитура проректора UNMC
+ent-RMCHeadsetProvostLead-desc = Стандартная военная радиогарнитура. 
 

@@ -1,21 +1,21 @@
-ent-RMCHardhatRedTMCC-name = tartarus-mining hard hat
-ent-RMCHardhatRedTMCC-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardhatRedTMCC-name = каска шахтёра Тартара
+ent-RMCHardhatRedTMCC-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 
-ent-RMCHardhatWhiteAlt-name = Chǎnyè Combine mining helmet
-ent-RMCHardhatWhiteAlt-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardhatWhiteAlt-name = Горнодобывающий комбинат Чунье Шлем
+ent-RMCHardhatWhiteAlt-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 
-ent-RMCHardhatRed-name = firefighter helmet
-ent-RMCHardhatRed-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardhatRed-name = пожарный Шлем
+ent-RMCHardhatRed-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 
-ent-RMCHardHat-name = hard hat
-ent-RMCHardHat-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardHat-name = каска
+ent-RMCHardHat-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 
-ent-RMCHardhatOrange-name = hard hat
-ent-RMCHardhatOrange-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardhatOrange-name = каска
+ent-RMCHardhatOrange-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 
-ent-RMCHardhatBlue-name = hard hat
-ent-RMCHardhatBlue-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardhatBlue-name = каска
+ent-RMCHardhatBlue-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 
-ent-RMCHardhatWhite-name = hard hat
-ent-RMCHardhatWhite-desc = A piece of headgear used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-RMCHardhatWhite-name = каска
+ent-RMCHardhatWhite-desc = Головной убор, используемый в опасных условиях труда для защиты головы. 
 

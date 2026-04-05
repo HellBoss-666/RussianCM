@@ -1,12 +1,12 @@
-ent-DoorXenoResinThick-name = thick resin door
-ent-DoorXenoResinThick-desc = A thick resin door, which is more durable.
+ent-DoorXenoResinThick-name = дверь из толстой смолы
+ent-DoorXenoResinThick-desc = Дверь из толстой смолы, более прочная.
 
-ent-DoorXenoResin-name = resin door
-ent-DoorXenoResin-desc = That's a resin door.
+ent-DoorXenoResin-name = смола дверь
+ent-DoorXenoResin-desc = Это смоляная дверь.
 
-ent-DoorXenoResinWeedbound-name = weedbound resin door
-ent-DoorXenoResinWeedbound-desc = That's a resin door, bound to weeds.
+ent-DoorXenoResinWeedbound-name = дверь из смолы, обтянутая сорняками
+ent-DoorXenoResinWeedbound-desc = Это смоляная дверь, заросшая сорняками.
 
-ent-DoorXenoResinThickWeedbound-name = thick weedbound resin door
-ent-DoorXenoResinThickWeedbound-desc = A thick resin door, bound to weeds.
+ent-DoorXenoResinThickWeedbound-name = толстая дверь из смолы, обтянутая сорняками
+ent-DoorXenoResinThickWeedbound-desc = Толстая смоляная дверь, заросшая сорняками.
 

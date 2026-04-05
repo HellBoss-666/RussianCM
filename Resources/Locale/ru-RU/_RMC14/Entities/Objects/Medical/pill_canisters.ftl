@@ -1,78 +1,78 @@
-ent-RMCPillCanisterRussianRed-name = russian red pill bottle
-ent-RMCPillCanisterRussianRed-desc = It's an airtight container for storing medication. It's labeled "Russian Red (10u, 2 pill OD) A very dangerous radiation-countering substance."
+ent-RMCPillCanisterRussianRed-name = русская красная бутылочка с таблетками
+ent-RMCPillCanisterRussianRed-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterTricordrazine-name = tricordrazine pill bottle
-ent-CMPillCanisterTricordrazine-desc = It's an airtight container for storing medication. It's labeled "Tricordrazine (15u, 2 pill OD) A weak general use medication for treating damage."
+ent-CMPillCanisterTricordrazine-name = флакон с таблетками трикордразина
+ent-CMPillCanisterTricordrazine-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterBicaridine-name = bicaridine pill bottle
-ent-CMPillCanisterBicaridine-desc = It's an airtight container for storing medication. It's labeled "Bicaridine (15u, 2 pill OD) Used to treat brute damage."
+ent-CMPillCanisterBicaridine-name = бутылочка с таблетками бикаридина
+ent-CMPillCanisterBicaridine-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterInaprovaline-name = inaprovaline pill bottle
-ent-CMPillCanisterInaprovaline-desc = It's an airtight container for storing medication. It's labeled "Inaprovaline (15u, 4 pill OD) Used to stabilize patients."
+ent-CMPillCanisterInaprovaline-name = флакон с таблетками инапровалина
+ent-CMPillCanisterInaprovaline-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterKelotane-name = kelotane pill bottle
-ent-CMPillCanisterKelotane-desc = It's an airtight container for storing medication. It's labeled "Kelotane (15u, 2 pill OD) Used to treat burns."
+ent-CMPillCanisterKelotane-name = флакон с таблетками келотана
+ent-CMPillCanisterKelotane-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterKelotaneDermalineNoSkill-name = kelotane-dermaline pill bottle
-ent-RMCPillCanisterKelotaneDermalineNoSkill-desc = It's an airtight container for storing medication. It's labeled "Kelotane-Dermaline (7.5u/7.5u, 2 pill OD) Rapidly treats burn damage."
+ent-RMCPillCanisterKelotaneDermalineNoSkill-name = флакон с таблетками келотан-дермалин
+ent-RMCPillCanisterKelotaneDermalineNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterKelotaneNoSkill-name = kelotane pill bottle
-ent-RMCPillCanisterKelotaneNoSkill-desc = It's an airtight container for storing medication. It's labeled "Kelotane (15u, 2 pill OD) Used to treat burns."
+ent-RMCPillCanisterKelotaneNoSkill-name = флакон с таблетками келотана
+ent-RMCPillCanisterKelotaneNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterInaprovalineNoSkill-name = inaprovaline pill bottle
-ent-RMCPillCanisterInaprovalineNoSkill-desc = It's an airtight container for storing medication. It's labeled "Inaprovaline (15u, 4 pill OD) Used to stabilize patients."
+ent-RMCPillCanisterInaprovalineNoSkill-name = флакон с таблетками инапровалина
+ent-RMCPillCanisterInaprovalineNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterDylovene-name = dylovene pill bottle
-ent-CMPillCanisterDylovene-desc = It's an airtight container for storing medication. It's labeled "Dylovene (15u, 2 pill OD) An anti-toxin medication. It neutralizes many common toxins, as well as treating toxin damage."
+ent-CMPillCanisterDylovene-name = флакон с таблетками диловена
+ent-CMPillCanisterDylovene-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterDexalin-name = dexalin pill bottle
-ent-CMPillCanisterDexalin-desc = It's an airtight container for storing medication. It's labeled "Dexalin (15u, 2 pill OD) Used to treat oxygen deprivation."
+ent-CMPillCanisterDexalin-name = флакон с таблетками дексалина
+ent-CMPillCanisterDexalin-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterMeralyneBicaridineNoSkill-name = meralyne-bicaridine pill bottle
-ent-RMCPillCanisterMeralyneBicaridineNoSkill-desc = It's an airtight container for storing medication. It's labeled "Meralyne-Bicaridine (7.5u/7.5u, 2 pill OD) Rapidly treats brute damage."
+ent-RMCPillCanisterMeralyneBicaridineNoSkill-name = флакон с таблетками мералина-бикаридина
+ent-RMCPillCanisterMeralyneBicaridineNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterBicaridineNoSkill-name = bicaridine pill bottle
-ent-RMCPillCanisterBicaridineNoSkill-desc = It's an airtight container for storing medication. It's labeled "Bicaridine (15u, 2 pill OD) Used to treat brute damage."
+ent-RMCPillCanisterBicaridineNoSkill-name = бутылочка с таблетками бикаридина
+ent-RMCPillCanisterBicaridineNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterNoSkill-name = pill bottle
-ent-RMCPillCanisterNoSkill-desc = It's an airtight container for storing medication.
+ent-RMCPillCanisterNoSkill-name = бутылочка с таблетками
+ent-RMCPillCanisterNoSkill-desc = Это герметичный контейнер для хранения лекарств.
 
-ent-CMPillCanister-name = pill bottle
-ent-CMPillCanister-desc = It's an airtight container for storing medication.
+ent-CMPillCanister-name = бутылочка с таблетками
+ent-CMPillCanister-desc = Это герметичный контейнер для хранения лекарств.
 
-ent-RMCPillCanisterMeralyneBicaridine-name = meralyne-bicaridine pill bottle
-ent-RMCPillCanisterMeralyneBicaridine-desc = It's an airtight container for storing medication. It's labeled "Meralyne-Bicaridine (7.5u/7.5u, 2 pill OD) Rapidly treats brute damage."
+ent-RMCPillCanisterMeralyneBicaridine-name = флакон с таблетками мералина-бикаридина
+ent-RMCPillCanisterMeralyneBicaridine-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterDexalinNoSkill-name = dexalin pill bottle
-ent-RMCPillCanisterDexalinNoSkill-desc = It's an airtight container for storing medication. It's labeled "Dexalin (15u, 2 pill OD) Used to treat oxygen deprivation."
+ent-RMCPillCanisterDexalinNoSkill-name = флакон с таблетками дексалина
+ent-RMCPillCanisterDexalinNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterDyloveneNoSkill-name = dylovene pill bottle
-ent-RMCPillCanisterDyloveneNoSkill-desc = It's an airtight container for storing medication. It's labeled "Dylovene (15u, 2 pill OD) An anti-toxin medication. It neutralizes many common toxins, as well as treating toxin damage."
+ent-RMCPillCanisterDyloveneNoSkill-name = флакон с таблетками диловена
+ent-RMCPillCanisterDyloveneNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-CMPillCanisterKelotaneDermaline-name = kelotane-dermaline pill bottle
-ent-CMPillCanisterKelotaneDermaline-desc = It's an airtight container for storing medication. It's labeled "Kelotane-Dermaline (7.5u/7.5u, 2 pill OD) Rapidly treats burn damage."
+ent-CMPillCanisterKelotaneDermaline-name = флакон с таблетками келотан-дермалин
+ent-CMPillCanisterKelotaneDermaline-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterTricordrazineNoSkill-name = tricordrazine pill bottle
-ent-RMCPillCanisterTricordrazineNoSkill-desc = It's an airtight container for storing medication. It's labeled "Tricordrazine (15u, 2 pill OD) A weak general use medication for treating damage."
+ent-RMCPillCanisterTricordrazineNoSkill-name = флакон с таблетками трикордразина
+ent-RMCPillCanisterTricordrazineNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterRussianRedNoSkill-name = russian red pill bottle
-ent-RMCPillCanisterRussianRedNoSkill-desc = It's an airtight container for storing medication. It's labeled "Russian Red (10u, 2 pill OD) A very dangerous radiation-countering substance."
+ent-RMCPillCanisterRussianRedNoSkill-name = русская красная бутылочка с таблетками
+ent-RMCPillCanisterRussianRedNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterImidazolineNoSkill-name = imidazoline pill bottle
-ent-RMCPillCanisterImidazolineNoSkill-desc = It's an airtight container for storing medication. It's labeled "Imidazoline (1u, 30 pill OD) Used to restore vision from non-congenital eye damage."
+ent-RMCPillCanisterImidazolineNoSkill-name = флакон с таблетками имидазолина
+ent-RMCPillCanisterImidazolineNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterImidazoline-name = imidazoline pill bottle
-ent-RMCPillCanisterImidazoline-desc = It's an airtight container for storing medication. It's labeled "Imidazoline (1u, 30 pill OD) Used to restore vision from non-congenital eye damage."
+ent-RMCPillCanisterImidazoline-name = флакон с таблетками имидазолина
+ent-RMCPillCanisterImidazoline-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterDexalinPlusNoSkill-name = dexalin plus pill bottle
-ent-RMCPillCanisterDexalinPlusNoSkill-desc = It's an airtight container for storing medication. It's labeled "Dexalin Plus (10u, 15u OD) Used to instantly treat oxygen deprivation."
+ent-RMCPillCanisterDexalinPlusNoSkill-name = Дексалин плюс флакон с таблетками
+ent-RMCPillCanisterDexalinPlusNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterDexalinPlus-name = dexalin plus pill bottle
-ent-RMCPillCanisterDexalinPlus-desc = It's an airtight container for storing medication. It's labeled "Dexalin Plus (10u, 15u OD) Used to instantly treat oxygen deprivation."
+ent-RMCPillCanisterDexalinPlus-name = Дексалин плюс флакон с таблетками
+ent-RMCPillCanisterDexalinPlus-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterIronNoSkill-name = iron pill bottle
-ent-RMCPillCanisterIronNoSkill-desc = It's an airtight container for storing medication. It's labeled "FN (Iron 10u, Nutriment 5u, No OD) Used to quickly restore blood."
+ent-RMCPillCanisterIronNoSkill-name = железная бутылочка с таблетками
+ent-RMCPillCanisterIronNoSkill-desc = Это герметичный контейнер для хранения лекарств. 
 
-ent-RMCPillCanisterIron-name = iron pill bottle
-ent-RMCPillCanisterIron-desc = It's an airtight container for storing medication. It's labeled "FN (Iron 10u, Nutriment 5u, No OD) Used to quickly restore blood."
+ent-RMCPillCanisterIron-name = железная бутылочка с таблетками
+ent-RMCPillCanisterIron-desc = Это герметичный контейнер для хранения лекарств. 
 

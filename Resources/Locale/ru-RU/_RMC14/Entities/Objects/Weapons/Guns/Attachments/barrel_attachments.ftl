@@ -1,42 +1,42 @@
-ent-RMCAttachmentMatebaSnubNose-name = item
+ent-RMCAttachmentMatebaSnubNose-name = элемент
 
-ent-RMCAttachmentMatebaMarksman-name = item
+ent-RMCAttachmentMatebaMarksman-name = элемент
 
-ent-RMCAttachmentMatebaStandard-name = item
+ent-RMCAttachmentMatebaStandard-name = элемент
 
-ent-RMCAttachmentSuppressorNPZ92-name = item
+ent-RMCAttachmentSuppressorNPZ92-name = элемент
 
-ent-RMCAttachmentSuppressorXM40-name = item
+ent-RMCAttachmentSuppressorXM40-name = элемент
 
-ent-RMCAttachmentSuppressor-name = item
+ent-RMCAttachmentSuppressor-name = элемент
 
-ent-RMCAttachmentShotgunChoke-name = item
+ent-RMCAttachmentShotgunChoke-name = элемент
 
-ent-RMCAttachmentRecoilCompensator-name = item
+ent-RMCAttachmentRecoilCompensator-name = элемент
 
-ent-RMCAttachmentBarrelCharger-name = item
+ent-RMCAttachmentBarrelCharger-name = элемент
 
-ent-RMCAttachmentBarrelMar50-name = item
+ent-RMCAttachmentBarrelMar50-name = элемент
 
-ent-RMCAttachmentExtendedBarrel-name = item
+ent-RMCAttachmentExtendedBarrel-name = элемент
 
-ent-RMCBarrelAttachmentBase-name = item
+ent-RMCBarrelAttachmentBase-name = элемент
 
-ent-RMCAttachmentExtendedCompensator-name = item
+ent-RMCAttachmentExtendedCompensator-name = элемент
 
-ent-RMCAttachmentRecoilCompensatorM13-name = item
+ent-RMCAttachmentRecoilCompensatorM13-name = элемент
 
-ent-RMCAttachmentRecoilCompensatorM13Spiked-name = item
+ent-RMCAttachmentRecoilCompensatorM13Spiked-name = элемент
 
-ent-RMCAttachmentSuppressorCompact-name = item
+ent-RMCAttachmentSuppressorCompact-name = элемент
 
-ent-RMCAttachmentSuppressorM96SB-name = item
+ent-RMCAttachmentSuppressorM96SB-name = элемент
 
-ent-RMCAttachmentSuppressorL112-name = item
+ent-RMCAttachmentSuppressorL112-name = элемент
 
-ent-RMCAttachmentMatebaStandardGolden-name = item
+ent-RMCAttachmentMatebaStandardGolden-name = элемент
 
-ent-RMCAttachmentMatebaMarksmanGolden-name = item
+ent-RMCAttachmentMatebaMarksmanGolden-name = элемент
 
-ent-RMCAttachmentMatebaSnubNoseGolden-name = item
+ent-RMCAttachmentMatebaSnubNoseGolden-name = элемент
 

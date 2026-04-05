@@ -1,18 +1,18 @@
-ent-RMCCrateGearParachute-name = parachute crate (x20)
-ent-RMCCrateGearParachute-desc = A supply crate.
+ent-RMCCrateGearParachute-name = ящик парашутов (x20)
+ent-RMCCrateGearParachute-desc = Ящик с припасами.
 
-ent-RMCCrateGearFulton-name = fulton recovery device crate (x4)
-ent-RMCCrateGearFulton-desc = An ammunitions crate.
+ent-RMCCrateGearFulton-name = Ящик фултонов (x4)
+ent-RMCCrateGearFulton-desc = Ящик с припасами.
 
-ent-RMCCrateGearPackFlareCAS-name = signal flare packs crate (x4)
-ent-RMCCrateGearPackFlareCAS-desc = An ammunitions crate.
+ent-RMCCrateGearPackFlareCAS-name = Ящик с сигнальными ракетами (x4)
+ent-RMCCrateGearPackFlareCAS-desc = Ящик с боеприпасами.
 
-ent-RMCCrateGearMotionDetector-name = motion detector crate (x2)
-ent-RMCCrateGearMotionDetector-desc = An ammunitions crate.
+ent-RMCCrateGearMotionDetector-name = ящик для детектора движения (x2)
+ent-RMCCrateGearMotionDetector-desc = Ящик с боеприпасами.
 
-ent-RMCCrateGearPackFlare-name = flare packs crate (x20)
-ent-RMCCrateGearPackFlare-desc = An ammunitions crate.
+ent-RMCCrateGearPackFlare-name = ящик фаеров (x20)
+ent-RMCCrateGearPackFlare-desc = Ящик с боеприпасами.
 
-ent-RMCCrateGearBinoculars-name = mixed binoculars crate (2x per, 6x total)
-ent-RMCCrateGearBinoculars-desc = An ammunitions crate.
+ent-RMCCrateGearBinoculars-name = смешанный ящик для биноклей (2 шт., всего 6 шт.)
+ent-RMCCrateGearBinoculars-desc = Ящик с боеприпасами.
 

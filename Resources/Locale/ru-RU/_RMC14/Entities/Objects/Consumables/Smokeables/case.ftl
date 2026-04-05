@@ -1,9 +1,9 @@
-ent-RMCTarbackCase-name = tarbacks case
-ent-RMCTarbackCase-desc = Don't let the fancy box and piece of paper spouting nonsense about tradition and quality fool you. These stogies are bottom of the barrel. Rolled in Columbia..
+ent-RMCTarbackCase-name = чехол для тарбеков
+ent-RMCTarbackCase-desc = Не позволяйте модной коробке и листу бумаги, излагающему ерунду о традициях и качестве, обмануть вас. 
 
-ent-RMCCigarCase-name = cigar case
-ent-RMCCigarCase-desc = A case for holding your cigars when you are not smoking them.
+ent-RMCCigarCase-name = портсигар
+ent-RMCCigarCase-desc = Футляр для хранения сигар, когда вы их не курите.
 
-ent-RMCShioRoyalsCase-name = shio royals case
-ent-RMCShioRoyalsCase-desc = A wooden cigar box made to hold Shio Royals. The golden lettering is incredibly ostentatious for cigars best described by the word "OK". Rolled in Japan.
+ent-RMCShioRoyalsCase-name = дело Шио Роялс
+ent-RMCShioRoyalsCase-desc = Деревянная коробка для сигар, предназначенная для членов семьи Шио. 
 

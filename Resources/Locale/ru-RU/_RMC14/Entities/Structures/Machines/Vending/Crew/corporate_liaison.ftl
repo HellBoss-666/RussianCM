@@ -1,3 +1,3 @@
-ent-ColMarTechWardrobeCorp-name = Corporate Liaison's Personal Wardrobe
-ent-ColMarTechWardrobeCorp-desc = A wardrobe containing all the clothes an executive would ever need.
+ent-ColMarTechWardrobeCorp-name = Личный гардероб корпоративного представителя
+ent-ColMarTechWardrobeCorp-desc = Гардероб, в котором есть вся одежда, которая может понадобиться руководителю.
 

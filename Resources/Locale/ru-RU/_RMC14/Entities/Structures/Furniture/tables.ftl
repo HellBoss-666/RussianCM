@@ -1,57 +1,57 @@
-ent-RMCLargeTableBar-name = bar table
-ent-RMCLargeTableBar-desc = A wooden table that has seen better days. There's the stickly sensation of spilled drinks within the cracks of the wood.
+ent-RMCLargeTableBar-name = барный стол
+ent-RMCLargeTableBar-desc = Деревянный стол, знавший лучшие времена. 
 
-ent-RMCTableHunter-name = table
-ent-RMCTableHunter-desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
+ent-RMCTableHunter-name = стол
+ent-RMCTableHunter-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCTablePrison-name = table
-ent-RMCTablePrison-desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
+ent-RMCTablePrison-name = стол
+ent-RMCTablePrison-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-CMTableAlmayer-name = table
-ent-CMTableAlmayer-desc = A square metal surface resting on four legs. Useful to put stuff on. Can be flipped in emergencies to act as cover.
+ent-CMTableAlmayer-name = стол
+ent-CMTableAlmayer-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-CMTableWoodenGambling-name = gambling table
-ent-CMTableWoodenGambling-desc = A curved wood and carpet surface resting on four legs. Used for gambling games.
+ent-CMTableWoodenGambling-name = игровой стол
+ent-CMTableWoodenGambling-desc = Изогнутая поверхность из дерева и ковра, опирающаяся на четыре ножки. 
 
-ent-CMTableWoodenFancy-name = fancy wooden table
-ent-CMTableWoodenFancy-desc = A nicely crafted mahogany wood surface resting on four legs. Useful to put stuff on.
+ent-CMTableWoodenFancy-name = необычный деревянный стол
+ent-CMTableWoodenFancy-desc = Красиво обработанная поверхность из красного дерева опирается на четыре ножки. 
 
-ent-CMTableWoodenPoor-name = poor wooden table
-ent-CMTableWoodenPoor-desc = A semi-poorly constructed wood surface resting on four legs. Useful to put stuff on.
+ent-CMTableWoodenPoor-name = бедный деревянный стол
+ent-CMTableWoodenPoor-desc = Полуплохо сконструированная деревянная поверхность, опирающаяся на четыре ножки. 
 
-ent-CMTableWooden-name = wooden table
-ent-CMTableWooden-desc = A square wood surface resting on four legs. Useful to put stuff on.
+ent-CMTableWooden-name = деревянный стол
+ent-CMTableWooden-desc = Квадратная деревянная поверхность, опирающаяся на четыре ножки. 
 
-ent-CMTableReinforcedBlack-name = black table
-ent-CMTableReinforcedBlack-desc = A sleek black metal table. Its legs are securely bolted to the floor.
+ent-CMTableReinforcedBlack-name = черный стол
+ent-CMTableReinforcedBlack-desc = Элегантный черный металлический стол. 
 
-ent-CMTableReinforced-name = reinforced table
-ent-CMTableReinforced-desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk.
+ent-CMTableReinforced-name = усиленный стол
+ent-CMTableReinforced-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCLargeTable-name = table
-ent-RMCLargeTable-desc = A square metal surface resting on four legs. Useful to put stuff on.
+ent-RMCLargeTable-name = стол
+ent-RMCLargeTable-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-CMTable-name = table
-ent-CMTable-desc = A square metal surface resting on four legs. Useful to put stuff on.
+ent-CMTable-name = стол
+ent-CMTable-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCTableBrown-name = table
-ent-RMCTableBrown-desc = A square metal surface resting on four legs. Useful to put stuff on.
+ent-RMCTableBrown-name = стол
+ent-RMCTableBrown-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-CMTableReinforcedRequisition-name = reinforced table
-ent-CMTableReinforcedRequisition-desc = A square metal surface resting on its fat metal bottom.
+ent-CMTableReinforcedRequisition-name = усиленный стол
+ent-CMTableReinforcedRequisition-desc = Квадратная металлическая поверхность, опирающаяся на толстое металлическое дно.
 
-ent-RMCTableReinforcedRequisitionBrown-name = reinforced table
-ent-RMCTableReinforcedRequisitionBrown-desc = A square metal surface resting on its fat metal bottom.
+ent-RMCTableReinforcedRequisitionBrown-name = усиленный стол
+ent-RMCTableReinforcedRequisitionBrown-desc = Квадратная металлическая поверхность, опирающаяся на толстое металлическое дно.
 
-ent-RMCTableReinforcedRequisitionBrownOffset-name = reinforced table
-ent-RMCTableReinforcedRequisitionBrownOffset-desc = A square metal surface resting on its fat metal bottom.
+ent-RMCTableReinforcedRequisitionBrownOffset-name = усиленный стол
+ent-RMCTableReinforcedRequisitionBrownOffset-desc = Квадратная металлическая поверхность, опирающаяся на толстое металлическое дно.
 
-ent-RMCTablePrisonSoro-name = table
-ent-RMCTablePrisonSoro-desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
+ent-RMCTablePrisonSoro-name = стол
+ent-RMCTablePrisonSoro-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCTablePrisonBeige-name = table
-ent-RMCTablePrisonBeige-desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
+ent-RMCTablePrisonBeige-name = стол
+ent-RMCTablePrisonBeige-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCTablePrisonBrown-name = table
-ent-RMCTablePrisonBrown-desc = A square metal surface resting on four legs. This one has side panels, making it useful as a desk, but impossible to flip.
+ent-RMCTablePrisonBrown-name = стол
+ent-RMCTablePrisonBrown-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 

@@ -1,26 +1,26 @@
-ent-RMCMapInsertLV624Medbay-name = Medbay
+ent-RMCMapInsertLV624Medbay-name = Медбэй
 
-ent-RMCMapInsertLV624CentralCaves-name = Central Caves
+ent-RMCMapInsertLV624CentralCaves-name = Центральные пещеры
 
-ent-RMCMapInsertLV624Bridge-name = Bridge
+ent-RMCMapInsertLV624Bridge-name = Мост
 
-ent-RMCMapInsertLV624Hydro-name = Hydro Destroyed
+ent-RMCMapInsertLV624Hydro-name = Гидро разрушено
 
-ent-RMCMapInsertLV624CargoSpecial3-name = Cargo Special Gear
+ent-RMCMapInsertLV624CargoSpecial3-name = Специальное грузовое снаряжение
 
-ent-RMCMapInsertLV624CargoSpecial2-name = Cargo Special Weapons
+ent-RMCMapInsertLV624CargoSpecial2-name = Грузовое специальное оружие
 
-ent-RMCMapInsertLV624CargoSpecial1-name = Cargo Special Mines
+ent-RMCMapInsertLV624CargoSpecial1-name = Грузовые специальные мины
 
-ent-RMCMapInsertLV624SandtempleJungle-name = Sandtemple Jungle
+ent-RMCMapInsertLV624SandtempleJungle-name = Песчаные джунгли
 
-ent-RMCMapInsertLV624SandtempleSE-name = Sandtemple LZ1
+ent-RMCMapInsertLV624SandtempleSE-name = Песчаный храм LZ1
 
-ent-RMCMapInsertLV624NexusCenter-name = Nexus Barricaded
+ent-RMCMapInsertLV624NexusCenter-name = Нексус забаррикадирован
 
-ent-RMCMapInsertLV624Gym-name = Gym
+ent-RMCMapInsertLV624Gym-name = Спортзал
 
-ent-RMCMapInsertLV624CorporateDome-name = Corporate Dome
+ent-RMCMapInsertLV624CorporateDome-name = Корпоративный купол
 
-ent-RMCMapInsertLV624Armory-name = Armory
+ent-RMCMapInsertLV624Armory-name = Оружейная палата
 

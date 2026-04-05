@@ -1,21 +1,21 @@
-ent-RMCWelderIndustrial-name = industrial blowtorch
-ent-RMCWelderIndustrial-desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-RMCWelderIndustrial-name = промышленная паяльная лампа
+ent-RMCWelderIndustrial-desc = Плавит все, что угодно, пока оно заправлено, не забудьте защиту для глаз!
 
-ent-CMWelderSmall-name = ME3 hand welder
-ent-CMWelderSmall-desc = A compact, handheld welding torch used by the Marines for cutting and welding jobs on the field. Due to the small size and slow strength, its function is limited compared to a full-sized technician's blowtorch.
+ent-CMWelderSmall-name = Ручной сварщик МЕ3
+ent-CMWelderSmall-desc = Компактная ручная сварочная горелка, используемая морской пехотой для резки и сварки в полевых условиях. 
 
-ent-RMCWelderAdmin-name = admin blowtorch
-ent-RMCWelderAdmin-desc = Melts anything as long as it's fueled, forget your eye protection!
+ent-RMCWelderAdmin-name = админ паяльная лампа
+ent-RMCWelderAdmin-desc = Плавит что угодно, пока оно заправлено топливом, забудьте о защите глаз!
 
-ent-RMCWelderBase-name = blowtorch
-ent-RMCWelderBase-desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-RMCWelderBase-name = паяльная лампа
+ent-RMCWelderBase-desc = Плавит все, что угодно, пока оно заправлено, не забудьте защиту для глаз!
 
-ent-CMWelder-name = blowtorch
-ent-CMWelder-desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-CMWelder-name = паяльная лампа
+ent-CMWelder-desc = Плавит все, что угодно, пока оно заправлено, не забудьте защиту для глаз!
 
-ent-RMCWelderEmpty-name = blowtorch
-ent-RMCWelderEmpty-desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-RMCWelderEmpty-name = паяльная лампа
+ent-RMCWelderEmpty-desc = Плавит все, что угодно, пока оно заправлено, не забудьте защиту для глаз!
 
-ent-RMCWelderPVE-name = modified blowtorch
-ent-RMCWelderPVE-desc = A more 'advanced' version of the standard UNMC Blowtorch, this blowtorch has a welding shield for eye protection affixed to it. Seems the eye shield was ripped off of a standard ME3 hand welder and then crudely affixed.
+ent-RMCWelderPVE-name = модифицированная паяльная лампа
+ent-RMCWelderPVE-desc = Это более «продвинутая» версия стандартной паяльной лампы UNMC. К ней прикреплен сварочный щиток для защиты глаз. 
 

@@ -1,6 +1,6 @@
-ent-WeaponShotgunM42A2-name = M42A2 pump shotgun
-ent-WeaponShotgunM42A2-desc = An AEGIS modern take on an all-time classic, combining close range firepower with long-term reliability. Requires a pump.
+ent-WeaponShotgunM42A2-name = Помповое ружье М42А2
+ent-WeaponShotgunM42A2-desc = Современный взгляд на непреходящую классику AEGIS, сочетающий в себе огневую мощь ближнего боя с долгосрочной надежностью. 
 
-ent-RMCWeaponShotgunM42A2Filled-name = M42A2 pump shotgun
-ent-RMCWeaponShotgunM42A2Filled-desc = An AEGIS modern take on an all-time classic, combining close range firepower with long-term reliability. Requires a pump.
+ent-RMCWeaponShotgunM42A2Filled-name = Помповое ружье М42А2
+ent-RMCWeaponShotgunM42A2Filled-desc = Современный взгляд на непреходящую классику AEGIS, сочетающий в себе огневую мощь ближнего боя с долгосрочной надежностью. 
 

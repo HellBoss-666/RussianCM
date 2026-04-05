@@ -1,3 +1,3 @@
-ent-CMSpawnPointNurse-name = nurse spawn point
-ent-CMSpawnPointNurse-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointNurse-name = точка появления медсестры
+ent-CMSpawnPointNurse-desc = Создатель заданий RMC14. 
 

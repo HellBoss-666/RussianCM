@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetGangLeader-name = gang leader survivor preset
+ent-RMCGearSurvivorPresetGangLeader-name = Пресет выжившего лидера банды
 
-ent-RMCSpawnPointSurvivorGangLeader-name = survivor gang leader spawn point
-ent-RMCSpawnPointSurvivorGangLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorGangLeader-name = Точка возрождения лидера банды выживших
+ent-RMCSpawnPointSurvivorGangLeader-desc = Создатель заданий RMC14. 
 

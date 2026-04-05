@@ -1,21 +1,21 @@
-ent-RMCCommunicationsTowerProp-name = destroyed comms tower
-ent-RMCCommunicationsTowerProp-desc = An old company comms tower used to transmit communications between subspace bodies. Looks like this one has seen better days.
+ent-RMCCommunicationsTowerProp-name = разрушенная башня связи
+ent-RMCCommunicationsTowerProp-desc = Старая башня связи компании, используемая для передачи сообщений между подпространственными телами. 
 
-ent-RMCSpawnerCommunicationsTowerBase-name = static comms
+ent-RMCSpawnerCommunicationsTowerBase-name = статическая связь
 
-ent-RMCCommunicationsTower-name = TC-3T static telecommunications tower
+ent-RMCCommunicationsTower-name = Статическая телекоммуникационная башня ТС-3Т
 ent-RMCCommunicationsTower-desc = A static heavy-duty TC-3T telecommunications tower. Used to set up subspace communications lines between planetary and extra-planetary locations. Will need to have extra communication frequencies programmed into it by multitool.
 
-ent-RMCCommunicationsTowerOn-name = TC-3T static telecommunications tower
-ent-RMCCommunicationsTowerOn-desc = A static heavy-duty TC-3T telecommunications tower. Used to set up subspace communications lines between planetary and extra-planetary locations. Will need to have extra communication frequencies programmed into it by multitool.
+ent-RMCCommunicationsTowerOn-name = Статическая телекоммуникационная башня ТС-3Т
+ent-RMCCommunicationsTowerOn-desc = Статическая сверхмощная телекоммуникационная башня ТС-3Т. 
 
-ent-RMCSpawnerCommunicationsTowerOne-name = static comms
+ent-RMCSpawnerCommunicationsTowerOne-name = статическая связь
 
-ent-RMCSpawnerCommunicationsTowerTwo-name = static comms
+ent-RMCSpawnerCommunicationsTowerTwo-name = статическая связь
 
-ent-RMCCommunicationsTowerPropAlt0-name = destroyed comms tower
-ent-RMCCommunicationsTowerPropAlt0-desc = An old company comms tower used to transmit communications between subspace bodies. Looks like this one has seen better days.
+ent-RMCCommunicationsTowerPropAlt0-name = разрушенная башня связи
+ent-RMCCommunicationsTowerPropAlt0-desc = Старая башня связи компании, используемая для передачи сообщений между подпространственными телами. 
 
-ent-RMCCommunicationsTowerPropAlt1-name = destroyed comms tower
-ent-RMCCommunicationsTowerPropAlt1-desc = An old company comms tower used to transmit communications between subspace bodies. Looks like this one has seen better days.
+ent-RMCCommunicationsTowerPropAlt1-name = разрушенная башня связи
+ent-RMCCommunicationsTowerPropAlt1-desc = Старая башня связи компании, используемая для передачи сообщений между подпространственными телами. 
 

@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidHEFAShrapnelswornFriendly-name = hefa ghost role grandmaster
+ent-RMCRandomHumanoidHEFAShrapnelswornFriendly-name = роль призрака хефа, гроссмейстер
 
-ent-RMCRandomHumanoidHEFAShrapnelswornHostile-name = hefa ghost role grandmaster
+ent-RMCRandomHumanoidHEFAShrapnelswornHostile-name = роль призрака хефа, гроссмейстер
 

@@ -1,11 +1,11 @@
-ent-RMCFigurineXenoWarrior616-name = Warrior (XX-616) figurine
-ent-RMCFigurineXenoWarrior616-desc = The hive's greatest fighter, she slew over 30 hosts with her might alone.
+ent-RMCFigurineXenoWarrior616-name = Статуэтка Воин (XX-616)
+ent-RMCFigurineXenoWarrior616-desc = Величайший боец ​​улья, она одной своей силой убила более 30 хозяев.
 
-ent-RMCFigurineXenoXippy-name = Xippy figurine
-ent-RMCFigurineXenoXippy-desc = Always has a helpful xip for sisters in need.
+ent-RMCFigurineXenoXippy-name = Фигурка Зиппи
+ent-RMCFigurineXenoXippy-desc = Всегда есть полезный архив для нуждающихся сестер.
 
-ent-RMCSpawnerFigurineXeno-name = xeno figurine spawner
+ent-RMCSpawnerFigurineXeno-name = спаунер фигурок ксено
 
-ent-RMCBaseFigurineXeno-name = figurine
-ent-RMCBaseFigurineXeno-desc = A small, detailed miniature.
+ent-RMCBaseFigurineXeno-name = фигурка
+ent-RMCBaseFigurineXeno-desc = Небольшая, детализированная миниатюра.
 

@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCSniper-name = weya pmc sniper spawn point
-ent-RMCSpawnPointPMCSniper-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCSniper-name = точка спавна снайпера Weya PMC
+ent-RMCSpawnPointPMCSniper-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCSniper-name = weya pmc ghost role sniper
+ent-RMCRandomHumanoidPMCSniper-name = Weya PMC роль призрака снайпера
 

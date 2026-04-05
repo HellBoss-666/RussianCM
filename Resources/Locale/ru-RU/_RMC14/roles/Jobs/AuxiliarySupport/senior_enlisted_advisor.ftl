@@ -1,6 +1,6 @@
-ent-CMGuidebookRoleSEA-name = Senior Enlisted Advisor
-ent-CMGuidebookRoleSEA-desc = Mentor for the Marines!
+ent-CMGuidebookRoleSEA-name = Старший рядовой советник
+ent-CMGuidebookRoleSEA-desc = Наставник морской пехоты!
 
-ent-CMSpawnPointSeniorEnlistedAdvisor-name = senior enlisted advisor spawn point
-ent-CMSpawnPointSeniorEnlistedAdvisor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSeniorEnlistedAdvisor-name = Точка появления старшего рядового советника
+ent-CMSpawnPointSeniorEnlistedAdvisor-desc = Создатель заданий RMC14. 
 

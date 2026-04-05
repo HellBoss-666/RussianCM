@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentTrucker-name = trijent trucker colonist preset
+ent-RMCGearSurvivorPresetTrijentTrucker-name = предустановка колониста-дальнобойщика Trijent
 
-ent-RMCSpawnPointSurvivorTrijentTrucker-name = trijent trucker spawn point
-ent-RMCSpawnPointSurvivorTrijentTrucker-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorTrijentTrucker-name = точка спавна дальнобойщика Trijent
+ent-RMCSpawnPointSurvivorTrijentTrucker-desc = Создатель заданий RMC14. 
 

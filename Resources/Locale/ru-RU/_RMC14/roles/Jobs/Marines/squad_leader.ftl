@@ -1,24 +1,24 @@
-ent-RMCGuidebookActionFocus-name = Focus order
+ent-RMCGuidebookActionFocus-name = Порядок фокусировки
 
-ent-RMCGuidebookActionHold-name = Hold order
+ent-RMCGuidebookActionHold-name = Удержать заказ
 
-ent-RMCGuidebookActionMove-name = Move order
+ent-RMCGuidebookActionMove-name = Переместить заказ
 
-ent-CMSpawnPointSquadLeader-name = squad leader spawn point
-ent-CMSpawnPointSquadLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSquadLeader-name = точка появления командира отряда
+ent-CMSpawnPointSquadLeader-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderAlpha-name = squad leader spawn point
-ent-CMSpawnPointSquadLeaderAlpha-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSquadLeaderAlpha-name = точка появления командира отряда
+ent-CMSpawnPointSquadLeaderAlpha-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderBravo-name = squad leader spawn point
-ent-CMSpawnPointSquadLeaderBravo-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSquadLeaderBravo-name = точка появления командира отряда
+ent-CMSpawnPointSquadLeaderBravo-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderCharlie-name = squad leader spawn point
-ent-CMSpawnPointSquadLeaderCharlie-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSquadLeaderCharlie-name = точка появления командира отряда
+ent-CMSpawnPointSquadLeaderCharlie-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderDelta-name = squad leader spawn point
-ent-CMSpawnPointSquadLeaderDelta-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointSquadLeaderDelta-name = точка появления командира отряда
+ent-CMSpawnPointSquadLeaderDelta-desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleSL-name = The Squad Leader
-ent-RMCGuidebookRoleSL-desc = The Squad Leader
+ent-RMCGuidebookRoleSL-name = Лидер отряда
+ent-RMCGuidebookRoleSL-desc = Лидер отряда
 

@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidRoyalMarinesSGO-name = royal crown marines ghost role smart gun operator
+ent-RMCRandomHumanoidRoyalMarinesSGO-name = Роль призрака морской пехоты королевской короны, оператор умного оружия
 

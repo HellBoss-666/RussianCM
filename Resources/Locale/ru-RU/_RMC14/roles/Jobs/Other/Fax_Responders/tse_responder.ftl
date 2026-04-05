@@ -1,3 +1,3 @@
-ent-RMCIDCardTSEResponder-name = TSE Communications Officer ID card
-ent-RMCIDCardTSEResponder-desc = A mass produced indentification card, imprinted with the logo of the Three Suns Empire.
+ent-RMCIDCardTSEResponder-name = Удостоверение сотрудника по связям с общественностью TSE
+ent-RMCIDCardTSEResponder-desc = Удостоверение личности массового производства с логотипом Империи Трех Солнц.
 

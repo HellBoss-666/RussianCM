@@ -1,3 +1,3 @@
-ent-WeaponShotgunM42A1-name = M42A1 pump shotgun
-ent-WeaponShotgunM42A1-desc = An AEGIS Armaments classic design, the M42A1 combines close-range firepower with long term reliability. Needs to be pumped.
+ent-WeaponShotgunM42A1-name = Помповое ружье М42А1
+ent-WeaponShotgunM42A1-desc = Классическая конструкция AEGIS Armaments, M42A1 сочетает в себе огневую мощь ближнего боя с долгосрочной надежностью. 
 

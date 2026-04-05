@@ -1,3 +1,3 @@
-ent-RMCGunRackBase-name = gun rack
-ent-RMCGunRackBase-desc = AEGIS-produced gun rack for storage of long guns. While initial model was supposed to be extremely modifiable, UNMC commissioned racks with fixed slots. Some say they were cheaper, and some say the main reason was marine's ability to easily break anything more complex than a tungsten ball.
+ent-RMCGunRackBase-name = оружейная стойка
+ent-RMCGunRackBase-desc = Оружейная стойка производства AEGIS для хранения длинноствольного оружия. 
 

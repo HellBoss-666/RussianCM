@@ -1,7 +1,7 @@
-ent-RMCRandomHumanoidSurvivorScientist-name = scientist colonist ghost role
+ent-RMCRandomHumanoidSurvivorScientist-name = роль призрака ученого-колониста
 
-ent-RMCSurvivorPresetScientist-name = scientist colonist preset
+ent-RMCSurvivorPresetScientist-name = предустановка ученого-колониста
 
-ent-RMCSpawnPointSurvivorScientist-name = survivor scientist spawn point
-ent-RMCSpawnPointSurvivorScientist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorScientist-name = точка возрождения выжившего учёного
+ent-RMCSpawnPointSurvivorScientist-desc = Создатель заданий RMC14. 
 

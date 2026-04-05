@@ -1,18 +1,18 @@
-ent-RMCTargetStrange-name = felinid target
-ent-RMCTargetStrange-desc = A shooting target. You aren't quite sure what this one is, but it seems to be extra robust.
+ent-RMCTargetStrange-name = кошачья цель
+ent-RMCTargetStrange-desc = Стрельба по мишени. 
 
-ent-RMCTargetClown-name = clown target
-ent-RMCTargetClown-desc = A shooting target. This one is a clown.
+ent-RMCTargetClown-name = клоунская мишень
+ent-RMCTargetClown-desc = Стрельба по мишени. 
 
-ent-RMCTargetSyndicate-name = syndicate target
-ent-RMCTargetSyndicate-desc = A shooting target. This one is a syndicate agent.
+ent-RMCTargetSyndicate-name = цель синдиката
+ent-RMCTargetSyndicate-desc = Стрельба по мишени. 
 
-ent-RMCTargetArmored-name = shooting target
-ent-RMCTargetArmored-desc = A shooting target. This one is an armored human.
+ent-RMCTargetArmored-name = стрельба по мишени
+ent-RMCTargetArmored-desc = Стрельба по мишени. 
 
-ent-RMCTargetXeno-name = xenonid target
-ent-RMCTargetXeno-desc = A shooting target. This one is a xenonid.
+ent-RMCTargetXeno-name = ксенонидная мишень
+ent-RMCTargetXeno-desc = Стрельба по мишени. 
 
-ent-RMCTargetHuman-name = human target
-ent-RMCTargetHuman-desc = A shooting target. This one is a Human.
+ent-RMCTargetHuman-name = человеческая цель
+ent-RMCTargetHuman-desc = Стрельба по мишени. 
 

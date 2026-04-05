@@ -1,12 +1,12 @@
-ent-CMDoubleDoorColonyCommandGlassLocked-name = door
+ent-CMDoubleDoorColonyCommandGlassLocked-name = дверь
 
-ent-CMDoubleDoorColonyCommandSolidLocked-name = door
+ent-CMDoubleDoorColonyCommandSolidLocked-name = дверь
 
-ent-CMDoubleDoorColonyEngineerGlassLocked-name = door
+ent-CMDoubleDoorColonyEngineerGlassLocked-name = дверь
 
-ent-CMDoubleDoorColonyEngineerSolidLocked-name = door
+ent-CMDoubleDoorColonyEngineerSolidLocked-name = дверь
 
-ent-CMDoubleDoorColonySecurityGlassLocked-name = door
+ent-CMDoubleDoorColonySecurityGlassLocked-name = дверь
 
-ent-CMDoubleDoorColonySecuritySolidLocked-name = door
+ent-CMDoubleDoorColonySecuritySolidLocked-name = дверь
 

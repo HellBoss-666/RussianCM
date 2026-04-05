@@ -1,5 +1,5 @@
-ent-CMGuidebookRoleDoctor-name = Doctor
+ent-CMGuidebookRoleDoctor-name = Доктор
 
-ent-CMSpawnPointDoctor-name = doctor spawn point
-ent-CMSpawnPointDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointDoctor-name = точка появления доктора
+ent-CMSpawnPointDoctor-desc = Создатель заданий RMC14. 
 

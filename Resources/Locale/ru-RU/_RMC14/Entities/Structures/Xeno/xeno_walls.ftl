@@ -1,27 +1,27 @@
-ent-WallXenoResinWeak-name = weak resin wall
-ent-WallXenoResinWeak-desc = Weird slime solidified into a wall. It already looks on the verge of collapsing...
+ent-WallXenoResinWeak-name = слабая смоляная стена
+ent-WallXenoResinWeak-desc = Странная слизь застыла в стене. 
 
-ent-WallXenoMembraneThick-name = thick resin membrane
-ent-WallXenoMembraneThick-desc = Weird thick slime just translucent enough to let light pass through.
+ent-WallXenoMembraneThick-name = толстая смоляная мембрана
+ent-WallXenoMembraneThick-desc = Странная густая слизь, достаточно прозрачная, чтобы пропускать свет.
 
-ent-WallXenoMembrane-name = resin membrane
-ent-WallXenoMembrane-desc = Weird slime translucent enough to let light pass through.
+ent-WallXenoMembrane-name = смоляная мембрана
+ent-WallXenoMembrane-desc = Странная слизь, достаточно прозрачная, чтобы пропускать свет.
 
-ent-BaseMembraneXeno-name = resin membrane
-ent-BaseMembraneXeno-desc = Keeps the air in and the greytide out.
+ent-BaseMembraneXeno-name = смоляная мембрана
+ent-BaseMembraneXeno-desc = Задерживает воздух и серую волну снаружи.
 
-ent-WallXenoResinThick-name = thick resin wall
-ent-WallXenoResinThick-desc = Weird slime solidified into a thick wall.
+ent-WallXenoResinThick-name = толстая смоляная стена
+ent-WallXenoResinThick-desc = Странная слизь превратилась в толстую стену.
 
-ent-WallXenoResin-name = resin wall
-ent-WallXenoResin-desc = Weird slime solidified into a wall.
+ent-WallXenoResin-name = смоляная стена
+ent-WallXenoResin-desc = Странная слизь застыла в стене.
 
-ent-WallXenoResinWeedbound-name = weedbound resin wall
-ent-WallXenoResinWeedbound-desc = Weird slime solidified into a wall, bound to weeds.
+ent-WallXenoResinWeedbound-name = смоляная стена, заросшая сорняками
+ent-WallXenoResinWeedbound-desc = Странная слизь застыла в стене, связанной с сорняками.
 
-ent-WallXenoResinThickWeedbound-name = thick weedbound resin wall
-ent-WallXenoResinThickWeedbound-desc = Weird slime solidified into a thick wall, bound to weeds.
+ent-WallXenoResinThickWeedbound-name = толстая смоляная стена, заросшая сорняками
+ent-WallXenoResinThickWeedbound-desc = Странная слизь превратилась в толстую стену, связанную с сорняками.
 
-ent-WallXenoResinThickSurge-name = Unstable resin wall
-ent-WallXenoResinThickSurge-desc = A hastily-constructed resin wall. It won't last long.
+ent-WallXenoResinThickSurge-name = Нестабильная смоляная стена
+ent-WallXenoResinThickSurge-desc = Наспех возведенная смоляная стена. 
 

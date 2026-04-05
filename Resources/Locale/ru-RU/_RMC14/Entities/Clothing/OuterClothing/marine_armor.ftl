@@ -1,147 +1,147 @@
-ent-RMCArmorXM4-name = XM4 pattern intel armor
-ent-RMCArmorXM4-desc = Tougher than steel, quieter than whispers, the XM4 Intel Armor provides capable protection combined with an experimental integrated motion tracker. It took an R&D team a weekend to develop and costs more than the Chinook Station... probably. When worn, uniform accessories such as webbing cannot be attached due to the motion sensors occupying the clips.
+ent-RMCArmorXM4-name = Модель XM4 Intel Броня
+ent-RMCArmorXM4-desc = Прочнее стали и тише шепота XM4 Intel Броня обеспечивает надежную защиту в сочетании с экспериментальным встроенным трекером движения. 
 
-ent-CMArmorM2MP-name = M2 pattern mp armor
-ent-CMArmorM2MP-desc = A standard UNMC M2 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-CMArmorM2MP-name = Выкройка М2 мп Броня
+ent-CMArmorM2MP-desc = Стандартная нагрудник модели UNMC M2. 
 
-ent-CMArmorSmartGunCombatHarness-name = ML66A combat harness
-ent-CMArmorSmartGunCombatHarness-desc = A heavy protective vest designed to be worn with the ML66A Smart Gun System. It has specially designed straps and reinforcement to carry the Smartgun and accessories.
+ent-CMArmorSmartGunCombatHarness-name = Боевая обвязка МЛ66А
+ent-CMArmorSmartGunCombatHarness-desc = Тяжелый защитный жилет, предназначенный для ношения с системой Smart Gun System ML66A. 
 
-ent-RMCArmorUDEPForecon-name = UDEP thermal poncho
-ent-RMCArmorUDEPForecon-desc = UDEP or the Ultra Diffusive Environmental Poncho is a camouflaged rain-cover worn to protect against the elements and chemical spills. It's commonly treated with an infrared absorbing coating, making a marine almost invisible in the rain. Favoured by UNMC specialists for its comfort and practicality.
+ent-RMCArmorUDEPForecon-name = термо-пончо UDEP
+ent-RMCArmorUDEPForecon-desc = UDEP или Ultra Diffusive Environmental Poncho — это замаскированный дождевик, который носят для защиты от непогоды и разливов химикатов. 
 
-ent-CMArmorM45-name = M45 pattern ghillie armor
-ent-CMArmorM45-desc = A lightweight ghillie camouflage suit, used by UNMC snipers on recon missions. Very lightweight, but doesn't protect much.
+ent-CMArmorM45-name = Модель M45 Ghillie Броня
+ent-CMArmorM45-desc = Легкий маскировочный костюм, используемый снайперами UNMC в разведывательных миссиях. 
 
-ent-CMArmorM35-name = M35 pyrotechnician armor
-ent-CMArmorM35-desc = A custom set of M35 armor designed for use by UNMC Pyrotechnicians.
+ent-CMArmorM35-name = М35 пиротехник Броня
+ent-CMArmorM35-desc = Специальный комплект Брони M35, предназначенный для использования пиротехниками UNMC.
 
-ent-CMArmorM4-name = M4 pattern marine armor
-ent-CMArmorM4-desc = A well tinkered and crafted hybrid of Smart-Gunner mesh and M3 pattern plates. Robust, yet nimble, with room for all your pouches.
+ent-CMArmorM4-name = Выкройка М4 Морпех Броня
+ent-CMArmorM4-desc = Хорошо продуманный и продуманный гибрид сетки Smart-Gunner и пластин с узором M3. 
 
-ent-CMArmorM3VLSynth-name = M3A1 synthetic utility vest
-ent-CMArmorM3VLSynth-desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
+ent-CMArmorM3VLSynth-name = Синтетический жилет M3A1
+ent-CMArmorM3VLSynth-desc = Этот вариант вездесущего жилета модели M3 был значительно модифицирован и стал сверхлегким, обеспечивая нулевую защиту в обмен на максимальную мобильность и дополнительное пространство для хранения. 
 
-ent-CMArmorM3VLFlakVest-name = M3-VL pattern flak vest
-ent-CMArmorM3VLFlakVest-desc = A combination of the standard non-combat M3-VL ballistics vest and M70 flak jacket, this piece of armor has been distributed to dropship crew to keep them safe from threats external and internal...
+ent-CMArmorM3VLFlakVest-name = Бронежилет модели М3-ВЛ
+ent-CMArmorM3VLFlakVest-desc = Сочетая стандартный небоевой баллистический жилет M3-VL и бронежилет M70, эта часть Брони была роздана экипажу десантного корабля, чтобы защитить их от внешних и внутренних угроз...
 
-ent-CMArmorM3VLBallistics-name = M3-VL pattern ballistics vest
-ent-CMArmorM3VLBallistics-desc = Up until 2122 Marine non-combat personnel were issued non-standardized ballistics vests, though the lack of IMP compatibility and suit lamps proved time and time again inefficient. This modified M3-L shell is the result of a 6-year R&D program; It provides utility, protection, AND comfort to all Marine non-combat personnel.
+ent-CMArmorM3VLBallistics-name = Бронежилет модели М3-ВЛ
+ent-CMArmorM3VLBallistics-desc = Вплоть до 2122 года небоевой персонал Морпеха получал нестандартные баллистические жилеты, хотя отсутствие совместимости с IMP и лампы на костюмах снова и снова оказывались неэффективными. 
 
-ent-RMCArmorM3Scout-name = M3-S light armor
-ent-RMCArmorM3Scout-desc = A custom set of M3 armor designed for Marine Scouts.
+ent-RMCArmorM3Scout-name = М3-С легкая Броня
+ent-RMCArmorM3Scout-desc = Специальный комплект Брони M3, разработанный для разведчиков Морпеха.
 
-ent-CMArmorPress-name = press body armor
-ent-CMArmorPress-desc = Body armor used by war correspondents in battles and wars across the universe.
+ent-CMArmorPress-name = пресс-корпус Броня
+ent-CMArmorPress-desc = Тело Броня используется военными корреспондентами в битвах и войнах по всей вселенной.
 
-ent-RMCArmorM3LightVariants-name = M3-L pattern light armor
-ent-RMCArmorM3LightVariants-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightVariants-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightVariants-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-CMArmorM3Light-name = M3-L pattern light armor
-ent-CMArmorM3Light-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-CMArmorM3Light-name = Узорный светильник M3-L Броня
+ent-CMArmorM3Light-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-RMCArmorM3TDemo-name = M3-T light armor
-ent-RMCArmorM3TDemo-desc = A custom set of M3 armor designed for users of long-ranged explosive weaponry. Provides better protection against explosives than standard M3 armor, while remaining nimble.
+ent-RMCArmorM3TDemo-name = М3-Т легкая Броня
+ent-RMCArmorM3TDemo-desc = Специальный комплект Брони М3, предназначенный для пользователей взрывного оружия дальнего действия. 
 
-ent-RMCArmorM3G4-name = M3-G4 grenadier armor
-ent-RMCArmorM3G4-desc = A custom set of M3 armor packed to the brim with padding, plating, and every form of ballistic protection under the sun. Used exclusively by Marine Grenadiers.
+ent-RMCArmorM3G4-name = Гренадер М3-Г4 Броня
+ent-RMCArmorM3G4-desc = Специальный комплект Брони M3, доверху наполненный набивкой, обшивкой и всеми видами баллистической защиты под солнцем. 
 
-ent-RMCArmorM3General-name = M3 pattern general officer armor
-ent-RMCArmorM3General-desc = A well-crafted suit of M3 Pattern Armor with a gold shine. It looks very expensive, but shockingly fairly easy to carry and wear.
+ent-RMCArmorM3General-name = Генерал-офицер образца М3 Броня
+ent-RMCArmorM3General-desc = Качественный костюм M3 Pattern Броня с золотым блеском. 
 
-ent-RMCArmorM3CO-name = M3 pattern commanding officer armor
-ent-RMCArmorM3CO-desc = A robust, well-polished suit of armor for the Commanding Officer. Custom-made to fit its owner with special straps to operate a smart gun. Show those Marines who's really in charge.
+ent-RMCArmorM3CO-name = Командир образца М3 Броня
+ent-RMCArmorM3CO-desc = Прочный, отполированный костюм Брони для командира. 
 
-ent-RMCArmorM3SO-name = M3 pattern officer armor
-ent-RMCArmorM3SO-desc = A well-crafted suit of M3 Pattern Armor typically found in the hands of higher-ranking officers. Useful for letting your men know who is in charge when taking to the field.
+ent-RMCArmorM3SO-name = Офицер М3 Броня
+ent-RMCArmorM3SO-desc = Хорошо сделанный костюм Брони образца M3 обычно находится в руках офицеров более высокого ранга. 
 
-ent-CMArmorM3WO-name = M3 pattern chief MP armor
-ent-CMArmorM3WO-desc = A well-crafted suit of M3 Pattern Armor typically distributed to Chief MPs. Useful for letting your men know who is in charge.
+ent-CMArmorM3WO-name = Начальник образца М3 МП Броня
+ent-CMArmorM3WO-desc = Хорошо изготовленный костюм Брони образца M3, который обычно раздают старшим депутатам парламента. 
 
-ent-CMArmorM3Warden-name = M3 pattern warden MP armor
-ent-CMArmorM3Warden-desc = A well-crafted suit of M3 Pattern Armor typically distributed to Wardens. Useful for letting your men know who is in charge.
+ent-CMArmorM3Warden-name = Надзиратель образца М3 МП Броня
+ent-CMArmorM3Warden-desc = Хорошо изготовленный костюм Брони образца M3, который обычно раздают Стражам. 
 
-ent-RMCArmorM3HeavyVariants-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavyVariants-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavyVariants-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavyVariants-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-CMArmorM3Heavy-name = M3-EOD pattern heavy armor
-ent-CMArmorM3Heavy-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-CMArmorM3Heavy-name = Модель M3-EOD тяжелая Броня
+ent-CMArmorM3Heavy-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-CMArmorB12-name = B12 pattern marine armor
-ent-CMArmorB12-desc = A lightweight suit of carbon fiber body armor built for quick movement. Designed in a lovely forest green. Use it to toggle the built-in flashlight.
+ent-CMArmorB12-name = Узор B12 Морпех Броня
+ent-CMArmorB12-desc = Легкий костюм Броня из углеродного волокна, созданный для быстрого передвижения. 
 
-ent-RMCArmorM3MediumSmooth-name = M3 pattern smooth marine armor
-ent-RMCArmorM3MediumSmooth-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumSmooth-name = Узор М3 гладкий Морпех Броня
+ent-RMCArmorM3MediumSmooth-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3MediumSkull-name = M3 pattern skull marine armor
-ent-RMCArmorM3MediumSkull-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumSkull-name = Череп узор М3 Морпех Броня
+ent-RMCArmorM3MediumSkull-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3MediumCarrier-name = M3 pattern carrier marine armor
-ent-RMCArmorM3MediumCarrier-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumCarrier-name = Модель носителя М3 Морпех Броня
+ent-RMCArmorM3MediumCarrier-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3MediumRidged-name = M3 pattern ridged marine armor
-ent-RMCArmorM3MediumRidged-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumRidged-name = Узор М3 ребристый Морпех Броня
+ent-RMCArmorM3MediumRidged-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3MediumPadless-name = M3 pattern padless marine armor
-ent-RMCArmorM3MediumPadless-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumPadless-name = Модель М3 без лопасти Морпех Броня
+ent-RMCArmorM3MediumPadless-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3MediumPadded-name = M3 pattern padded marine armor
-ent-RMCArmorM3MediumPadded-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumPadded-name = Узор М3 с набивкой Морпех Броня
+ent-RMCArmorM3MediumPadded-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3MediumVariants-name = M3 pattern marine armor
-ent-RMCArmorM3MediumVariants-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorM3MediumVariants-name = Выкройка М3 Морпех Броня
+ent-RMCArmorM3MediumVariants-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-CMArmorM3Medium-name = M3 pattern marine armor
-ent-CMArmorM3Medium-desc = A standard UNMC M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-CMArmorM3Medium-name = Выкройка М3 Морпех Броня
+ent-CMArmorM3Medium-desc = Стандартная нагрудник модели UNMC M3. 
 
-ent-RMCArmorM3HeavyPadded-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavyPadded-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavyPadded-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavyPadded-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-RMCArmorM3HeavyPadless-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavyPadless-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavyPadless-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavyPadless-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-RMCArmorM3HeavyRidged-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavyRidged-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavyRidged-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavyRidged-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-RMCArmorM3HeavyCarrier-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavyCarrier-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavyCarrier-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavyCarrier-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-RMCArmorM3HeavySkull-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavySkull-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavySkull-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavySkull-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-RMCArmorM3HeavySmooth-name = M3-EOD pattern heavy armor
-ent-RMCArmorM3HeavySmooth-desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and biological threats.
+ent-RMCArmorM3HeavySmooth-name = Модель M3-EOD тяжелая Броня
+ent-RMCArmorM3HeavySmooth-desc = Более тяжелая версия стандартной Брони модели M3, Броня в первую очередь предназначена для противодействия баллистическим, взрывным и внутренним повреждениям, с недостатком увеличения размера и, следовательно, снижения скорости движения, а также небольшой дополнительной защитой от стандартных ударов тупым предметом и биологических угроз.
 
-ent-RMCArmorM3LightPadded-name = M3-L pattern light armor
-ent-RMCArmorM3LightPadded-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightPadded-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightPadded-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-RMCArmorM3LightPadless-name = M3-L pattern light armor
-ent-RMCArmorM3LightPadless-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightPadless-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightPadless-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-RMCArmorM3LightRidged-name = M3-L pattern light armor
-ent-RMCArmorM3LightRidged-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightRidged-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightRidged-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-RMCArmorM3LightCarrier-name = M3-L pattern light armor
-ent-RMCArmorM3LightCarrier-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightCarrier-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightCarrier-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-RMCArmorM3LightSkull-name = M3-L pattern light armor
-ent-RMCArmorM3LightSkull-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightSkull-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightSkull-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-RMCArmorM3LightSmooth-name = M3-L pattern light armor
-ent-RMCArmorM3LightSmooth-desc = A lighter, cut down version of the standard M3 pattern armor. It sacrifices durability for more speed.
+ent-RMCArmorM3LightSmooth-name = Узорный светильник M3-L Броня
+ent-RMCArmorM3LightSmooth-desc = Более легкая, урезанная версия стандартной модели M3 «Броня». 
 
-ent-CMArmorM3VLSynthJungle-name = M3A1 synthetic utility vest (Jungle)
-ent-CMArmorM3VLSynthJungle-desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
+ent-CMArmorM3VLSynthJungle-name = Синтетический жилет М3А1 (Джунгли)
+ent-CMArmorM3VLSynthJungle-desc = Этот вариант вездесущего жилета модели M3 был значительно модифицирован и стал сверхлегким, обеспечивая нулевую защиту в обмен на максимальную мобильность и дополнительное пространство для хранения. 
 
-ent-CMArmorM3VLSynthDesert-name = M3A1 synthetic utility vest (Desert)
-ent-CMArmorM3VLSynthDesert-desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
+ent-CMArmorM3VLSynthDesert-name = Синтетический жилет М3А1 (Пустыня)
+ent-CMArmorM3VLSynthDesert-desc = Этот вариант вездесущего жилета модели M3 был значительно модифицирован и стал сверхлегким, обеспечивая нулевую защиту в обмен на максимальную мобильность и дополнительное пространство для хранения. 
 
-ent-CMArmorM3VLSynthSnow-name = M3A1 synthetic utility vest (Snow)
-ent-CMArmorM3VLSynthSnow-desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
+ent-CMArmorM3VLSynthSnow-name = Жилет синтетический М3А1 (Снег)
+ent-CMArmorM3VLSynthSnow-desc = Этот вариант вездесущего жилета модели M3 был значительно модифицирован и стал сверхлегким, обеспечивая нулевую защиту в обмен на максимальную мобильность и дополнительное пространство для хранения. 
 
-ent-CMArmorM3VLSynthClassic-name = M3A1 synthetic utility vest (Classic)
-ent-CMArmorM3VLSynthClassic-desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
+ent-CMArmorM3VLSynthClassic-name = Жилет синтетический M3A1 (Classic)
+ent-CMArmorM3VLSynthClassic-desc = Этот вариант вездесущего жилета модели M3 был значительно модифицирован и стал сверхлегким, обеспечивая нулевую защиту в обмен на максимальную мобильность и дополнительное пространство для хранения. 
 
-ent-CMArmorM3VLSynthUrban-name = M3A1 synthetic utility vest (Urban)
-ent-CMArmorM3VLSynthUrban-desc = This variant of the ubiquitous M3 pattern vest has been extensively modified to become superlight, providing zero protection in exchange for maximum mobility and added storage. Compliant will all synthetic armor regulations.
+ent-CMArmorM3VLSynthUrban-name = Синтетический жилет М3А1 (Городской)
+ent-CMArmorM3VLSynthUrban-desc = Этот вариант вездесущего жилета модели M3 был значительно модифицирован и стал сверхлегким, обеспечивая нулевую защиту в обмен на максимальную мобильность и дополнительное пространство для хранения. 
 

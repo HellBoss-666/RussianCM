@@ -1,36 +1,36 @@
-ent-RMCUraniumOre-name = pitchblende
-ent-RMCUraniumOre-desc = An ore containing Uranium. Just looking at it makes your head feel fuzzy... it's slightly luminescent.
+ent-RMCUraniumOre-name = настуран
+ent-RMCUraniumOre-desc = Руда, содержащая уран. 
 
-ent-RMCSilverOre-name = native silver ore
+ent-RMCSilverOre-name = самородная серебряная руда
 
-ent-RMCPlatinumOre-name = raw platinum
+ent-RMCPlatinumOre-name = необработанная платина
 
-ent-RMCPlasmaOre-name = phoron crystals
+ent-RMCPlasmaOre-name = кристаллы форонов
 
-ent-RMCIronOre-name = hematite
+ent-RMCIronOre-name = гематит
 
-ent-RMCGoldOre-name = native gold ore
+ent-RMCGoldOre-name = самородная золотая руда
 
-ent-RMCDiamondOre-name = diamonds
+ent-RMCDiamondOre-name = бриллианты
 
-ent-RMCCoal-name = carbonaceous rock
+ent-RMCCoal-name = углеродистая порода
 
-ent-RMCOreBase-name = item
+ent-RMCOreBase-name = элемент
 
-ent-RMCCoal1-name = carbonaceous rock
+ent-RMCCoal1-name = углеродистая порода
 
-ent-RMCGoldOre1-name = native gold ore
+ent-RMCGoldOre1-name = самородная золотая руда
 
-ent-RMCDiamondOre1-name = diamonds
+ent-RMCDiamondOre1-name = бриллианты
 
-ent-RMCIronOre1-name = hematite
+ent-RMCIronOre1-name = гематит
 
-ent-RMCPlasmaOre1-name = phoron crystals
+ent-RMCPlasmaOre1-name = кристаллы форонов
 
-ent-RMCPlatinumOre1-name = raw platinum
+ent-RMCPlatinumOre1-name = необработанная платина
 
-ent-RMCSilverOre1-name = native silver ore
+ent-RMCSilverOre1-name = самородная серебряная руда
 
-ent-RMCUraniumOre1-name = pitchblende
-ent-RMCUraniumOre1-desc = An ore containing Uranium. Just looking at it makes your head feel fuzzy... it's slightly luminescent.
+ent-RMCUraniumOre1-name = настуран
+ent-RMCUraniumOre1-desc = Руда, содержащая уран. 
 

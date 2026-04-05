@@ -1,2 +1,2 @@
-ent-RMCActionViewIntelObjectives-name = View Intel Objectives
+ent-RMCActionViewIntelObjectives-name = Посмотреть цели разведки
 

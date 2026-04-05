@@ -1,2 +1,2 @@
-ent-RMCHeadXeno-name = xenonid head
+ent-RMCHeadXeno-name = голова ксено
 

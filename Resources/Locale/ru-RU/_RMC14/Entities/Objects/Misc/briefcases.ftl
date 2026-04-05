@@ -1,9 +1,9 @@
-ent-RMCBriefcase-name = briefcase
-ent-RMCBriefcase-desc = It's made of AUTHENTIC faux-leather and has a price-tag still attached. Its owner must be a real professional.
+ent-RMCBriefcase-name = портфель
+ent-RMCBriefcase-desc = Он сделан из НАСТОЯЩЕЙ искусственной кожи, и к нему прикреплен ценник. 
 
-ent-RMCBriefcaseStowAway-name = briefcase
-ent-RMCBriefcaseStowAway-desc = It's made of AUTHENTIC faux-leather and has a price-tag still attached. Its owner must be a real professional.
+ent-RMCBriefcaseStowAway-name = портфель
+ent-RMCBriefcaseStowAway-desc = Он сделан из НАСТОЯЩЕЙ искусственной кожи, и к нему прикреплен ценник. 
 
-ent-RMCBriefcasePaperPen-name = briefcase
-ent-RMCBriefcasePaperPen-desc = It's made of AUTHENTIC faux-leather and has a price-tag still attached. Its owner must be a real professional.
+ent-RMCBriefcasePaperPen-name = портфель
+ent-RMCBriefcasePaperPen-desc = Он сделан из НАСТОЯЩЕЙ искусственной кожи, и к нему прикреплен ценник. 
 

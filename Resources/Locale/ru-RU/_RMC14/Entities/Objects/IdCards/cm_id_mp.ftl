@@ -1,9 +1,9 @@
-ent-CMIDCardMilitaryPolice-name = military police ID card
-ent-CMIDCardMilitaryPolice-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardMilitaryPolice-name = удостоверение личности военной полиции
+ent-CMIDCardMilitaryPolice-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardMilitaryWarden-name = warden ID card
-ent-CMIDCardMilitaryWarden-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardMilitaryWarden-name = удостоверение начальника тюрьмы
+ent-CMIDCardMilitaryWarden-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardChiefMP-name = chief MP ID card
-ent-CMIDCardChiefMP-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardChiefMP-name = удостоверение главного депутата парламента
+ent-CMIDCardChiefMP-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 

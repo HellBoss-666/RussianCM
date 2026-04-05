@@ -1,9 +1,9 @@
-ent-RMCOuterClothingExternalWebbingForeconSurvivorFill-name = external webbing
-ent-RMCOuterClothingExternalWebbingForeconSurvivorFill-desc = Designed to be worn over a jumpsuit rather than clipped on.
+ent-RMCOuterClothingExternalWebbingForeconSurvivorFill-name = внешняя разгрузка
+ent-RMCOuterClothingExternalWebbingForeconSurvivorFill-desc = Предназначен для ношения поверх комбинезона, а не для пристегивания.
 
-ent-RMCArmorUDEPForeconFilled-name = UDEP thermal poncho
-ent-RMCArmorUDEPForeconFilled-desc = UDEP or the Ultra Diffusive Environmental Poncho is a camouflaged rain-cover worn to protect against the elements and chemical spills. It's commonly treated with an infrared absorbing coating, making a marine almost invisible in the rain. Favoured by UNMC specialists for its comfort and practicality.
+ent-RMCArmorUDEPForeconFilled-name = термо-пончо UDEP
+ent-RMCArmorUDEPForeconFilled-desc = UDEP или Ultra Diffusive Environmental Poncho — это замаскированный дождевик, который носят для защиты от непогоды и разливов химикатов.
 
-ent-RMCJacketWindbreakerForeconFilled-name = green windbreaker
-ent-RMCJacketWindbreakerForeconFilled-desc = A green windbreaker.
+ent-RMCJacketWindbreakerForeconFilled-name = зеленая ветровка
+ent-RMCJacketWindbreakerForeconFilled-desc = Зеленая ветровка.
 

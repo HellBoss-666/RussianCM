@@ -1,9 +1,9 @@
-ent-CMCoatDressBluesGeneral-name = marine officer dress blues jacket
-ent-CMCoatDressBluesGeneral-desc = The jacket of the legendary Marine dress blues, virtually unchanged since the 19th century. Features the sleek dark design of the uniform worn by a commissioned officer.
+ent-CMCoatDressBluesGeneral-name = Морпех офицерское платье синий пиджак
+ent-CMCoatDressBluesGeneral-desc = Жакет легендарного синего цвета Морпеха, практически не изменившийся с 19 века. 
 
-ent-CMCoatDressBluesSenior-name = marine NCO dress blues jacket
-ent-CMCoatDressBluesSenior-desc = The jacket of the legendary Marine dress blues, virtually unchanged since the 19th century. Features the adornments of a decorated non-commissioned officer. Heritage, embodied.
+ent-CMCoatDressBluesSenior-name = Морпех унтер-офицер синий пиджак
+ent-CMCoatDressBluesSenior-desc = Жакет легендарного синего цвета Морпеха, практически не изменившийся с 19 века. 
 
-ent-CMCoatDressBluesEnlisted-name = marine enlisted dress blues jacket
-ent-CMCoatDressBluesEnlisted-desc = The jacket of the legendary Marine dress blues, virtually unchanged since the 19th century. You're wearing history, Marine. Don't let your ancestors down.
+ent-CMCoatDressBluesEnlisted-name = Морпех военнослужащий синий пиджак
+ent-CMCoatDressBluesEnlisted-desc = Жакет легендарного синего цвета Морпеха, практически не изменившийся с 19 века. 
 

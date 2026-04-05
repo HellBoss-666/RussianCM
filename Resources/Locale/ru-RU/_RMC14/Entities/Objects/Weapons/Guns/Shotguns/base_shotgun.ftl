@@ -1,7 +1,7 @@
-ent-CMShellShotgunBase-name = handful of shotgun shell
-ent-CMShellShotgunBase-desc = A handful of rounds to reload on the go.
+ent-CMShellShotgunBase-name = горсть патронов для дробовика
+ent-CMShellShotgunBase-desc = Несколько патронов, которые можно перезарядить на ходу.
 
-ent-RMCBaseWeaponShotgun-name = item
+ent-RMCBaseWeaponShotgun-name = элемент
 
-ent-RMCBaseBreechloader-name = item
+ent-RMCBaseBreechloader-name = элемент
 

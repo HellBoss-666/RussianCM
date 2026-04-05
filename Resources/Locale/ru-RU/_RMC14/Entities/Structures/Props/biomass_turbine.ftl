@@ -1,11 +1,11 @@
-ent-RMCPropTurbineStrutsBorder-name = power turbine warning stripes
+ent-RMCPropTurbineStrutsBorder-name = Предупреждающие полосы на силовых турбинах
 
-ent-RMCPropTurbineStrutsRight-name = power turbine struts
-ent-RMCPropTurbineStrutsRight-desc = Pipes, or maybe support struts that lead into, or perhaps support that big ol' turbine.
+ent-RMCPropTurbineStrutsRight-name = стойки силовой турбины
+ent-RMCPropTurbineStrutsRight-desc = Трубы или, может быть, опорные стойки, которые ведут или, возможно, поддерживают эту большую турбину.
 
-ent-RMCPropTurbine-name = power turbine
-ent-RMCPropTurbine-desc = A gigantic turbine that runs on god knows what. It could probably be turned on by someone with the correct know-how.
+ent-RMCPropTurbine-name = силовая турбина
+ent-RMCPropTurbine-desc = Гигантская турбина, работающая бог знает на чем. 
 
-ent-RMCPropTurbineStrutsLeft-name = power turbine struts
-ent-RMCPropTurbineStrutsLeft-desc = Pipes, or maybe support struts that lead into, or perhaps support that big ol' turbine.
+ent-RMCPropTurbineStrutsLeft-name = стойки силовой турбины
+ent-RMCPropTurbineStrutsLeft-desc = Трубы или, может быть, опорные стойки, которые ведут или, возможно, поддерживают эту большую турбину.
 

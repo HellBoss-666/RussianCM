@@ -1,3 +1,3 @@
-ent-RMCFoodGoldenApple-name = golden apple
-ent-RMCFoodGoldenApple-desc = Emblazoned upon the apple is the word 'Kallisti'.
+ent-RMCFoodGoldenApple-name = золотое яблоко
+ent-RMCFoodGoldenApple-desc = На яблоке изображено слово «Каллисти».
 

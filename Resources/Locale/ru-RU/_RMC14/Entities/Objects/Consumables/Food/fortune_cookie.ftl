@@ -1,9 +1,9 @@
-ent-CMFortuneCookiePaper-name = fortune
-ent-CMFortuneCookiePaper-desc = The fortune reads: The end is near...and it's all your fault.
+ent-CMFortuneCookiePaper-name = удача
+ent-CMFortuneCookiePaper-desc = Судьба гласит: Конец близок... и во всем виновата ты.
 
-ent-CMFortuneCookieCracked-name = broken fortune cookie
-ent-CMFortuneCookieCracked-desc = A golden brown fortune cookie. Some say the paper inside even has the ability to predict the future, whatever that means.
+ent-CMFortuneCookieCracked-name = сломанное печенье с предсказанием
+ent-CMFortuneCookieCracked-desc = Золотисто-коричневое печенье с предсказанием. 
 
-ent-CMFortuneCookie-name = fortune cookie
-ent-CMFortuneCookie-desc = A golden brown fortune cookie. Some say the paper inside even has the ability to predict the future, whatever that means.
+ent-CMFortuneCookie-name = печенье с предсказанием
+ent-CMFortuneCookie-desc = Золотисто-коричневое печенье с предсказанием. 
 

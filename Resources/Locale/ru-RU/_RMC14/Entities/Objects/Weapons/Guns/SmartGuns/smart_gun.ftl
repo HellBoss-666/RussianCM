@@ -1,45 +1,45 @@
-ent-RMCBulletSmartGun10x30mmHT-name = ht bullet (10x30mm)
-ent-RMCBulletSmartGun10x30mmHT-desc = If you can see this you're probably dead!
+ent-RMCBulletSmartGun10x30mmHT-name = хт пуля (10х30мм)
+ent-RMCBulletSmartGun10x30mmHT-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCBulletSmartGun10x30mmirradiated-name = irradiated bullet (10x30mm)
-ent-RMCBulletSmartGun10x30mmirradiated-desc = If you can see this you're probably dead!
+ent-RMCBulletSmartGun10x30mmirradiated-name = облученная пуля (10х30мм)
+ent-RMCBulletSmartGun10x30mmirradiated-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMBulletSmartGun10x30mm-name = bullet (10x30mm)
-ent-CMBulletSmartGun10x30mm-desc = If you can see this you're probably dead!
+ent-CMBulletSmartGun10x30mm-name = пуля (10х30мм)
+ent-CMBulletSmartGun10x30mm-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCCartridgeSmartGun10x30mmHT-name = cartridge
+ent-RMCCartridgeSmartGun10x30mmHT-name = картридж
 
-ent-RMCCartridgeSmartGun10x30mmirradiated-name = cartridge
+ent-RMCCartridgeSmartGun10x30mmirradiated-name = картридж
 
-ent-CMCartridgeSmartGun10x30mm-name = cartridge
+ent-CMCartridgeSmartGun10x30mm-name = картридж
 
-ent-RMCMagazineSmartGunHT-name = item
+ent-RMCMagazineSmartGunHT-name = элемент
 
-ent-RMCMagazineSmartGunirradiated-name = item
+ent-RMCMagazineSmartGunirradiated-name = элемент
 
-ent-RMCMagazineSmartGun-name = item
+ent-RMCMagazineSmartGun-name = элемент
 
-ent-RMCSmartGunRoyal-name = ML66C 'royal' smart gun
-ent-RMCSmartGunRoyal-desc = The actual firearm in the 2-piece ML66C Smart Gun System. This variant is used by the Three Sun Empire's Royal Crown Marine units. You may toggle firing restrictions by using a special action.
+ent-RMCSmartGunRoyal-name = «Королевский» умный пистолет ML66C
+ent-RMCSmartGunRoyal-desc = Настоящее огнестрельное оружие в системе Smart Gun System ML66C, состоящей из двух частей. 
 
-ent-RMCSmartGunCLF-name = ML66B 'freedom' smart gun
-ent-RMCSmartGunCLF-desc = The actual firearm in the 4-piece ML66B Smartgun System. Essentially a heavy, mobile machinegun. This one has the CLF logo carved over the manufacturing stamp.
+ent-RMCSmartGunCLF-name = Умный пистолет ML66B «Свобода»
+ent-RMCSmartGunCLF-desc = Настоящее огнестрельное оружие в системе ML66B Smartgun, состоящей из четырех частей. 
 
-ent-RMCSmartGunCO-name = ML66B 'cavalier' smart gun
-ent-RMCSmartGunCO-desc = The actual firearm in the Smart Gun System. Back order only. Besides a more robust weapons casing, an ID lock system and a fancy paintjob, the gun's performance is identical to the standard-issue ML66A.
+ent-RMCSmartGunCO-name = Умный пистолет ML66B «кавалер»
+ent-RMCSmartGunCO-desc = Настоящее огнестрельное оружие в системе Smart Gun. 
 
-ent-RMCSmartGunWhiteOut-name = ML79A 'Breaker' smart gun
-ent-RMCSmartGunWhiteOut-desc = The actual firearm in the 4-piece ML79A Smartgun System, modified for extra power. If you have this, you're about to bring some serious pain to anyone in your way. You may toggle firing restrictions by using a special action.
+ent-RMCSmartGunWhiteOut-name = Умный пистолет ML79A «Breaker»
+ent-RMCSmartGunWhiteOut-desc = Настоящее огнестрельное оружие в системе ML79A Smartgun, состоящей из четырех частей, модифицированное для увеличения мощности. 
 
-ent-RMCSmartGunPMC-name = ML79A smart gun
-ent-RMCSmartGunPMC-desc = The actual firearm in the 4-piece ML79A Smartgun System. If you have this, you're about to bring some serious pain to anyone in your way. You may toggle firing restrictions by using a special action.
+ent-RMCSmartGunPMC-name = Умный пистолет МЛ79А
+ent-RMCSmartGunPMC-desc = Настоящее огнестрельное оружие в системе ML79A Smartgun, состоящей из четырех частей. 
 
-ent-RMCSmartGunNoCamo-name = ML66A smart gun
-ent-RMCSmartGunNoCamo-desc = The actual firearm in the Smart Gun System. Essentially a heavy, mobile machinegun.
+ent-RMCSmartGunNoCamo-name = Умный пистолет МЛ66А
+ent-RMCSmartGunNoCamo-desc = Настоящее огнестрельное оружие в системе Smart Gun. 
 
-ent-RMCSmartGun-name = ML66A smart gun
-ent-RMCSmartGun-desc = The actual firearm in the Smart Gun System. Essentially a heavy, mobile machinegun.
+ent-RMCSmartGun-name = Умный пистолет МЛ66А
+ent-RMCSmartGun-desc = Настоящее огнестрельное оружие в системе Smart Gun. 
 
-ent-RMCSmartGunUNMC-name = ML66A smart gun
-ent-RMCSmartGunUNMC-desc = The actual firearm in the Smart Gun System. Essentially a heavy, mobile machinegun.
+ent-RMCSmartGunUNMC-name = Умный пистолет МЛ66А
+ent-RMCSmartGunUNMC-desc = Настоящее огнестрельное оружие в системе Smart Gun. 
 

@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCEngineer-name = weya pmc engineer spawn point
-ent-RMCSpawnPointPMCEngineer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCEngineer-name = точка появления инженера Weya PMC
+ent-RMCSpawnPointPMCEngineer-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCEngineer-name = weya pmc ghost role engineer
+ent-RMCRandomHumanoidPMCEngineer-name = инженер-призрак weya pmc
 

@@ -1,12 +1,12 @@
-ent-RMCWallBoneResin-name = skeletal resin
-ent-RMCWallBoneResin-desc = A wall made of molted old resin. This place is more alive than you are.
+ent-RMCWallBoneResin-name = скелетная смола
+ent-RMCWallBoneResin-desc = Стена из литой старой смолы. 
 
-ent-RMCWallPrisonHull-name = heavy reinforced wall
-ent-RMCWallPrisonHull-desc = A huge chunk of ultra-reinforced metal used to separate rooms. Looks virtually indestructible.
+ent-RMCWallPrisonHull-name = тяжелая армированная стена
+ent-RMCWallPrisonHull-desc = Огромный кусок сверхармированного металла, используемый для разделения комнат. 
 
-ent-RMCWallPrisonReinforced-name = reinforced metal wall
-ent-RMCWallPrisonReinforced-desc = A huge chunk of ultra-reinforced metal used to separate rooms.
+ent-RMCWallPrisonReinforced-name = усиленная металлическая стена
+ent-RMCWallPrisonReinforced-desc = Огромный кусок сверхармированного металла, используемый для разделения комнат.
 
-ent-RMCWallPrison-name = metal wall
-ent-RMCWallPrison-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallPrison-name = металлическая стена
+ent-RMCWallPrison-desc = Огромный кусок металла, используемый для разделения комнат.
 

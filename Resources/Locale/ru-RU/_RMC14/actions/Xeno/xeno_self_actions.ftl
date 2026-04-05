@@ -1,74 +1,74 @@
-ent-ActionXenoGenerateEggs-name = Generate Eggs (50)
-ent-ActionXenoGenerateEggs-desc = Generate an egg every 30 seconds, which goes into your storage. [color=cyan]Consumes 15 plasma every 2 seconds.[/color]
+ent-ActionXenoGenerateEggs-name = Создать яйца (50)
+ent-ActionXenoGenerateEggs-desc = Генерируйте яйцо каждые 30 секунд, которое попадает в ваше хранилище.
 
-ent-ActionXenoEmpower-name = Empower (50)
-ent-ActionXenoEmpower-desc = On first activation it, gain a small amount of shield. After 6 seconds or using it again, get empowered based on surrounding enemies (max 6), gaining shield from each. If you empowered from at least 3 targets, you become Super-Empowered, gaing additional damage on melee attacks, and changing how some of your other abilities work.
+ent-ActionXenoEmpower-name = Усиление (50)
+ent-ActionXenoEmpower-desc = При первой активации вы получите небольшое количество щита.
 
-ent-ActionXenoSoak-name = Soak (20)
-ent-ActionXenoSoak-desc = Soak in damage for 6 seconds. If you take 140 damage or higher, you regen 75 health and your tail slam gets refreshed.
+ent-ActionXenoSoak-name = Впитать урон (20)
+ent-ActionXenoSoak-desc = Поглощает урон на 6 секунд.
 
-ent-ActionXenoBurrow-name = Burrow
-ent-ActionXenoBurrow-desc = Burrow underground preventing you from getting hit from all sources. Once burrowed click a tile to move to it and resurface after a doafter that depends on distance.
+ent-ActionXenoBurrow-name = Закопаться
+ent-ActionXenoBurrow-desc = Закопайтесь под землей, чтобы не получить урона от всех источников.
 
-ent-ActionXenoDodge-name = Dodge (200)
-ent-ActionXenoDodge-desc = Gain a speed boost for 7 seconds and move through allies and enemies unimpeded. Your speed is doubled near standing enemies.
+ent-ActionXenoDodge-name = Уклонение (200)
+ent-ActionXenoDodge-desc = Получите повышение скорости на 7 секунд и беспрепятственно проходите сквозь союзников и врагов.
 
-ent-ActionXenoManageHive-name = Manage The Hive
+ent-ActionXenoManageHive-name = Управляйте ульем
 
-ent-ActionXenoParasiteReserve-name = Set Child Reserve
-ent-ActionXenoParasiteReserve-desc = Sets your child Reserves. Observers cannot join as a stored child if your children stored is less than or equal to your reserve.
+ent-ActionXenoParasiteReserve-name = Установить резерв лицехватов
+ent-ActionXenoParasiteReserve-desc = Устанавливает ваши резервы лицехватов.
 
-ent-ActionXenoThrowParasite-name = Carrier's Bond
-ent-ActionXenoThrowParasite-desc = Retrieves a child from your storage if you have an empty hand. Using this on a child on the ground will pickup all nearby children. Targeting a tile with a child in hand will throw it up to 4 tiles away, where the child will be stunned for 5 seconds. Using a child in hand will add it to your storage. [color=green]Children won't die due to time while you hold or carry them.[/color]
+ent-ActionXenoThrowParasite-name = Взять лицехвата
+ent-ActionXenoThrowParasite-desc = Извлекает ребенка из вашего хранилища, если у вас пустая рука.
 
-ent-ActionXenoRetrieveEgg-name = Retrieve Egg
-ent-ActionXenoRetrieveEgg-desc = Retrieves an egg from your storage if you have an empty hand. Using this on an unplanted egg will pick up all nearby unplanted eggs. Using an egg in hand will put it into your storage.
+ent-ActionXenoRetrieveEgg-name = Взять яйцо
+ent-ActionXenoRetrieveEgg-desc = Извлекает яйцо из вашего хранилища, если у вас пустая рука.
 
-ent-ActionXenoDefensiveShield-name = Defensive Shield (50)
-ent-ActionXenoDefensiveShield-desc = Gain a temporary shield that blocks the next 200 damage (and is immune to explosive damage) that lasts 7 seconds. Any damage that impacts the shield is reduced by 10 before processing. [color=green]Cooldown is partially refunded upon attacking an enemy.[/color]
+ent-ActionXenoDefensiveShield-name = Защитный щит (50)
+ent-ActionXenoDefensiveShield-desc = Получите временный щит, который блокирует следующие 200 единиц урона (и невосприимчив к взрывному урону) на 7 секунд.
 
-ent-ActionXenoTurnInvisible-name = Turn Invisible (20)
-ent-ActionXenoTurnInvisible-desc = Become partially invisible for 30 seconds, or until you either damage or attempt to devour an enemy. Can be toggled off to become visible again, with a refund of 90% remaining cloak time. Increases your movement speed by 15% until the ability expires.
+ent-ActionXenoTurnInvisible-name = Стать невидимым (20)
+ent-ActionXenoTurnInvisible-desc = Станьте частично невидимым на 30 секунд или до тех пор, пока не нанесете урон или не попытаетесь сожрать врага.
 
-ent-RMCGuidebookActionXenoGrowOvipositor-name = Grow Ovipositor
-ent-RMCGuidebookActionXenoGrowOvipositor-desc = Become immobile and start laying eggs which will produce parasites.
+ent-RMCGuidebookActionXenoGrowOvipositor-name = Выращивание яйцеклада
+ent-RMCGuidebookActionXenoGrowOvipositor-desc = Станьте неподвижным и начните откладывать яйца, из которых будут рождаться паразиты.
 
-ent-ActionXenoGrowOvipositor-name = Grow Ovipositor (700)
-ent-ActionXenoGrowOvipositor-desc = Become immobile and start laying eggs which will produce children. Has a 5 minute cooldown. [color=red]You must be in ovipositor mode for other xenonids to gain evolution points after round-start![/color]
+ent-ActionXenoGrowOvipositor-name = Вырастить яйцеклад (700)
+ent-ActionXenoGrowOvipositor-desc = Станьте неподвижным и начните откладывать яйца, из которых рождаются дети.
 
-ent-ActionXenoWordQueen-name = Word of the Queen (50)
-ent-ActionXenoWordQueen-desc = Sends a message to all members of your hive.
+ent-ActionXenoWordQueen-name = Слово Королевы (50)
+ent-ActionXenoWordQueen-desc = Отправляет сообщение всем членам вашего улья.
 
-ent-ActionXenoZoom-name = Toggle Long-Range Sight
+ent-ActionXenoZoom-name = Переключить дальний прицел
 
-ent-ActionXenoResinWalker-name = Resin Walker (50)
-ent-ActionXenoResinWalker-desc = Run faster on weeds. [color=cyan]Consumes 30 plasma per second.[/color]
+ent-ActionXenoResinWalker-name = Смоляное ускорение (50)
+ent-ActionXenoResinWalker-desc = Бегите быстрее по сорнякам.
 
-ent-ActionXenoFortifySteelcrest-name = Fortify
-ent-ActionXenoFortifySteelcrest-desc = Become much slower, increasing your resistance to direct damage and explosions. Damage is greatly reduced from the direction you are facing. You count as two sizes bigger while fortified and still can attack structures or use tail slam, but your slashes do less damage.
+ent-ActionXenoFortifySteelcrest-name = Укрепить
+ent-ActionXenoFortifySteelcrest-desc = Станьте намного медленнее, повысив свою устойчивость к прямому урону и взрывам.
 
-ent-ActionXenoFortify-name = Fortify
-ent-ActionXenoFortify-desc = Become immobile and impassable to mobs, dramatically increasing your resistance to direct damage and explosions. Damage is further reduced from the direction you are facing. You can't be stunned by minor explosions. You count as two sizes bigger while fortified and still can attack structures or use tail slam.
+ent-ActionXenoFortify-name = Укрепиться
+ent-ActionXenoFortify-desc = Станьте неподвижным и непроходимым для мобов, резко повышая свою устойчивость к прямому урону и взрывам.
 
-ent-ActionXenoToggleCrest-name = Toggle Crest Defense
-ent-ActionXenoToggleCrest-desc = Increases your resistance to direct damage but slows you down. You count as one size bigger while you're crest is lowered.
+ent-ActionXenoToggleCrest-name = Переключить защиту герба
+ent-ActionXenoToggleCrest-desc = Увеличивает вашу устойчивость к прямому урону, но замедляет вас.
 
-ent-ActionXenoHide-name = Hide
-ent-ActionXenoHide-desc = Hide under tables and other objects.
+ent-ActionXenoHide-name = Скрывать
+ent-ActionXenoHide-desc = Прячьтесь под столами и другими объектами.
 
-ent-RMCGuidebookActionXenoPheromones-name = Emit Pheromones
-ent-RMCGuidebookActionXenoPheromones-desc = Gives a buff to nearby xenonids.
+ent-RMCGuidebookActionXenoPheromones-name = Испускать феромоны
+ent-RMCGuidebookActionXenoPheromones-desc = Дает положительный эффект ближайшим ксеносам.
 
-ent-ActionXenoPheromones-name = Emit Pheromones (35)
-ent-ActionXenoPheromones-desc = Gives a buff to nearby xenonids. [color=cyan]Consumes 2.5 plasma per second.[/color]
+ent-ActionXenoPheromones-name = Испускать феромоны (35)
+ent-ActionXenoPheromones-desc = Дает положительный эффект ближайшим ксено.
 
-ent-RMCGuidebookActionXenoWatch-name = Watch Xenonid
+ent-RMCGuidebookActionXenoWatch-name = Следить за ксено
 
-ent-ActionXenoWatch-name = Watch Xenonid
+ent-ActionXenoWatch-name = Следить за ксено
 
-ent-RMCGuidebookActionXenoRest-name = Rest
-ent-RMCGuidebookActionXenoRest-desc = Lie down to regenerate health more quickly while on weeds. [color=red]Your rest keybind will also activate this action, Shift+R by default.[/color]
+ent-RMCGuidebookActionXenoRest-name = Отдых
+ent-RMCGuidebookActionXenoRest-desc = Прилягте, чтобы быстрее восстановить здоровье, находясь на смоле.
 
-ent-ActionXenoRest-name = Rest
-ent-ActionXenoRest-desc = Lie down to regenerate health more quickly while on weeds. [color=red]Your rest keybind will also activate this action, Shift+R by default.[/color]
+ent-ActionXenoRest-name = Отдых
+ent-ActionXenoRest-desc = Прилягте, чтобы быстрее восстановить здоровье, находясь на смоле.
 

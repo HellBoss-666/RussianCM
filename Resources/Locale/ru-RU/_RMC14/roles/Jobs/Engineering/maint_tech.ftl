@@ -1,3 +1,3 @@
-ent-CMSpawnPointMaintTech-name = maint tech spawn point
-ent-CMSpawnPointMaintTech-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointMaintTech-name = точка спавна техники
+ent-CMSpawnPointMaintTech-desc = Создатель заданий RMC14. 
 

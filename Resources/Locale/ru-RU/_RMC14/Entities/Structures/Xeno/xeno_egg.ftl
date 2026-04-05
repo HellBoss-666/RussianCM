@@ -1,12 +1,12 @@
-ent-XenoEggDestroyedFragileSustained-name = fragile egg
-ent-XenoEggDestroyedFragileSustained-desc = A mess of... something.
+ent-XenoEggDestroyedFragileSustained-name = хрупкое яйцо
+ent-XenoEggDestroyedFragileSustained-desc = Беспорядок... чего-то.
 
-ent-XenoEggDestroyedFragile-name = fragile egg
-ent-XenoEggDestroyedFragile-desc = A mess of... something.
+ent-XenoEggDestroyedFragile-name = хрупкое яйцо
+ent-XenoEggDestroyedFragile-desc = Беспорядок... чего-то.
 
-ent-XenoEggDestroyed-name = destroyed egg
-ent-XenoEggDestroyed-desc = A mess of... something.
+ent-XenoEggDestroyed-name = уничтоженное яйцо
+ent-XenoEggDestroyed-desc = Беспорядок... чего-то.
 
-ent-XenoEgg-name = egg
-ent-XenoEgg-desc = It looks like a weird egg.
+ent-XenoEgg-name = яйцо
+ent-XenoEgg-desc = Похоже на странное яйцо.
 

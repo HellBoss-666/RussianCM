@@ -1,27 +1,27 @@
-ent-RMCArmorM4Zipties-name = leader M4 pattern marine armor
-ent-RMCArmorM4Zipties-desc = A well tinkered and crafted hybrid of Smart-Gunner mesh and M3 pattern plates. Robust, yet nimble, with room for all your pouches. This one has a separate pouch for a ziptie box.
+ent-RMCArmorM4Zipties-name = лидер модели М4 Морпех Броня
+ent-RMCArmorM4Zipties-desc = Хорошо продуманный и продуманный гибрид сетки Smart-Gunner и пластин с узором M3. 
 
-ent-RMCArmorB12Zipties-name = leader B12 pattern marine armor
-ent-RMCArmorB12Zipties-desc = A lightweight suit of carbon fiber body armor built for quick movement. Designed in a lovely forest green. Use it to toggle the built-in flashlight. This one has a separate pouch for a ziptie box.
+ent-RMCArmorB12Zipties-name = лидер B12 узор Морпех Броня
+ent-RMCArmorB12Zipties-desc = Легкий костюм Броня из углеродного волокна, созданный для быстрого передвижения. 
 
-ent-RMCKitPyroMini-name = M34 pyrotechnician support kit
-ent-RMCKitPyroMini-desc = Contains a M34 incinerator unit, a G4-1 fueltank, 3 incinerator tanks, and a portable fire extinguisher.
+ent-RMCKitPyroMini-name = Комплект поддержки пиротехника М34
+ent-RMCKitPyroMini-desc = Включает мусоросжигательную установку M34, топливный бак G4-1, 3 мусоросжигательных бака и переносной огнетушитель.
 
-ent-RMCKitEngineering-name = engineering supply kit
-ent-RMCKitEngineering-desc = Contains a construction pouch with 50 metal, 30 plasteel and 15 barbed wire, and an electronics pouch with three high-capacity power cells.
+ent-RMCKitEngineering-name = инженерный комплект поставки
+ent-RMCKitEngineering-desc = Содержит сумку для строительства с 50 металлическими, 30 пласталями и 15 колючей проволокой, а также сумку для электроники с тремя силовыми элементами большой емкости.
 
-ent-RMCKitCM54C-name = M54C rifle kit
-ent-RMCKitCM54C-desc = Contains a M54C rifle, an angled grip, a suppressor, an extended barrel and 2 AP magazines.
+ent-RMCKitCM54C-name = Комплект винтовки M54C
+ent-RMCKitCM54C-desc = В комплект входит винтовка M54C, угловая рукоятка, глушитель, удлиненный ствол и 2 магазина AP.
 
-ent-RMCKitRifleM4SPR-name = M4SPR marksman kit
-ent-RMCKitRifleM4SPR-desc = Contains a M4SPR rifle, a 4x telescopic scope, a suppressor, an extended barrel and 2 AP magazines.
+ent-RMCKitRifleM4SPR-name = Комплект стрелка M4SPR
+ent-RMCKitRifleM4SPR-desc = В комплект входит винтовка M4SPR, 4-кратный оптический прицел, глушитель, удлиненный ствол и 2 магазина AP.
 
-ent-RMCVendorBundleCrewLeader-name = essential SL kit
-ent-RMCVendorBundleCrewLeader-desc = Contains a laser designator, a pack of signal flares, a breaching charge and a fire extinguisher.
+ent-RMCVendorBundleCrewLeader-name = необходимый комплект SL
+ent-RMCVendorBundleCrewLeader-desc = В комплект входит лазерный целеуказатель, комплект сигнальных ракет, прорывной заряд и огнетушитель.
 
-ent-ColMarTechSLEquipment-name = ColMarTech squad leader equipment rack
-ent-ColMarTechSLEquipment-desc = An automated rack hooked up to a colossal storage of Squad Leader standard-issue equipment.
+ent-ColMarTechSLEquipment-name = Стойка для оборудования руководителя отряда ColMarTech
+ent-ColMarTechSLEquipment-desc = Автоматизированная стойка, подключенная к огромному хранилищу стандартного оборудования командира отделения.
 
-ent-ColMarTechSLGear-name = ColMarTech squad leader gear rack
-ent-ColMarTechSLGear-desc = An automated gear rack for Squad Leaders.
+ent-ColMarTechSLGear-name = Стойка для снаряжения лидера отряда ColMarTech
+ent-ColMarTechSLGear-desc = Автоматизированная стойка для снаряжения для командиров отрядов.
 

@@ -1,6 +1,6 @@
-ent-RMCCameraGearPMC-name = Mk3 TOCU headcam
-ent-RMCCameraGearPMC-desc = A modification & ruggedisation of the camera gear fielded by the RCM, the Tactical Overwatch Camera Unit is used by Weston Yamada PMC forces that forgo a typical protective head-cover, allowing their handler to remain aware of the operatives current status.
+ent-RMCCameraGearPMC-name = Головная камера Mk3 TOCU
+ent-RMCCameraGearPMC-desc = Модификация и усиление камеры, используемой RCM, тактическая камера наблюдения используется силами ЧВК Уэстон Ямада, которые отказываются от типичного защитного головного убора, что позволяет их куратору оставаться в курсе текущего состояния оперативников.
 
-ent-RMCM5CameraGear-name = M5 Camera Gear
-ent-RMCM5CameraGear-desc = A camera and associated headgear designed to allow marine commanders to see what their troops can see. A more robust version of this equipment is integrated into all standard UNMC combat helmets. Can be worn over the ear or head.
+ent-RMCM5CameraGear-name = Камера M5
+ent-RMCM5CameraGear-desc = Камера и связанный с ней головной убор, позволяющие командирам Морпеха видеть то, что видят их войска. 
 

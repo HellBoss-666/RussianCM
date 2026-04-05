@@ -1,17 +1,17 @@
-ent-SpawnRMCTrainingDummy-name = RMC Training Dummy Spawner
+ent-SpawnRMCTrainingDummy-name = Создатель тренировочных манекенов RMC
 
-ent-RMCTrainingDummy-name = training dummy
-ent-RMCTrainingDummy-desc = A training dummy used by the UNMC to simulate a humanoid body. Feels almost too lifelike.
+ent-RMCTrainingDummy-name = тренировочный манекен
+ent-RMCTrainingDummy-desc = Тренировочный манекен, используемый UNMC для имитации тела гуманоида. 
 
-ent-RMCLockerTrainingDummy-name = training dummy cabinet
-ent-RMCLockerTrainingDummy-desc = An ultrasafe cabinet containing a training dummy. Only accessible by Chief Medical Officers and Senior Enlisted Advisors.
+ent-RMCLockerTrainingDummy-name = тренировочный кабинет для манекенов
+ent-RMCLockerTrainingDummy-desc = Сверхбезопасный шкаф с тренировочным манекеном. 
 
-ent-RMCLockerTrainingDummyFilled-name = training dummy cabinet
-ent-RMCLockerTrainingDummyFilled-desc = An ultrasafe cabinet containing a training dummy. Only accessible by Chief Medical Officers and Senior Enlisted Advisors.
+ent-RMCLockerTrainingDummyFilled-name = тренировочный кабинет для манекенов
+ent-RMCLockerTrainingDummyFilled-desc = Сверхбезопасный шкаф с тренировочным манекеном. 
 
-ent-RMCLockerTrainingDummyNorth-name = training dummy cabinet
-ent-RMCLockerTrainingDummyNorth-desc = An ultrasafe cabinet containing a training dummy. Only accessible by Chief Medical Officers and Senior Enlisted Advisors.
+ent-RMCLockerTrainingDummyNorth-name = тренировочный кабинет для манекенов
+ent-RMCLockerTrainingDummyNorth-desc = Сверхбезопасный шкаф с тренировочным манекеном. 
 
-ent-RMCLockerTrainingDummyNorthFilled-name = training dummy cabinet
-ent-RMCLockerTrainingDummyNorthFilled-desc = An ultrasafe cabinet containing a training dummy. Only accessible by Chief Medical Officers and Senior Enlisted Advisors.
+ent-RMCLockerTrainingDummyNorthFilled-name = тренировочный кабинет для манекенов
+ent-RMCLockerTrainingDummyNorthFilled-desc = Сверхбезопасный шкаф с тренировочным манекеном. 
 

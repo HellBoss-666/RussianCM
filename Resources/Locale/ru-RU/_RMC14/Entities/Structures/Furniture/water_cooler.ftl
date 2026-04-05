@@ -1,6 +1,6 @@
-ent-RMCWaterCooler-name = water cooler
-ent-RMCWaterCooler-desc = A machine that dispenses water to drink. It has levers for hot and cold, but it only dispenses room-temperature water.
+ent-RMCWaterCooler-name = кулер для воды
+ent-RMCWaterCooler-desc = Машина, которая раздает воду для питья. 
 
-ent-RMCWaterCoolerStacks-name = water cooler
-ent-RMCWaterCoolerStacks-desc = A machine that dispenses water to drink. It has levers for hot and cold, but it only dispenses room-temperature water.
+ent-RMCWaterCoolerStacks-name = кулер для воды
+ent-RMCWaterCoolerStacks-desc = Машина, которая раздает воду для питья. 
 

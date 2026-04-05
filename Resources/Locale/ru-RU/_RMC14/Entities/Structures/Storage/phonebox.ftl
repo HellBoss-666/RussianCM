@@ -1,18 +1,18 @@
-ent-RMCPhoneboxBrokenBase-name = wrecked phonebox
-ent-RMCPhoneboxBrokenBase-desc = It's a phonebox, outdated but realiable technology. These are used to communicate throughout the colony and connected colonies without interference. It seems it's completely wrecked, covered in blood and the glass is smashed. Hiding inside would be pointless.
+ent-RMCPhoneboxBrokenBase-name = разбитая телефонная будка
+ent-RMCPhoneboxBrokenBase-desc = Это телефонная будка, устаревшая, но надежная технология. 
 
-ent-RMCPhoneboxBase-name = phonebox
-ent-RMCPhoneboxBase-desc = It's a phonebox, outdated but realiable technology. These are used to communicate throughout the colony and connected colonies without interference. As reliable as they are, it seems the line is down.
+ent-RMCPhoneboxBase-name = телефонная будка
+ent-RMCPhoneboxBase-desc = Это телефонная будка, устаревшая, но надежная технология. 
 
-ent-RMCPhoneboxOff-name = phonebox
-ent-RMCPhoneboxOff-desc = It's a phonebox, outdated but realiable technology. These are used to communicate throughout the colony and connected colonies without interference. As reliable as they are, it seems the line is down.
+ent-RMCPhoneboxOff-name = телефонная будка
+ent-RMCPhoneboxOff-desc = Это телефонная будка, устаревшая, но надежная технология. 
 
-ent-RMCPhoneboxOn-name = phonebox
-ent-RMCPhoneboxOn-desc = It's a phonebox, outdated but realiable technology. These are used to communicate throughout the colony and connected colonies without interference. As reliable as they are, it seems the line is down.
+ent-RMCPhoneboxOn-name = телефонная будка
+ent-RMCPhoneboxOn-desc = Это телефонная будка, устаревшая, но надежная технология. 
 
-ent-RMCPhoneboxBroken-name = wrecked phonebox
-ent-RMCPhoneboxBroken-desc = It's a phonebox, outdated but realiable technology. These are used to communicate throughout the colony and connected colonies without interference. It seems it's completely wrecked, covered in blood and the glass is smashed. Hiding inside would be pointless.
+ent-RMCPhoneboxBroken-name = разбитая телефонная будка
+ent-RMCPhoneboxBroken-desc = Это телефонная будка, устаревшая, но надежная технология. 
 
-ent-RMCPhoneboxBrokenBloody-name = wrecked phonebox
-ent-RMCPhoneboxBrokenBloody-desc = It's a phonebox, outdated but realiable technology. These are used to communicate throughout the colony and connected colonies without interference. It seems it's completely wrecked, covered in blood and the glass is smashed. Hiding inside would be pointless.
+ent-RMCPhoneboxBrokenBloody-name = разбитая телефонная будка
+ent-RMCPhoneboxBrokenBloody-desc = Это телефонная будка, устаревшая, но надежная технология. 
 

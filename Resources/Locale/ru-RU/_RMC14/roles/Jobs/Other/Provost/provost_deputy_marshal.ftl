@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidProvostDeputyMarshal-name = provost ghost role deputy marshal
+ent-RMCRandomHumanoidProvostDeputyMarshal-name = проректор роль призрака заместитель маршала
 

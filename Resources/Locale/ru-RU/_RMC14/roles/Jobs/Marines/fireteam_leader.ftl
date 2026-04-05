@@ -1,15 +1,15 @@
-ent-CMSpawnPointFireteamLeader-name = fireteam leader spawn point
-ent-CMSpawnPointFireteamLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointFireteamLeader-name = точка появления лидера боевой группы
+ent-CMSpawnPointFireteamLeader-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointFireteamLeaderAlpha-name = fireteam leader spawn point
-ent-CMSpawnPointFireteamLeaderAlpha-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointFireteamLeaderAlpha-name = точка появления лидера боевой группы
+ent-CMSpawnPointFireteamLeaderAlpha-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointFireteamLeaderBravo-name = fireteam leader spawn point
-ent-CMSpawnPointFireteamLeaderBravo-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointFireteamLeaderBravo-name = точка появления лидера боевой группы
+ent-CMSpawnPointFireteamLeaderBravo-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointFireteamLeaderCharlie-name = fireteam leader spawn point
-ent-CMSpawnPointFireteamLeaderCharlie-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointFireteamLeaderCharlie-name = точка появления лидера боевой группы
+ent-CMSpawnPointFireteamLeaderCharlie-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointFireteamLeaderDelta-name = fireteam leader spawn point
-ent-CMSpawnPointFireteamLeaderDelta-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointFireteamLeaderDelta-name = точка появления лидера боевой группы
+ent-CMSpawnPointFireteamLeaderDelta-desc = Создатель заданий RMC14. 
 

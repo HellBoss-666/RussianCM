@@ -1,84 +1,84 @@
-ent-RMCBlackMappingComputer-name = computer
-ent-RMCBlackMappingComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCBlackMappingComputer-name = компьютер
+ent-RMCBlackMappingComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCTelecomServerRack-name = server rack
-ent-RMCTelecomServerRack-desc = The server rack is a piece of hardware used to house servers and other computer equipment. It is designed to be modular and can be easily expanded or reconfigured.
+ent-RMCTelecomServerRack-name = серверная стойка
+ent-RMCTelecomServerRack-desc = Серверная стойка — это аппаратное обеспечение, используемое для размещения серверов и другого компьютерного оборудования. 
 
-ent-RMCTelecomMissionPlanningSystem-name = MPS IV computer
-ent-RMCTelecomMissionPlanningSystem-desc = The Mission Planning System IV (MPS IV), an enhancement in mission planning and charting for dropship pilots across the UNMC. Fully capable of customizing their flight paths and loadouts to suit their combat needs.
+ent-RMCTelecomMissionPlanningSystem-name = компьютер MPS IV
+ent-RMCTelecomMissionPlanningSystem-desc = Система планирования миссий IV (MPS IV), усовершенствованная система планирования миссий и составления карт для пилотов десантных кораблей на всей территории UNMC. 
 
-ent-RMCTelecomMappingComputer-name = CMPS II computer
-ent-RMCTelecomMappingComputer-desc = The Common Mapping Production System version II allows for sensory input from satellites and ship systems to derive planetary maps in a standardized fashion for all UNMC pilots.
+ent-RMCTelecomMappingComputer-name = Компьютер CMPS II
+ent-RMCTelecomMappingComputer-desc = Версия II общей системы создания карт позволяет получать сенсорные данные со спутников и корабельных систем для получения планетарных карт стандартизированным способом для всех пилотов UNMC.
 
-ent-RMCTelecomSensorComputer3-name = sensor computer
-ent-RMCTelecomSensorComputer3-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCTelecomSensorComputer3-name = сенсорный компьютер
+ent-RMCTelecomSensorComputer3-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCTelecomSensorComputer2-name = sensor computer
-ent-RMCTelecomSensorComputer2-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCTelecomSensorComputer2-name = сенсорный компьютер
+ent-RMCTelecomSensorComputer2-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCTelecomSensorComputer-name = sensor computer
-ent-RMCTelecomSensorComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCTelecomSensorComputer-name = сенсорный компьютер
+ent-RMCTelecomSensorComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCTelecomBlackBox-name = Blackbox Recorder
-ent-RMCTelecomBlackBox-desc = The blackbox recorder is a device used to record data from the ship's systems. It is designed to be tamper-proof and can withstand extreme conditions.
+ent-RMCTelecomBlackBox-name = Регистратор черного ящика
+ent-RMCTelecomBlackBox-desc = Регистратор черного ящика — это устройство, используемое для записи данных из систем корабля. 
 
-ent-RMCTelecomOSServerBox-name = We-Ya OS server box
-ent-RMCTelecomOSServerBox-desc = We-Ya OS is a proprietary operating system used by the Company to run most all of their servers, banking, and management systems. A code leak in 2144 led some amateur hackers to believe that We-Ya OS is loosely based on the 2017 release of TempleOS. But the Company has refuted these claims.
+ent-RMCTelecomOSServerBox-name = Серверный блок We-Ya OS
+ent-RMCTelecomOSServerBox-desc = We-Ya OS — это собственная операционная система, используемая Компанией для запуска большинства своих серверов, банковских систем и систем управления. 
 
-ent-RMCTelecomHub-name = Telecommunication Hub
-ent-RMCTelecomHub-desc = A mighty piece of hardware used to send/receive massive amounts of data.
+ent-RMCTelecomHub-name = Телекоммуникационный узел
+ent-RMCTelecomHub-desc = Мощное оборудование, используемое для отправки/получения огромных объемов данных.
 
-ent-RMCTelecomProcessorUnit-name = Processor Unit
-ent-RMCTelecomProcessorUnit-desc = This machine is used to process large quantities of information.
+ent-RMCTelecomProcessorUnit-name = Процессорный блок
+ent-RMCTelecomProcessorUnit-desc = Эта машина используется для обработки больших объемов информации.
 
-ent-RMCTelecomRelay-name = Telecomms Relay
-ent-RMCTelecomRelay-desc = A mighty piece of hardware used to send massive amounts of data far away.
+ent-RMCTelecomRelay-name = Телекоммуникационное реле
+ent-RMCTelecomRelay-desc = Мощное оборудование, используемое для отправки огромных объемов данных на большие расстояния.
 
-ent-RMCTelecomBroadcaster-name = Subspace Broadcaster
-ent-RMCTelecomBroadcaster-desc = A dish-shaped machine used to broadcast processed subspace signals.
+ent-RMCTelecomBroadcaster-name = Подпространственный вещатель
+ent-RMCTelecomBroadcaster-desc = Машина в форме тарелки, используемая для передачи обработанных подпространственных сигналов.
 
-ent-RMCTelecomReceiver-name = Subspace Receiver
-ent-RMCTelecomReceiver-desc = This machine has a dish-like shape and green lights. It is designed to detect and process subspace radio activity.
+ent-RMCTelecomReceiver-name = Подпространственный приемник
+ent-RMCTelecomReceiver-desc = Эта машина имеет тарелкообразную форму и зеленую подсветку. 
 
-ent-RMCTelecomBusMainframe-name = Bus Mainframe
-ent-RMCTelecomBusMainframe-desc = A mighty piece of hardware used to send massive amounts of data quickly.
+ent-RMCTelecomBusMainframe-name = Автобусный мейнфрейм
+ent-RMCTelecomBusMainframe-desc = Мощное оборудование, используемое для быстрой отправки огромных объемов данных.
 
-ent-RMCTelecomBroadcasterDD-name = Subspace Broadcaster
-ent-RMCTelecomBroadcasterDD-desc = A dish-shaped machine used to broadcast processed subspace signals.
+ent-RMCTelecomBroadcasterDD-name = Подпространственный вещатель
+ent-RMCTelecomBroadcasterDD-desc = Машина в форме тарелки, используемая для передачи обработанных подпространственных сигналов.
 
-ent-RMCTelecomRelayDD-name = Telecomms Relay
-ent-RMCTelecomRelayDD-desc = A mighty piece of hardware used to send massive amounts of data far away.
+ent-RMCTelecomRelayDD-name = Телекоммуникационное реле
+ent-RMCTelecomRelayDD-desc = Мощное оборудование, используемое для отправки огромных объемов данных на большие расстояния.
 
-ent-RMCTelecomProcessorUnitDD-name = Processor Unit
-ent-RMCTelecomProcessorUnitDD-desc = This machine is used to process large quantities of information.
+ent-RMCTelecomProcessorUnitDD-name = Процессорный блок
+ent-RMCTelecomProcessorUnitDD-desc = Эта машина используется для обработки больших объемов информации.
 
-ent-RMCTelecomBlackBoxDD-name = Blackbox Recorder
-ent-RMCTelecomBlackBoxDD-desc = The blackbox recorder is a device used to record data from the ship's systems. It is designed to be tamper-proof and can withstand extreme conditions.
+ent-RMCTelecomBlackBoxDD-name = Регистратор черного ящика
+ent-RMCTelecomBlackBoxDD-desc = Регистратор черного ящика — это устройство, используемое для записи данных из систем корабля. 
 
-ent-RMCBlackMPSComputer-name = computer
-ent-RMCBlackMPSComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCBlackMPSComputer-name = компьютер
+ent-RMCBlackMPSComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCBlackSensorComputer-name = computer
-ent-RMCBlackSensorComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCBlackSensorComputer-name = компьютер
+ent-RMCBlackSensorComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCBlackSensorComputer2-name = computer
-ent-RMCBlackSensorComputer2-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCBlackSensorComputer2-name = компьютер
+ent-RMCBlackSensorComputer2-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCBlackSensorComputer3-name = computer
-ent-RMCBlackSensorComputer3-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCBlackSensorComputer3-name = компьютер
+ent-RMCBlackSensorComputer3-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCWhiteMappingComputer-name = computer
-ent-RMCWhiteMappingComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCWhiteMappingComputer-name = компьютер
+ent-RMCWhiteMappingComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCWhiteMPSComputer-name = computer
-ent-RMCWhiteMPSComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCWhiteMPSComputer-name = компьютер
+ent-RMCWhiteMPSComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCWhiteSensorComputer-name = computer
-ent-RMCWhiteSensorComputer-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCWhiteSensorComputer-name = компьютер
+ent-RMCWhiteSensorComputer-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCWhiteSensorComputer2-name = computer
-ent-RMCWhiteSensorComputer2-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCWhiteSensorComputer2-name = компьютер
+ent-RMCWhiteSensorComputer2-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 
-ent-RMCWhiteSensorComputer3-name = computer
-ent-RMCWhiteSensorComputer3-desc = The IBM series 10 computer retrofitted to work as a sensor computer for the ship. While somewhat dated it still serves its purpose.
+ent-RMCWhiteSensorComputer3-name = компьютер
+ent-RMCWhiteSensorComputer3-desc = Компьютер IBM серии 10, модернизированный для работы в качестве сенсорного компьютера для корабля. 
 

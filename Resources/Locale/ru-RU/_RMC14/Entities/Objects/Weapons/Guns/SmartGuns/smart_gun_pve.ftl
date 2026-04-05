@@ -1,14 +1,14 @@
-ent-RMCAttachmentSmartgunHarness-name = item
+ent-RMCAttachmentSmartgunHarness-name = элемент
 
-ent-RMCSmartGunPVE-name = ML66A heavy support gun
-ent-RMCSmartGunPVE-desc = The actual firearm in the Support Gun System. Essentially a heavy, mobile machinegun.
+ent-RMCSmartGunPVE-name = Тяжелое орудие поддержки ML66A
+ent-RMCSmartGunPVE-desc = Настоящее огнестрельное оружие в системе поддержки оружия. 
 
-ent-RMCSmartGunPVENoCamo-name = ML66A heavy support gun
-ent-RMCSmartGunPVENoCamo-desc = The actual firearm in the Support Gun System. Essentially a heavy, mobile machinegun.
+ent-RMCSmartGunPVENoCamo-name = Тяжелое орудие поддержки ML66A
+ent-RMCSmartGunPVENoCamo-desc = Настоящее огнестрельное оружие в системе поддержки оружия. 
 
-ent-RMCSmartGunPMCPVE-name = ML79A heavy support gun
-ent-RMCSmartGunPMCPVE-desc = The actual firearm in the Support Gun System, modified for We-Ya PMCs. Essentially a heavy, mobile machinegun.
+ent-RMCSmartGunPMCPVE-name = Тяжелое орудие поддержки МЛ79А
+ent-RMCSmartGunPMCPVE-desc = Настоящее огнестрельное оружие в системе Support Gun System, модифицированное для ЧВК We-Ya. 
 
-ent-RMCSmartGunRCMPVE-name = ML66C general purpose machine gun
-ent-RMCSmartGunRCMPVE-desc = A heavy, mobile machinegun used by the Royal Crown Marines. Heavily modified from the UN's ML66A platform, it fires 10x30mm holotargeting rounds.
+ent-RMCSmartGunRCMPVE-name = Пулемет общего назначения МЛ66С
+ent-RMCSmartGunRCMPVE-desc = Тяжелый мобильный пулемет, используемый Королевской морской пехотой. 
 

@@ -1,21 +1,21 @@
-ent-RMCArmorProvostAgent-name = M3 pattern special agent armor
-ent-RMCArmorProvostAgent-desc = A modified luxury armor, originally meant for a Provost Marshall, modified to use the colors and insignia of the intelligence service.
+ent-RMCArmorProvostAgent-name = Специальный агент модели М3 Броня
+ent-RMCArmorProvostAgent-desc = Модифицированная роскошная Броня, первоначально предназначавшаяся для провоста Маршалла, модифицированная для использования цветов и знаков различия разведывательной службы.
 
-ent-RMCArmorProvostFlexi-name = M3 pattern provost flexi-armor
-ent-RMCArmorProvostFlexi-desc = A more refined Provost M3 Pattern Chestplate for senior officers. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorProvostFlexi-name = М3 образец провоста flexi-Броня
+ent-RMCArmorProvostFlexi-desc = Более изысканная нагрудник модели «Провост» M3 для старших офицеров. 
 
-ent-RMCArmorProvostLight-name = M3 pattern provost light armor
-ent-RMCArmorProvostLight-desc = A lighter Provost M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorProvostLight-name = Модель М3 пров свет Броня
+ent-RMCArmorProvostLight-desc = Более легкая нагрудник образца Провоста M3. 
 
-ent-RMCArmorProvostMarshal-name = M5 pattern provost marshal armor
-ent-RMCArmorProvostMarshal-desc = A custom fit luxury armor suit for Provost Marshals. Useful for letting your men know who is in charge when taking to the field.
+ent-RMCArmorProvostMarshal-name = М5 образец проректора Маршала Броня
+ent-RMCArmorProvostMarshal-desc = Роскошный костюм «Броня», изготовленный по индивидуальному заказу для маршалов-провостов. 
 
-ent-RMCArmorProvostSenior-name = M3 pattern senior provost armor
-ent-RMCArmorProvostSenior-desc = A more refined Provost M3 Pattern Chestplate for senior officers. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorProvostSenior-name = Образец М3 старший проректор Броня
+ent-RMCArmorProvostSenior-desc = Более изысканная нагрудник модели «Провост» M3 для старших офицеров. 
 
-ent-RMCArmorProvost-name = M3 pattern provost armor
-ent-RMCArmorProvost-desc = A standard Provost M3 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorProvost-name = М3 образец провоста Броня
+ent-RMCArmorProvost-desc = Стандартная нагрудник образца Провоста M3. 
 
-ent-RMCArmorProvostSeniorFilled-name = M3 pattern senior provost armor
-ent-RMCArmorProvostSeniorFilled-desc = A more refined Provost M3 Pattern Chestplate for senior officers. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage.
+ent-RMCArmorProvostSeniorFilled-name = Образец М3 старший проректор Броня
+ent-RMCArmorProvostSeniorFilled-desc = Более изысканная нагрудник модели «Провост» M3 для старших офицеров. 
 

@@ -1,11 +1,11 @@
-ent-CMShardPhoron-name = phoron shard
-ent-CMShardPhoron-desc = A shard of broken phoron glass. Considerably tougher than normal glass shards. Apparently not tough enough to be a window.
+ent-CMShardPhoron-name = осколок форона
+ent-CMShardPhoron-desc = Осколок разбитого форонового стекла. 
 
-ent-RMCShardIce-name = ice shard
-ent-RMCShardIce-desc = A shard of ice. Could probably be used as ... a throwing weapon?
+ent-RMCShardIce-name = ледяной осколок
+ent-RMCShardIce-desc = Осколок льда. 
 
-ent-CMShardGlass-name = glass shard
-ent-CMShardGlass-desc = A shard of broken glass. Could probably be used as ... a throwing weapon?
+ent-CMShardGlass-name = осколок стекла
+ent-CMShardGlass-desc = Осколок разбитого стекла. 
 
-ent-CMShardBase-name = item
+ent-CMShardBase-name = элемент
 

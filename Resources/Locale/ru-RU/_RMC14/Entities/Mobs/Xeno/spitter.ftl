@@ -1,2 +1,2 @@
-ent-CMXenoSpitter-name = cm-job-name-xeno-spitter
+ent-CMXenoSpitter-name = cm-имя-задания-xeno-spitter
 

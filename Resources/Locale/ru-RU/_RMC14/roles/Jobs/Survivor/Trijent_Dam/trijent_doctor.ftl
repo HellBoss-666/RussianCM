@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentDoctor-name = trijent doctor colonist preset
+ent-RMCGearSurvivorPresetTrijentDoctor-name = предустановка доктора-колониста Trijent
 
-ent-RMCSpawnPointSurvivorTrijentDoctor-name = survivor trijent doctor spawn point
-ent-RMCSpawnPointSurvivorTrijentDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorTrijentDoctor-name = точка возрождения доктора-триджента
+ent-RMCSpawnPointSurvivorTrijentDoctor-desc = Создатель заданий RMC14. 
 

@@ -1,2 +1,2 @@
-ent-CMXenoSentinel-name = cm-job-name-xeno-sentinel
+ent-CMXenoSentinel-name = cm-имя-задания-xeno-sentinel
 

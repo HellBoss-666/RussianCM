@@ -1,27 +1,27 @@
-ent-RMCWallGold-name = gold wall
-ent-RMCWallGold-desc = A wall with gold plating. Swag!
+ent-RMCWallGold-name = золотая стена
+ent-RMCWallGold-desc = Стена с позолотой. 
 
-ent-RMCWallUranium-name = uranium wall
-ent-RMCWallUranium-desc = A wall with uranium plating. This is probably a bad idea.
+ent-RMCWallUranium-name = урановая стена
+ent-RMCWallUranium-desc = Стена с урановой обшивкой. 
 
-ent-RMCWallSandstoneTempleRuned-name = runed sandstone temple wall
-ent-RMCWallSandstoneTempleRuned-desc = A heavy wall of sandstone, with elegant carvings and runes inscribed upon its face.
+ent-RMCWallSandstoneTempleRuned-name = Стена храма из рунического песчаника
+ent-RMCWallSandstoneTempleRuned-desc = Тяжелая стена из песчаника с изящной резьбой и рунами, нанесенными на ее лицевую сторону.
 
-ent-RMCWallSandstoneTemple-name = sandstone temple wall
-ent-RMCWallSandstoneTemple-desc = A heavy wall of sandstone.
+ent-RMCWallSandstoneTemple-name = Стена храма из песчаника
+ent-RMCWallSandstoneTemple-desc = Тяжелая стена из песчаника.
 
-ent-RMCWallSandstone-name = sandstone wall
-ent-RMCWallSandstone-desc = A wall with sandstone plating.
+ent-RMCWallSandstone-name = стена из песчаника
+ent-RMCWallSandstone-desc = Стена с обшивкой из песчаника.
 
-ent-RMCWallSandstoneTempleTimed-name = sandstone temple wall
-ent-RMCWallSandstoneTempleTimed-desc = A heavy wall of sandstone.
+ent-RMCWallSandstoneTempleTimed-name = Стена храма из песчаника
+ent-RMCWallSandstoneTempleTimed-desc = Тяжелая стена из песчаника.
 
-ent-RMCWallSandstoneTempleGrey-name = sandstone temple wall
-ent-RMCWallSandstoneTempleGrey-desc = A heavy wall of sandstone.
+ent-RMCWallSandstoneTempleGrey-name = Стена храма из песчаника
+ent-RMCWallSandstoneTempleGrey-desc = Тяжелая стена из песчаника.
 
-ent-RMCWallSandstoneMemorial-name = memorial wall
-ent-RMCWallSandstoneMemorial-desc = A heavy wall of sandstone.
+ent-RMCWallSandstoneMemorial-name = мемориальная стена
+ent-RMCWallSandstoneMemorial-desc = Тяжелая стена из песчаника.
 
-ent-RMCWallUraniumBroken-name = broken uranium wall
-ent-RMCWallUraniumBroken-desc = A uranium plated wall that's leaking something. Just looking at it makes you dizzy.
+ent-RMCWallUraniumBroken-name = сломанная урановая стена
+ent-RMCWallUraniumBroken-desc = Стена, покрытая ураном, из которой что-то протекает. 
 

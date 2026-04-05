@@ -1,15 +1,15 @@
-ent-RMCKitIntel-name = field intelligence support kit
-ent-RMCKitIntel-desc = It's just an ordinary box.
+ent-RMCKitIntel-name = комплект поддержки полевой разведки
+ent-RMCKitIntel-desc = Это обычная коробка.
 
-ent-RMCVendorBundleIntel-name = essential intel set
-ent-RMCVendorBundleIntel-desc = Contains a crowbar, fultons, an intel detector, and binoculars.
+ent-RMCVendorBundleIntel-name = необходимый набор разведданных
+ent-RMCVendorBundleIntel-desc = Содержит лом, фултоны, детектор разведки и бинокль.
 
-ent-ColMarTechIntelWeapons-name = ColMarTech intelligence officer weapons rack
-ent-ColMarTechIntelWeapons-desc = An automated weapon rack hooked up to a small storage of standard-issue weapons. Can be accessed only by the Intelligence Officers.
+ent-ColMarTechIntelWeapons-name = Стойка с оружием для офицера разведки ColMarTech
+ent-ColMarTechIntelWeapons-desc = Автоматизированная оружейная стойка, соединенная с небольшим хранилищем стандартного оружия. 
 
-ent-ColMarTechIntelEquipment-name = ColMarTech intelligence officer equipment rack
-ent-ColMarTechIntelEquipment-desc = An automated rack hooked up to a colossal storage of IO standard-issue equipment.
+ent-ColMarTechIntelEquipment-name = Стойка для оборудования офицера разведки ColMarTech
+ent-ColMarTechIntelEquipment-desc = Автоматизированная стойка, подключенная к огромному хранилищу стандартного оборудования ввода-вывода.
 
-ent-ColMarTechIntelGear-name = ColMarTech intelligence officer gear rack
-ent-ColMarTechIntelGear-desc = An automated gear rack for IOs.
+ent-ColMarTechIntelGear-name = Стойка снаряжения офицера разведки ColMarTech
+ent-ColMarTechIntelGear-desc = Автоматизированная зубчатая рейка для ИО.
 

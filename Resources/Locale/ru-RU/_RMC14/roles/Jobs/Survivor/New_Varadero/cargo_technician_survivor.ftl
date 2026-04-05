@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetCargoTechnician-name = cargo technician colonist preset
+ent-RMCGearSurvivorPresetCargoTechnician-name = Предварительная настройка колониста грузового техника
 
-ent-RMCSpawnPointSurvivorCargoTechnician-name = survivor cargo technician spawn point
-ent-RMCSpawnPointSurvivorCargoTechnician-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorCargoTechnician-name = Точка появления выжившего грузового техника
+ent-RMCSpawnPointSurvivorCargoTechnician-desc = Создатель заданий RMC14. 
 

@@ -1,255 +1,255 @@
-ent-RMCSatchelMARSOC-name = UNMC SOF combat pack
-ent-RMCSatchelMARSOC-desc = A streamlined combat pack for UNMC SOF Raiders.
+ent-RMCSatchelMARSOC-name = Боевой комплект UNMC SOF
+ent-RMCSatchelMARSOC-desc = Оптимизированный боевой пакет для рейдеров UNMC SOF.
 
-ent-RMCSatchelTSEPA-name = TSP-4 police pack
-ent-RMCSatchelTSEPA-desc = A TSEPA standard-issue Three Suns Pack MK4.
+ent-RMCSatchelTSEPA-name = Полицейский пакет ТСП-4
+ent-RMCSatchelTSEPA-desc = Стандартный пакет «Три солнца» TSEPA MK4.
 
-ent-RMCSatchelPMCMedic-name = pmc medic combat pack
-ent-RMCSatchelPMCMedic-desc = A heavy-duty satchel used by Marine medics. It sacrifices capacity for usability. A small patch is sewn to the top flap.
+ent-RMCSatchelPMCMedic-name = боевой комплект медика ЧВК
+ent-RMCSatchelPMCMedic-desc = Прочная сумка, используемая медиками Морпеха. 
 
-ent-RMCSatchelSPPWelder-name = UCP3-E technician welderpack
-ent-RMCSatchelSPPWelder-desc = A special version of the Union Combat Pack MK3 featuring a small fueltank for quick blowtorch refueling. Used by SPP Sappers.
+ent-RMCSatchelSPPWelder-name = UCP3-E комплект для технического сварщика
+ent-RMCSatchelSPPWelder-desc = Специальная версия Union Combat Pack MK3 с небольшим топливным баком для быстрой заправки паяльной лампы. 
 
-ent-RMCSatchelSPP-name = UCP3 combat pack
-ent-RMCSatchelSPP-desc = An SPP military standard-issue Union Combat Pack MK3.
+ent-RMCSatchelSPP-name = Боевой пакет UCP3
+ent-RMCSatchelSPP-desc = Боевой пакет Union Combat Pack MK3 военного стандарта SPP.
 
-ent-RMCSatchelLightpackWelder-name = lightweight technician welderpack
-ent-RMCSatchelLightpackWelder-desc = A small, lightweight pack for expeditions and short-range operations. Features a small fueltank for quick blowtorch refueling.
+ent-RMCSatchelLightpackWelder-name = легкий комплект для технического сварщика
+ent-RMCSatchelLightpackWelder-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях. 
 
-ent-RMCSatchelWelderPMC-name = pmc technician welderpack
-ent-RMCSatchelWelderPMC-desc = Ergonomic, protected, high capacity backpack, designed for Weston-Yamada PMCs. Features a small fueltank for quick blowtorch refueling.
+ent-RMCSatchelWelderPMC-name = PMC техник-сварщик
+ent-RMCSatchelWelderPMC-desc = Эргономичный, защищенный, большой вместительности рюкзак, разработанный для ЧВК Weston-Yamada. 
 
-ent-RMCSatchelPMC-name = PMC combat backpack
-ent-RMCSatchelPMC-desc = A Weston-Yamada field tested backpack, featuring multiple pouches and compartments for ease of access, preventing slowdown from operatives in the field.
+ent-RMCSatchelPMC-name = Боевой рюкзак ЧВК
+ent-RMCSatchelPMC-desc = Рюкзак, прошедший полевые испытания Weston-Yamada, с несколькими карманами и отделениями для облегчения доступа и предотвращения замедления работы сотрудников на местах.
 
-ent-RMCSatchelLightpack-name = lightweight combat pack
-ent-RMCSatchelLightpack-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpack-name = легкий боевой ранец
+ent-RMCSatchelLightpack-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCBackpackRTO-name = UNMC radio telephone pack
-ent-RMCBackpackRTO-desc = A heavy-duty pack, used for telecommunications between central command. Commonly carried by RTOs.
+ent-RMCBackpackRTO-name = Радиотелефонный комплект UNMC
+ent-RMCBackpackRTO-desc = Сверхмощный рюкзак, используемый для связи между центральным командованием. 
 
-ent-RMCSatchelDemoSpec-name = UNMC IMP M22 rocket bags
-ent-RMCSatchelDemoSpec-desc = A specially-designed backpack that fits to the IMP mounting frame on standard UNMC infantry armor. It's made of two easily-accessible, waterproofed reinforced tubes and one smaller satchel slung at the bottom. The two silos are for rockets, but no one is stopping you from cramming other things in there.
+ent-RMCSatchelDemoSpec-name = Ракетные сумки UNMC IMP M22
+ent-RMCSatchelDemoSpec-desc = Специально разработанный рюкзак, который подходит к монтажной раме IMP на стандартной пехотной броне UNMC. 
 
-ent-RMCSatchelWelderChestrig-name = technician welder chestrig
-ent-RMCSatchelWelderChestrig-desc = A specialized Chestrig worn by technicians and engineers. It carries one medium fuel tank for quick welder refueling and use.
+ent-RMCSatchelWelderChestrig-name = техник-сварщик Честриг
+ent-RMCSatchelWelderChestrig-desc = Специализированный Честриг, который носят техники и инженеры. 
 
-ent-RMCSatchelWelder-name = UNMC technician welder-satchel
-ent-RMCSatchelWelder-desc = A specialized satchel worn by UNMC technicians and engineers. It carries two small fuel tanks for quick welder refueling and use.
+ent-RMCSatchelWelder-name = Сумка-сварщик-техник UNMC
+ent-RMCSatchelWelder-desc = Специализированная сумка, которую носят техники и инженеры UNMC. 
 
-ent-RMCSatchelGrenadeSpec-name = UNMC IMP M63A1 grenade satchel
-ent-RMCSatchelGrenadeSpec-desc = A satchel specially designed to maximize grenade carrying capacity while minimizing the risks of secondary ignition.
+ent-RMCSatchelGrenadeSpec-name = Ранец для гранат UNMC IMP M63A1
+ent-RMCSatchelGrenadeSpec-desc = Ранец, специально разработанный для увеличения грузоподъемности гранат при минимизации риска вторичного возгорания.
 
-ent-CMSatchelMarineTech-name = Marine technician chestrig
-ent-CMSatchelMarineTech-desc = A heavy-duty chestrig used by some Marine technicians.
+ent-CMSatchelMarineTech-name = Морпех техник Честриг
+ent-CMSatchelMarineTech-desc = Мощный чериг, используемый некоторыми техническими специалистами Морпеха.
 
-ent-CMSatchelMarineMedic-name = Marine corpsman satchel
-ent-CMSatchelMarineMedic-desc = A heavy-duty satchel used by Marine medics. It sacrifices capacity for usability. A small patch is sewn to the top flap.
+ent-CMSatchelMarineMedic-name = Ранец санитара Морпех
+ent-CMSatchelMarineMedic-desc = Прочная сумка, используемая медиками Морпеха. 
 
-ent-CMSatchelMarineLogistics-name = Marine logistics IMP backpack
-ent-CMSatchelMarineLogistics-desc = A standard-issue backpack worn by logistics personnel. It is occasionally issued to combat personnel for longer term expeditions and deep space incursions.
+ent-CMSatchelMarineLogistics-name = Морпех Логистика Рюкзак IMP
+ent-CMSatchelMarineLogistics-desc = Стандартный рюкзак, который носят сотрудники логистики. 
 
-ent-RMCSatchelMarineLogisticsBig-name = UNMC logistics IMP backpack
-ent-RMCSatchelMarineLogisticsBig-desc = A standard-issue backpack worn by logistics personnel. It is occasionally issued to combat personnel for longer term expeditions and deep space incursions.
+ent-RMCSatchelMarineLogisticsBig-name = Рюкзак UNMC для логистики IMP
+ent-RMCSatchelMarineLogisticsBig-desc = Стандартный рюкзак, который носят сотрудники логистики. 
 
-ent-RMCSatchelMarineIntelSatchel-name = UNMC lightweight expedition satchel
-ent-RMCSatchelMarineIntelSatchel-desc = A heavy-duty IMP based satchel, reinforced with kevlar so it doesn't rip. Can quickly be accessed with only one hand. Usually issued to UNMC intelligence officers.
+ent-RMCSatchelMarineIntelSatchel-name = Легкий экспедиционный ранец UNMC
+ent-RMCSatchelMarineIntelSatchel-desc = Прочная сумка на основе IMP, усиленная кевларом, чтобы она не порвалась. 
 
-ent-RMCSatchelMarineIntelChestrig-name = UNMC expedition chestrig
-ent-RMCSatchelMarineIntelChestrig-desc = A heavy-duty IMP based chestrig, can quickly be accessed with only one hand. Usually issued to UNMC intelligence officers.
+ent-RMCSatchelMarineIntelChestrig-name = Честриг экспедиции UNMC
+ent-RMCSatchelMarineIntelChestrig-desc = Прочный честриг на основе IMP, доступ к которому можно быстро получить одной рукой. 
 
-ent-CMSatchelMarineIntel-name = UNMC lightweight expedition pack
-ent-CMSatchelMarineIntel-desc = A heavy-duty IMP based backpack that can be slung around the front or to the side, and can quickly be accessed with only one hand. Usually issued to Marine intelligence officers.
+ent-CMSatchelMarineIntel-name = Легкий экспедиционный рюкзак UNMC
+ent-CMSatchelMarineIntel-desc = Прочный рюкзак на основе IMP, который можно перекинуть спереди или сбоку, и к которому можно быстро получить доступ только одной рукой. 
 
-ent-CMSatchelMarine-name = UNMC satchel
-ent-CMSatchelMarine-desc = A heavy-duty satchel carried by some UNMC soldiers and support personnel.
+ent-CMSatchelMarine-name = Ранец UNMC
+ent-CMSatchelMarine-desc = Прочная сумка, которую носят солдаты UNMC и вспомогательный персонал.
 
-ent-CMSatchelSecurity-name = security satchel
-ent-CMSatchelSecurity-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurity-name = сумка безопасности
+ent-CMSatchelSecurity-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-RMCSatchelChemistry-name = chemist satchel
-ent-RMCSatchelChemistry-desc = A sterile satchel with chemist colors.
+ent-RMCSatchelChemistry-name = аптечный ранец
+ent-RMCSatchelChemistry-desc = Стерильный ранец с аптечными красками.
 
-ent-RMCSatchelVirology-name = scientist satchel
-ent-RMCSatchelVirology-desc = Useful for holding research materials.
+ent-RMCSatchelVirology-name = учёный ранец
+ent-RMCSatchelVirology-desc = Полезно для хранения исследовательских материалов.
 
-ent-CMSatchelMedical-name = medical satchel
-ent-CMSatchelMedical-desc = A sterile satchel used in medical departments.
+ent-CMSatchelMedical-name = медицинская сумка
+ent-CMSatchelMedical-desc = Стерильный ранец, используемый в медицинских учреждениях.
 
-ent-CMSatchelEngineer-name = industrial satchel
-ent-CMSatchelEngineer-desc = A tough satchel with extra pockets.
+ent-CMSatchelEngineer-name = промышленная сумка
+ent-CMSatchelEngineer-desc = Прочная сумка с дополнительными карманами.
 
-ent-RMCBackpackSPPCommando-name = V86 thermal cloak
-ent-RMCBackpackSPPCommando-desc = A thermo-optic camouflage cloak commonly used by SPP commando units.
+ent-RMCBackpackSPPCommando-name = Тепловой плащ V86
+ent-RMCBackpackSPPCommando-desc = Термооптический камуфляжный плащ, обычно используемый подразделениями коммандос СПП.
 
-ent-RMCBackpackScout-name = M68 thermal cloak
-ent-RMCBackpackScout-desc = The lightweight thermal dampeners and optical camouflage provided by this cloak are weaker than those found in standard UNMC ghillie suits. In exchange, the cloak can be worn over combat armor and offers the wearer high maneuverability and adaptability to many environments.
+ent-RMCBackpackScout-name = Тепловой плащ М68
+ent-RMCBackpackScout-desc = Легкие тепловые демпферы и оптический камуфляж, обеспечиваемые этим плащом, слабее, чем у стандартных маскировочных костюмов UNMC. 
 
-ent-CMBackpackSniper-name = M3 sniper's waist-rig
-ent-CMBackpackSniper-desc = A specially-designed rig attached to the waist with a pocket, designed for marksmen.
+ent-CMBackpackSniper-name = Пояс снайперский М3
+ent-CMBackpackSniper-desc = Специально разработанное снаряжение, прикрепленное к поясу с карманом, предназначенное для стрелков.
 
-ent-RMCSatchelNorm-name = satchel
-ent-RMCSatchelNorm-desc = A trendy-looking satchel.
+ent-RMCSatchelNorm-name = ранец
+ent-RMCSatchelNorm-desc = Модная сумка-портфель.
 
-ent-CMSatchel-name = leather satchel
-ent-CMSatchel-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchel-name = кожаная сумка
+ent-CMSatchel-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-CMSatchelFillSurvivor-name = leather satchel
-ent-CMSatchelFillSurvivor-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchelFillSurvivor-name = кожаная сумка
+ent-CMSatchelFillSurvivor-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-CMSatchelFillColonySynthetic-name = leather satchel
-ent-CMSatchelFillColonySynthetic-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchelFillColonySynthetic-name = кожаная сумка
+ent-CMSatchelFillColonySynthetic-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-RMCSatchelBlack-name = leather satchel
-ent-RMCSatchelBlack-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-RMCSatchelBlack-name = кожаная сумка
+ent-RMCSatchelBlack-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-RMCSatchelBlackFillSurvivorConstable-name = leather satchel
-ent-RMCSatchelBlackFillSurvivorConstable-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-RMCSatchelBlackFillSurvivorConstable-name = кожаная сумка
+ent-RMCSatchelBlackFillSurvivorConstable-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-RMCSatchelBlackFillParaCO-name = leather satchel
-ent-RMCSatchelBlackFillParaCO-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-RMCSatchelBlackFillParaCO-name = кожаная сумка
+ent-RMCSatchelBlackFillParaCO-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-RMCSatchelBlue-name = leather satchel
-ent-RMCSatchelBlue-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-RMCSatchelBlue-name = кожаная сумка
+ent-RMCSatchelBlue-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-CMSatchelEngineerMinerSurvivorFill-name = industrial satchel
-ent-CMSatchelEngineerMinerSurvivorFill-desc = A tough satchel with extra pockets.
+ent-CMSatchelEngineerMinerSurvivorFill-name = промышленная сумка
+ent-CMSatchelEngineerMinerSurvivorFill-desc = Прочная сумка с дополнительными карманами.
 
-ent-CMSatchelEngineerSurvivorFill-name = industrial satchel
-ent-CMSatchelEngineerSurvivorFill-desc = A tough satchel with extra pockets.
+ent-CMSatchelEngineerSurvivorFill-name = промышленная сумка
+ent-CMSatchelEngineerSurvivorFill-desc = Прочная сумка с дополнительными карманами.
 
-ent-CMSatchelMedicalSurvivorFill-name = medical satchel
-ent-CMSatchelMedicalSurvivorFill-desc = A sterile satchel used in medical departments.
+ent-CMSatchelMedicalSurvivorFill-name = медицинская сумка
+ent-CMSatchelMedicalSurvivorFill-desc = Стерильный ранец, используемый в медицинских учреждениях.
 
-ent-RMCSatchelVirologyFill-name = scientist satchel
-ent-RMCSatchelVirologyFill-desc = Useful for holding research materials.
+ent-RMCSatchelVirologyFill-name = учёный ранец
+ent-RMCSatchelVirologyFill-desc = Полезно для хранения исследовательских материалов.
 
-ent-RMCSatchelChemistryFill-name = chemist satchel
-ent-RMCSatchelChemistryFill-desc = A sterile satchel with chemist colors.
+ent-RMCSatchelChemistryFill-name = аптечный ранец
+ent-RMCSatchelChemistryFill-desc = Стерильный ранец с аптечными красками.
 
-ent-CMSatchelSecuritySurvivorFill-name = security satchel
-ent-CMSatchelSecuritySurvivorFill-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecuritySurvivorFill-name = сумка безопасности
+ent-CMSatchelSecuritySurvivorFill-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-RMCSatchelSecuritySurvivorFillRiotControlOfficer-name = security satchel
-ent-RMCSatchelSecuritySurvivorFillRiotControlOfficer-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-RMCSatchelSecuritySurvivorFillRiotControlOfficer-name = сумка безопасности
+ent-RMCSatchelSecuritySurvivorFillRiotControlOfficer-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-RMCSatchelSecuritySurvivorFillCMBMarshal-name = security satchel
-ent-RMCSatchelSecuritySurvivorFillCMBMarshal-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-RMCSatchelSecuritySurvivorFillCMBMarshal-name = сумка безопасности
+ent-RMCSatchelSecuritySurvivorFillCMBMarshal-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelSecurityFilledProvost-name = security satchel
-ent-CMSatchelSecurityFilledProvost-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledProvost-name = сумка безопасности
+ent-CMSatchelSecurityFilledProvost-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelSecurityFilledProvostInspector-name = security satchel
-ent-CMSatchelSecurityFilledProvostInspector-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledProvostInspector-name = сумка безопасности
+ent-CMSatchelSecurityFilledProvostInspector-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelSecurityFilledProvostDeputyMarshal-name = security satchel
-ent-CMSatchelSecurityFilledProvostDeputyMarshal-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledProvostDeputyMarshal-name = сумка безопасности
+ent-CMSatchelSecurityFilledProvostDeputyMarshal-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelSecurityFilledProvostMarshal-name = security satchel
-ent-CMSatchelSecurityFilledProvostMarshal-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledProvostMarshal-name = сумка безопасности
+ent-CMSatchelSecurityFilledProvostMarshal-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelSecurityFilledProvostTeamLeader-name = security satchel
-ent-CMSatchelSecurityFilledProvostTeamLeader-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledProvostTeamLeader-name = сумка безопасности
+ent-CMSatchelSecurityFilledProvostTeamLeader-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelSecurityFilledProvostEnforcer-name = security satchel
-ent-CMSatchelSecurityFilledProvostEnforcer-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledProvostEnforcer-name = сумка безопасности
+ent-CMSatchelSecurityFilledProvostEnforcer-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-CMSatchelFilledFaxResponder-name = leather satchel
-ent-CMSatchelFilledFaxResponder-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchelFilledFaxResponder-name = кожаная сумка
+ent-CMSatchelFilledFaxResponder-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-CMSatchelSecurityFilledFaxResponder-name = security satchel
-ent-CMSatchelSecurityFilledFaxResponder-desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurityFilledFaxResponder-name = сумка безопасности
+ent-CMSatchelSecurityFilledFaxResponder-desc = Прочная сумка, состоящая из двух карманов и большого внутреннего кармана. 
 
-ent-RMCSatchelMarineChestrigPVE-name = UNMC IMP chestrig
-ent-RMCSatchelMarineChestrigPVE-desc = A heavy-duty IMP based chestrig, can quickly be accessed with only one hand.
+ent-RMCSatchelMarineChestrigPVE-name = Честриг UNMC IMP
+ent-RMCSatchelMarineChestrigPVE-desc = Прочный честриг на основе IMP, доступ к которому можно быстро получить одной рукой.
 
-ent-CMSatchelMarineTechSurvivorFill-name = Marine technician chestrig
-ent-CMSatchelMarineTechSurvivorFill-desc = A heavy-duty chestrig used by some Marine technicians.
+ent-CMSatchelMarineTechSurvivorFill-name = Морпех техник Честриг
+ent-CMSatchelMarineTechSurvivorFill-desc = Мощный чериг, используемый некоторыми техническими специалистами Морпеха.
 
-ent-RMCSatchelBureauObserverFill-name = leather satchel
-ent-RMCSatchelBureauObserverFill-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-RMCSatchelBureauObserverFill-name = кожаная сумка
+ent-RMCSatchelBureauObserverFill-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-RMCSatchelICBLiaisonFill-name = leather satchel
-ent-RMCSatchelICBLiaisonFill-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-RMCSatchelICBLiaisonFill-name = кожаная сумка
+ent-RMCSatchelICBLiaisonFill-desc = Очень нарядная сумка из тонкой кожи. 
 
-ent-RMCBackpackRTOPMCBroken-name = broken We-Ya radio telephone pack
-ent-RMCBackpackRTOPMCBroken-desc = A heavy-duty extended-pack, used for telecommunications between central command. Commonly carried by RTOs. This one bears the logo of Weston-Yamada and internal systems seem to be completely fried and broken.
+ent-RMCBackpackRTOPMCBroken-name = сломанный радиотелефонный блок We-Ya
+ent-RMCBackpackRTOPMCBroken-desc = Сверхмощный расширенный ранец, используемый для связи между центральным командованием. 
 
-ent-RMCBackpackRTOPMC-name = We-Ya radio telephone pack
-ent-RMCBackpackRTOPMC-desc = A heavy-duty extended-pack, used for telecommunications between central command. Commonly carried by RTOs. This one bears the logo of Weston-Yamada.
+ent-RMCBackpackRTOPMC-name = Радиотелефонный комплект We-Ya
+ent-RMCBackpackRTOPMC-desc = Сверхмощный расширенный ранец, используемый для связи между центральным командованием. 
 
-ent-RMCBackpackRTOSPP-name = SPP radio telephone pack
-ent-RMCBackpackRTOSPP-desc = A heavy-duty extended-pack, used for telecommunications between central command. Commonly carried by RTOs. This one bears the Socialist Progressive People's insignia.
+ent-RMCBackpackRTOSPP-name = Радиотелефонный пакет СПП
+ent-RMCBackpackRTOSPP-desc = Сверхмощный расширенный ранец, используемый для связи между центральным командованием. 
 
-ent-RMCBackpackRTOTSE-name = TSE radio telephone pack
-ent-RMCBackpackRTOTSE-desc = A heavy-duty extended-pack, used for telecommunications between central command. Commonly carried by RTOs. This one bears the Three Suns Empire's insignia.
+ent-RMCBackpackRTOTSE-name = Радиотелефонный комплект TSE
+ent-RMCBackpackRTOTSE-desc = Сверхмощный расширенный ранец, используемый для связи между центральным командованием. 
 
-ent-RMCSatchelLightpack5Slot-name = lightweight combat pack
-ent-RMCSatchelLightpack5Slot-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpack5Slot-name = легкий боевой ранец
+ent-RMCSatchelLightpack5Slot-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFreelancerMedic-name = lightweight combat pack
-ent-RMCSatchelLightpackFreelancerMedic-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFreelancerMedic-name = легкий боевой ранец
+ent-RMCSatchelLightpackFreelancerMedic-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFreelancerStandard-name = lightweight combat pack
-ent-RMCSatchelLightpackFreelancerStandard-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFreelancerStandard-name = легкий боевой ранец
+ent-RMCSatchelLightpackFreelancerStandard-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFreelancerLeader-name = lightweight combat pack
-ent-RMCSatchelLightpackFreelancerLeader-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFreelancerLeader-name = легкий боевой ранец
+ent-RMCSatchelLightpackFreelancerLeader-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyal-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyal-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyal-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyal-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyalCommando-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyalCommando-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyalCommando-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyalCommando-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyalMarksman-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyalMarksman-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyalMarksman-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyalMarksman-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyalMedic-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyalMedic-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyalMedic-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyalMedic-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyalLieutenant-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyalLieutenant-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyalLieutenant-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyalLieutenant-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyalMajor-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyalMajor-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyalMajor-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyalMajor-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledRoyalTeamlead-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledRoyalTeamlead-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledRoyalTeamlead-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledRoyalTeamlead-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledPara-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledPara-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledPara-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledPara-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledParaHelmet-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledParaHelmet-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledParaHelmet-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledParaHelmet-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledParaSynth-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledParaSynth-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledParaSynth-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledParaSynth-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackFilledHighCommand-name = lightweight combat pack
-ent-RMCSatchelLightpackFilledHighCommand-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackFilledHighCommand-name = легкий боевой ранец
+ent-RMCSatchelLightpackFilledHighCommand-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackBlack-name = lightweight combat pack
-ent-RMCSatchelLightpackBlack-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackBlack-name = легкий боевой ранец
+ent-RMCSatchelLightpackBlack-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackBlack5Slot-name = lightweight combat pack
-ent-RMCSatchelLightpackBlack5Slot-desc = A small, lightweight pack for expeditions and short-range operations.
+ent-RMCSatchelLightpackBlack5Slot-name = легкий боевой ранец
+ent-RMCSatchelLightpackBlack5Slot-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях.
 
-ent-RMCSatchelLightpackWeYa-name = We-Ya combat pack
-ent-RMCSatchelLightpackWeYa-desc = A small, lightweight pack for expeditions and short-range operations, designed for Weston-Yamada security and private military personnel.
+ent-RMCSatchelLightpackWeYa-name = Боевой набор We-Ya
+ent-RMCSatchelLightpackWeYa-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях, предназначенный для сотрудников службы безопасности Уэстон-Ямада и частных военных.
 
-ent-RMCSatchelLightpackWelderBlack-name = lightweight technician welderpack
-ent-RMCSatchelLightpackWelderBlack-desc = A small, lightweight pack for expeditions and short-range operations. Features a small fueltank for quick blowtorch refueling.
+ent-RMCSatchelLightpackWelderBlack-name = легкий комплект для технического сварщика
+ent-RMCSatchelLightpackWelderBlack-desc = Небольшой и легкий рюкзак для экспедиций и операций на ближних дистанциях. 
 
-ent-RMCSatchelSPPRifleman-name = UCP3 combat pack
-ent-RMCSatchelSPPRifleman-desc = An SPP military standard-issue Union Combat Pack MK3.
+ent-RMCSatchelSPPRifleman-name = Боевой пакет UCP3
+ent-RMCSatchelSPPRifleman-desc = Боевой пакет Union Combat Pack MK3 военного стандарта SPP.
 
-ent-RMCSatchelSPPMedic-name = UCP3 combat pack
-ent-RMCSatchelSPPMedic-desc = An SPP military standard-issue Union Combat Pack MK3.
+ent-RMCSatchelSPPMedic-name = Боевой пакет UCP3
+ent-RMCSatchelSPPMedic-desc = Боевой пакет Union Combat Pack MK3 военного стандарта SPP.
 
-ent-RMCSatchelSPPWelderEngineer-name = UCP3-E technician welderpack
-ent-RMCSatchelSPPWelderEngineer-desc = A special version of the Union Combat Pack MK3 featuring a small fueltank for quick blowtorch refueling. Used by SPP Sappers.
+ent-RMCSatchelSPPWelderEngineer-name = UCP3-E комплект для технического сварщика
+ent-RMCSatchelSPPWelderEngineer-desc = Специальная версия Union Combat Pack MK3 с небольшим топливным баком для быстрой заправки паяльной лампы. 
 
-ent-RMCSatchelCorporateSynthetic-name = TSP-4 police pack
-ent-RMCSatchelCorporateSynthetic-desc = A TSEPA standard-issue Three Suns Pack MK4.
+ent-RMCSatchelCorporateSynthetic-name = Полицейский пакет ТСП-4
+ent-RMCSatchelCorporateSynthetic-desc = Стандартный пакет «Три солнца» TSEPA MK4.
 

@@ -1,15 +1,15 @@
-ent-RMCPouchStorage-name = storage pouch
-ent-RMCPouchStorage-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchStorage-name = сумка для хранения
+ent-RMCPouchStorage-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouch-name = abstract pouch
-ent-RMCPouch-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouch-name = абстрактный мешочек
+ent-RMCPouch-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchClosed-name = abstract pouch
-ent-RMCPouchClosed-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchClosed-name = абстрактный мешочек
+ent-RMCPouchClosed-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchOpenClosed-name = abstract pouch
-ent-RMCPouchOpenClosed-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchOpenClosed-name = абстрактный мешочек
+ent-RMCPouchOpenClosed-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchFill-name = abstract pouch
-ent-RMCPouchFill-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchFill-name = абстрактный мешочек
+ent-RMCPouchFill-desc = Физическое проявление концепции сумки. 
 

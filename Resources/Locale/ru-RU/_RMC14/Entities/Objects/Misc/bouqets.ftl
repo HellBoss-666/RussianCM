@@ -1,9 +1,9 @@
-ent-RMCBouqetPoppy-name = poppy bouqet
-ent-RMCBouqetPoppy-desc = A collection of poppies arranged in wrapping paper.
+ent-RMCBouqetPoppy-name = букет маков
+ent-RMCBouqetPoppy-desc = Коллекция маков в упаковочной бумаге.
 
-ent-RMCBouqetLily-name = lily bouqet
-ent-RMCBouqetLily-desc = A collection of lilies arranged in wrapping paper. Appropriate for a memorial occasion.
+ent-RMCBouqetLily-name = букет лилий
+ent-RMCBouqetLily-desc = Коллекция лилий в упаковочной бумаге. 
 
-ent-RMCBouqetRose-name = rose bouqet
-ent-RMCBouqetRose-desc = A collection of roses arranged in wrapping paper.
+ent-RMCBouqetRose-name = букет роз
+ent-RMCBouqetRose-desc = Коллекция роз в упаковочной бумаге.
 

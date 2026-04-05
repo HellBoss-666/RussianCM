@@ -1,3 +1,3 @@
-ent-RMCHydroElectricGenerator-name = Hydro Electric Generator
-ent-RMCHydroElectricGenerator-desc = A high-power hydroelectric generator.
+ent-RMCHydroElectricGenerator-name = Гидроэлектрический Генератор
+ent-RMCHydroElectricGenerator-desc = Мощный гидроэлектрогенератор.
 

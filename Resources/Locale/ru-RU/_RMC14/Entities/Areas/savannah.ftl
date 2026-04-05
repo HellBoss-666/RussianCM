@@ -1,144 +1,144 @@
-ent-RMCAreaSavannahChurch-name = Church
+ent-RMCAreaSavannahChurch-name = Церковь
 
-ent-RMCAreaSavannahMemorial-name = Memorial
+ent-RMCAreaSavannahMemorial-name = Мемориал
 
-ent-RMCAreaSavannahLifeboatPort-name = Lifeboat Docking Port
+ent-RMCAreaSavannahLifeboatPort-name = Причал для спасательной шлюпки
 
-ent-RMCAreaSavannahLifeboatStarboard-name = Lifeboat Docking Starboard
+ent-RMCAreaSavannahLifeboatStarboard-name = Спасательная шлюпка пришвартована по правому борту
 
-ent-RMCAreaSavannahLifeboatAmidship-name = Lifeboat Docking Amidship
+ent-RMCAreaSavannahLifeboatAmidship-name = Спасательная шлюпка причаливается на миделе корабля
 
-ent-RMCAreaSavannahBriefing-name = Briefing
+ent-RMCAreaSavannahBriefing-name = Брифинг
 
-ent-RMCAreaSavannahSEA-name = Ordnance and SEA Offices
+ent-RMCAreaSavannahSEA-name = Управления боеприпасов и СЭО
 
-ent-RMCAreaSavannahPumpPortQuarter-name = Port Quarter Pump
+ent-RMCAreaSavannahPumpPortQuarter-name = Портовый четвертьнасос
 
-ent-RMCAreaSavannahPumpPortBow-name = Port Bow Pump
+ent-RMCAreaSavannahPumpPortBow-name = Порт-носовой насос
 
-ent-RMCAreaSavannahPumpStarboardQuarter-name = Starboard Quarter Pump
+ent-RMCAreaSavannahPumpStarboardQuarter-name = Четверть насоса правого борта
 
-ent-RMCAreaSavannahPumpStarboardBow-name = Starboard Bow Pump
+ent-RMCAreaSavannahPumpStarboardBow-name = Носовой насос правого борта
 
-ent-RMCAreaSavannahSynthetic-name = Synthetic Storage
+ent-RMCAreaSavannahSynthetic-name = Синтетическое хранилище
 
-ent-RMCAreaSavannahAtmosPort-name = Port Atmos
+ent-RMCAreaSavannahAtmosPort-name = Порт Атмос
 
-ent-RMCAreaSavannahAtmosStarboard-name = Starboard Atmos
+ent-RMCAreaSavannahAtmosStarboard-name = Правый борт Атмос
 
-ent-RMCAreaSavannahEngineeringPreparations-name = Engineering Preparations
+ent-RMCAreaSavannahEngineeringPreparations-name = Инженерные приготовления
 
-ent-RMCAreaSavannahChiefEngineer-name = Chief Engineer Room
+ent-RMCAreaSavannahChiefEngineer-name = Комната главного инженера
 
-ent-RMCAreaSavannahEngineeringGenerator-name = Engineering Generator
+ent-RMCAreaSavannahEngineeringGenerator-name = Инженерный генератор
 
-ent-RMCAreaSavannahEngineering-name = Engineering
+ent-RMCAreaSavannahEngineering-name = Инженерное дело
 
-ent-RMCAreaSavannahDelta-name = Delta Preparation
+ent-RMCAreaSavannahDelta-name = Подготовка Дельты
 
-ent-RMCAreaSavannahCharlie-name = Charlie Preparation
+ent-RMCAreaSavannahCharlie-name = Подготовка Чарли
 
-ent-RMCAreaSavannahCharlieDelta-name = Charlie-Delta Preparation
+ent-RMCAreaSavannahCharlieDelta-name = Чарли-Дельта Подготовка
 
-ent-RMCAreaSavannahBravo-name = Bravo Preparation
+ent-RMCAreaSavannahBravo-name = Браво Подготовка
 
-ent-RMCAreaSavannahAlpha-name = Alpha Preparation
+ent-RMCAreaSavannahAlpha-name = Альфа-подготовка
 
-ent-RMCAreaSavannahAlphaBravo-name = Alpha-Bravo Preparation
+ent-RMCAreaSavannahAlphaBravo-name = Альфа-Браво Подготовка
 
-ent-RMCAreaSavannahCanteen-name = Canteen
+ent-RMCAreaSavannahCanteen-name = Столовая
 
-ent-RMCAreaSavannahQuartermaster-name = Logistics Officer Office
+ent-RMCAreaSavannahQuartermaster-name = Офис специалиста по логистике
 
-ent-RMCAreaSavannahRequisitions-name = Requisitions
+ent-RMCAreaSavannahRequisitions-name = Реквизиты
 
-ent-RMCAreaSavannahPilotsRoom-name = Pilots Room
+ent-RMCAreaSavannahPilotsRoom-name = Комната пилотов
 
-ent-RMCAreaSavannahHangarStarboard-name = Hangar Starboard
+ent-RMCAreaSavannahHangarStarboard-name = Ангар по правому борту
 
-ent-RMCAreaSavannahHangarPort-name = Hangar Port
+ent-RMCAreaSavannahHangarPort-name = Ангар Порт
 
-ent-RMCAreaSavannahMedicalResearch-name = Research
+ent-RMCAreaSavannahMedicalResearch-name = Исследовать
 
-ent-RMCAreaSavannahMedicalPreparation-name = Medical Preparation
+ent-RMCAreaSavannahMedicalPreparation-name = Медицинская подготовка
 
-ent-RMCAreaSavannahMedicalChemistry-name = Chemistry Room
+ent-RMCAreaSavannahMedicalChemistry-name = Химический кабинет
 
-ent-RMCAreaSavannahMedicalSurgery-name = Surgery Room
+ent-RMCAreaSavannahMedicalSurgery-name = Операционный зал
 
-ent-RMCAreaSavannahMedical-name = Medical
+ent-RMCAreaSavannahMedical-name = Медицинский
 
-ent-RMCAreaSavannahIO-name = IO office
+ent-RMCAreaSavannahIO-name = офис ИО
 
 ent-RMCAreaSavannahTComms-name = TComms
 
-ent-RMCAreaSavannahASO-name = ASO and Command Cryo
+ent-RMCAreaSavannahASO-name = ASO и Command Cryo
 
-ent-RMCAreaSavannahCIC-name = Combat Information Center
+ent-RMCAreaSavannahCIC-name = Боевой информационный центр
 
-ent-RMCAreaSavannahCICCorridorStarboard-name = CIC Starboard Corridor
+ent-RMCAreaSavannahCICCorridorStarboard-name = Коридор CIC по правому борту
 
-ent-RMCAreaSavannahCICCorridorPort-name = CIC Port Corridor
+ent-RMCAreaSavannahCICCorridorPort-name = Портовый коридор CIC
 
-ent-RMCAreaSavannahCommandingOfficer-name = Commanding Officer Bunks
+ent-RMCAreaSavannahCommandingOfficer-name = Командир Банкс
 
-ent-RMCAreaSavannahOfficerBunks-name = Officer Bunks
+ent-RMCAreaSavannahOfficerBunks-name = Офицер Банкс
 
-ent-RMCAreaSavannahPilotBunks-name = Pilot Bunks
+ent-RMCAreaSavannahPilotBunks-name = Пилотные койки
 
-ent-RMCAreaSavannahLiaison-name = Liaison Office
+ent-RMCAreaSavannahLiaison-name = Офис связи
 
-ent-RMCAreaSavannahPortPointDefense-name = Port Point Defense
+ent-RMCAreaSavannahPortPointDefense-name = Порт-Пойнт Дефенс
 
-ent-RMCAreaSavannahStarboardPointDefense-name = Starboard Point Defense
+ent-RMCAreaSavannahStarboardPointDefense-name = Защита правого борта
 
-ent-RMCAreaSavannahBrigPrep-name = Brig Preparations
+ent-RMCAreaSavannahBrigPrep-name = Бриговые приготовления
 
-ent-RMCAreaSavannahBrigPrison-name = Brig Prison
+ent-RMCAreaSavannahBrigPrison-name = Бриговая тюрьма
 
-ent-RMCAreaSavannahBrigBow-name = Brig Bow Corridor
+ent-RMCAreaSavannahBrigBow-name = Коридор Бриг-Боу
 
-ent-RMCAreaSavannahBrigCorridor-name = Brig Main Corridor
+ent-RMCAreaSavannahBrigCorridor-name = Главный коридор брига
 
-ent-RMCAreaSavannahBrigOB-name = Orbital Cannon Room
+ent-RMCAreaSavannahBrigOB-name = Орбитальная пушечная комната
 
-ent-RMCAreaSavannahBrigRange-name = Brig Shooting Range
+ent-RMCAreaSavannahBrigRange-name = Бриговый тир
 
-ent-RMCAreaSavannahBrigWarden-name = Warden Office
+ent-RMCAreaSavannahBrigWarden-name = Офис смотрителя
 
-ent-RMCAreaSavannahBrigCMP-name = CMP Office
+ent-RMCAreaSavannahBrigCMP-name = Офис CMP
 
-ent-RMCAreaSavannahCorridorBriefingPort-name = Briefing Port Corridor
+ent-RMCAreaSavannahCorridorBriefingPort-name = Коридор порта брифинга
 
-ent-RMCAreaSavannahCorridorBriefingStarboard-name = Briefing Starboard Corridor
+ent-RMCAreaSavannahCorridorBriefingStarboard-name = Брифинг по правому борту коридора
 
-ent-RMCAreaSavannahCorridorEscape-name = Escape Pods Corridor
+ent-RMCAreaSavannahCorridorEscape-name = Коридор спасательных капсул
 
-ent-RMCAreaSavannahCorridorEngineering-name = Engineering Corridor
+ent-RMCAreaSavannahCorridorEngineering-name = Инженерный коридор
 
-ent-RMCAreaSavannahCorridorAmidship-name = Amidship Corridor
+ent-RMCAreaSavannahCorridorAmidship-name = Мидель Коридор
 
-ent-RMCAreaSavannahMaintsPortQuarter-name = Port Quarter Maints
+ent-RMCAreaSavannahMaintsPortQuarter-name = Портовый квартал
 
-ent-RMCAreaSavannahMaintsStarboardQuarter-name = Starboard Quarter Maints
+ent-RMCAreaSavannahMaintsStarboardQuarter-name = Обслуживание правого борта
 
-ent-RMCAreaSavannahMaintsPortBeam-name = Port Beam Maints
+ent-RMCAreaSavannahMaintsPortBeam-name = Портовые балки
 
-ent-RMCAreaSavannahMaintsStarboardBeam-name = Starboard Beam Maints
+ent-RMCAreaSavannahMaintsStarboardBeam-name = Стойки правого борта
 
-ent-RMCAreaSavannahMaintsPortBow-name = Port Bow Maints
+ent-RMCAreaSavannahMaintsPortBow-name = Порт-Боу-Ментс
 
-ent-RMCAreaSavannahMaintsStarboardBow-name = Starboard Bow Maints
+ent-RMCAreaSavannahMaintsStarboardBow-name = Носовая часть правого борта
 
-ent-RMCAreaSavannahMaints-name = Maints
+ent-RMCAreaSavannahMaints-name = Майнц
 
-ent-RMCAreaSavannah-name = area
+ent-RMCAreaSavannah-name = область
 
-ent-RMCAreaSavannahBrig-name = area
+ent-RMCAreaSavannahBrig-name = область
 
-ent-RMCAreaSavannahCommand-name = area
+ent-RMCAreaSavannahCommand-name = область
 
-ent-RMCAreaSavannahAuxiliary-name = area
+ent-RMCAreaSavannahAuxiliary-name = область
 
-ent-RMCAreaSavannahPumpBase-name = area
+ent-RMCAreaSavannahPumpBase-name = область
 

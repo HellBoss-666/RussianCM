@@ -1,13 +1,13 @@
-ent-RMCCartridgeRifleM16-name = cartridge
+ent-RMCCartridgeRifleM16-name = картридж
 
-ent-RMCMagazineRifleM16-name = item
+ent-RMCMagazineRifleM16-name = элемент
 
-ent-WeaponRifleM16-name = M16 rifle
-ent-WeaponRifleM16-desc = An old, reliable design first adopted by the U.N. military in the 1960s. Something like this belongs in a museum of war history. It is chambered in 5.56x45mm.
+ent-WeaponRifleM16-name = Винтовка М16
+ent-WeaponRifleM16-desc = Старая, надежная конструкция, впервые принятая на вооружение вооруженными силами ООН в 1960-х годах. 
 
-ent-RMCWeaponRifleM16A5-name = M16A5 Rifle
-ent-RMCWeaponRifleM16A5-desc = Modernized version of M16 platform rifle, probably originated from bottomless stockpiles of the United Nations when they switched to more modern rifles. It is chambered in 5.56x45mm.
+ent-RMCWeaponRifleM16A5-name = Винтовка М16А5
+ent-RMCWeaponRifleM16A5-desc = Модернизированная версия винтовки на платформе М16, вероятно, возникла из бездонных запасов ООН, когда они перешли на более современные винтовки. 
 
-ent-BulletRifle556x45mm-name = BaseBullet
-ent-BulletRifle556x45mm-desc = If you can see this you're probably dead!
+ent-BulletRifle556x45mm-name = БазаBullet
+ent-BulletRifle556x45mm-desc = Если ты это видишь, ты, вероятно, мертв!
 

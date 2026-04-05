@@ -1,52 +1,52 @@
-ent-RMCPylonMapIcon-name = hive pylon
+ent-RMCPylonMapIcon-name = пилон улья
 
-ent-RMCRecovNodeMapIcon-name = Recovery node
+ent-RMCRecovNodeMapIcon-name = Узел восстановления
 
-ent-RMCTunnelMapIcon-name = Tunnel
+ent-RMCTunnelMapIcon-name = Туннель
 
-ent-RMCClusterMapIcon-name = Hive cluster
+ent-RMCClusterMapIcon-name = Кластер улья
 
-ent-RMCMorpherMapIcon-name = Egg morpher
+ent-RMCMorpherMapIcon-name = Яичный морфер
 
-ent-RMCHiveCoreMapIcon-name = Hive core
+ent-RMCHiveCoreMapIcon-name = Ядро улья
 
-ent-RMCLeaderMapIcon-name = Leader Crown
+ent-RMCLeaderMapIcon-name = Корона лидера
 
-ent-RMCQueenMapIcon-name = Queen
+ent-RMCQueenMapIcon-name = Королева
 
-ent-RMCPraetorianMapIcon-name = Praetorian
+ent-RMCPraetorianMapIcon-name = Преторианец
 
-ent-RMCRavagerMapIcon-name = Ravager
+ent-RMCRavagerMapIcon-name = Разрушитель
 
-ent-RMCLurkerMapIcon-name = Lurker
+ent-RMCLurkerMapIcon-name = Люркер
 
-ent-RMCRunnerMapIcon-name = Runner
+ent-RMCRunnerMapIcon-name = Бегун
 
-ent-RMCBoilerMapIcon-name = Boiler
+ent-RMCBoilerMapIcon-name = Котел
 
-ent-RMCSpitterMapIcon-name = Spitter
+ent-RMCSpitterMapIcon-name = Спиттер
 
-ent-RMCSentinelMapIcon-name = Sentinel
+ent-RMCSentinelMapIcon-name = Страж
 
-ent-RMCCrusherMapIcon-name = Crusher
+ent-RMCCrusherMapIcon-name = Крушитель
 
-ent-RMCWarriorMapIcon-name = Warrior
+ent-RMCWarriorMapIcon-name = Воин
 
-ent-RMCDefenderMapIcon-name = Defender
+ent-RMCDefenderMapIcon-name = Защитник
 
-ent-RMCCarrierMapIcon-name = Carrier
+ent-RMCCarrierMapIcon-name = Перевозчик
 
-ent-RMCBurrowerMapIcon-name = Burrower
+ent-RMCBurrowerMapIcon-name = Роющий
 
-ent-RMCHivelordMapIcon-name = Hivelord
+ent-RMCHivelordMapIcon-name = Хивелорд
 
-ent-RMCDroneMapIcon-name = Drone
+ent-RMCDroneMapIcon-name = Дрон
 
-ent-RMCLarvaMapIcon-name = Larva
+ent-RMCLarvaMapIcon-name = Личинка
 
-ent-RMCParasiteMapIcon-name = Parasite
+ent-RMCParasiteMapIcon-name = Паразит
 
-ent-RMCLesserMapIcon-name = Lesser
+ent-RMCLesserMapIcon-name = Меньший
 
-ent-RMCBaseMapIcon-name = Icon
+ent-RMCBaseMapIcon-name = Икона
 

@@ -1,12 +1,12 @@
-ent-RMCWallChigusa-name = facility wall
-ent-RMCWallChigusa-desc = A huge chunk of reinforced metal used to separate rooms.
+ent-RMCWallChigusa-name = стена объекта
+ent-RMCWallChigusa-desc = Огромный кусок армированного металла, используемый для разделения комнат.
 
-ent-RMCWallBunker-name = bunker wall
-ent-RMCWallBunker-desc = A huge chunk of reinforced metal used to separate rooms.
+ent-RMCWallBunker-name = Стена бункера
+ent-RMCWallBunker-desc = Огромный кусок армированного металла, используемый для разделения комнат.
 
-ent-RMCWallHangar-name = hangar wall
-ent-RMCWallHangar-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallHangar-name = стена ангара
+ent-RMCWallHangar-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallRockTrijent-name = rock wall
-ent-RMCWallRockTrijent-desc = A rough wall of hardened rock.
+ent-RMCWallRockTrijent-name = каменная стена
+ent-RMCWallRockTrijent-desc = Грубая стена из затвердевшего камня.
 

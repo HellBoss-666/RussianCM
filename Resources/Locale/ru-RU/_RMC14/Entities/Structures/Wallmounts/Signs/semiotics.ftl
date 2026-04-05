@@ -1,269 +1,269 @@
-ent-CMSemioticNine-name = nine semiotic
-ent-CMSemioticNine-desc = Semiotic Standard denoting the number nine.
+ent-CMSemioticNine-name = девять семиотических
+ent-CMSemioticNine-desc = Семиотический стандарт, обозначающий число девять.
 
-ent-CMSemioticEight-name = eight semiotic
-ent-CMSemioticEight-desc = Semiotic Standard denoting the number eight.
+ent-CMSemioticEight-name = восемь семиотических
+ent-CMSemioticEight-desc = Семиотический стандарт, обозначающий число восемь.
 
-ent-CMSemioticSeven-name = seven semiotic
-ent-CMSemioticSeven-desc = Semiotic Standard denoting the number seven.
+ent-CMSemioticSeven-name = семь семиотических
+ent-CMSemioticSeven-desc = Семиотический стандарт, обозначающий число семь.
 
-ent-CMSemioticSix-name = six semiotic
-ent-CMSemioticSix-desc = Semiotic Standard denoting the number six.
+ent-CMSemioticSix-name = шесть семиотических
+ent-CMSemioticSix-desc = Семиотический стандарт, обозначающий число шесть.
 
-ent-CMSemioticFive-name = five semiotic
-ent-CMSemioticFive-desc = Semiotic Standard denoting the number five.
+ent-CMSemioticFive-name = пять семиотических
+ent-CMSemioticFive-desc = Семиотический стандарт, обозначающий число пять.
 
-ent-CMSemioticFour-name = four semiotic
-ent-CMSemioticFour-desc = Semiotic Standard denoting the number four.
+ent-CMSemioticFour-name = четыре семиотических
+ent-CMSemioticFour-desc = Семиотический стандарт, обозначающий число четыре.
 
-ent-CMSemioticThree-name = three semiotic
-ent-CMSemioticThree-desc = Semiotic Standard denoting the number three.
+ent-CMSemioticThree-name = три семиотических
+ent-CMSemioticThree-desc = Семиотический стандарт, обозначающий число три.
 
-ent-CMSemioticTwo-name = two semiotic
-ent-CMSemioticTwo-desc = Semiotic Standard denoting the number two.
+ent-CMSemioticTwo-name = два семиотических
+ent-CMSemioticTwo-desc = Семиотический стандарт, обозначающий число два.
 
-ent-CMSemioticOne-name = one semiotic
-ent-CMSemioticOne-desc = Semiotic Standard denoting the number one.
+ent-CMSemioticOne-name = одна семиотика
+ent-CMSemioticOne-desc = Семиотический эталон, обозначающий число один.
 
-ent-CMSemioticZero-name = zero semiotic
-ent-CMSemioticZero-desc = Semiotic Standard denoting the number zero.
+ent-CMSemioticZero-name = нулевая семиотика
+ent-CMSemioticZero-desc = Семиотический стандарт, обозначающий число ноль.
 
-ent-CMSemioticLandingzone-name = landing zone semiotic
-ent-CMSemioticLandingzone-desc = Semiotic Standard denoting the presecense of a landing zone nearby.
+ent-CMSemioticLandingzone-name = семиотическая зона приземления
+ent-CMSemioticLandingzone-desc = Семиотический стандарт, обозначающий наличие поблизости зоны высадки.
 
-ent-CMSemioticLuggageclaim-name = luggage claim semiotic
-ent-CMSemioticLuggageclaim-desc = Semiotic Standard denoting the presecense of a luggage claim area nearby.
+ent-CMSemioticLuggageclaim-name = семиотическая выдача багажа
+ent-CMSemioticLuggageclaim-desc = Семиотический стандарт, обозначающий наличие поблизости зоны выдачи багажа.
 
-ent-CMSemioticAirtraffictower-name = air traffic tower semiotic
-ent-CMSemioticAirtraffictower-desc = Semiotic Standard denoting an air traffic tower nearby.
+ent-CMSemioticAirtraffictower-name = Семиотическая башня воздушного движения
+ent-CMSemioticAirtraffictower-desc = Семиотический стандарт, обозначающий расположенную поблизости вышку воздушного движения.
 
-ent-CMSemioticFlightcontrol-name = flight control semiotic
-ent-CMSemioticFlightcontrol-desc = Semiotic Standard denoting an area used by or for flight control systems.
+ent-CMSemioticFlightcontrol-name = семиотика управления полетом
+ent-CMSemioticFlightcontrol-desc = Семиотический стандарт, обозначающий территорию, используемую системами управления полетом или для них.
 
-ent-CMSemioticZero_g-name = artificial gravity absent semiotic
-ent-CMSemioticZero_g-desc = Semiotic Standard denoting the nearby lack of artificial gravity.
+ent-CMSemioticZero_g-name = искусственная гравитация отсутствует семиотика
+ent-CMSemioticZero_g-desc = Семиотический стандарт, обозначающий близлежащее отсутствие искусственной гравитации.
 
-ent-CMSemioticWest-name = West semiotic
-ent-CMSemioticWest-desc = Semiotic Standard denoting the nearby presence of something to the West.
+ent-CMSemioticWest-name = Западная семиотика
+ent-CMSemioticWest-desc = Семиотический стандарт, обозначающий близлежащее присутствие чего-либо на Западе.
 
-ent-CMSemioticWaterhazard-name = water hazard semiotic
-ent-CMSemioticWaterhazard-desc = Semiotic Standard denoting a water hazard. Keep electronics away.
+ent-CMSemioticWaterhazard-name = водная опасность семиотическая
+ent-CMSemioticWaterhazard-desc = Семиотический стандарт, обозначающий водную опасность. 
 
-ent-CMSemioticWater-name = water semiotic
-ent-CMSemioticWater-desc = Semiotic Standard denoting the nearby presence of water.
+ent-CMSemioticWater-name = семиотика воды
+ent-CMSemioticWater-desc = Семиотический стандарт, обозначающий наличие поблизости воды.
 
-ent-CMSemioticTwilight_zone_terminator-name = twilight zone terminator semiotic
-ent-CMSemioticTwilight_zone_terminator-desc = Semiotic Standard denoting the nearby presence of a twilight zone terminator. It's way less cool than it sounds.
+ent-CMSemioticTwilight_zone_terminator-name = терминатор сумеречная зона семиотический
+ent-CMSemioticTwilight_zone_terminator-desc = Семиотический стандарт, обозначающий наличие поблизости терминатора сумеречной зоны. 
 
-ent-CMSemioticTram-name = tram line semiotic
-ent-CMSemioticTram-desc = Semiotic Standard denoting the nearby presence of a tram line.
+ent-CMSemioticTram-name = трамвайная линия семиотическая
+ent-CMSemioticTram-desc = Семиотический стандарт, обозначающий наличие поблизости трамвайной линии.
 
-ent-CMSemioticTerminal-name = computer terminal semiotic
-ent-CMSemioticTerminal-desc = Semiotic Standard denoting the nearby presence of a computer terminal.
+ent-CMSemioticTerminal-name = компьютерный терминал, семиотический
+ent-CMSemioticTerminal-desc = Семиотический стандарт, обозначающий наличие поблизости компьютерного терминала.
 
-ent-CMSemioticSilicon_storage-name = silicon storage semiotic
-ent-CMSemioticSilicon_storage-desc = Semiotic Standard denoting the nearby presence of a silicon unit storage room.
+ent-CMSemioticSilicon_storage-name = семиотический кремниевый накопитель
+ent-CMSemioticSilicon_storage-desc = Семиотический стандарт, обозначающий наличие поблизости склада кремниевых единиц.
 
-ent-CMSemioticSuit_storage-name = pressure suit locker semiotic
-ent-CMSemioticSuit_storage-desc = Semiotic Standard denoting the nearby presence of a pressure suit storage locker.
+ent-CMSemioticSuit_storage-name = шкафчик для скафандров семиотический
+ent-CMSemioticSuit_storage-desc = Семиотический стандарт, обозначающий наличие поблизости шкафчика для хранения скафандров.
 
-ent-CMSemioticStorage-name = storage semiotic
-ent-CMSemioticStorage-desc = Semiotic Standard denoting the nearby presence of a general dry storage room.
+ent-CMSemioticStorage-name = семиотика хранения
+ent-CMSemioticStorage-desc = Семиотический стандарт, обозначающий наличие поблизости общего сухого складского помещения.
 
-ent-CMSemioticStairs-name = stairs semiotic
-ent-CMSemioticStairs-desc = Semiotic Standard denoting the nearby presence of a staircase.
+ent-CMSemioticStairs-name = лестница семиотическая
+ent-CMSemioticStairs-desc = Семиотический стандарт, обозначающий наличие поблизости лестницы.
 
-ent-CMSemioticSouth-name = South semiotic
-ent-CMSemioticSouth-desc = Semiotic Standard denoting the nearby presence of something to the South.
+ent-CMSemioticSouth-name = Южная семиотика
+ent-CMSemioticSouth-desc = Семиотический стандарт, обозначающий близлежащее присутствие чего-либо на юге.
 
-ent-CMSemioticSecurity-name = security semiotic
-ent-CMSemioticSecurity-desc = Semiotic Standard denoting the nearby presence of law enforcement or a security force.
+ent-CMSemioticSecurity-name = семиотика безопасности
+ent-CMSemioticSecurity-desc = Семиотический стандарт, обозначающий присутствие поблизости правоохранительных органов или сил безопасности.
 
-ent-CMSemioticRewire-name = rewire system semiotic
-ent-CMSemioticRewire-desc = Semiotic Standard denoting the nearby presence of a rewire system.
+ent-CMSemioticRewire-name = перемонтировать систему семиотики
+ent-CMSemioticRewire-desc = Семиотический стандарт, обозначающий наличие поблизости перемонтированной системы.
 
-ent-CMSemioticRefridgeration-name = refrigeration semiotic
-ent-CMSemioticRefridgeration-desc = Semiotic Standard denoting the nearby presence of non-food refrigeration.
+ent-CMSemioticRefridgeration-name = семиотика охлаждения
+ent-CMSemioticRefridgeration-desc = Семиотический стандарт, обозначающий наличие поблизости непищевого холодильного оборудования.
 
-ent-CMSemioticFridge-name = refrigerated storage (organic foodstuffs) semiotic
-ent-CMSemioticFridge-desc = Semiotic Standard denoting the nearby presence of a fridge.
+ent-CMSemioticFridge-name = холодильное хранение (органические продукты питания) семиотическое
+ent-CMSemioticFridge-desc = Семиотический стандарт, обозначающий наличие поблизости холодильника.
 
-ent-CMSemioticRestrictedarea-name = restricted area semiotic
-ent-CMSemioticRestrictedarea-desc = Semiotic Standard denoting the nearby presence of a restricted area.
+ent-CMSemioticRestrictedarea-name = ограниченная область семиотики
+ent-CMSemioticRestrictedarea-desc = Семиотический стандарт, обозначающий наличие поблизости запретной зоны.
 
-ent-CMSemioticRef_chem_storage-name = refrigerated chemical storage semiotic
-ent-CMSemioticRef_chem_storage-desc = Semiotic Standard denoting the nearby presence of refrigerated chemical storage.
+ent-CMSemioticRef_chem_storage-name = холодильное хранилище химикатов семиотическое
+ent-CMSemioticRef_chem_storage-desc = Семиотический стандарт, обозначающий наличие поблизости холодильного склада химикатов.
 
-ent-CMSemioticRef_bio_storage-name = refrigerated biological storage semiotic
-ent-CMSemioticRef_bio_storage-desc = Semiotic Standard denoting the nearby presence of refrigerated biological storage.
+ent-CMSemioticRef_bio_storage-name = охлаждаемый биологический склад семиотический
+ent-CMSemioticRef_bio_storage-desc = Семиотический стандарт, обозначающий наличие поблизости охлажденного биологического хранилища.
 
-ent-CMSemioticReduction-name = reduction dilation of area semiotic
-ent-CMSemioticReduction-desc = Semiotic Standard denoting that the area gets smaller ahead.
+ent-CMSemioticReduction-name = уменьшение расширения семиотической области
+ent-CMSemioticReduction-desc = Семиотический стандарт, обозначающий, что область впереди становится меньше.
 
-ent-CMSemioticReception-name = reception semiotic
-ent-CMSemioticReception-desc = Semiotic Standard denoting the nearby presence of a reception area.
+ent-CMSemioticReception-name = семиотический прием
+ent-CMSemioticReception-desc = Семиотический стандарт, обозначающий наличие поблизости приемной.
 
-ent-CMSemioticRadio_rad-name = radiation of radio waves semiotic
-ent-CMSemioticRadio_rad-desc = Semiotic Standard denoting the nearby presence of radiation from a radio tower.
+ent-CMSemioticRadio_rad-name = излучение радиоволн семиотическое
+ent-CMSemioticRadio_rad-desc = Семиотический стандарт, обозначающий наличие поблизости излучения радиовышки.
 
-ent-CMSemioticRad_shield-name = area shielded from radiation semiotic
-ent-CMSemioticRad_shield-desc = Semiotic Standard denoting the nearby presence of an area shielded from radiation.
+ent-CMSemioticRad_shield-name = область, защищенная от радиации семиотическая
+ent-CMSemioticRad_shield-desc = Семиотический стандарт, обозначающий наличие поблизости территории, защищенной от радиации.
 
-ent-CMSemioticRad_haz-name = radiation hazard semiotic
-ent-CMSemioticRad_haz-desc = Semiotic Standard denoting the nearby presence of a radiation hazard.
+ent-CMSemioticRad_haz-name = радиационная опасность семиотическая
+ent-CMSemioticRad_haz-desc = Семиотический стандарт, обозначающий наличие поблизости радиационной опасности.
 
-ent-CMSemioticPress_area-name = pressurized area semiotic
-ent-CMSemioticPress_area-desc = Semiotic Standard denoting the nearby presence of a pressurized area.
+ent-CMSemioticPress_area-name = семиотическая область давления
+ent-CMSemioticPress_area-desc = Семиотический стандарт, обозначающий наличие поблизости зоны повышенного давления.
 
-ent-CMSemioticPress_area_ag-name = pressurized with artificial gravity semiotic
-ent-CMSemioticPress_area_ag-desc = Semiotic Standard denoting the nearby presence of a pressurized area without artificial gravity.
+ent-CMSemioticPress_area_ag-name = под давлением искусственной гравитации семиотический
+ent-CMSemioticPress_area_ag-desc = Семиотический стандарт, обозначающий наличие поблизости герметичной области без искусственной гравитации.
 
-ent-CMSemioticFibre_optics-name = photonics systems (fibre optics) semiotic
-ent-CMSemioticFibre_optics-desc = Semiotic Standard denoting the nearby presence of fibre optics lines.
+ent-CMSemioticFibre_optics-name = фотонные системы (волоконная оптика) семиотические
+ent-CMSemioticFibre_optics-desc = Семиотический стандарт, обозначающий наличие поблизости волоконно-оптических линий.
 
-ent-CMSemioticOutpatient-name = outpatient clinic semiotic
-ent-CMSemioticOutpatient-desc = Semiotic Standard denoting the nearby presence of an outpatient clinic.
+ent-CMSemioticOutpatient-name = поликлиника семиотическая
+ent-CMSemioticOutpatient-desc = Семиотический стандарт, обозначающий наличие поблизости поликлиники.
 
-ent-CMSemioticOpens_up-name = opens upwards semiotic
-ent-CMSemioticOpens_up-desc = Semiotic Standard denoting the nearby door opens upwards.
+ent-CMSemioticOpens_up-name = открывается вверх семиотический
+ent-CMSemioticOpens_up-desc = Семиотический стандарт, обозначающий ближайшую дверь, открывающуюся вверх.
 
-ent-CMSemioticNorth-name = North semiotic
-ent-CMSemioticNorth-desc = Semiotic Standard denoting the nearby presence of something to the North.
+ent-CMSemioticNorth-name = Северная семиотика
+ent-CMSemioticNorth-desc = Семиотический стандарт, обозначающий близлежащее присутствие чего-либо на Севере.
 
-ent-CMSemioticNonpress_0g-name = non-pressurized area, no gravity, suit required semiotic
-ent-CMSemioticNonpress_0g-desc = Semiotic Standard denoting that the area beyond isn't pressurized and has no artificial gravity.
+ent-CMSemioticNonpress_0g-name = зона без давления, отсутствие гравитации, требуется семиотический костюм
+ent-CMSemioticNonpress_0g-desc = Семиотический стандарт, обозначающий, что область за ее пределами не находится под давлением и не имеет искусственной гравитации.
 
-ent-CMSemioticNonpress_ag-name = artificial gravity area, non-pressurized, suit required semiotic
-ent-CMSemioticNonpress_ag-desc = Semiotic Standard denoting the nearby presence of an area with artificial gravity lacking in pressurization.
+ent-CMSemioticNonpress_ag-name = зона искусственной гравитации, без давления, требуется семиотический костюм
+ent-CMSemioticNonpress_ag-desc = Семиотический стандарт, обозначающий наличие поблизости области с искусственной гравитацией и отсутствием герметизации.
 
-ent-CMSemioticNonpress-name = non-pressurized area beyond semiotic
-ent-CMSemioticNonpress-desc = Semiotic Standard denoting that the area beyond isn't pressurized.
+ent-CMSemioticNonpress-name = негерметичная область за пределами семиотики
+ent-CMSemioticNonpress-desc = Семиотический стандарт, обозначающий, что область за ее пределами не находится под давлением.
 
-ent-CMSemioticMedical-name = medical semiotic
-ent-CMSemioticMedical-desc = Semiotic Standard denoting the nearby presence of a medbay.
+ent-CMSemioticMedical-name = медицинская семиотика
+ent-CMSemioticMedical-desc = Семиотический стандарт, обозначающий наличие поблизости медотсека.
 
-ent-CMSemioticMed_life_support-name = medical life support semiotic
-ent-CMSemioticMed_life_support-desc = Semiotic Standard denoting the nearby presence of a life support system for a medbay.
+ent-CMSemioticMed_life_support-name = медицинское жизнеобеспечение семиотическое
+ent-CMSemioticMed_life_support-desc = Семиотический стандарт, обозначающий наличие поблизости системы жизнеобеспечения медотсека.
 
-ent-CMSemioticMed_cryo-name = medical cryostasis vault semiotic
-ent-CMSemioticMed_cryo-desc = Semiotic Standard denoting the nearby presence of a medical cryostasis vault.
+ent-CMSemioticMed_cryo-name = медицинский криостаз хранилище семиотический
+ent-CMSemioticMed_cryo-desc = Семиотический стандарт, обозначающий наличие поблизости медицинского криостаза.
 
-ent-CMSemioticManualopenclose-name = manual opener/closer semiotic
-ent-CMSemioticManualopenclose-desc = Semiotic Standard denoting the nearby presence of a manual shutoff valve.
+ent-CMSemioticManualopenclose-name = ручной открыватель/закрыватель семиотический
+ent-CMSemioticManualopenclose-desc = Семиотический стандарт, обозначающий наличие поблизости ручного запорного клапана.
 
-ent-CMSemioticMaint-name = maintenance semiotic
-ent-CMSemioticMaint-desc = Semiotic Standard denoting the nearby presence of maintenance access.
+ent-CMSemioticMaint-name = семиотическое обслуживание
+ent-CMSemioticMaint-desc = Семиотический стандарт, обозначающий наличие поблизости доступа для обслуживания.
 
-ent-CMSemioticLife_support-name = life support system semiotic
-ent-CMSemioticLife_support-desc = Semiotic Standard denoting the nearby presence of a life support system.
+ent-CMSemioticLife_support-name = система жизнеобеспечения семиотическая
+ent-CMSemioticLife_support-desc = Семиотический стандарт, обозначающий наличие поблизости системы жизнеобеспечения.
 
-ent-CMSemioticLaser-name = laser semiotic
-ent-CMSemioticLaser-desc = Semiotic Standard denoting the nearby presence of lasers. It's usually not as cool as it sounds.
+ent-CMSemioticLaser-name = лазерная семиотика
+ent-CMSemioticLaser-desc = Семиотический стандарт, обозначающий наличие поблизости лазеров. 
 
-ent-CMSemioticLadder-name = ladder semiotic
-ent-CMSemioticLadder-desc = Semiotic Standard denoting the nearby presence of a ladder.
+ent-CMSemioticLadder-name = лестничная семиотика
+ent-CMSemioticLadder-desc = Семиотический стандарт, обозначающий наличие поблизости лестницы.
 
-ent-CMSemioticIntercom-name = intercom semiotic
-ent-CMSemioticIntercom-desc = Semiotic Standard denoting the nearby presence of an intercom.
+ent-CMSemioticIntercom-name = домофон семиотический
+ent-CMSemioticIntercom-desc = Семиотический стандарт, обозначающий наличие поблизости домофона.
 
-ent-CMSemioticHvac_old-name = HVAC semiotic
-ent-CMSemioticHvac_old-desc = Semiotic Standard denoting the nearby presence of an HVAC system. This sign is still using the old standard.
+ent-CMSemioticHvac_old-name = Семиотика систем отопления, вентиляции и кондиционирования воздуха
+ent-CMSemioticHvac_old-desc = Семиотический стандарт, обозначающий наличие поблизости системы отопления, вентиляции и кондиционирования. 
 
-ent-CMSemioticHvac-name = HVAC semiotic
-ent-CMSemioticHvac-desc = Semiotic Standard denoting the nearby presence of...an HVAC system. This sign must have been updated to the new standard.
+ent-CMSemioticHvac-name = Семиотика систем отопления, вентиляции и кондиционирования воздуха
+ent-CMSemioticHvac-desc = Семиотический стандарт, обозначающий наличие поблизости... системы отопления, вентиляции и кондиционирования. 
 
-ent-CMSemioticHigh_voltage-name = high voltage semiotic
-ent-CMSemioticHigh_voltage-desc = Semiotic Standard denoting the nearby presence of a high voltage electrical current.
+ent-CMSemioticHigh_voltage-name = семиотический высоковольтный
+ent-CMSemioticHigh_voltage-desc = Семиотический стандарт, обозначающий наличие поблизости электрического тока высокого напряжения.
 
-ent-CMSemioticHigh_rad-name = high radioactivity semiotic
-ent-CMSemioticHigh_rad-desc = Semiotic Standard denoting the nearby presence of a highly radioactive area.
+ent-CMSemioticHigh_rad-name = семиотическая высокая радиоактивность
+ent-CMSemioticHigh_rad-desc = Семиотический стандарт, обозначающий наличие поблизости высокорадиоактивной зоны.
 
-ent-CMSemioticHazard-name = hazard semiotic
-ent-CMSemioticHazard-desc = Semiotic Standard denoting the nearby presence of a hazard. Watch out!
+ent-CMSemioticHazard-name = семиотический риск
+ent-CMSemioticHazard-desc = Семиотический стандарт, обозначающий наличие поблизости опасности. 
 
-ent-CMSemioticGalley-name = galley semiotic
-ent-CMSemioticGalley-desc = Semiotic Standard denoting the nearby presence of a galley.
+ent-CMSemioticGalley-name = камбуз семиотический
+ent-CMSemioticGalley-desc = Семиотический стандарт, обозначающий наличие поблизости камбуза.
 
-ent-CMSemioticFood_storage-name = organic storage (foodstuffs) semiotic
-ent-CMSemioticFood_storage-desc = Semiotic Standard denoting the nearby presence of unrefrigerated food storage.
+ent-CMSemioticFood_storage-name = органическое хранение (продукты питания) семиотический
+ent-CMSemioticFood_storage-desc = Семиотический стандарт, обозначающий наличие поблизости неохлаждаемого хранилища продуктов питания.
 
-ent-CMSemioticFiringrange-name = firing range semiotic
-ent-CMSemioticFiringrange-desc = Semiotic Standard denoting the nearby presence of a live ammunition firing range.
+ent-CMSemioticFiringrange-name = семиотика дальности стрельбы
+ent-CMSemioticFiringrange-desc = Семиотический стандарт, обозначающий наличие поблизости полигона для стрельбы боевыми патронами.
 
-ent-CMSemioticFire_haz-name = fire hazard semiotic
-ent-CMSemioticFire_haz-desc = Semiotic Standard denoting the nearby presence of a fire hazard.
+ent-CMSemioticFire_haz-name = семиотическая пожароопасность
+ent-CMSemioticFire_haz-desc = Семиотический стандарт, обозначающий наличие поблизости пожарной опасности.
 
-ent-CMSemioticExhaust-name = exhaust semiotic
-ent-CMSemioticExhaust-desc = Semiotic Standard denoting the nearby presence of an engine or generator exhaust.
+ent-CMSemioticExhaust-name = выхлоп семиотический
+ent-CMSemioticExhaust-desc = Семиотический стандарт, обозначающий наличие поблизости выхлопа двигателя или генератора.
 
-ent-CMSemioticEscapepod-name = escape pod semiotic
-ent-CMSemioticEscapepod-desc = Semiotic Standard denoting an escape pod.
+ent-CMSemioticEscapepod-name = семиотическая спасательная капсула
+ent-CMSemioticEscapepod-desc = Семиотический стандарт, обозначающий спасательную капсулу.
 
-ent-CMSemioticElevator-name = elevator semiotic
-ent-CMSemioticElevator-desc = Semiotic Standard denoting the nearby presence of an elevator.
+ent-CMSemioticElevator-name = семиотический лифт
+ent-CMSemioticElevator-desc = Семиотический стандарт, обозначающий наличие поблизости лифта.
 
-ent-CMSemioticElectronics-name = astronic systems semiotic
-ent-CMSemioticElectronics-desc = Semiotic Standard denoting the nearby presence of astronic systems. That's a fancy way of saying electrical systems.
+ent-CMSemioticElectronics-name = астрономические системы семиотические
+ent-CMSemioticElectronics-desc = Семиотический стандарт, обозначающий близлежащее присутствие астросистем. 
 
-ent-CMSemioticEast-name = East semiotic
-ent-CMSemioticEast-desc = Semiotic Standard denoting the nearby presence of something to the East.
+ent-CMSemioticEast-name = Восточная семиотика
+ent-CMSemioticEast-desc = Семиотический стандарт, обозначающий близкое присутствие чего-либо на Востоке.
 
-ent-CMSemioticDistribution_pipes-name = distribution pipes semiotic
-ent-CMSemioticDistribution_pipes-desc = Semiotic Standard denoting the nearby presence of a distribution pipeline.
+ent-CMSemioticDistribution_pipes-name = распределительные трубы семиотические
+ent-CMSemioticDistribution_pipes-desc = Семиотический стандарт, обозначающий наличие поблизости распределительного трубопровода.
 
-ent-CMSemioticDebark_lounge-name = debarkation lounge semiotic
-ent-CMSemioticDebark_lounge-desc = Semiotic Standard denoting the nearby presence of a debarkation lounge.
+ent-CMSemioticDebark_lounge-name = зал высадки семиотический
+ent-CMSemioticDebark_lounge-desc = Семиотический стандарт, обозначающий наличие поблизости зала высадки.
 
-ent-CMSemioticCryo-name = cryogenic vault semiotic
-ent-CMSemioticCryo-desc = Semiotic Standard denoting the nearby presence of a cryogenics vault.
+ent-CMSemioticCryo-name = криогенная камера семиотическая
+ent-CMSemioticCryo-desc = Семиотический стандарт, обозначающий наличие поблизости криогенного хранилища.
 
-ent-CMSemioticConference_room-name = conference room semiotic
-ent-CMSemioticConference_room-desc = Semiotic Standard denoting the nearby presence of a conference room.
+ent-CMSemioticConference_room-name = конференц-зал семиотический
+ent-CMSemioticConference_room-desc = Семиотический стандарт, обозначающий наличие поблизости конференц-зала.
 
-ent-CMSemioticCommline_connection-name = point of connection for a communication line semiotic
-ent-CMSemioticCommline_connection-desc = Semiotic Standard denoting the nearby presence of a comm line connection.
+ent-CMSemioticCommline_connection-name = точка соединения семиотической линии связи
+ent-CMSemioticCommline_connection-desc = Семиотический стандарт, обозначающий наличие поблизости линии связи.
 
-ent-CMSemioticCoffee-name = coffee semiotic
-ent-CMSemioticCoffee-desc = Semiotic Standard denoting the nearby presence of coffee: the lifeblood of any starship crew.
+ent-CMSemioticCoffee-name = кофе семиотический
+ent-CMSemioticCoffee-desc = Семиотический стандарт, обозначающий наличие поблизости кофе: источника жизненной силы любого экипажа звездолета.
 
-ent-CMSemioticChem_lab-name = chemical laboratory semiotic
-ent-CMSemioticChem_lab-desc = Semiotic Standard denoting the nearby presence of a chemical laboratory.
+ent-CMSemioticChem_lab-name = химическая лаборатория семиотическая
+ent-CMSemioticChem_lab-desc = Семиотический стандарт, обозначающий наличие поблизости химической лаборатории.
 
-ent-CMSemioticBulkhead_door-name = bulkhead door semiotic
-ent-CMSemioticBulkhead_door-desc = Semiotic Standard denoting the nearby presence of a bulkhead door.
+ent-CMSemioticBulkhead_door-name = семиотическая дверь переборки
+ent-CMSemioticBulkhead_door-desc = Семиотический стандарт, обозначающий наличие поблизости переборочной двери.
 
-ent-CMSemioticBridge-name = bridge semiotic
-ent-CMSemioticBridge-desc = Semiotic Standard denoting the nearby presence of a starship's bridge.
+ent-CMSemioticBridge-name = мост семиотический
+ent-CMSemioticBridge-desc = Семиотический стандарт, обозначающий наличие поблизости мостика звездолета.
 
-ent-CMSemioticBiolab-name = biological laboratory semiotic
-ent-CMSemioticBiolab-desc = Semiotic Standard denoting the nearby presence of a biological laboratory.
+ent-CMSemioticBiolab-name = биологическая лаборатория семиотическая
+ent-CMSemioticBiolab-desc = Семиотический стандарт, обозначающий наличие поблизости биологической лаборатории.
 
-ent-CMSemioticBiohazard-name = biohazard semiotic
-ent-CMSemioticBiohazard-desc = Semiotic Standard denoting the nearby presence of a biohazard.
+ent-CMSemioticBiohazard-name = семиотика биологической опасности
+ent-CMSemioticBiohazard-desc = Семиотический стандарт, обозначающий присутствие поблизости биологической опасности.
 
-ent-CMSemioticBathwomens-name = women's bathroom semiotic
-ent-CMSemioticBathwomens-desc = Semiotic Standard denoting the nearby presence of a women's bathroom.
+ent-CMSemioticBathwomens-name = семиотика женской ванной комнаты
+ent-CMSemioticBathwomens-desc = Семиотический стандарт, обозначающий наличие поблизости женского туалета.
 
-ent-CMSemioticBathunisex-name = unisex bathroom semiotic
-ent-CMSemioticBathunisex-desc = Semiotic Standard denoting the nearby presence of a unisex bathroom.
+ent-CMSemioticBathunisex-name = унисекс, семиотический для ванной комнаты
+ent-CMSemioticBathunisex-desc = Семиотический стандарт, обозначающий наличие поблизости туалета унисекс.
 
-ent-CMSemioticBathmens-name = men's bathroom semiotic
-ent-CMSemioticBathmens-desc = Semiotic Standard denoting the nearby presence of a men's bathroom.
+ent-CMSemioticBathmens-name = семиотика мужского санузла
+ent-CMSemioticBathmens-desc = Семиотический стандарт, обозначающий наличие поблизости мужского туалета.
 
-ent-CMSemioticAutoopenclose-name = automatic opener/closer semiotic
-ent-CMSemioticAutoopenclose-desc = Semiotic Standard denoting the nearby presence of an automatic shutoff valve.
+ent-CMSemioticAutoopenclose-name = автоматический открыватель/закрыватель семиотический
+ent-CMSemioticAutoopenclose-desc = Семиотический стандарт, обозначающий наличие поблизости автоматического запорного клапана.
 
-ent-CMSemioticAutodoc-name = autodoc semiotic
-ent-CMSemioticAutodoc-desc = Semiotic Standard denoting the nearby presence of an autodoc.
+ent-CMSemioticAutodoc-name = автодок семиотический
+ent-CMSemioticAutodoc-desc = Семиотический стандарт, обозначающий близкое присутствие автодока.
 
-ent-CMSemioticAnalysis_lab-name = analysis laboratory semiotic
-ent-CMSemioticAnalysis_lab-desc = Semiotic Standard denoting the nearby presence of an analysis laboratory.
+ent-CMSemioticAnalysis_lab-name = лабораторный анализ семиотический
+ent-CMSemioticAnalysis_lab-desc = Семиотический стандарт, обозначающий наличие поблизости аналитической лаборатории.
 
-ent-CMSemioticAmmunition-name = ammunition storage semiotic
-ent-CMSemioticAmmunition-desc = Semiotic Standard denoting the nearby presence of an ammunition storage.
+ent-CMSemioticAmmunition-name = семиотическое хранение боеприпасов
+ent-CMSemioticAmmunition-desc = Семиотический стандарт, обозначающий наличие поблизости склада боеприпасов.
 
-ent-CMSemioticAirlock-name = airlock semiotic
-ent-CMSemioticAirlock-desc = Semiotic Standard denoting the nearby presence of an airlock.
+ent-CMSemioticAirlock-name = семиотический шлюзовой шлюз
+ent-CMSemioticAirlock-desc = Семиотический стандарт, обозначающий наличие поблизости шлюза.
 
-ent-CMSemioticBase-name = base sign
+ent-CMSemioticBase-name = базовый знак
 

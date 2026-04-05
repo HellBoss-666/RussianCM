@@ -1,10 +1,10 @@
-ent-CMSurgicalCase-name = storage item
+ent-CMSurgicalCase-name = предмет хранения
 
-ent-CMSurgicalCaseFilled-name = storage item
+ent-CMSurgicalCaseFilled-name = предмет хранения
 
-ent-RMCSurgicalCaseRCM-name = RCM surgical case
-ent-RMCSurgicalCaseRCM-desc = An improved surgical case used by the Royal Crown Marines, capable of fitting more tools.
+ent-RMCSurgicalCaseRCM-name = Хирургический чемодан RCM
+ent-RMCSurgicalCaseRCM-desc = Улучшенный хирургический ящик, используемый Королевской морской пехотой, в который можно поместить больше инструментов.
 
-ent-RMCSurgicalCaseRCMFilled-name = RCM surgical case
-ent-RMCSurgicalCaseRCMFilled-desc = An improved surgical case used by the Royal Crown Marines, capable of fitting more tools.
+ent-RMCSurgicalCaseRCMFilled-name = Хирургический чемодан RCM
+ent-RMCSurgicalCaseRCMFilled-desc = Улучшенный хирургический ящик, используемый Королевской морской пехотой, в который можно поместить больше инструментов.
 

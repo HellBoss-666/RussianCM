@@ -1,69 +1,69 @@
-ent-RMCBoxBulletsSmartGun-name = smart gun ammunition box (10x30mm)
-ent-RMCBoxBulletsSmartGun-desc = A 10x30mm ammunition box. Used to refill Smart Gun magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsSmartGun-name = ящик для боеприпасов для умного пистолета (10x30 мм)
+ent-RMCBoxBulletsSmartGun-desc = Ящик для боеприпасов 10х30 мм. 
 
-ent-RMCBoxBulletsSMGAP-name = SMG ammunition box (10x20mm AP)
-ent-RMCBoxBulletsSMGAP-desc = A 10x20mm armor-piercing ammunition box. Used to refill M63 AP magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsSMGAP-name = Ящик для боеприпасов к пистолету-пулемету (БП 10х20 мм)
+ent-RMCBoxBulletsSMGAP-desc = Бронебойный ящик для боеприпасов размером 10х20 мм. 
 
-ent-RMCBoxBulletsSMG-name = SMG ammunition box (10x20mm)
-ent-RMCBoxBulletsSMG-desc = A 10x20mm ammunition box. Used to refill M63 HV and extended magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsSMG-name = Ящик для боеприпасов к пистолету-пулемету (10х20мм)
+ent-RMCBoxBulletsSMG-desc = Ящик для боеприпасов 10х20 мм. 
 
-ent-RMCBoxBulletsRifleAP-name = rifle ammunition box (10x24mm AP)
-ent-RMCBoxBulletsRifleAP-desc = A 10x24mm armor-piercing ammunition box. Used to refill M54C MK2, and M4SPR AP magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsRifleAP-name = Ящик для боеприпасов к винтовке (АП 10х24мм)
+ent-RMCBoxBulletsRifleAP-desc = Бронебойный ящик для боеприпасов размером 10х24 мм. 
 
-ent-RMCBoxBulletsRifle-name = rifle ammunition box (10x24mm)
-ent-RMCBoxBulletsRifle-desc = A 10x24mm ammunition box. Used to refill M54C MK1, MK2, M4SPR and M54CE2 HAR magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsRifle-name = Ящик для боеприпасов к винтовке (10х24мм)
+ent-RMCBoxBulletsRifle-desc = Ящик для боеприпасов 10х24 мм. 
 
-ent-RMCBoxBulletsBase-name = rifle ammunition box (???)
-ent-RMCBoxBulletsBase-desc = An unknown ammunition box. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsBase-name = ящик для боеприпасов к винтовке (???)
+ent-RMCBoxBulletsBase-desc = Неизвестный ящик с боеприпасами. 
 
-ent-RMCBoxBulletsRifleEmpty-name = rifle ammunition box (10x24mm)
-ent-RMCBoxBulletsRifleEmpty-desc = A 10x24mm ammunition box. Used to refill M54C MK1, MK2, M4SPR and M54CE2 HAR magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsRifleEmpty-name = Ящик для боеприпасов к винтовке (10х24мм)
+ent-RMCBoxBulletsRifleEmpty-desc = Ящик для боеприпасов 10х24 мм. 
 
-ent-RMCBoxBulletsRifleAPEmpty-name = rifle ammunition box (10x24mm AP)
-ent-RMCBoxBulletsRifleAPEmpty-desc = A 10x24mm armor-piercing ammunition box. Used to refill M54C MK2, and M4SPR AP magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsRifleAPEmpty-name = Ящик для боеприпасов к винтовке (АП 10х24мм)
+ent-RMCBoxBulletsRifleAPEmpty-desc = Бронебойный ящик для боеприпасов размером 10х24 мм. 
 
-ent-RMCBoxBulletsSMGEmpty-name = SMG HV ammunition box (10x20mm)
-ent-RMCBoxBulletsSMGEmpty-desc = A 10x20mm ammunition box. Used to refill M63 HV and extended magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsSMGEmpty-name = Ящик для боеприпасов SMG HV (10х20мм)
+ent-RMCBoxBulletsSMGEmpty-desc = Ящик для боеприпасов 10х20 мм. 
 
-ent-RMCBoxBulletsSMGAPEmpty-name = SMG HV ammunition box (10x20mm AP)
-ent-RMCBoxBulletsSMGAPEmpty-desc = A 10x20mm armor-piercing ammunition box. Used to refill M63 AP magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsSMGAPEmpty-name = Ящик для боеприпасов к пистолету-пулемету HV (ББ 10х20 мм)
+ent-RMCBoxBulletsSMGAPEmpty-desc = Бронебойный ящик для боеприпасов размером 10х20 мм. 
 
-ent-RMCBoxBulletsSmartGunEmpty-name = smart gun ammunition box (10x30mm)
-ent-RMCBoxBulletsSmartGunEmpty-desc = A 10x30mm ammunition box. Used to refill Smart Gun magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsSmartGunEmpty-name = ящик для боеприпасов для умного пистолета (10x30 мм)
+ent-RMCBoxBulletsSmartGunEmpty-desc = Ящик для боеприпасов 10х30 мм. 
 
-ent-RMCBoxBulletsPistol-name = pistol ammunition box (10x20mm-APC)
-ent-RMCBoxBulletsPistol-desc = A 10x20mm-APC ammunition box. Used to refill M13 regular, extended and drum magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsPistol-name = Ящик для боеприпасов к пистолету (10х20мм-БТР)
+ent-RMCBoxBulletsPistol-desc = Ящик для боеприпасов БТР 10х20 мм. 
 
-ent-RMCBoxBulletsPistolEmpty-name = pistol ammunition box (10x20mm-APC)
-ent-RMCBoxBulletsPistolEmpty-desc = A 10x20mm-APC ammunition box. Used to refill M13 regular, extended and drum magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsPistolEmpty-name = Ящик для боеприпасов к пистолету (10х20мм-БТР)
+ent-RMCBoxBulletsPistolEmpty-desc = Ящик для боеприпасов БТР 10х20 мм. 
 
-ent-RMCBoxBulletsPistolAP-name = pistol ammunition box (10x20mm-APC (AP))
-ent-RMCBoxBulletsPistolAP-desc = A 10x20mm-APC armor-piercing ammunition box. Used to refill M13 regular, extended and drum AP magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsPistolAP-name = Ящик для боеприпасов к пистолету (10х20мм-БТР(АП))
+ent-RMCBoxBulletsPistolAP-desc = Бронебойный ящик для боеприпасов БТР 10х20 мм. 
 
-ent-RMCBoxBulletsPistolAPEmpty-name = pistol ammunition box (10x20mm-APC (AP))
-ent-RMCBoxBulletsPistolAPEmpty-desc = A 10x20mm-APC armor-piercing ammunition box. Used to refill M13 regular, extended and drum AP magazines. It comes with a leather strap allowing to wear it on the back.
+ent-RMCBoxBulletsPistolAPEmpty-name = Ящик для боеприпасов к пистолету (10х20мм-БТР(АП))
+ent-RMCBoxBulletsPistolAPEmpty-desc = Бронебойный ящик для боеприпасов БТР 10х20 мм. 
 
-ent-RMCBoxBulletsRifleL90-name = rifle ammunition box (7x43mm)
-ent-RMCBoxBulletsRifleL90-desc = A 7x43mm ammunition box. Used to refill L90/91 magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleL90-name = Ящик для боеприпасов к винтовке (7х43мм)
+ent-RMCBoxBulletsRifleL90-desc = Ящик для боеприпасов 7х43 мм. 
 
-ent-RMCBoxBulletsRifleL90Empty-name = rifle ammunition box (7x43mm)
-ent-RMCBoxBulletsRifleL90Empty-desc = A 7x43mm ammunition box. Used to refill L90/91 magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleL90Empty-name = Ящик для боеприпасов к винтовке (7х43мм)
+ent-RMCBoxBulletsRifleL90Empty-desc = Ящик для боеприпасов 7х43 мм. 
 
-ent-RMCBoxBulletsRifleL90AP-name = rifle ammunition box (7x43mm AP)
-ent-RMCBoxBulletsRifleL90AP-desc = A 7x43mm armor-piercing ammunition box. Used to refill L90/91 AP magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleL90AP-name = Ящик для боеприпасов к винтовке (7х43мм АП)
+ent-RMCBoxBulletsRifleL90AP-desc = Ящик для бронебойных патронов калибра 7х43 мм. 
 
-ent-RMCBoxBulletsRifleL90APEmpty-name = rifle ammunition box (7x43mm AP)
-ent-RMCBoxBulletsRifleL90APEmpty-desc = A 7x43mm armor-piercing ammunition box. Used to refill L90/91 AP magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleL90APEmpty-name = Ящик для боеприпасов к винтовке (7х43мм АП)
+ent-RMCBoxBulletsRifleL90APEmpty-desc = Ящик для бронебойных патронов калибра 7х43 мм. 
 
-ent-RMCBoxBulletsRifleL24-name = rifle ammunition box (8.88x51mm)
-ent-RMCBoxBulletsRifleL24-desc = An 8.88x51mm ammunition box. Used to refill L24 and L64A3 magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleL24-name = Ящик для боеприпасов к винтовке (8,88х51мм)
+ent-RMCBoxBulletsRifleL24-desc = Ящик для боеприпасов 8,88х51 мм. 
 
-ent-RMCBoxBulletsRifleTSEEmpty-name = rifle ammunition box (8.88x51mm)
-ent-RMCBoxBulletsRifleTSEEmpty-desc = An 8.88x51mm ammunition box. Used to refill L24 and L64A3 magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleTSEEmpty-name = Ящик для боеприпасов к винтовке (8,88х51мм)
+ent-RMCBoxBulletsRifleTSEEmpty-desc = Ящик для боеприпасов 8,88х51 мм. 
 
-ent-RMCBoxBulletsRifleL24AP-name = rifle ammunition box (8.88x51mm AP)
-ent-RMCBoxBulletsRifleL24AP-desc = An 8.88x51mm ammunition box. Used to refill L24 and L64A3 AP magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleL24AP-name = Ящик для боеприпасов к винтовке (8,88х51мм АП)
+ent-RMCBoxBulletsRifleL24AP-desc = Ящик для боеприпасов 8,88х51 мм. 
 
-ent-RMCBoxBulletsRifleTSEAPEmpty-name = rifle ammunition box (8.88x51mm AP)
-ent-RMCBoxBulletsRifleTSEAPEmpty-desc = An 8.88x51mm ammunition box. Used to refill L24 and L64A3 AP magazines. It comes with a leather strap allowing someone to wear it on their back.
+ent-RMCBoxBulletsRifleTSEAPEmpty-name = Ящик для боеприпасов к винтовке (8,88х51мм АП)
+ent-RMCBoxBulletsRifleTSEAPEmpty-desc = Ящик для боеприпасов 8,88х51 мм. 
 

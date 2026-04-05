@@ -1,2 +1,2 @@
-ent-RMCAegisCorpseSpawner-name = AEGIS corpse spawner - Scientist
+ent-RMCAegisCorpseSpawner-name = Создатель трупов AEGIS — Учёный
 

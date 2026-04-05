@@ -1,6 +1,6 @@
-ent-ColMarTechDropshipCrewWeapon-name = ColMarTech Dropship Crew Weapon Rack
-ent-ColMarTechDropshipCrewWeapon-desc = An automated combat equipment vendor for Dropship Crew
+ent-ColMarTechDropshipCrewWeapon-name = Стойка для оружия экипажа ColMarTech Dropship
+ent-ColMarTechDropshipCrewWeapon-desc = Поставщик автоматизированного боевого оборудования для Dropship Crew.
 
-ent-ColMarTechDropshipCrewEquipment-name = ColMarTech Dropship Crew Equipment Rack
-ent-ColMarTechDropshipCrewEquipment-desc = An automated equipment vendor for Dropship Crew
+ent-ColMarTechDropshipCrewEquipment-name = Стойка для оборудования экипажа ColMarTech Dropship
+ent-ColMarTechDropshipCrewEquipment-desc = Поставщик автоматизированного оборудования для Dropship Crew.
 

@@ -1,71 +1,71 @@
-ent-RMCJumpsuitVeteranPMCDirector-name = director's suit
-ent-RMCJumpsuitVeteranPMCDirector-desc = It's a suit that oozes with authority. Belongs to someone very important.
+ent-RMCJumpsuitVeteranPMCDirector-name = режиссерский костюм
+ent-RMCJumpsuitVeteranPMCDirector-desc = Этот костюм излучает авторитет. 
 
-ent-RMCJumpsuitVeteranPMCCorporateLead-name = We-Ya corporate security uniform
-ent-RMCJumpsuitVeteranPMCCorporateLead-desc = An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by the lead of the 'goonsquad', as they are colloquially known.
+ent-RMCJumpsuitVeteranPMCCorporateLead-name = Униформа корпоративной охраны We-Ya
+ent-RMCJumpsuitVeteranPMCCorporateLead-desc = Бронированная униформа, которую носят сотрудники корпоративной безопасности We-Ya. 
 
-ent-RMCJumpsuitVeteranPMCCorporate-name = We-Ya corporate security uniform
-ent-RMCJumpsuitVeteranPMCCorporate-desc = An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by what are known as 'goons'.
+ent-RMCJumpsuitVeteranPMCCorporate-name = Униформа корпоративной охраны We-Ya
+ent-RMCJumpsuitVeteranPMCCorporate-desc = Бронированная униформа, которую носят сотрудники корпоративной безопасности We-Ya. 
 
-ent-RMCJumpsuitVeteranPMCCommando-name = PMC commando uniform
-ent-RMCJumpsuitVeteranPMCCommando-desc = An armored uniform worn by We-Ya elite commandos. It is well protected while remaining light and comfortable.
+ent-RMCJumpsuitVeteranPMCCommando-name = Униформа коммандос ЧВК
+ent-RMCJumpsuitVeteranPMCCommando-desc = Бронированная униформа элитных коммандос Ве-Я. 
 
-ent-RMCJumpsuitVeteranPMCLeader-name = PMC command fatigues
-ent-RMCJumpsuitVeteranPMCLeader-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit. This particular suit looks like it belongs to a high-ranking officer.
+ent-RMCJumpsuitVeteranPMCLeader-name = Утомление командования ЧВК
+ent-RMCJumpsuitVeteranPMCLeader-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCEngineer-name = PMC engineer fatigues
-ent-RMCJumpsuitVeteranPMCEngineer-desc = A black set of fatigues, designed for private security engineers. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCEngineer-name = Инженер ЧВК утомляет
+ent-RMCJumpsuitVeteranPMCEngineer-desc = Комплект униформы черного цвета, предназначенный для сотрудников вневедомственной охраны. 
 
-ent-RMCJumpsuitVeteranPMCNoWebbing-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMCNoWebbing-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCNoWebbing-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMCNoWebbing-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCVeteranUniformBase-name = lathe-category-clothing
+ent-RMCVeteranUniformBase-name = токарный станок-категория-одежда
 
-ent-RMCJumpsuitVeteranPMCNoWebbingPatch-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMCNoWebbingPatch-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCNoWebbingPatch-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMCNoWebbingPatch-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCNoWebbingPatchFolded-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMCNoWebbingPatchFolded-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCNoWebbingPatchFolded-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMCNoWebbingPatchFolded-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMC-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMC-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMC-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMC-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCMedic-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMCMedic-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCMedic-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMCMedic-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCGunner-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMCGunner-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCGunner-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMCGunner-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCSynth-name = PMC fatigues
-ent-RMCJumpsuitVeteranPMCSynth-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCSynth-name = Утомляемость ЧВК
+ent-RMCJumpsuitVeteranPMCSynth-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCEngineerNoWebbing-name = PMC engineer fatigues
-ent-RMCJumpsuitVeteranPMCEngineerNoWebbing-desc = A black set of fatigues, designed for private security engineers. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCEngineerNoWebbing-name = Инженер ЧВК утомляет
+ent-RMCJumpsuitVeteranPMCEngineerNoWebbing-desc = Комплект униформы черного цвета, предназначенный для сотрудников вневедомственной охраны. 
 
-ent-RMCJumpsuitVeteranPMCEngineerNoWebbingPatch-name = PMC engineer fatigues
-ent-RMCJumpsuitVeteranPMCEngineerNoWebbingPatch-desc = A black set of fatigues, designed for private security engineers. The symbol of the Weston-Yamada corporation is emblazed on the suit.
+ent-RMCJumpsuitVeteranPMCEngineerNoWebbingPatch-name = Инженер ЧВК утомляет
+ent-RMCJumpsuitVeteranPMCEngineerNoWebbingPatch-desc = Комплект униформы черного цвета, предназначенный для сотрудников вневедомственной охраны. 
 
-ent-RMCJumpsuitVeteranPMCLeaderNoWebbing-name = PMC command fatigues
-ent-RMCJumpsuitVeteranPMCLeaderNoWebbing-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit. This particular suit looks like it belongs to a high-ranking officer.
+ent-RMCJumpsuitVeteranPMCLeaderNoWebbing-name = Утомление командования ЧВК
+ent-RMCJumpsuitVeteranPMCLeaderNoWebbing-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCLeaderNoWebbingPatch-name = PMC command fatigues
-ent-RMCJumpsuitVeteranPMCLeaderNoWebbingPatch-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit. This particular suit looks like it belongs to a high-ranking officer.
+ent-RMCJumpsuitVeteranPMCLeaderNoWebbingPatch-name = Утомление командования ЧВК
+ent-RMCJumpsuitVeteranPMCLeaderNoWebbingPatch-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCLeaderHolsterPatch-name = PMC command fatigues
-ent-RMCJumpsuitVeteranPMCLeaderHolsterPatch-desc = A white set of fatigues, designed for private security operators. The symbol of the Weston-Yamada corporation is emblazed on the suit. This particular suit looks like it belongs to a high-ranking officer.
+ent-RMCJumpsuitVeteranPMCLeaderHolsterPatch-name = Утомление командования ЧВК
+ent-RMCJumpsuitVeteranPMCLeaderHolsterPatch-desc = Белый комплект спецодежды, предназначенный для частных охранников. 
 
-ent-RMCJumpsuitVeteranPMCCommandoSurvivor-name = We-Ya Commando fatigues
-ent-RMCJumpsuitVeteranPMCCommandoSurvivor-desc = An armored uniform worn by We-Ya elite commandos. It is well protected while remaining light and comfortable.
+ent-RMCJumpsuitVeteranPMCCommandoSurvivor-name = Униформа We-Ya Commando
+ent-RMCJumpsuitVeteranPMCCommandoSurvivor-desc = Бронированная униформа элитных коммандос Ве-Я. 
 
-ent-RMCJumpsuitVeteranPMCKutjevo-name = We-Ya corporate security uniform
-ent-RMCJumpsuitVeteranPMCKutjevo-desc = An armored uniform worn by We-Ya corporate security members. This variant is more breathable for use in hot, dry environments.
+ent-RMCJumpsuitVeteranPMCKutjevo-name = Униформа корпоративной охраны We-Ya
+ent-RMCJumpsuitVeteranPMCKutjevo-desc = Бронированная униформа, которую носят сотрудники корпоративной безопасности We-Ya. 
 
-ent-RMCJumpsuitVeteranPMCKutjevoLead-name = We-Ya corporate security uniform
-ent-RMCJumpsuitVeteranPMCKutjevoLead-desc = An armored uniform worn by We-Ya corporate security members. This variant is more breathable for use in hot, dry environments and has gold armbands denoting the team leader.
+ent-RMCJumpsuitVeteranPMCKutjevoLead-name = Униформа корпоративной охраны We-Ya
+ent-RMCJumpsuitVeteranPMCKutjevoLead-desc = Бронированная униформа, которую носят сотрудники корпоративной безопасности We-Ya. 
 
-ent-RMCJumpsuitVeteranPMCHybrisa-name = We-Ya corporate security uniform
-ent-RMCJumpsuitVeteranPMCHybrisa-desc = An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by what are known as 'goons'.
+ent-RMCJumpsuitVeteranPMCHybrisa-name = Униформа корпоративной охраны We-Ya
+ent-RMCJumpsuitVeteranPMCHybrisa-desc = Бронированная униформа, которую носят сотрудники корпоративной безопасности We-Ya. 
 
-ent-RMCJumpsuitVeteranPMCHybrisaLead-name = We-Ya corporate security uniform
-ent-RMCJumpsuitVeteranPMCHybrisaLead-desc = An armored uniform worn by We-Ya corporate security members. This variant is commonly worn by the lead of the 'goonsquad', as they are colloquially known.
+ent-RMCJumpsuitVeteranPMCHybrisaLead-name = Униформа корпоративной охраны We-Ya
+ent-RMCJumpsuitVeteranPMCHybrisaLead-desc = Бронированная униформа, которую носят сотрудники корпоративной безопасности We-Ya. 
 

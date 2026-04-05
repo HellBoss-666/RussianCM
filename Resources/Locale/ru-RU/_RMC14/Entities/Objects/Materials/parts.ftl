@@ -1,12 +1,12 @@
-ent-CMRodPlasteel1-name = plasteel rod
+ent-CMRodPlasteel1-name = пластальный стержень
 
-ent-CMRodPlasteel10-name = plasteel rod
+ent-CMRodPlasteel10-name = пластальный стержень
 
-ent-CMRodPlasteel-name = plasteel rods
+ent-CMRodPlasteel-name = пластальные стержни
 
-ent-CMRodMetal1-name = metal rod
+ent-CMRodMetal1-name = металлический стержень
 
-ent-CMRodMetal10-name = metal rod
+ent-CMRodMetal10-name = металлический стержень
 
-ent-CMRodMetal-name = rods
+ent-CMRodMetal-name = стержни
 

@@ -1,30 +1,30 @@
-ent-RMCShoesLeather-name = leather shoes
-ent-RMCShoesLeather-desc = A sturdy pair of leather shoes.
+ent-RMCShoesLeather-name = кожаная обувь
+ent-RMCShoesLeather-desc = Прочная пара кожаной обуви.
 
-ent-RMCShoesWhite-name = white shoes
-ent-RMCShoesWhite-desc = A pair of white shoes.
+ent-RMCShoesWhite-name = белые туфли
+ent-RMCShoesWhite-desc = Пара белых туфель.
 
-ent-RMCShoesOrange-name = orange shoes
-ent-RMCShoesOrange-desc = A pair of orange shoes.
+ent-RMCShoesOrange-name = оранжевые туфли
+ent-RMCShoesOrange-desc = Пара оранжевых туфель.
 
-ent-RMCShoesRed-name = red shoes
-ent-RMCShoesRed-desc = Stylish red shoes.
+ent-RMCShoesRed-name = красные туфли
+ent-RMCShoesRed-desc = Стильные красные туфли.
 
-ent-RMCShoesPurple-name = purple shoes
-ent-RMCShoesPurple-desc = A pair of purple shoes.
+ent-RMCShoesPurple-name = фиолетовые туфли
+ent-RMCShoesPurple-desc = Пара фиолетовых туфель.
 
-ent-RMCShoesYellow-name = yellow shoes
-ent-RMCShoesYellow-desc = A pair of yellow shoes.
+ent-RMCShoesYellow-name = желтые туфли
+ent-RMCShoesYellow-desc = Пара желтых туфель.
 
-ent-RMCShoesGreen-name = green shoes
-ent-RMCShoesGreen-desc = A pair of green shoes.
+ent-RMCShoesGreen-name = зеленые туфли
+ent-RMCShoesGreen-desc = Пара зеленых туфель.
 
-ent-RMCShoesBlue-name = blue shoes
-ent-RMCShoesBlue-desc = A pair of blue shoes.
+ent-RMCShoesBlue-name = синие туфли
+ent-RMCShoesBlue-desc = Пара синих туфель.
 
-ent-RMCShoesBrown-name = brown shoes
-ent-RMCShoesBrown-desc = A pair of brown shoes.
+ent-RMCShoesBrown-name = коричневые туфли
+ent-RMCShoesBrown-desc = Пара коричневых туфель.
 
-ent-RMCShoesBlack-name = black shoes
-ent-RMCShoesBlack-desc = A pair of black shoes.
+ent-RMCShoesBlack-name = черные туфли
+ent-RMCShoesBlack-desc = Пара черных туфель.
 

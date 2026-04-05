@@ -1,3 +1,3 @@
-ent-CMHydroponicsTray-name = hydroponics tray
-ent-CMHydroponicsTray-desc = Used for growing plants.
+ent-CMHydroponicsTray-name = лоток для гидропоники
+ent-CMHydroponicsTray-desc = Используется для выращивания растений.
 

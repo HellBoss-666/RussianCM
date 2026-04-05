@@ -1,51 +1,51 @@
-ent-RMCRadiationAidKit-name = storage item
+ent-RMCRadiationAidKit-name = предмет хранения
 
-ent-CMToxinAidKit-name = storage item
+ent-CMToxinAidKit-name = предмет хранения
 
-ent-CMAdvFirstAidKit-name = storage item
+ent-CMAdvFirstAidKit-name = предмет хранения
 
-ent-CMFirstAidO2Kit-name = storage item
+ent-CMFirstAidO2Kit-name = предмет хранения
 
-ent-CMBurnAidKit-name = storage item
+ent-CMBurnAidKit-name = предмет хранения
 
-ent-CMFirstAidKitSurgery-name = basic field surgery kit
+ent-CMFirstAidKitSurgery-name = базовый набор для полевой хирургии
 
-ent-CMFirstAidKit-name = storage item
+ent-CMFirstAidKit-name = предмет хранения
 
 # filled variation
-ent-RMCRadiationAidKitFilled-name = storage item
+ent-RMCRadiationAidKitFilled-name = предмет хранения
 
-ent-CMToxinAidKitFilled-name = storage item
+ent-CMToxinAidKitFilled-name = предмет хранения
 
-ent-CMAdvFirstAidKitFilled-name = storage item
+ent-CMAdvFirstAidKitFilled-name = предмет хранения
 
-ent-CMFirstAidO2KitFilled-name = storage item
+ent-CMFirstAidO2KitFilled-name = предмет хранения
 
-ent-CMBurnAidKitFilled-name = storage item
+ent-CMBurnAidKitFilled-name = предмет хранения
 
-ent-CMFirstAidKitSurgeryFilled-name = basic field surgery kit
-ent-CMFirstAidKitSurgeryFilled-desc = Contains a surgical line, cautery, scalpel, hemostat, retractor, drapes and an oxycodone injector for tending wounds surgically. With medical training you can fit this in a backpack.
+ent-CMFirstAidKitSurgeryFilled-name = базовый набор для полевой хирургии
+ent-CMFirstAidKitSurgeryFilled-desc = Содержит хирургический шнур, прижигатель, скальпель, кровоостанавливающее средство, ретрактор, простыни и инжектор оксикодона для хирургического лечения ран. 
 
-ent-CMFirstAidKitFilled-name = storage item
-ent-CMFirstAidKitFilled-desc = It's an emergency medical kit containing basic medication and equipment. No training required to use. With medical training you can fit this in a backpack.
+ent-CMFirstAidKitFilled-name = предмет хранения
+ent-CMFirstAidKitFilled-desc = Это аптечка неотложной медицинской помощи, содержащая основные лекарства и оборудование. 
 
-ent-CMFirstAidKitFilledRobust-name = storage item
+ent-CMFirstAidKitFilledRobust-name = предмет хранения
 
-ent-RMCStandardAidKitPVE-name = standard-issue first-aid pack
-ent-RMCStandardAidKitPVE-desc = A soft first-aid pack typically containing essential medical supplies for use in the field.
+ent-RMCStandardAidKitPVE-name = стандартная аптечка первой помощи
+ent-RMCStandardAidKitPVE-desc = Мягкая аптечка, обычно содержащая необходимые медицинские принадлежности для использования в полевых условиях.
 
-ent-RMCStandardAidKitFilledPVE-name = standard-issue first-aid pack
-ent-RMCStandardAidKitFilledPVE-desc = A soft first-aid pack typically containing essential medical supplies for use in the field.
+ent-RMCStandardAidKitFilledPVE-name = стандартная аптечка первой помощи
+ent-RMCStandardAidKitFilledPVE-desc = Мягкая аптечка, обычно содержащая необходимые медицинские принадлежности для использования в полевых условиях.
 
-ent-RMCBruteAidKitPVE-name = brute first-aid pack
-ent-RMCBruteAidKitPVE-desc = A soft first-aid pack containing equipment for physical treatment in the field.
+ent-RMCBruteAidKitPVE-name = жестокая аптечка
+ent-RMCBruteAidKitPVE-desc = Мягкая аптечка, содержащая средства для физиотерапевтического лечения в полевых условиях.
 
-ent-RMCBruteAidKitFilledPVE-name = brute first-aid pack
-ent-RMCBruteAidKitFilledPVE-desc = A soft first-aid pack containing equipment for physical treatment in the field.
+ent-RMCBruteAidKitFilledPVE-name = жестокая аптечка
+ent-RMCBruteAidKitFilledPVE-desc = Мягкая аптечка, содержащая средства для физиотерапевтического лечения в полевых условиях.
 
-ent-RMCBurnAidKitPVE-name = burn first-aid pack
-ent-RMCBurnAidKitPVE-desc = A soft first-aid pack containing equipment for burns treatment in the field.
+ent-RMCBurnAidKitPVE-name = сжечь аптечку
+ent-RMCBurnAidKitPVE-desc = Мягкая аптечка, содержащая средства для лечения ожогов в полевых условиях.
 
-ent-RMCBurnAidKitFilledPVE-name = burn first-aid pack
-ent-RMCBurnAidKitFilledPVE-desc = A soft first-aid pack containing equipment for burns treatment in the field.
+ent-RMCBurnAidKitFilledPVE-name = сжечь аптечку
+ent-RMCBurnAidKitFilledPVE-desc = Мягкая аптечка, содержащая средства для лечения ожогов в полевых условиях.
 

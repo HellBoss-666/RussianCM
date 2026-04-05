@@ -1,2 +1,2 @@
-ent-RMCDropper-name = item
+ent-RMCDropper-name = элемент
 

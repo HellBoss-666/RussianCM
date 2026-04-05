@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetPrisoner-name = prisoner survivor preset
+ent-RMCGearSurvivorPresetPrisoner-name = пресет выжившего заключенного
 
-ent-RMCSpawnPointSurvivorPrisoner-name = survivor prisoner spawn point
-ent-RMCSpawnPointSurvivorPrisoner-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorPrisoner-name = точка появления выжившего заключенного
+ent-RMCSpawnPointSurvivorPrisoner-desc = Создатель заданий RMC14. 
 

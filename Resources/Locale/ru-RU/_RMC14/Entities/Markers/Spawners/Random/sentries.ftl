@@ -1,12 +1,12 @@
-ent-RMCSpawnerRandomSentry-name = sentry loot spawner
-ent-RMCSpawnerRandomSentry-desc = This is a random sentry, for survivors.
+ent-RMCSpawnerRandomSentry-name = сторожевой генератор добычи
+ent-RMCSpawnerRandomSentry-desc = Это случайный часовой, для выживших.
 
-ent-RMCSpawnerRandomSentryLowChance-name = sentry loot spawner
-ent-RMCSpawnerRandomSentryLowChance-desc = This is a random sentry, for survivors.
+ent-RMCSpawnerRandomSentryLowChance-name = сторожевой генератор добычи
+ent-RMCSpawnerRandomSentryLowChance-desc = Это случайный часовой, для выживших.
 
-ent-RMCSpawnerRandomSentryMidChance-name = sentry loot spawner
-ent-RMCSpawnerRandomSentryMidChance-desc = This is a random sentry, for survivors.
+ent-RMCSpawnerRandomSentryMidChance-name = сторожевой генератор добычи
+ent-RMCSpawnerRandomSentryMidChance-desc = Это случайный часовой, для выживших.
 
-ent-RMCSpawnerRandomSentryHighChance-name = sentry loot spawner
-ent-RMCSpawnerRandomSentryHighChance-desc = This is a random sentry, for survivors.
+ent-RMCSpawnerRandomSentryHighChance-name = сторожевой генератор добычи
+ent-RMCSpawnerRandomSentryHighChance-desc = Это случайный часовой, для выживших.
 

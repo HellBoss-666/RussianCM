@@ -1,12 +1,12 @@
-ent-RMCRadioHandheldColonyBase-name = shortwave radio
-ent-RMCRadioHandheldColonyBase-desc = A handy handheld radio.
+ent-RMCRadioHandheldColonyBase-name = коротковолновое радио
+ent-RMCRadioHandheldColonyBase-desc = Удобная портативная радиостанция.
 
-ent-RMCRadioHandheldColony-name = shortwave radio
-ent-RMCRadioHandheldColony-desc = A handy handheld radio.
+ent-RMCRadioHandheldColony-name = коротковолновое радио
+ent-RMCRadioHandheldColony-desc = Удобная портативная радиостанция.
 
-ent-RMCRadioHandheldColonyOff-name = shortwave radio
-ent-RMCRadioHandheldColonyOff-desc = A handy handheld radio.
+ent-RMCRadioHandheldColonyOff-name = коротковолновое радио
+ent-RMCRadioHandheldColonyOff-desc = Удобная портативная радиостанция.
 
-ent-RMCRadioHandheldAlmayer-name = shortwave radio
-ent-RMCRadioHandheldAlmayer-desc = A handy handheld radio.
+ent-RMCRadioHandheldAlmayer-name = коротковолновое радио
+ent-RMCRadioHandheldAlmayer-desc = Удобная портативная радиостанция.
 

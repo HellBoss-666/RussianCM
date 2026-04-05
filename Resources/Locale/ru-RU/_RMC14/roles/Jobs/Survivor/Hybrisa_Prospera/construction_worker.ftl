@@ -1,2 +1,2 @@
-ent-RMCGearSurvivorPresetHybrisaConstructionWorker-name = hybrisa construction worker colonist preset
+ent-RMCGearSurvivorPresetHybrisaConstructionWorker-name = Предустановка колониста-строителя Hybrisa
 

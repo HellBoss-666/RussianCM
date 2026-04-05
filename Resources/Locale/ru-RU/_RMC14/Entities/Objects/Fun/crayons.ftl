@@ -1,24 +1,24 @@
-ent-RMCCrayonBox-name = box of crayons
-ent-RMCCrayonBox-desc = A box of every flavor of crayon.
+ent-RMCCrayonBox-name = коробка с карандашами
+ent-RMCCrayonBox-desc = Коробка карандашей любого вкуса.
 
-ent-RMCBaseCrayon-name = crayon
-ent-RMCBaseCrayon-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCBaseCrayon-name = карандаш
+ent-RMCBaseCrayon-desc = Красочный карандаш. 
 
-ent-RMCCrayonRed-name = crayon
-ent-RMCCrayonRed-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCCrayonRed-name = карандаш
+ent-RMCCrayonRed-desc = Красочный карандаш. 
 
-ent-RMCCrayonOrange-name = crayon
-ent-RMCCrayonOrange-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCCrayonOrange-name = карандаш
+ent-RMCCrayonOrange-desc = Красочный карандаш. 
 
-ent-RMCCrayonYellow-name = crayon
-ent-RMCCrayonYellow-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCCrayonYellow-name = карандаш
+ent-RMCCrayonYellow-desc = Красочный карандаш. 
 
-ent-RMCCrayonGreen-name = crayon
-ent-RMCCrayonGreen-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCCrayonGreen-name = карандаш
+ent-RMCCrayonGreen-desc = Красочный карандаш. 
 
-ent-RMCCrayonBlue-name = crayon
-ent-RMCCrayonBlue-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCCrayonBlue-name = карандаш
+ent-RMCCrayonBlue-desc = Красочный карандаш. 
 
-ent-RMCCrayonPurple-name = crayon
-ent-RMCCrayonPurple-desc = A colorful crayon. Please refrain from eating it or putting it in your nose.
+ent-RMCCrayonPurple-name = карандаш
+ent-RMCCrayonPurple-desc = Красочный карандаш. 
 

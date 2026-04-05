@@ -1,33 +1,33 @@
-ent-CMFaxHighCom-name = marine high command fax machine
-ent-CMFaxHighCom-desc = Liaison's best and only friend.
+ent-CMFaxHighCom-name = Факс высшего командования Морпех
+ent-CMFaxHighCom-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxWY-name = we-ya fax machine
-ent-CMFaxWY-desc = Liaison's best and only friend.
+ent-CMFaxWY-name = мы-я факс
+ent-CMFaxWY-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxCMB-name = colony marshal bureau fax machine
-ent-CMFaxCMB-desc = Liaison's best and only friend.
+ent-CMFaxCMB-name = факс-аппарат маршальского бюро колонии
+ent-CMFaxCMB-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFax-name = fax machine
-ent-CMFax-desc = Liaison's best and only friend.
+ent-CMFax-name = факс
+ent-CMFax-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxProvost-name = fax machine
-ent-CMFaxProvost-desc = Liaison's best and only friend.
+ent-CMFaxProvost-name = факс
+ent-CMFaxProvost-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxPress-name = fax machine
-ent-CMFaxPress-desc = Liaison's best and only friend.
+ent-CMFaxPress-name = факс
+ent-CMFaxPress-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxCLF-name = fax machine
-ent-CMFaxCLF-desc = Liaison's best and only friend.
+ent-CMFaxCLF-name = факс
+ent-CMFaxCLF-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxSPP-name = fax machine
-ent-CMFaxSPP-desc = Liaison's best and only friend.
+ent-CMFaxSPP-name = факс
+ent-CMFaxSPP-desc = Лучший и единственный друг Лиазона.
 
-ent-CMFaxTSE-name = fax machine
-ent-CMFaxTSE-desc = Liaison's best and only friend.
+ent-CMFaxTSE-name = факс
+ent-CMFaxTSE-desc = Лучший и единственный друг Лиазона.
 
-ent-RMCFaxLiaison-name = fax machine
-ent-RMCFaxLiaison-desc = Liaison's best and only friend.
+ent-RMCFaxLiaison-name = факс
+ent-RMCFaxLiaison-desc = Лучший и единственный друг Лиазона.
 
-ent-RMCFaxColony-name = fax machine
-ent-RMCFaxColony-desc = This won't be much help to anyone.
+ent-RMCFaxColony-name = факс
+ent-RMCFaxColony-desc = Это мало кому поможет.
 

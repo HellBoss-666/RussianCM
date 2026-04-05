@@ -1,63 +1,63 @@
-ent-RMCHeadsetMARSOC-name = UNMC SOF headset
-ent-RMCHeadsetMARSOC-desc = Issued exclusively to Marine Raiders and members of the UNMC's Force Reconnaissance.
+ent-RMCHeadsetMARSOC-name = Гарнитура UNMC SOF
+ent-RMCHeadsetMARSOC-desc = Выдается исключительно рейдерам Морпеха и членам разведывательного подразделения UNMC.
 
-ent-RMCHeadsetMarineDistress-name = UNMC headset
-ent-RMCHeadsetMarineDistress-desc = A standard issue UNMC headset. This one is used by marines on colonial protection duties, and only comes equipped with civilian channels.
+ent-RMCHeadsetMarineDistress-name = UNMC-гарнитура
+ent-RMCHeadsetMarineDistress-desc = Стандартная гарнитура UNMC. 
 
-ent-RMCHeadsetForecon-name = UNMC SOF headset
-ent-RMCHeadsetForecon-desc = Issued exclusively to Marine Raiders and members of the UNMC's Force Reconnaissance.
+ent-RMCHeadsetForecon-name = Гарнитура UNMC SOF
+ent-RMCHeadsetForecon-desc = Выдается исключительно рейдерам Морпеха и членам разведывательного подразделения UNMC.
 
-ent-RMCHeadsetDistressDukes-name = Duke's Dozen headset
-ent-RMCHeadsetDistressDukes-desc = A special headset used by small groups of trained operatives. Or terrorists.
+ent-RMCHeadsetDistressDukes-name = Гарнитура Duke’s Dozen
+ent-RMCHeadsetDistressDukes-desc = Специальная гарнитура, используемая небольшими группами обученных оперативников. 
 
-ent-RMCHeadsetDistressLawyerWeYa-name = We-Ya headset
-ent-RMCHeadsetDistressLawyerWeYa-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressLawyerWeYa-name = Мы-Я гарнитура
+ent-RMCHeadsetDistressLawyerWeYa-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressGoon-name = We-Ya headset
-ent-RMCHeadsetDistressGoon-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressGoon-name = Мы-Я гарнитура
+ent-RMCHeadsetDistressGoon-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressPMCDirector-name = PMC headset
-ent-RMCHeadsetDistressPMCDirector-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressPMCDirector-name = ПМК гарнитура
+ent-RMCHeadsetDistressPMCDirector-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressPMCPVE-name = PMC headset
-ent-RMCHeadsetDistressPMCPVE-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressPMCPVE-name = ПМК гарнитура
+ent-RMCHeadsetDistressPMCPVE-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressPMC-name = PMC headset
-ent-RMCHeadsetDistressPMC-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressPMC-name = ПМК гарнитура
+ent-RMCHeadsetDistressPMC-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressWeYa-name = WeYa corporate headset
-ent-RMCHeadsetDistressWeYa-desc = A headset commonly worn by WeYa corporate personnel.
+ent-RMCHeadsetDistressWeYa-name = Корпоративная гарнитура WeYa
+ent-RMCHeadsetDistressWeYa-desc = Гарнитура, которую обычно носят корпоративные сотрудники WeYa.
 
-ent-RMCHeadsetDistressBureauDamaged-name = damaged bureau earpiece
-ent-RMCHeadsetDistressBureauDamaged-desc = A sleek headset used by The Colony Marshal Bureau. Low profile and comfortable. No one is above the law. This one is pretty beat up, and seems to be missing a few frequencies.
+ent-RMCHeadsetDistressBureauDamaged-name = поврежден наушник бюро
+ent-RMCHeadsetDistressBureauDamaged-desc = Элегантная гарнитура, используемая Бюро маршалов колоний. 
 
-ent-RMCHeadsetDistressBureau-name = bureau earpiece
-ent-RMCHeadsetDistressBureau-desc = A sleek headset used by The Colony Marshal Bureau. Low profile and comfortable. No one is above the law.
+ent-RMCHeadsetDistressBureau-name = наушник бюро
+ent-RMCHeadsetDistressBureau-desc = Элегантная гарнитура, используемая Бюро маршалов колоний. 
 
-ent-RMCHeadsetDistressCLF-name = CLF headset
-ent-RMCHeadsetDistressCLF-desc = A special headset used by small groups of trained operatives. Or terrorists.
+ent-RMCHeadsetDistressCLF-name = CLF-гарнитура
+ent-RMCHeadsetDistressCLF-desc = Специальная гарнитура, используемая небольшими группами обученных оперативников. 
 
-ent-RMCHeadsetColonyIcons-name = colony headset
-ent-RMCHeadsetColonyIcons-desc = A standard headset used by colonists.
+ent-RMCHeadsetColonyIcons-name = колония гарнитура
+ent-RMCHeadsetColonyIcons-desc = Стандартная гарнитура, используемая колонистами.
 
-ent-CMHeadsetColony-name = colony headset
-ent-CMHeadsetColony-desc = A standard headset used by colonists.
+ent-CMHeadsetColony-name = колония гарнитура
+ent-CMHeadsetColony-desc = Стандартная гарнитура, используемая колонистами.
 
-ent-RMCHeadsetDistressPMCLeader-name = PMC headset
-ent-RMCHeadsetDistressPMCLeader-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressPMCLeader-name = ПМК гарнитура
+ent-RMCHeadsetDistressPMCLeader-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressGoonLeader-name = We-Ya headset
-ent-RMCHeadsetDistressGoonLeader-desc = A special headset used by corporate personnel.
+ent-RMCHeadsetDistressGoonLeader-name = Мы-Я гарнитура
+ent-RMCHeadsetDistressGoonLeader-desc = Специальная гарнитура, используемая корпоративным персоналом.
 
-ent-RMCHeadsetDistressDukesLeader-name = Duke's Dozen headset
-ent-RMCHeadsetDistressDukesLeader-desc = A special headset used by small groups of trained operatives. Or terrorists.
+ent-RMCHeadsetDistressDukesLeader-name = Гарнитура Duke’s Dozen
+ent-RMCHeadsetDistressDukesLeader-desc = Специальная гарнитура, используемая небольшими группами обученных оперативников. 
 
-ent-RMCHeadsetPara-name = paramarine headset
-ent-RMCHeadsetPara-desc = A sleek headset used by the RCM's Paramarines. Low profile enough to fit under any headgear.
+ent-RMCHeadsetPara-name = парамариновая гарнитура
+ent-RMCHeadsetPara-desc = Элегантная гарнитура, используемая парамаринами RCM. 
 
-ent-RMCHeadsetParaTeamLead-name = paramarine team leader's headset
-ent-RMCHeadsetParaTeamLead-desc = A sleek headset used by the RCM's Paramarines. Low profile enough to fit under any headgear.
+ent-RMCHeadsetParaTeamLead-name = гарнитура командира группы парамаринов
+ent-RMCHeadsetParaTeamLead-desc = Элегантная гарнитура, используемая парамаринами RCM. 
 
-ent-RMCHeadsetParaOfficer-name = paramarine officer's headset
-ent-RMCHeadsetParaOfficer-desc = A sleek headset used by the RCM's Paramarines. Low profile enough to fit under any headgear. This one is heavier with the weight of responsibility.
+ent-RMCHeadsetParaOfficer-name = гарнитура офицера парамарина
+ent-RMCHeadsetParaOfficer-desc = Элегантная гарнитура, используемая парамаринами RCM. 
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetICB-name = icb colonist preset
+ent-RMCGearSurvivorPresetICB-name = предустановка колониста icb
 
-ent-RMCSpawnPointSurvivorVaraderoICB-name = survivor icb spawn point
-ent-RMCSpawnPointSurvivorVaraderoICB-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorVaraderoICB-name = точка появления выжившего icb
+ent-RMCSpawnPointSurvivorVaraderoICB-desc = Создатель заданий RMC14. 
 

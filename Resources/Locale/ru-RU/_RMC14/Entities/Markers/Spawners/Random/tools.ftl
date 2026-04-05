@@ -1,15 +1,15 @@
-ent-RMCSpawnerRandomTechSupply-name = random tech supply spawner
-ent-RMCSpawnerRandomTechSupply-desc = This is a random piece of technology supplies.
+ent-RMCSpawnerRandomTechSupply-name = Случайный генератор технологий
+ent-RMCSpawnerRandomTechSupply-desc = Это случайный предмет поставок техники.
 
-ent-RMCSpawnerRandomPowercell-name = random powercell spawner
-ent-RMCSpawnerRandomPowercell-desc = This is a random powercell.
+ent-RMCSpawnerRandomPowercell-name = случайный спаунер PowerCell
+ent-RMCSpawnerRandomPowercell-desc = Это случайная силовая ячейка.
 
-ent-RMCSpawnerRandomToolbox-name = random toolbox spawner
-ent-RMCSpawnerRandomToolbox-desc = This is a random toolbox.
+ent-RMCSpawnerRandomToolbox-name = генератор случайного набора инструментов
+ent-RMCSpawnerRandomToolbox-desc = Это случайный набор инструментов.
 
-ent-RMCSpawnerRandomTools-name = random tools spawner
-ent-RMCSpawnerRandomTools-desc = This is a random tool.
+ent-RMCSpawnerRandomTools-name = генератор случайных инструментов
+ent-RMCSpawnerRandomTools-desc = Это случайный инструмент.
 
-ent-RMCSpawnerBombSupply-name = bomb supply
-ent-RMCSpawnerBombSupply-desc = This is a random bomb supply
+ent-RMCSpawnerBombSupply-name = запас бомб
+ent-RMCSpawnerBombSupply-desc = Это случайный запас бомб
 

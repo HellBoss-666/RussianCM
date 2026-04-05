@@ -1,6 +1,6 @@
-ent-RMCPointingArrowBig-name = pointing arrow
+ent-RMCPointingArrowBig-name = указывающая стрелка
 
-ent-RMCPointingArrowBigQueen-name = pointing arrow
+ent-RMCPointingArrowBigQueen-name = указывающая стрелка
 
-ent-RMCPointingArrowSquad-name = pointing arrow
+ent-RMCPointingArrowSquad-name = указывающая стрелка
 

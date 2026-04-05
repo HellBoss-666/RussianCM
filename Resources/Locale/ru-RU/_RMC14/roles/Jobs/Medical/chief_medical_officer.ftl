@@ -1,6 +1,6 @@
-ent-RMCGuidebookRoleCMO-name = The CMO
-ent-RMCGuidebookRoleCMO-desc = The Chief Medical Officer.
+ent-RMCGuidebookRoleCMO-name = директор по маркетингу
+ent-RMCGuidebookRoleCMO-desc = Главный врач.
 
-ent-CMSpawnPointCMO-name = chief medical officer spawn point
-ent-CMSpawnPointCMO-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointCMO-name = точка появления главного врача
+ent-CMSpawnPointCMO-desc = Создатель заданий RMC14. 
 

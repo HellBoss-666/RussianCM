@@ -1,3 +1,3 @@
-ent-RMCAdminAccessConfigurator-name = admin access configurator
-ent-RMCAdminAccessConfigurator-desc = If found, please return to your nearest High Command official.
+ent-RMCAdminAccessConfigurator-name = конфигуратор доступа администратора
+ent-RMCAdminAccessConfigurator-desc = В случае обнаружения верните его ближайшему должностному лицу высшего командования.
 

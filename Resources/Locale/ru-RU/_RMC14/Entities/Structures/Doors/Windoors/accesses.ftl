@@ -1,21 +1,21 @@
-ent-CMWindoorSecureBrig-name = secure windoor
-ent-CMWindoorSecureBrig-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorSecureBrig-name = безопасное окно
+ent-CMWindoorSecureBrig-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorSecurerRequisitions-name = secure windoor
-ent-CMWindoorSecurerRequisitions-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorSecurerRequisitions-name = безопасное окно
+ent-CMWindoorSecurerRequisitions-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorSecureMedical-name = secure windoor
-ent-CMWindoorSecureMedical-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorSecureMedical-name = безопасное окно
+ent-CMWindoorSecureMedical-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorSecureEngineering-name = secure windoor
-ent-CMWindoorSecureEngineering-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorSecureEngineering-name = безопасное окно
+ent-CMWindoorSecureEngineering-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorSecureCommand-name = secure windoor
-ent-CMWindoorSecureCommand-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorSecureCommand-name = безопасное окно
+ent-CMWindoorSecureCommand-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-RMCWindoorSecureTSEPABrig-name = secure windoor
-ent-RMCWindoorSecureTSEPABrig-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-RMCWindoorSecureTSEPABrig-name = безопасное окно
+ent-RMCWindoorSecureTSEPABrig-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorSecureBrigPowered-name = secure windoor
-ent-CMWindoorSecureBrigPowered-desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorSecureBrigPowered-name = безопасное окно
+ent-CMWindoorSecureBrigPowered-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 

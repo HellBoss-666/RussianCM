@@ -1,24 +1,24 @@
-ent-RMCExtinguisherCabinetAlt-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetAlt-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetAlt-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetAlt-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinet-name = extinguisher cabinet
-ent-RMCExtinguisherCabinet-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinet-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinet-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinetOpen-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetOpen-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetOpen-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetOpen-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinetFilled-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetFilled-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetFilled-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetFilled-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinetFilledOpen-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetFilledOpen-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetFilledOpen-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetFilledOpen-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinetAltOpen-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetAltOpen-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetAltOpen-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetAltOpen-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinetAltFilled-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetAltFilled-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetAltFilled-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetAltFilled-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 
-ent-RMCExtinguisherCabinetAltFilledOpen-name = extinguisher cabinet
-ent-RMCExtinguisherCabinetAltFilledOpen-desc = A small wall mounted cabinet designed to hold a fire extinguisher.
+ent-RMCExtinguisherCabinetAltFilledOpen-name = шкаф огнетушителя
+ent-RMCExtinguisherCabinetAltFilledOpen-desc = Небольшой настенный шкаф, предназначенный для хранения огнетушителя.
 

@@ -1,2 +1,2 @@
-ent-RMCWeaponRevolverBase-name = item
+ent-RMCWeaponRevolverBase-name = элемент
 

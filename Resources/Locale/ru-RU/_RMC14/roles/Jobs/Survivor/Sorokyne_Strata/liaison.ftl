@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHalcyonDynamicsLiaison-name = halcyon dynamics liaison preset
+ent-RMCGearSurvivorPresetHalcyonDynamicsLiaison-name = предустановка связи Halcyon Dynamics
 
-ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison-name = halcyon dynamics liaison spawn point
-ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison-name = точка спауна безмятежной динамики
+ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison-desc = Создатель заданий RMC14. 
 

@@ -1,22 +1,22 @@
-ent-RMCTriggerTeleporterViewer-name = teleporter viewer
+ent-RMCTriggerTeleporterViewer-name = телепортатор
 
-ent-RMCTriggerTeleporter-name = teleporter
+ent-RMCTriggerTeleporter-name = телепортатор
 
-ent-RMCTriggerTeleporterDamage50-name = teleporter
+ent-RMCTriggerTeleporterDamage50-name = телепортатор
 
-ent-RMCTriggerTeleporterDamage400-name = teleporter
+ent-RMCTriggerTeleporterDamage400-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerMPStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerMPStairs-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerBriefingStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerBriefingStairs-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerFarNSWStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerFarNSWStairs-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerFarNSWWStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerFarNSWWStairs-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerSLBriefStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerSLBriefStairs-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerSOStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerSOStairs-name = телепортатор
 
-ent-RMCTriggerTeleporterViewerAIStairs-name = teleporter viewer
+ent-RMCTriggerTeleporterViewerAIStairs-name = телепортатор
 

@@ -1,40 +1,40 @@
-ent-RMCMagazineRifleM5SPRHVHIP-name = item
+ent-RMCMagazineRifleM5SPRHVHIP-name = элемент
 
-ent-RMCCartridgeRifleM5SPRHVHIP-name = cartridge
+ent-RMCCartridgeRifleM5SPRHVHIP-name = картридж
 
-ent-RMCCartridgeRifleM5SPRHVP-name = cartridge
+ent-RMCCartridgeRifleM5SPRHVP-name = картридж
 
-ent-RMCMagazineRifleM5SPRHVP-name = item
+ent-RMCMagazineRifleM5SPRHVP-name = элемент
 
-ent-CMMagazineRifleM4SPRExt-name = item
+ent-CMMagazineRifleM4SPRExt-name = элемент
 
-ent-CMMagazineRifleM4SPRAP-name = item
+ent-CMMagazineRifleM4SPRAP-name = элемент
 
-ent-CMMagazineRifleM4SPR-name = item
+ent-CMMagazineRifleM4SPR-name = элемент
 
-ent-WeaponRifleM5SPR-name = M5SPR battle rifle
-ent-WeaponRifleM5SPR-desc = The M5SPR battle rifle is a modified version of the M4SPR, able to chamber High Velocity Piercing rounds, and equipped a two-burst configuration.
+ent-WeaponRifleM5SPR-name = Боевая винтовка М5СПР
+ent-WeaponRifleM5SPR-desc = Боевая винтовка M5SPR представляет собой модифицированную версию M4SPR, способную использовать высокоскоростные проникающие патроны и оснащенную конфигурацией с двумя залпами.
 
-ent-WeaponRifleM4SPR-name = M4SPR battle rifle
-ent-WeaponRifleM4SPR-desc = The M4SPR battle rifle is a designated marksman rifle in service with the Marine Corps. Sporting a bullpup configuration, the M4SPR battle rifle is perfect for reconnaissance and fire support teams.
+ent-WeaponRifleM4SPR-name = Боевая винтовка М4СПР
+ent-WeaponRifleM4SPR-desc = Боевая винтовка M4SPR — это снайперская винтовка, состоящая на вооружении Корпуса Морпеха. 
 
-ent-WeaponRifleM5SPR2-name = M5SPR/2 battle rifle
-ent-WeaponRifleM5SPR2-desc = The M5SPR/2 battle rifle is a modified version of the M5SPR, designed for PMC Operatives to take out targets at longer ranges.
+ent-WeaponRifleM5SPR2-name = Боевая винтовка М5СПР/2
+ent-WeaponRifleM5SPR2-desc = Боевая винтовка M5SPR/2 представляет собой модифицированную версию M5SPR, предназначенную для сотрудников ЧВК для поражения целей на больших дистанциях.
 
-ent-WeaponRifleM4SPRFilled-name = M4SPR battle rifle
-ent-WeaponRifleM4SPRFilled-desc = The M4SPR battle rifle is a designated marksman rifle in service with the Marine Corps. Sporting a bullpup configuration, the M4SPR battle rifle is perfect for reconnaissance and fire support teams.
+ent-WeaponRifleM4SPRFilled-name = Боевая винтовка М4СПР
+ent-WeaponRifleM4SPRFilled-desc = Боевая винтовка M4SPR — это снайперская винтовка, состоящая на вооружении Корпуса Морпеха. 
 
-ent-RMCMagazineRifleM4SPRWP-name = item
+ent-RMCMagazineRifleM4SPRWP-name = элемент
 
-ent-RMCMagazineRifleM4SPRIncendiary-name = item
+ent-RMCMagazineRifleM4SPRIncendiary-name = элемент
 
-ent-RMCMagazineRifleM4SPRHEAP-name = item
+ent-RMCMagazineRifleM4SPRHEAP-name = элемент
 
-ent-RMCMagazineRifleM4SPRAPEmpty-name = item
+ent-RMCMagazineRifleM4SPRAPEmpty-name = элемент
 
-ent-BulletRifleM5SPRHVP-name = BaseBullet
-ent-BulletRifleM5SPRHVP-desc = If you can see this you're probably dead!
+ent-BulletRifleM5SPRHVP-name = БазаBullet
+ent-BulletRifleM5SPRHVP-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-BulletRifleM5SPRHVHIP-name = BaseBullet
-ent-BulletRifleM5SPRHVHIP-desc = If you can see this you're probably dead!
+ent-BulletRifleM5SPRHVHIP-name = БазаBullet
+ent-BulletRifleM5SPRHVHIP-desc = Если ты это видишь, ты, вероятно, мертв!
 

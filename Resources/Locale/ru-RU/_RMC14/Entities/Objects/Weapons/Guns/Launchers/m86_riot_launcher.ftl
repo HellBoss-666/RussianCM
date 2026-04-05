@@ -1,3 +1,3 @@
-ent-RMCWeaponLauncherM81-name = M81 Riot grenade launcher
-ent-RMCWeaponLauncherM81-desc = The M81 riot grenade launcher is a single-shot, shoulder-fired, break-action grenade launcher designed for police use with Less-lethal munitions.
+ent-RMCWeaponLauncherM81-name = Гранатомет M81 Riot
+ent-RMCWeaponLauncherM81-desc = Гранатомет M81 представляет собой однозарядный гранатомет с разрывным механизмом стрельбы с плеча, предназначенный для использования полицией и оснащенный менее смертоносными боеприпасами.
 

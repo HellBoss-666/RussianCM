@@ -1,4 +1,4 @@
-ent-RMCAttachableBase-name = item
+ent-RMCAttachableBase-name = элемент
 
-ent-RMCAttachableToggleableBase-name = item
+ent-RMCAttachableToggleableBase-name = элемент
 

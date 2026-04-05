@@ -1,21 +1,21 @@
-ent-RMCPouchReagentCanister-name = storage pouch
-ent-RMCPouchReagentCanister-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanister-name = сумка для хранения
+ent-RMCPouchReagentCanister-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchReagentCanisterBicaridine-name = storage pouch
-ent-RMCPouchReagentCanisterBicaridine-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanisterBicaridine-name = сумка для хранения
+ent-RMCPouchReagentCanisterBicaridine-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchReagentCanisterKelotane-name = storage pouch
-ent-RMCPouchReagentCanisterKelotane-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanisterKelotane-name = сумка для хранения
+ent-RMCPouchReagentCanisterKelotane-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchReagentCanisterTricordrazineRevival-name = storage pouch
-ent-RMCPouchReagentCanisterTricordrazineRevival-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanisterTricordrazineRevival-name = сумка для хранения
+ent-RMCPouchReagentCanisterTricordrazineRevival-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchReagentCanisterTricordrazine-name = storage pouch
-ent-RMCPouchReagentCanisterTricordrazine-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanisterTricordrazine-name = сумка для хранения
+ent-RMCPouchReagentCanisterTricordrazine-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchReagentCanisterMeraBic-name = storage pouch
-ent-RMCPouchReagentCanisterMeraBic-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanisterMeraBic-name = сумка для хранения
+ent-RMCPouchReagentCanisterMeraBic-desc = Физическое проявление концепции сумки. 
 
-ent-RMCPouchReagentCanisterKeloDerm-name = storage pouch
-ent-RMCPouchReagentCanisterKeloDerm-desc = The physical manifestation of the concept of a pouch. Woah.
+ent-RMCPouchReagentCanisterKeloDerm-name = сумка для хранения
+ent-RMCPouchReagentCanisterKeloDerm-desc = Физическое проявление концепции сумки. 
 

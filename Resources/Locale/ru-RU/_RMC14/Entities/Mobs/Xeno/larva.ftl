@@ -1,5 +1,5 @@
-ent-RMCXenoEmbryo-name = alien embryo
-ent-RMCXenoEmbryo-desc = All slimy and yucky.
+ent-RMCXenoEmbryo-name = инопланетный эмбрион
+ent-RMCXenoEmbryo-desc = Весь склизкий и противный.
 
-ent-CMXenoLarva-name = cm-job-name-xeno-larva
+ent-CMXenoLarva-name = cm-имя-задания-ксено-личинка
 

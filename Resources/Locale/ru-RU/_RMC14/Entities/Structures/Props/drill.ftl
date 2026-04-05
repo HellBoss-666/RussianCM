@@ -1,3 +1,3 @@
-ent-RMCDrill-name = mining drill
-ent-RMCDrill-desc = An old mining drill, seemingly used for mining. And possibly drilling.
+ent-RMCDrill-name = горный бур
+ent-RMCDrill-desc = Старый горный бур, по-видимому, использовавшийся для добычи полезных ископаемых. 
 

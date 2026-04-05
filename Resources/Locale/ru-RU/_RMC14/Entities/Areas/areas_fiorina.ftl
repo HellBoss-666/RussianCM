@@ -1,98 +1,98 @@
-ent-RMCAreaFiorinaStationTelecommLz2Maint-name = Fiorina - Backup Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz2Maint-name = Фиорина — резервное реле связи
 
-ent-RMCAreaFiorinaStationTelecommLz2North-name = Fiorina - LZ2 North Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz2North-name = Фиорина - Реле связи LZ2 North
 
-ent-RMCAreaFiorinaStationTelecommLz2Engineering-name = Fiorina - Engineering Secondary Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz2Engineering-name = Фиорина — инженерное вторичное реле связи
 
-ent-RMCAreaFiorinaStationTelecommLz1Engineering-name = Fiorina - Engineering Primary Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz1Engineering-name = Фиорина — инженерное первичное реле связи
 
-ent-RMCAreaFiorinaStationTelecommLz1Tram-name = Fiorina - LZ1 Aux Port Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz1Tram-name = Fiorina - Реле связи дополнительного порта LZ1
 
-ent-RMCAreaFiorinaStationTelecommLz1Containers-name = Fiorina - LZ1 Containers Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz1Containers-name = Fiorina - Реле связи контейнеров LZ1
 
-ent-RMCAreaFiorinaStationTelecommLz1Cargo-name = Fiorina - LZ1 Cargo Communications Relay
+ent-RMCAreaFiorinaStationTelecommLz1Cargo-name = Фиорина - Реле грузовой связи LZ1
 
-ent-RMCAreaFiorinaStationTelecomm-name = Fiorina - Communications Relay
+ent-RMCAreaFiorinaStationTelecomm-name = Фиорина — Реле связи
 
-ent-RMCAreaFiorinaStationResearchCellsBasketball-name = Fiorina - Basketball Court
+ent-RMCAreaFiorinaStationResearchCellsBasketball-name = Фиорина - Баскетбольная площадка
 
-ent-RMCAreaFiorinaStationResearchCellsEast-name = Fiorina - East Research Cellblock
+ent-RMCAreaFiorinaStationResearchCellsEast-name = Фиорина — Восточный исследовательский тюремный блок
 
-ent-RMCAreaFiorinaStationResearchCellsWest-name = Fiorina - West Research Cellblock
+ent-RMCAreaFiorinaStationResearchCellsWest-name = Фиорина — Западный исследовательский тюремный блок
 
-ent-RMCAreaFiorinaStationResearchCells-name = Fiorina - Research Cellblock
+ent-RMCAreaFiorinaStationResearchCells-name = Фиорина — исследовательский тюремный блок
 
-ent-RMCAreaFiorinaStationMedbay-name = Fiorina - Medical Bay
+ent-RMCAreaFiorinaStationMedbay-name = Фиорина - Медикал Бэй
 
-ent-RMCAreaFiorinaStationCivresBlue-name = Fiorina - Blue Block Residences
+ent-RMCAreaFiorinaStationCivresBlue-name = Фиорина - Резиденции Blue Block
 
-ent-RMCAreaFiorinaStationChapel-name = Fiorina - Chapel
+ent-RMCAreaFiorinaStationChapel-name = Фиорина - Часовня
 
-ent-RMCAreaFiorinaStationCentralRing-name = Fiorina - Central Ring
+ent-RMCAreaFiorinaStationCentralRing-name = Фиорина - Центральное кольцо
 
-ent-RMCAreaFiorinaStationTransitHub-name = Fiorina - Transit Hub
+ent-RMCAreaFiorinaStationTransitHub-name = Фиорина – транзитный узел
 
-ent-RMCAreaFiorinaStationPark-name = Fiorina - Park
+ent-RMCAreaFiorinaStationPark-name = Фиорина - Парк
 
-ent-RMCAreaFiorinaStationBotany-name = Fiorina - Botany Growtrays
+ent-RMCAreaFiorinaStationBotany-name = Fiorina - лотки для выращивания ботаники
 
-ent-RMCAreaFiorinaStationSecurityWardens-name = Fiorina - Warden's Office
+ent-RMCAreaFiorinaStationSecurityWardens-name = Фиорина — кабинет смотрителя
 
-ent-RMCAreaFiorinaStationSecurity-name = Fiorina - Security Hub
+ent-RMCAreaFiorinaStationSecurity-name = Фиорина — Центр безопасности
 
-ent-RMCAreaFiorinaStationFlightDeck-name = Fiorina - Flight Deck
+ent-RMCAreaFiorinaStationFlightDeck-name = Фиорина — кабина экипажа
 
-ent-RMCAreaFiorinaStationDiscoEastDisco-name = Fiorina - East Disco Storage
+ent-RMCAreaFiorinaStationDiscoEastDisco-name = Фиорина - East Disco Storage
 
-ent-RMCAreaFiorinaStationDisco-name = Fiorina - West Disco Storage
+ent-RMCAreaFiorinaStationDisco-name = Фиорина - Вест Дискотека Склад
 
-ent-RMCAreaFiorinaStationPowerRingReactor-name = Fiorina - Engineering Reactor
+ent-RMCAreaFiorinaStationPowerRingReactor-name = Фиорина — Инженерный реактор
 
-ent-RMCAreaFiorinaStationPowerRing-name = Fiorina - Engineering Ring
+ent-RMCAreaFiorinaStationPowerRing-name = Фиорина — Инженерное кольцо
 
-ent-RMCAreaFiorinaStationLowsecEast-name = Fiorina - Low Security Eastside
+ent-RMCAreaFiorinaStationLowsecEast-name = Фиорина — Восточная сторона строгого режима
 
-ent-RMCAreaFiorinaStationLowsecShowersLaundry-name = Fiorina - Low Security Showers & Laundry
+ent-RMCAreaFiorinaStationLowsecShowersLaundry-name = Фиорина – душевые и прачечная строгого режима
 
-ent-RMCAreaFiorinaStationLowsec-name = Fiorina - Low Security Cells
+ent-RMCAreaFiorinaStationLowsec-name = Фиорина — камеры строгого режима
 
-ent-RMCAreaFiorinaStation-name = Fiorina - Station Interior
+ent-RMCAreaFiorinaStation-name = Фиорина — Интерьер вокзала
 
-ent-RMCAreaShuttleDrop2PrisonV3-name = Fiorina - Normandy Landing Zone
+ent-RMCAreaShuttleDrop2PrisonV3-name = Фиорина - Зона высадки в Нормандии
 
-ent-RMCAreaShuttleDrop1PrisonV3-name = Fiorina - Dropship Alamo Landing Zone
+ent-RMCAreaShuttleDrop1PrisonV3-name = Фиорина - Зона приземления десантного корабля Аламо
 
-ent-RMCAreaFiorinaLzConsoleII-name = Fiorina - LZ2 Control Console
+ent-RMCAreaFiorinaLzConsoleII-name = Фиорина — Консоль управления LZ2
 
-ent-RMCAreaFiorinaLzConsoleI-name = Fiorina - LZ1 Control Console
+ent-RMCAreaFiorinaLzConsoleI-name = Fiorina — Консоль управления LZ1
 
-ent-RMCAreaFiorinaLzNearLzII-name = Fiorina - LZ2 Prison Port
+ent-RMCAreaFiorinaLzNearLzII-name = Фиорина — Тюремный порт LZ2
 
-ent-RMCAreaFiorinaLzNearLzI-name = Fiorina - LZ1 Aux Port
+ent-RMCAreaFiorinaLzNearLzI-name = Фиорина — дополнительный порт LZ1
 
-ent-RMCAreaFiorinaLz-name = Fiorina - LZ
+ent-RMCAreaFiorinaLz-name = Фиорина – LZ
 
-ent-RMCAreaFiorinaTumorIceLab-name = Fiorina - Cryogenic Research Labs
+ent-RMCAreaFiorinaTumorIceLab-name = Фиорина - Криогенные исследовательские лаборатории
 
-ent-RMCAreaFiorinaTumorServers-name = Fiorina - Research Servers
+ent-RMCAreaFiorinaTumorServers-name = Фиорина — исследовательские серверы
 
-ent-RMCAreaFiorinaTumorAuxEngi-name = Fiorina - Engineering Sector
+ent-RMCAreaFiorinaTumorAuxEngi-name = Фиорина – инженерный сектор
 
-ent-RMCAreaFiorinaTumorCivres-name = Fiorina - Green Block Residences
+ent-RMCAreaFiorinaTumorCivres-name = Фиорина - Резиденции Green Block
 
-ent-RMCAreaFiorinaTumorShip-name = Fiorina - Scavenger Ship 'NSV Renault'
+ent-RMCAreaFiorinaTumorShip-name = Фиорина — Корабль-мусорщик «NSV Renault»
 
-ent-RMCAreaFiorinaTumorFiberbush-name = Fiorina - Fiberbush Infestation
+ent-RMCAreaFiorinaTumorFiberbush-name = Фиорина - Заражение Фибербушем
 
-ent-RMCAreaFiorinaTumor-name = Fiorina - Resin Tumor
+ent-RMCAreaFiorinaTumor-name = Фиорина - смоляная опухоль
 
-ent-RMCAreaFiorinaMaintenance-name = Fiorina - Maintenance
+ent-RMCAreaFiorinaMaintenance-name = Фиорина - Техническое обслуживание
 
-ent-RMCAreaFiorinaOob-name = Fiorina - Out Of Bounds
+ent-RMCAreaFiorinaOob-name = Фиорина - за пределами поля
 
-ent-RMCAreaFiorina-name = Fiorina Orbital Penitentiary - Science Annex
+ent-RMCAreaFiorina-name = Орбитальная тюрьма Фиорина — Научное приложение
 
-ent-RMCAreaFiorinaTumorDeep-name = Fiorina - Resin Tumor
+ent-RMCAreaFiorinaTumorDeep-name = Фиорина - смоляная опухоль
 
-ent-RMCAreaFiorinaStationRocinante-name = Tramp Freighter Rocinante
+ent-RMCAreaFiorinaStationRocinante-name = Бродяга-грузовик Росинант
 

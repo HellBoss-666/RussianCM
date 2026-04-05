@@ -1,20 +1,20 @@
-ent-RMCMortarCamera-name = para-cam
+ent-RMCMortarCamera-name = паракамера
 
-ent-RMCMortarFlare-name = illumination flare
-ent-RMCMortarFlare-desc = It's really bright, and unreachable.
+ent-RMCMortarFlare-name = вспышка освещения
+ent-RMCMortarFlare-desc = Это действительно ярко и недостижимо.
 
-ent-RMCMortarShellFlare-name = 80mm flare/camera mortar shell
-ent-RMCMortarShellFlare-desc = An 80mm mortar shell, loaded with an illumination flare / camera combo, attached to a parachute.
+ent-RMCMortarShellFlare-name = 80-мм ракетный/камерный миномет
+ent-RMCMortarShellFlare-desc = 80-мм минометный снаряд, снаряженный осветительной ракетой и камерой, прикрепленный к парашюту.
 
-ent-RMCMortarShellIncendiary-name = 80mm incendiary mortar shell
-ent-RMCMortarShellIncendiary-desc = An 80mm mortar shell, loaded with a Type B napalm charge. Perfect for long-range area denial.
+ent-RMCMortarShellIncendiary-name = 80-мм зажигательный минометный снаряд
+ent-RMCMortarShellIncendiary-desc = 80-мм минометный снаряд, снаряженный напалмовым зарядом типа Б. 
 
-ent-RMCMortarShellHE-name = 80mm high explosive mortar shell
-ent-RMCMortarShellHE-desc = An 80mm mortar shell, loaded with a high explosive charge.
+ent-RMCMortarShellHE-name = 80-мм осколочно-фугасный минометный снаряд
+ent-RMCMortarShellHE-desc = 80-мм минометный снаряд, снаряженный фугасным зарядом.
 
-ent-RMCMortarShellBase-name = 80mm mortar shell
-ent-RMCMortarShellBase-desc = An unlabeled 80mm mortar shell, probably a casing.
+ent-RMCMortarShellBase-name = 80-мм минометный снаряд
+ent-RMCMortarShellBase-desc = Немаркированный 80-мм минометный снаряд, вероятно, гильза.
 
-ent-RMCMortarKit-name = M402 mortar portable kit
-ent-RMCMortarKit-desc = A manual, crew-operated mortar system intended to rain down 80mm goodness on anything it's aimed at. Uses an advanced targeting computer, which can toggle between coordinate and laser targeting. Needs to be set down first.
+ent-RMCMortarKit-name = Переносной комплект миномета М402
+ent-RMCMortarKit-desc = Ручная минометная система, управляемая расчетом, предназначенная для обрушивания 80-мм снарядов на все, во что она нацелена. 
 

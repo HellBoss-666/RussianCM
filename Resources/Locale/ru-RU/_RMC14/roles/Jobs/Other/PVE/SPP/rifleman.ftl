@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPRiflemanPVE-name = spp rifleman spawn point
-ent-RMCSpawnPointSPPRiflemanPVE-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSPPRiflemanPVE-name = точка спавна стрелка SPP
+ent-RMCSpawnPointSPPRiflemanPVE-desc = Создатель заданий RMC14. 
 

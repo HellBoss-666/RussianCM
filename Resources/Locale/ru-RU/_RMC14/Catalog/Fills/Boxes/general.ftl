@@ -1,3 +1,3 @@
-ent-RMCBoxCardboard-name = box
-ent-RMCBoxCardboard-desc = It's just an ordinary box.
+ent-RMCBoxCardboard-name = коробка
+ent-RMCBoxCardboard-desc = Это обычная коробка.
 

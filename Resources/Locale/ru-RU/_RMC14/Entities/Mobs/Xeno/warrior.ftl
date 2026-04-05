@@ -1,2 +1,2 @@
-ent-CMXenoWarrior-name = cm-job-name-xeno-warrior
+ent-CMXenoWarrior-name = cm-имя-задания-xeno-Воин
 

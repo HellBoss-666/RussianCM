@@ -1,5 +1,5 @@
-ent-CMGuidebookRoleCorrespondent-name = Correspondent
+ent-CMGuidebookRoleCorrespondent-name = Корреспондент
 
-ent-CMSpawnPointCorrespondent-name = correspondent spawn point
-ent-CMSpawnPointCorrespondent-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointCorrespondent-name = соответствующая точка появления
+ent-CMSpawnPointCorrespondent-desc = Создатель заданий RMC14. 
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointTSEPAConstable-name = tsepa constable spawn point
-ent-RMCSpawnPointTSEPAConstable-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointTSEPAConstable-name = точка появления констебля цепы
+ent-RMCSpawnPointTSEPAConstable-desc = Создатель заданий RMC14. 
 

@@ -1,41 +1,41 @@
-ent-RMCBannerUNWorn-name = worn UN flag
-ent-RMCBannerUNWorn-desc = A very worn flag of the United Nations. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerUNWorn-name = носить флаг ООН
+ent-RMCBannerUNWorn-desc = Очень потертый флаг Организации Объединенных Наций. 
 
-ent-RMCBannerUN-name = UN flag
-ent-RMCBannerUN-desc = A flag of the United Nations. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerUN-name = Флаг ООН
+ent-RMCBannerUN-desc = Флаг ООН. 
 
-ent-RMCBannerTSEWorn-name = worn TSE flag
-ent-RMCBannerTSEWorn-desc = A very worn flag of the Three Suns Empire. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerTSEWorn-name = изношенный флаг TSE
+ent-RMCBannerTSEWorn-desc = Очень потертый флаг Империи Трех Солнц. 
 
-ent-RMCBannerTSE-name = TSE flag
-ent-RMCBannerTSE-desc = A flag of the Three Suns Empire. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerTSE-name = Флаг TSE
+ent-RMCBannerTSE-desc = Флаг Империи Трех Солнц. 
 
-ent-RMCBannerSPPWorn-name = worn SPP flag
-ent-RMCBannerSPPWorn-desc = A very worn flag of the Socialist Progressive Peoples. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerSPPWorn-name = изношенный флаг СПП
+ent-RMCBannerSPPWorn-desc = Очень потертый флаг Социалистических прогрессивных народов. 
 
-ent-RMCBannerSPP-name = SPP flag
-ent-RMCBannerSPP-desc = A flag of the Socialist Progressive Peoples. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerSPP-name = Флаг СПП
+ent-RMCBannerSPP-desc = Флаг Социалистических прогрессивных народов. 
 
-ent-RMCBannerCMWorn-name = worn UNMC flag
-ent-RMCBannerCMWorn-desc = A very worn flag of the United Nations Marine Corps. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerCMWorn-name = носить флаг UNMC
+ent-RMCBannerCMWorn-desc = Очень потертый флаг Корпуса Морпеха ООН. 
 
-ent-RMCBannerCM-name = UNMC flag
-ent-RMCBannerCM-desc = A flag of the United Nations Marine Corps. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerCM-name = Флаг UNMC
+ent-RMCBannerCM-desc = Флаг Корпуса Морпеха ООН. 
 
-ent-RMCBannerCLFWorn-name = worn CLF flag
-ent-RMCBannerCLFWorn-desc = A very worn flag of the Colony Liberation Front. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerCLFWorn-name = изношенный флаг CLF
+ent-RMCBannerCLFWorn-desc = Очень потертый флаг Фронта освобождения колоний. 
 
-ent-RMCBannerCLF-name = CLF flag
-ent-RMCBannerCLF-desc = A flag of the Colony Liberation Front. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerCLF-name = Флаг CLF
+ent-RMCBannerCLF-desc = Флаг Фронта освобождения колоний. 
 
-ent-RMCBannerBase-name = base sign
+ent-RMCBannerBase-name = базовый знак
 
-ent-RMCBannerCLFAltDraw-name = CLF flag
-ent-RMCBannerCLFAltDraw-desc = A flag of the Colony Liberation Front. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerCLFAltDraw-name = Флаг CLF
+ent-RMCBannerCLFAltDraw-desc = Флаг Фронта освобождения колоний. 
 
-ent-RMCBannerWEYA-name = WEYA flag
-ent-RMCBannerWEYA-desc = A flag of the Weston-Yamada Corporation. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings.
+ent-RMCBannerWEYA-name = Флаг ВЭЯ
+ent-RMCBannerWEYA-desc = Флаг корпорации Weston-Yamada. 
 
-ent-RMCBannerTSEAlt-name = old TSE flag
-ent-RMCBannerTSEAlt-desc = A flag of the Three-Sun Empire. Inspires patriotism, fear, or revulsion depending on the viewer's political leanings. This design was used years ago; apparently it's got a niche following.
+ent-RMCBannerTSEAlt-name = старый флаг TSE
+ent-RMCBannerTSEAlt-desc = Флаг Империи Трех Солнц. 
 

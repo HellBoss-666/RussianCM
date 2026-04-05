@@ -1,30 +1,30 @@
-ent-CMDoubleDoorResearchGlassLocked-name = Research Airlock
+ent-CMDoubleDoorResearchGlassLocked-name = Исследовательский шлюз
 
-ent-CMDoubleDoorRequisitionsGlassLocked-name = door
+ent-CMDoubleDoorRequisitionsGlassLocked-name = дверь
 
-ent-CMDoubleDoorRequisitionsSolidLocked-name = door
+ent-CMDoubleDoorRequisitionsSolidLocked-name = дверь
 
-ent-CMDoubleDoorEngineerGlassLocked-name = door
+ent-CMDoubleDoorEngineerGlassLocked-name = дверь
 
-ent-CMDoubleDoorEngineerSolidLocked-name = door
+ent-CMDoubleDoorEngineerSolidLocked-name = дверь
 
-ent-CMDoubleDoorMedicalGlassLocked-name = door
+ent-CMDoubleDoorMedicalGlassLocked-name = дверь
 
-ent-CMDoubleDoorMedicalSolidLocked-name = door
+ent-CMDoubleDoorMedicalSolidLocked-name = дверь
 
-ent-CMDoubleDoorMorgueSolidLocked-name = door
+ent-CMDoubleDoorMorgueSolidLocked-name = дверь
 
-ent-CMDoubleDoorChemistryGlassLocked-name = door
+ent-CMDoubleDoorChemistryGlassLocked-name = дверь
 
-ent-CMDoubleDoorChemistrySolidLocked-name = door
+ent-CMDoubleDoorChemistrySolidLocked-name = дверь
 
-ent-CMDoubleDoorResearchSolidLocked-name = door
+ent-CMDoubleDoorResearchSolidLocked-name = дверь
 
-ent-CMDoubleDoorPilotsGlassLocked-name = door
+ent-CMDoubleDoorPilotsGlassLocked-name = дверь
 
-ent-CMDoubleDoorPilotsSolidLocked-name = door
+ent-CMDoubleDoorPilotsSolidLocked-name = дверь
 
-ent-CMDoubleDoorSecurityGlassLocked-name = door
+ent-CMDoubleDoorSecurityGlassLocked-name = дверь
 
-ent-CMDoubleDoorSecuritySolidLocked-name = door
+ent-CMDoubleDoorSecuritySolidLocked-name = дверь
 

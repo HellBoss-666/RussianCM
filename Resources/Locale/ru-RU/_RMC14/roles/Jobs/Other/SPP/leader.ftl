@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidSPPLeaderFriendly-name = spp ghost role leader
+ent-RMCRandomHumanoidSPPLeaderFriendly-name = лидер роли призрака spp
 
-ent-RMCRandomHumanoidSPPLeaderHostile-name = spp ghost role leader
+ent-RMCRandomHumanoidSPPLeaderHostile-name = лидер роли призрака spp
 

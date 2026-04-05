@@ -1,12 +1,12 @@
-ent-RMCCrateFoodIngredients-name = ingredients crate
-ent-RMCCrateFoodIngredients-desc = A rectangular plastic crate.
+ent-RMCCrateFoodIngredients-name = ящик с ингредиентами
+ent-RMCCrateFoodIngredients-desc = Прямоугольный пластиковый ящик.
 
-ent-RMCCrateFoodPizza-name = pizza ready-to-eat crate
-ent-RMCCrateFoodPizza-desc = A rectangular plastic crate.
+ent-RMCCrateFoodPizza-name = ящик готовой пиццы
+ent-RMCCrateFoodPizza-desc = Прямоугольный пластиковый ящик.
 
-ent-RMCCrateFoodMRE-name = UNMC MRE crate
-ent-RMCCrateFoodMRE-desc = A rectangular plastic crate.
+ent-RMCCrateFoodMRE-name = Ящик UNMC MRE
+ent-RMCCrateFoodMRE-desc = Прямоугольный пластиковый ящик.
 
-ent-RMCCrateFoodDonuts-name = donuts crate
-ent-RMCCrateFoodDonuts-desc = A rectangular plastic crate.
+ent-RMCCrateFoodDonuts-name = ящик пончиков
+ent-RMCCrateFoodDonuts-desc = Прямоугольный пластиковый ящик.
 

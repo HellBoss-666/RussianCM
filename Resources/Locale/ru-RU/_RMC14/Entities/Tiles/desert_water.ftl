@@ -1,13 +1,13 @@
-ent-RMCGrate-name = grate
-ent-RMCGrate-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCGrate-name = решетка
+ent-RMCGrate-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCEntityDesertWaterShallow-name = shallow water
+ent-RMCEntityDesertWaterShallow-name = мелководье
 
-ent-RMCEntityDesertWaterShallowCorner-name = shallow water
+ent-RMCEntityDesertWaterShallowCorner-name = мелководье
 
-ent-RMCEntityDesertWaterShallowCornerEdge-name = shallow water
+ent-RMCEntityDesertWaterShallowCornerEdge-name = мелководье
 
-ent-RMCEntityDesertWaterShallowEdge-name = shallow water
+ent-RMCEntityDesertWaterShallowEdge-name = мелководье
 
-ent-RMCEntityDesertWaterDeep-name = deep water
+ent-RMCEntityDesertWaterDeep-name = глубокая вода
 

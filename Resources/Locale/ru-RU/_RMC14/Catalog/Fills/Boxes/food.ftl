@@ -1,3 +1,3 @@
-ent-RMCBoxIngredients-name = surplus box of ingredients
-ent-RMCBoxIngredients-desc = This box contains ingredients.
+ent-RMCBoxIngredients-name = лишняя коробка ингредиентов
+ent-RMCBoxIngredients-desc = В этой коробке находятся ингредиенты.
 

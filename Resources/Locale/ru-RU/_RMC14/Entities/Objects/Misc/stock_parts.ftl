@@ -1,54 +1,54 @@
-ent-CMStockPartSMESCoil-name = superconducting magnetic coil
-ent-CMStockPartSMESCoil-desc = Heavy-duty superconducting magnetic coil, mainly used in construction of SMES units.
+ent-CMStockPartSMESCoil-name = сверхпроводящая магнитная катушка
+ent-CMStockPartSMESCoil-desc = Мощная сверхпроводящая магнитная катушка, в основном используемая в конструкции установок СМИС.
 
-ent-CMStockPartMatterBinSuper-name = super matter bin
-ent-CMStockPartMatterBinSuper-desc = A container for hold compressed matter awaiting re-construction.
+ent-CMStockPartMatterBinSuper-name = супер-контейнер для материи
+ent-CMStockPartMatterBinSuper-desc = Контейнер для хранения сжатого материала, ожидающего реконструкции.
 
-ent-CMStockPartMicroLaserUltra-name = ultra-high-power micro-laser
-ent-CMStockPartMicroLaserUltra-desc = A tiny laser used in certain devices.
+ent-CMStockPartMicroLaserUltra-name = сверхмощный микролазер
+ent-CMStockPartMicroLaserUltra-desc = Крошечный лазер, используемый в некоторых устройствах.
 
-ent-CMStockPartManipulatorPico-name = pico-manipulator
-ent-CMStockPartManipulatorPico-desc = A tiny little manipulator used in the construction of certain devices.
+ent-CMStockPartManipulatorPico-name = пикоманипулятор
+ent-CMStockPartManipulatorPico-desc = Крошечный манипулятор, используемый при изготовлении некоторых устройств.
 
-ent-CMStockPartScanningModulePhasic-name = phasic scanning module
-ent-CMStockPartScanningModulePhasic-desc = A compact, high resolution phasic scanning module used in the construction of certain devices.
+ent-CMStockPartScanningModulePhasic-name = модуль фазового сканирования
+ent-CMStockPartScanningModulePhasic-desc = Компактный модуль фазового сканирования высокого разрешения, используемый в конструкции некоторых устройств.
 
-ent-CMStockPartCapacitorSuper-name = super capacitor
-ent-CMStockPartCapacitorSuper-desc = A super-high-capacity capacitor used in the construction of a variety of devices.
+ent-CMStockPartCapacitorSuper-name = суперконденсатор
+ent-CMStockPartCapacitorSuper-desc = Конденсатор сверхвысокой ёмкости, используемый в конструкции различных устройств.
 
-ent-CMStockPartMatterAdvanced-name = advanced matter bin
-ent-CMStockPartMatterAdvanced-desc = A container for hold compressed matter awaiting re-construction.
+ent-CMStockPartMatterAdvanced-name = бункер для продвинутых материалов
+ent-CMStockPartMatterAdvanced-desc = Контейнер для хранения сжатого материала, ожидающего реконструкции.
 
-ent-CMStockPartMicroLaserHigh-name = high-power micro-laser
-ent-CMStockPartMicroLaserHigh-desc = A tiny laser used in certain devices.
+ent-CMStockPartMicroLaserHigh-name = мощный микролазер
+ent-CMStockPartMicroLaserHigh-desc = Крошечный лазер, используемый в некоторых устройствах.
 
-ent-CMStockPartManipulatorNano-name = nano-manipulator
-ent-CMStockPartManipulatorNano-desc = A tiny little manipulator used in the construction of certain devices.
+ent-CMStockPartManipulatorNano-name = наноманипулятор
+ent-CMStockPartManipulatorNano-desc = Крошечный манипулятор, используемый при изготовлении некоторых устройств.
 
-ent-CMStockPartScanningModuleAdvanced-name = advanced scanning module
-ent-CMStockPartScanningModuleAdvanced-desc = A compact, high resolution scanning module used in the construction of certain devices.
+ent-CMStockPartScanningModuleAdvanced-name = расширенный модуль сканирования
+ent-CMStockPartScanningModuleAdvanced-desc = Компактный модуль сканирования с высоким разрешением, используемый в конструкции некоторых устройств.
 
-ent-CMStockPartCapacitorAdvanced-name = advanced capacitor
-ent-CMStockPartCapacitorAdvanced-desc = An advanced capacitor used in the construction of a variety of devices.
+ent-CMStockPartCapacitorAdvanced-name = усовершенствованный конденсатор
+ent-CMStockPartCapacitorAdvanced-desc = Усовершенствованный конденсатор, используемый в конструкции различных устройств.
 
-ent-CMStockPartMatterBin-name = matter bin
-ent-CMStockPartMatterBin-desc = A container for hold compressed matter awaiting re-construction.
+ent-CMStockPartMatterBin-name = мусорное ведро
+ent-CMStockPartMatterBin-desc = Контейнер для хранения сжатого материала, ожидающего реконструкции.
 
-ent-CMStockPartMicroLaser-name = micro-laser
-ent-CMStockPartMicroLaser-desc = A tiny laser used in certain devices.
+ent-CMStockPartMicroLaser-name = микролазер
+ent-CMStockPartMicroLaser-desc = Крошечный лазер, используемый в некоторых устройствах.
 
-ent-CMStockPartManipulatorMicro-name = micro-manipulator
-ent-CMStockPartManipulatorMicro-desc = A tiny little manipulator used in the construction of certain devices.
+ent-CMStockPartManipulatorMicro-name = микроманипулятор
+ent-CMStockPartManipulatorMicro-desc = Крошечный манипулятор, используемый при изготовлении некоторых устройств.
 
-ent-CMStockPartScanningModule-name = scanning module
-ent-CMStockPartScanningModule-desc = A compact, high resolution scanning module used in the construction of certain devices.
+ent-CMStockPartScanningModule-name = модуль сканирования
+ent-CMStockPartScanningModule-desc = Компактный модуль сканирования с высоким разрешением, используемый в конструкции некоторых устройств.
 
-ent-CMStockPartCapacitor-name = capacitor
-ent-CMStockPartCapacitor-desc = A basic capacitor used in the construction of a variety of devices.
+ent-CMStockPartCapacitor-name = конденсатор
+ent-CMStockPartCapacitor-desc = Основной конденсатор, используемый в конструкции различных устройств.
 
-ent-CMStockPartScreen-name = console screen
-ent-CMStockPartScreen-desc = Used in the construction of computers and other devices with an interactive console.
+ent-CMStockPartScreen-name = экран консоли
+ent-CMStockPartScreen-desc = Используется при сборке компьютеров и других устройств с интерактивной консолью.
 
-ent-CMStockPartBase-name = stock part
-ent-CMStockPartBase-desc = What?
+ent-CMStockPartBase-name = запасная часть
+ent-CMStockPartBase-desc = Что?
 

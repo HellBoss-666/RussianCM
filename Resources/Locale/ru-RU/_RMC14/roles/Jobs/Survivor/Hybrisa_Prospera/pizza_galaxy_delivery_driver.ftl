@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaPizzaGalaxy-name = hybrisa pizza galaxy delivery driver preset
+ent-RMCGearSurvivorPresetHybrisaPizzaGalaxy-name = Предустановка драйвера доставки пиццы Hybrisa Pizza Galaxy
 
-ent-RMCSpawnPointSurvivorHybrisaPizzaGalaxy-name = hybrisa pizza galaxy delivery driver spawn point
-ent-RMCSpawnPointSurvivorHybrisaPizzaGalaxy-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaPizzaGalaxy-name = Гибриса, водитель доставки пиццы Galaxy, точка спавна
+ent-RMCSpawnPointSurvivorHybrisaPizzaGalaxy-desc = Создатель заданий RMC14. 
 

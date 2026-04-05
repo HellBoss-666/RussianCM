@@ -1,2 +1,2 @@
-ent-CMMobReptilian-name = Urisst' C-M Mzhand
+ent-CMMobReptilian-name = Уриссь С-М Мжанд
 

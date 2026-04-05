@@ -1,24 +1,24 @@
-ent-CMApcBase-name = area power controller
-ent-CMApcBase-desc = A control terminal for the area electrical systems.
+ent-CMApcBase-name = контроллер мощности зоны
+ent-CMApcBase-desc = Терминал управления электрическими системами территории.
 
-ent-CMApcFrame-name = APC frame
-ent-CMApcFrame-desc = A control terminal for the area's electrical systems, lacking the electronics.
+ent-CMApcFrame-name = Рама БТР
+ent-CMApcFrame-desc = Терминал управления электрическими системами района, лишенный электроники.
 
-ent-CMApcConstructed-name = area power controller
-ent-CMApcConstructed-desc = A control terminal for the area electrical systems.
+ent-CMApcConstructed-name = контроллер мощности зоны
+ent-CMApcConstructed-desc = Терминал управления электрическими системами территории.
 
-ent-CMApcNoPower-name = area power controller
-ent-CMApcNoPower-desc = A control terminal for the area electrical systems.
+ent-CMApcNoPower-name = контроллер мощности зоны
+ent-CMApcNoPower-desc = Терминал управления электрическими системами территории.
 
-ent-CMApcAlmayer-name = area power controller
-ent-CMApcAlmayer-desc = A control terminal for the area electrical systems.
+ent-CMApcAlmayer-name = контроллер мощности зоны
+ent-CMApcAlmayer-desc = Терминал управления электрическими системами территории.
 
-ent-CMApcLowCapacity-name = area power controller
-ent-CMApcLowCapacity-desc = A control terminal for the area electrical systems.
+ent-CMApcLowCapacity-name = контроллер мощности зоны
+ent-CMApcLowCapacity-desc = Терминал управления электрическими системами территории.
 
-ent-CMApcMediumCapacity-name = area power controller
-ent-CMApcMediumCapacity-desc = A control terminal for the area electrical systems.
+ent-CMApcMediumCapacity-name = контроллер мощности зоны
+ent-CMApcMediumCapacity-desc = Терминал управления электрическими системами территории.
 
-ent-CMApcHighCapacity-name = area power controller
-ent-CMApcHighCapacity-desc = A control terminal for the area electrical systems.
+ent-CMApcHighCapacity-name = контроллер мощности зоны
+ent-CMApcHighCapacity-desc = Терминал управления электрическими системами территории.
 

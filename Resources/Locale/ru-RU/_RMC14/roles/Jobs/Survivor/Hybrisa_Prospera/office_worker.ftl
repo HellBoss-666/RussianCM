@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaOfficeWorker-name = hybrisa office worker preset
+ent-RMCGearSurvivorPresetHybrisaOfficeWorker-name = Предустановка офисного работника hybrisa
 
-ent-RMCSpawnPointSurvivorHybrisaOfficeWorker-name = hybrisa office worker spawn point
-ent-RMCSpawnPointSurvivorHybrisaOfficeWorker-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaOfficeWorker-name = точка появления офисного работника Hybrisa
+ent-RMCSpawnPointSurvivorHybrisaOfficeWorker-desc = Создатель заданий RMC14. 
 

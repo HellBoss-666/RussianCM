@@ -1,15 +1,15 @@
-ent-CMExecutiveWEYAMatchbook-name = We-Ya gold matchbook
-ent-CMExecutiveWEYAMatchbook-desc = A small book of expensive paper matches. These ones light almost every time, or so the packaging claims.
+ent-CMExecutiveWEYAMatchbook-name = Золотой спичечный коробок We-Ya
+ent-CMExecutiveWEYAMatchbook-desc = Небольшая книжечка дорогих бумажных спичек. 
 
-ent-CMElectroMatchbook-name = Electro matchbook
-ent-CMElectroMatchbook-desc = A small book of cheap paper matches. Good luck getting them to light.
+ent-CMElectroMatchbook-name = Электро спичечный коробок
+ent-CMElectroMatchbook-desc = Небольшая книжка дешевых бумажных спичек. 
 
-ent-CMExecutiveSelectMatchbook-name = executive select matchbook
-ent-CMExecutiveSelectMatchbook-desc = A small book of expensive paper matches. These ones light almost every time!
+ent-CMExecutiveSelectMatchbook-name = спичечный коробок Executive Select
+ent-CMExecutiveSelectMatchbook-desc = Небольшая книжечка дорогих бумажных спичек. 
 
-ent-CMBrownMatchBook-name = brown matchbook
-ent-CMBrownMatchBook-desc = A small book of cheap paper matches. Good luck getting them to light. Made with generic brown paper.
+ent-CMBrownMatchBook-name = коричневый спичечный коробок
+ent-CMBrownMatchBook-desc = Небольшая книжка дешевых бумажных спичек. 
 
-ent-CMMatchBook-name = lucky sloths matchbook
-ent-CMMatchBook-desc = A small book of cheap paper matches. Good luck getting them to light. Made by Lucky Sloths, but you'll be anything but lucky when you burn your hand trying to light a match on this.
+ent-CMMatchBook-name = счастливый спичечный коробок ленивцев
+ent-CMMatchBook-desc = Небольшая книжка дешевых бумажных спичек. 
 

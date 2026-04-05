@@ -1,3 +1,3 @@
-ent-CMSpawnPointPilotDropship-name = dropship pilot spawn point
-ent-CMSpawnPointPilotDropship-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointPilotDropship-name = точка появления пилота десантного корабля
+ent-CMSpawnPointPilotDropship-desc = Создатель заданий RMC14. 
 

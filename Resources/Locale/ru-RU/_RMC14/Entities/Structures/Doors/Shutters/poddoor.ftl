@@ -1,69 +1,69 @@
-ent-RMCPodDoorAlmayerContainmentIndestructible-name = cell wall
-ent-RMCPodDoorAlmayerContainmentIndestructible-desc = A metal wall used to separate rooms and make up the ship.
+ent-RMCPodDoorAlmayerContainmentIndestructible-name = клеточная стенка
+ent-RMCPodDoorAlmayerContainmentIndestructible-desc = Металлическая стена, используемая для разделения комнат и создания корабля.
 
-ent-RMCPodDoorNonOccluderIndestructible-name = podlock
-ent-RMCPodDoorNonOccluderIndestructible-desc = That looks like it doesn't open easily.
+ent-RMCPodDoorNonOccluderIndestructible-name = подлок
+ent-RMCPodDoorNonOccluderIndestructible-desc = Похоже, он не открывается легко.
 
-ent-RMCPodDoorIndestructible-name = podlock
-ent-RMCPodDoorIndestructible-desc = That looks like it doesn't open easily.
+ent-RMCPodDoorIndestructible-name = подлок
+ent-RMCPodDoorIndestructible-desc = Похоже, он не открывается легко.
 
-ent-RMCPodDoor-name = podlock
-ent-RMCPodDoor-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoor-name = подлок
+ent-RMCPodDoor-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAlmayer-name = podlock
-ent-RMCPodDoorAlmayer-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAlmayer-name = подлок
+ent-RMCPodDoorAlmayer-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorHybrisaWhite-name = podlock
-ent-RMCPodDoorHybrisaWhite-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorHybrisaWhite-name = подлок
+ent-RMCPodDoorHybrisaWhite-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorHybrisaRed-name = podlock
-ent-RMCPodDoorHybrisaRed-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorHybrisaRed-name = подлок
+ent-RMCPodDoorHybrisaRed-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorHybrisaRedOpen-name = podlock
-ent-RMCPodDoorHybrisaRedOpen-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorHybrisaRedOpen-name = подлок
+ent-RMCPodDoorHybrisaRedOpen-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAlmayerIndestructible-name = podlock
-ent-RMCPodDoorAlmayerIndestructible-desc = That looks like it doesn't open easily.
+ent-RMCPodDoorAlmayerIndestructible-name = подлок
+ent-RMCPodDoorAlmayerIndestructible-desc = Похоже, он не открывается легко.
 
-ent-RMCPodDoorHybrisaIndestructible-name = podlock
-ent-RMCPodDoorHybrisaIndestructible-desc = That looks like it doesn't open easily.
+ent-RMCPodDoorHybrisaIndestructible-name = подлок
+ent-RMCPodDoorHybrisaIndestructible-desc = Похоже, он не открывается легко.
 
-ent-RMCPodDoorHybrisaIndestructibleUltra-name = podlock
-ent-RMCPodDoorHybrisaIndestructibleUltra-desc = A heavily reinforced metal-alloy door, designed to be virtually indestructible—nothing can penetrate its defenses.
+ent-RMCPodDoorHybrisaIndestructibleUltra-name = подлок
+ent-RMCPodDoorHybrisaIndestructibleUltra-desc = Сильно усиленная дверь из металлического сплава практически неуязвима — ничто не может пробить ее защиту.
 
-ent-RMCPodDoorHybrisaIndestructibleUltraOpen-name = podlock
-ent-RMCPodDoorHybrisaIndestructibleUltraOpen-desc = A heavily reinforced metal-alloy door, designed to be virtually indestructible—nothing can penetrate its defenses.
+ent-RMCPodDoorHybrisaIndestructibleUltraOpen-name = подлок
+ent-RMCPodDoorHybrisaIndestructibleUltraOpen-desc = Сильно усиленная дверь из металлического сплава практически неуязвима — ничто не может пробить ее защиту.
 
-ent-RMCPodDoorAlmayerLocked-name = podlock
-ent-RMCPodDoorAlmayerLocked-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAlmayerLocked-name = подлок
+ent-RMCPodDoorAlmayerLocked-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAlmayerOpen-name = podlock
-ent-RMCPodDoorAlmayerOpen-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAlmayerOpen-name = подлок
+ent-RMCPodDoorAlmayerOpen-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorBrigLockdown-name = podlock
-ent-RMCPodDoorBrigLockdown-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorBrigLockdown-name = подлок
+ent-RMCPodDoorBrigLockdown-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorHangerLockdown-name = podlock
-ent-RMCPodDoorHangerLockdown-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorHangerLockdown-name = подлок
+ent-RMCPodDoorHangerLockdown-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAlmayerBlack-name = podlock
-ent-RMCPodDoorAlmayerBlack-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAlmayerBlack-name = подлок
+ent-RMCPodDoorAlmayerBlack-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAIBlackLockdown-name = podlock
-ent-RMCPodDoorAIBlackLockdown-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAIBlackLockdown-name = подлок
+ent-RMCPodDoorAIBlackLockdown-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAlmayerWhite-name = podlock
-ent-RMCPodDoorAlmayerWhite-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAlmayerWhite-name = подлок
+ent-RMCPodDoorAlmayerWhite-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAI-name = podlock
-ent-RMCPodDoorAI-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAI-name = подлок
+ent-RMCPodDoorAI-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAILockdown-name = podlock
-ent-RMCPodDoorAILockdown-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAILockdown-name = подлок
+ent-RMCPodDoorAILockdown-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAIWhite-name = podlock
-ent-RMCPodDoorAIWhite-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAIWhite-name = подлок
+ent-RMCPodDoorAIWhite-desc = Похоже, он не открывается легко. 
 
-ent-RMCPodDoorAIWhiteOpen-name = podlock
-ent-RMCPodDoorAIWhiteOpen-desc = That looks like it doesn't open easily. Maybe look for a button or use a breaching charge?
+ent-RMCPodDoorAIWhiteOpen-name = подлок
+ent-RMCPodDoorAIWhiteOpen-desc = Похоже, он не открывается легко. 
 

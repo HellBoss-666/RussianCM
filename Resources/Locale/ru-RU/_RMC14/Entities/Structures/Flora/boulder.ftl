@@ -1,9 +1,9 @@
-ent-RMCBoulderLarge-name = boulder
-ent-RMCBoulderLarge-desc = A large rock. It's not cooking anything.
+ent-RMCBoulderLarge-name = валун
+ent-RMCBoulderLarge-desc = Большой камень. 
 
-ent-RMCBoulderLarge1-name = boulder
-ent-RMCBoulderLarge1-desc = A large rock. It's not cooking anything.
+ent-RMCBoulderLarge1-name = валун
+ent-RMCBoulderLarge1-desc = Большой камень. 
 
-ent-RMCBoulderWide-name = boulder
-ent-RMCBoulderWide-desc = A large rock. It's not cooking anything.
+ent-RMCBoulderWide-name = валун
+ent-RMCBoulderWide-desc = Большой камень. 
 

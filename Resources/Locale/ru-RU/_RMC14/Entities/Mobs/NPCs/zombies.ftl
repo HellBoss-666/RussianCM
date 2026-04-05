@@ -1,16 +1,16 @@
-ent-RMCSpawnZombifiedColonist-name = zombie spawner
+ent-RMCSpawnZombifiedColonist-name = спаунер зомби
 
-ent-RMCSpawnZombifiedChef-name = zombie spawner
+ent-RMCSpawnZombifiedChef-name = спаунер зомби
 
-ent-RMCSpawnZombifiedDoctor-name = zombie spawner
+ent-RMCSpawnZombifiedDoctor-name = спаунер зомби
 
-ent-RMCSpawnZombifiedEngineer-name = zombie spawner
+ent-RMCSpawnZombifiedEngineer-name = спаунер зомби
 
-ent-RMCSpawnZombifiedSecurity-name = zombie spawner
+ent-RMCSpawnZombifiedSecurity-name = спаунер зомби
 
-ent-RMCSpawnZombifiedLiaison-name = zombie spawner
+ent-RMCSpawnZombifiedLiaison-name = спаунер зомби
 
-ent-RMCSpawnZombifiedWeYaGoon-name = zombie spawner
+ent-RMCSpawnZombifiedWeYaGoon-name = спаунер зомби
 
-ent-RMCSpawnZombifiedWeYaPMC-name = zombie spawner
+ent-RMCSpawnZombifiedWeYaPMC-name = спаунер зомби
 

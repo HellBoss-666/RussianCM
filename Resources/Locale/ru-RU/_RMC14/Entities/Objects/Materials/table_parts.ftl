@@ -1,24 +1,24 @@
-ent-RMCTablePartAlmayer-name = table parts
-ent-RMCTablePartAlmayer-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartAlmayer-name = части стола
+ent-RMCTablePartAlmayer-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartGambling-name = table parts
-ent-RMCTablePartGambling-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartGambling-name = части стола
+ent-RMCTablePartGambling-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartWoodFancy-name = table parts
-ent-RMCTablePartWoodFancy-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartWoodFancy-name = части стола
+ent-RMCTablePartWoodFancy-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartWoodPoor-name = table parts
-ent-RMCTablePartWoodPoor-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartWoodPoor-name = части стола
+ent-RMCTablePartWoodPoor-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartWood-name = table parts
-ent-RMCTablePartWood-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartWood-name = части стола
+ent-RMCTablePartWood-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartReinforced-name = table parts
-ent-RMCTablePartReinforced-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartReinforced-name = части стола
+ent-RMCTablePartReinforced-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartTan-name = table parts
-ent-RMCTablePartTan-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartTan-name = части стола
+ent-RMCTablePartTan-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 
-ent-RMCTablePartBase-name = table parts
-ent-RMCTablePartBase-desc = A kit for a table, including a large, flat metal surface and four legs. Some assembly required.
+ent-RMCTablePartBase-name = части стола
+ent-RMCTablePartBase-desc = Комплект для стола, включающий большую плоскую металлическую поверхность и четыре ножки. 
 

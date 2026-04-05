@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPCorpsmanPVE-name = spp corpsman spawn point
-ent-RMCSpawnPointSPPCorpsmanPVE-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSPPCorpsmanPVE-name = точка спавна санитара SPP
+ent-RMCSpawnPointSPPCorpsmanPVE-desc = Создатель заданий RMC14. 
 

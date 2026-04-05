@@ -1,9 +1,9 @@
-ent-HivePylonXeno-name = hive pylon
-ent-HivePylonXeno-desc = A towering spike of resin. Its base pulsates with large tendrils.
+ent-HivePylonXeno-name = пилон улья
+ent-HivePylonXeno-desc = Высокий шип смолы. 
 
-ent-HiveCoreXenoConstructionNode-name = hive core
-ent-HiveCoreXenoConstructionNode-desc = A strange wriggling lump. Looks like a marker for something.
+ent-HiveCoreXenoConstructionNode-name = ядро улья
+ent-HiveCoreXenoConstructionNode-desc = Странный извивающийся комок. 
 
-ent-HiveCoreXeno-name = hive core
-ent-HiveCoreXeno-desc = A giant pulsating mound of mass. It looks very much alive.
+ent-HiveCoreXeno-name = ядро улья
+ent-HiveCoreXeno-desc = Гигантская пульсирующая насыпь массы. 
 

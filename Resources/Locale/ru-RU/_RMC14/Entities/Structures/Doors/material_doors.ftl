@@ -1,6 +1,6 @@
-ent-RMCSandstoneDoor-name = sandstone door
-ent-RMCSandstoneDoor-desc = It opens and closes.
+ent-RMCSandstoneDoor-name = дверь из песчаника
+ent-RMCSandstoneDoor-desc = Он открывается и закрывается.
 
-ent-RMCBaseMaterialDoor-name = door
-ent-RMCBaseMaterialDoor-desc = A door, where will it lead?
+ent-RMCBaseMaterialDoor-name = дверь
+ent-RMCBaseMaterialDoor-desc = Дверь, куда она приведет?
 

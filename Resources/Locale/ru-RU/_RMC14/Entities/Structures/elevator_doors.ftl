@@ -1,6 +1,6 @@
-ent-RMCElevatorDoorBroken-name = broken elevator door
-ent-RMCElevatorDoorBroken-desc = completely broken, the elevator is not going to work.
+ent-RMCElevatorDoorBroken-name = сломанная дверь лифта
+ent-RMCElevatorDoorBroken-desc = полностью сломан, лифт не будет работать.
 
-ent-RMCElevatorDoorBrokenRight-name = broken elevator door
-ent-RMCElevatorDoorBrokenRight-desc = completely broken, the elevator is not going to work.
+ent-RMCElevatorDoorBrokenRight-name = сломанная дверь лифта
+ent-RMCElevatorDoorBrokenRight-desc = полностью сломан, лифт не будет работать.
 

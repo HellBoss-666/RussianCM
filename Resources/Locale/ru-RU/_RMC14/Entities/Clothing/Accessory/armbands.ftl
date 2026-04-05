@@ -1,60 +1,60 @@
-ent-RMCEngiArmband-name = engineering armband
-ent-RMCEngiArmband-desc = An armband, worn by the crew to display which department they're assigned to. This one is orange with a reflective strip!
+ent-RMCEngiArmband-name = инженерная повязка
+ent-RMCEngiArmband-desc = Повязка, которую носят члены экипажа, чтобы указать, в какой отдел они назначены. 
 
-ent-RMCMedEMTArmband-name = EMT armband
-ent-RMCMedEMTArmband-desc = An armband, worn by the crew to display which department they're assigned to. This one is white and green.
+ent-RMCMedEMTArmband-name = нарукавная повязка скорой помощи
+ent-RMCMedEMTArmband-desc = Повязка, которую носят члены экипажа, чтобы указать, в какой отдел они назначены. 
 
-ent-RMCMedArmband-name = medical armband
-ent-RMCMedArmband-desc = An armband, worn by the crew to display which department they're assigned to. This one is white.
+ent-RMCMedArmband-name = медицинская повязка
+ent-RMCMedArmband-desc = Повязка, которую носят члены экипажа, чтобы указать, в какой отдел они назначены. 
 
-ent-RMCHydroArmband-name = hydroponics armband
-ent-RMCHydroArmband-desc = An armband, worn by the crew to display which department they're assigned to. This one is green and blue.
+ent-RMCHydroArmband-name = гидропоника нарукавная повязка
+ent-RMCHydroArmband-desc = Повязка, которую носят члены экипажа, чтобы указать, в какой отдел они назначены. 
 
-ent-RMCScienceArmband-name = science armband
-ent-RMCScienceArmband-desc = An armband, worn by the crew to display which department they're assigned to. This one is purple.
+ent-RMCScienceArmband-name = наука нарукавная повязка
+ent-RMCScienceArmband-desc = Повязка, которую носят члены экипажа, чтобы указать, в какой отдел они назначены. 
 
-ent-RMCCargoArmband-name = cargo armband
-ent-RMCCargoArmband-desc = An armband, worn by the crew to display which department they're assigned to. This one is brown.
+ent-RMCCargoArmband-name = грузовая повязка
+ent-RMCCargoArmband-desc = Повязка, которую носят члены экипажа, чтобы указать, в какой отдел они назначены. 
 
-ent-RMCRedArmband-name = red armband
-ent-RMCRedArmband-desc = A fancy red armband!
+ent-RMCRedArmband-name = красная повязка
+ent-RMCRedArmband-desc = Шикарная красная повязка!
 
-ent-RMCHEFAArmband-name = HEFA Order milita armband
-ent-RMCHEFAArmband-desc = Sworn to the shrapnel and the shards therein. So sayeth her command when the first detonation occured.
+ent-RMCHEFAArmband-name = Военная повязка Ордена HEFA
+ent-RMCHEFAArmband-desc = Поклялся шрапнели и ее осколкам. 
 
-ent-RMCCLFArmband-name = CLF armband
-ent-RMCCLFArmband-desc = A crudely sewn armband. It's dyed in the colors of the Colonial Liberation Front.
+ent-RMCCLFArmband-name = CLF нарукавная повязка
+ent-RMCCLFArmband-desc = Грубо сшитая повязка. 
 
-ent-RMCNurseArmband-name = nurse armband
-ent-RMCNurseArmband-desc = An armband, worn by the rookie nurses to display they are still not doctors. This one is dark red.
+ent-RMCNurseArmband-name = медсестра нарукавная повязка
+ent-RMCNurseArmband-desc = Повязка, которую носят начинающие медсестры, чтобы показать, что они еще не врачи. 
 
-ent-RMCSecurityArmband-name = Officer armband
-ent-RMCSecurityArmband-desc = An armband worn by Colony law enforcement officers.
+ent-RMCSecurityArmband-name = Офицерская повязка
+ent-RMCSecurityArmband-desc = Повязка, которую носят сотрудники правоохранительных органов Колонии.
 
-ent-RMCMPArmband-name = MP armband
-ent-RMCMPArmband-desc = An armband worn by UNMC Military Police officers on military installations. It is usually also worn by those from the provost office.
+ent-RMCMPArmband-name = МП нарукавная повязка
+ent-RMCMPArmband-desc = Повязка, которую носят офицеры военной полиции UNMC на военных объектах. 
 
-ent-RMCSquadArmband-name = squad armband
-ent-RMCSquadArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCSquadArmband-name = отряд нарукавная повязка
+ent-RMCSquadArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCFoxtrotArmband-name = foxtrot armband
-ent-RMCFoxtrotArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCFoxtrotArmband-name = повязка для фокстрота
+ent-RMCFoxtrotArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCEchoArmband-name = echo armband
-ent-RMCEchoArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCEchoArmband-name = эхо повязка
+ent-RMCEchoArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCDeltaArmband-name = delta armband
-ent-RMCDeltaArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCDeltaArmband-name = дельта-повязка
+ent-RMCDeltaArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCCharlieArmband-name = charlie armband
-ent-RMCCharlieArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCCharlieArmband-name = повязка Чарли
+ent-RMCCharlieArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCBravoArmband-name = bravo armband
-ent-RMCBravoArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCBravoArmband-name = браво нарукавная повязка
+ent-RMCBravoArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCAlphaArmband-name = alpha armband
-ent-RMCAlphaArmband-desc = An armband in squad colors, worn for ease of identification.
+ent-RMCAlphaArmband-name = альфа-повязка
+ent-RMCAlphaArmband-desc = Повязка в цветах отряда, которую носят для облегчения идентификации.
 
-ent-RMCArmbandBase-name = armband
-ent-RMCArmbandBase-desc = An abstract armband.
+ent-RMCArmbandBase-name = повязка на руку
+ent-RMCArmbandBase-desc = Абстрактная повязка.
 

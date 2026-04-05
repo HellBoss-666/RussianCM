@@ -1,12 +1,12 @@
-ent-RMCFoodDonutFrosted-name = frosted donut
-ent-RMCFoodDonutFrosted-desc = A pink frosted donut. Even more rare on the frontier.
+ent-RMCFoodDonutFrosted-name = матовый пончик
+ent-RMCFoodDonutFrosted-desc = Розовый матовый пончик. 
 
-ent-RMCFoodDonut-name = donut
-ent-RMCFoodDonut-desc = A donut. Rare on the frontier, so take care of it.
+ent-RMCFoodDonut-name = пончик
+ent-RMCFoodDonut-desc = Пончик. 
 
-ent-RMCBoxDonut-name = Yum! donuts
-ent-RMCBoxDonut-desc = A box of mouth-watering "Yum!" brand donuts
+ent-RMCBoxDonut-name = Ням! 
+ent-RMCBoxDonut-desc = Коробочка аппетитного «Ням!» 
 
-ent-RMCBoxDonutEmpty-name = Yum! donuts
-ent-RMCBoxDonutEmpty-desc = A box of mouth-watering "Yum!" brand donuts
+ent-RMCBoxDonutEmpty-name = Ням! 
+ent-RMCBoxDonutEmpty-desc = Коробочка аппетитного «Ням!» 
 

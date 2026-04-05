@@ -1,12 +1,12 @@
-ent-RMCFuelCan-name = fuel can
-ent-RMCFuelCan-desc = A jerry can. In space! Or maybe a colony.
+ent-RMCFuelCan-name = топливо может
+ent-RMCFuelCan-desc = Канистра. 
 
-ent-RMCFuelCan2-name = fuel can
-ent-RMCFuelCan2-desc = A jerry can. In space! Or maybe a colony.
+ent-RMCFuelCan2-name = топливо может
+ent-RMCFuelCan2-desc = Канистра. 
 
-ent-RMCFuelCan3-name = fuel can
-ent-RMCFuelCan3-desc = A jerry can. In space! Or maybe a colony.
+ent-RMCFuelCan3-name = топливо может
+ent-RMCFuelCan3-desc = Канистра. 
 
-ent-RMCFuelCan4-name = fuel can
-ent-RMCFuelCan4-desc = A jerry can. In space! Or maybe a colony.
+ent-RMCFuelCan4-name = топливо может
+ent-RMCFuelCan4-desc = Канистра. 
 

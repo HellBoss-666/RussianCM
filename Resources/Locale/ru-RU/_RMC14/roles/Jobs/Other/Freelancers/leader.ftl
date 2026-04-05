@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidFreelancerLeaderFriendly-name = freelancer ghost role leader
+ent-RMCRandomHumanoidFreelancerLeaderFriendly-name = фрилансер, лидер роли призрака
 
-ent-RMCRandomHumanoidFreelancerLeaderHostile-name = freelancer ghost role leader
+ent-RMCRandomHumanoidFreelancerLeaderHostile-name = фрилансер, лидер роли призрака
 

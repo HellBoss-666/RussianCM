@@ -1,8 +1,8 @@
-ent-RMCFlagCarriableUNMC-name = UNMC flag
-ent-RMCFlagCarriableUNMC-desc = The flag of the UNMC.
+ent-RMCFlagCarriableUNMC-name = Флаг UNMC
+ent-RMCFlagCarriableUNMC-desc = Флаг UNMC.
 
-ent-RMCFlagCarriableUN-name = UN flag
-ent-RMCFlagCarriableUN-desc = The flag of the UN.
+ent-RMCFlagCarriableUN-name = Флаг ООН
+ent-RMCFlagCarriableUN-desc = Флаг ООН.
 
-ent-RMCFlagCarriableBase-name = flag
+ent-RMCFlagCarriableBase-name = флаг
 

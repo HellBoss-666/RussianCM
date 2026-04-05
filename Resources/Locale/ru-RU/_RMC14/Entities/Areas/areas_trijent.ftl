@@ -1,480 +1,480 @@
-ent-RMCAreaDesertDamLandingConsole2-name = LZ2 'Supply'
+ent-RMCAreaDesertDamLandingConsole2-name = LZ2 «Припасы»
 
-ent-RMCAreaDesertDamLandingConsole-name = LZ1 'Admin'
+ent-RMCAreaDesertDamLandingConsole-name = LZ1 «Администратор»
 
-ent-RMCAreaDesertDamExteriorRiverMouthEastern-name = Eastern River Mouth
+ent-RMCAreaDesertDamExteriorRiverMouthEastern-name = Восточное устье реки
 
-ent-RMCAreaDesertDamExteriorRiverMouthSouthern-name = Southern River Mouth
+ent-RMCAreaDesertDamExteriorRiverMouthSouthern-name = Южное устье реки
 
-ent-RMCAreaDesertDamExteriorRiverFiltrationB-name = Filtration Plant B
+ent-RMCAreaDesertDamExteriorRiverFiltrationB-name = Фильтрационная установка Б
 
-ent-RMCAreaDesertDamExteriorRiverFiltrationA-name = Filtration Plant A
+ent-RMCAreaDesertDamExteriorRiverFiltrationA-name = Фильтрационная установка А
 
-ent-RMCAreaDesertDamExteriorRiverRiversideNortheast-name = Northeastern Riverbed
+ent-RMCAreaDesertDamExteriorRiverRiversideNortheast-name = Северо-восточное русло реки
 
-ent-RMCAreaDesertDamExteriorRiverRiversideEast-name = Eastern Riverbed
+ent-RMCAreaDesertDamExteriorRiverRiversideEast-name = Восточное русло реки
 
-ent-RMCAreaDesertDamExteriorRiverRiversideSouth-name = Southern Riverbed
+ent-RMCAreaDesertDamExteriorRiverRiversideSouth-name = Южное русло реки
 
-ent-RMCAreaDesertDamExteriorRiverRiversideCentralSouth-name = Southern Central Riverbed
+ent-RMCAreaDesertDamExteriorRiverRiversideCentralSouth-name = Южное центральное русло реки
 
-ent-RMCAreaDesertDamExteriorRiverRiversideCentralNorth-name = Northern Central Riverbed
+ent-RMCAreaDesertDamExteriorRiverRiversideCentralNorth-name = Северное центральное русло реки
 
-ent-RMCAreaDesertDamExteriorRiverRiversideNorthwest-name = Northwestern Riverbed
+ent-RMCAreaDesertDamExteriorRiverRiversideNorthwest-name = Северо-западное русло реки
 
-ent-RMCAreaDesertDamExteriorRiver-name = River
+ent-RMCAreaDesertDamExteriorRiver-name = Река
 
-ent-RMCAreaDesertDamExteriorValleyValleyWilderness-name = Wilderness Valley
+ent-RMCAreaDesertDamExteriorValleyValleyWilderness-name = Долина дикой природы
 
-ent-RMCAreaDesertDamExteriorValleyBarValleyDam-name = Bar Valley
+ent-RMCAreaDesertDamExteriorValleyBarValleyDam-name = Бар-Вэлли
 
-ent-RMCAreaDesertDamExteriorValleySouthValleyDam-name = South Dam Valley
+ent-RMCAreaDesertDamExteriorValleySouthValleyDam-name = Южная долина плотины
 
-ent-RMCAreaDesertDamExteriorValleyNorthValleyDam-name = North Dam Valley
+ent-RMCAreaDesertDamExteriorValleyNorthValleyDam-name = Долина Северной Дамбы
 
-ent-RMCAreaDesertDamExteriorValleyValleyCrashsite-name = Crash Site Valley
+ent-RMCAreaDesertDamExteriorValleyValleyCrashsite-name = Долина места крушения
 
-ent-RMCAreaDesertDamExteriorValleyValleyHydro-name = Hydro Valley
+ent-RMCAreaDesertDamExteriorValleyValleyHydro-name = Гидро Долина
 
-ent-RMCAreaDesertDamExteriorValleyValleyMedical-name = Medical Valley
+ent-RMCAreaDesertDamExteriorValleyValleyMedical-name = Медицинская долина
 
-ent-RMCAreaDesertDamExteriorValleyValleyCivilian-name = Civilian Valley
+ent-RMCAreaDesertDamExteriorValleyValleyCivilian-name = Гражданская долина
 
-ent-RMCAreaDesertDamExteriorValleyValleyMining-name = Mining Valley
+ent-RMCAreaDesertDamExteriorValleyValleyMining-name = Горнодобывающая долина
 
-ent-RMCAreaDesertDamExteriorValleyValleyLabs-name = Lab Valley
+ent-RMCAreaDesertDamExteriorValleyValleyLabs-name = Лабораторная долина
 
-ent-RMCAreaDesertDamExteriorTelecommLz1Xenoflora-name = Xenoflora Communications Relay
+ent-RMCAreaDesertDamExteriorTelecommLz1Xenoflora-name = Реле связи Ксенофлора
 
-ent-RMCAreaDesertDamExteriorTelecommLz1Valley-name = LZ1 Valley Communications Relay
+ent-RMCAreaDesertDamExteriorTelecommLz1Valley-name = Реле связи LZ1 Valley
 
-ent-RMCAreaDesertDamExteriorTelecommLz1South-name = South LZ1 Communications Relay
+ent-RMCAreaDesertDamExteriorTelecommLz1South-name = Южное реле связи LZ1
 
-ent-RMCAreaDesertDamExteriorTelecommLz2Storage-name = East LZ2 Communications Relay
+ent-RMCAreaDesertDamExteriorTelecommLz2Storage-name = Реле связи East LZ2
 
-ent-RMCAreaDesertDamExteriorTelecommLz2Tcomms-name = Telecomms Communications Relay
+ent-RMCAreaDesertDamExteriorTelecommLz2Tcomms-name = Реле телекоммуникационной связи
 
-ent-RMCAreaDesertDamExteriorTelecommLz2Containers-name = Containers Communications Relay
+ent-RMCAreaDesertDamExteriorTelecommLz2Containers-name = Реле связи контейнеров
 
-ent-RMCAreaDesertDamExteriorTelecomm-name = Trijent Dam Communications Relay
+ent-RMCAreaDesertDamExteriorTelecomm-name = Реле связи плотины Триджент
 
-ent-RMCAreaDesertDamExteriorValleyValleyBridge-name = Valley Bridge
+ent-RMCAreaDesertDamExteriorValleyValleyBridge-name = Долинный мост
 
-ent-RMCAreaDesertDamExteriorValleyValleySecurity-name = Security Valley
+ent-RMCAreaDesertDamExteriorValleyValleySecurity-name = Долина безопасности
 
-ent-RMCAreaDesertDamExteriorValleyValleyTelecoms-name = Telecomms Valley
+ent-RMCAreaDesertDamExteriorValleyValleyTelecoms-name = Телекоммуникационная долина
 
-ent-RMCAreaDesertDamExteriorValleyValleyCargo-name = Shipping Valley
+ent-RMCAreaDesertDamExteriorValleyValleyCargo-name = Шиппинг-Вэлли
 
-ent-RMCAreaDesertDamExteriorValleyValleyNorthwest-name = Northwest Valley
+ent-RMCAreaDesertDamExteriorValleyValleyNorthwest-name = Северо-Западная долина
 
-ent-RMCAreaDesertDamExteriorValley-name = Valley
+ent-RMCAreaDesertDamExteriorValley-name = Долина
 
-ent-RMCAreaDesertDamExteriorLandingPadTwoExternal-name = Aerodrome Landing Valley
+ent-RMCAreaDesertDamExteriorLandingPadTwoExternal-name = Долина приземления на аэродроме
 
-ent-RMCAreaDesertDamExteriorLandingPadTwo-name = Aerodrome Landing Pad
+ent-RMCAreaDesertDamExteriorLandingPadTwo-name = Посадочная площадка аэродрома
 
-ent-RMCAreaDesertDamExteriorLandingPadOneExternal-name = Airstrip Landing Valley
+ent-RMCAreaDesertDamExteriorLandingPadOneExternal-name = Взлетно-посадочная полоса посадочной долины
 
-ent-RMCAreaDesertDamExteriorLandingPadOne-name = Airstrip Landing Pad
+ent-RMCAreaDesertDamExteriorLandingPadOne-name = Взлетно-посадочная площадка
 
-ent-RMCAreaDesertDamExteriorRock-name = Rock
+ent-RMCAreaDesertDamExteriorRock-name = Камень
 
-ent-RMCAreaDesertDamBuildingLabNortheastGarage-name = East Lab Garage
+ent-RMCAreaDesertDamBuildingLabNortheastGarage-name = Восточный лабораторный гараж
 
-ent-RMCAreaDesertDamBuildingLabNortheastCheckpoint-name = East Lab Checkpoint
+ent-RMCAreaDesertDamBuildingLabNortheastCheckpoint-name = Контрольно-пропускной пункт Восточной лаборатории
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabXenoflora-name = West Lab Xenoflora
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabXenoflora-name = Вест Лаборатория Ксенофлора
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabMeetingRoom-name = West Lab Meeting Room
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabMeetingRoom-name = Конференц-зал Западной лаборатории
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabDormitory-name = West Lab Dormitory
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabDormitory-name = Западное лабораторное общежитие
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabKitchen-name = West Lab Kitchen
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabKitchen-name = Западная лабораторная кухня
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabCafeteria-name = West Lab Cafeteria
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabCafeteria-name = Западная лаборатория кафетерия
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabChemistry-name = West Lab Chemistry
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabChemistry-name = Западная лаборатория химии
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabMaintenance-name = West Lab Maintenance
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabMaintenance-name = Техническое обслуживание Западной лаборатории
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabWestHallway-name = West Lab Hallway
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabWestHallway-name = Западный коридор лаборатории
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabEastHallway-name = West Lab Hallway
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabEastHallway-name = Западный коридор лаборатории
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabRoboticsMechbay-name = West Lab Mechbay
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabRoboticsMechbay-name = Вест Лаборатория Мехбэй
 
-ent-RMCAreaDesertDamBuildingLabNorthwestWestLabRobotics-name = West Lab Robotics
+ent-RMCAreaDesertDamBuildingLabNorthwestWestLabRobotics-name = Вест Лаборатория Робототехники
 
-ent-RMCAreaDesertDamBuildingMiningWorkshopFoyer-name = Mining Workshop Foyer
+ent-RMCAreaDesertDamBuildingMiningWorkshopFoyer-name = Фойе горного цеха
 
-ent-RMCAreaDesertDamBuildingMiningWorkshop-name = Mining Workshop
+ent-RMCAreaDesertDamBuildingMiningWorkshop-name = Горный цех
 
-ent-RMCAreaDesertDamBuildingMining-name = DO NOT USE
+ent-RMCAreaDesertDamBuildingMining-name = НЕ ИСПОЛЬЗУЙТЕ
 
-ent-RMCAreaDesertDamBuildingChurch-name = Church
+ent-RMCAreaDesertDamBuildingChurch-name = Церковь
 
-ent-RMCAreaDesertDamBuildingSecurityStaffroom-name = Security Staffroom
+ent-RMCAreaDesertDamBuildingSecurityStaffroom-name = Кабинет службы безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityExecutionChamber-name = Security Execution Chamber
+ent-RMCAreaDesertDamBuildingSecurityExecutionChamber-name = Охранная исполнительная палата
 
-ent-RMCAreaDesertDamBuildingSecurityDeathrow-name = Security Death Row
+ent-RMCAreaDesertDamBuildingSecurityDeathrow-name = Камера смертников безопасности
 
-ent-RMCAreaDesertDamBuildingSecuritySouthernHallway-name = Security South Hallway
+ent-RMCAreaDesertDamBuildingSecuritySouthernHallway-name = Охрана Южного коридора
 
-ent-RMCAreaDesertDamBuildingSecurityHolding-name = Security Holding Room
+ent-RMCAreaDesertDamBuildingSecurityHolding-name = Комната ожидания безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityEvidence-name = Security Evidence
+ent-RMCAreaDesertDamBuildingSecurityEvidence-name = Доказательства безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityCourtroom-name = Security Courtroom
+ent-RMCAreaDesertDamBuildingSecurityCourtroom-name = Зал безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityNorthernHallway-name = Security North Hallway
+ent-RMCAreaDesertDamBuildingSecurityNorthernHallway-name = Охрана, северный коридор
 
-ent-RMCAreaDesertDamBuildingSecurityLobby-name = Security Lobby
+ent-RMCAreaDesertDamBuildingSecurityLobby-name = Вестибюль безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityOffice-name = Security Office
+ent-RMCAreaDesertDamBuildingSecurityOffice-name = Офис безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityDetective-name = Security Detective's Office
+ent-RMCAreaDesertDamBuildingSecurityDetective-name = Офис детектива безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityObservation-name = Security Observation
+ent-RMCAreaDesertDamBuildingSecurityObservation-name = Наблюдение за безопасностью
 
-ent-RMCAreaDesertDamBuildingSecurityBackroom-name = Security Interrogation
+ent-RMCAreaDesertDamBuildingSecurityBackroom-name = Допрос безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityInterrogation-name = Security Interrogation
+ent-RMCAreaDesertDamBuildingSecurityInterrogation-name = Допрос безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityWarden-name = Security Warden's Office
+ent-RMCAreaDesertDamBuildingSecurityWarden-name = Офис начальника службы безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityArmory-name = Security Armory
+ent-RMCAreaDesertDamBuildingSecurityArmory-name = Оружейная палата безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityMarshalsOffice-name = Security Marshal's Office
+ent-RMCAreaDesertDamBuildingSecurityMarshalsOffice-name = Офис маршала безопасности
 
-ent-RMCAreaDesertDamBuildingSecurityPrison-name = Security Prison
+ent-RMCAreaDesertDamBuildingSecurityPrison-name = Тюрьма безопасности
 
-ent-RMCAreaDesertDamBuildingLibraryStudyroom-name = Library Study Room
+ent-RMCAreaDesertDamBuildingLibraryStudyroom-name = Библиотечный кабинет
 
-ent-RMCAreaDesertDamBuildingLibraryRestroom-name = Library Restroom
+ent-RMCAreaDesertDamBuildingLibraryRestroom-name = Библиотечный туалет
 
-ent-RMCAreaDesertDamBuildingLibraryLibrary-name = Library
+ent-RMCAreaDesertDamBuildingLibraryLibrary-name = Библиотека
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoFloodgateControl-name = Water Treatment Two Floodgate Control
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoFloodgateControl-name = Водоочистка Два управления шлюзами
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoPurification-name = Water Treatment Two Purification
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoPurification-name = Очистка воды Вторая очистка
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoControlRoom-name = Water Treatment Two Control Room
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoControlRoom-name = Два поста управления очисткой воды
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoHallway-name = Water Treatment Two Hallway
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoHallway-name = Водоочистка, два коридора
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoEquipment-name = Water Treatment Two Equipment
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoEquipment-name = Два оборудования для очистки воды
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoSedimentation-name = Water Treatment Two Sedimentation
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoSedimentation-name = Очистка воды Два осаждения
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoGarage-name = Water Treatment Two Garage
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoGarage-name = Водоочистка, два гаража
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoBreakroom-name = Water Treatment Two Breakroom
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoBreakroom-name = Водоочистка, две комнаты отдыха
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwoLobby-name = Water Treatment Two Lobby
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwoLobby-name = Водоочистные сооружения, два вестибюля
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentTwo-name = Water Treatment Two
+ent-RMCAreaDesertDamBuildingWaterTreatmentTwo-name = Водоподготовка вторая
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneFloodgateControlCentral2-name = Central Floodgate Control Storage
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneFloodgateControlCentral2-name = Центральное хранилище управления шлюзами
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneFloodgateControlCentral-name = Central Floodgate Control
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneFloodgateControlCentral-name = Центральное управление шлюзами
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneFloodgateControl-name = Water Treatment One Floodgate Control
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneFloodgateControl-name = Очистка воды Один контроль шлюза
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOnePurification-name = Water Treatment One Purification
+ent-RMCAreaDesertDamBuildingWaterTreatmentOnePurification-name = Очистка воды One Purification
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneControlRoom-name = Water Treatment One Control Room
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneControlRoom-name = Одна диспетчерская водоподготовки
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneHallway-name = Water Treatment One Hallway
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneHallway-name = Водоочистка в одном коридоре
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneEquipment-name = Water Treatment One Equipment Room
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneEquipment-name = Одна аппаратная для очистки воды
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneSedimentation-name = Water Treatment One Sedimentation
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneSedimentation-name = Водоподготовка, одно осаждение
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneGarage-name = Water Treatment One Garage
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneGarage-name = Водоочистка Один Гараж
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneBreakroom-name = Water Treatment One Breakroom
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneBreakroom-name = Водоочистка, одна комната отдыха
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOneLobby-name = Water Treatment One Lobby
+ent-RMCAreaDesertDamBuildingWaterTreatmentOneLobby-name = Водоочистка One, вестибюль
 
-ent-RMCAreaDesertDamBuildingHydroponicsHydroponicsBreakroom-name = Hydroponics Breakroom
+ent-RMCAreaDesertDamBuildingHydroponicsHydroponicsBreakroom-name = Гидропоника
 
-ent-RMCAreaDesertDamBuildingHydroponicsHydroponicsLoading-name = Hydroponics Loading Room
+ent-RMCAreaDesertDamBuildingHydroponicsHydroponicsLoading-name = Загрузочная комната для гидропоники
 
-ent-RMCAreaDesertDamBuildingHydroponicsHydroponicsStorage-name = Hydroponics Storage
+ent-RMCAreaDesertDamBuildingHydroponicsHydroponicsStorage-name = Гидропоника Хранение
 
-ent-RMCAreaDesertDamBuildingHydroponicsHydroponics-name = Hydroponics
+ent-RMCAreaDesertDamBuildingHydroponicsHydroponics-name = Гидропоника
 
-ent-RMCAreaDesertDamBuildingWarehouseBreakroom-name = Warehouse Breakroom
+ent-RMCAreaDesertDamBuildingWarehouseBreakroom-name = Склад Комната отдыха
 
-ent-RMCAreaDesertDamBuildingWarehouseLoading-name = Warehouse Loading Room
+ent-RMCAreaDesertDamBuildingWarehouseLoading-name = Склад, погрузочная комната
 
-ent-RMCAreaDesertDamBuildingWarehouseWarehouse-name = Warehouse
+ent-RMCAreaDesertDamBuildingWarehouseWarehouse-name = Склад
 
-ent-RMCAreaDesertDamBuildingMedical-name = Medical
+ent-RMCAreaDesertDamBuildingMedical-name = Медицинский
 
-ent-RMCAreaDesertDamBuildingMedicalVirologyIsolation-name = Medical Virology Isolation
+ent-RMCAreaDesertDamBuildingMedicalVirologyIsolation-name = Медицинская вирусологическая изоляция
 
-ent-RMCAreaDesertDamBuildingMedicalVirologyWing-name = Medical Virology Wing
+ent-RMCAreaDesertDamBuildingMedicalVirologyWing-name = Отделение медицинской вирусологии
 
-ent-RMCAreaDesertDamBuildingMedicalPatientWing-name = Medical Patient Wing
+ent-RMCAreaDesertDamBuildingMedicalPatientWing-name = Медицинское отделение для пациентов
 
-ent-RMCAreaDesertDamBuildingMedicalOffice2-name = Medical Office Two
+ent-RMCAreaDesertDamBuildingMedicalOffice2-name = Медицинский кабинет №2
 
-ent-RMCAreaDesertDamBuildingMedicalOffice1-name = Medical Office One
+ent-RMCAreaDesertDamBuildingMedicalOffice1-name = Медицинский кабинет №1
 
-ent-RMCAreaDesertDamBuildingMedicalCMO-name = Medical CMO's Office
+ent-RMCAreaDesertDamBuildingMedicalCMO-name = Офис медицинского директора по маркетингу
 
-ent-RMCAreaDesertDamBuildingMedicalBreakRoom-name = Medical Breakroom
+ent-RMCAreaDesertDamBuildingMedicalBreakRoom-name = Медицинская комната отдыха
 
-ent-RMCAreaDesertDamBuildingMedicalMorgue-name = Medical Morgue
+ent-RMCAreaDesertDamBuildingMedicalMorgue-name = Медицинский морг
 
-ent-RMCAreaDesertDamBuildingMedicalSurguryObservation-name = Medical Surgery Observation
+ent-RMCAreaDesertDamBuildingMedicalSurguryObservation-name = Медицинское хирургическое наблюдение
 
-ent-RMCAreaDesertDamBuildingMedicalSurgeryRoomTwo-name = Medical Surgery Room Two
+ent-RMCAreaDesertDamBuildingMedicalSurgeryRoomTwo-name = Медицинский хирургический кабинет №2
 
-ent-RMCAreaDesertDamBuildingMedicalSurgeryRoomOne-name = Medical Surgery Room One
+ent-RMCAreaDesertDamBuildingMedicalSurgeryRoomOne-name = Медицинский хирургический кабинет номер один
 
-ent-RMCAreaDesertDamBuildingMedicalPrimaryStorage-name = Medical Primary Storage
+ent-RMCAreaDesertDamBuildingMedicalPrimaryStorage-name = Медицинское первичное хранение
 
-ent-RMCAreaDesertDamBuildingMedicalEastWingHallway-name = Medical East Wing
+ent-RMCAreaDesertDamBuildingMedicalEastWingHallway-name = Медицинское восточное крыло
 
-ent-RMCAreaDesertDamBuildingMedicalNorthWingHallway-name = Medical North Wing
+ent-RMCAreaDesertDamBuildingMedicalNorthWingHallway-name = Медицинское северное крыло
 
-ent-RMCAreaDesertDamBuildingMedicalWestWingHallway-name = Medical West Wing
+ent-RMCAreaDesertDamBuildingMedicalWestWingHallway-name = Медицинское западное крыло
 
-ent-RMCAreaDesertDamBuildingMedicalChemistry-name = Medical Pharmacy
+ent-RMCAreaDesertDamBuildingMedicalChemistry-name = Медицинская Аптека
 
-ent-RMCAreaDesertDamBuildingMedicalLobby-name = Medical Lobby
+ent-RMCAreaDesertDamBuildingMedicalLobby-name = Медицинское лобби
 
-ent-RMCAreaDesertDamBuildingMedicalTreatmentRoom-name = Medical Treatment Room
+ent-RMCAreaDesertDamBuildingMedicalTreatmentRoom-name = Медицинский процедурный кабинет
 
-ent-RMCAreaDesertDamBuildingMedicalEmergencyRoom-name = Medical Emergency Room
+ent-RMCAreaDesertDamBuildingMedicalEmergencyRoom-name = Медицинский пункт неотложной помощи
 
-ent-RMCAreaDesertDamBuildingMedicalGarage-name = Medical Garage
+ent-RMCAreaDesertDamBuildingMedicalGarage-name = Медицинский Гараж
 
-ent-RMCAreaDesertDamBuildingDormsPool-name = Dormitory Pool Room
+ent-RMCAreaDesertDamBuildingDormsPool-name = Общий номер с бассейном
 
-ent-RMCAreaDesertDamBuildingDormsRestroom-name = Dormitory Showers
+ent-RMCAreaDesertDamBuildingDormsRestroom-name = Душевые в общежитии
 
-ent-RMCAreaDesertDamBuildingDormsHallwayEastwing-name = Dormitory East Wing
+ent-RMCAreaDesertDamBuildingDormsHallwayEastwing-name = Восточное крыло общежития
 
-ent-RMCAreaDesertDamBuildingDormsHallwayWestwing-name = Dormitory West Wing
+ent-RMCAreaDesertDamBuildingDormsHallwayWestwing-name = Западное крыло общежития
 
-ent-RMCAreaDesertDamBuildingDormsHallwayNorthwing-name = Dormitory North Wing
+ent-RMCAreaDesertDamBuildingDormsHallwayNorthwing-name = Северное крыло общежития
 
-ent-RMCAreaDesertDamBuildingDorms-name = DO NOT USE
+ent-RMCAreaDesertDamBuildingDorms-name = НЕ ИСПОЛЬЗУЙТЕ
 
-ent-RMCAreaDesertDamBuildingCafeteriaColdRoom-name = Cafeteria Coldroom
+ent-RMCAreaDesertDamBuildingCafeteriaColdRoom-name = Кафетерий Холодная комната
 
-ent-RMCAreaDesertDamBuildingCafeteriaLoading-name = Cafeteria Loading Room
+ent-RMCAreaDesertDamBuildingCafeteriaLoading-name = Кафетерий, загрузочная комната
 
-ent-RMCAreaDesertDamBuildingCafeteriaRestroom-name = Cafeteria Restroom
+ent-RMCAreaDesertDamBuildingCafeteriaRestroom-name = Кафетерий Туалет
 
-ent-RMCAreaDesertDamBuildingCafeteriaBackroom-name = Cafeteria Backroom
+ent-RMCAreaDesertDamBuildingCafeteriaBackroom-name = Кафетерий Подсобка
 
-ent-RMCAreaDesertDamBuildingCafeteriaCafeteria-name = Cafeteria
+ent-RMCAreaDesertDamBuildingCafeteriaCafeteria-name = Кафетерий
 
-ent-RMCAreaDesertDamBuildingCafeteria-name = DO NOT USE
+ent-RMCAreaDesertDamBuildingCafeteria-name = НЕ ИСПОЛЬЗУЙТЕ
 
-ent-RMCAreaDesertDamBuildingBarBarRestroom-name = Bar Restroom
+ent-RMCAreaDesertDamBuildingBarBarRestroom-name = Бар Туалет
 
-ent-RMCAreaDesertDamBuildingBarBackroom-name = Bar Backroom
+ent-RMCAreaDesertDamBuildingBarBackroom-name = Барная подсобка
 
-ent-RMCAreaDesertDamBuildingBarBar-name = Bar
+ent-RMCAreaDesertDamBuildingBarBar-name = Бар
 
-ent-RMCAreaDesertDamBuildingAdministrationArchives-name = Administration Archives
+ent-RMCAreaDesertDamBuildingAdministrationArchives-name = Архив администрации
 
-ent-RMCAreaDesertDamBuildingAdministrationMeetingrooom-name = Administration Meeting Room
+ent-RMCAreaDesertDamBuildingAdministrationMeetingrooom-name = Зал заседаний администрации
 
-ent-RMCAreaDesertDamBuildingAdministrationOverseerOffice-name = Administration Overseer's Office
+ent-RMCAreaDesertDamBuildingAdministrationOverseerOffice-name = Кабинет администратора
 
-ent-RMCAreaDesertDamBuildingAdministrationOffice-name = Administration Office
+ent-RMCAreaDesertDamBuildingAdministrationOffice-name = Административный офис
 
-ent-RMCAreaDesertDamBuildingAdministrationHallway-name = Administration Hallway
+ent-RMCAreaDesertDamBuildingAdministrationHallway-name = Административный коридор
 
-ent-RMCAreaDesertDamBuildingAdministrationLobby-name = Administration Lobby
+ent-RMCAreaDesertDamBuildingAdministrationLobby-name = Административное лобби
 
-ent-RMCAreaDesertDamBuildingAdministrationControlRoom-name = Administration Landing Control Room
+ent-RMCAreaDesertDamBuildingAdministrationControlRoom-name = Административный пункт управления посадкой
 
-ent-RMCAreaDesertDamBuildingSubstationWest-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationWest-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstationSouthwest-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationSouthwest-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstationCentral-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationCentral-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstationSoutheast-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationSoutheast-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstationEast-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationEast-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstationNortheast-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationNortheast-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstationNorthwest-name = Command Substation
+ent-RMCAreaDesertDamBuildingSubstationNorthwest-name = Командная подстанция
 
-ent-RMCAreaDesertDamBuildingSubstation-name = Substation
+ent-RMCAreaDesertDamBuildingSubstation-name = Подстанция
 
-ent-RMCAreaDesertDamInteriorCavesTemple-name = Sand Temple
+ent-RMCAreaDesertDamInteriorCavesTemple-name = Песчаный храм
 
-ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrancesWestTunnelEntrance-name = Western Central Tunnel Entrance
+ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrancesWestTunnelEntrance-name = Вход в западный центральный туннель
 
-ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrancesSouthTunnelEntrance-name = Southern Central Tunnel Entrance
+ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrancesSouthTunnelEntrance-name = Вход в Южный центральный туннель
 
-ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrancesEastTunnelEntrance-name = Eastern Central Tunnel Entrance
+ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrancesEastTunnelEntrance-name = Вход в восточный центральный туннель
 
-ent-RMCAreaDesertDamInteriorCavesCentralCaves-name = Central Caves
+ent-RMCAreaDesertDamInteriorCavesCentralCaves-name = Центральные пещеры
 
-ent-RMCAreaDesertDamInteriorCavesEastCaves-name = Eastern Caves
+ent-RMCAreaDesertDamInteriorCavesEastCaves-name = Восточные пещеры
 
-ent-RMCAreaDesertDamInteriorCavesNorthernCaves-name = Northern Caves
+ent-RMCAreaDesertDamInteriorCavesNorthernCaves-name = Северные пещеры
 
-ent-RMCAreaDesertDamInteriorCaves-name = Caves
+ent-RMCAreaDesertDamInteriorCaves-name = Пещеры
 
-ent-RMCAreaDesertDamInteriorDamInteriorGarage-name = Garage
+ent-RMCAreaDesertDamInteriorDamInteriorGarage-name = Гараж
 
-ent-RMCAreaDesertDamInteriorDamInteriorSouthTunnelEntrance-name = Engineering South Tunnel Entrance
+ent-RMCAreaDesertDamInteriorDamInteriorSouthTunnelEntrance-name = Вход в инженерный южный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorEastTunnelEntrance-name = Engineering East Tunnel Entrance
+ent-RMCAreaDesertDamInteriorDamInteriorEastTunnelEntrance-name = Вход в инженерный восточный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorNorthTunnelEntrance-name = Engineering North Tunnel Entrance
+ent-RMCAreaDesertDamInteriorDamInteriorNorthTunnelEntrance-name = Вход в инженерный северный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorOffice-name = Engineering Office
+ent-RMCAreaDesertDamInteriorDamInteriorOffice-name = Инженерное бюро
 
-ent-RMCAreaDesertDamInteriorDamInteriorWesternDamCave-name = Engineering West Entrance
+ent-RMCAreaDesertDamInteriorDamInteriorWesternDamCave-name = Инженерный западный вход
 
-ent-RMCAreaDesertDamInteriorDamInteriorDisposals-name = Engineering Disposals
+ent-RMCAreaDesertDamInteriorDamInteriorDisposals-name = Инженерные утилизации
 
-ent-RMCAreaDesertDamInteriorDamInteriorBreakRoom-name = Engineering Breakroom
+ent-RMCAreaDesertDamInteriorDamInteriorBreakRoom-name = Инженерная комната отдыха
 
-ent-RMCAreaDesertDamInteriorDamInteriorTechStorage-name = Engineering Secure Tech Storage
+ent-RMCAreaDesertDamInteriorDamInteriorTechStorage-name = Инженерное безопасное хранение технологий
 
-ent-RMCAreaDesertDamInteriorDamInteriorPrimaryToolStorage-name = Engineering Primary Tool Storage
+ent-RMCAreaDesertDamInteriorDamInteriorPrimaryToolStorage-name = Хранение основных инженерных инструментов
 
-ent-RMCAreaDesertDamInteriorDamInteriorAuxilaryToolStorage-name = Engineering Auxiliary Tool Storage
+ent-RMCAreaDesertDamInteriorDamInteriorAuxilaryToolStorage-name = Хранение инженерных вспомогательных инструментов
 
-ent-RMCAreaDesertDamInteriorDamInteriorHangarStorage-name = Engineering Hangar Storage
+ent-RMCAreaDesertDamInteriorDamInteriorHangarStorage-name = Инженерный ангар-склад
 
-ent-RMCAreaDesertDamInteriorDamInteriorHanger-name = Engineering Hangar
+ent-RMCAreaDesertDamInteriorDamInteriorHanger-name = Инженерный ангар
 
-ent-RMCAreaDesertDamInteriorDamInteriorWorkshop-name = Engineering Workshop
+ent-RMCAreaDesertDamInteriorDamInteriorWorkshop-name = Инженерная мастерская
 
-ent-RMCAreaDesertDamInteriorDamInteriorCEOffice-name = Engineering Chief Engineer's Office
+ent-RMCAreaDesertDamInteriorDamInteriorCEOffice-name = Инженерное бюро главного инженера
 
-ent-RMCAreaDesertDamInteriorDamInteriorNortheasternTunnel-name = Engineering Northeastern Tunnel
+ent-RMCAreaDesertDamInteriorDamInteriorNortheasternTunnel-name = Инженерный Северо-Восточный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorSouthTunnel-name = Engineering Southern Tunnel
+ent-RMCAreaDesertDamInteriorDamInteriorSouthTunnel-name = Инженерный Южный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorCentralTunnel-name = Engineering Central Tunnel
+ent-RMCAreaDesertDamInteriorDamInteriorCentralTunnel-name = Инженерный центральный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorWestTunnel-name = Engineering Western Tunnel
+ent-RMCAreaDesertDamInteriorDamInteriorWestTunnel-name = Инженерный западный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorNorthTunnel-name = Engineering Northern Tunnel
+ent-RMCAreaDesertDamInteriorDamInteriorNorthTunnel-name = Инженерный Северный туннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorNorthwesternTunnel-name = Engineering Northwestern Tunnel
+ent-RMCAreaDesertDamInteriorDamInteriorNorthwesternTunnel-name = Инженерный Северо-Западный тоннель
 
-ent-RMCAreaDesertDamInteriorDamInteriorAtmosStorage-name = Engineering Atmospheric Storage
+ent-RMCAreaDesertDamInteriorDamInteriorAtmosStorage-name = Инженерное атмосферное хранение
 
-ent-RMCAreaDesertDamInteriorDamInteriorLobby-name = Engineering Lobby
+ent-RMCAreaDesertDamInteriorDamInteriorLobby-name = Инженерное лобби
 
-ent-RMCAreaDesertDamInteriorDamInteriorEngineWestWing-name = Engineering West Engine Wing
+ent-RMCAreaDesertDamInteriorDamInteriorEngineWestWing-name = Инженерное западное моторное крыло
 
-ent-RMCAreaDesertDamInteriorDamInteriorEngineEastWing-name = Engineering East Engine Wing
+ent-RMCAreaDesertDamInteriorDamInteriorEngineEastWing-name = Инженерное восточное моторное крыло
 
-ent-RMCAreaDesertDamInteriorDamInteriorSmesBackup-name = Engineering Secondary Backup Substation
+ent-RMCAreaDesertDamInteriorDamInteriorSmesBackup-name = Инженерная вторичная резервная подстанция
 
-ent-RMCAreaDesertDamInteriorDamInteriorSmesMain-name = Engineering Main Substation
+ent-RMCAreaDesertDamInteriorDamInteriorSmesMain-name = Инженерная главная подстанция
 
-ent-RMCAreaDesertDamInteriorDamInteriorControlRoom-name = Engineering Control Room
+ent-RMCAreaDesertDamInteriorDamInteriorControlRoom-name = Инженерная диспетчерская
 
-ent-RMCAreaDesertDamInteriorDamInteriorEngineRoom-name = Engineering Generator Room
+ent-RMCAreaDesertDamInteriorDamInteriorEngineRoom-name = Инженерный генераторный зал
 
-ent-RMCAreaDesertDamInteriorDamInterior-name = Engineering
+ent-RMCAreaDesertDamInteriorDamInterior-name = Инженерное дело
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabXenobiology-name = East Lab Xenobiology
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabXenobiology-name = Восточная лаборатория ксенобиологии
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabSecurityArmory-name = East Lab Armory
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabSecurityArmory-name = Восточная оружейная лаборатория
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabSecurityOffice-name = East Lab Security Office
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabSecurityOffice-name = Офис безопасности Восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabSecurityCheckpoint-name = East Lab Security Checkpoint
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabSecurityCheckpoint-name = Контрольно-пропускной пункт Восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabEastEntrance-name = East Lab Entrance
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabEastEntrance-name = Восточный вход в лабораторию
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabWestEntrance-name = East Lab West Entrance
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabWestEntrance-name = Восточная лаборатория, западный вход
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabExcavation-name = East Lab Excavation Prep
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabExcavation-name = Восточная лаборатория подготовки к раскопкам
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabSurgery-name = East Lab Surgery
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabSurgery-name = Восточная лабораторная хирургия
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabBiology-name = East Lab Biology
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabBiology-name = Восточная лаборатория биологии
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabRND-name = East Lab Research and Development
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabRND-name = Восточная лаборатория исследований и разработок
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabContainment-name = East Lab Containment
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabContainment-name = Восточная лаборатория содержания
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabMaintenence-name = East Lab Maintenence
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabMaintenence-name = Обслуживание восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabRDOffice-name = East Lab Research Director's Office
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabRDOffice-name = Офис директора по исследованиям Восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabStorage-name = East Lab Storage
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabStorage-name = Восточное лабораторное хранилище
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabWorkshop-name = East Lab Workshop
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabWorkshop-name = Восточная лабораторная мастерская
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabEastHallway-name = East Lab East Hallway
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabEastHallway-name = Восточный коридор восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabCentralHallway-name = East Lab Central Hallway
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabCentralHallway-name = Центральный коридор Восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabWestHallway-name = East Lab Western Hallway
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabWestHallway-name = Западный коридор восточной лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheastEastLabLobby-name = East Lab Lobby
+ent-RMCAreaDesertDamInteriorLabNortheastEastLabLobby-name = Восточное лобби лаборатории
 
-ent-RMCAreaDesertDamInteriorLabNortheast-name = Northeastern Lab
+ent-RMCAreaDesertDamInteriorLabNortheast-name = Северо-восточная лаборатория
 
-ent-RMCAreaDesertDam-name = Desert Dam
+ent-RMCAreaDesertDam-name = Пустынная плотина
 
-ent-RMCAreaDesertDamInterior-name = Desert Dam
+ent-RMCAreaDesertDamInterior-name = Пустынная плотина
 
-ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrances-name = Central Caves
+ent-RMCAreaDesertDamInteriorCavesCentralCavesEntrances-name = Центральные пещеры
 
-ent-RMCAreaDesertDamBuilding-name = Desert Dam
+ent-RMCAreaDesertDamBuilding-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingAdministration-name = Desert Dam
+ent-RMCAreaDesertDamBuildingAdministration-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingBar-name = Desert Dam
+ent-RMCAreaDesertDamBuildingBar-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingWarehouse-name = Desert Dam
+ent-RMCAreaDesertDamBuildingWarehouse-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingHydroponics-name = Desert Dam
+ent-RMCAreaDesertDamBuildingHydroponics-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingWaterTreatmentOne-name = Desert Dam
+ent-RMCAreaDesertDamBuildingWaterTreatmentOne-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingLibrary-name = Desert Dam
+ent-RMCAreaDesertDamBuildingLibrary-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingSecurity-name = Desert Dam
+ent-RMCAreaDesertDamBuildingSecurity-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingLabNorthwest-name = Desert Dam
+ent-RMCAreaDesertDamBuildingLabNorthwest-name = Пустынная плотина
 
-ent-RMCAreaDesertDamBuildingLabNortheast-name = Desert Dam
+ent-RMCAreaDesertDamBuildingLabNortheast-name = Пустынная плотина
 
-ent-RMCAreaDesertDamExterior-name = Desert Dam
+ent-RMCAreaDesertDamExterior-name = Пустынная плотина
 
-ent-RMCAreaDesertDamExteriorRiverMouth-name = Desert Dam
+ent-RMCAreaDesertDamExteriorRiverMouth-name = Пустынная плотина
 
-ent-RMCAreaDesertDamLanding-name = Desert Dam
+ent-RMCAreaDesertDamLanding-name = Пустынная плотина
 
-ent-RMCAreaShuttleTriTrans1Alpha-name = area
+ent-RMCAreaShuttleTriTrans1Alpha-name = область
 
-ent-RMCAreaShuttleTriTrans1-name = area
+ent-RMCAreaShuttleTriTrans1-name = область
 
-ent-RMCAreaShuttleTriTrans1Away-name = area
+ent-RMCAreaShuttleTriTrans1Away-name = область
 
-ent-RMCAreaShuttleTriTrans1Omega-name = area
+ent-RMCAreaShuttleTriTrans1Omega-name = область
 
-ent-RMCAreaShuttleTriTrans2-name = area
+ent-RMCAreaShuttleTriTrans2-name = область
 
-ent-RMCAreaShuttleTriTrans2Alpha-name = area
+ent-RMCAreaShuttleTriTrans2Alpha-name = область
 
-ent-RMCAreaShuttleTriTrans2Away-name = area
+ent-RMCAreaShuttleTriTrans2Away-name = область
 
-ent-RMCAreaShuttleTriTrans2Omega-name = area
+ent-RMCAreaShuttleTriTrans2Omega-name = область
 

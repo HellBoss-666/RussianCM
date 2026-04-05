@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetForeconSquadLead-name = forecon squad leader survivor preset
+ent-RMCSurvivorPresetForeconSquadLead-name = Предварительные настройки выжившего лидера отряда Forecon
 
-ent-CMSpawnPointForeconSquadLeader-name = forecon squad leader spawn point
-ent-CMSpawnPointForeconSquadLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointForeconSquadLeader-name = точка спавна лидера отряда форекон
+ent-CMSpawnPointForeconSquadLeader-desc = Создатель заданий RMC14. 
 

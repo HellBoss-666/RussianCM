@@ -1,45 +1,45 @@
-ent-RMCPVECaseMotionDetector-name = motion detectors case
-ent-RMCPVECaseMotionDetector-desc = A case containing four individual handheld motion detectors.
+ent-RMCPVECaseMotionDetector-name = корпус детектора движения
+ent-RMCPVECaseMotionDetector-desc = Кейс с четырьмя отдельными портативными детекторами движения.
 
-ent-RMCPVECaseFlamerFuel-name = M34 fuel canister case
-ent-RMCPVECaseFlamerFuel-desc = A heavy case containing six fuel canisters for the M34 incinerator unit.
+ent-RMCPVECaseFlamerFuel-name = Корпус канистры с топливом М34
+ent-RMCPVECaseFlamerFuel-desc = Тяжелый чемодан с шестью канистрами с топливом для мусоросжигательной установки М34.
 
-ent-RMCPVECaseSentry-name = UN 571-C Sentry Gun case
-ent-RMCPVECaseSentry-desc = A gun case containing the UN 571-C sentry unit and a spare drum.
+ent-RMCPVECaseSentry-name = UN 571-C Чемодан для турели
+ent-RMCPVECaseSentry-desc = Оружейный кейс, в котором находится сторожевое устройство ООН 571-С и запасной барабан.
 
-ent-RMCPVECaseM5SPR-name = M5SPR battle rifle case
-ent-RMCPVECaseM5SPR-desc = A large case for storing an M5SPR, a modified UNMC battle rifle equipped with HV-P Rounds.
+ent-RMCPVECaseM5SPR-name = Кейс для боевой винтовки M5SPR
+ent-RMCPVECaseM5SPR-desc = Большой кейс для хранения M5SPR, модифицированной боевой винтовки UNMC, оснащенной патронами HV-P.
 
-ent-RMCPVECaseM42A2-name = M42A2 shotgun case
-ent-RMCPVECaseM42A2-desc = A heavy case for storing an M42A2 pump-action shotgun, an Armat Battlefield Systems modern take on an all-time classic.
+ent-RMCPVECaseM42A2-name = Чехол для ружья М42А2
+ent-RMCPVECaseM42A2-desc = Тяжелый кейс для хранения помпового ружья M42A2, современной интерпретации классики на все времена Armat Battlefield Systems.
 
-ent-RMCBasePVEEquipmentCase-name = base equipment case
-ent-RMCBasePVEEquipmentCase-desc = A gun case.
+ent-RMCBasePVEEquipmentCase-name = кейс для базового оборудования
+ent-RMCBasePVEEquipmentCase-desc = Кейс с оружием.
 
-ent-RMCPVECaseType23-name = Type 23 shotgun case
-ent-RMCPVECaseType23-desc = A heavy case for storing a type 23 pump-action shotgun, a SPP semi-automatic shotgun.
+ent-RMCPVECaseType23-name = Чехол для ружья Тип 23
+ent-RMCPVECaseType23-desc = Тяжелый кейс для хранения помпового ружья тип 23, полуавтоматического ружья СПП.
 
-ent-RMCPVECaseM5SPR2-name = M5SPR2 battle rifle case
-ent-RMCPVECaseM5SPR2-desc = A large case for storing an M5SPR2, a modified We-Ya PMC battle rifle equipped with HV-P Rounds.
+ent-RMCPVECaseM5SPR2-name = Чемодан для боевой винтовки М5СПР2
+ent-RMCPVECaseM5SPR2-desc = Большой кейс для хранения M5SPR2, модифицированной боевой винтовки We-Ya PMC, оснащенной патронами HV-P.
 
-ent-RMCPVECaseType64-name = Type 64 smg case
-ent-RMCPVECaseType64-desc = A heavy case for storing a Type 64 submachine-gun, the standard SMG of the Socialist Progressive Peoples.
+ent-RMCPVECaseType64-name = Кейс для пистолета Тип 64
+ent-RMCPVECaseType64-desc = Тяжелый кейс для хранения пистолета-пулемета Тип 64, стандартного пистолета-пулемета Социалистических прогрессивных народов.
 
-ent-RMCPVECaseType88-name = Type 88 DMR case
-ent-RMCPVECaseType88-desc = A heavy case for storing a Type 88 Designated Marksman Rifle, the standard-issue DMR of the Socialist Progressive Peoples.
+ent-RMCPVECaseType88-name = Корпус типа 88 DMR
+ent-RMCPVECaseType88-desc = Тяжелый чемодан для хранения стрелковой винтовки Type 88, стандартной винтовки DMR социалистических прогрессивных народов.
 
-ent-RMCPVECaseL91SWS-name = L91 SWS case
-ent-RMCPVECaseL91SWS-desc = A heavy case for storing a complete L91 Support Weapon System, alongside a suppressor, three drums and three magazines of ammunition - regular and armor-penetrating rounds respectively. This particular case is missing its SASOS, which has been replaced with a standard 2x optic.
+ent-RMCPVECaseL91SWS-name = Корпус L91 SWS
+ent-RMCPVECaseL91SWS-desc = Тяжелый кейс для хранения всей системы вооружения поддержки L91 вместе с глушителем, тремя барабанами и тремя магазинами с боеприпасами - обычными и бронебойными патронами соответственно. 
 
-ent-RMCPVECaseL91SWSIFF-name = L91 SWS case
-ent-RMCPVECaseL91SWSIFF-desc = A heavy case for storing a complete L91 Support Weapon System, alongside three drums and three magazines of ammunition - regular and armor-penetrating rounds respectively.
+ent-RMCPVECaseL91SWSIFF-name = Корпус L91 SWS
+ent-RMCPVECaseL91SWSIFF-desc = Тяжелый кейс для хранения всей системы вооружения L91, а также трех барабанов и трех магазинов с боеприпасами - обычными и бронебойными патронами соответственно.
 
-ent-RMCPVECaseSentrySPP-name = SPP SDS-R8 Sentry Gun case
-ent-RMCPVECaseSentrySPP-desc = A gun case containing the SPP SDS-R8 unit and a spare drum.
+ent-RMCPVECaseSentrySPP-name = Кейс для турели SPP SDS-R8
+ent-RMCPVECaseSentrySPP-desc = Оружейный кейс, в котором находится блок СПП СДС-Р8 и запасной барабан.
 
-ent-RMCPVECaseSentryPMC-name = We-Ya 512-M mini sentry case
-ent-RMCPVECaseSentryPMC-desc = A gun case containing the We-Ya 512-M mini sentry and a spare drum.
+ent-RMCPVECaseSentryPMC-name = Мини-корпус Ве-Я 512-М
+ent-RMCPVECaseSentryPMC-desc = Оружейный кейс с мини-часовым Ве-Я 512-М и запасным барабаном.
 
-ent-RMCPVECaseFlamerFuelLPO80-name = LPO80 fuel canister case
-ent-RMCPVECaseFlamerFuelLPO80-desc = A heavy case containing six fuel canisters for the LPO80 incinerator unit.
+ent-RMCPVECaseFlamerFuelLPO80-name = Корпус канистры с топливом LPO80
+ent-RMCPVECaseFlamerFuelLPO80-desc = Тяжелый чемодан с шестью канистрами с топливом для мусоросжигательной установки LPO80.
 

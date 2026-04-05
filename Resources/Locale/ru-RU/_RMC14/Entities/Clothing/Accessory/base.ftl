@@ -1,2 +1,2 @@
-ent-RMCBaseUniformAccessory-name = item
+ent-RMCBaseUniformAccessory-name = элемент
 

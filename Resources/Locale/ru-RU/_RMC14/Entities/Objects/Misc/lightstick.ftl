@@ -1,9 +1,9 @@
-ent-RMCLightStickBlueSmall-name = blue lightstick
-ent-RMCLightStickBlueSmall-desc = You can stick them in the ground.
+ent-RMCLightStickBlueSmall-name = синий лайтстик
+ent-RMCLightStickBlueSmall-desc = Их можно воткнуть в землю.
 
-ent-RMCLightStick-name = red lightstick
-ent-RMCLightStick-desc = You can stick them in the ground.
+ent-RMCLightStick-name = красный лайтстик
+ent-RMCLightStick-desc = Их можно воткнуть в землю.
 
-ent-RMCLightStickRedSmall-name = red lightstick
-ent-RMCLightStickRedSmall-desc = You can stick them in the ground.
+ent-RMCLightStickRedSmall-name = красный лайтстик
+ent-RMCLightStickRedSmall-desc = Их можно воткнуть в землю.
 

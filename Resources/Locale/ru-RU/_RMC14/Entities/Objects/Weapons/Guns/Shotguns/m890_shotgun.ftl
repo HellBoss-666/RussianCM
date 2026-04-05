@@ -1,3 +1,3 @@
-ent-WeaponShotgunM890-name = M890 tactical shotgun
-ent-WeaponShotgunM890-desc = The Weston-Yamada M890 Shotgun, a semi-automatic shotgun with a quick fire rate.
+ent-WeaponShotgunM890-name = Тактический дробовик М890
+ent-WeaponShotgunM890-desc = Ружье Weston-Yamada M890 — полуавтоматическое ружье с высокой скорострельностью.
 

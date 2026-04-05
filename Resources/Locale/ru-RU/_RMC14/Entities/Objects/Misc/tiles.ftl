@@ -1,9 +1,9 @@
-ent-CMTileItemWood-name = wooden floor tile
-ent-CMTileItemWood-desc = These could work as a pretty decent throwing weapon.
+ent-CMTileItemWood-name = деревянная напольная плитка
+ent-CMTileItemWood-desc = Они могут работать как довольно приличное метательное оружие.
 
-ent-CMTileItemSteel-name = metal floor
-ent-CMTileItemSteel-desc = These could work as a pretty decent throwing weapon.
+ent-CMTileItemSteel-name = металлический пол
+ent-CMTileItemSteel-desc = Они могут работать как довольно приличное метательное оружие.
 
-ent-CMTileItemBase-name = item
-ent-CMTileItemBase-desc = These could work as a pretty decent throwing weapon.
+ent-CMTileItemBase-name = элемент
+ent-CMTileItemBase-desc = Они могут работать как довольно приличное метательное оружие.
 

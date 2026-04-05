@@ -1,8 +1,8 @@
-ent-RMCGearSurvivorPresetBeachBum-name = beach bum colonist preset
+ent-RMCGearSurvivorPresetBeachBum-name = Пресет колониста пляжного бездельника
 
-ent-RMCSpawnPointSurvivorBeachBum-name = survivor beach bum spawn point
-ent-RMCSpawnPointSurvivorBeachBum-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorBeachBum-name = точка спавна пляжного бомжа выжившего
+ent-RMCSpawnPointSurvivorBeachBum-desc = Создатель заданий RMC14. 
 
-ent-CMSatchelFillSurvivorBeachBum-name = leather satchel
-ent-CMSatchelFillSurvivorBeachBum-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchelFillSurvivorBeachBum-name = кожаная сумка
+ent-CMSatchelFillSurvivorBeachBum-desc = Очень нарядная сумка из тонкой кожи. 
 

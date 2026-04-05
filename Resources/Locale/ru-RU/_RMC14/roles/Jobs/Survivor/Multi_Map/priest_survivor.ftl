@@ -1,8 +1,8 @@
-ent-RMCGearSurvivorPresetPriest-name = priest colonist preset
+ent-RMCGearSurvivorPresetPriest-name = пресет священника-колониста
 
-ent-RMCSpawnPointSurvivorPriest-name = survivor priest spawn point
-ent-RMCSpawnPointSurvivorPriest-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorPriest-name = точка появления выжившего жреца
+ent-RMCSpawnPointSurvivorPriest-desc = Создатель заданий RMC14. 
 
-ent-CMSatchelFillSurvivorPriest-name = leather satchel
-ent-CMSatchelFillSurvivorPriest-desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchelFillSurvivorPriest-name = кожаная сумка
+ent-CMSatchelFillSurvivorPriest-desc = Очень нарядная сумка из тонкой кожи. 
 

@@ -1,8 +1,8 @@
-ent-RMCDogtagMarineRaiderLeader-name = Marine Raider Team Leader's dogtags
-ent-RMCDogtagMarineRaiderLeader-desc = A marine dog tag.
+ent-RMCDogtagMarineRaiderLeader-name = Жетоны лидера рейдерской группы Морпех
+ent-RMCDogtagMarineRaiderLeader-desc = Жетон Морпех.
 
-ent-RMCRandomHumanoidMarineRaiderLead-name = DEATHSQUAD marine raider team leader ghost role
+ent-RMCRandomHumanoidMarineRaiderLead-name = DEATHSQUAD Морпех лидер рейдерской группы в роли призрака
 
-ent-RMCDogtagMarineRaiderLeaderHidden-name = dog tag
-ent-RMCDogtagMarineRaiderLeaderHidden-desc = A marine dog tag.
+ent-RMCDogtagMarineRaiderLeaderHidden-name = жетон для собаки
+ent-RMCDogtagMarineRaiderLeaderHidden-desc = Жетон Морпех.
 

@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidWeYaLawyer-name = weya corporate ghost role lawyer
+ent-RMCRandomHumanoidWeYaLawyer-name = Weya Корпоративный адвокат-призрак
 

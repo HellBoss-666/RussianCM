@@ -1,15 +1,15 @@
-ent-RMCSupplyDropPadBase-name = supply drop pad
+ent-RMCSupplyDropPadBase-name = площадка для поставок
 
-ent-RMCSupplyDropConsole-name = supply drop console
-ent-RMCSupplyDropConsole-desc = An old-fashioned computer hooked into the nearby Supply Drop system.
+ent-RMCSupplyDropConsole-name = консоль сброса припасов
+ent-RMCSupplyDropConsole-desc = Старомодный компьютер, подключенный к ближайшей системе доставки припасов.
 
-ent-RMCSupplyDropPadAlpha-name = supply drop pad
+ent-RMCSupplyDropPadAlpha-name = площадка для поставок
 
-ent-RMCSupplyDropPadBravo-name = supply drop pad
+ent-RMCSupplyDropPadBravo-name = площадка для поставок
 
-ent-RMCSupplyDropPadCharlie-name = supply drop pad
+ent-RMCSupplyDropPadCharlie-name = площадка для поставок
 
-ent-RMCSupplyDropPadDelta-name = supply drop pad
+ent-RMCSupplyDropPadDelta-name = площадка для поставок
 
-ent-RMCSupplyDropPadEcho-name = supply drop pad
+ent-RMCSupplyDropPadEcho-name = площадка для поставок
 

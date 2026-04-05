@@ -1,6 +1,6 @@
-ent-RMCArmorHelmetM10CMB-name = M11R pattern CMB Riot helmet
-ent-RMCArmorHelmetM10CMB-desc = A CMB variant of the standard M10 pattern. The front plate is reinforced. This one is a lot more tight fitting.
+ent-RMCArmorHelmetM10CMB-name = Модель M11R CMB Riot Шлем
+ent-RMCArmorHelmetM10CMB-desc = Вариант CMB стандартного рисунка M10. 
 
-ent-RMCArmorHelmetM10CMBVisorSWAT-name = M11R pattern CMB Riot helmet
-ent-RMCArmorHelmetM10CMBVisorSWAT-desc = A CMB variant of the standard M10 pattern. The front plate is reinforced. This one is a lot more tight fitting.
+ent-RMCArmorHelmetM10CMBVisorSWAT-name = Модель M11R CMB Riot Шлем
+ent-RMCArmorHelmetM10CMBVisorSWAT-desc = Вариант CMB стандартного рисунка M10. 
 

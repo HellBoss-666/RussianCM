@@ -1,35 +1,35 @@
-ent-RMCVialTricordrazine-name = tricordrazine vial
-ent-RMCVialTricordrazine-desc = A small glass vial. Can hold up to 30 units. Contains Tricordrazine, a weak general use medicine for treating damage.
+ent-RMCVialTricordrazine-name = трикордразин флакон
+ent-RMCVialTricordrazine-desc = Небольшой стеклянный флакон. 
 
-ent-RMCVial-name = vial
-ent-RMCVial-desc = A small glass vial. Can hold up to 30 units.
+ent-RMCVial-name = флакон
+ent-RMCVial-desc = Небольшой стеклянный флакон. 
 
-ent-RMCPressurizedCanister-name = item
+ent-RMCPressurizedCanister-name = элемент
 
-ent-CMMiniTank-name = MS-11 Smart Refill Tank
-ent-CMMiniTank-desc = A robust little tank capable of refilling autoinjectors that previously required a nanomed system to refill. Using the wonders of microchips, it automatically sorts the correct chemicals into most single reagent autoinjectors. It is unable to partially fill them however. A valve exists on the top to transfer reagents to another container or to flush it entirely.
+ent-CMMiniTank-name = Умный заправочный бак MS-11
+ent-CMMiniTank-desc = Прочный маленький резервуар, способный заправлять автоинъекторы, для заправки которых раньше требовалась наномед-система. 
 
-ent-RMCBeakerHighCapacity-name = item
+ent-RMCBeakerHighCapacity-name = элемент
 
-ent-CMBeakerLarge-name = item
+ent-CMBeakerLarge-name = элемент
 
-ent-CMBeaker-name = item
+ent-CMBeaker-name = элемент
 
-ent-CMBeakerBase-name = item
+ent-CMBeakerBase-name = элемент
 
-ent-RMCBeakerBaseMetallic-name = item
+ent-RMCBeakerBaseMetallic-name = элемент
 
-ent-RMCSealedChemicalContainer-name = item
+ent-RMCSealedChemicalContainer-name = элемент
 
-ent-RMCPressurizedCanisterBicaridine-name = item
+ent-RMCPressurizedCanisterBicaridine-name = элемент
 
-ent-RMCPressurizedCanisterKelotane-name = item
+ent-RMCPressurizedCanisterKelotane-name = элемент
 
-ent-RMCPressurizedCanisterTricordrazineRevival-name = item
+ent-RMCPressurizedCanisterTricordrazineRevival-name = элемент
 
-ent-RMCPressurizedCanisterTricordrazine-name = item
+ent-RMCPressurizedCanisterTricordrazine-name = элемент
 
-ent-RMCPressurizedCanisterMeraBic-name = item
+ent-RMCPressurizedCanisterMeraBic-name = элемент
 
-ent-RMCPressurizedCanisterKeloDerm-name = item
+ent-RMCPressurizedCanisterKeloDerm-name = элемент
 

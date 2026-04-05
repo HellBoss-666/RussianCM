@@ -1,21 +1,21 @@
-ent-RMCSpaceHeater-name = space heater
-ent-RMCSpaceHeater-desc = It's an electric space heater. It heats the room through radiation with electricity.
+ent-RMCSpaceHeater-name = обогреватель
+ent-RMCSpaceHeater-desc = Это электрический обогреватель. 
 
-ent-RMCRadiatorRed-name = radiator
-ent-RMCRadiatorRed-desc = It's a radiator. It heats the room through convection with hot water. This one has a red handle.
+ent-RMCRadiatorRed-name = радиатор
+ent-RMCRadiatorRed-desc = Это радиатор. 
 
-ent-RMCRadiator-name = radiator
-ent-RMCRadiator-desc = It's a radiator. It heats the room through convection with hot water.
+ent-RMCRadiator-name = радиатор
+ent-RMCRadiator-desc = Это радиатор. 
 
-ent-RMCAirPumpStationary-name = stationary air pump
-ent-RMCAirPumpStationary-desc = It's large and securely attached.
+ent-RMCAirPumpStationary-name = стационарный воздушный насос
+ent-RMCAirPumpStationary-desc = Он большой и надежно крепится.
 
-ent-RMCAirPumpPortable-name = portable air pump
-ent-RMCAirPumpPortable-desc = A movable pump that can move air around.
+ent-RMCAirPumpPortable-name = портативный воздушный насос
+ent-RMCAirPumpPortable-desc = Подвижный насос, который может перекачивать воздух.
 
-ent-RMCAirScrubberStationary-name = stationary air scrubber
-ent-RMCAirScrubberStationary-desc = It's large and securely attached.
+ent-RMCAirScrubberStationary-name = стационарный воздухоочиститель
+ent-RMCAirScrubberStationary-desc = Он большой и надежно крепится.
 
-ent-RMCAirScrubberPortable-name = portable air scrubber
-ent-RMCAirScrubberPortable-desc = It scrubs, portably!
+ent-RMCAirScrubberPortable-name = портативный воздухоочиститель
+ent-RMCAirScrubberPortable-desc = Он очищает портативно!
 

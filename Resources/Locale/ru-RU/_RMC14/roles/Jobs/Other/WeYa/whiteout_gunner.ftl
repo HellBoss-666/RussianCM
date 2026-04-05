@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidPMCWhiteoutGunner-name = DEATHSQUAD pmc ghost role whiteout gunner
+ent-RMCRandomHumanoidPMCWhiteoutGunner-name = DEATHSQUAD ЧВК в роли призрака, наводчика в темноте
 

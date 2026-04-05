@@ -1,3 +1,3 @@
-ent-CMSpawnPointForeconRifleman-name = forecon rifleman spawn point
-ent-CMSpawnPointForeconRifleman-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointForeconRifleman-name = точка появления стрелка Forecon
+ent-CMSpawnPointForeconRifleman-desc = Создатель заданий RMC14. 
 

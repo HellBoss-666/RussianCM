@@ -1,12 +1,12 @@
-ent-XenoFastResin-name = fast resin
-ent-XenoFastResin-desc = A layer of disgusting sleek slime.
+ent-XenoFastResin-name = быстрая смола
+ent-XenoFastResin-desc = Слой отвратительной гладкой слизи.
 
-ent-XenoStickyResinWeak-name = weak sticky resin
-ent-XenoStickyResinWeak-desc = A thin and weak layer of disgusting sticky slime. It looks like it's already melting...
+ent-XenoStickyResinWeak-name = слабая липкая смола
+ent-XenoStickyResinWeak-desc = Тонкий и слабый слой отвратительной липкой слизи. 
 
-ent-XenoStickyResin-name = sticky resin
-ent-XenoStickyResin-desc = A layer of disgusting sticky slime.
+ent-XenoStickyResin-name = липкая смола
+ent-XenoStickyResin-desc = Слой отвратительной липкой слизи.
 
-ent-XenoStickyResinWeakWeedbound-name = weak sticky resin
-ent-XenoStickyResinWeakWeedbound-desc = A thin and weak layer of disgusting sticky slime.
+ent-XenoStickyResinWeakWeedbound-name = слабая липкая смола
+ent-XenoStickyResinWeakWeedbound-desc = Тонкий и слабый слой отвратительной липкой слизи.
 

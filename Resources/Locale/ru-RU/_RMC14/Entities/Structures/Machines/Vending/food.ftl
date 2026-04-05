@@ -1,21 +1,21 @@
-ent-CMVendorChess-name = Chess-O-Mat
-ent-CMVendorChess-desc = In 2107 Red Star Drinks, a SPP-CA (Colony Administration) affiliated corporation ran a promotional sweepstakes for drinkers who had found special codes on the inside of the caps of a limited run of Red Star Vodka, shipping them a Chess-O-Mat with unlimited refills.
+ent-CMVendorChess-name = Шахматы
+ent-CMVendorChess-desc = В 2107 году Red Star Drinks, дочерняя корпорация SPP-CA (Администрация колонии), провела рекламный розыгрыш для пьющих, которые нашли специальные коды на внутренней стороне крышек водки Red Star, выпущенной ограниченным тиражом, и отправили им Chess-O-Mat с неограниченным количеством дозаправок.
 
-ent-CMVendorBooze-name = Booze-O-Mat
-ent-CMVendorBooze-desc = A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+ent-CMVendorBooze-name = Выпивка-О-Мат
+ent-CMVendorBooze-desc = Технологическое чудо, предположительно способное приготовить именно ту смесь, которую вы хотите выпить, в тот момент, когда вы ее попросите.
 
-ent-RMCNutriCoVendor-name = NutriCo AutoChef
-ent-RMCNutriCoVendor-desc = An autochef food dispenser, capable of distributing food containing all the essential vitamins and nutrients anyone could ever need. Inedible-looking sludge is passed through a variety of heaters, re-shapers, and solidifiers before being artificially flavored to create something that looks and tastes mostly edible.
+ent-RMCNutriCoVendor-name = НутриКо АвтоШеф
+ent-RMCNutriCoVendor-desc = Диспенсер для еды autochef, способный раздавать еду, содержащую все необходимые витамины и питательные вещества, которые могут понадобиться каждому. 
 
-ent-ColMarTechFood-name = ColMarTech food vendor
-ent-ColMarTechFood-desc = Marine Food Vendor, containing standard military Prepared Meals.
+ent-ColMarTechFood-name = ColMarTech продавец продуктов питания
+ent-ColMarTechFood-desc = Морпех Продовольственный магазин, содержащий стандартные военные готовые блюда.
 
-ent-RMCNutriCoVendorRCM-name = We-Ya Section AutoChef
-ent-RMCNutriCoVendorRCM-desc = A repurposed NutriCo machine refilled with recipes and components for Three Suns Empire cuisine by Weston-Yamada. Equally as inedible as its Nations counterpart, but at least it looks more appealing. Slightly.
+ent-RMCNutriCoVendorRCM-name = Раздел We-Ya AutoChef
+ent-RMCNutriCoVendorRCM-desc = Модернизированная машина NutriCo, наполненная рецептами и компонентами кухни Three Suns Empire от Weston-Yamada. 
 
-ent-RMCVendorNutriCoFoodSPP-name = food dispenser
-ent-RMCVendorNutriCoFoodSPP-desc = A food dispenser, capable of distributing food containing all the essential vitamins and nutrients anyone could ever need.
+ent-RMCVendorNutriCoFoodSPP-name = диспенсер для еды
+ent-RMCVendorNutriCoFoodSPP-desc = Диспенсер для еды, способный раздавать еду, содержащую все необходимые витамины и питательные вещества, которые могут понадобиться каждому.
 
-ent-RMCVendorNutriCoFoodPMC-name = food dispenser
-ent-RMCVendorNutriCoFoodPMC-desc = A food dispenser, capable of distributing food containing all the essential vitamins and nutrients anyone could ever need.
+ent-RMCVendorNutriCoFoodPMC-name = диспенсер для еды
+ent-RMCVendorNutriCoFoodPMC-desc = Диспенсер для еды, способный раздавать еду, содержащую все необходимые витамины и питательные вещества, которые могут понадобиться каждому.
 

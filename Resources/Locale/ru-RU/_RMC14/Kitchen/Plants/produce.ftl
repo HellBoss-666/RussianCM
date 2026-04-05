@@ -1,18 +1,18 @@
-ent-RMCFoodMango-name = mango
-ent-RMCFoodMango-desc = MANGO MANGO MANGO
+ent-RMCFoodMango-name = манго
+ent-RMCFoodMango-desc = МАНГО МАНГО МАНГО
 
-ent-FoodGrass-name = bundle of grass
-ent-FoodGrass-desc = Go ahead, touch some grass.
+ent-FoodGrass-name = пучок травы
+ent-FoodGrass-desc = Давай, потрогай траву.
 
-ent-FoodSunflower-name = sunflower
-ent-FoodSunflower-desc = It's beautiful! A certain person might beat you to death if you trample these.
+ent-FoodSunflower-name = подсолнечник
+ent-FoodSunflower-desc = Это красиво! 
 
-ent-FoodWhiteBeet-name = white beet
-ent-FoodWhiteBeet-desc = You can't beat white-beet.
+ent-FoodWhiteBeet-name = сахарная свекла
+ent-FoodWhiteBeet-desc = Вы не можете победить белую свеклу.
 
-ent-FoodPeanut-name = peanut
-ent-FoodPeanut-desc = Nuts!
+ent-FoodPeanut-name = арахис
+ent-FoodPeanut-desc = Орехи!
 
-ent-FoodMushroomPlump-name = plump-helmet
-ent-FoodMushroomPlump-desc = Plumus Hellmus: Oh, SHUT UP about the BLOODY mushrooms already! MOVE IT, marines!
+ent-FoodMushroomPlump-name = пухлый-Шлем
+ent-FoodMushroomPlump-desc = Плюмус Хеллмус: Ой, ЗАТКНИ уже насчёт КРОВАВЫХ грибов! 
 

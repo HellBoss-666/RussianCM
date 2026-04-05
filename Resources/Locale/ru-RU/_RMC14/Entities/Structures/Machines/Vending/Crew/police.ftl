@@ -1,6 +1,6 @@
-ent-ColMarTechWardenEquipment-name = ColMarTech Military Warden Equipment Rack
-ent-ColMarTechWardenEquipment-desc = An automated rack hooked up to a colossal storage of Military Police standard-issue equipment.
+ent-ColMarTechWardenEquipment-name = Стойка для оборудования военного начальника ColMarTech
+ent-ColMarTechWardenEquipment-desc = Автоматизированный стеллаж, подключенный к огромному складу стандартного оборудования военной полиции.
 
-ent-ColMarTechMilitaryPoliceEquipment-name = ColMarTech Military Police Equipment Rack
-ent-ColMarTechMilitaryPoliceEquipment-desc = An automated rack hooked up to a colossal storage of Military Police standard-issue equipment.
+ent-ColMarTechMilitaryPoliceEquipment-name = Стойка для оборудования военной полиции ColMarTech
+ent-ColMarTechMilitaryPoliceEquipment-desc = Автоматизированный стеллаж, подключенный к огромному складу стандартного оборудования военной полиции.
 

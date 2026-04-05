@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVESquadLeader-name = PVE squad leader spawn point
-ent-RMCSpawnPointPVESquadLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPVESquadLeader-name = Точка появления лидера отряда PVE
+ent-RMCSpawnPointPVESquadLeader-desc = Создатель заданий RMC14. 
 

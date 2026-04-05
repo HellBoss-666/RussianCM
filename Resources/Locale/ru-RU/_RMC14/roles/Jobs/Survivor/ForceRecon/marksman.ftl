@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetForeconMarksman-name = forecon marksman survivor preset
+ent-RMCSurvivorPresetForeconMarksman-name = Предустановка выживания стрелка Forecon
 
-ent-CMSpawnPointForeconMarksman-name = forecon marksman spawn point
-ent-CMSpawnPointForeconMarksman-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointForeconMarksman-name = точка появления стрелка Forecon
+ent-CMSpawnPointForeconMarksman-desc = Создатель заданий RMC14. 
 

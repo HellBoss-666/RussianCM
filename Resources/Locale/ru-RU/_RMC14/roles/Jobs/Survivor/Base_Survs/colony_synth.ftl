@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSynthColonist-name = synthetic colonist spawn point
-ent-RMCSpawnPointSynthColonist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSynthColonist-name = синтетическая точка спавна колонистов
+ent-RMCSpawnPointSynthColonist-desc = Создатель заданий RMC14. 
 

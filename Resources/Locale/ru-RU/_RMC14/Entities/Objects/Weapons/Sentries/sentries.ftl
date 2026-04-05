@@ -1,45 +1,45 @@
-ent-RMCSentrySniperFire-name = UN 60-FP plasma sentry
-ent-RMCSentrySniperFire-desc = The Plasma Flamethrower Sentry Gun automatically tracks and fires upon any target that is wearing an ID not hooked up to the Almayer's systems. Just like the UA 571-C Sentry gun, this sentry has IFF but the phosphorus that lingers doesn't.
+ent-RMCSentrySniperFire-name = Плазменный часовой ООН 60-ФП
+ent-RMCSentrySniperFire-desc = Плазменная огнеметная турель автоматически отслеживает и стреляет по любой цели, имеющей идентификационный номер, не подключенной к системам Олмайера. 
 
-ent-RMCSentryFire-name = UN 55-FA assault sentry flamer
-ent-RMCSentryFire-desc = The Flamethrower Sentry Gun automatically tracks and fires upon any target that is wearing an ID not hooked up to the Almayer's systems. Just like the UA 571-C Sentry gun, this sentry has IFF but the fire that lingers doesn't.
+ent-RMCSentryFire-name = Штурмовой сторожевой огнемет UN 55-FA
+ent-RMCSentryFire-desc = Огнеметная турель автоматически отслеживает и стреляет по любой цели, имеющей идентификационный номер, не подключенной к системам Олмайера. 
 
-ent-RMCSentryMiniFire-name = UN 45-FM mini sentry
-ent-RMCSentryMiniFire-desc = The Mini Flamethrower Sentry Gun automatically tracks and fires upon any target that is wearing an ID not hooked up to the Almayer's systems. Just like the UN 571-C Sentry gun, this sentry has IFF but the fire that lingers doesn't.
+ent-RMCSentryMiniFire-name = Мини-сторожевой ООН 45-FM
+ent-RMCSentryMiniFire-desc = Мини-огнеметная турель автоматически отслеживает и стреляет по любой цели, имеющей идентификационный номер, не подключенной к системам Олмайера. 
 
-ent-RMCTurretGaussDumb-name = damaged UN-577 gauss turret
-ent-RMCTurretGaussDumb-desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a high-capacity drum magazine. This one's IFF system has been fried via acid damage, and it will open fire on any targets within range.
+ent-RMCTurretGaussDumb-name = повреждена гаусс-башня ООН-577
+ent-RMCTurretGaussDumb-desc = Развертываемая полуавтоматическая турель с возможностями наведения ИИ. 
 
-ent-RMCSentryShotgun-name = UN 12-G Shotgun Sentry
-ent-RMCSentryShotgun-desc = A deployable, semi-automated turret with specialized for close range combat. Protects itself with sturdier plating and steel tusks.
+ent-RMCSentryShotgun-name = Ружье ООН 12-G Сторожевой
+ent-RMCSentryShotgun-desc = Развертываемая полуавтоматическая башня, предназначенная для ведения боя на ближней дистанции. 
 
-ent-RMCSentryOmni-name = UN 571-D omnidirectional sentry gun
-ent-RMCSentryOmni-desc = A deployable, semi-automated turret with 360 degree range AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.
+ent-RMCSentryOmni-name = турель всенаправленного действия ООН 571-Д
+ent-RMCSentryOmni-desc = Развертываемая полуавтоматическая турель с возможностью нацеливания на 360 градусов с помощью искусственного интеллекта. 
 
-ent-RMCSentrySniper-name = UN 725-D sniper sentry
-ent-RMCSentrySniper-desc = A fully-automated defence turret with long-range targeting capabilities. Armed with a modified M32-S Autocannon and an internal belt feed.
+ent-RMCSentrySniper-name = снайперский часовой ООН 725-Д
+ent-RMCSentrySniper-desc = Полностью автоматизированная защитная турель с возможностью наведения на большие расстояния. 
 
-ent-RMCSentryMiniSPP-name = SPP SDS-R8 light sentry
-ent-RMCSentryMiniSPP-desc = A compact version of the SPP defense sentry SDS-R7. Designed for deployment in the field.
+ent-RMCSentryMiniSPP-name = СПП СДС-Р8 легкий сторожевой
+ent-RMCSentryMiniSPP-desc = Компактная версия СПП оборонительного караула СДС-Р7. 
 
-ent-RMCSentryMiniWeYa-name = We-Ya 512-M mini sentry
-ent-RMCSentryMiniWeYa-desc = A compact version of the UNMC defenses. Designed for quick deployment of the associated type in the field. This one has been modified for use by the mercenaries employed by Weston-Yamada.
+ent-RMCSentryMiniWeYa-name = Мы-Я 512-М мини-сторожевой
+ent-RMCSentryMiniWeYa-desc = Компактная версия защиты UNMC. 
 
-ent-RMCSentryMini-name = UN 512-M mini sentry
-ent-RMCSentryMini-desc = A compact version of the UNMC defenses. Designed for quick deployment of the associated type in the field.
+ent-RMCSentryMini-name = Мини-сторожевой ООН 512-М
+ent-RMCSentryMini-desc = Компактная версия защиты UNMC. 
 
-ent-RMCSentry-name = UN 571-C sentry gun
-ent-RMCSentry-desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.
+ent-RMCSentry-name = Сторожевое орудие ООН 571-С
+ent-RMCSentry-desc = Развертываемая полуавтоматическая турель с возможностями наведения ИИ. 
 
-ent-RMCEngineeringUpgrade-name = engineering upgrade kit
-ent-RMCEngineeringUpgrade-desc = A kit used to upgrade the defenses of an engineer's sentry. Back in 1980 when the machines tried to break free, it was a single android who laid them low. Now their technology is used widely on the rim.
+ent-RMCEngineeringUpgrade-name = комплект инженерного обновления
+ent-RMCEngineeringUpgrade-desc = Комплект, используемый для улучшения защиты инженерного часового. 
 
-ent-RMCBaseSentry-name = turret
-ent-RMCBaseSentry-desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.
+ent-RMCBaseSentry-name = турель
+ent-RMCBaseSentry-desc = Развертываемая полуавтоматическая турель с возможностями наведения ИИ. 
 
-ent-RMCSentryConstruct-name = UN 571-C sentry gun
-ent-RMCSentryConstruct-desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a 500-round drum magazine.
+ent-RMCSentryConstruct-name = Сторожевое орудие ООН 571-С
+ent-RMCSentryConstruct-desc = Развертываемая полуавтоматическая турель с возможностями наведения ИИ. 
 
-ent-RMCTurretGaussModifiedCLF-name = modified UN-577 gauss turret
-ent-RMCTurretGaussModifiedCLF-desc = A deployable, semi-automated turret with AI targeting capabilities. Armed with an M30 Autocannon and a high-capacity drum magazine. This one's IFF system has been fried via acid damage, and it will open fire on any targets within range.
+ent-RMCTurretGaussModifiedCLF-name = модифицированная гаусс-башня УН-577
+ent-RMCTurretGaussModifiedCLF-desc = Развертываемая полуавтоматическая турель с возможностями наведения ИИ. 
 

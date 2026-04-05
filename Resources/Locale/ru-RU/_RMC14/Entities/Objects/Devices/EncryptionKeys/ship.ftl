@@ -1,93 +1,93 @@
-ent-CMEncryptionKeyMasterShip-name = master ship encryption key
-ent-CMEncryptionKeyMasterShip-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyMasterShip-name = ключ шифрования главного корабля
+ent-CMEncryptionKeyMasterShip-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyMasterSquad-name = master squad encryption key
-ent-CMEncryptionKeyMasterSquad-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyMasterSquad-name = ключ шифрования главного отряда
+ent-CMEncryptionKeyMasterSquad-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCrewman-name = vehicle crewman's encryption key
-ent-CMEncryptionKeyCrewman-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCrewman-name = ключ шифрования члена экипажа транспортного средства
+ent-CMEncryptionKeyCrewman-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyIntelOfficer-name = intel officer's encryption key
-ent-CMEncryptionKeyIntelOfficer-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyIntelOfficer-name = ключ шифрования офицера разведки
+ent-CMEncryptionKeyIntelOfficer-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyPilot-name = pilot's encryption key
-ent-CMEncryptionKeyPilot-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyPilot-name = ключ шифрования пилота
+ent-CMEncryptionKeyPilot-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyLiaison-name = corporate liaison radio encryption key
-ent-RMCEncryptionKeyLiaison-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyLiaison-name = ключ шифрования корпоративной радиосвязи
+ent-RMCEncryptionKeyLiaison-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyQuartermaster-name = requisition encryption key
-ent-RMCEncryptionKeyQuartermaster-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyQuartermaster-name = ключ шифрования заявки
+ent-RMCEncryptionKeyQuartermaster-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyCargotech-name = req tech encryption key
-ent-RMCEncryptionKeyCargotech-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyCargotech-name = требуется технический ключ шифрования
+ent-RMCEncryptionKeyCargotech-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyRequisition-name = requisition encryption key
-ent-CMEncryptionKeyRequisition-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyRequisition-name = ключ шифрования заявки
+ent-CMEncryptionKeyRequisition-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyMPO-name = military police officer's encryption key
-ent-CMEncryptionKeyMPO-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyMPO-name = ключ шифрования офицера военной полиции
+ent-CMEncryptionKeyMPO-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCMP-name = chief military police encryption key
-ent-CMEncryptionKeyCMP-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCMP-name = Ключ шифрования начальника военной полиции
+ent-CMEncryptionKeyCMP-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyMilitaryPolice-name = military police encryption key
-ent-CMEncryptionKeyMilitaryPolice-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyMilitaryPolice-name = ключ шифрования военной полиции
+ent-CMEncryptionKeyMilitaryPolice-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyResearcher-name = researcher's encryption key
-ent-CMEncryptionKeyResearcher-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyResearcher-name = ключ шифрования исследователя
+ent-CMEncryptionKeyResearcher-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCMO-name = chief medical officer's encryption key
-ent-CMEncryptionKeyCMO-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCMO-name = ключ шифрования главного врача
+ent-CMEncryptionKeyCMO-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyMedical-name = medical encryption key
-ent-CMEncryptionKeyMedical-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyMedical-name = медицинский ключ шифрования
+ent-CMEncryptionKeyMedical-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCE-name = chief engineer's encryption key
-ent-CMEncryptionKeyCE-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCE-name = ключ шифрования главного инженера
+ent-CMEncryptionKeyCE-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyEngineer-name = engineering encryption key
-ent-CMEncryptionKeyEngineer-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyEngineer-name = инженерный ключ шифрования
+ent-CMEncryptionKeyEngineer-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyMarineCommand-name = marine command radio encryption key
-ent-RMCEncryptionKeyMarineCommand-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyMarineCommand-name = Ключ шифрования радиокоманды Морпех
+ent-RMCEncryptionKeyMarineCommand-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeySeniorCommand-name = marine senior command radio encryption key
-ent-RMCEncryptionKeySeniorCommand-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeySeniorCommand-name = Ключ шифрования радиосвязи старшего командования Морпех
+ent-RMCEncryptionKeySeniorCommand-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyIntel-name = intel radio encryption key
-ent-CMEncryptionKeyIntel-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyIntel-name = ключ шифрования радиосвязи Intel
+ent-CMEncryptionKeyIntel-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyJTAC-name = JTAC radio encryption key
-ent-CMEncryptionKeyJTAC-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyJTAC-name = Ключ радиошифрования JTAC
+ent-CMEncryptionKeyJTAC-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyHighCommand-name = high command encryption key
-ent-RMCEncryptionKeyHighCommand-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyHighCommand-name = ключ шифрования высшего командования
+ent-RMCEncryptionKeyHighCommand-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCommand-name = command encryption key
-ent-CMEncryptionKeyCommand-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCommand-name = ключ шифрования команды
+ent-CMEncryptionKeyCommand-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyICB-name = ICB encryption key
-ent-CMEncryptionKeyICB-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyICB-name = ключ шифрования ICB
+ent-CMEncryptionKeyICB-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyWEYAColony-name = we-ya colony encryption key
-ent-CMEncryptionKeyWEYAColony-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyWEYAColony-name = ключ шифрования колонии мы-я
+ent-CMEncryptionKeyWEYAColony-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyWEYA-name = we-ya encryption key
-ent-CMEncryptionKeyWEYA-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyWEYA-name = мы-я ключ шифрования
+ent-CMEncryptionKeyWEYA-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyColony-name = colony encryption key
-ent-CMEncryptionKeyColony-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyColony-name = ключ шифрования колонии
+ent-CMEncryptionKeyColony-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCommon-name = public radio encryption key
-ent-CMEncryptionKeyCommon-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCommon-name = ключ шифрования общедоступного радио
+ent-CMEncryptionKeyCommon-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKey-name = standard encryption key
-ent-CMEncryptionKey-desc = An encryption key for a radio headset.
+ent-CMEncryptionKey-name = стандартный ключ шифрования
+ent-CMEncryptionKey-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyMarineCommandAlternative-name = marine command radio encryption key
-ent-RMCEncryptionKeyMarineCommandAlternative-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyMarineCommandAlternative-name = Ключ шифрования радиокоманды Морпех
+ent-RMCEncryptionKeyMarineCommandAlternative-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyCorrespondent-name = correspondent radio encryption key
-ent-RMCEncryptionKeyCorrespondent-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyCorrespondent-name = ключ шифрования корреспондентской радиосвязи
+ent-RMCEncryptionKeyCorrespondent-desc = Ключ шифрования для радиогарнитуры.
 

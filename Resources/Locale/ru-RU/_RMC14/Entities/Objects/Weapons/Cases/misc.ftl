@@ -1,3 +1,3 @@
-ent-RMCKitHonorGuard-name = honor guard kit
-ent-RMCKitHonorGuard-desc = A case containing the equipment for an Honor Guard.
+ent-RMCKitHonorGuard-name = комплект почетного караула
+ent-RMCKitHonorGuard-desc = Кейс со снаряжением почетного караула.
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSynth-name = synthetic spawn point
-ent-RMCSpawnPointSynth-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSynth-name = синтетическая точка спавна
+ent-RMCSpawnPointSynth-desc = Создатель заданий RMC14. 
 

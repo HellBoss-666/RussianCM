@@ -1,2 +1,2 @@
-ent-CMSpawnPointJobBase-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointJobBase-desc = Создатель заданий RMC14. 
 

@@ -1,10 +1,10 @@
-ent-RMCMapInsertSorokyneMedbay-name = CLF Camp
+ent-RMCMapInsertSorokyneMedbay-name = Лагерь CLF
 
-ent-RMCMapInsertSorokyneBase-name = Map Insert Base
+ent-RMCMapInsertSorokyneBase-name = База для вставки карты
 
-ent-RMCMapInsertSorokyneSPPSOF-name = SPP SOF Dropship
+ent-RMCMapInsertSorokyneSPPSOF-name = СПП СОФ Дропшиппинг
 
-ent-RMCMapInsertSorokyneSPPSOFAlt-name = SPP SOF Supply Ship
+ent-RMCMapInsertSorokyneSPPSOFAlt-name = Судно снабжения СПП ССО
 
-ent-RMCMapInsertSorokyneFlamerBodypile-name = Flamer Bodypile
+ent-RMCMapInsertSorokyneFlamerBodypile-name = Куча огнеметов
 

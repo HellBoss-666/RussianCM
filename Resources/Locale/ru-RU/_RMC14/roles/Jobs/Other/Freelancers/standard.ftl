@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidFreelancerStandardFriendly-name = freelancer ghost role rifleman
+ent-RMCRandomHumanoidFreelancerStandardFriendly-name = фрилансер роль призрака стрелок
 
-ent-RMCRandomHumanoidFreelancerStandardHostile-name = freelancer ghost role rifleman
+ent-RMCRandomHumanoidFreelancerStandardHostile-name = фрилансер роль призрака стрелок
 

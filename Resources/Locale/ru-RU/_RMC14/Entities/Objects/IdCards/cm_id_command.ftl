@@ -1,21 +1,21 @@
-ent-CMIDCardProvostSectorMarshal-name = Provost Sector Marshal ID card
-ent-CMIDCardProvostSectorMarshal-desc = Issued to members of the Provost Office.
+ent-CMIDCardProvostSectorMarshal-name = Удостоверение начальника сектора маршала
+ent-CMIDCardProvostSectorMarshal-desc = Выдается членам проректора.
 
-ent-CMIDCardHighCommand-name = general officer ID card
-ent-CMIDCardHighCommand-desc = Top brass of the top brass. Issued to only the most dedicated.
+ent-CMIDCardHighCommand-name = удостоверение личности генерального офицера
+ent-CMIDCardHighCommand-desc = Высшая латунь высшей латуни. 
 
-ent-CMIDCardExecutiveOfficer-name = executive officer ID card
-ent-CMIDCardExecutiveOfficer-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardExecutiveOfficer-name = удостоверение личности руководителя
+ent-CMIDCardExecutiveOfficer-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-RMCIDCardCommandingOfficerPlus-name = commanding officer ID card
-ent-RMCIDCardCommandingOfficerPlus-desc = Top brass of the top brass. Issued to only the most dedicated.
+ent-RMCIDCardCommandingOfficerPlus-name = удостоверение командира офицера
+ent-RMCIDCardCommandingOfficerPlus-desc = Высшая латунь высшей латуни. 
 
-ent-CMIDCardCommandingOfficer-name = commanding officer ID card
-ent-CMIDCardCommandingOfficer-desc = A gold plated holo-badge which shows power and might.
+ent-CMIDCardCommandingOfficer-name = удостоверение командира офицера
+ent-CMIDCardCommandingOfficer-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 
-ent-RMCIDCardPlatoonCommander-name = platoon commander ID card
-ent-RMCIDCardPlatoonCommander-desc = A silver plated holo-badge which shows honour and dedication.
+ent-RMCIDCardPlatoonCommander-name = удостоверение командира взвода
+ent-RMCIDCardPlatoonCommander-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-CMIDCardStaffOfficer-name = staff officer ID card
-ent-CMIDCardStaffOfficer-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardStaffOfficer-name = удостоверение личности штабного офицера
+ent-CMIDCardStaffOfficer-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 

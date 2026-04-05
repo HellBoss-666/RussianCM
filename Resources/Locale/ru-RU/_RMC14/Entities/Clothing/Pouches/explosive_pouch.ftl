@@ -1,21 +1,21 @@
-ent-RMCPouchExplosive-name = explosive pouch
-ent-RMCPouchExplosive-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosive-name = взрывной мешок
+ent-RMCPouchExplosive-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 
-ent-RMCPouchExplosiveFilledPlasticExplosives-name = explosive pouch
-ent-RMCPouchExplosiveFilledPlasticExplosives-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosiveFilledPlasticExplosives-name = взрывной мешок
+ent-RMCPouchExplosiveFilledPlasticExplosives-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 
-ent-RMCPouchExplosiveFilledHEFA-name = HEFA pouch
-ent-RMCPouchExplosiveFilledHEFA-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosiveFilledHEFA-name = HEFA-мешочек
+ent-RMCPouchExplosiveFilledHEFA-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 
-ent-RMCPouchExplosiveFilledHEDP-name = explosive pouch
-ent-RMCPouchExplosiveFilledHEDP-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosiveFilledHEDP-name = взрывной мешок
+ent-RMCPouchExplosiveFilledHEDP-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 
-ent-RMCPouchExplosiveFilledSPP-name = explosive pouch
-ent-RMCPouchExplosiveFilledSPP-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosiveFilledSPP-name = взрывной мешок
+ent-RMCPouchExplosiveFilledSPP-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 
-ent-RMCPouchExplosiveFilledC4SPP-name = explosive pouch
-ent-RMCPouchExplosiveFilledC4SPP-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosiveFilledC4SPP-name = взрывной мешок
+ent-RMCPouchExplosiveFilledC4SPP-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 
-ent-RMCPouchExplosiveFilledHIRR-name = explosive pouch
-ent-RMCPouchExplosiveFilledHIRR-desc = It can carry grenades, plastic explosives, mine boxes, and other explosives.
+ent-RMCPouchExplosiveFilledHIRR-name = взрывной мешок
+ent-RMCPouchExplosiveFilledHIRR-desc = Он может перевозить гранаты, пластиковую взрывчатку, ящики для мин и другие взрывчатые вещества.
 

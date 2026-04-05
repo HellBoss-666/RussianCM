@@ -1,6 +1,6 @@
-ent-CMRandomPosterAny-name = random poster spawner
+ent-CMRandomPosterAny-name = случайный спаунер постеров
 
-ent-CMRandomPosterUN-name = random poster spawner
+ent-CMRandomPosterUN-name = случайный спаунер постеров
 
-ent-CMRandomPosterSPP-name = random poster spawner
+ent-CMRandomPosterSPP-name = случайный спаунер постеров
 

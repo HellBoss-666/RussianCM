@@ -1,21 +1,21 @@
-ent-RMCCrateMedicalPill-name = pill bottle crate (x2 each)
-ent-RMCCrateMedicalPill-desc = A medical crate.
+ent-RMCCrateMedicalPill-name = ящик для бутылочек с таблетками (по 2 шт.)
+ent-RMCCrateMedicalPill-desc = Медицинский ящик.
 
-ent-RMCCrateMedicalFilled-name = medical crate
-ent-RMCCrateMedicalFilled-desc = A medical crate.
+ent-RMCCrateMedicalFilled-name = медицинский ящик
+ent-RMCCrateMedicalFilled-desc = Медицинский ящик.
 
-ent-RMCCrateMedicalFirstAid-name = first aid kit crate (x2 each)
-ent-RMCCrateMedicalFirstAid-desc = A medical crate.
+ent-RMCCrateMedicalFirstAid-name = Ящик для аптечек (по 2 шт.)
+ent-RMCCrateMedicalFirstAid-desc = Медицинский ящик.
 
-ent-RMCCrateMedicalStasisBag-name = stasis bag crate (x3)
-ent-RMCCrateMedicalStasisBag-desc = A medical crate.
+ent-RMCCrateMedicalStasisBag-name = ящик для стазис-мешков (x3)
+ent-RMCCrateMedicalStasisBag-desc = Медицинский ящик.
 
-ent-RMCCrateMedicalBodyBag-name = body bag crate (x28)
-ent-RMCCrateMedicalBodyBag-desc = A medical crate.
+ent-RMCCrateMedicalBodyBag-name = ящик для мешков для трупов (x28)
+ent-RMCCrateMedicalBodyBag-desc = Медицинский ящик.
 
-ent-RMCCrateMedicalSurgery-name = surgery crate (tray,anesthetics,surgeon gear)
-ent-RMCCrateMedicalSurgery-desc = A surgery crate.
+ent-RMCCrateMedicalSurgery-name = хирургический ящик (поднос, анестетики, хирургическое оборудование)
+ent-RMCCrateMedicalSurgery-desc = Хирургический ящик.
 
-ent-RMCCrateFieldDoctor-name = field doctor crate (replacement field doctor gear)
-ent-RMCCrateFieldDoctor-desc = A surgery crate.
+ent-RMCCrateFieldDoctor-name = Ящик полевого врача (замена снаряжения полевого врача)
+ent-RMCCrateFieldDoctor-desc = Хирургический ящик.
 

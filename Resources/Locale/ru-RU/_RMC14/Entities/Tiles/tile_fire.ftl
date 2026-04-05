@@ -1,60 +1,60 @@
-ent-RMCTileFire-name = fire
+ent-RMCTileFire-name = огонь
 
-ent-RMCTileFireGreen-name = fire
+ent-RMCTileFireGreen-name = огонь
 
-ent-RMCTileFireBlue-name = fire
+ent-RMCTileFireBlue-name = огонь
 
-ent-RMCTileFireOB-name = fire
+ent-RMCTileFireOB-name = огонь
 
-ent-RMCTileFireOBAegis-name = fire
+ent-RMCTileFireOBAegis-name = огонь
 
-ent-RMCTileFireLaser-name = fire
+ent-RMCTileFireLaser-name = огонь
 
-ent-RMCTileFireNapalm-name = fire
+ent-RMCTileFireNapalm-name = огонь
 
-ent-RMCTileFireBanshee-name = fire
+ent-RMCTileFireBanshee-name = огонь
 
-ent-RMCTileFireThermobaric-name = fire
+ent-RMCTileFireThermobaric-name = огонь
 
-ent-RMCTileFireMiniMike-name = fire
+ent-RMCTileFireMiniMike-name = огонь
 
-ent-RMCTileFireForever-name = fire
-ent-RMCTileFireForever-desc = That isn't going out any time soon!!
+ent-RMCTileFireForever-name = огонь
+ent-RMCTileFireForever-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverStrong-name = fire
-ent-RMCTileFireForeverStrong-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverStrong-name = огонь
+ent-RMCTileFireForeverStrong-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverNormal-name = fire
-ent-RMCTileFireForeverNormal-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverNormal-name = огонь
+ent-RMCTileFireForeverNormal-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverWeak-name = fire
-ent-RMCTileFireForeverWeak-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverWeak-name = огонь
+ent-RMCTileFireForeverWeak-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverOrange-name = fire
-ent-RMCTileFireForeverOrange-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverOrange-name = огонь
+ent-RMCTileFireForeverOrange-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverStrongOrange-name = fire
-ent-RMCTileFireForeverStrongOrange-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverStrongOrange-name = огонь
+ent-RMCTileFireForeverStrongOrange-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverNormalOrange-name = fire
-ent-RMCTileFireForeverNormalOrange-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverNormalOrange-name = огонь
+ent-RMCTileFireForeverNormalOrange-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverWeakOrange-name = fire
-ent-RMCTileFireForeverWeakOrange-desc = That isn't going out any time soon!!
+ent-RMCTileFireForeverWeakOrange-name = огонь
+ent-RMCTileFireForeverWeakOrange-desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireStickyNapalm-name = fire
+ent-RMCTileFireStickyNapalm-name = огонь
 
-ent-RMCTileFireHCNapalm-name = fire
+ent-RMCTileFireHCNapalm-name = огонь
 
-ent-RMCTileFireNapalmE-name = fire
+ent-RMCTileFireNapalmE-name = огонь
 
-ent-RMCTileFireNapalmEX-name = fire
+ent-RMCTileFireNapalmEX-name = огонь
 
-ent-RMCTileFireR189-name = fire
+ent-RMCTileFireR189-name = огонь
 
-ent-RMCTileFireNapalmBase-name = fire
+ent-RMCTileFireNapalmBase-name = огонь
 
-ent-RMCTileFireEthanol-name = fire
+ent-RMCTileFireEthanol-name = огонь
 
-ent-RMCTileFireWeldingFuel-name = fire
+ent-RMCTileFireWeldingFuel-name = огонь
 

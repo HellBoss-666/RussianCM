@@ -1,3 +1,3 @@
-ent-WeaponShotgunM357-name = M357 Rival
-ent-WeaponShotgunM357-desc = A double barrel shotgun produced by AEGIS. Archaic, sturdy, affordable. Only holds two 12g shells at a time.
+ent-WeaponShotgunM357-name = M357 Соперник
+ent-WeaponShotgunM357-desc = Двуствольное ружье производства компании AEGIS. 
 

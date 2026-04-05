@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorISR-name = survivor isr spawn point
-ent-RMCSpawnPointSurvivorISR-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorISR-name = точка появления выжившего в ISR
+ent-RMCSpawnPointSurvivorISR-desc = Создатель заданий RMC14. 
 

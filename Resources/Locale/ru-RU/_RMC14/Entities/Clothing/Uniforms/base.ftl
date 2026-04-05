@@ -1,12 +1,12 @@
-ent-RMCUniformBase-name = lathe-category-clothing
+ent-RMCUniformBase-name = токарный станок-категория-одежда
 
-ent-RMCFoldableUniformBase-name = lathe-category-clothing
+ent-RMCFoldableUniformBase-name = токарный станок-категория-одежда
 
-ent-RMCAlternateFoldableUniformBase-name = lathe-category-clothing
+ent-RMCAlternateFoldableUniformBase-name = токарный станок-категория-одежда
 
-ent-RMCUniformSuitCoordsBase-name = lathe-category-clothing
+ent-RMCUniformSuitCoordsBase-name = токарный станок-категория-одежда
 
-ent-RMCArmoredUniformBase-name = lathe-category-clothing
+ent-RMCArmoredUniformBase-name = токарный станок-категория-одежда
 
-ent-RMCMarineUniformBase-name = lathe-category-clothing
+ent-RMCMarineUniformBase-name = токарный станок-категория-одежда
 

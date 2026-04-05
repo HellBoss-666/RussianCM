@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaGrindBarista-name = daily grind barista preset
+ent-RMCGearSurvivorPresetHybrisaGrindBarista-name = ежедневная настройка бариста
 
-ent-RMCSpawnPointSurvivorHybrisaGrindBarista-name = daily grind barista spawn point
-ent-RMCSpawnPointSurvivorHybrisaGrindBarista-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaGrindBarista-name = точка возрождения бариста ежедневного измельчения
+ent-RMCSpawnPointSurvivorHybrisaGrindBarista-desc = Создатель заданий RMC14. 
 

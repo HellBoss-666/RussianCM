@@ -1,9 +1,9 @@
-ent-RMCMagazineSMGMAC15Ext-name = item
+ent-RMCMagazineSMGMAC15Ext-name = элемент
 
-ent-RMCMagazineSMGMAC15-name = item
+ent-RMCMagazineSMGMAC15-name = элемент
 
-ent-WeaponSMGMAC15-name = MAC-15 submachinegun
-ent-WeaponSMGMAC15-desc = A cheap, reliable design and manufacture make this ubiquitous submachinegun useful despite the age.
+ent-WeaponSMGMAC15-name = Пистолет-пулемет МАК-15
+ent-WeaponSMGMAC15-desc = Дешевая, надежная конструкция и изготовление делают этот универсальный пистолет-пулемет полезным, несмотря на возраст.
 
-ent-RMCCartridge9mmSMGMAC15-name = cartridge (10x20mm)
+ent-RMCCartridge9mmSMGMAC15-name = картридж (10х20мм)
 

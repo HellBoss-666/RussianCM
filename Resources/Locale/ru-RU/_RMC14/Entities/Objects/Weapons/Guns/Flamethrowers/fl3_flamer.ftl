@@ -1,14 +1,14 @@
-ent-RMCTankFlamerFL3-name = item
+ent-RMCTankFlamerFL3-name = элемент
 
-ent-RMCWeaponFL3Flamer-name = flammenwerfer 3 heavy incineration unit
-ent-RMCWeaponFL3Flamer-desc = A heavy industrial incineration unit produced by the Weston Corporation and later by Weston-Yamada. Often found among foliage cleaning missions on frontier colonies, it usually isn't seen in combat, but is devastating when actually used.
+ent-RMCWeaponFL3Flamer-name = Тяжелая мусоросжигательная установка flammenwerfer 3
+ent-RMCWeaponFL3Flamer-desc = Тяжелая промышленная установка для сжигания отходов, произведенная Weston Corporation, а затем Weston-Yamada. 
 
-ent-RMCWeaponFL3FlamerPVE-name = flammenwerfer 3 heavy incineration unit
-ent-RMCWeaponFL3FlamerPVE-desc = A heavy industrial incineration unit produced by the Weston Corporation and later by Weston-Yamada. Often found among foliage cleaning missions on frontier colonies, it usually isn't seen in combat, but is devastating when actually used.
+ent-RMCWeaponFL3FlamerPVE-name = Тяжелая мусоросжигательная установка flammenwerfer 3
+ent-RMCWeaponFL3FlamerPVE-desc = Тяжелая промышленная установка для сжигания отходов, произведенная Weston Corporation, а затем Weston-Yamada. 
 
-ent-RMCWeaponFL3FlamerWhiteout-name = flammenwerfer 3 heavy incineration unit
-ent-RMCWeaponFL3FlamerWhiteout-desc = A heavy industrial incineration unit produced by the Weston Corporation and later by Weston-Yamada. Often found among foliage cleaning missions on frontier colonies, it usually isn't seen in combat, but is devastating when actually used.
+ent-RMCWeaponFL3FlamerWhiteout-name = Тяжелая мусоросжигательная установка flammenwerfer 3
+ent-RMCWeaponFL3FlamerWhiteout-desc = Тяжелая промышленная установка для сжигания отходов, произведенная Weston Corporation, а затем Weston-Yamada. 
 
-ent-RMCTankFlamerFL3Whiteout-name = FW3 heavy incinerator tank (EX)
-ent-RMCTankFlamerFL3Whiteout-desc = A heavy fuel tank of Ultra Thick Napthal Fuel type EX, a sticky combustible liquid chemical that burns so hot it melts straight through most flame-resistant materials, utilized by the Flammenwerfer 3 Heavy Incineration Unit. This has a blue, heat-resistant Weston-Yamada logo on it. Handle with care.
+ent-RMCTankFlamerFL3Whiteout-name = Тяжелый мусоросжигательный бак FW3 (EX)
+ent-RMCTankFlamerFL3Whiteout-desc = Тяжелый топливный бак со сверхгустым нафталевым топливом типа EX, липким горючим жидким химикатом, который горит настолько горячо, что плавится прямо через большинство огнестойких материалов, используемый тяжелой мусоросжигательной установкой Flammenwerfer 3. 
 

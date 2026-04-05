@@ -1,72 +1,72 @@
-ent-CMChairWood-name = wooden chair
-ent-CMChairWood-desc = Old is never too old to not be in fashion.
+ent-CMChairWood-name = деревянный стул
+ent-CMChairWood-desc = Старое никогда не бывает слишком старым, чтобы не быть в моде.
 
-ent-CMChairOfficeWhite-name = white office chair
-ent-CMChairOfficeWhite-desc = An office chair for sitting.
+ent-CMChairOfficeWhite-name = белый офисный стул
+ent-CMChairOfficeWhite-desc = Офисный стул для сидения.
 
-ent-CMChairOfficeDark-name = dark office chair
-ent-CMChairOfficeDark-desc = An office chair for sitting.
+ent-CMChairOfficeDark-name = темный офисный стул
+ent-CMChairOfficeDark-desc = Офисный стул для сидения.
 
-ent-RMCChairComfyAlien-name = alien chair
-ent-RMCChairComfyAlien-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-RMCChairComfyAlien-name = инопланетный стул
+ent-RMCChairComfyAlien-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-RMCChairComfyAI-name = AI interface chair
-ent-RMCChairComfyAI-desc = A functional chair designed for comfortably sitting a single person with intent to facilitate interactions with the ship AI.
+ent-RMCChairComfyAI-name = Стул с интерфейсом AI
+ent-RMCChairComfyAI-desc = Функциональное кресло, предназначенное для комфортного сидения одного человека с целью облегчить взаимодействие с искусственным интеллектом корабля.
 
-ent-CMChairComfy-name = comfy chair
-ent-CMChairComfy-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfy-name = удобный стул
+ent-CMChairComfy-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-RMCStool-name = stool
-ent-RMCStool-desc = Apply butt.
+ent-RMCStool-name = табурет
+ent-RMCStool-desc = Прикладываем приклад.
 
-ent-CMChairNonFold-name = chair
-ent-CMChairNonFold-desc = A rectangular metallic frame sitting on four legs with a back panel. Designed to fit the sitting position, more or less comfortably.
+ent-CMChairNonFold-name = стул
+ent-CMChairNonFold-desc = Прямоугольный металлический каркас на четырех ножках с задней панелью. 
 
-ent-CMChair-name = chair
-ent-CMChair-desc = A basic chair for sitting.
+ent-CMChair-name = стул
+ent-CMChair-desc = Базовый стул для сидения.
 
-ent-CMSeatBase-name = abstract chair
-ent-CMSeatBase-desc = You sit in this. Either by will or force.
+ent-CMSeatBase-name = абстрактный стул
+ent-CMSeatBase-desc = Ты сидишь в этом. 
 
-ent-CMChairFolded-name = chair
-ent-CMChairFolded-desc = A basic chair for sitting.
+ent-CMChairFolded-name = стул
+ent-CMChairFolded-desc = Базовый стул для сидения.
 
-ent-CMChairAlt-name = chair
-ent-CMChairAlt-desc = A rectangular metallic frame sitting on four legs with a back panel. Designed to fit the sitting position, more or less comfortably.
+ent-CMChairAlt-name = стул
+ent-CMChairAlt-desc = Прямоугольный металлический каркас на четырех ножках с задней панелью. 
 
-ent-CMChairComfyARES-name = comfy chair
-ent-CMChairComfyARES-desc = A functional chair designed for comfortably sitting a single person with intent to facilitate interactions with the ship AI.
+ent-CMChairComfyARES-name = удобный стул
+ent-CMChairComfyARES-desc = Функциональное кресло, предназначенное для комфортного сидения одного человека с целью облегчить взаимодействие с искусственным интеллектом корабля.
 
-ent-CMChairComfyBeige-name = comfy chair
-ent-CMChairComfyBeige-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfyBeige-name = удобный стул
+ent-CMChairComfyBeige-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-CMChairComfyBlack-name = comfy chair
-ent-CMChairComfyBlack-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfyBlack-name = удобный стул
+ent-CMChairComfyBlack-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-CMChairComfyBlue-name = comfy chair
-ent-CMChairComfyBlue-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfyBlue-name = удобный стул
+ent-CMChairComfyBlue-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-CMChairComfyLime-name = comfy chair
-ent-CMChairComfyLime-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfyLime-name = удобный стул
+ent-CMChairComfyLime-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-CMChairComfyOrange-name = comfy chair
-ent-CMChairComfyOrange-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfyOrange-name = удобный стул
+ent-CMChairComfyOrange-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-CMChairComfyTeal-name = comfy chair
-ent-CMChairComfyTeal-desc = A chair with leather padding and adjustable headrest. You could probably sit in one of these for ages.
+ent-CMChairComfyTeal-name = удобный стул
+ent-CMChairComfyTeal-desc = Стул с кожаной обивкой и регулируемым подголовником. 
 
-ent-CMChairComfyAlpha-name = comfy chair
-ent-CMChairComfyAlpha-desc = A simple chair permanently attached to the floor, with the spinning parts removed to force soldiers with low attention spans to keep still during briefings. Covered with a squeaky and way too hard faux-leather, unevenly painted in Alpha squad red. Only for the bravest and freshest Marine recruits.
+ent-CMChairComfyAlpha-name = удобный стул
+ent-CMChairComfyAlpha-desc = Простой стул, постоянно прикрепленный к полу, с удаленными вращающимися частями, чтобы заставить солдат с низкой концентрацией внимания оставаться неподвижными во время инструктажей. 
 
-ent-CMChairComfyBravo-name = comfy chair
-ent-CMChairComfyBravo-desc = A simple chair permanently attached to the floor, with the spinning parts removed to force soldiers with low attention spans to keep still during briefings. Covered with a squeaky and way too hard faux-leather, unevenly painted in Bravo squad brown. Certified fortified on all sides from enemy incursion.
+ent-CMChairComfyBravo-name = удобный стул
+ent-CMChairComfyBravo-desc = Простой стул, постоянно прикрепленный к полу, с удаленными вращающимися частями, чтобы заставить солдат с низкой концентрацией внимания оставаться неподвижными во время инструктажей. 
 
-ent-CMChairComfyCharlie-name = comfy chair
-ent-CMChairComfyCharlie-desc = A simple chair permanently attached to the floor, with the spinning parts removed to force soldiers with low attention spans to keep still during briefings. Covered with a squeaky and way too hard faux-leather, unevenly painted in Charlie squad purple. Feels out of place without a full breakfast to accompany it.
+ent-CMChairComfyCharlie-name = удобный стул
+ent-CMChairComfyCharlie-desc = Простой стул, постоянно прикрепленный к полу, с удаленными вращающимися частями, чтобы заставить солдат с низкой концентрацией внимания оставаться неподвижными во время инструктажей. 
 
-ent-CMChairComfyDelta-name = comfy chair
-ent-CMChairComfyDelta-desc = A simple chair permanently attached to the floor, with the spinning parts removed to force soldiers with low attention spans to keep still during briefings. Covered with a squeaky and way too hard faux-leather, unevenly painted in Delta squad blue. This chair is most likely to be the first to fight and first to die.
+ent-CMChairComfyDelta-name = удобный стул
+ent-CMChairComfyDelta-desc = Простой стул, постоянно прикрепленный к полу, с удаленными вращающимися частями, чтобы заставить солдат с низкой концентрацией внимания оставаться неподвижными во время инструктажей. 
 
-ent-CMChairWoodWings-name = wooden chair
-ent-CMChairWoodWings-desc = Old is never too old to not be in fashion.
+ent-CMChairWoodWings-name = деревянный стул
+ent-CMChairWoodWings-desc = Старое никогда не бывает слишком старым, чтобы не быть в моде.
 

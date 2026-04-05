@@ -1,63 +1,63 @@
-ent-CMPamphletLanguageMonkey-name = scribbled drawings
-ent-CMPamphletLanguageMonkey-desc = A piece of paper covered in crude depictions of bananas and various types of primates. Probably drawn by a three-year-old child - or an unusually intelligent marine.
+ent-CMPamphletLanguageMonkey-name = нацарапанные рисунки
+ent-CMPamphletLanguageMonkey-desc = Лист бумаги, покрытый грубыми изображениями бананов и различных видов приматов. 
 
-ent-CMPamphletLanguageXenonid-name = Xenobiologist's file
-ent-CMPamphletLanguageXenonid-desc = A xenobiologist's document recording and detailing observations on captive Xenonid communication via vocalisations and pheromones, as well as notes on attempting to reproduce them by human beings.
+ent-CMPamphletLanguageXenonid-name = Дело ксенобиолога
+ent-CMPamphletLanguageXenonid-desc = Документ ксенобиолога, в котором записаны и подробно описаны наблюдения за общением ксенонидов в плену посредством вокализации и феромонов, а также заметки о попытках воспроизвести их людьми.
 
-ent-CMPamphletLanguageYautja-name = stained parchment
-ent-CMPamphletLanguageYautja-desc = A yellowed old piece of parchment covered in strange runes from an alien writing system. The letters seem to shift back and forth into place before your eyes.
+ent-CMPamphletLanguageYautja-name = окрашенный пергамент
+ent-CMPamphletLanguageYautja-desc = Пожелтевший старый кусок пергамента, покрытый странными рунами инопланетной письменности. 
 
-ent-CMPamphletLanguageSpanish-name = America Latina - A Quick Translation Guide
-ent-CMPamphletLanguageSpanish-desc = This pamphlet was designed for Intelligence Officers to interact with the local populaces, but only for IOs who managed to sleep through Dialects and Mannerisms Class.
+ent-CMPamphletLanguageSpanish-name = Латинская Америка – Краткое руководство по переводу
+ent-CMPamphletLanguageSpanish-desc = Эта брошюра была разработана для офицеров разведки, чтобы они могли взаимодействовать с местным населением, но только для IO, которым удалось проспать уроки диалектов и маньеризмов.
 
-ent-CMPamphletLanguageGerman-name = Translated Lyrics to 99 Luftballons
-ent-CMPamphletLanguageGerman-desc = These hastily scribbled translations of 99 Luftballons, an iconic German hit of the 80s, were meant for the yearly Battalion Karaoke Night. I guess you can get some better use out of this.
+ent-CMPamphletLanguageGerman-name = Перевел текст на 99 Luftballons
+ent-CMPamphletLanguageGerman-desc = Эти наспех нацарапанные переводы культового немецкого хита 80-х годов «99 Luftballons» предназначались для ежегодного «Вечера караоке батальона». 
 
-ent-CMPamphletLanguageChinese-name = Pages from the Little Red Book
-ent-CMPamphletLanguageChinese-desc = Pages from the handbook to starting a famine that kills over 100 million of your people. Apparently this will help you learn Chinese.
+ent-CMPamphletLanguageChinese-name = Страницы из Красной книжки
+ent-CMPamphletLanguageChinese-desc = Страницы из руководства по началу голода, унесшего жизни более 100 миллионов ваших людей. 
 
-ent-CMPamphletLanguageJapanese-name = Pages of Turedobando Yohei Adobencha Zohuken
-ent-CMPamphletLanguageJapanese-desc = These are some torn pages from a famous isekai manga named 'Turedobando Yohei Adobencha Zohuken' or Japanese Mercenary Adventure Sequel about a travelling band of Freelancers sent into a fantasy world. Why do you even know this?
+ent-CMPamphletLanguageJapanese-name = Страницы Туредобандо Йохея Адобенча Зохукена
+ent-CMPamphletLanguageJapanese-desc = Это вырванные страницы из знаменитой исекай-манги под названием «Turedobando Yohei Adobencha Zohuken» или «Японское приключение наемников» о странствующей группе фрилансеров, отправленных в фантастический мир. 
 
-ent-CMPamphletLanguage-name = translation pamphlet
-ent-CMPamphletLanguage-desc = A pamphlet used by lazy Marine interpreters to quickly learn new languages on the spot.
+ent-CMPamphletLanguage-name = перевод брошюры
+ent-CMPamphletLanguage-desc = Брошюра, которую ленивые переводчики Морпеха используют для быстрого изучения новых языков на месте.
 
-ent-RMCPamphletMortarOperator-name = mortar operator instructional pamphlet
-ent-RMCPamphletMortarOperator-desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a mortar on it.
+ent-RMCPamphletMortarOperator-name = Учебная брошюра для минометчиков
+ent-RMCPamphletMortarOperator-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-RMCPamphletLoader-name = loader instructional pamphlet
-ent-RMCPamphletLoader-desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a rocket on it.
+ent-RMCPamphletLoader-name = брошюра с инструкциями по погрузчику
+ent-RMCPamphletLoader-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletIntel-name = field intelligence instructional pamphlet
-ent-CMPamphletIntel-desc = A pamphlet used to quickly impart vital knowledge. This one has an intelligence insignia.
+ent-CMPamphletIntel-name = Учебная брошюра по полевой разведке
+ent-CMPamphletIntel-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletSurgery-name = surgery instructional pamphlet
-ent-CMPamphletSurgery-desc = A pamphlet used to quickly impart vital knowledge. This one has a medical insignia.
+ent-CMPamphletSurgery-name = брошюра с инструкциями по хирургии
+ent-CMPamphletSurgery-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletPolice-name = policing instructional pamphlet
-ent-CMPamphletPolice-desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a radio on it.
+ent-CMPamphletPolice-name = брошюра с инструкциями по работе полиции
+ent-CMPamphletPolice-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletPowerloader-name = powerloader instructional pamphlet
-ent-CMPamphletPowerloader-desc = A pamphlet used to quickly impart vital knowledge. This one has a powerloader insignia. The title reads 'Moving freight and squishing heads - a practical guide to a Work Loader'.
+ent-CMPamphletPowerloader-name = брошюра с инструкциями по погрузчику
+ent-CMPamphletPowerloader-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletSpotter-name = spotter instructional pamphlet
-ent-CMPamphletSpotter-desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a pair of binoculars on it.
+ent-CMPamphletSpotter-name = Учебная брошюра для корректировщика
+ent-CMPamphletSpotter-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletJTAC-name = JTAC instructional pamphlet
-ent-CMPamphletJTAC-desc = A pamphlet used to quickly impart vital knowledge. This one has the image of a radio on it.
+ent-CMPamphletJTAC-name = Учебная брошюра JTAC
+ent-CMPamphletJTAC-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletEngineer-name = engineer instructional pamphlet
-ent-CMPamphletEngineer-desc = A pamphlet used to quickly impart vital knowledge. This one has an engineering insignia.
+ent-CMPamphletEngineer-name = учебная брошюра для инженера
+ent-CMPamphletEngineer-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphletMedical-name = medical instructional pamphlet
-ent-CMPamphletMedical-desc = A pamphlet used to quickly impart vital knowledge. This one has a medical insignia.
+ent-CMPamphletMedical-name = медицинская инструкция
+ent-CMPamphletMedical-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-CMPamphlet-name = instructional pamphlet
-ent-CMPamphlet-desc = A pamphlet used to quickly impart vital knowledge.
+ent-CMPamphlet-name = учебная брошюра
+ent-CMPamphlet-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
 
-ent-RMCPamphletHeavyMachineGunner-name = heavy machinegunner instructional pamphlet
-ent-RMCPamphletHeavyMachineGunner-desc = A pamphlet used to quickly impart vital knowledge. This one has an engineering and a machinegun insignia
+ent-RMCPamphletHeavyMachineGunner-name = Учебная брошюра для тяжелого пулеметчика
+ent-RMCPamphletHeavyMachineGunner-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 
-ent-RMCPamphletHonorGuard-name = honor guard instructional pamphlet
-ent-RMCPamphletHonorGuard-desc = A pamphlet used to quickly impart vital knowledge. This one details the responsibilities of an Honor Guard.
+ent-RMCPamphletHonorGuard-name = Учебная брошюра почетного караула
+ent-RMCPamphletHonorGuard-desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний. 
 

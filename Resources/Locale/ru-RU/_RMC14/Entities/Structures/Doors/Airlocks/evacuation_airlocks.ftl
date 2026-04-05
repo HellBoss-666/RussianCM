@@ -1,12 +1,12 @@
-ent-RMCAirlockLifeboat-name = lifeboat docking hatch
-ent-RMCAirlockLifeboat-desc = A heavyset bulkhead for a lifeboat.
+ent-RMCAirlockLifeboat-name = причальный люк для спасательной шлюпки
+ent-RMCAirlockLifeboat-desc = Тяжелая переборка для спасательной шлюпки.
 
-ent-RMCAirlockEvacuation-name = Evacuation Airlock PL-6
-ent-RMCAirlockEvacuation-desc = It opens and closes.
+ent-RMCAirlockEvacuation-name = Эвакуационный шлюз ПЛ-6
+ent-RMCAirlockEvacuation-desc = Он открывается и закрывается.
 
-ent-RMCAirlockEvacuationBlack-name = Evacuation Airlock PL-6
-ent-RMCAirlockEvacuationBlack-desc = It opens and closes.
+ent-RMCAirlockEvacuationBlack-name = Эвакуационный шлюз ПЛ-6
+ent-RMCAirlockEvacuationBlack-desc = Он открывается и закрывается.
 
-ent-RMCAirlockEvacuationWhite-name = Evacuation Airlock PL-6
-ent-RMCAirlockEvacuationWhite-desc = It opens and closes.
+ent-RMCAirlockEvacuationWhite-name = Эвакуационный шлюз ПЛ-6
+ent-RMCAirlockEvacuationWhite-desc = Он открывается и закрывается.
 

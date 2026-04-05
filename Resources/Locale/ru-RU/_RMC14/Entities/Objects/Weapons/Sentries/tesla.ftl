@@ -1,14 +1,14 @@
-ent-RMCTeslaOverclocked-name = UN 21S overclocked tesla coil
-ent-RMCTeslaOverclocked-desc = A perfected way of producing high-voltage, low-current and high-frequency electricity. Minor modifications allow it to only hit hostile targets with a devastating shock. This one is significantly overclocked, providing a lot more voltage at the cost of speed.
+ent-RMCTeslaOverclocked-name = Разогнанная катушка Тесла UN 21S
+ent-RMCTeslaOverclocked-desc = Усовершенствованный способ производства высоковольтной, слаботочной и высокочастотной электроэнергии. 
 
-ent-RMCTeslaMicro-name = UN 25S micro tesla coil
-ent-RMCTeslaMicro-desc = A perfected way of producing high-voltage, low-current and high-frequency electricity. Minor modifications allow it to only hit hostile targets with a devastating shock. This one is smaller and more lightweight.
+ent-RMCTeslaMicro-name = Катушка микротесла UN 25S
+ent-RMCTeslaMicro-desc = Усовершенствованный способ производства высоковольтной, слаботочной и высокочастотной электроэнергии. 
 
-ent-RMCTesla-name = UN 21S tesla coil
-ent-RMCTesla-desc = A perfected way of producing high-voltage, low-current and high-frequency electricity. Minor modifications allow it to only hit hostile targets with a devastating shock.
+ent-RMCTesla-name = Катушка Тесла UN 21S
+ent-RMCTesla-desc = Усовершенствованный способ производства высоковольтной, слаботочной и высокочастотной электроэнергии. 
 
-ent-RMCBaseTesla-name = item
+ent-RMCBaseTesla-name = элемент
 
-ent-RMCTeslaTSE-name = L10D tesla coil
-ent-RMCTeslaTSE-desc = A perfected way of producing high-voltage, low-current and high-frequency electricity. Minor modifications allow it to only hit hostile targets with a devastating shock.
+ent-RMCTeslaTSE-name = Катушка тесла L10D
+ent-RMCTeslaTSE-desc = Усовершенствованный способ производства высоковольтной, слаботочной и высокочастотной электроэнергии. 
 

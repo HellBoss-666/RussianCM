@@ -1,28 +1,28 @@
-ent-RMCSurgeryRemoveXenoOrgan-name = Remove xenonid organ
+ent-RMCSurgeryRemoveXenoOrgan-name = Удалить ксенонидный орган
 
-ent-RMCSurgerySevereXenoConnections-name = Sever organ connections
+ent-RMCSurgerySevereXenoConnections-name = Разорвать связи органов
 
-ent-RMCSurgeryOpenExoskeleton-name = Pry exoskeleton open
+ent-RMCSurgeryOpenExoskeleton-name = Открыть экзоскелет
 
-ent-RMCSurgeryCutExoskeleton-name = Cut exoskeleton carapace
+ent-RMCSurgeryCutExoskeleton-name = Разрезанный панцирь экзоскелета
 
-ent-CMSurgeryStepCloseIncision-name = Close incision
+ent-CMSurgeryStepCloseIncision-name = Закрыть разрез
 
 ent-CMSurgeryStepMendRibcage-name = Mend ribcage
 
-ent-CMSurgeryStepCloseBones-name = Close bones
+ent-CMSurgeryStepCloseBones-name = Близкие кости
 
-ent-CMSurgeryStepRemoveLarva-name = Remove larva
+ent-CMSurgeryStepRemoveLarva-name = Удалить личинку
 
-ent-CMSurgeryStepCutLarvaRoots-name = Cut larva roots
+ent-CMSurgeryStepCutLarvaRoots-name = Обрезать корни личинок
 
-ent-CMSurgeryStepPriseOpenBones-name = Prise the bones open
+ent-CMSurgeryStepPriseOpenBones-name = Приз кости открыты
 
-ent-CMSurgeryStepSawBones-name = Saw through bones
+ent-CMSurgeryStepSawBones-name = Распилить кости
 
-ent-CMSurgeryStepRetractSkin-name = Retract the skin
+ent-CMSurgeryStepRetractSkin-name = Втянуть кожу
 
-ent-CMSurgeryStepClampBleeders-name = Clamp the bleeders
+ent-CMSurgeryStepClampBleeders-name = Зажмите выпускные отверстия
 
-ent-CMSurgeryStepOpenIncisionScalpel-name = Cut with a scalpel
+ent-CMSurgeryStepOpenIncisionScalpel-name = Разрезать скальпелем
 

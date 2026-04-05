@@ -1,6 +1,6 @@
-ent-CMTelecomServer-name = telecommunication server
-ent-CMTelecomServer-desc = When powered and filled with encryption keys it allows radio headset communication.
+ent-CMTelecomServer-name = телекоммуникационный сервер
+ent-CMTelecomServer-desc = Когда он включен и заполнен ключами шифрования, он позволяет общаться через радиогарнитуру.
 
-ent-CMTelecomServerFilled-name = telecommunication server
-ent-CMTelecomServerFilled-desc = When powered and filled with encryption keys it allows radio headset communication.
+ent-CMTelecomServerFilled-name = телекоммуникационный сервер
+ent-CMTelecomServerFilled-desc = Когда он включен и заполнен ключами шифрования, он позволяет общаться через радиогарнитуру.
 

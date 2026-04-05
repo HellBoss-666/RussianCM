@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoCMBDeputy-name = kutjevo goon colonist preset
+ent-RMCGearSurvivorPresetKutjevoCMBDeputy-name = пресет колониста Кутьево-гуна
 
-ent-RMCSpawnPointSurvivorKutjevoCMBDeputy-name = kutjevo cmb deputy spawn point
-ent-RMCSpawnPointSurvivorKutjevoCMBDeputy-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorKutjevoCMBDeputy-name = точка появления заместителя кутьево cmb
+ent-RMCSpawnPointSurvivorKutjevoCMBDeputy-desc = Создатель заданий RMC14. 
 

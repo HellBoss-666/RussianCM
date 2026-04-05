@@ -1,42 +1,42 @@
-ent-RMCStreamerOrange-name = orange streamer
-ent-RMCStreamerOrange-desc = They flutter softly. Poignant.
+ent-RMCStreamerOrange-name = оранжевый стример
+ent-RMCStreamerOrange-desc = Они мягко порхают. 
 
-ent-RMCStreamerPole-name = pole
-ent-RMCStreamerPole-desc = It connects streamer to streamer.
+ent-RMCStreamerPole-name = столб
+ent-RMCStreamerPole-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleOffset1-name = pole
-ent-RMCStreamerPoleOffset1-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleOffset1-name = столб
+ent-RMCStreamerPoleOffset1-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleOffset2-name = pole
-ent-RMCStreamerPoleOffset2-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleOffset2-name = столб
+ent-RMCStreamerPoleOffset2-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleOffset3-name = pole
-ent-RMCStreamerPoleOffset3-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleOffset3-name = столб
+ent-RMCStreamerPoleOffset3-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleOffset4-name = pole
-ent-RMCStreamerPoleOffset4-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleOffset4-name = столб
+ent-RMCStreamerPoleOffset4-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerOrangeOffset-name = orange streamer
-ent-RMCStreamerOrangeOffset-desc = They flutter softly. Poignant.
+ent-RMCStreamerOrangeOffset-name = оранжевый стример
+ent-RMCStreamerOrangeOffset-desc = Они мягко порхают. 
 
-ent-RMCStreamerPoleHorizon-name = pole
-ent-RMCStreamerPoleHorizon-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleHorizon-name = столб
+ent-RMCStreamerPoleHorizon-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleHorizonOffset1-name = pole
-ent-RMCStreamerPoleHorizonOffset1-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleHorizonOffset1-name = столб
+ent-RMCStreamerPoleHorizonOffset1-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleHorizonOffset2-name = pole
-ent-RMCStreamerPoleHorizonOffset2-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleHorizonOffset2-name = столб
+ent-RMCStreamerPoleHorizonOffset2-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleHorizonOffset3-name = pole
-ent-RMCStreamerPoleHorizonOffset3-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleHorizonOffset3-name = столб
+ent-RMCStreamerPoleHorizonOffset3-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerPoleHorizonOffset4-name = pole
-ent-RMCStreamerPoleHorizonOffset4-desc = It connects streamer to streamer.
+ent-RMCStreamerPoleHorizonOffset4-name = столб
+ent-RMCStreamerPoleHorizonOffset4-desc = Он соединяет стример со стримером.
 
-ent-RMCStreamerHorizon-name = horizon streamer
-ent-RMCStreamerHorizon-desc = They flutter softly. Poignant.
+ent-RMCStreamerHorizon-name = серпантин горизонта
+ent-RMCStreamerHorizon-desc = Они мягко порхают. 
 
-ent-RMCStreamerHorizonOffset-name = horizon streamer
-ent-RMCStreamerHorizonOffset-desc = They flutter softly. Poignant.
+ent-RMCStreamerHorizonOffset-name = серпантин горизонта
+ent-RMCStreamerHorizonOffset-desc = Они мягко порхают. 
 

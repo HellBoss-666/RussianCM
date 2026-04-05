@@ -1,45 +1,45 @@
-ent-RMCShutterAlmayerUniformVendors-name = uniform vendor shutters
-ent-RMCShutterAlmayerUniformVendors-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerUniformVendors-name = униформа поставщиков ставней
+ent-RMCShutterAlmayerUniformVendors-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerAntiTheft-name = anti-theft shutters
-ent-RMCShutterAlmayerAntiTheft-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerAntiTheft-name = противоугонные ставни
+ent-RMCShutterAlmayerAntiTheft-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerCL-name = corporate liaison privacy shutters
-ent-RMCShutterAlmayerCL-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerCL-name = ставни конфиденциальности для корпоративных связей
+ent-RMCShutterAlmayerCL-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterBaseIndestructible-name = shutters
-ent-RMCShutterBaseIndestructible-desc = That looks like it doesn't open easily.
+ent-RMCShutterBaseIndestructible-name = ставни
+ent-RMCShutterBaseIndestructible-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterBase-name = shutters
-ent-RMCShutterBase-desc = That looks like it doesn't open easily.
+ent-RMCShutterBase-name = ставни
+ent-RMCShutterBase-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayer-name = shutters
-ent-RMCShutterAlmayer-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayer-name = ставни
+ent-RMCShutterAlmayer-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerCLDoor-name = corporate liaison privacy shutters
-ent-RMCShutterAlmayerCLDoor-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerCLDoor-name = ставни конфиденциальности для корпоративных связей
+ent-RMCShutterAlmayerCLDoor-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerCLOfficeWindows-name = corporate liaison privacy shutters
-ent-RMCShutterAlmayerCLOfficeWindows-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerCLOfficeWindows-name = ставни конфиденциальности для корпоративных связей
+ent-RMCShutterAlmayerCLOfficeWindows-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerCLQuarterMaintenance-name = corporate liaison privacy shutters
-ent-RMCShutterAlmayerCLQuarterMaintenance-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerCLQuarterMaintenance-name = ставни конфиденциальности для корпоративных связей
+ent-RMCShutterAlmayerCLQuarterMaintenance-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerCLQuarterDoor-name = corporate liaison privacy shutters
-ent-RMCShutterAlmayerCLQuarterDoor-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerCLQuarterDoor-name = ставни конфиденциальности для корпоративных связей
+ent-RMCShutterAlmayerCLQuarterDoor-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerCLQuarterWindows-name = corporate liaison privacy shutters
-ent-RMCShutterAlmayerCLQuarterWindows-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerCLQuarterWindows-name = ставни конфиденциальности для корпоративных связей
+ent-RMCShutterAlmayerCLQuarterWindows-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterAlmayerOpen-name = shutters
-ent-RMCShutterAlmayerOpen-desc = That looks like it doesn't open easily.
+ent-RMCShutterAlmayerOpen-name = ставни
+ent-RMCShutterAlmayerOpen-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterHybrisa-name = shutters
-ent-RMCShutterHybrisa-desc = That looks like it doesn't open easily.
+ent-RMCShutterHybrisa-name = ставни
+ent-RMCShutterHybrisa-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterHybrisaWindow-name = shutters
-ent-RMCShutterHybrisaWindow-desc = That looks like it doesn't open easily.
+ent-RMCShutterHybrisaWindow-name = ставни
+ent-RMCShutterHybrisaWindow-desc = Похоже, он не открывается легко.
 
-ent-RMCShutterHybrisaWindowOpen-name = shutters
-ent-RMCShutterHybrisaWindowOpen-desc = That looks like it doesn't open easily.
+ent-RMCShutterHybrisaWindowOpen-name = ставни
+ent-RMCShutterHybrisaWindowOpen-desc = Похоже, он не открывается легко.
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPMCOperatorPVE-name = weya pmc operator spawn point
-ent-RMCSpawnPointPMCOperatorPVE-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCOperatorPVE-name = точка появления оператора Weya PMC
+ent-RMCSpawnPointPMCOperatorPVE-desc = Создатель заданий RMC14. 
 

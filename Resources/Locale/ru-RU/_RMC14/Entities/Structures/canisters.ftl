@@ -1,24 +1,24 @@
-ent-RMCCanisterBrokenBase-name = broken canister
-ent-RMCCanisterBrokenBase-desc = A broken gas canister. Completely useless.
+ent-RMCCanisterBrokenBase-name = сломанная канистра
+ent-RMCCanisterBrokenBase-desc = Сломанный газовый баллон. 
 
-ent-RMCCanisterRedWhite-name = canister (N2O)
-ent-RMCCanisterRedWhite-desc = A gas canister.
+ent-RMCCanisterRedWhite-name = канистра (N2O)
+ent-RMCCanisterRedWhite-desc = Газовый баллон.
 
-ent-RMCCanisterOrange-name = canister (Phoron)
-ent-RMCCanisterOrange-desc = A gas canister.
+ent-RMCCanisterOrange-name = канистра (Форон)
+ent-RMCCanisterOrange-desc = Газовый баллон.
 
-ent-RMCCanisterRed-name = canister (N2)
-ent-RMCCanisterRed-desc = A gas canister.
+ent-RMCCanisterRed-name = канистра (N2)
+ent-RMCCanisterRed-desc = Газовый баллон.
 
-ent-RMCCanisterBlue-name = canister (O2)
-ent-RMCCanisterBlue-desc = A gas canister.
+ent-RMCCanisterBlue-name = канистра (O2)
+ent-RMCCanisterBlue-desc = Газовый баллон.
 
-ent-RMCCanisterBlack-name = canister (CO2)
-ent-RMCCanisterBlack-desc = A gas canister.
+ent-RMCCanisterBlack-name = канистра (CO2)
+ent-RMCCanisterBlack-desc = Газовый баллон.
 
-ent-RMCCanisterGrey-name = canister (Air)
-ent-RMCCanisterGrey-desc = A gas canister.
+ent-RMCCanisterGrey-name = канистра (Воздух)
+ent-RMCCanisterGrey-desc = Газовый баллон.
 
-ent-RMCCanisterBase-name = canister
-ent-RMCCanisterBase-desc = A gas canister.
+ent-RMCCanisterBase-name = канистра
+ent-RMCCanisterBase-desc = Газовый баллон.
 

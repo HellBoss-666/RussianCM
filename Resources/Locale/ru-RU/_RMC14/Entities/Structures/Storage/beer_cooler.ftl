@@ -1,9 +1,9 @@
-ent-RMCBeerCoolerBase-name = freezer crate
-ent-RMCBeerCoolerBase-desc = A cozy cooler for your beer and other beverages.
+ent-RMCBeerCoolerBase-name = ящик для заморозки
+ent-RMCBeerCoolerBase-desc = Уютный холодильник для пива и других напитков.
 
-ent-RMCBeerCooler-name = freezer crate
-ent-RMCBeerCooler-desc = A cozy cooler for your beer and other beverages.
+ent-RMCBeerCooler-name = ящик для заморозки
+ent-RMCBeerCooler-desc = Уютный холодильник для пива и других напитков.
 
-ent-RMCBeerCoolerFilled-name = freezer crate
-ent-RMCBeerCoolerFilled-desc = A cozy cooler for your beer and other beverages.
+ent-RMCBeerCoolerFilled-name = ящик для заморозки
+ent-RMCBeerCoolerFilled-desc = Уютный холодильник для пива и других напитков.
 

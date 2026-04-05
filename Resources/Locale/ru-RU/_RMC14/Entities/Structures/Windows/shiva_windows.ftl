@@ -1,9 +1,9 @@
-ent-CMWindowShivaIce-name = thin ice wall
-ent-CMWindowShivaIce-desc = It is very thin.
+ent-CMWindowShivaIce-name = тонкая ледяная стена
+ent-CMWindowShivaIce-desc = Он очень тонкий.
 
-ent-CMWindowShiva-name = poly-kevlon framed window
-ent-CMWindowShiva-desc = A semi-transparent (not entirely opaque) pane of material set into a poly-kevlon frame. Very smashable.
+ent-CMWindowShiva-name = окно с рамой из поликевлона
+ent-CMWindowShiva-desc = Полупрозрачная (не полностью непрозрачная) панель материала, заключенная в рамку из поликевлона. 
 
-ent-RMCWindowFrameShiva-name = window frame
-ent-RMCWindowFrameShiva-desc = A big hole in the wall that used to sport a large window. Can be vaulted through.
+ent-RMCWindowFrameShiva-name = оконная рама
+ent-RMCWindowFrameShiva-desc = Большая дыра в стене, в которой раньше было большое окно. 
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetFireProtectionSpecialist-name = fire protection specialist preset
+ent-RMCGearSurvivorPresetFireProtectionSpecialist-name = Предварительная настройка специалиста по пожарной безопасности
 
-ent-RMCSpawnPointSurvivorFireProtectionSpecialist-name = fire protection specialist spawn point
-ent-RMCSpawnPointSurvivorFireProtectionSpecialist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorFireProtectionSpecialist-name = Место появления специалиста по пожарной безопасности
+ent-RMCSpawnPointSurvivorFireProtectionSpecialist-desc = Создатель заданий RMC14. 
 

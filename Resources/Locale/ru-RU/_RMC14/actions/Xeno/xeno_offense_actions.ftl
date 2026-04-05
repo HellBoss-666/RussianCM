@@ -1,207 +1,207 @@
-ent-ActionXenoTumble-name = Tumble (25)
-ent-ActionXenoTumble-desc = Charge towards your side and push back the first enemy hit. Can only be used towards either side of where you are facing.
+ent-ActionXenoTumble-name = Рывок (25)
+ent-ActionXenoTumble-desc = Стремитесь к своей стороне и отбросьте первого пораженного врага.
 
-ent-ActionXenoClothesline-name = Clothesline
-ent-ActionXenoClothesline-desc = Flings a target, doing minimal damage and healing you. The amount healed is higher the more rage stacks you have.
+ent-ActionXenoClothesline-name = Бросить цель
+ent-ActionXenoClothesline-desc = Бросает цель, нанося минимальный урон и исцеляя вас.
 
-ent-ActionXenoEviscerate-name = Eviscerate
-ent-ActionXenoEviscerate-desc = Eviscerate nearby enemies after a short delay. Costs 1 rage stack.
+ent-ActionXenoEviscerate-name = Потрошить
+ent-ActionXenoEviscerate-desc = Выпотрошите ближайших врагов после небольшой задержки.
 
-ent-ActionXenoApprehend-name = Apprehend
-ent-ActionXenoApprehend-desc = Increases your movement speed and applies a slow on the next target you slash.
+ent-ActionXenoApprehend-name = Задержать
+ent-ActionXenoApprehend-desc = Увеличивает вашу скорость передвижения и замедляет следующую цель, которую вы ударите.
 
-ent-ActionXenoHeadbite-name = Headbite
-ent-ActionXenoHeadbite-desc = Instantly kills unconscious targets and heals you for 150 HP.
+ent-ActionXenoHeadbite-name = Укус головы
+ent-ActionXenoHeadbite-desc = Мгновенно убивает бессознательные цели и исцеляет вас на 150 HP.
 
-ent-ActionXenoFlurry-name = Flurry
-ent-ActionXenoFlurry-desc = An attack that has a range of 1x3 tiles, dealing damage per target and healing you.
+ent-ActionXenoFlurry-name = Шквал
+ent-ActionXenoFlurry-desc = Атака размером 1x3 плитки, наносящая урон каждой цели и исцеляющая вас.
 
-ent-ActionXenoTailJab-name = Tail Jab
-ent-ActionXenoTailJab-desc = Jab an enemy in a 2.5 tile range, doing high damage and slowing them.
+ent-ActionXenoTailJab-name = Джеб хвостом
+ent-ActionXenoTailJab-desc = Нанесите удар врагу в радиусе 2,5 клеток, нанося ему большой урон и замедляя его.
 
-ent-ActionXenoDislocate-name = Dislocate (55)
-ent-ActionXenoDislocate-desc = Punch a targeted enemy, doing some damage and pushing them back. If the target is slowed, stunned, downed, or rooted, instead roots and completely pierces armor. Reduces the cooldown of Abduct and Tail Lash.
+ent-ActionXenoDislocate-name = Вывих (55)
+ent-ActionXenoDislocate-desc = Ударьте выбранного врага, нанеся некоторый урон и оттолкнув его назад.
 
-ent-ActionXenoTailLash-name = Tail Lash (80)
-ent-ActionXenoTailLash-desc = Fling back foes in a 2x3 area in targeted direction after a very short doafter. Also slows.
+ent-ActionXenoTailLash-name = Хвостовой удар (80)
+ent-ActionXenoTailLash-desc = Отбросьте противников в области 2x3 в заданном направлении после очень короткого удара.
 
-ent-ActionXenoAbduct-name = Abduct (180)
-ent-ActionXenoAbduct-desc = Cast out a line that after a small doafter pulls in enemies towards you, disarming them. Catching 1 target slows them, 2 roots them, and 3 or more stuns them.
+ent-ActionXenoAbduct-name = Похитить (180)
+ent-ActionXenoAbduct-desc = Создайте линию, которая после небольшого уклонения притягивает к вам врагов, обезоруживая их.
 
-ent-ActionXenoTailSeize-name = Tail Seize
-ent-ActionXenoTailSeize-desc = Throw out your tail in front of you. Uses up your melee attack. Pulls in the first enemy hit to you and roots and slows them on arrival. [color=red]Has a 3-tile range![/color]
+ent-ActionXenoTailSeize-name = Захватить хвостом
+ent-ActionXenoTailSeize-desc = Выбросьте хвост перед собой.
 
-ent-ActionXenoScissorCut-name = Scissor Cut (25)
-ent-ActionXenoScissorCut-desc = Cuts enemies and fences in a straight line. If Super-Empowered, slows enemies hit too.
+ent-ActionXenoScissorCut-name = Ножницы (25)
+ent-ActionXenoScissorCut-desc = Режет врагов и ограждает по прямой.
 
-ent-ActionXenoHighGallop-name = High Gallop
-ent-ActionXenoHighGallop-desc = Stuns foes in a 2x3 area in targeted direction, and slows them. Also flings back grenades.
+ent-ActionXenoHighGallop-name = Высокий галоп
+ent-ActionXenoHighGallop-desc = Оглушает противников в области 2х3 в выбранном направлении и замедляет их.
 
-ent-ActionXenoToggleSpitType-name = Toggle Spit Type
-ent-ActionXenoToggleSpitType-desc = Toggle between Neurotoxic or Acidic spit. Neurotoxic has less range and costs 50 plasma, and knocks down the first enemy it hits. Acidic has more range and costs 25 plasma, and damages and covers in acid the first enemy it hits.
+ent-ActionXenoToggleSpitType-name = Переключить тип плевка
+ent-ActionXenoToggleSpitType-desc = Переключайтесь между нейротоксичным или кислотным плевком.
 
-ent-ActionXenoSpitQueen-name = Xeno Spit (50/25)
-ent-ActionXenoSpitQueen-desc = Launches a projectile that will either paralyze the first enemy it hits or damage them and cover them in acid.
+ent-ActionXenoSpitQueen-name = Ксено-плевок (50/25)
+ent-ActionXenoSpitQueen-desc = Выпускает снаряд, который либо парализует первого попавшегося врага, либо повредит его и покроет кислотой.
 
-ent-ActionXenoCleaveFling-name = Cleave Fling
-ent-ActionXenoCleaveFling-desc = Fling an enemy. The distance is doubled if your shield is up.
+ent-ActionXenoCleaveFling-name = Расколотый удар
+ent-ActionXenoCleaveFling-desc = Бросить врага.
 
-ent-ActionXenoCleaveRoot-name = Cleave Root
-ent-ActionXenoCleaveRoot-desc = Root an enemy for a second. The duration is higher if your shield is up.
+ent-ActionXenoCleaveRoot-name = Обездвижить
+ent-ActionXenoCleaveRoot-desc = Обездвиживает врага на секунду.
 
-ent-ActionXenoBlitz-name = Blitz (50)
-ent-ActionXenoBlitz-desc = Dash a short distance towards a given location. After 3 seconds or if you use it again before then, damages enemies around you. Hitting 1 or more recharges your shield.
+ent-ActionXenoBlitz-name = Блиц (50)
+ent-ActionXenoBlitz-desc = Сделайте рывок на небольшое расстояние в направлении заданного места.
 
-ent-ActionXenoPierce-name = Pierce (50)
-ent-ActionXenoPierce-desc = Pierce through enemies in a 3 tile range, doing high damage and piercing some armor. Hitting 2 or more recharges your shield.
+ent-ActionXenoPierce-name = Пронзить (50)
+ent-ActionXenoPierce-desc = Пронзайте врагов на расстоянии 3 клеток, нанося большой урон и пробивая некоторое количество брони.
 
-ent-ActionXenoTailTrip-name = Tail Trip (30)
-ent-ActionXenoTailTrip-desc = Disarms and dazes an unmarked enemy. Stuns and dazes for longer on a marked target, and removes the mark.
+ent-ActionXenoTailTrip-name = Ошеломить (30)
+ent-ActionXenoTailTrip-desc = Обезоруживает и ошеломляет немаркированного врага.
 
-ent-ActionXenoImpale-name = Impale (80)
-ent-ActionXenoImpale-desc = Impales an adjacent enemy with your tail. Hits twice on a marked target and removes the mark. Pierces some armor.
+ent-ActionXenoImpale-name = Прокол (80)
+ent-ActionXenoImpale-desc = Пронзает соседнего врага хвостом.
 
-ent-ActionXenoForTheHive-name = For The Hive!
-ent-ActionXenoForTheHive-desc = Prime yourself to detonate in a massive acid explosion in 20 seconds. Requires 200 acid at the minimum. The more acid reserves you have, the larger and more damaging the explosion will be. It will also coat barricades and mobs in acid, in a range equal to 1/2th the damage range. Damage is less the farther the mob is from the explosion. You will be slowed, change visually, and make an a loud wailing sound charging up. Dying will prevent the explosion from going off, but if successful you will respawn as a larva at your hive's hive core or at your corpse if theres none. Using this ability while primed will cancel the explosion at the cost of a 1/4th of your acid reserves.
+ent-ActionXenoForTheHive-name = Для Улья!
+ent-ActionXenoForTheHive-desc = Подготовьтесь к мощному взрыву кислоты за 20 секунд.
 
-ent-ActionXenoTremor-name = Tremor (100)
-ent-ActionXenoTremor-desc = Slam the ground with a 7x7 AOE, stunning all enemies in range for a short period of time.
+ent-ActionXenoTremor-name = Тремор (100)
+ent-ActionXenoTremor-desc = Ударьте по земле по площади 7x7, оглушая всех врагов в радиусе действия на короткий период времени.
 
-ent-ActionXenoAcidShroud-name = Acid Shroud
-ent-ActionXenoAcidShroud-desc = Create a small cloud of acidic or neurotoxic gas around you to cloak yourself. This will disable your other abilities for a short time to allow you to escape.
+ent-ActionXenoAcidShroud-name = Кислотный покров
+ent-ActionXenoAcidShroud-desc = Создайте вокруг себя небольшое облако кислого или нейротоксичного газа, чтобы скрыть себя.
 
-ent-ActionXenoToggleGasType-name = Toggle Gas Type
-ent-ActionXenoToggleGasType-desc = Toggle between Acid or Neurotoxic gas types. Your acidic globs will deal continual damage to anything caught in its radius, while neurotoxin will cause targets to suffocate, be slowed down and blinded, alongside eventually knocking them unconscious to be kidnapped.
+ent-ActionXenoToggleGasType-name = Переключить тип газа
+ent-ActionXenoToggleGasType-desc = Переключение между типами кислотного или нейротоксичного газа.
 
-ent-ActionXenoBombard-name = Bombard (200)
-ent-ActionXenoBombard-desc = Fire either an acidic or neurotoxic glob after a delay.
+ent-ActionXenoBombard-name = Бомбарда (200)
+ent-ActionXenoBombard-desc = После задержки выстрелите кислотным или нейротоксичным шариком.
 
-ent-ActionXenoRam-name = Ram (10)
-ent-ActionXenoRam-desc = Flings the targeted enemy a few tiles, knocking them down and damaging them.
+ent-ActionXenoRam-name = Отбросить (10)
+ent-ActionXenoRam-desc = Бросает выбранного врага на несколько плиток, сбивая его с ног и нанося урон.
 
-ent-ActionXenoToggleCharging-name = Toggle Charging
-ent-ActionXenoToggleCharging-desc = Enable charging when moving in a straight line, which increases your speed and impact damage depending on the total distance travelled.
+ent-ActionXenoToggleCharging-name = Переключить зарядку
+ent-ActionXenoToggleCharging-desc = Включите зарядку при движении по прямой, что увеличит вашу скорость и урон от удара в зависимости от общего пройденного расстояния.
 
-ent-ActionXenoCharge-name = Charge (20)
-ent-ActionXenoCharge-desc = Click on a tile you want to charge at, after a brief non cancel-able windup time. Slows around the impact area. [color=green]Cooldown is partially refunded upon attacking an enemy, scaling with the amount of enemies you cleave with your passive.[/color]
+ent-ActionXenoCharge-name = Заряд (20)
+ent-ActionXenoCharge-desc = Нажмите на плитку, с которой вы хотите произвести оплату, после короткого времени, которое невозможно отменить.
 
-ent-ActionXenoCrush-name = Crush (25)
-ent-ActionXenoCrush-desc = Slam the ground with a 7x7 AOE, slowing down and disarming all enemies in range. Deals heavy damage to targets you are on top of.
+ent-ActionXenoCrush-name = Раздавить (25)
+ent-ActionXenoCrush-desc = Ударьте по земле по площади 7x7, замедляя и обезоруживая всех врагов в радиусе действия.
 
-ent-ActionXenoStomp-name = Stomp (30)
-ent-ActionXenoStomp-desc = Slam the ground with a 5x5 AOE, slowing down and disarming all enemies in range. Deals heavy damage to targets you are on top of.
+ent-ActionXenoStomp-name = Топать (30)
+ent-ActionXenoStomp-desc = Ударьте по земле по площади 5х5, замедляя и обезоруживая всех врагов в радиусе действия.
 
-ent-ActionXenoGut-name = Gut (200)
-ent-ActionXenoGut-desc = Gibs the mob you decide to gut.
+ent-ActionXenoGut-name = Выпотрошить (200)
+ent-ActionXenoGut-desc = Гибнет моба, которого вы решили выпотрошить.
 
-ent-ActionXenoScreech-name = Screech (250)
-ent-ActionXenoScreech-desc = A wide area of effect stun, screeches upon activation. [color=red]This will also stun parasites, and is blocked by solid walls, smoke, and boiler gas, but not windows![/color]
+ent-ActionXenoScreech-name = Визг (250)
+ent-ActionXenoScreech-desc = Широкая область действия оглушает, визжит при активации.
 
-ent-ActionXenoLunge-name = Lunge
-ent-ActionXenoLunge-desc = Lunges towards the targeted enemy and grabs the first enemy hit.
+ent-ActionXenoLunge-name = Выпад
+ent-ActionXenoLunge-desc = Делает выпад в сторону выбранного врага и хватает первого попавшегося врага.
 
-ent-ActionXenoFling-name = Fling
-ent-ActionXenoFling-desc = Flings the targeted enemy a few tiles, knocking them down and damaging them.
+ent-ActionXenoFling-name = Бросок
+ent-ActionXenoFling-desc = Бросает выбранного врага на несколько плиток, сбивая его с ног и нанося урон.
 
-ent-ActionXenoPunch-name = Punch
-ent-ActionXenoPunch-desc = Punches the targeted enemy to deal a hefty amount of damage, slowing them and pushing them away.
+ent-ActionXenoPunch-name = Ударить кулаком
+ent-ActionXenoPunch-desc = Ударяет выбранного врага, нанося огромный урон, замедляя его и отталкивая.
 
-ent-ActionXenoBoneChips-name = Bone Chips
-ent-ActionXenoBoneChips-desc = Launch a projectile that will damage and slow down the first enemy it hits.
+ent-ActionXenoBoneChips-name = Костный снаряд
+ent-ActionXenoBoneChips-desc = Запустите снаряд, который нанесет урон и замедлит первого врага, в которого попадет.
 
-ent-ActionXenoCripplingStrike-name = Crippling Strike (20)
-ent-ActionXenoCripplingStrike-desc = Temporarily charge up a melee attack that will slow the first enemy it hits and do 20% more damage.
+ent-ActionXenoCripplingStrike-name = Калечащий удар (20)
+ent-ActionXenoCripplingStrike-desc = Временно зарядите атаку ближнего боя, которая замедлит первого попавшегося врага и нанесет на 20 % больше урона.
 
-ent-ActionXenoParalyzingSlash-name = Paralyzing Slash (50)
-ent-ActionXenoParalyzingSlash-desc = Temporarily charge up a melee attack that will knockdown the first enemy it hits after a short delay.
+ent-ActionXenoParalyzingSlash-name = Парализующий удар (50)
+ent-ActionXenoParalyzingSlash-desc = Временно зарядите атаку ближнего боя, которая с небольшой задержки сбивает с ног первого попавшегося врага.
 
-ent-ActionXenoAcidBall-name = Acid Ball (80)
-ent-ActionXenoAcidBall-desc = Throws a projectile that will explode into acid spit in all directions after a short delay.
+ent-ActionXenoAcidBall-name = Кислотный шар (80)
+ent-ActionXenoAcidBall-desc = Бросает снаряд, который после небольшой задержки взорвется кислотой во всех направлениях.
 
-ent-ActionXenoSprayAcidWarden-name = Spray Acid (130)
-ent-ActionXenoSprayAcidWarden-desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will coat barricades in acid![/color]
+ent-ActionXenoSprayAcidWarden-name = Спрей с кислотой (130)
+ent-ActionXenoSprayAcidWarden-desc = Распыляет кислоту вдоль земли по линии, покрывая ею плитку.
 
-ent-ActionXenoSprayAcidPraetorian-name = Spray Acid (80)
-ent-ActionXenoSprayAcidPraetorian-desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will coat barricades in acid![/color]
+ent-ActionXenoSprayAcidPraetorian-name = Спрей кислоты (80)
+ent-ActionXenoSprayAcidPraetorian-desc = Распыляет кислоту вдоль земли по линии, покрывая ею плитку.
 
-ent-ActionXenoSprayAcid-name = Spray Acid (40)
-ent-ActionXenoSprayAcid-desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will coat barricades in acid and significantly strengthen acid inflicted from Charge Spit![/color]
+ent-ActionXenoSprayAcid-name = Спрей кислоты (40)
+ent-ActionXenoSprayAcid-desc = Распыляет кислоту вдоль земли по линии, покрывая ею плитку.
 
-ent-ActionXenoChargeSpit-name = Charge Spit (50)
-ent-ActionXenoChargeSpit-desc = Charges up your next spit, making it deal more damage and coat the enemy in acid, but have less range. Increases your movement speed until the ability expires.
+ent-ActionXenoChargeSpit-name = Зарядный плевок (50)
+ent-ActionXenoChargeSpit-desc = Заряжает ваш следующий плевок, заставляя его наносить больше урона и покрывать врага кислотой, но имеет меньшую дальность действия.
 
-ent-ActionXenoSpit-name = Xeno Spit (25)
-ent-ActionXenoSpit-desc = Launches a projectile that will deal damage to the first enemy that it hits.
+ent-ActionXenoSpit-name = Ксено-плевок (25)
+ent-ActionXenoSpit-desc = Выпускает снаряд, который наносит урон первому врагу, которого он поразит.
 
-ent-ActionXenoScatteredSpit-name = Scattered Spit (20)
-ent-ActionXenoScatteredSpit-desc = Launches multiple damageless projectiles that will briefly paralyze any enemies they hit.
+ent-ActionXenoScatteredSpit-name = Рассеянная плева (20)
+ent-ActionXenoScatteredSpit-desc = Выпускает несколько безвредных снарядов, которые на короткое время парализуют любого врага, по которому они попали.
 
-ent-ActionXenoSlowingSpit-name = Slowing Spit (20)
-ent-ActionXenoSlowingSpit-desc = Launches a damageless projectile that will slow the first enemy that it hits, and paralyze them if they have no armor. It'll also drain helpful substances from their body.
+ent-ActionXenoSlowingSpit-name = Замедляющий плевок (20)
+ent-ActionXenoSlowingSpit-desc = Выпускает безвредный снаряд, который замедляет первого попавшегося врага и парализует его, если у него нет Брони.
 
-ent-ActionXenoTailSweep-name = Tail Sweep (10)
-ent-ActionXenoTailSweep-desc = Knock down any enemies close to you.
+ent-ActionXenoTailSweep-name = Взмах хвостом (10)
+ent-ActionXenoTailSweep-desc = Сбивайте с толку всех врагов, находящихся рядом с вами.
 
-ent-ActionXenoHeadbutt-name = Headbutt
-ent-ActionXenoHeadbutt-desc = Charge towards the targeted enemy and push back the first enemy hit, piercing armor slightly. Does less damage but has more knockback when crest is lowered.
+ent-ActionXenoHeadbutt-name = Удар головой
+ent-ActionXenoHeadbutt-desc = Устремитесь к выбранному врагу и отбросьте первого пораженного врага, слегка пронзив Броню.
 
-ent-ActionXenoDash-name = Dash (40)
-ent-ActionXenoDash-desc = Dash a short distance towards a given location.
+ent-ActionXenoDash-name = Дэш (40)
+ent-ActionXenoDash-desc = Сделайте рывок на небольшое расстояние в направлении заданного места.
 
-ent-ActionXenoAssault-name = Assault (25)
-ent-ActionXenoAssault-desc = Charge towards a location. Destroys some objects in your path. Melee slashes reduce assault's cooldown. If Super-Empowered, stuns and flings back the first enemy hit.
+ent-ActionXenoAssault-name = Нападение (25)
+ent-ActionXenoAssault-desc = Направьтесь в указанное место.
 
-ent-ActionXenoPounce-name = Pounce (20)
-ent-ActionXenoPounce-desc = Jump towards a given location and knock down the first enemy hit [color=red]if you are invisible.[/color]
+ent-ActionXenoPounce-name = Наброситься (20)
+ent-ActionXenoPounce-desc = Прыгните в указанное место и сбейте первого пораженного врага, [color=red], если вы невидимы.[/color]
 
-ent-ActionXenoRush-name = Rush
-ent-ActionXenoRush-desc = Jump towards a given location and slash the enemy you hit, shaking their screen.
+ent-ActionXenoRush-name = Торопиться
+ent-ActionXenoRush-desc = Прыгайте в указанное место и рубите противника, которого вы ударили, сотрясая его экран.
 
-ent-ActionXenoLeap-name = Leap
-ent-ActionXenoLeap-desc = Jump towards a given location and knock down the first enemy hit.
+ent-ActionXenoLeap-name = Прыгнуть
+ent-ActionXenoLeap-desc = Прыгните в указанное место и сбейте первого попавшегося врага.
 
-ent-ActionXenoTailStabBoiler-name = Corrosive Tail Stab
-ent-ActionXenoTailStabBoiler-desc = Launches an attack towards a given direction. The cooldown is faster if you miss. [color=red]It also injects diluted molecular acid or neurotoxin into the target, dealing damage or stunning over time. Which type depends on current gas type.[/color]
+ent-ActionXenoTailStabBoiler-name = Коррозионный удар хвостом
+ent-ActionXenoTailStabBoiler-desc = Начинает атаку в заданном направлении.
 
-ent-ActionXenoTailStabCorrosive-name = Corrosive Tail Stab
-ent-ActionXenoTailStabCorrosive-desc = Launches an attack towards a given direction. The cooldown is faster if you miss. [color=red]It also injects diluted molecular acid into the target, dealing damage over time.[/color]
+ent-ActionXenoTailStabCorrosive-name = Коррозионный удар хвостом
+ent-ActionXenoTailStabCorrosive-desc = Начинает атаку в заданном направлении.
 
-ent-ActionXenoTailSlam-name = Tail Slam
-ent-ActionXenoTailSlam-desc = Launches an attack towards a given direction. The cooldown is faster if you miss.
+ent-ActionXenoTailSlam-name = Хвостовой удар
+ent-ActionXenoTailSlam-desc = Начинает атаку в заданном направлении.
 
-ent-ActionXenoTailStab-name = Tail Stab
-ent-ActionXenoTailStab-desc = Launches an attack towards a given direction. The cooldown is faster if you miss.
+ent-ActionXenoTailStab-name = Удар хвостом
+ent-ActionXenoTailStab-desc = Начинает атаку в заданном направлении.
 
-ent-ActionXenoRegurgitate-name = Regurgitate
-ent-ActionXenoRegurgitate-desc = Eject any devoured marines.
+ent-ActionXenoRegurgitate-name = срыгивать
+ent-ActionXenoRegurgitate-desc = Выбросьте всех сожранных морских пехотинцев.
 
-ent-ActionXenoAcidAcider-name = Strong Corrosive Acid (100 acid)
-ent-ActionXenoAcidAcider-desc = Melts down barricades or items over time. You cannot melt structures.
+ent-ActionXenoAcidAcider-name = Сильная едкая кислота (100 кислота)
+ent-ActionXenoAcidAcider-desc = Со временем плавит баррикады или предметы.
 
-ent-ActionXenoAcidStrong-name = Strong Corrosive Acid (125)
-ent-ActionXenoAcidStrong-desc = Melts down a structure or item over time.
+ent-ActionXenoAcidStrong-name = Сильная едкая кислота (125)
+ent-ActionXenoAcidStrong-desc = Со временем расплавляет конструкцию или предмет.
 
-ent-ActionXenoAcidWeak-name = Weak Corrosive Acid (75)
-ent-ActionXenoAcidWeak-desc = Melts down a structure or item over time.
+ent-ActionXenoAcidWeak-name = Слабая едкая кислота (75)
+ent-ActionXenoAcidWeak-desc = Со временем расплавляет конструкцию или предмет.
 
-ent-ActionXenoAcidNormal-name = Corrosive Acid (100)
-ent-ActionXenoAcidNormal-desc = Melts down a structure or item over time.
+ent-ActionXenoAcidNormal-name = Разъедающая кислота (100)
+ent-ActionXenoAcidNormal-desc = Со временем расплавляет конструкцию или предмет.
 
-ent-ActionXenoSpitPraetorian-name = Xeno Spit (25)
-ent-ActionXenoSpitPraetorian-desc = Launches a projectile that will deal damage to the first enemy that it hits.
+ent-ActionXenoSpitPraetorian-name = Ксено-плевок (25)
+ent-ActionXenoSpitPraetorian-desc = Выпускает снаряд, который наносит урон первому врагу, которого он поразит.
 
-ent-ActionXenoSprayAcidBoiler-name = Spray Acid (40)
-ent-ActionXenoSprayAcidBoiler-desc = Sprays acid along the ground in a line, covering tiles with it. [color=red]Will coat barricades in acid![/color]
+ent-ActionXenoSprayAcidBoiler-name = Спрей кислоты (40)
+ent-ActionXenoSprayAcidBoiler-desc = Распыляет кислоту вдоль земли по линии, покрывая ею плитку.
 
-ent-ActionXenoFireSpikes-name = Fire Spikes (75 shards)
-ent-ActionXenoFireSpikes-desc = Launch 8 small shards of spikes in the direction you click.
+ent-ActionXenoFireSpikes-name = Огненные шипы (75 осколков)
+ent-ActionXenoFireSpikes-desc = Запустите 8 маленьких осколков шипов в том направлении, в котором вы щелкнете.
 
-ent-ActionXenoSpikeShed-name = Spike Shed (all shards)
-ent-ActionXenoSpikeShed-desc = Shred all of your shards to launch them all in all directions around yourself. Lose the bonus armor in the process while also gaining a speed boost. This will disable you from gaining any shards for 30 seconds. Requires 50 shards minimum
+ent-ActionXenoSpikeShed-name = Сарай с шипами (все осколки)
+ent-ActionXenoSpikeShed-desc = Разрушьте все свои осколки, чтобы разбросить их во всех направлениях вокруг себя.
 
-ent-ActionXenoRend-name = Rend (25)
-ent-ActionXenoRend-desc = Claw at enemies around you.
+ent-ActionXenoRend-name = Ренд (25)
+ent-ActionXenoRend-desc = Цепляйтесь за врагов вокруг себя.
 
-ent-ActionXenoDestroy-name = Destroy
-ent-ActionXenoDestroy-desc = After a short time, jump to the targeted location, destroying structures and gibbing hostiles within a 3x3 range. Works over barricades and other short barriers.
+ent-ActionXenoDestroy-name = Разрушать
+ent-ActionXenoDestroy-desc = Через короткое время прыгайте в указанное место, разрушая постройки и уничтожая врагов в радиусе 3х3.
 

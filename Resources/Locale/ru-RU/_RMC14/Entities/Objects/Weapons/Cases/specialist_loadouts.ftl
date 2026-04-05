@@ -1,24 +1,24 @@
-ent-RMCKitSpotter-name = kit
-ent-RMCKitSpotter-desc = It's just an ordinary box.
+ent-RMCKitSpotter-name = набор
+ent-RMCKitSpotter-desc = Это обычная коробка.
 
-ent-RMCKitLoader-name = kit
-ent-RMCKitLoader-desc = It's just an ordinary box.
+ent-RMCKitLoader-name = набор
+ent-RMCKitLoader-desc = Это обычная коробка.
 
-ent-RMCScoutSpecEquipmentCase-name = scout equipment case
-ent-RMCScoutSpecEquipmentCase-desc = A large case containing an M4SPR custom battle rifle, M3-S light armor and helmet, M4SPR battle sight, M68 thermal cloak, V3 reactive thermal tarp, ammunition and additional pieces of equipment.
+ent-RMCScoutSpecEquipmentCase-name = чемодан для разведывательного снаряжения
+ent-RMCScoutSpecEquipmentCase-desc = Большой кейс, содержащий специальную боевую винтовку M4SPR, легкие M3-S «Броня и Шлем», боевой прицел M4SPR, термоплащ M68, реактивный термобрезент V3, боеприпасы и дополнительное оборудование.
 
-ent-RMCDemoSpecEquipmentCase-name = demolitionist equipment case
-ent-RMCDemoSpecEquipmentCase-desc = A large case containing a heavy-caliber M5 Anti-Tank Launcher, reinforced M3-T light armor, five 84mm rockets, and additional pieces of equipment.
+ent-RMCDemoSpecEquipmentCase-name = чемодан для оборудования для сноса
+ent-RMCDemoSpecEquipmentCase-desc = Большой кейс, в котором находится крупнокалиберная противотанковая установка М5, усиленная легкая Броня М3-Т, пять 84-мм ракет и дополнительное оборудование.
 
-ent-RMCGrenadeSpecEquipmentCase-name = heavy grenadier equipment case
-ent-RMCGrenadeSpecEquipmentCase-desc = A large case containing a heavy-duty multi-shot M83 grenade launcher, M3-G4 grenadier armor and helmet, significant amount of various 30mm grenades and additional pieces of equipment.
+ent-RMCGrenadeSpecEquipmentCase-name = кейс для снаряжения тяжелого гренадера
+ent-RMCGrenadeSpecEquipmentCase-desc = Большой кейс, вмещающий сверхмощный многозарядный гранатомет М83, гренадерские М3-Г4 «Броня» и «Шлем», значительное количество различных 30-мм гранат и дополнительное снаряжение.
 
-ent-RMCAntiMaterielEquipmentCase-name = anti-materiel sniper equipment case
-ent-RMCAntiMaterielEquipmentCase-desc = A large case containing your very own long-range XM43E1 anti-materiel sniper rifle, M45 ghillie armor and helmet, M42 scout sight, ammunition, spotter equipment, and additional pieces of equipment.
+ent-RMCAntiMaterielEquipmentCase-name = Чемодан для противотанкового снайперского снаряжения
+ent-RMCAntiMaterielEquipmentCase-desc = Большой кейс, в котором находится ваша собственная дальнобойная противотанковая снайперская винтовка XM43E1, маскировочная Броня и Шлем M45, разведывательный прицел M42, боеприпасы, снаряжение корректировщика и дополнительное оборудование.
 
-ent-CMSniperEquipmentCase-name = sniper equipment case
-ent-CMSniperEquipmentCase-desc = A large case containing your very own long-range M96S sniper rifle, M45 ghillie armor and helmet, M42 scout sight, ammunition, spotter equipment, and additional pieces of equipment.
+ent-CMSniperEquipmentCase-name = чехол для снайперского снаряжения
+ent-CMSniperEquipmentCase-desc = Большой кейс, в котором находится ваша собственная дальнобойная снайперская винтовка M96S, маскировочная Броня и Шлем M45, разведывательный прицел M42, боеприпасы, снаряжение корректировщика и дополнительное оборудование.
 
-ent-RMCPyroSpecEquipmentCase-name = pyrotechnician equipment case
-ent-RMCPyroSpecEquipmentCase-desc = A large case containing M34-T incinerator unit, M35 pyrotechnician armor and helmet, Broiler-T flexible refueling system and additional pieces of equipment.
+ent-RMCPyroSpecEquipmentCase-name = кейс для пиротехнического оборудования
+ent-RMCPyroSpecEquipmentCase-desc = Большой кейс, в котором находится мусоросжигательная установка М34-Т, пиротехника М35 «Броня и Шлем», гибкая система дозаправки «Бройлер-Т» и дополнительное оборудование.
 

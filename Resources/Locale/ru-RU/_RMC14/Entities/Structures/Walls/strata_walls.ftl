@@ -1,21 +1,21 @@
-ent-RMCWallStrataRock-name = rock wall
-ent-RMCWallStrataRock-desc = A rough wall of hardened rock.
+ent-RMCWallStrataRock-name = каменная стена
+ent-RMCWallStrataRock-desc = Грубая стена из затвердевшего камня.
 
-ent-RMCWallStrataIce-name = ice columns
-ent-RMCWallStrataIce-desc = An absolutely massive collection of columns made of ice. The longer you stare, the deeper the ice seems to go.
+ent-RMCWallStrataIce-name = ледяные столбы
+ent-RMCWallStrataIce-desc = Совершенно массивная коллекция колонн изо льда. 
 
-ent-RMCWallStrataHull-name = heavy ribbed outpost wall
-ent-RMCWallStrataHull-desc = A thick and chunky metal wall that is, just by virtue of its placement and imposing presence, entirely indestructible.
+ent-RMCWallStrataHull-name = тяжелая ребристая стена заставы
+ent-RMCWallStrataHull-desc = Толстая и массивная металлическая стена, которая, благодаря своему расположению и внушительному внешнему виду, совершенно неразрушима.
 
-ent-RMCWallStrataReinforced-name = ribbed outpost wall
-ent-RMCWallStrataReinforced-desc = A thick and chunky metal wall covered in jagged ribs.
+ent-RMCWallStrataReinforced-name = ребристая стена заставы
+ent-RMCWallStrataReinforced-desc = Толстая и массивная металлическая стена, покрытая неровными ребрами.
 
-ent-RMCWallStrata-name = bare outpost wall
-ent-RMCWallStrata-desc = A thick and chunky metal wall. The surface is barren and imposing.
+ent-RMCWallStrata-name = голая стена заставы
+ent-RMCWallStrata-desc = Толстая и массивная металлическая стена. 
 
-ent-RMCWallStrataIceDirty-name = ice columns
-ent-RMCWallStrataIceDirty-desc = An absolutely massive collection of columns made of ice. The longer you stare, the deeper the ice seems to go.
+ent-RMCWallStrataIceDirty-name = ледяные столбы
+ent-RMCWallStrataIceDirty-desc = Совершенно массивная коллекция колонн изо льда. 
 
-ent-RMCWallStrataRockTimed-name = rock wall
-ent-RMCWallStrataRockTimed-desc = A rough wall of hardened rock.
+ent-RMCWallStrataRockTimed-name = каменная стена
+ent-RMCWallStrataRockTimed-desc = Грубая стена из затвердевшего камня.
 

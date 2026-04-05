@@ -1,17 +1,17 @@
-ent-RMCDropshipAttachmentParaDrop-name = HPU-1 paradrop deployment system
+ent-RMCDropshipAttachmentParaDrop-name = Система парашютного развертывания ГПУ-1
 
-ent-RMCDropshipAttachmentFulton-name = RMU-19 fulton recovery system
-ent-RMCDropshipAttachmentFulton-desc = A winch system to collect any fulton recovery balloons in high altitude. Make sure you turn it on!
+ent-RMCDropshipAttachmentFulton-name = Система восстановления Фултона РМУ-19
+ent-RMCDropshipAttachmentFulton-desc = Лебедочная система для сбора любых восстанавливаемых шаров Фултон на большой высоте. 
 
-ent-RMCDropshipAttachmentMedevac-name = RMU-4M medevac system
-ent-RMCDropshipAttachmentMedevac-desc = A winch system to lift injured marines on medical stretchers onto the dropship. Attaches to the crew served attach point at the back of the drop-ship.
+ent-RMCDropshipAttachmentMedevac-name = Система медицинской эвакуации РМУ-4М
+ent-RMCDropshipAttachmentMedevac-desc = Лебедочная система для подъема раненых морских пехотинцев на медицинских носилках на десантный корабль. 
 
-ent-RMCDropshipAttachmentDoorGun-name = MTU-4B Door Gunner Hardpoint System
-ent-RMCDropshipAttachmentDoorGun-desc = A box that deploys a crew-served scoped M56D heavy machine gun. Fits on both the external weapon and crew compartment attach points of dropships.
+ent-RMCDropshipAttachmentDoorGun-name = Система крепления дверного стрелка MTU-4B
+ent-RMCDropshipAttachmentDoorGun-desc = Ящик, в котором размещается крупнокалиберный пулемет M56D с оптическим прицелом, обслуживаемый расчетом. 
 
-ent-RMCDropshipAttachmentSentryDefenseSystem-name = A/A-32-P Sentry Defense System
-ent-RMCDropshipAttachmentSentryDefenseSystem-desc = A box that deploys a sentry turret. Fits on both the external weapon and crew compartment attach points of dropships.
+ent-RMCDropshipAttachmentSentryDefenseSystem-name = Система сторожевой защиты А/А-32-П
+ent-RMCDropshipAttachmentSentryDefenseSystem-desc = Ящик, в котором размещается сторожевая турель. 
 
-ent-RMCDropshipAttachmentLaunchBay-name = LAG-14 internal sentry launcher
-ent-RMCDropshipAttachmentLaunchBay-desc = A launch bay to drop special ordnance. Fits inside the dropship's crew weapon emplacement. Moving this will require some sort of lifter. Accepts the A/C-49-P Air Deployable Sentry as ammunition.
+ent-RMCDropshipAttachmentLaunchBay-name = Внутренняя сторожевая пусковая установка ЛАГ-14
+ent-RMCDropshipAttachmentLaunchBay-desc = Пусковая площадка для сброса специальных боеприпасов. 
 

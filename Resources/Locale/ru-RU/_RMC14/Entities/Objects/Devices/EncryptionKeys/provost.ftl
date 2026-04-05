@@ -1,3 +1,3 @@
-ent-RMCEncryptionKeyProvost-name = provost radio encryption key
-ent-RMCEncryptionKeyProvost-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyProvost-name = ключ шифрования радиосвязи проректора
+ent-RMCEncryptionKeyProvost-desc = Ключ шифрования для радиогарнитуры.
 

@@ -1,24 +1,24 @@
-ent-RMCPelletShotgunBreaching-name = light breaching shell
-ent-RMCPelletShotgunBreaching-desc = If you can see this you're probably dead!
+ent-RMCPelletShotgunBreaching-name = легкий пробивной снаряд
+ent-RMCPelletShotgunBreaching-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunIncendiaryBuckshot-name = incendiary buckshot shell
-ent-CMPelletShotgunIncendiaryBuckshot-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunIncendiaryBuckshot-name = зажигательная картечь
+ent-CMPelletShotgunIncendiaryBuckshot-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunFlechette-name = flechette shell
-ent-CMPelletShotgunFlechette-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunFlechette-name = стрелковый снаряд
+ent-CMPelletShotgunFlechette-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunBeanbag-name = beanbag slug
-ent-CMPelletShotgunBeanbag-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunBeanbag-name = слизняк из погремушки
+ent-CMPelletShotgunBeanbag-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunIncendiary-name = incendiary slug
-ent-CMPelletShotgunIncendiary-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunIncendiary-name = зажигательная пуля
+ent-CMPelletShotgunIncendiary-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunSlug-name = slug
-ent-CMPelletShotgunSlug-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunSlug-name = слизняк
+ent-CMPelletShotgunSlug-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunBuckshot-name = buckshot
-ent-CMPelletShotgunBuckshot-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunBuckshot-name = картечь
+ent-CMPelletShotgunBuckshot-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-CMPelletShotgunBase-name = BaseBullet
-ent-CMPelletShotgunBase-desc = If you can see this you're probably dead!
+ent-CMPelletShotgunBase-name = БазаBullet
+ent-CMPelletShotgunBase-desc = Если ты это видишь, ты, вероятно, мертв!
 

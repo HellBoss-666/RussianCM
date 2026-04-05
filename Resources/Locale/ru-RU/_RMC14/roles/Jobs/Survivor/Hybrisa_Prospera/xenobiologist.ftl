@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaXenobiologist-name = xenobiologist preset
+ent-RMCGearSurvivorPresetHybrisaXenobiologist-name = пресет ксенобиолога
 
-ent-RMCSpawnPointSurvivorHybrisaXenobiologist-name = xenobiologist spawn point
-ent-RMCSpawnPointSurvivorHybrisaXenobiologist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaXenobiologist-name = точка спавна ксенобиологов
+ent-RMCSpawnPointSurvivorHybrisaXenobiologist-desc = Создатель заданий RMC14. 
 

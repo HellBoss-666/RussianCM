@@ -1,3 +1,3 @@
-ent-RMCJumpsuitHEFA-name = HEFA uniform
-ent-RMCJumpsuitHEFA-desc = Standard-issue HEFA uniform. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitHEFA-name = униформа ХЕФА
+ent-RMCJumpsuitHEFA-desc = Стандартная униформа HEFA. 
 

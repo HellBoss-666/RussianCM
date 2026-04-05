@@ -1,27 +1,27 @@
-ent-CMIDCardLanyard-name = identification holo-lanyard
-ent-CMIDCardLanyard-desc = A crude holo-lanyard. As cheap as they come.
+ent-CMIDCardLanyard-name = голо-шнур для идентификации
+ent-CMIDCardLanyard-desc = Грубый голо-шнур. 
 
-ent-CMIDCardSilver-name = silver identification holo-badge
-ent-CMIDCardSilver-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardSilver-name = серебряный идентификационный голографический бейдж
+ent-CMIDCardSilver-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-CMIDCardGold-name = gold identification holo-badge
-ent-CMIDCardGold-desc = A gold plated holo-badge which shows power and might.
+ent-CMIDCardGold-name = золотой идентификационный голографический бейдж
+ent-CMIDCardGold-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 
-ent-CMIDCardBase-name = identification holo-badge
-ent-CMIDCardBase-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardBase-name = идентификационный голографический бейдж
+ent-CMIDCardBase-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCDogtagProp-name = dog tag
-ent-RMCDogtagProp-desc = A fallen marine's dog tag, no body in sight.
+ent-RMCDogtagProp-name = жетон для собаки
+ent-RMCDogtagProp-desc = Упавший жетон Морпеха, тела не видно.
 
-ent-RMCInformationDogtag-name = information dog tag
-ent-RMCInformationDogtag-desc = A fallen marine's information dog tag.
+ent-RMCInformationDogtag-name = информационный жетон для собаки
+ent-RMCInformationDogtag-desc = Информационный жетон упавшего Морпеха.
 
-ent-RMCInformationDogtagProp-name = faded information dog tag
-ent-RMCInformationDogtagProp-desc = A fallen marine's information dog tag. It looks battered and the name is worn out.
+ent-RMCInformationDogtagProp-name = жетон с выцветшей информацией
+ent-RMCInformationDogtagProp-desc = Информационный жетон упавшего Морпеха. 
 
-ent-CMIDCardStandardDogtag-name = dog tag
-ent-CMIDCardStandardDogtag-desc = A marine dog tag.
+ent-CMIDCardStandardDogtag-name = жетон для собаки
+ent-CMIDCardStandardDogtag-desc = Жетон Морпех.
 
-ent-RMCIDCardStandardDogtagHidden-name = dog tag
-ent-RMCIDCardStandardDogtagHidden-desc = A marine dog tag.
+ent-RMCIDCardStandardDogtagHidden-name = жетон для собаки
+ent-RMCIDCardStandardDogtagHidden-desc = Жетон Морпех.
 

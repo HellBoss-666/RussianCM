@@ -1,2 +1,2 @@
-ent-CMXenoBurrower-name = cm-job-name-xeno-burrower
+ent-CMXenoBurrower-name = cm-имя-работы-xeno-burrower
 

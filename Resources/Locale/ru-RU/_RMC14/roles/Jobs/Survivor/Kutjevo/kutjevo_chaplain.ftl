@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoChaplain-name = kutjevo chaplain preset
+ent-RMCGearSurvivorPresetKutjevoChaplain-name = пресет кутьевского капеллана
 
-ent-RMCSpawnPointSurvivorKutjevoChaplain-name = survivor kutjevo chaplain spawn point
-ent-RMCSpawnPointSurvivorKutjevoChaplain-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorKutjevoChaplain-name = точка появления выжившего капеллана Кутьево
+ent-RMCSpawnPointSurvivorKutjevoChaplain-desc = Создатель заданий RMC14. 
 

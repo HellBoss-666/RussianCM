@@ -1,30 +1,30 @@
-ent-RMCEncryptionKeySunRiders-name = sun riders encryption key
-ent-RMCEncryptionKeySunRiders-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeySunRiders-name = ключ шифрования санрайдеров
+ent-RMCEncryptionKeySunRiders-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyFORECON-name = forecon encryption key
-ent-RMCEncryptionKeyFORECON-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyFORECON-name = ключ шифрования форекон
+ent-RMCEncryptionKeyFORECON-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeySOF-name = sof's encryption key
-ent-CMEncryptionKeySOF-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeySOF-name = ключ шифрования sof
+ent-CMEncryptionKeySOF-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyFoxtrot-name = foxtrot encryption key
-ent-CMEncryptionKeyFoxtrot-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyFoxtrot-name = ключ шифрования фокстрота
+ent-CMEncryptionKeyFoxtrot-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyEcho-name = echo encryption key
-ent-CMEncryptionKeyEcho-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyEcho-name = ключ эхо-шифрования
+ent-CMEncryptionKeyEcho-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyDelta-name = delta encryption key
-ent-CMEncryptionKeyDelta-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyDelta-name = ключ дельта-шифрования
+ent-CMEncryptionKeyDelta-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyCharlie-name = charlie encryption key
-ent-CMEncryptionKeyCharlie-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyCharlie-name = ключ шифрования Чарли
+ent-CMEncryptionKeyCharlie-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyBravo-name = bravo encryption key
-ent-CMEncryptionKeyBravo-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyBravo-name = ключ шифрования браво
+ent-CMEncryptionKeyBravo-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeyAlpha-name = alpha encryption key
-ent-CMEncryptionKeyAlpha-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeyAlpha-name = альфа-ключ шифрования
+ent-CMEncryptionKeyAlpha-desc = Ключ шифрования для радиогарнитуры.
 
-ent-CMEncryptionKeySquadLeader-name = squad leader's encryption key
-ent-CMEncryptionKeySquadLeader-desc = An encryption key for a radio headset.
+ent-CMEncryptionKeySquadLeader-name = ключ шифрования командира отделения
+ent-CMEncryptionKeySquadLeader-desc = Ключ шифрования для радиогарнитуры.
 

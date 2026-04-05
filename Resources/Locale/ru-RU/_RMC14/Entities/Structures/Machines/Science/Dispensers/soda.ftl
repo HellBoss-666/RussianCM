@@ -1,6 +1,6 @@
-ent-CMDispenserSoda-name = soda fountain
-ent-CMDispenserSoda-desc = A drink fabricating machine, capable of producing many sugary drinks with just one touch.
+ent-CMDispenserSoda-name = фонтанчик с газировкой
+ent-CMDispenserSoda-desc = Машина для производства напитков, способная производить множество сладких напитков одним прикосновением.
 
-ent-RMCChemStorageDrinks-name = chemical storage system
-ent-RMCChemStorageDrinks-desc = Storage system for a large supply of chemicals, which slowly recharges.
+ent-RMCChemStorageDrinks-name = система хранения химикатов
+ent-RMCChemStorageDrinks-desc = Система хранения большого запаса химикатов, которая медленно пополняется.
 

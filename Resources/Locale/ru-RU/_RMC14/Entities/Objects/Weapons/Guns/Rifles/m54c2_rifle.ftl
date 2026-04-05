@@ -1,6 +1,6 @@
-ent-RMCWeaponRifleM54C2-name = M54C assault rifle MK2
-ent-RMCWeaponRifleM54C2-desc = The standard issue rifle of the Marines. Commonly carried by most combat personnel. Uses 10x24mm caseless ammunition.
+ent-RMCWeaponRifleM54C2-name = Автомат М54С МК2
+ent-RMCWeaponRifleM54C2-desc = Стандартная винтовка морской пехоты. 
 
-ent-RMCWeaponRifleM54C2Whiteout-name = M54C assault rifle MK2
-ent-RMCWeaponRifleM54C2Whiteout-desc = The standard issue rifle of the Marines. Commonly carried by most combat personnel. Uses 10x24mm caseless ammunition.
+ent-RMCWeaponRifleM54C2Whiteout-name = Автомат М54С МК2
+ent-RMCWeaponRifleM54C2Whiteout-desc = Стандартная винтовка морской пехоты. 
 

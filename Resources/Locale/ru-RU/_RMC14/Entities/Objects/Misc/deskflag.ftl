@@ -1,3 +1,3 @@
-ent-RMCDeskFlag-name = old USMC desk flag
-ent-RMCDeskFlag-desc = A relic of a bygone era, you roughly remember learning about it in history class, the flag of the once great United States Marine Corps. Semper Fi.
+ent-RMCDeskFlag-name = старый настольный флаг морской пехоты США
+ent-RMCDeskFlag-desc = Реликвия ушедшей эпохи, вы примерно помните, как узнавали о ней на уроке истории, флаг некогда великого корпуса Морпех Соединенных Штатов. 
 

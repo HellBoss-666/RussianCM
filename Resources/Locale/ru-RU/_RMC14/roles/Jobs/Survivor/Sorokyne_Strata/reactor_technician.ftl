@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetReactorTechnician-name = reactor technician preset
+ent-RMCGearSurvivorPresetReactorTechnician-name = предустановка специалиста по реактору
 
-ent-RMCSpawnPointSurvivorReactorTechnician-name = reactor technician spawn point
-ent-RMCSpawnPointSurvivorReactorTechnician-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorReactorTechnician-name = Точка появления реакторного техника
+ent-RMCSpawnPointSurvivorReactorTechnician-desc = Создатель заданий RMC14. 
 

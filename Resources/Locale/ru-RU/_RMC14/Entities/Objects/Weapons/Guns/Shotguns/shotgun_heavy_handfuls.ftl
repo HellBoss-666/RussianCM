@@ -1,15 +1,15 @@
-ent-RMCShellShotgunIncendiaryHeavyBuckshot-name = handful of buckshot shells
-ent-RMCShellShotgunIncendiaryHeavyBuckshot-desc = A handful of rounds to reload on the go.
+ent-RMCShellShotgunIncendiaryHeavyBuckshot-name = горсть картечных гильз
+ent-RMCShellShotgunIncendiaryHeavyBuckshot-desc = Несколько патронов, которые можно перезарядить на ходу.
 
-ent-RMCShellShotgunHeavyFlechette-name = handful of shotgun shell
-ent-RMCShellShotgunHeavyFlechette-desc = A handful of rounds to reload on the go.
+ent-RMCShellShotgunHeavyFlechette-name = горсть патронов для дробовика
+ent-RMCShellShotgunHeavyFlechette-desc = Несколько патронов, которые можно перезарядить на ходу.
 
-ent-RMCShellShotgunHeavyBeanbag-name = handful of shotgun shell
-ent-RMCShellShotgunHeavyBeanbag-desc = A handful of rounds to reload on the go.
+ent-RMCShellShotgunHeavyBeanbag-name = горсть патронов для дробовика
+ent-RMCShellShotgunHeavyBeanbag-desc = Несколько патронов, которые можно перезарядить на ходу.
 
-ent-RMCShellShotgunHeavySlugs-name = handful of shotgun shell
-ent-RMCShellShotgunHeavySlugs-desc = A handful of rounds to reload on the go.
+ent-RMCShellShotgunHeavySlugs-name = горсть патронов для дробовика
+ent-RMCShellShotgunHeavySlugs-desc = Несколько патронов, которые можно перезарядить на ходу.
 
-ent-RMCShellShotgunHeavyBuckshot-name = handful of shotgun shell
-ent-RMCShellShotgunHeavyBuckshot-desc = A handful of rounds to reload on the go.
+ent-RMCShellShotgunHeavyBuckshot-name = горсть патронов для дробовика
+ent-RMCShellShotgunHeavyBuckshot-desc = Несколько патронов, которые можно перезарядить на ходу.
 

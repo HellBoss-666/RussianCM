@@ -1,3 +1,3 @@
-ent-CMSpawnPointCargoTech-name = req tech spawn point
-ent-CMSpawnPointCargoTech-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointCargoTech-name = требуется точка появления технологий
+ent-CMSpawnPointCargoTech-desc = Создатель заданий RMC14. 
 

@@ -1,18 +1,18 @@
-ent-RMCSyringeCase-name = storage item
+ent-RMCSyringeCase-name = предмет хранения
 
-ent-RMCSyringeCaseFilled-name = storage item
+ent-RMCSyringeCaseFilled-name = предмет хранения
 
-ent-RMCSyringeCaseFilledBurn-name = storage item
+ent-RMCSyringeCaseFilledBurn-name = предмет хранения
 
-ent-RMCSyringeCaseFilledToxin-name = storage item
+ent-RMCSyringeCaseFilledToxin-name = предмет хранения
 
-ent-RMCSyringeCaseFilledOxygen-name = storage item
+ent-RMCSyringeCaseFilledOxygen-name = предмет хранения
 
-ent-RMCSyringeCaseFilledRCM-name = storage item
+ent-RMCSyringeCaseFilledRCM-name = предмет хранения
 
-ent-RMCSyringeCaseFilledWhiteout-name = storage item
+ent-RMCSyringeCaseFilledWhiteout-name = предмет хранения
 
-ent-RMCSyringeCaseFilledPMC-name = storage item
+ent-RMCSyringeCaseFilledPMC-name = предмет хранения
 
-ent-RMCSyringeCaseFilledPMCLooted-name = storage item
+ent-RMCSyringeCaseFilledPMCLooted-name = предмет хранения
 

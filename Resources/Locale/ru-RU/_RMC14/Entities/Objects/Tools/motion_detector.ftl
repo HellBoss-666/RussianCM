@@ -1,6 +1,6 @@
-ent-RMCMotionDetectorCompact-name = M717 pocket motion detector
-ent-RMCMotionDetectorCompact-desc = This prototype motion detector sacrifices versatility, having only the long-range mode, for size, being so small it can even fit in pockets.
+ent-RMCMotionDetectorCompact-name = Карманный датчик движения M717
+ent-RMCMotionDetectorCompact-desc = Этот прототип детектора движения жертвует универсальностью, имея только режим дальнего действия, из-за размера, который настолько мал, что может поместиться даже в карманах.
 
-ent-RMCMotionDetector-name = motion detector
-ent-RMCMotionDetector-desc = A device that detects movement, but ignores marines.
+ent-RMCMotionDetector-name = детектор движения
+ent-RMCMotionDetector-desc = Устройство, которое обнаруживает движение, но игнорирует морских пехотинцев.
 

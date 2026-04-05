@@ -1,9 +1,9 @@
-ent-RMCOuterClothingExternalWebbing-name = external webbing
-ent-RMCOuterClothingExternalWebbing-desc = Designed to be worn over a jumpsuit rather than clipped on.
+ent-RMCOuterClothingExternalWebbing-name = внешняя лямка
+ent-RMCOuterClothingExternalWebbing-desc = Предназначен для ношения поверх комбинезона, а не для пристегивания.
 
-ent-RMCOuterClothingExternalWebbingBrown-name = external webbing
-ent-RMCOuterClothingExternalWebbingBrown-desc = Designed to be worn over a jumpsuit rather than clipped on.
+ent-RMCOuterClothingExternalWebbingBrown-name = внешняя лямка
+ent-RMCOuterClothingExternalWebbingBrown-desc = Предназначен для ношения поверх комбинезона, а не для пристегивания.
 
-ent-RMCOuterClothingExternalWebbingBlack-name = external webbing
-ent-RMCOuterClothingExternalWebbingBlack-desc = Designed to be worn over a jumpsuit rather than clipped on.
+ent-RMCOuterClothingExternalWebbingBlack-name = внешняя лямка
+ent-RMCOuterClothingExternalWebbingBlack-desc = Предназначен для ношения поверх комбинезона, а не для пристегивания.
 

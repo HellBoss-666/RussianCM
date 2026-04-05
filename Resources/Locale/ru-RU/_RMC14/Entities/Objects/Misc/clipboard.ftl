@@ -1,6 +1,6 @@
-ent-CMClipboard-name = clipboard
-ent-CMClipboard-desc = The weapon of choice for those on the front lines of bureaucracy.
+ent-CMClipboard-name = буфер обмена
+ent-CMClipboard-desc = Оружие выбора для тех, кто находится на переднем крае бюрократии.
 
-ent-RMCWeYaClipboard-name = clipboard
-ent-RMCWeYaClipboard-desc = The weapon of choice for those on the front lines of bureaucracy.
+ent-RMCWeYaClipboard-name = буфер обмена
+ent-RMCWeYaClipboard-desc = Оружие выбора для тех, кто находится на переднем крае бюрократии.
 

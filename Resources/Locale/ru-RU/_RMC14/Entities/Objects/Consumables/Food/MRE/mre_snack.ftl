@@ -1,42 +1,42 @@
-ent-CMMREFoodSushi-name = sushi
-ent-CMMREFoodSushi-desc = The contents of a Marine Standard issue MRE. This one is sushi.
+ent-CMMREFoodSushi-name = суши
+ent-CMMREFoodSushi-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodPeanuts-name = peanuts
-ent-CMMREFoodPeanuts-desc = The contents of a Marine Standard issue MRE. This one is peanuts.
+ent-CMMREFoodPeanuts-name = арахис
+ent-CMMREFoodPeanuts-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodPretzels-name = pretzels
-ent-CMMREFoodPretzels-desc = The contents of a Marine Standard issue MRE. This one is pretzels.
+ent-CMMREFoodPretzels-name = крендели с солью
+ent-CMMREFoodPretzels-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-RMCMREFoodMeatzels-name = meatzels
-ent-RMCMREFoodMeatzels-desc = The contents of a Marine Standard issue MRE. This one is.. meatzels ?
+ent-RMCMREFoodMeatzels-name = котлеты
+ent-RMCMREFoodMeatzels-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodMeatballs-name = meatballs
-ent-CMMREFoodMeatballs-desc = The contents of a Marine Standard issue MRE. This one is meatballs.
+ent-CMMREFoodMeatballs-name = фрикадельки
+ent-CMMREFoodMeatballs-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodBiscuit-name = biscuit
-ent-CMMREFoodBiscuit-desc = The contents of a Marine Standard issue MRE. This one is a biscuit.
+ent-CMMREFoodBiscuit-name = бисквит
+ent-CMMREFoodBiscuit-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREComponentSushi-name = MRE component (sushi)
-ent-CMMREComponentSushi-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is sushi.
+ent-CMMREComponentSushi-name = Компонент MRE (суши)
+ent-CMMREComponentSushi-desc = Компонент закуски MRE. 
 
-ent-CMMREComponentPeanuts-name = MRE component (peanuts)
-ent-CMMREComponentPeanuts-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is peanuts.
+ent-CMMREComponentPeanuts-name = Компонент MRE (арахис)
+ent-CMMREComponentPeanuts-desc = Компонент закуски MRE. 
 
-ent-CMMREComponentPretzels-name = MRE component (pretzels)
-ent-CMMREComponentPretzels-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is pretzels.
+ent-CMMREComponentPretzels-name = Компонент MRE (крендели)
+ent-CMMREComponentPretzels-desc = Компонент закуски MRE. 
 
-ent-RMCMREComponentMeatzels-name = MRE component (meatzels)
-ent-RMCMREComponentMeatzels-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is.. meatzels ?
+ent-RMCMREComponentMeatzels-name = Компонент MRE (котлеты)
+ent-RMCMREComponentMeatzels-desc = Компонент закуски MRE. 
 
-ent-CMMREComponentMeatballs-name = MRE component (meatballs)
-ent-CMMREComponentMeatballs-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is meatballs.
+ent-CMMREComponentMeatballs-name = Компонент MRE (фрикадельки)
+ent-CMMREComponentMeatballs-desc = Компонент закуски MRE. 
 
-ent-CMMREComponentBiscuit-name = MRE component (biscuit)
-ent-CMMREComponentBiscuit-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is biscuit.
+ent-CMMREComponentBiscuit-name = Компонент MRE (бисквит)
+ent-CMMREComponentBiscuit-desc = Компонент закуски MRE. 
 
-ent-CMMRESnackComponentBase-name = MRE component
-ent-CMMRESnackComponentBase-desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry.
+ent-CMMRESnackComponentBase-name = компонент MRE
+ent-CMMRESnackComponentBase-desc = Компонент закуски MRE. 
 
-ent-CMMREFoodSnack-name = item
-ent-CMMREFoodSnack-desc = The contents of a Marine Standard issue MRE.
+ent-CMMREFoodSnack-name = элемент
+ent-CMMREFoodSnack-desc = Содержание выпуска Морпех Standard MRE.
 

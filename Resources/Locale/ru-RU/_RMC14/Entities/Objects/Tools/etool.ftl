@@ -1,3 +1,3 @@
-ent-CMEntrenchingTool-name = entrenching tool
-ent-CMEntrenchingTool-desc = Used to dig holes and bash heads in. Folds in to fit in small spaces.
+ent-CMEntrenchingTool-name = шанцевый инструмент
+ent-CMEntrenchingTool-desc = Используется для рытья ям и ударов головами. Складывается, чтобы поместиться в небольшом пространстве.
 

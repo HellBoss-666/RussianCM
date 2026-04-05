@@ -1,3 +1,3 @@
-ent-RMCWeaponPistolHG45Marina-name = HG-45 'Marina' pistol
-ent-RMCWeaponPistolHG45Marina-desc = A version of the MK-45 requested to be made en masse to arm the CMB after passing through their lax expectations as opposed to the UNMC. Must be cocked after loading a fresh magazine, chambered in .45 Automagnum.
+ent-RMCWeaponPistolHG45Marina-name = Пистолет HG-45 «Марина»
+ent-RMCWeaponPistolHG45Marina-desc = Версия MK-45 требовалась для массового производства для вооружения CMB после того, как она не оправдала их слабых ожиданий по сравнению с UNMC. 
 

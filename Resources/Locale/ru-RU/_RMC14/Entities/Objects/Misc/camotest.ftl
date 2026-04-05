@@ -1,3 +1,3 @@
-ent-Test-name = jungle camo test
-ent-Test-desc = junjle
+ent-Test-name = тест камуфляжа в джунглях
+ent-Test-desc = Джанджл
 

@@ -1,9 +1,9 @@
-ent-RMCToolHatchet-name = hatchet
-ent-RMCToolHatchet-desc = A sharp hand hatchet, commonly used to cut things apart, be it timber or other objects. Often found in the hands of woodsmen, scouts, and looters.
+ent-RMCToolHatchet-name = топор
+ent-RMCToolHatchet-desc = Острый ручной топор, обычно используемый для разрезания предметов, будь то древесина или другие предметы. 
 
-ent-RMCToolSpade-name = spade
-ent-RMCToolSpade-desc = A small tool for digging and moving dirt.
+ent-RMCToolSpade-name = лопата
+ent-RMCToolSpade-desc = Небольшой инструмент для копания и перемещения грязи.
 
-ent-RMCToolMiniHoe-name = mini hoe
-ent-RMCToolMiniHoe-desc = It's used for removing weeds or scratching your back.
+ent-RMCToolMiniHoe-name = мини мотыга
+ent-RMCToolMiniHoe-desc = Его используют для удаления сорняков или почесывания спины.
 

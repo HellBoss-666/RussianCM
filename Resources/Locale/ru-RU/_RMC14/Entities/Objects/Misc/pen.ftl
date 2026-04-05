@@ -1,9 +1,9 @@
-ent-CMPenFountain-name = fountain pen
-ent-CMPenFountain-desc = A lavish testament to the ingenuity of AEGIS' craftsmanship, this fountain pen is a paragon of design and functionality. Detailed with golden accents and intricate mechanics, the pen allows for a swift change between a myriad of ink colors with a simple twist. A product of precision engineering, each mechanism inside the pen is designed to provide a seamless, effortless transition from one color to the next, creating an instrument of luxurious versatility.
+ent-CMPenFountain-name = авторучка
+ent-CMPenFountain-desc = Эта перьевая ручка является ярким свидетельством изобретательности мастеров AEGIS и является образцом дизайна и функциональности. 
 
-ent-CMPenClicky-name = WEYA pen
-ent-CMPenClicky-desc = It's a WEYA brand extra clicky black ink pen.
+ent-CMPenClicky-name = ВЭЯ ручка
+ent-CMPenClicky-desc = Это ручка с черными чернилами марки WEYA.
 
-ent-CMPen-name = pen
-ent-CMPen-desc = It's a normal black ink pen.
+ent-CMPen-name = ручка
+ent-CMPen-desc = Это обычная ручка с черными чернилами.
 

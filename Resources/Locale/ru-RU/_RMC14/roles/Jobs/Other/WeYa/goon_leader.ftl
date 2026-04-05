@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidWeYaGoonLead-name = weya corporate ghost role goon leader
+ent-RMCRandomHumanoidWeYaGoonLead-name = Weya Corporate Ghost роль лидера головорезов
 

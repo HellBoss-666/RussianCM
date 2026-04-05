@@ -1,7 +1,7 @@
-ent-RMCRandomHumanoidSurvivorEngineer-name = engineer colonist ghost role
+ent-RMCRandomHumanoidSurvivorEngineer-name = роль призрака инженера-колониста
 
-ent-RMCSurvivorPresetEngineer-name = engineer colonist preset
+ent-RMCSurvivorPresetEngineer-name = пресет инженера-колониста
 
-ent-RMCSpawnPointSurvivorEngineer-name = survivor engineer spawn point
-ent-RMCSpawnPointSurvivorEngineer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorEngineer-name = точка появления выжившего инженера
+ent-RMCSpawnPointSurvivorEngineer-desc = Создатель заданий RMC14. 
 

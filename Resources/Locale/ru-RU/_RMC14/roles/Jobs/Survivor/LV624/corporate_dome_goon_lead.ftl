@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetLV624CorporateDomeGoonLead-name = lv624 colonist preset
+ent-RMCGearSurvivorPresetLV624CorporateDomeGoonLead-name = Пресет колониста lv624
 
-ent-RMCSpawnPointSurvivorLV624CorporateDomeGoonLead-name = special survivor lv624 goon lead spawn point
-ent-RMCSpawnPointSurvivorLV624CorporateDomeGoonLead-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorLV624CorporateDomeGoonLead-name = Специальный выживший lv624 точка спавна головорезов
+ent-RMCSpawnPointSurvivorLV624CorporateDomeGoonLead-desc = Создатель заданий RMC14. 
 

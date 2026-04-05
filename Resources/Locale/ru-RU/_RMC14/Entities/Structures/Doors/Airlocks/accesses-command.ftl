@@ -1,22 +1,22 @@
-ent-CMAirlockSecureLockedCommand-name = secure airlock
+ent-CMAirlockSecureLockedCommand-name = безопасный шлюз
 
-ent-CMAirlockCommandLocked-name = command airlock
+ent-CMAirlockCommandLocked-name = командный шлюз
 
-ent-CMAirlockMaintCommandLocked-name = maintenance hatch
+ent-CMAirlockMaintCommandLocked-name = люк для обслуживания
 
-ent-CMAirlockCMPLocked-name = command airlock
+ent-CMAirlockCMPLocked-name = командный шлюз
 
-ent-CMAirlockQuartermasterLocked-name = command airlock
+ent-CMAirlockQuartermasterLocked-name = командный шлюз
 
-ent-CMAirlockSEALocked-name = command airlock
+ent-CMAirlockSEALocked-name = командный шлюз
 
-ent-CMAirlockCOLocked-name = command airlock
+ent-CMAirlockCOLocked-name = командный шлюз
 
-ent-CMAirlockCMOLocked-name = command airlock
+ent-CMAirlockCMOLocked-name = командный шлюз
 
-ent-CMAirlockCELocked-name = command airlock
+ent-CMAirlockCELocked-name = командный шлюз
 
-ent-CMAirlockASOLocked-name = command airlock
+ent-CMAirlockASOLocked-name = командный шлюз
 
-ent-CMAirlockHighCommandLocked-name = command airlock
+ent-CMAirlockHighCommandLocked-name = командный шлюз
 

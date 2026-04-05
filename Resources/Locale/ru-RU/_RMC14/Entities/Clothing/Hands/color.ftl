@@ -1,30 +1,30 @@
-ent-RMCHandsLeatherBlack-name = black leather gloves
-ent-RMCHandsLeatherBlack-desc = Supple, black leather gloves crafted from the finest leather. Stylish, durable, and ready for work or play.
+ent-RMCHandsLeatherBlack-name = черные кожаные перчатки
+ent-RMCHandsLeatherBlack-desc = Мягкие черные кожаные перчатки из тончайшей кожи. 
 
-ent-CMHandsBlackInsulated-name = black insulated gloves
-ent-CMHandsBlackInsulated-desc = These gloves will protect the wearer from electric shocks. Now in black.
+ent-CMHandsBlackInsulated-name = черные утепленные перчатки
+ent-CMHandsBlackInsulated-desc = Эти перчатки защитят пользователя от поражения электрическим током. 
 
-ent-RMCHandsPurple-name = purple gloves
-ent-RMCHandsPurple-desc = A pair of gloves, they don't look special in any way.
+ent-RMCHandsPurple-name = фиолетовые перчатки
+ent-RMCHandsPurple-desc = Пара перчаток, они ничем особенным не выглядят.
 
-ent-CMHandsWhiteDress-name = dress gloves
-ent-CMHandsWhiteDress-desc = A pair of fashionable white gloves, worn by marines in dress.
+ent-CMHandsWhiteDress-name = платье перчатки
+ent-CMHandsWhiteDress-desc = Пара модных белых перчаток, которые носят морские пехотинцы в форме одежды.
 
-ent-CMHandsWhite-name = white gloves
-ent-CMHandsWhite-desc = A pair of white gloves.
+ent-CMHandsWhite-name = белые перчатки
+ent-CMHandsWhite-desc = Пара белых перчаток.
 
-ent-CMHandsLightBrown-name = light brown gloves
-ent-CMHandsLightBrown-desc = A pair of light brown gloves.
+ent-CMHandsLightBrown-name = светло-коричневые перчатки
+ent-CMHandsLightBrown-desc = Пара светло-коричневых перчаток.
 
-ent-CMHandsBrown-name = brown gloves
-ent-CMHandsBrown-desc = A pair of brown gloves.
+ent-CMHandsBrown-name = коричневые перчатки
+ent-CMHandsBrown-desc = Пара коричневых перчаток.
 
-ent-CMHandsInsulated-name = insulated gloves
-ent-CMHandsInsulated-desc = These gloves will protect the wearer from electric shocks.
+ent-CMHandsInsulated-name = изолированные перчатки
+ent-CMHandsInsulated-desc = Эти перчатки защитят пользователя от поражения электрическим током.
 
-ent-RMCHandsCombat-name = combat gloves
-ent-RMCHandsCombat-desc = These tactical gloves are somewhat fire and impact resistant.
+ent-RMCHandsCombat-name = боевые перчатки
+ent-RMCHandsCombat-desc = Эти тактические перчатки в некоторой степени устойчивы к огню и ударам.
 
-ent-RMCHandsBlack-name = black gloves
-ent-RMCHandsBlack-desc = A simple pair of black gloves.
+ent-RMCHandsBlack-name = черные перчатки
+ent-RMCHandsBlack-desc = Простая пара черных перчаток.
 

@@ -1,153 +1,153 @@
-ent-RMCPodDoorButtonHybrisaCavesLockdown-name = Caves Lockdown
-ent-RMCPodDoorButtonHybrisaCavesLockdown-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonHybrisaCavesLockdown-name = Закрытие пещер
+ent-RMCPodDoorButtonHybrisaCavesLockdown-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeQuarterWindows-name = Quarter Windows Shutters
-ent-RMCPodDoorButtonWeYaOfficeQuarterWindows-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeQuarterWindows-name = Четверть оконные жалюзи
+ent-RMCPodDoorButtonWeYaOfficeQuarterWindows-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeMaintenanceDoor-name = Maintenance Door Shutter
-ent-RMCPodDoorButtonWeYaOfficeMaintenanceDoor-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeMaintenanceDoor-name = Затвор двери для обслуживания
+ent-RMCPodDoorButtonWeYaOfficeMaintenanceDoor-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeQuarterDoor-name = Quarter Door Shutter
-ent-RMCPodDoorButtonWeYaOfficeQuarterDoor-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeQuarterDoor-name = Четверть двери Ставня
+ent-RMCPodDoorButtonWeYaOfficeQuarterDoor-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeEvacPod-name = Evac Pod Door Control
-ent-RMCPodDoorButtonWeYaOfficeEvacPod-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeEvacPod-name = Управление дверью эвакуационной капсулы
+ent-RMCPodDoorButtonWeYaOfficeEvacPod-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeRoomDivider-name = Room Divider
-ent-RMCPodDoorButtonWeYaOfficeRoomDivider-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeRoomDivider-name = Перегородка
+ent-RMCPodDoorButtonWeYaOfficeRoomDivider-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeWindows-name = Office Windows Shutters
-ent-RMCPodDoorButtonWeYaOfficeWindows-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeWindows-name = Жалюзи для офисных окон
+ent-RMCPodDoorButtonWeYaOfficeWindows-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonWeYaOfficeDoor-name = Office Door Shutter
-ent-RMCPodDoorButtonWeYaOfficeDoor-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYaOfficeDoor-name = Офисная дверная ставня
+ent-RMCPodDoorButtonWeYaOfficeDoor-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonBigRed-name = button
-ent-RMCPodDoorButtonBigRed-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonBigRed-name = кнопка
+ent-RMCPodDoorButtonBigRed-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButton-name = button
-ent-RMCPodDoorButton-desc = A remote control-switch for a door.
+ent-RMCPodDoorButton-name = кнопка
+ent-RMCPodDoorButton-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonShip-name = button
-ent-RMCPodDoorButtonShip-desc = A basic button that does basic things.
+ent-RMCPodDoorButtonShip-name = кнопка
+ent-RMCPodDoorButtonShip-desc = Базовая кнопка, которая выполняет базовые действия.
 
-ent-RMCPodDoorButtonMP-name = button
-ent-RMCPodDoorButtonMP-desc = A button locked to Military Police.
+ent-RMCPodDoorButtonMP-name = кнопка
+ent-RMCPodDoorButtonMP-desc = Кнопка, привязанная к военной полиции.
 
-ent-RMCPodDoorButtonCommand-name = button
-ent-RMCPodDoorButtonCommand-desc = A basic button locked to Command.
+ent-RMCPodDoorButtonCommand-name = кнопка
+ent-RMCPodDoorButtonCommand-desc = Базовая кнопка, привязанная к команде.
 
-ent-RMCPodDoorButtonSeniorCommand-name = button
-ent-RMCPodDoorButtonSeniorCommand-desc = A basic button locked to Senior Command.
+ent-RMCPodDoorButtonSeniorCommand-name = кнопка
+ent-RMCPodDoorButtonSeniorCommand-desc = Основная кнопка, доступная только старшему командованию.
 
-ent-RMCPodDoorButtonPilot-name = button
-ent-RMCPodDoorButtonPilot-desc = A basic button locked to pilots and crew chiefs.
+ent-RMCPodDoorButtonPilot-name = кнопка
+ent-RMCPodDoorButtonPilot-desc = Базовая кнопка, предназначенная для пилотов и руководителей экипажей.
 
-ent-RMCPodDoorButtonRequisitions-name = button
-ent-RMCPodDoorButtonRequisitions-desc = A basic button locked to requisitions staff.
+ent-RMCPodDoorButtonRequisitions-name = кнопка
+ent-RMCPodDoorButtonRequisitions-desc = Базовая кнопка, доступная только персоналу, осуществляющему заявки.
 
-ent-RMCPodDoorButtonKitchen-name = button
-ent-RMCPodDoorButtonKitchen-desc = A basic button locked to kitchen staff.
+ent-RMCPodDoorButtonKitchen-name = кнопка
+ent-RMCPodDoorButtonKitchen-desc = Основная кнопка, доступная только кухонному персоналу.
 
-ent-RMCPodDoorButtonEngineering-name = button
-ent-RMCPodDoorButtonEngineering-desc = A basic button locked to engineering staff.
+ent-RMCPodDoorButtonEngineering-name = кнопка
+ent-RMCPodDoorButtonEngineering-desc = Базовая кнопка, доступная только инженерному персоналу.
 
-ent-RMCPodDoorButtonVehicle-name = button
-ent-RMCPodDoorButtonVehicle-desc = A basic button locked to Vehicle Crewmen.
+ent-RMCPodDoorButtonVehicle-name = кнопка
+ent-RMCPodDoorButtonVehicle-desc = Базовая кнопка, предназначенная только для членов экипажей транспортных средств.
 
-ent-RMCPodDoorButtonOrdnance-name = button
-ent-RMCPodDoorButtonOrdnance-desc = A basic button locked to Ordnance Techs.
+ent-RMCPodDoorButtonOrdnance-name = кнопка
+ent-RMCPodDoorButtonOrdnance-desc = Базовая кнопка, доступная только для Ordnance Techs.
 
-ent-RMCPodDoorButtonMedical-name = button
-ent-RMCPodDoorButtonMedical-desc = A basic button locked to medical staff.
+ent-RMCPodDoorButtonMedical-name = кнопка
+ent-RMCPodDoorButtonMedical-desc = Базовая кнопка, доступная медицинскому персоналу.
 
-ent-RMCPodDoorButtonMorgue-name = button
-ent-RMCPodDoorButtonMorgue-desc = A basic button locked to medical staff.
+ent-RMCPodDoorButtonMorgue-name = кнопка
+ent-RMCPodDoorButtonMorgue-desc = Базовая кнопка, доступная медицинскому персоналу.
 
-ent-RMCPodDoorButtonChemistry-name = button
-ent-RMCPodDoorButtonChemistry-desc = A basic button locked to chemistry.
+ent-RMCPodDoorButtonChemistry-name = кнопка
+ent-RMCPodDoorButtonChemistry-desc = Базовая кнопка, привязанная к химии.
 
-ent-RMCPodDoorButtonResearch-name = button
-ent-RMCPodDoorButtonResearch-desc = A basic button locked to research staff.
+ent-RMCPodDoorButtonResearch-name = кнопка
+ent-RMCPodDoorButtonResearch-desc = Базовая кнопка, доступная только исследовательскому персоналу.
 
-ent-RMCPodDoorButtonSynth-name = button
-ent-RMCPodDoorButtonSynth-desc = A basic button locked to Synthetics.
+ent-RMCPodDoorButtonSynth-name = кнопка
+ent-RMCPodDoorButtonSynth-desc = Базовая кнопка, привязанная к синтетике.
 
-ent-RMCPodDoorButtonCMO-name = button
-ent-RMCPodDoorButtonCMO-desc = A basic button locked to the Chief Medical Officer.
+ent-RMCPodDoorButtonCMO-name = кнопка
+ent-RMCPodDoorButtonCMO-desc = Основная кнопка, закрепленная за главным врачом.
 
-ent-RMCPodDoorButtonCE-name = button
-ent-RMCPodDoorButtonCE-desc = A basic button locked to the Chief Engineer.
+ent-RMCPodDoorButtonCE-name = кнопка
+ent-RMCPodDoorButtonCE-desc = Базовая кнопка, закрепленная за главным инженером.
 
-ent-RMCPodDoorButtonCO-name = button
-ent-RMCPodDoorButtonCO-desc = A basic button locked to the Commanding Officer.
+ent-RMCPodDoorButtonCO-name = кнопка
+ent-RMCPodDoorButtonCO-desc = Основная кнопка, закрепленная за командиром.
 
-ent-RMCPodDoorButtonSEA-name = button
-ent-RMCPodDoorButtonSEA-desc = A basic button locked to Senior Enlisted Advisors.
+ent-RMCPodDoorButtonSEA-name = кнопка
+ent-RMCPodDoorButtonSEA-desc = Базовая кнопка, доступная только старшим зачисленным советникам.
 
-ent-RMCPodDoorButtonArmory-name = button
-ent-RMCPodDoorButtonArmory-desc = A basic button locked to Armory.
+ent-RMCPodDoorButtonArmory-name = кнопка
+ent-RMCPodDoorButtonArmory-desc = Основная кнопка, привязанная к Оружейной.
 
-ent-RMCPodDoorButtonBigRedShip-name = button
-ent-RMCPodDoorButtonBigRedShip-desc = A basic button that does basic things.
+ent-RMCPodDoorButtonBigRedShip-name = кнопка
+ent-RMCPodDoorButtonBigRedShip-desc = Базовая кнопка, которая выполняет базовые действия.
 
-ent-RMCPodDoorButtonBigRedMP-name = button
-ent-RMCPodDoorButtonBigRedMP-desc = A button locked to Military Police.
+ent-RMCPodDoorButtonBigRedMP-name = кнопка
+ent-RMCPodDoorButtonBigRedMP-desc = Кнопка, привязанная к военной полиции.
 
-ent-RMCPodDoorButtonBigRedCommand-name = button
-ent-RMCPodDoorButtonBigRedCommand-desc = A basic button locked to Command.
+ent-RMCPodDoorButtonBigRedCommand-name = кнопка
+ent-RMCPodDoorButtonBigRedCommand-desc = Базовая кнопка, привязанная к команде.
 
-ent-RMCPodDoorButtonBigRedSeniorCommand-name = button
-ent-RMCPodDoorButtonBigRedSeniorCommand-desc = A basic button locked to Senior Command.
+ent-RMCPodDoorButtonBigRedSeniorCommand-name = кнопка
+ent-RMCPodDoorButtonBigRedSeniorCommand-desc = Основная кнопка, доступная только старшему командованию.
 
-ent-RMCPodDoorButtonBigRedPilot-name = button
-ent-RMCPodDoorButtonBigRedPilot-desc = A basic button locked to pilots and crew chiefs.
+ent-RMCPodDoorButtonBigRedPilot-name = кнопка
+ent-RMCPodDoorButtonBigRedPilot-desc = Базовая кнопка, предназначенная для пилотов и руководителей экипажей.
 
-ent-RMCPodDoorButtonBigRedRequisitions-name = button
-ent-RMCPodDoorButtonBigRedRequisitions-desc = A basic button locked to requisitions staff.
+ent-RMCPodDoorButtonBigRedRequisitions-name = кнопка
+ent-RMCPodDoorButtonBigRedRequisitions-desc = Базовая кнопка, доступная только персоналу, осуществляющему заявки.
 
-ent-RMCPodDoorButtonBigRedKitchen-name = button
-ent-RMCPodDoorButtonBigRedKitchen-desc = A basic button locked to kitchen staff.
+ent-RMCPodDoorButtonBigRedKitchen-name = кнопка
+ent-RMCPodDoorButtonBigRedKitchen-desc = Основная кнопка, доступная только кухонному персоналу.
 
-ent-RMCPodDoorButtonBigRedEngineering-name = button
-ent-RMCPodDoorButtonBigRedEngineering-desc = A basic button locked to engineering staff.
+ent-RMCPodDoorButtonBigRedEngineering-name = кнопка
+ent-RMCPodDoorButtonBigRedEngineering-desc = Базовая кнопка, доступная только инженерному персоналу.
 
-ent-RMCPodDoorButtonBigRedVehicle-name = button
-ent-RMCPodDoorButtonBigRedVehicle-desc = A basic button locked to Vehicle Crewmen.
+ent-RMCPodDoorButtonBigRedVehicle-name = кнопка
+ent-RMCPodDoorButtonBigRedVehicle-desc = Базовая кнопка, предназначенная только для членов экипажей транспортных средств.
 
-ent-RMCPodDoorButtonBigRedOrdnance-name = button
-ent-RMCPodDoorButtonBigRedOrdnance-desc = A basic button locked to Ordnance Techs.
+ent-RMCPodDoorButtonBigRedOrdnance-name = кнопка
+ent-RMCPodDoorButtonBigRedOrdnance-desc = Базовая кнопка, доступная только для Ordnance Techs.
 
-ent-RMCPodDoorButtonBigRedMedical-name = button
-ent-RMCPodDoorButtonBigRedMedical-desc = A basic button locked to medical staff.
+ent-RMCPodDoorButtonBigRedMedical-name = кнопка
+ent-RMCPodDoorButtonBigRedMedical-desc = Базовая кнопка, доступная медицинскому персоналу.
 
-ent-RMCPodDoorButtonBigRedChemistry-name = button
-ent-RMCPodDoorButtonBigRedChemistry-desc = A basic button locked to chemistry.
+ent-RMCPodDoorButtonBigRedChemistry-name = кнопка
+ent-RMCPodDoorButtonBigRedChemistry-desc = Базовая кнопка, привязанная к химии.
 
-ent-RMCPodDoorButtonBigRedResearch-name = button
-ent-RMCPodDoorButtonBigRedResearch-desc = A basic button locked to research staff.
+ent-RMCPodDoorButtonBigRedResearch-name = кнопка
+ent-RMCPodDoorButtonBigRedResearch-desc = Базовая кнопка, доступная только исследовательскому персоналу.
 
-ent-RMCPodDoorButtonBigRedSynth-name = button
-ent-RMCPodDoorButtonBigRedSynth-desc = A basic button locked to Synthetics.
+ent-RMCPodDoorButtonBigRedSynth-name = кнопка
+ent-RMCPodDoorButtonBigRedSynth-desc = Базовая кнопка, привязанная к синтетике.
 
-ent-RMCPodDoorButtonBigRedCMO-name = button
-ent-RMCPodDoorButtonBigRedCMO-desc = A basic button locked to the Chief Medical Officer.
+ent-RMCPodDoorButtonBigRedCMO-name = кнопка
+ent-RMCPodDoorButtonBigRedCMO-desc = Основная кнопка, закрепленная за главным врачом.
 
-ent-RMCPodDoorButtonBigRedCE-name = button
-ent-RMCPodDoorButtonBigRedCE-desc = A basic button locked to the Chief Engineer.
+ent-RMCPodDoorButtonBigRedCE-name = кнопка
+ent-RMCPodDoorButtonBigRedCE-desc = Базовая кнопка, закрепленная за главным инженером.
 
-ent-RMCPodDoorButtonBigRedCO-name = button
-ent-RMCPodDoorButtonBigRedCO-desc = A basic button locked to the Commanding Officer.
+ent-RMCPodDoorButtonBigRedCO-name = кнопка
+ent-RMCPodDoorButtonBigRedCO-desc = Основная кнопка, закрепленная за командиром.
 
-ent-RMCPodDoorButtonBigRedSEA-name = button
-ent-RMCPodDoorButtonBigRedSEA-desc = A basic button locked to Senior Enlisted Advisors.
+ent-RMCPodDoorButtonBigRedSEA-name = кнопка
+ent-RMCPodDoorButtonBigRedSEA-desc = Базовая кнопка, доступная только старшим зачисленным советникам.
 
-ent-RMCPodDoorButtonBigRedArmory-name = button
-ent-RMCPodDoorButtonBigRedArmory-desc = A basic button locked to Armory.
+ent-RMCPodDoorButtonBigRedArmory-name = кнопка
+ent-RMCPodDoorButtonBigRedArmory-desc = Основная кнопка, привязанная к Оружейной.
 
-ent-RMCPodDoorButtonWeYa-name = button
-ent-RMCPodDoorButtonWeYa-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonWeYa-name = кнопка
+ent-RMCPodDoorButtonWeYa-desc = Пульт-выключатель для двери.
 
-ent-RMCPodDoorButtonSPP-name = button
-ent-RMCPodDoorButtonSPP-desc = A remote control-switch for a door.
+ent-RMCPodDoorButtonSPP-name = кнопка
+ent-RMCPodDoorButtonSPP-desc = Пульт-выключатель для двери.
 

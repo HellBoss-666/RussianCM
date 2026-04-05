@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVECorpsman-name = forecon corpsman spawn point
-ent-RMCSpawnPointFORECONPVECorpsman-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointFORECONPVECorpsman-name = точка появления санитара форэкона
+ent-RMCSpawnPointFORECONPVECorpsman-desc = Создатель заданий RMC14. 
 

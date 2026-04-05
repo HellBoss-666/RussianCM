@@ -1,9 +1,9 @@
-ent-RMCSyringeInaprovaline-name = syringe
-ent-RMCSyringeInaprovaline-desc = Contains inaprovaline - used to stabilize patients.
+ent-RMCSyringeInaprovaline-name = шприц
+ent-RMCSyringeInaprovaline-desc = Содержит инапровалин – используется для стабилизации состояния пациентов.
 
-ent-RMCSyringeDylovene-name = syringe
-ent-RMCSyringeDylovene-desc = Contains anti-toxins.
+ent-RMCSyringeDylovene-name = шприц
+ent-RMCSyringeDylovene-desc = Содержит антитоксины.
 
-ent-RMCSyringeDrugs-name = syringe
-ent-RMCSyringeDrugs-desc = Contains aggressive drugs meant for torture.
+ent-RMCSyringeDrugs-name = шприц
+ent-RMCSyringeDrugs-desc = Содержит агрессивные наркотики, предназначенные для пыток.
 

@@ -1,6 +1,6 @@
-ent-RMCBarricadeStacked-name = metal Barricades
-ent-RMCBarricadeStacked-desc = Two metal barricades stacked ontop of eachother to make a makeshift wall.
+ent-RMCBarricadeStacked-name = металлические баррикады
+ent-RMCBarricadeStacked-desc = Две металлические баррикады, поставленные друг на друга, образовывали импровизированную стену.
 
-ent-RMCBarricadeStackedFlipped-name = metal Barricades
-ent-RMCBarricadeStackedFlipped-desc = Two metal barricades stacked ontop of eachother to make a makeshift wall.
+ent-RMCBarricadeStackedFlipped-name = металлические баррикады
+ent-RMCBarricadeStackedFlipped-desc = Две металлические баррикады, поставленные друг на друга, образовывали импровизированную стену.
 

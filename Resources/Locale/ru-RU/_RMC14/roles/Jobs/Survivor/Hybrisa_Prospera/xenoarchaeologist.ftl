@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaXenoarchaeologist-name = xenoarchaeologist preset
+ent-RMCGearSurvivorPresetHybrisaXenoarchaeologist-name = пресет ксеноархеолога
 
-ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist-name = xenoarchaeologist spawn point
-ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist-name = точка спавна ксеноархеологов
+ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist-desc = Создатель заданий RMC14. 
 

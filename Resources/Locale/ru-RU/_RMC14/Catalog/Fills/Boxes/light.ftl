@@ -1,3 +1,3 @@
-ent-RMCBoxLightsMixed-name = box of replacement lights
-ent-RMCBoxLightsMixed-desc = This box is shaped on the inside so that only light tubes and bulbs fit.
+ent-RMCBoxLightsMixed-name = коробка с запасными лампами
+ent-RMCBoxLightsMixed-desc = Эта коробка имеет такую ​​внутреннюю форму, что в нее помещаются только осветительные трубки и лампочки.
 

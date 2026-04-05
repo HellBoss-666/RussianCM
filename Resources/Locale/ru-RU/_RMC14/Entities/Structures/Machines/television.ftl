@@ -1,9 +1,9 @@
-ent-RMCCircuitboardTelevision-name = circuit board (television set)
-ent-RMCCircuitboardTelevision-desc = A machine printed circuit board for a television set.
+ent-RMCCircuitboardTelevision-name = печатная плата (телевизор)
+ent-RMCCircuitboardTelevision-desc = Машинная печатная плата для телевизора.
 
-ent-RMCTelevision-name = television set
-ent-RMCTelevision-desc = An old TV hooked up to a video cassette recorder, you can even use it to time shift WOW.
+ent-RMCTelevision-name = телевизор
+ent-RMCTelevision-desc = Старый телевизор, подключенный к видеомагнитофону, с его помощью даже можно сдвигать время. ВАУ.
 
-ent-RMCTelevisionWallMount-name = television set
-ent-RMCTelevisionWallMount-desc = An old TV hooked up to a video cassette recorder, you can even use it to time shift WOW.
+ent-RMCTelevisionWallMount-name = телевизор
+ent-RMCTelevisionWallMount-desc = Старый телевизор, подключенный к видеомагнитофону, с его помощью даже можно сдвигать время. ВАУ.
 

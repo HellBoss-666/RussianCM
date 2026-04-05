@@ -1,27 +1,27 @@
-ent-RMCColonyLiberationFrontCup-name = CLF mug
-ent-RMCColonyLiberationFrontCup-desc = A tough, well-worn cup marked with the CLF sigil born from the defiance sparked by the Fires of Kharis.
+ent-RMCColonyLiberationFrontCup-name = кружка CLF
+ent-RMCColonyLiberationFrontCup-desc = Прочная, потертая чаша с символом CLF, рожденная в результате неповиновения, вызванного Огнями Хариса.
 
-ent-RMCWestonYamadaCup-name = WEYA mug
-ent-RMCWestonYamadaCup-desc = A clean, stylish cup with the logo of the Weston-Yamada Corporation branded on the side. Used throughout the company hierarchy, from interns to division directors.
+ent-RMCWestonYamadaCup-name = ВЭЯ кружка
+ent-RMCWestonYamadaCup-desc = Чистая, стильная чашка с логотипом корпорации Weston-Yamada сбоку. 
 
-ent-RMCUnitedNationsCup-name = UN mug
-ent-RMCUnitedNationsCup-desc = A sleek, official UN cup, symbolizing unity, order, and authority across the stars. Crafted for those who uphold peace and progress.
+ent-RMCUnitedNationsCup-name = ООН кружка
+ent-RMCUnitedNationsCup-desc = Изящный официальный кубок ООН, символизирующий единство, порядок и власть среди звезд. 
 
-ent-RMCSocialistPPCup-name = SPP mug
-ent-RMCSocialistPPCup-desc = A tough, crimson cup stamped with the SPP emblem—built like a real krepky muzhik, ready to serve comrades in toil and glory among the stars.
+ent-RMCSocialistPPCup-name = СПП кружка
+ent-RMCSocialistPPCup-desc = Крепкий малиновый кубок с гербом СПП, сложенный как настоящий крепкий мужик, готовый служить товарищам по труду и славе среди звезд.
 
-ent-RMCMarineCorpsCup-name = UNMC mug
-ent-RMCMarineCorpsCup-desc = A rugged, military-grade mug featuring the UNMC insignia, built for endurance in any deployment—whether aboard a ship or in the field.
+ent-RMCMarineCorpsCup-name = кружка УНМК
+ent-RMCMarineCorpsCup-desc = Прочная кружка военного уровня с эмблемой UNMC, рассчитанная на выносливость в любых условиях — будь то на борту корабля или в полевых условиях.
 
-ent-RMCCoffeeCup-name = mug
-ent-RMCCoffeeCup-desc = A ceramic mug. Practically guaranteed to fall and spill scalding-hot drink onto your brand-new shirt. Ouch.
+ent-RMCCoffeeCup-name = кружка
+ent-RMCCoffeeCup-desc = Керамическая кружка. 
 
-ent-RMCCoffeeCupFilled-name = mug
-ent-RMCCoffeeCupFilled-desc = A ceramic mug. Practically guaranteed to fall and spill scalding-hot drink onto your brand-new shirt. Ouch.
+ent-RMCCoffeeCupFilled-name = кружка
+ent-RMCCoffeeCupFilled-desc = Керамическая кружка. 
 
-ent-RMCThreeSunEmpireCup-name = TSE mug
-ent-RMCThreeSunEmpireCup-desc = A well-crafted, sleek mug with the icon of the Three Sun Empire on it's side. Excellent for those who serve and live under the Empress and her Empire.
+ent-RMCThreeSunEmpireCup-name = кружка ТСЭ
+ent-RMCThreeSunEmpireCup-desc = Изящная, изящная кружка с изображением Империи Трех Солнц на боку. 
 
-ent-RMCPaperCup-name = paper cup
-ent-RMCPaperCup-desc = A paper water cup.
+ent-RMCPaperCup-name = бумажный стаканчик
+ent-RMCPaperCup-desc = Бумажный стаканчик для воды.
 

@@ -1,53 +1,53 @@
-ent-CMSheetGlassPhoronReinforced-name = reinforced phoron glass
-ent-CMSheetGlassPhoronReinforced-desc = A sheet of reinforced phoron glass.
+ent-CMSheetGlassPhoronReinforced-name = усиленное фороновое стекло
+ent-CMSheetGlassPhoronReinforced-desc = Лист армированного форонового стекла.
 
-ent-CMSheetGlassPhoron-name = phoron glass
-ent-CMSheetGlassPhoron-desc = Phoron glass is a silicate-phoron alloy turned into a non-crystalline solid. It is transparent just like glass, even if visibly tainted pink, and very resistant to damage and heat.
+ent-CMSheetGlassPhoron-name = форонное стекло
+ent-CMSheetGlassPhoron-desc = Фороновое стекло представляет собой силикатно-форонный сплав, превращенный в некристаллическое твердое вещество. 
 
-ent-CMSheetGlassReinforced-name = reinforced glass
-ent-CMSheetGlassReinforced-desc = A reinforced sheet of glass.
+ent-CMSheetGlassReinforced-name = армированное стекло
+ent-CMSheetGlassReinforced-desc = Армированный лист стекла.
 
-ent-CMSheetGlass-name = glass
-ent-CMSheetGlass-desc = Glass is a non-crystalline solid, made out of silicate, the primary constituent of sand. It is valued for its transparency, albeit it is not too resistant to damage.
+ent-CMSheetGlass-name = стекло
+ent-CMSheetGlass-desc = Стекло – это некристаллическое твердое вещество, состоящее из силиката, основного компонента песка. 
 
-ent-CMSheetGlassBase-name = item
+ent-CMSheetGlassBase-name = элемент
 
-ent-CMSheetGlass10-name = glass
-ent-CMSheetGlass10-desc = Glass is a non-crystalline solid, made out of silicate, the primary constituent of sand. It is valued for its transparency, albeit it is not too resistant to damage.
+ent-CMSheetGlass10-name = стекло
+ent-CMSheetGlass10-desc = Стекло – это некристаллическое твердое вещество, состоящее из силиката, основного компонента песка. 
 
-ent-CMSheetGlass25-name = glass
-ent-CMSheetGlass25-desc = Glass is a non-crystalline solid, made out of silicate, the primary constituent of sand. It is valued for its transparency, albeit it is not too resistant to damage.
+ent-CMSheetGlass25-name = стекло
+ent-CMSheetGlass25-desc = Стекло – это некристаллическое твердое вещество, состоящее из силиката, основного компонента песка. 
 
-ent-CMSheetGlass30-name = glass
-ent-CMSheetGlass30-desc = Glass is a non-crystalline solid, made out of silicate, the primary constituent of sand. It is valued for its transparency, albeit it is not too resistant to damage.
+ent-CMSheetGlass30-name = стекло
+ent-CMSheetGlass30-desc = Стекло – это некристаллическое твердое вещество, состоящее из силиката, основного компонента песка. 
 
-ent-CMSheetGlass1-name = glass
-ent-CMSheetGlass1-desc = Glass is a non-crystalline solid, made out of silicate, the primary constituent of sand. It is valued for its transparency, albeit it is not too resistant to damage.
+ent-CMSheetGlass1-name = стекло
+ent-CMSheetGlass1-desc = Стекло – это некристаллическое твердое вещество, состоящее из силиката, основного компонента песка. 
 
-ent-CMSheetGlassReinforced10-name = reinforced glass
-ent-CMSheetGlassReinforced10-desc = A reinforced sheet of glass.
+ent-CMSheetGlassReinforced10-name = армированное стекло
+ent-CMSheetGlassReinforced10-desc = Армированный лист стекла.
 
-ent-CMSheetGlassReinforced30-name = reinforced glass
-ent-CMSheetGlassReinforced30-desc = A reinforced sheet of glass.
+ent-CMSheetGlassReinforced30-name = армированное стекло
+ent-CMSheetGlassReinforced30-desc = Армированный лист стекла.
 
-ent-CMSheetGlassReinforced1-name = reinforced glass
-ent-CMSheetGlassReinforced1-desc = A reinforced sheet of glass.
+ent-CMSheetGlassReinforced1-name = армированное стекло
+ent-CMSheetGlassReinforced1-desc = Армированный лист стекла.
 
-ent-CMSheetGlassPhoron10-name = phoron glass
-ent-CMSheetGlassPhoron10-desc = Phoron glass is a silicate-phoron alloy turned into a non-crystalline solid. It is transparent just like glass, even if visibly tainted pink, and very resistant to damage and heat.
+ent-CMSheetGlassPhoron10-name = форонное стекло
+ent-CMSheetGlassPhoron10-desc = Фороновое стекло представляет собой силикатно-форонный сплав, превращенный в некристаллическое твердое вещество. 
 
-ent-CMSheetGlassPhoron30-name = phoron glass
-ent-CMSheetGlassPhoron30-desc = Phoron glass is a silicate-phoron alloy turned into a non-crystalline solid. It is transparent just like glass, even if visibly tainted pink, and very resistant to damage and heat.
+ent-CMSheetGlassPhoron30-name = форонное стекло
+ent-CMSheetGlassPhoron30-desc = Фороновое стекло представляет собой силикатно-форонный сплав, превращенный в некристаллическое твердое вещество. 
 
-ent-CMSheetGlassPhoron1-name = phoron glass
-ent-CMSheetGlassPhoron1-desc = Phoron glass is a silicate-phoron alloy turned into a non-crystalline solid. It is transparent just like glass, even if visibly tainted pink, and very resistant to damage and heat.
+ent-CMSheetGlassPhoron1-name = форонное стекло
+ent-CMSheetGlassPhoron1-desc = Фороновое стекло представляет собой силикатно-форонный сплав, превращенный в некристаллическое твердое вещество. 
 
-ent-CMSheetGlassPhoronReinforced10-name = reinforced phoron glass
-ent-CMSheetGlassPhoronReinforced10-desc = A sheet of reinforced phoron glass.
+ent-CMSheetGlassPhoronReinforced10-name = усиленное фороновое стекло
+ent-CMSheetGlassPhoronReinforced10-desc = Лист армированного форонового стекла.
 
-ent-CMSheetGlassPhoronReinforced30-name = reinforced phoron glass
-ent-CMSheetGlassPhoronReinforced30-desc = A sheet of reinforced phoron glass.
+ent-CMSheetGlassPhoronReinforced30-name = усиленное фороновое стекло
+ent-CMSheetGlassPhoronReinforced30-desc = Лист армированного форонового стекла.
 
-ent-CMSheetGlassPhoronReinforced1-name = reinforced phoron glass
-ent-CMSheetGlassPhoronReinforced1-desc = A sheet of reinforced phoron glass.
+ent-CMSheetGlassPhoronReinforced1-name = усиленное фороновое стекло
+ent-CMSheetGlassPhoronReinforced1-desc = Лист армированного форонового стекла.
 

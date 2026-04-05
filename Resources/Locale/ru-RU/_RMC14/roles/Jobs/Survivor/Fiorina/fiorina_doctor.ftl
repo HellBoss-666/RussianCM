@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorFiorinaDoctor-name = survivor fiorina doctor spawn point
-ent-RMCSpawnPointSurvivorFiorinaDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorFiorinaDoctor-name = точка возрождения выжившего доктора Фиорины
+ent-RMCSpawnPointSurvivorFiorinaDoctor-desc = Создатель заданий RMC14. 
 

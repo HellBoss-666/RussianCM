@@ -1,12 +1,12 @@
-ent-RMCRandomHumanoidPMCStandardM54C2-name = weya pmc ghost role standard
+ent-RMCRandomHumanoidPMCStandardM54C2-name = стандарт роли призрака weya pmc
 
-ent-RMCSpawnPointPMCStandardSSG45-name = weya pmc operator spawn point
-ent-RMCSpawnPointPMCStandardSSG45-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCStandardSSG45-name = точка появления оператора Weya PMC
+ent-RMCSpawnPointPMCStandardSSG45-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCStandardSSG45-name = weya pmc ghost role standard
+ent-RMCRandomHumanoidPMCStandardSSG45-name = стандарт роли призрака weya pmc
 
-ent-RMCSpawnPointPMCStandardM63B2-name = weya pmc operator spawn point
-ent-RMCSpawnPointPMCStandardM63B2-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCStandardM63B2-name = точка появления оператора Weya PMC
+ent-RMCSpawnPointPMCStandardM63B2-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCStandardM63B2-name = weya pmc ghost role standard
+ent-RMCRandomHumanoidPMCStandardM63B2-name = стандарт роли призрака weya pmc
 

@@ -1,5 +1,5 @@
-ent-RMCEarmuffs-name = earmuffs
-ent-RMCEarmuffs-desc = Protects your hearing from loud noises, and quiet ones as well.
+ent-RMCEarmuffs-name = наушники
+ent-RMCEarmuffs-desc = Защищает ваш слух как от громких, так и от тихих звуков.
 
-ent-RMCEarMiscClothingBase-name = lathe-category-clothing
+ent-RMCEarMiscClothingBase-name = токарный станок-категория-одежда
 

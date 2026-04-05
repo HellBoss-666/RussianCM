@@ -1,3 +1,3 @@
 ent-RMCParasiteProp-name = ????
-ent-RMCParasiteProp-desc = It has some sort of a tube at the end of its tail. What the hell is this thing?
+ent-RMCParasiteProp-desc = На конце хвоста у него есть что-то вроде трубки. 
 

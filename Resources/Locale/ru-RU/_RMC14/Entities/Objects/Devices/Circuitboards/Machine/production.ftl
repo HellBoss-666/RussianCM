@@ -1,31 +1,31 @@
-ent-RMCArmylatheMachineCircuitboard-name = armylathe machine board
-ent-RMCArmylatheMachineCircuitboard-desc = A machine printed circuit board for an armylathe
+ent-RMCArmylatheMachineCircuitboard-name = армейский токарный станок
+ent-RMCArmylatheMachineCircuitboard-desc = Печатная плата для армейского станка.
 
-ent-CMCircuitboardMicrowave-name = microwave machine board
-ent-CMCircuitboardMicrowave-desc = A machine printed circuit board for a microwave.
+ent-CMCircuitboardMicrowave-name = плата микроволновой машины
+ent-CMCircuitboardMicrowave-desc = Машинная печатная плата для микроволновой печи.
 
-ent-CMCircuitboardChemMaster-name = chem master machine board
-ent-CMCircuitboardChemMaster-desc = A machine printed circuit board for a chem master.
+ent-CMCircuitboardChemMaster-name = Машинная доска мастера химии
+ent-CMCircuitboardChemMaster-desc = Машинная печатная плата для мастера-химика.
 
-ent-CMCircuitboardDispenserSoda-name = soda dispenser machine board
-ent-CMCircuitboardDispenserSoda-desc = A machine printed circuit board for a soda dispenser.
+ent-CMCircuitboardDispenserSoda-name = Доска для дозатора газировки
+ent-CMCircuitboardDispenserSoda-desc = Машинная печатная плата для автомата для газировки.
 
-ent-CMCircuitboardDispenserBooze-name = booze dispenser machine board
-ent-CMCircuitboardDispenserBooze-desc = A machine printed circuit board for a booze dispenser.
+ent-CMCircuitboardDispenserBooze-name = Доска для раздачи выпивки
+ent-CMCircuitboardDispenserBooze-desc = Машинная печатная плата для дозатора спиртных напитков.
 
-ent-CMCircuitboardDispenserChem-name = chem dispenser machine board
-ent-CMCircuitboardDispenserChem-desc = A machine printed circuit board for a chemical dispenser.
+ent-CMCircuitboardDispenserChem-name = Доска дозатора химикатов
+ent-CMCircuitboardDispenserChem-desc = Машинная печатная плата дозатора химикатов.
 
-ent-CMAutolatheMachineCircuitboard-name = autolathe machine board
-ent-CMAutolatheMachineCircuitboard-desc = A machine printed circuit board for an autolathe
+ent-CMAutolatheMachineCircuitboard-name = доска токарного станка
+ent-CMAutolatheMachineCircuitboard-desc = Машинная печатная плата для токарного станка
 
-ent-CMSMESMachineCircuitboard-name = SMES machine board
-ent-CMSMESMachineCircuitboard-desc = A machine printed circuit board for a SMES.
+ent-CMSMESMachineCircuitboard-name = Машинная доска SMES
+ent-CMSMESMachineCircuitboard-desc = Машинная печатная плата для СМС.
 
-ent-RMCPortableGeneratorPacmanMachineCircuitBoard-name = P.A.C.M.A.N.-type portable generator machine board
+ent-RMCPortableGeneratorPacmanMachineCircuitBoard-name = Плата портативного генератора типа P.A.C.M.A.N.
 
-ent-RMCPortableGeneratorSuperPacmanMachineCircuitboard-name = S.U.P.E.R.P.A.C.M.A.N.-type portable generator machine board
+ent-RMCPortableGeneratorSuperPacmanMachineCircuitboard-name = Плата портативного генератора типа S.U.P.E.R.P.A.C.M.A.N.
 
-ent-RMCCircuitboardIndustrialChemMaster-name = chem master machine board
-ent-RMCCircuitboardIndustrialChemMaster-desc = A machine printed circuit board for a industrial chem master.
+ent-RMCCircuitboardIndustrialChemMaster-name = Машинная доска мастера химии
+ent-RMCCircuitboardIndustrialChemMaster-desc = Машинная печатная плата для мастера промышленной химии.
 

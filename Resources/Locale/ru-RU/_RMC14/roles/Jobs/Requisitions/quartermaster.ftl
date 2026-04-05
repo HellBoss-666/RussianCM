@@ -1,6 +1,6 @@
-ent-RMCGuidebookRoleQM-name = The LO
-ent-RMCGuidebookRoleQM-desc = The Logistics Officer.
+ent-RMCGuidebookRoleQM-name = ЛО
+ent-RMCGuidebookRoleQM-desc = Сотрудник по логистике.
 
-ent-CMSpawnPointQuartermaster-name = Logistics Officer spawn point
-ent-CMSpawnPointQuartermaster-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointQuartermaster-name = Точка появления офицера по логистике
+ent-CMSpawnPointQuartermaster-desc = Создатель заданий RMC14. 
 

@@ -1,57 +1,57 @@
-ent-CMMREFoodChickenTender-name = chicken tender
-ent-CMMREFoodChickenTender-desc = The contents of a Marine Standard issue MRE. This one is a chicken tender.
+ent-CMMREFoodChickenTender-name = куриный тендер
+ent-CMMREFoodChickenTender-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodSpaghettiChunks-name = spaghetti chunks
-ent-CMMREFoodSpaghettiChunks-desc = The contents of a Marine Standard issue MRE. This one is spaghetti chunks.
+ent-CMMREFoodSpaghettiChunks-name = кусочки спагетти
+ent-CMMREFoodSpaghettiChunks-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodPizzaSquare-name = pizza square
-ent-CMMREFoodPizzaSquare-desc = The contents of a Marine Standard issue MRE. This one is a pizza square.
+ent-CMMREFoodPizzaSquare-name = площадь пиццы
+ent-CMMREFoodPizzaSquare-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodGrilledChicken-name = grilled chicken
-ent-CMMREFoodGrilledChicken-desc = The contents of a Marine Standard issue MRE. This one is grilled chicken.
+ent-CMMREFoodGrilledChicken-name = курица-гриль
+ent-CMMREFoodGrilledChicken-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodBonelessPorkRibs-name = boneless pork ribs
-ent-CMMREFoodBonelessPorkRibs-desc = The contents of a Marine Standard issue MRE. This one is boneless pork ribs.
+ent-CMMREFoodBonelessPorkRibs-name = свиные ребрышки без костей
+ent-CMMREFoodBonelessPorkRibs-desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREComponentChickenTender-name = MRE component (chicken tender)
-ent-CMMREComponentChickenTender-desc = An MRE entree component. Contains the main course for nutrients. This one is a chicken tender.
+ent-CMMREComponentChickenTender-name = Компонент MRE (куриное филе)
+ent-CMMREComponentChickenTender-desc = Компонент входа MRE. 
 
-ent-CMMREComponentSpaghettiChunks-name = MRE component (spaghetti chunks)
-ent-CMMREComponentSpaghettiChunks-desc = An MRE entree component. Contains the main course for nutrients. This one is spaghetti chunks.
+ent-CMMREComponentSpaghettiChunks-name = Компонент MRE (кусочки спагетти)
+ent-CMMREComponentSpaghettiChunks-desc = Компонент входа MRE. 
 
-ent-CMMREComponentPizzaSquare-name = MRE component (pizza square)
-ent-CMMREComponentPizzaSquare-desc = An MRE entree component. Contains the main course for nutrients. This one is a pizza square.
+ent-CMMREComponentPizzaSquare-name = Компонент MRE (площадь для пиццы)
+ent-CMMREComponentPizzaSquare-desc = Компонент входа MRE. 
 
-ent-CMMREComponentGrilledChicken-name = MRE component (grilled chicken)
-ent-CMMREComponentGrilledChicken-desc = An MRE entree component. Contains the main course for nutrients. This one is grilled chicken.
+ent-CMMREComponentGrilledChicken-name = Компонент MRE (курица гриль)
+ent-CMMREComponentGrilledChicken-desc = Компонент входа MRE. 
 
-ent-CMMREComponentBonelessPorkRibs-name = MRE component (boneless pork ribs)
-ent-CMMREComponentBonelessPorkRibs-desc = An MRE entree component. Contains the main course for nutrients. This one is boneless pork ribs.
+ent-CMMREComponentBonelessPorkRibs-name = Компонент MRE (свиные ребрышки без костей)
+ent-CMMREComponentBonelessPorkRibs-desc = Компонент входа MRE. 
 
-ent-CMMREMainComponentBase-name = MRE component
-ent-CMMREMainComponentBase-desc = An MRE entree component. Contains the main course for nutrients.
+ent-CMMREMainComponentBase-name = компонент MRE
+ent-CMMREMainComponentBase-desc = Компонент входа MRE. 
 
-ent-CMMREFoodMain-name = item
-ent-CMMREFoodMain-desc = The contents of a Marine Standard issue MRE.
+ent-CMMREFoodMain-name = элемент
+ent-CMMREFoodMain-desc = Содержание выпуска Морпех Standard MRE.
 
-ent-RMCMREFoodCLF-name = item
-ent-RMCMREFoodCLF-desc = The contents of a Marine Standard issue MRE.
+ent-RMCMREFoodCLF-name = элемент
+ent-RMCMREFoodCLF-desc = Содержание выпуска Морпех Standard MRE.
 
-ent-RMCMREFoodMeatSlab-name = wrapped meat slab
-ent-RMCMREFoodMeatSlab-desc = A wrapped, rare slab of some meat that has been quickly grilled.
+ent-RMCMREFoodMeatSlab-name = завернутый кусок мяса
+ent-RMCMREFoodMeatSlab-desc = Обернутый редкий кусок мяса, быстро приготовленный на гриле.
 
-ent-RMCMREFoodMeatSlabCheese-name = wrapped cheesy meat slab
-ent-RMCMREFoodMeatSlabCheese-desc = A wrapped, rare slab of some meat that has been quickly grilled and covered in melted cheese. Wonderfully greasy.
+ent-RMCMREFoodMeatSlabCheese-name = завернутый кусок сырного мяса
+ent-RMCMREFoodMeatSlabCheese-desc = Обернутый редкий кусок мяса, быстро приготовленный на гриле и покрытый плавленым сыром. 
 
-ent-RMCMREFoodBread-name = wrapped sourdough bread
-ent-RMCMREFoodBread-desc = A wrapped, small loaf of dry sourdough bread.
+ent-RMCMREFoodBread-name = завернутый хлеб на закваске
+ent-RMCMREFoodBread-desc = Завернутая небольшая буханка сухого хлеба на закваске.
 
-ent-RMCMREFoodMargaritaPizza-name = wrapped margarita pizza
-ent-RMCMREFoodMargaritaPizza-desc = A wrapped, small margarita pizza.
+ent-RMCMREFoodMargaritaPizza-name = завернутая пицца Маргарита
+ent-RMCMREFoodMargaritaPizza-desc = Маленькая пицца «Маргарита» в упаковке.
 
-ent-RMCMRESPPSurvivalRationTypeA-name = survival ration
-ent-RMCMRESPPSurvivalRationTypeA-desc = A compact chunk of freeze-dried meat or fish featuring nutrient additives in the form of a dense powder. Having little flavoring or colouration as a result of its preparation for long term storage, the appeal of this item is purely in its capacity to provide sustenance.
+ent-RMCMRESPPSurvivalRationTypeA-name = рацион выживания
+ent-RMCMRESPPSurvivalRationTypeA-desc = Компактный кусок сублимированного мяса или рыбы с питательными добавками в виде плотного порошка. 
 
-ent-RMCMRESPPSurvivalRationTypeB-name = survival ration
-ent-RMCMRESPPSurvivalRationTypeB-desc = A compact ball of dough-like rice or oats featuring nutrient additives in the form of a dense powder. Having little flavoring or colouration as a result of its preparation for long term storage, the appeal of this item is purely in its capacity to provide sustenance.
+ent-RMCMRESPPSurvivalRationTypeB-name = рацион выживания
+ent-RMCMRESPPSurvivalRationTypeB-desc = Компактный шарик из риса или овса, похожий на тесто, с питательными добавками в виде плотного порошка. 
 

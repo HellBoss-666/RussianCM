@@ -1,6 +1,6 @@
-ent-RMCWheelchairBell-name = wheelchair with bell
-ent-RMCWheelchairBell-desc = Helps those with injuries related to immobility to move freely. Has a bell attached.
+ent-RMCWheelchairBell-name = инвалидная коляска со звонком
+ent-RMCWheelchairBell-desc = Помогает людям с травмами, связанными с обездвиженностью, свободно передвигаться. 
 
-ent-RMCWheelchair-name = wheelchair
-ent-RMCWheelchair-desc = Helps those with injuries related to immobility to move freely
+ent-RMCWheelchair-name = инвалидная коляска
+ent-RMCWheelchair-desc = Помогает людям с травмами, связанными с обездвиженностью, свободно передвигаться.
 

@@ -1,45 +1,45 @@
-ent-RMCPowerCellSmartgun-name = smart gun ML66A battery
-ent-RMCPowerCellSmartgun-desc = A standard-issue 9-volt lithium dry-cell battery, most commonly used within the UNMC to power smartguns. Per the manual, one battery is good for up to 50000 rounds and plugs directly into the smartgun's power receptacle, which is only compatible with this type of battery. Various auxiliary modes usually bring the round count far lower. While this cell is incompatible with most standard electrical system, it can be charged by common rechargers in a pinch. UNMC smartgunners often guard them jealously.
+ent-RMCPowerCellSmartgun-name = умный пистолет ML66A на батарейке
+ent-RMCPowerCellSmartgun-desc = Стандартная 9-вольтовая литиевая сухая батарея, чаще всего используемая в UNMC для питания умных ружей. 
 
-ent-RMCPowerCellPotato-name = potato battery
-ent-RMCPowerCellPotato-desc = A rechargeable starch-based power cell.
+ent-RMCPowerCellPotato-name = картофельная батарея
+ent-RMCPowerCellPotato-desc = Перезаряжаемый аккумулятор на основе крахмала.
 
-ent-RMCPowerCellInfinite-name = infinite-capacity power cell
-ent-RMCPowerCellInfinite-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellInfinite-name = энергетический элемент бесконечной емкости
+ent-RMCPowerCellInfinite-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellHyper-name = hyper-capacity power cell
-ent-RMCPowerCellHyper-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellHyper-name = силовой элемент сверхмощности
+ent-RMCPowerCellHyper-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellSuper-name = super-capacity power cell
-ent-RMCPowerCellSuper-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellSuper-name = силовой элемент сверхмощности
+ent-RMCPowerCellSuper-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellHigh-name = power cell
-ent-RMCPowerCellHigh-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellHigh-name = силовая ячейка
+ent-RMCPowerCellHigh-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellAPC-name = heavy-duty power cell
-ent-RMCPowerCellAPC-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellAPC-name = сверхмощный силовой элемент
+ent-RMCPowerCellAPC-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellCrap-name = We-Ya rechargeable mini-battery
-ent-RMCPowerCellCrap-desc = Cheap, throwaway batteries provided by the Weston-Yamada Corporation. The 'rechargeable' feature was added to be more marketable to independent colonists hell-bent on 'using it till it disintegrates', a common sentiment on the frontier.
+ent-RMCPowerCellCrap-name = Аккумуляторная мини-батарея We-Ya
+ent-RMCPowerCellCrap-desc = Дешевые одноразовые батарейки, предоставленные корпорацией Weston-Yamada. 
 
-ent-RMCPowerCell-name = power cell
-ent-RMCPowerCell-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCell-name = силовая ячейка
+ent-RMCPowerCell-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellCrapEmpty-name = We-Ya rechargeable mini-battery
-ent-RMCPowerCellCrapEmpty-desc = Cheap, throwaway batteries provided by the Weston-Yamada Corporation. The 'rechargeable' feature was added to be more marketable to independent colonists hell-bent on 'using it till it disintegrates', a common sentiment on the frontier.
+ent-RMCPowerCellCrapEmpty-name = Аккумуляторная мини-батарея We-Ya
+ent-RMCPowerCellCrapEmpty-desc = Дешевые одноразовые батарейки, предоставленные корпорацией Weston-Yamada. 
 
-ent-RMCPowerCellAPCNoPower-name = heavy-duty power cell
-ent-RMCPowerCellAPCNoPower-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellAPCNoPower-name = сверхмощный силовой элемент
+ent-RMCPowerCellAPCNoPower-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellAPCEmpty-name = heavy-duty power cell
-ent-RMCPowerCellAPCEmpty-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellAPCEmpty-name = сверхмощный силовой элемент
+ent-RMCPowerCellAPCEmpty-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellHighEmpty-name = power cell
-ent-RMCPowerCellHighEmpty-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellHighEmpty-name = силовая ячейка
+ent-RMCPowerCellHighEmpty-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellSuperEmpty-name = super-capacity power cell
-ent-RMCPowerCellSuperEmpty-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellSuperEmpty-name = силовой элемент сверхмощности
+ent-RMCPowerCellSuperEmpty-desc = Перезаряжаемый электрохимический силовой элемент.
 
-ent-RMCPowerCellHyperEmpty-name = hyper-capacity power cell
-ent-RMCPowerCellHyperEmpty-desc = A rechargeable electrochemical power cell.
+ent-RMCPowerCellHyperEmpty-name = силовой элемент сверхмощности
+ent-RMCPowerCellHyperEmpty-desc = Перезаряжаемый электрохимический силовой элемент.
 

@@ -1,24 +1,24 @@
-ent-RMCTankReagentFuel-name = fuel tank
-ent-RMCTankReagentFuel-desc = A fuel tank, normally used to hold welding fuel. It's painted red with explosive warning labels.
+ent-RMCTankReagentFuel-name = топливный бак
+ent-RMCTankReagentFuel-desc = Топливный бак, обычно используемый для хранения сварочного топлива. 
 
-ent-RMCTankReagentEmpty-name = reagent tank
-ent-RMCTankReagentEmpty-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentEmpty-name = бак для реагентов
+ent-RMCTankReagentEmpty-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 
-ent-RMCTankReagentWater-name = reagent tank
-ent-RMCTankReagentWater-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentWater-name = бак для реагентов
+ent-RMCTankReagentWater-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 
-ent-RMCTankReagentWaterLocked-name = reagent tank
-ent-RMCTankReagentWaterLocked-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentWaterLocked-name = бак для реагентов
+ent-RMCTankReagentWaterLocked-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 
-ent-RMCTankReagentMeralyne-name = reagent tank
-ent-RMCTankReagentMeralyne-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentMeralyne-name = бак для реагентов
+ent-RMCTankReagentMeralyne-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 
-ent-RMCTankReagentDermaline-name = reagent tank
-ent-RMCTankReagentDermaline-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentDermaline-name = бак для реагентов
+ent-RMCTankReagentDermaline-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 
-ent-RMCTankReagentPhoron-name = reagent tank
-ent-RMCTankReagentPhoron-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentPhoron-name = бак для реагентов
+ent-RMCTankReagentPhoron-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 
-ent-RMCTankReagentSulphuricAcid-name = reagent tank
-ent-RMCTankReagentSulphuricAcid-desc = A reagent tank, typically used to store large quantities of chemicals.
+ent-RMCTankReagentSulphuricAcid-name = бак для реагентов
+ent-RMCTankReagentSulphuricAcid-desc = Резервуар для реагентов, обычно используемый для хранения большого количества химикатов.
 

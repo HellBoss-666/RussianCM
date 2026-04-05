@@ -1,4 +1,4 @@
-ent-RMCRecharger-name = recharger
+ent-RMCRecharger-name = зарядное устройство
 
-ent-RMCRechargerLocked-name = recharger
+ent-RMCRechargerLocked-name = зарядное устройство
 

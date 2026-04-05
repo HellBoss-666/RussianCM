@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaMedicalDoctor-name = medical doctor preset
+ent-RMCGearSurvivorPresetHybrisaMedicalDoctor-name = предустановка врача
 
-ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor-name = medical doctor spawn point
-ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor-name = точка появления врача
+ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor-desc = Создатель заданий RMC14. 
 

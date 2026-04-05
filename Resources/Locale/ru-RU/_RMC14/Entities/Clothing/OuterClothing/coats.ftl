@@ -1,206 +1,206 @@
-ent-RMCCoatSnow-name = snow suit
-ent-RMCCoatSnow-desc = A standard snow suit. It can protect the wearer from extreme cold.
+ent-RMCCoatSnow-name = снежный костюм
+ent-RMCCoatSnow-desc = Стандартный зимний комбинезон. 
 
-ent-RMCCoatParamedic-name = EMT - Paramedic utility fatigues
-ent-RMCCoatParamedic-desc = A set of EMT - Paramedic utility fatigues, this one is red.
+ent-RMCCoatParamedic-name = ЕМТ - Рабочая одежда фельдшера
+ent-RMCCoatParamedic-desc = Комплект одежды скорой помощи - фельдшера, красного цвета.
 
-ent-RMCCoatSanitation-name = sanitation utility uniform
-ent-RMCCoatSanitation-desc = A Sanitation utility uniform, used by the clean-up crews of the more prosperous colonies.
+ent-RMCCoatSanitation-name = санитарная униформа
+ent-RMCCoatSanitation-desc = Санитарная униформа, используемая бригадами по уборке в наиболее процветающих колониях.
 
-ent-RMCCoatWaistcoat-name = waistcoat
-ent-RMCCoatWaistcoat-desc = For some classy, murderous fun.
+ent-RMCCoatWaistcoat-name = жилет
+ent-RMCCoatWaistcoat-desc = Для классного, убийственного развлечения.
 
-ent-RMCCoatHoboRed-name = dark red worn polyester jacket
-ent-RMCCoatHoboRed-desc = An old worn blue polyester jacket, has seen better days...
+ent-RMCCoatHoboRed-name = темно-красная потертая куртка из полиэстера
+ent-RMCCoatHoboRed-desc = Старая поношенная синяя куртка из полиэстера знавала лучшие времена...
 
-ent-RMCCoatHoboDarkBlue-name = dark blue worn polyester jacket
-ent-RMCCoatHoboDarkBlue-desc = An old worn blue polyester jacket, has seen better days...
+ent-RMCCoatHoboDarkBlue-name = темно-синяя потертая куртка из полиэстера
+ent-RMCCoatHoboDarkBlue-desc = Старая поношенная синяя куртка из полиэстера знавала лучшие времена...
 
-ent-RMCCoatHoboBrown-name = dark brown worn polyester jacket
-ent-RMCCoatHoboBrown-desc = An old worn brown polyester jacket, has seen better days...
+ent-RMCCoatHoboBrown-name = темно-коричневая потертая куртка из полиэстера
+ent-RMCCoatHoboBrown-desc = Старая поношенная коричневая куртка из полиэстера знавала лучшие времена...
 
-ent-RMCCoatHoboGreen-name = dark green worn parka
-ent-RMCCoatHoboGreen-desc = An old worn green Parka, has seen better days...
+ent-RMCCoatHoboGreen-name = темно-зеленая поношенная парка
+ent-RMCCoatHoboGreen-desc = Старая поношенная зеленая парка видала лучшие дни...
 
-ent-RMCCoatHoboBlue-name = dark blue worn parka
-ent-RMCCoatHoboBlue-desc = An old worn blue Parka, has seen better days...
+ent-RMCCoatHoboBlue-name = темно-синяя поношенная парка
+ent-RMCCoatHoboBlue-desc = Старая поношенная синяя парка видала лучшие дни...
 
-ent-RMCClothingHolidayRobes-name = holiday priest
-ent-RMCClothingHolidayRobes-desc = This is a nice holiday, my son.
+ent-RMCClothingHolidayRobes-name = праздничный священник
+ent-RMCClothingHolidayRobes-desc = Это хороший праздник, сын мой.
 
-ent-RMCClothingNunRobes-name = nun robes
-ent-RMCClothingNunRobes-desc = Maximum piety in this star system
+ent-RMCClothingNunRobes-name = монашеские одежды
+ent-RMCClothingNunRobes-desc = Максимальное благочестие в этой звездной системе
 
-ent-RMCClothingPriestRobes-name = priest robes
-ent-RMCClothingPriestRobes-desc = A long dress with a purple scarf, often worn by religious folk.
+ent-RMCClothingPriestRobes-name = мантии священника
+ent-RMCClothingPriestRobes-desc = Длинное платье с фиолетовым шарфом, которое часто носят религиозные люди.
 
-ent-RMCJacketWindbreakerExpedition-name = expedition windbreaker
-ent-RMCJacketWindbreakerExpedition-desc = A brown windbreaker with various patches tying it to one of the first explorations into this sector.
+ent-RMCJacketWindbreakerExpedition-name = экспедиционная ветровка
+ent-RMCJacketWindbreakerExpedition-desc = Коричневая ветровка с различными нашивками, символизирующая одно из первых исследований этого сектора.
 
-ent-RMCJacketWindbreakerGrey-name = grey windbreaker
-ent-RMCJacketWindbreakerGrey-desc = A grey windbreaker.
+ent-RMCJacketWindbreakerGrey-name = серая ветровка
+ent-RMCJacketWindbreakerGrey-desc = Серая ветровка.
 
-ent-RMCJacketWindbreakerBrown-name = brown windbreaker
-ent-RMCJacketWindbreakerBrown-desc = A brown windbreaker.
+ent-RMCJacketWindbreakerBrown-name = коричневая ветровка
+ent-RMCJacketWindbreakerBrown-desc = Коричневая ветровка.
 
-ent-RMCJacketWindbreakerFirstResponder-name = first responder windbreaker
-ent-RMCJacketWindbreakerFirstResponder-desc = A brown windbreaker with reflective strips commonly worn by first responders.
+ent-RMCJacketWindbreakerFirstResponder-name = ветровка первого реагирования
+ent-RMCJacketWindbreakerFirstResponder-desc = Коричневая ветровка со светоотражающими полосами, которую обычно носят сотрудники служб экстренного реагирования.
 
-ent-RMCJacketWindbreaker-name = green windbreaker
-ent-RMCJacketWindbreaker-desc = A green windbreaker.
+ent-RMCJacketWindbreaker-name = зеленая ветровка
+ent-RMCJacketWindbreaker-desc = Зеленая ветровка.
 
-ent-CMUtilityVest-name = utility vest
-ent-CMUtilityVest-desc = A leather utility vest, often used to hold tools.
+ent-CMUtilityVest-name = утилитарный жилет
+ent-CMUtilityVest-desc = Кожаный жилет, часто используемый для хранения инструментов.
 
-ent-CMUtilityVestSynth-name = synthetic utility vest
-ent-CMUtilityVestSynth-desc = A leather utility vest worn by synthetic UNMC personnel. The vest is rather lightweight but has a few pockets for carrying small items. It is not very protective, but it is a good choice for the Synthetics who want to look stylish while working.
+ent-CMUtilityVestSynth-name = синтетический жилет
+ent-CMUtilityVestSynth-desc = Кожаный жилет, который носят синтетические сотрудники UNMC. 
 
-ent-RMCProvostCommandJacket-name = Provost Command Jacket
-ent-RMCProvostCommandJacket-desc = A crisp jacket with the Provost sigil.
+ent-RMCProvostCommandJacket-name = Командная куртка провоста
+ent-RMCProvostCommandJacket-desc = Яркая куртка с эмблемой Провоста.
 
-ent-RMCProvostJacket-name = Provost Jacket
-ent-RMCProvostJacket-desc = A crisp jacket with the Provost sigil.
+ent-RMCProvostJacket-name = Куртка Провоста
+ent-RMCProvostJacket-desc = Яркая куртка с эмблемой Провоста.
 
-ent-RMCProvostCoatMarshal-name = Provost Marshal Coat
-ent-RMCProvostCoatMarshal-desc = The crisp coat of a Provost Officer.
+ent-RMCProvostCoatMarshal-name = Пальто провоста маршала
+ent-RMCProvostCoatMarshal-desc = Хрустящее пальто офицера-провоста.
 
-ent-RMCProvostCoat-name = Provost Coat
-ent-RMCProvostCoat-desc = The crisp coat of a Provost Officer.
+ent-RMCProvostCoat-name = Пальто Провоста
+ent-RMCProvostCoat-desc = Хрустящее пальто офицера-провоста.
 
-ent-RMCCoatServiceFolded-name = marine service jacket
-ent-RMCCoatServiceFolded-desc = A service jacket typically worn by officers of the UNMC.
+ent-RMCCoatServiceFolded-name = Морпех френч
+ent-RMCCoatServiceFolded-desc = Френч, который обычно носят офицеры UNMC.
 
-ent-RMCCoatService-name = marine service jacket
-ent-RMCCoatService-desc = A service jacket typically worn by officers of the UNMC.
+ent-RMCCoatService-name = Морпех френч
+ent-RMCCoatService-desc = Френч, который обычно носят офицеры UNMC.
 
-ent-CMCoatXOFormal-name = marine formal service jacket
-ent-CMCoatXOFormal-desc = Smells like vanilla. Signifies prestige and power, if a little flashy.
+ent-CMCoatXOFormal-name = Морпех формальный френч
+ent-CMCoatXOFormal-desc = Пахнет ванилью. 
 
-ent-CMCoatCOFormalWhite-name = commanding officer white dress jacket
-ent-CMCoatCOFormalWhite-desc = A white dress tunic for hot-weather parades. Bright, unstained, and immaculate with gold accents.
+ent-CMCoatCOFormalWhite-name = командирский офицерский белый пиджак
+ent-CMCoatCOFormalWhite-desc = Белая парадная туника для парадов в жаркую погоду. 
 
-ent-CMCoatCOFormalBlack-name = commanding officer gray dress jacket
-ent-CMCoatCOFormalBlack-desc = A gray dress tunic for those occasions that mandate darker, more subdued colors. Combines sleek and subdued with gold accents.
+ent-CMCoatCOFormalBlack-name = командирский офицерский серый пиджак
+ent-CMCoatCOFormalBlack-desc = Серая классическая туника подойдет для тех случаев, когда обязательны более темные и приглушенные цвета. 
 
-ent-RMCCoatBomberBlack-name = black bomber jacket
-ent-RMCCoatBomberBlack-desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomberBlack-name = черный бомбер
+ent-RMCCoatBomberBlack-desc = Поношенный кожаный бомбер.
 
-ent-RMCCoatBomberKhaki-name = khaki bomber jacket
-ent-RMCCoatBomberKhaki-desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomberKhaki-name = куртка-бомбер цвета хаки
+ent-RMCCoatBomberKhaki-desc = Поношенный кожаный бомбер.
 
-ent-RMCCoatBomberGrey-name = grey bomber jacket
-ent-RMCCoatBomberGrey-desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomberGrey-name = серый бомбер
+ent-RMCCoatBomberGrey-desc = Поношенный кожаный бомбер.
 
-ent-RMCCoatBomberRed-name = red bomber jacket
-ent-RMCCoatBomberRed-desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomberRed-name = красный бомбер
+ent-RMCCoatBomberRed-desc = Поношенный кожаный бомбер.
 
-ent-RMCCoatBomber-name = brown bomber jacket
-ent-RMCCoatBomber-desc = A well-worn leather bomber jacket.
+ent-RMCCoatBomber-name = коричневая куртка-бомбер
+ent-RMCCoatBomber-desc = Поношенный кожаный бомбер.
 
-ent-CMCoatCOBomber-name = commanding officer bomber jacket
-ent-CMCoatCOBomber-desc = A bomber jacket resembling those worn by airmen of old. A classic, stylish choice for those in the higher ranks.
+ent-CMCoatCOBomber-name = командирская куртка-бомбер
+ent-CMCoatCOBomber-desc = Куртка-бомбер, напоминающая ту, которую носили летчики старины. 
 
-ent-CMCoatCO-name = marine officer dress jacket
-ent-CMCoatCO-desc = Dress Jacket worn by Commanding Officers of the UNMC.
+ent-CMCoatCO-name = Морпех офицерский френч
+ent-CMCoatCO-desc = Парадный пиджак, который носят командиры UNMC.
 
-ent-RMCCoatASOWhiteAlt-name = auxiliary support officer white coat
-ent-RMCCoatASOWhiteAlt-desc = A white coat perfect for sorting papers in colder weather.
+ent-RMCCoatASOWhiteAlt-name = офицер вспомогательной поддержки в белом халате
+ent-RMCCoatASOWhiteAlt-desc = Белое пальто идеально подходит для сортировки бумаг в холодную погоду.
 
-ent-RMCCoatASOBlackAlt-name = auxiliary support officer black coat
-ent-RMCCoatASOBlackAlt-desc = A black coat perfect for sorting papers in colder weather.
+ent-RMCCoatASOBlackAlt-name = Черный мундир офицера вспомогательной поддержки
+ent-RMCCoatASOBlackAlt-desc = Черное пальто идеально подходит для сортировки бумаг в холодную погоду.
 
-ent-RMCCoatASOWhite-name = auxiliary support officer white jacket
-ent-RMCCoatASOWhite-desc = A white jacket worn by officers that want to look stylish while looking at paperwork.
+ent-RMCCoatASOWhite-name = Офицер вспомогательной поддержки в белой куртке
+ent-RMCCoatASOWhite-desc = Белую куртку носят офицеры, которые хотят выглядеть стильно, просматривая документы.
 
-ent-RMCCoatASOBlack-name = auxiliary support officer black jacket
-ent-RMCCoatASOBlack-desc = A black jacket worn by officers that want to look stylish while looking at paperwork.
+ent-RMCCoatASOBlack-name = Черная куртка офицера вспомогательной поддержки
+ent-RMCCoatASOBlack-desc = Черную куртку носят офицеры, которые хотят выглядеть стильно, просматривая документы.
 
-ent-CMCoatASO-name = auxiliary support officer jacket
-ent-CMCoatASO-desc = A comfortable vest for officers who are expected to work long hours staring at rows of numbers and inspecting equipment from knives to torpedos to entire dropships.
+ent-CMCoatASO-name = куртка офицера вспомогательной поддержки
+ent-CMCoatASO-desc = Удобный жилет для офицеров, которым предстоит работать долгие часы, разглядывая ряды цифр и проверяя оборудование — от ножей до торпед и целых десантных кораблей.
 
-ent-CMCoatMessTech-name = mess technician jacket
-ent-CMCoatMessTech-desc = Smells like vanilla. Signifies prestige and power, if a little flashy.
+ent-CMCoatMessTech-name = куртка специалиста по беспорядкам
+ent-CMCoatMessTech-desc = Пахнет ванилью. 
 
-ent-RMCQuartermasterJacket-name = Logistics Officer jacket
-ent-RMCQuartermasterJacket-desc = A green jacket worn by UNMC personnel. The back has the flag of the United Nations on it.
+ent-RMCQuartermasterJacket-name = Куртка офицера логистики
+ent-RMCQuartermasterJacket-desc = Зеленая куртка, которую носят сотрудники UNMC. 
 
-ent-CMCoatMP-name = military police service jacket
-ent-CMCoatMP-desc = A marine service jacket adopted for use by Military Police personnel on board Marine ships. Ironically most ships require their MP departments to use full armor, making these barely used by on duty MPs. This variant is also available to regular Marines, if they are willing to bear the shame.
+ent-CMCoatMP-name = френч военной полиции
+ent-CMCoatMP-desc = Френч «Морпех», принятый для использования сотрудниками военной полиции на борту кораблей «Морпех». 
 
-ent-CMCoatWarden-name = military warden service jacket
-ent-CMCoatWarden-desc = A marine service jacket adopted for use by Military Wardens on board Marine ships. Ironically most ships require their MP departments to use full armor, making these barely used by on duty Wardens. The jacket of choice for looking all night at a set of monitors, while cigarette butts pile around you.
+ent-CMCoatWarden-name = френч военного надзирателя
+ent-CMCoatWarden-desc = Френч «Морпех», принятый для использования военными надзирателями на борту кораблей «Морпех». 
 
-ent-CMCoatChiefMP-name = chief military police service jacket
-ent-CMCoatChiefMP-desc = A marine service jacket adopted for use by Military Police personnel on board Marine ships. Ironically most ships require their MP departments to use full armor, making these barely used by on duty MPs. Very popular among those who want to inexplicably smell like donuts.
+ent-CMCoatChiefMP-name = френч начальника военной полиции
+ent-CMCoatChiefMP-desc = Френч «Морпех», принятый для использования сотрудниками военной полиции на борту кораблей «Морпех». 
 
-ent-RMCBaseJacket-name = lathe-category-clothing
+ent-RMCBaseJacket-name = токарный станок-категория-одежда
 
-ent-RMCBaseJacketButtonable-name = lathe-category-clothing
+ent-RMCBaseJacketButtonable-name = токарный станок-категория-одежда
 
-ent-RMCBaseJacketButtonableOpened-name = lathe-category-clothing
+ent-RMCBaseJacketButtonableOpened-name = токарный станок-категория-одежда
 
-ent-RMCCoatPilot-name = M70B1 light flak jacket
-ent-RMCCoatPilot-desc = A light flak jacket used by dropship pilots to protect themselves while flying in the cockpit. This specific flak jacket has been designed for style and comfort over protection, and it shows. Don't get hit by any stray bullets!
+ent-RMCCoatPilot-name = Легкий бронежилет М70Б1
+ent-RMCCoatPilot-desc = Легкий бронежилет, используемый пилотами десантных кораблей для защиты во время полета в кабине. 
 
-ent-RMCCoatCOServiceJacketStandard-name = Standard commanding officer standard issue jacket
-ent-RMCCoatCOServiceJacketStandard-desc = A jacket complement to the standard-issue CO uniform. Smells synthetic, but at least it's stylish.
+ent-RMCCoatCOServiceJacketStandard-name = Стандартная куртка командирского офицера стандартного образца
+ent-RMCCoatCOServiceJacketStandard-desc = Куртка дополняет стандартную униформу СО. 
 
-ent-RMCCoatCOServiceJacketPurple-name = Purple commanding officer standard issue jacket
-ent-RMCCoatCOServiceJacketPurple-desc = A purple jacket complement to the standard-issue CO uniform. Smells synthetic, but at least it's stylish.
+ent-RMCCoatCOServiceJacketPurple-name = Китель командирского офицерского образца фиолетового цвета
+ent-RMCCoatCOServiceJacketPurple-desc = Фиолетовая куртка дополняет стандартную униформу CO. 
 
-ent-RMCCoatCOServiceJacketGreen-name = Green commanding officer standard issue jacket
-ent-RMCCoatCOServiceJacketGreen-desc = A green jacket complement to the standard-issue CO uniform. Smells synthetic, but at least it's stylish.
+ent-RMCCoatCOServiceJacketGreen-name = Зелёная командирская куртка стандартного образца
+ent-RMCCoatCOServiceJacketGreen-desc = Зеленая куртка дополняет стандартную униформу CO. 
 
-ent-RMCCoatCOServiceJacketGrey-name = Grey commanding officer standard issue jacket
-ent-RMCCoatCOServiceJacketGrey-desc = A grey jacket complement to the standard-issue CO uniform. Smells synthetic, but at least it's stylish.
+ent-RMCCoatCOServiceJacketGrey-name = Серая командирская куртка стандартного образца
+ent-RMCCoatCOServiceJacketGrey-desc = Серая куртка дополняет стандартную униформу CO. 
 
-ent-CMCoatOfficer-name = lathe-category-clothing
+ent-CMCoatOfficer-name = токарный станок-категория-одежда
 
-ent-RMCProvostCoatFilled-name = Provost Coat
-ent-RMCProvostCoatFilled-desc = The crisp coat of a Provost Officer.
+ent-RMCProvostCoatFilled-name = Пальто Провоста
+ent-RMCProvostCoatFilled-desc = Хрустящее пальто офицера-провоста.
 
-ent-RMCProvostJacketFilled-name = Provost Jacket
-ent-RMCProvostJacketFilled-desc = A crisp jacket with the Provost sigil.
+ent-RMCProvostJacketFilled-name = Куртка Провоста
+ent-RMCProvostJacketFilled-desc = Яркая куртка с эмблемой Провоста.
 
-ent-RMCProvostCommandJacketFilled-name = Provost Command Jacket
-ent-RMCProvostCommandJacketFilled-desc = A crisp jacket with the Provost sigil.
+ent-RMCProvostCommandJacketFilled-name = Командная куртка провоста
+ent-RMCProvostCommandJacketFilled-desc = Яркая куртка с эмблемой Провоста.
 
-ent-RMCProvostCoatMarshalFilled-name = Provost Marshal Coat
-ent-RMCProvostCoatMarshalFilled-desc = The crisp coat of a Provost Officer.
+ent-RMCProvostCoatMarshalFilled-name = Пальто провоста маршала
+ent-RMCProvostCoatMarshalFilled-desc = Хрустящее пальто офицера-провоста.
 
-ent-RMCCoatParamedicGreen-name = EMT - Paramedic utility fatigues
-ent-RMCCoatParamedicGreen-desc = A set of EMT - Paramedic utility fatigues, this one is green.
+ent-RMCCoatParamedicGreen-name = ЕМТ - Рабочая одежда фельдшера
+ent-RMCCoatParamedicGreen-desc = Комплект одежды скорой помощи - парамедика, зеленый.
 
-ent-RMCBrownWEYACoat-name = brown WEYA coat
-ent-RMCBrownWEYACoat-desc = A long, tough coat with the company logo on the back. Popular on colonies which require function over form.
+ent-RMCBrownWEYACoat-name = коричневое пальто WEYA
+ent-RMCBrownWEYACoat-desc = Длинное прочное пальто с логотипом компании на спине. 
 
-ent-RMCWEYARainCoat-name = WEYA rain coat
-ent-RMCWEYARainCoat-desc = A bright, yellow raincoat with the Company logo. It's gaudy, sure, but it keeps the rain off well. Typically distributed to frontier colonies with heavy rain.
+ent-RMCWEYARainCoat-name = WEYA дождевик
+ent-RMCWEYARainCoat-desc = Яркий желтый плащ с логотипом компании. 
 
-ent-RMCCoatSnowSurvivor-name = robust snow suit
-ent-RMCCoatSnowSurvivor-desc = A snow suit. It can protect the wearer from extreme cold. This one seems to have been modified somewhat, and can both holster a gun and fit magazines.
+ent-RMCCoatSnowSurvivor-name = прочный снежный костюм
+ent-RMCCoatSnowSurvivor-desc = Снежный костюм. 
 
-ent-RMCCoatSnowSurvivorSecurity-name = security parka
-ent-RMCCoatSnowSurvivorSecurity-desc = A snow suit. It can protect the wearer from extreme cold. This one seems to have been modified somewhat, and can both holster a gun and fit magazines.
+ent-RMCCoatSnowSurvivorSecurity-name = охранная парка
+ent-RMCCoatSnowSurvivorSecurity-desc = Снежный костюм. 
 
-ent-RMCCoatSnowSurvivorCMBDeputy-name = CMB deputy parka
-ent-RMCCoatSnowSurvivorCMBDeputy-desc = A snow suit tailored to the CMB's needs. It can protect the wearer from extreme cold. The back is enscribed with the powerful letters of 'DEPUTY' representing justice, authority, and protection in the outer rim.
+ent-RMCCoatSnowSurvivorCMBDeputy-name = парка депутата CMB
+ent-RMCCoatSnowSurvivorCMBDeputy-desc = Зимний костюм, адаптированный к потребностям CMB. 
 
-ent-RMCCoatSnowSurvivorNavy-name = navy parka
-ent-RMCCoatSnowSurvivorNavy-desc = A snow suit. It can protect the wearer from extreme cold. This one seems to have been modified somewhat, and can both holster a gun and fit magazines.
+ent-RMCCoatSnowSurvivorNavy-name = темно-синяя парка
+ent-RMCCoatSnowSurvivorNavy-desc = Снежный костюм. 
 
-ent-RMCCoatSnowSurvivorYellow-name = yellow parka
-ent-RMCCoatSnowSurvivorYellow-desc = A snow suit. It can protect the wearer from extreme cold. This one seems to have been modified somewhat, and can both holster a gun and fit magazines.
+ent-RMCCoatSnowSurvivorYellow-name = желтая парка
+ent-RMCCoatSnowSurvivorYellow-desc = Снежный костюм. 
 
-ent-RMCCoatSnowSurvivorGreen-name = green parka
-ent-RMCCoatSnowSurvivorGreen-desc = A snow suit. It can protect the wearer from extreme cold. This one seems to have been modified somewhat, and can both holster a gun and fit magazines.
+ent-RMCCoatSnowSurvivorGreen-name = зеленая парка
+ent-RMCCoatSnowSurvivorGreen-desc = Снежный костюм. 
 
-ent-RMCCoatSnowSurvivorPurple-name = purple parka
-ent-RMCCoatSnowSurvivorPurple-desc = A snow suit. It can protect the wearer from extreme cold. This one seems to have been modified somewhat, and can both holster a gun and fit magazines.
+ent-RMCCoatSnowSurvivorPurple-name = фиолетовая парка
+ent-RMCCoatSnowSurvivorPurple-desc = Снежный костюм. 
 
-ent-RMCCoatSnowSoviet-name = soviet snowcoat
-ent-RMCCoatSnowSoviet-desc = A winter coat made in some desolate snowplanet. This wintercoat was made from the fur of local wildlife which donated their fur for the greater good of SPP!
+ent-RMCCoatSnowSoviet-name = советский снеговик
+ent-RMCCoatSnowSoviet-desc = Зимнее пальто, сделанное на какой-то пустынной снежной планете. 
 
-ent-RMCCoatSnowLiaison-name = liaison's wintercoat
-ent-RMCCoatSnowLiaison-desc = A Weston-Yamada winter coat. Only the best comfort for the liaison in a cold environment.
+ent-RMCCoatSnowLiaison-name = зимнее пальто связного
+ent-RMCCoatSnowLiaison-desc = Зимнее пальто Weston-Yamada. 
 

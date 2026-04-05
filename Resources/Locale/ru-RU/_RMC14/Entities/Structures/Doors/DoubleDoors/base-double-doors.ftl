@@ -1,46 +1,46 @@
-ent-RMCDoubleDoorBase-name = door
+ent-RMCDoubleDoorBase-name = дверь
 
-ent-RMCDoubleDoorAlmayerGlass-name = door
+ent-RMCDoubleDoorAlmayerGlass-name = дверь
 
-ent-RMCDoubleDoorAlmayerSolid-name = door
+ent-RMCDoubleDoorAlmayerSolid-name = дверь
 
-ent-RMCDoubleDoorCommandGlass-name = door
+ent-RMCDoubleDoorCommandGlass-name = дверь
 
-ent-RMCDoubleDoorCommandSolid-name = door
+ent-RMCDoubleDoorCommandSolid-name = дверь
 
-ent-RMCDoubleDoorEngineerGlass-name = door
+ent-RMCDoubleDoorEngineerGlass-name = дверь
 
-ent-RMCDoubleDoorEngineerSolid-name = door
+ent-RMCDoubleDoorEngineerSolid-name = дверь
 
-ent-RMCDoubleDoorGenericGlass-name = door
+ent-RMCDoubleDoorGenericGlass-name = дверь
 
-ent-RMCDoubleDoorGenericSolid-name = door
+ent-RMCDoubleDoorGenericSolid-name = дверь
 
-ent-RMCDoubleDoorMedicalGlass-name = door
+ent-RMCDoubleDoorMedicalGlass-name = дверь
 
-ent-RMCDoubleDoorMedicalSolid-name = door
+ent-RMCDoubleDoorMedicalSolid-name = дверь
 
-ent-RMCDoubleDoorPersonalGlass-name = door
+ent-RMCDoubleDoorPersonalGlass-name = дверь
 
-ent-RMCDoubleDoorPersonalSolid-name = door
+ent-RMCDoubleDoorPersonalSolid-name = дверь
 
-ent-RMCDoubleDoorPreparations-name = door
+ent-RMCDoubleDoorPreparations-name = дверь
 
-ent-RMCDoubleDoorPreparationsAlpha-name = door
+ent-RMCDoubleDoorPreparationsAlpha-name = дверь
 
-ent-RMCDoubleDoorPreparationsBravo-name = door
+ent-RMCDoubleDoorPreparationsBravo-name = дверь
 
-ent-RMCDoubleDoorPreparationsCharlie-name = door
+ent-RMCDoubleDoorPreparationsCharlie-name = дверь
 
-ent-RMCDoubleDoorPreparationsDelta-name = door
+ent-RMCDoubleDoorPreparationsDelta-name = дверь
 
-ent-RMCDoubleDoorSecurityGlass-name = door
+ent-RMCDoubleDoorSecurityGlass-name = дверь
 
-ent-RMCDoubleDoorSecuritySolid-name = door
+ent-RMCDoubleDoorSecuritySolid-name = дверь
 
-ent-RMCDoubleDoorSPPShipGlass-name = door
+ent-RMCDoubleDoorSPPShipGlass-name = дверь
 
-ent-RMCDoubleDoorSPPShipSolid-name = door
+ent-RMCDoubleDoorSPPShipSolid-name = дверь
 
-ent-RMCDoubleDoorSPPShipSolidUtility-name = door
+ent-RMCDoubleDoorSPPShipSolidUtility-name = дверь
 

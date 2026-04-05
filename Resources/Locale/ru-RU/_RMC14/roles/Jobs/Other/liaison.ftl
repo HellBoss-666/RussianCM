@@ -1,5 +1,5 @@
-ent-CMGuidebookRoleLiaisonYou-name = A Typical Weston-Yamada Liaison
+ent-CMGuidebookRoleLiaisonYou-name = Типичная связь Уэстон-Ямада
 
-ent-CMSpawnPointLiaison-name = liaison spawn point
-ent-CMSpawnPointLiaison-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointLiaison-name = точка спавна связи
+ent-CMSpawnPointLiaison-desc = Создатель заданий RMC14. 
 

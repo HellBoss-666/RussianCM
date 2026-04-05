@@ -1,66 +1,66 @@
-ent-RMCPlushieCrow-name = crow plushie
-ent-RMCPlushieCrow-desc = hello cro
+ent-RMCPlushieCrow-name = ворона плюшевая
+ent-RMCPlushieCrow-desc = привет крошка
 
-ent-RMCPlushieProvost-name = intimidating plush
-ent-RMCPlushieProvost-desc = An icon for all avid tax payers and law enforcement personnel - Don't let anyone know that this plushie is actually behind on their taxes.
+ent-RMCPlushieProvost-name = устрашающий плюш
+ent-RMCPlushieProvost-desc = Значок для всех заядлых налогоплательщиков и сотрудников правоохранительных органов. Не позволяйте никому узнать, что этот плюшевый мишка на самом деле задерживает налоги.
 
-ent-RMCPlushieGnarpGnarpAlt-name = gnarp plush
-ent-RMCPlushieGnarpGnarpAlt-desc = gnarp gnarp.
+ent-RMCPlushieGnarpGnarpAlt-name = гнарп плюшевый
+ent-RMCPlushieGnarpGnarpAlt-desc = гнарп гнарп.
 
-ent-RMCPlushieGnarpGnarp-name = gnarp plush
-ent-RMCPlushieGnarpGnarp-desc = gnarp gnarp.
+ent-RMCPlushieGnarpGnarp-name = гнарп плюшевый
+ent-RMCPlushieGnarpGnarp-desc = гнарп гнарп.
 
-ent-RMCPlushieXippy-name = xippy
-ent-RMCPlushieXippy-desc = An accursed agent of chaos and violence.
+ent-RMCPlushieXippy-name = ксиппи
+ent-RMCPlushieXippy-desc = Проклятый агент хаоса и насилия.
 
-ent-RMCPlushieMotivationalMoth-name = motivational marine moth
-ent-RMCPlushieMotivationalMoth-desc = A soft, fluffy little marine companion for those who just need a little motivation to make it across the finish line. You can do it, yesyes! It chitters happily when squeezed!
+ent-RMCPlushieMotivationalMoth-name = мотивационный Морпех мотылек
+ent-RMCPlushieMotivationalMoth-desc = Мягкий, пушистый маленький компаньон Морпех для тех, кому просто нужно немного мотивации, чтобы дойти до финиша. 
 
-ent-RMCPlushieNyx-name = accursed plush
-ent-RMCPlushieNyx-desc = It's rumoured if you ask this plushie for metal, your soul gets trapped in the pit. It's also rumoured that this plushie was made with 99% cotton.
+ent-RMCPlushieNyx-name = проклятый плюш
+ent-RMCPlushieNyx-desc = Ходят слухи, что если попросить у этого плюша металл, то твоя душа застрянет в яме. 
 
-ent-RMCPlushieAlec-name = conspicuous plush
-ent-RMCPlushieAlec-desc = You can almost feel spite emanating from it. On it's back is a small tag listing the several cheap and hypoallergenic textiles it's made of. At the very bottom is the name of the maker, Drake Industries.
+ent-RMCPlushieAlec-name = заметный плюш
+ent-RMCPlushieAlec-desc = Вы почти можете почувствовать исходящую от него злобу. 
 
-ent-RCMPlushieRounyLizard-name = silly rouny plushie
-ent-RCMPlushieRounyLizard-desc = A silly rouny plushie produced by the UNMC to reduce stress in marines, shown to be highly effective when thrown into walls.
+ent-RCMPlushieRounyLizard-name = глупый кругленький плюшевый плюшевый мишка
+ent-RCMPlushieRounyLizard-desc = Глупая круглая плюшевая игрушка, созданная UNMC для снижения стресса у морских пехотинцев. Доказано, что она очень эффективна, когда ее бросают в стены.
 
-ent-CMPlushieRunnerBeret-name = XX therapy plush
-ent-CMPlushieRunnerBeret-desc = Don't be sad! Be glad (that you're alive)!
+ent-CMPlushieRunnerBeret-name = XX терапия плюшевая
+ent-CMPlushieRunnerBeret-desc = Не грусти! 
 
-ent-CMPlushieTherapy-name = therapy plush
-ent-CMPlushieTherapy-desc = A therapeutic toy to assist marines in recovering from mental and behavioral disorders after experiencing the trauma of battles.
+ent-CMPlushieTherapy-name = терапия плюшевая
+ent-CMPlushieTherapy-desc = Терапевтическая игрушка, призванная помочь морским пехотинцам восстановиться после психических и поведенческих расстройств после травм, полученных в боях.
 
-ent-CMPlushieRock-name = rock plush
-ent-CMPlushieRock-desc = It says it is a plush on the tag, at least.
+ent-CMPlushieRock-name = рок плюш
+ent-CMPlushieRock-desc = По крайней мере, на бирке написано, что это плюш.
 
-ent-CMPlushieBee-name = bee plush
-ent-CMPlushieBee-desc = A cute toy that awakens the warrior spirit in the most reserved marine.
+ent-CMPlushieBee-name = пчела плюшевая
+ent-CMPlushieBee-desc = Милая игрушка, пробуждающая дух Воин в самом сдержанном Морпехе.
 
-ent-CMPlushieBarricade-name = plushie barricade
-ent-CMPlushieBarricade-desc = Great for squeezing whenever you're scared. Or lightly hurt. Or in any other situation.
+ent-CMPlushieBarricade-name = плюшевая баррикада
+ent-CMPlushieBarricade-desc = Отлично подходит для сжатия, когда вы напуганы. 
 
-ent-CMPlushieFarwa-name = Farwa plush
-ent-CMPlushieFarwa-desc = A Farwa plush doll. It's soft and comforting!
+ent-CMPlushieFarwa-name = Фарва плюшевый
+ent-CMPlushieFarwa-desc = Плюшевая кукла Фарва. 
 
-ent-CMPlushieBase-name = generic plushie
-ent-CMPlushieBase-desc = perfectly generic
+ent-CMPlushieBase-name = универсальный плюшевый
+ent-CMPlushieBase-desc = совершенно общий
 
-ent-RMCPlushieBaseAdmin-name = generic plushie
-ent-RMCPlushieBaseAdmin-desc = perfectly generic
+ent-RMCPlushieBaseAdmin-name = универсальный плюшевый
+ent-RMCPlushieBaseAdmin-desc = совершенно общий
 
-ent-RMCPlushieMoth-name = moth plushie
-ent-RMCPlushieMoth-desc = Cute and fluffy moth plushie. Enjoy, bz!
+ent-RMCPlushieMoth-name = плюшевый мотылек
+ent-RMCPlushieMoth-desc = Милый и пушистый плюшевый мотылек. 
 
-ent-RMCPlushieSharkGrey-name = grey shark soft toy
-ent-RMCPlushieSharkGrey-desc = A quiet, reserved kind of shonk. Loves to ride the grey tide.
+ent-RMCPlushieSharkGrey-name = мягкая игрушка серая акула
+ent-RMCPlushieSharkGrey-desc = Тихий, сдержанный шонк. 
 
-ent-RMCPlushieSharkBlue-name = blue shark soft toy
-ent-RMCPlushieSharkBlue-desc = Big and safe to have by your side if you want to discover the world below the surface of the ocean.
+ent-RMCPlushieSharkBlue-name = мягкая игрушка синяя акула
+ent-RMCPlushieSharkBlue-desc = Большой и безопасный, если вы хотите открыть для себя мир под поверхностью океана.
 
-ent-RMCPlushieSharkPink-name = pink shark soft toy
-ent-RMCPlushieSharkPink-desc = Hehe shonk :)
+ent-RMCPlushieSharkPink-name = мягкая игрушка розовая акула
+ent-RMCPlushieSharkPink-desc = Хе-хе, шонк :)
 
-ent-RMCShorkMedicalOfficer-name = Shork medical officer plushie
-ent-RMCShorkMedicalOfficer-desc = The Shork Medical Officer is disappointed to see you in surgery yet again. Maybe you should take better care of yourself?
+ent-RMCShorkMedicalOfficer-name = Мягкая игрушка офицера медицинской службы "Шорк"
+ent-RMCShorkMedicalOfficer-desc = Медицинский офицер Шорка разочарован, снова увидев вас на операции. 
 

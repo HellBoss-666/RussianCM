@@ -1,78 +1,78 @@
-ent-RMCPouchGeneralLargeBureauObserverFill-name = large general pouch
-ent-RMCPouchGeneralLargeBureauObserverFill-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeBureauObserverFill-name = большая общая сумка
+ent-RMCPouchGeneralLargeBureauObserverFill-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 
-ent-RMCPouchGeneralLargeICBLiaison-name = large general pouch
-ent-RMCPouchGeneralLargeICBLiaison-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeICBLiaison-name = большая общая сумка
+ent-RMCPouchGeneralLargeICBLiaison-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 
-ent-RMCPouchMagazineFilledMP5-name = magazine pouch
-ent-RMCPouchMagazineFilledMP5-desc = It can carry magazines.
+ent-RMCPouchMagazineFilledMP5-name = подсумок магазинов
+ent-RMCPouchMagazineFilledMP5-desc = Он может содержать магазины.
 
-ent-RMCPouchMagazineFilledM16-name = magazine pouch
-ent-RMCPouchMagazineFilledM16-desc = It can carry magazines.
+ent-RMCPouchMagazineFilledM16-name = подсумок магазинов
+ent-RMCPouchMagazineFilledM16-desc = Он может содержать магазины.
 
-ent-RMCPouchMagazineFilledPDW90-name = magazine pouch
-ent-RMCPouchMagazineFilledPDW90-desc = It can carry magazines.
+ent-RMCPouchMagazineFilledPDW90-name = подсумок магазинов
+ent-RMCPouchMagazineFilledPDW90-desc = Он может содержать магазины.
 
-ent-RMCPouchMagazineFilledKT42-name = magazine pouch
-ent-RMCPouchMagazineFilledKT42-desc = It can carry magazines.
+ent-RMCPouchMagazineFilledKT42-name = подсумок магазинов
+ent-RMCPouchMagazineFilledKT42-desc = Он может содержать магазины.
 
-ent-RMCPouchMagazineFilledMAR40Ext-name = magazine pouch
-ent-RMCPouchMagazineFilledMAR40Ext-desc = It can carry magazines.
+ent-RMCPouchMagazineFilledMAR40Ext-name = подсумок магазинов
+ent-RMCPouchMagazineFilledMAR40Ext-desc = Он может содержать магазины.
 
-ent-RMCPouchMagazineLargeMP5-name = large magazine pouch
-ent-RMCPouchMagazineLargeMP5-desc = It can carry many magazines.
+ent-RMCPouchMagazineLargeMP5-name = большая подсумок магазинов
+ent-RMCPouchMagazineLargeMP5-desc = Он может содержать много магазинов.
 
-ent-RMCPouchMagazineType64-name = large magazine pouch
-ent-RMCPouchMagazineType64-desc = It can carry many magazines.
+ent-RMCPouchMagazineType64-name = большая подсумок магазинов
+ent-RMCPouchMagazineType64-desc = Он может содержать много магазинов.
 
-ent-RMCPouchMagazinePistolFilledMateba-name = pistol magazine pouch
-ent-RMCPouchMagazinePistolFilledMateba-desc = It can carry pistol magazines and revolver speedloaders.
+ent-RMCPouchMagazinePistolFilledMateba-name = Подсумок магазинов Mateba
+ent-RMCPouchMagazinePistolFilledMateba-desc = Он может нести магазины «Mateba и револьверные спидлоадеры.
 
-ent-RMCPouchShotgunFilledBuckshot-name = shotgun shell pouch
-ent-RMCPouchShotgunFilledBuckshot-desc = It can contain handfuls of shells.
+ent-RMCPouchShotgunFilledBuckshot-name = подсумок дроби
+ent-RMCPouchShotgunFilledBuckshot-desc = Он может содержать несколько ракушек.
 
-ent-RMCPouchShotgunFilledPolicing-name = shotgun shell pouch
-ent-RMCPouchShotgunFilledPolicing-desc = It can contain handfuls of shells.
+ent-RMCPouchShotgunFilledPolicing-name = подсумок дроби
+ent-RMCPouchShotgunFilledPolicing-desc = Он может содержать несколько ракушек.
 
-ent-RMCPouchShotgunFilledBeanbag-name = shotgun shell pouch
-ent-RMCPouchShotgunFilledBeanbag-desc = It can contain handfuls of shells.
+ent-RMCPouchShotgunFilledBeanbag-name = подсумок дроби
+ent-RMCPouchShotgunFilledBeanbag-desc = Он может содержать несколько ракушек.
 
-ent-RMCPouchShotgunLargeBeanbag-name = large shotgun shell pouch
-ent-RMCPouchShotgunLargeBeanbag-desc = It can contain more handfuls of shells.
+ent-RMCPouchShotgunLargeBeanbag-name = большой подсумок дроби
+ent-RMCPouchShotgunLargeBeanbag-desc = Он может содержать больше горстей ракушек.
 
-ent-RMCPouchShotgunLargeSlugs-name = large shotgun shell pouch
-ent-RMCPouchShotgunLargeSlugs-desc = It can contain more handfuls of shells.
+ent-RMCPouchShotgunLargeSlugs-name = большой подсумок для патронов для дробовика
+ent-RMCPouchShotgunLargeSlugs-desc = Он может содержать больше горстей ракушек.
 
-ent-RMCPouchFlareFilled-name = flare pouch
-ent-RMCPouchFlareFilled-desc = A pouch designed to hold flares. Refillable with an M94 flare pack.
+ent-RMCPouchFlareFilled-name = подсумок фаеров
+ent-RMCPouchFlareFilled-desc = Сумка, предназначенная для хранения сигнальных ракет.
 
-ent-RMCPouchFlareL96Filled-name = L96 flare pouch
-ent-RMCPouchFlareL96Filled-desc = A pouch designed to hold flares used by the Royal Crown Marines. Refillable with an L96 flare pack.
+ent-RMCPouchFlareL96Filled-name = сумка-рассветная сумка L96
+ent-RMCPouchFlareL96Filled-desc = Сумка, предназначенная для хранения сигнальных ракет, используемых Королевской морской пехотой.
 
-ent-RMCPouchElectronicsFill-name = electronics pouch
-ent-RMCPouchElectronicsFill-desc = It is designed to hold most electronics, power cells and circuit boards.
+ent-RMCPouchElectronicsFill-name = подсуомк для электроники
+ent-RMCPouchElectronicsFill-desc = Он предназначен для хранения большинства электронных устройств, силовых элементов и печатных плат.
 
-ent-RMCPouchToolsFill-name = tools pouch
-ent-RMCPouchToolsFill-desc = It's designed to hold maintenance tools - screwdriver, wrench, cable coil, etc. It also has a hook for an entrenching tool or light replacer.
+ent-RMCPouchToolsFill-name = подсумок инструментов
+ent-RMCPouchToolsFill-desc = Он предназначен для хранения инструментов для обслуживания — отвертки, гаечного ключа, катушки кабеля и т. д. Он также имеет крючок для шанцевого инструмента или легкого заменителя.
 
-ent-RMCPouchToolsSocFill-name = tactical tools pouch
-ent-RMCPouchToolsSocFill-desc = This particular toolkit full of sharp, heavy objects was designed for breaking into things rather than fixing them. Still does the latter pretty well, though.
+ent-RMCPouchToolsSocFill-name = тактический подсумок для инструментов
+ent-RMCPouchToolsSocFill-desc = Этот конкретный набор инструментов, полный острых и тяжелых предметов, был разработан для того, чтобы взламывать вещи, а не чинить их.
 
-ent-RMCPouchToolsSocMarineRaiderFill-name = tactical tools pouch
-ent-RMCPouchToolsSocMarineRaiderFill-desc = This particular toolkit full of sharp, heavy objects was designed for breaking into things rather than fixing them. Still does the latter pretty well, though.
+ent-RMCPouchToolsSocMarineRaiderFill-name = тактический подсумок для инструментов
+ent-RMCPouchToolsSocMarineRaiderFill-desc = Этот конкретный набор инструментов, полный острых и тяжелых предметов, был разработан для того, чтобы взламывать вещи, а не чинить их.
 
-ent-RMCPouchDrumPMCFill-name = smartgun drum pouch
-ent-RMCPouchDrumPMCFill-desc = A heavy pouch designed for carrying a surplus of smartgun drums.
+ent-RMCPouchDrumPMCFill-name = подсумок для смартгана
+ent-RMCPouchDrumPMCFill-desc = Тяжелая сумка, предназначенная для переноски излишков барабанов для смартгана.
 
-ent-RMCPouchSurvivalFill-name = survival pouch
-ent-RMCPouchSurvivalFill-desc = A pouch given to colonists in the event of an emergency.
+ent-RMCPouchSurvivalFill-name = сумка для выживания
+ent-RMCPouchSurvivalFill-desc = Сумка, выдаваемая колонистам на случай чрезвычайной ситуации.
 
-ent-RMCPouchSurvivalFillRadioOff-name = survival pouch
-ent-RMCPouchSurvivalFillRadioOff-desc = A pouch given to colonists in the event of an emergency.
+ent-RMCPouchSurvivalFillRadioOff-name = сумка для выживания
+ent-RMCPouchSurvivalFillRadioOff-desc = Сумка, выдаваемая колонистам на случай чрезвычайной ситуации.
 
-ent-RMCPouchSurvivalBlackFilled-name = survival pouch
-ent-RMCPouchSurvivalBlackFilled-desc = A pouch given to colonists in the event of an emergency.
+ent-RMCPouchSurvivalBlackFilled-name = сумка для выживания
+ent-RMCPouchSurvivalBlackFilled-desc = Сумка, выдаваемая колонистам на случай чрезвычайной ситуации.
 
-ent-RMCPouchSurvivalSynthFill-name = synth survival pouch
-ent-RMCPouchSurvivalSynthFill-desc = An emergency pouch given to silicons in the event of an emergency.
+ent-RMCPouchSurvivalSynthFill-name = сумка для выживания синтезатора
+ent-RMCPouchSurvivalSynthFill-desc = Аварийный мешочек для силиконов на случай чрезвычайной ситуации.
 

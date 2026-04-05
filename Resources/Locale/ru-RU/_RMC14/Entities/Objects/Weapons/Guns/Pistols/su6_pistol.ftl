@@ -1,11 +1,11 @@
-ent-RMCBulletPistol45ACP-name = bullet (.45 ACP)
-ent-RMCBulletPistol45ACP-desc = If you can see this you're probably dead!
+ent-RMCBulletPistol45ACP-name = пуля (.45 ACP)
+ent-RMCBulletPistol45ACP-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCCartridgePistol45ACP-name = cartridge (.45 ACP)
+ent-RMCCartridgePistol45ACP-name = патрон (.45 АСР)
 
-ent-RMCMagazinePistolSU6-name = item
-ent-RMCMagazinePistolSU6-desc = A pistol magazine.
+ent-RMCMagazinePistolSU6-name = элемент
+ent-RMCMagazinePistolSU6-desc = Журнал Пистолет.
 
-ent-RMCWeaponPistolSU6-name = SU-6 smart pistol
-ent-RMCWeaponPistolSU6-desc = The SU-6 Smartpistol is an IFF-based sidearm currently undergoing field testing in the UNMC. Uses modified .45 ACP IFF bullets. Capable of firing in bursts.
+ent-RMCWeaponPistolSU6-name = СУ-6 умный Пистолет
+ent-RMCWeaponPistolSU6-desc = СУ-6 Smartpistol — это пистолет на базе IFF, который в настоящее время проходит полевые испытания в UNMC. 
 

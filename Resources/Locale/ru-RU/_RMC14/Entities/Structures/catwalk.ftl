@@ -1,45 +1,45 @@
-ent-RMCRailroadBumper-name = rail bumpers
-ent-RMCRailroadBumper-desc = This (usually) stops minecarts and other rail vehicles at the end of a line of track.
+ent-RMCRailroadBumper-name = рельсовые отбойники
+ent-RMCRailroadBumper-desc = Это (обычно) останавливает вагонетки и другие железнодорожные транспортные средства в конце пути.
 
-ent-RMCRailroadStraight-name = rails
-ent-RMCRailroadStraight-desc = Minecarts and rail vehicles go on these.
+ent-RMCRailroadStraight-name = рельсы
+ent-RMCRailroadStraight-desc = По ним ездят вагонетки и рельсовый транспорт.
 
-ent-RMCMonorailStraight-name = monorail track
-ent-RMCMonorailStraight-desc = The rail system for the CORSAT monorail.
+ent-RMCMonorailStraight-name = монорельсовая дорога
+ent-RMCMonorailStraight-desc = Рельсовая система для монорельсовой дороги CORSAT.
 
-ent-RMCCatwalkHybrisaElevator-name = solid metal grate
-ent-RMCCatwalkHybrisaElevator-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkHybrisaElevator-name = твердая металлическая решетка
+ent-RMCCatwalkHybrisaElevator-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCCatwalkHybrisaLattice-name = structural lattice
-ent-RMCCatwalkHybrisaLattice-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkHybrisaLattice-name = структурная решетка
+ent-RMCCatwalkHybrisaLattice-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCCatwalkHybrisa-name = solid metal grate
-ent-RMCCatwalkHybrisa-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkHybrisa-name = твердая металлическая решетка
+ent-RMCCatwalkHybrisa-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-CMCatwalk-name = catwalk
-ent-CMCatwalk-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-CMCatwalk-name = подиум
+ent-CMCatwalk-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCCatwalkAI-name = catwalk
-ent-RMCCatwalkAI-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkAI-name = подиум
+ent-RMCCatwalkAI-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCCatwalkAIWhite-name = catwalk
-ent-RMCCatwalkAIWhite-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkAIWhite-name = подиум
+ent-RMCCatwalkAIWhite-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-CMCatwalkShiva-name = catwalk
-ent-CMCatwalkShiva-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-CMCatwalkShiva-name = подиум
+ent-CMCatwalkShiva-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-CMCatwalkPrison-name = catwalk
-ent-CMCatwalkPrison-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-CMCatwalkPrison-name = подиум
+ent-CMCatwalkPrison-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCCatwalkKutjevo-name = catwalk
-ent-RMCCatwalkKutjevo-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkKutjevo-name = подиум
+ent-RMCCatwalkKutjevo-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCCatwalkStrata-name = catwalk
-ent-RMCCatwalkStrata-desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-RMCCatwalkStrata-name = подиум
+ent-RMCCatwalkStrata-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCMonorailBend-name = monorail track
-ent-RMCMonorailBend-desc = The rail system for the CORSAT monorail.
+ent-RMCMonorailBend-name = монорельсовая дорога
+ent-RMCMonorailBend-desc = Рельсовая система для монорельсовой дороги CORSAT.
 
-ent-RMCRailroadBend-name = rails
-ent-RMCRailroadBend-desc = Minecarts and rail vehicles go on these.
+ent-RMCRailroadBend-name = рельсы
+ent-RMCRailroadBend-desc = По ним ездят вагонетки и рельсовый транспорт.
 

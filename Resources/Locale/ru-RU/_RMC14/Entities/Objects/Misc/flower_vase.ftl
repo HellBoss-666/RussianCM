@@ -1,6 +1,6 @@
-ent-RMCFlowerVaseBlue-name = vase of blue and white flowers
-ent-RMCFlowerVaseBlue-desc = A flower vase filled with blue and white roses.
+ent-RMCFlowerVaseBlue-name = ваза с синими и белыми цветами
+ent-RMCFlowerVaseBlue-desc = Ваза для цветов, наполненная синими и белыми розами.
 
-ent-RMCFlowerVase-name = vase of red and white flowers
-ent-RMCFlowerVase-desc = A flower vase filled with red and white roses.
+ent-RMCFlowerVase-name = ваза с красными и белыми цветами
+ent-RMCFlowerVase-desc = Ваза для цветов, наполненная красными и белыми розами.
 

@@ -1,55 +1,55 @@
-ent-RMCOverheadSignBarCrow-name = The Drowning Crow Bar
-ent-RMCOverheadSignBarCrow-desc = A sign for 'The Drowning Crow' bar. The sign is old and delapitated.
+ent-RMCOverheadSignBarCrow-name = Тонущий лом
+ent-RMCOverheadSignBarCrow-desc = Вывеска бара «Тонущий ворон». 
 
-ent-RMCOverheadSign-name = sign
+ent-RMCOverheadSign-name = знак
 
-ent-RMCOverheadSignNeon-name = sign
+ent-RMCOverheadSignNeon-name = знак
 
-ent-RMCOverheadSignNeonArcade-name = sign
+ent-RMCOverheadSignNeonArcade-name = знак
 
-ent-RMCOverheadSignNeonBar-name = sign
+ent-RMCOverheadSignNeonBar-name = знак
 
-ent-RMCOverheadSignNeonCafe-name = sign
+ent-RMCOverheadSignNeonCafe-name = знак
 
-ent-RMCOverheadSignNeonCafeAlt-name = sign
+ent-RMCOverheadSignNeonCafeAlt-name = знак
 
-ent-RMCOverheadSignNeonCasino-name = sign
+ent-RMCOverheadSignNeonCasino-name = знак
 
-ent-RMCOverheadSignNeonCoffee-name = sign
+ent-RMCOverheadSignNeonCoffee-name = знак
 
-ent-RMCOverheadSignNeonHotel-name = sign
+ent-RMCOverheadSignNeonHotel-name = знак
 
-ent-RMCOverheadSignNeonJacks-name = sign
+ent-RMCOverheadSignNeonJacks-name = знак
 
-ent-RMCOverheadSignNeonMechanics-name = sign
+ent-RMCOverheadSignNeonMechanics-name = знак
 
-ent-RMCOverheadSignNeonMisc-name = sign
+ent-RMCOverheadSignNeonMisc-name = знак
 
-ent-RMCOverheadSignNeonMiscVert-name = sign
+ent-RMCOverheadSignNeonMiscVert-name = знак
 
-ent-RMCOverheadSignNeonMiscVert2-name = sign
+ent-RMCOverheadSignNeonMiscVert2-name = знак
 
-ent-RMCOverheadSignNeonMiscVert3-name = sign
+ent-RMCOverheadSignNeonMiscVert3-name = знак
 
-ent-RMCOverheadSignNeonMiscVert4-name = sign
+ent-RMCOverheadSignNeonMiscVert4-name = знак
 
-ent-RMCOverheadSignNeonMiscVert5-name = sign
+ent-RMCOverheadSignNeonMiscVert5-name = знак
 
-ent-RMCOverheadSignNeonMiscVert6-name = sign
+ent-RMCOverheadSignNeonMiscVert6-name = знак
 
-ent-RMCOverheadSignNeonMiscVert7-name = sign
+ent-RMCOverheadSignNeonMiscVert7-name = знак
 
-ent-RMCOverheadSignNeonNightCasino-name = sign
+ent-RMCOverheadSignNeonNightCasino-name = знак
 
-ent-RMCOverheadSignNeonOpen-name = sign
+ent-RMCOverheadSignNeonOpen-name = знак
 
-ent-RMCOverheadSignNeonOpen2-name = sign
+ent-RMCOverheadSignNeonOpen2-name = знак
 
-ent-RMCOverheadSignNeonPharmacy-name = sign
+ent-RMCOverheadSignNeonPharmacy-name = знак
 
-ent-RMCOverheadSignNeonPizza-name = sign
+ent-RMCOverheadSignNeonPizza-name = знак
 
-ent-RMCOverheadSignNeonWeYaMart-name = sign
+ent-RMCOverheadSignNeonWeYaMart-name = знак
 
-ent-RMCOverheadSignNeonWeYaMartOffset-name = sign
+ent-RMCOverheadSignNeonWeYaMartOffset-name = знак
 

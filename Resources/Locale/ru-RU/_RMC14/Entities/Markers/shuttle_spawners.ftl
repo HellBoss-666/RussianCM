@@ -1,33 +1,33 @@
-ent-RMCSpawnerShuttle-name = shuttle spawner
-ent-RMCSpawnerShuttle-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerShuttle-name = спаунер шаттла
+ent-RMCSpawnerShuttle-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerPVEAlamo-name = shuttle spawner
-ent-RMCSpawnerPVEAlamo-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerPVEAlamo-name = спаунер шаттла
+ent-RMCSpawnerPVEAlamo-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerPVENormandy-name = shuttle spawner
-ent-RMCSpawnerPVENormandy-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerPVENormandy-name = спаунер шаттла
+ent-RMCSpawnerPVENormandy-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerERTShuttle-name = shuttle spawner
-ent-RMCSpawnerERTShuttle-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerERTShuttle-name = спаунер шаттла
+ent-RMCSpawnerERTShuttle-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerERTShuttleWeYa-name = shuttle spawner
-ent-RMCSpawnerERTShuttleWeYa-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerERTShuttleWeYa-name = спаунер шаттла
+ent-RMCSpawnerERTShuttleWeYa-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerERTShuttleSPP-name = shuttle spawner
-ent-RMCSpawnerERTShuttleSPP-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerERTShuttleSPP-name = спаунер шаттла
+ent-RMCSpawnerERTShuttleSPP-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerERTShuttleTSE-name = shuttle spawner
-ent-RMCSpawnerERTShuttleTSE-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerERTShuttleTSE-name = спаунер шаттла
+ent-RMCSpawnerERTShuttleTSE-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerERTShuttleCMB-name = shuttle spawner
-ent-RMCSpawnerERTShuttleCMB-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerERTShuttleCMB-name = спаунер шаттла
+ent-RMCSpawnerERTShuttleCMB-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerERTShuttleTSEPA-name = shuttle spawner
-ent-RMCSpawnerERTShuttleTSEPA-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerERTShuttleTSEPA-name = спаунер шаттла
+ent-RMCSpawnerERTShuttleTSEPA-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerShuttleCMB-name = shuttle spawner
-ent-RMCSpawnerShuttleCMB-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerShuttleCMB-name = спаунер шаттла
+ent-RMCSpawnerShuttleCMB-desc = Определяет место появления шаттла.
 
-ent-RMCSpawnerShuttleTSEPA-name = shuttle spawner
-ent-RMCSpawnerShuttleTSEPA-desc = Defines a location to spawn a shuttle in.
+ent-RMCSpawnerShuttleTSEPA-name = спаунер шаттла
+ent-RMCSpawnerShuttleTSEPA-desc = Определяет место появления шаттла.
 

@@ -1,3 +1,3 @@
-ent-RMCIDCardCMBResponder-name = CMB Communications Officer ID card
-ent-RMCIDCardCMBResponder-desc = Issued to the fax operators of CMB Regional Command. Represents a commitment to upholding the law.
+ent-RMCIDCardCMBResponder-name = Удостоверение сотрудника по связям с общественностью CMB
+ent-RMCIDCardCMBResponder-desc = Выдано факсимильным операторам Регионального командования CMB. 
 

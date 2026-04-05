@@ -1,48 +1,48 @@
-ent-RMCWallEscapePod0-name = wall
-ent-RMCWallEscapePod0-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod0-name = стена
+ent-RMCWallEscapePod0-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod1-name = wall
-ent-RMCWallEscapePod1-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod1-name = стена
+ent-RMCWallEscapePod1-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod2-name = wall
-ent-RMCWallEscapePod2-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod2-name = стена
+ent-RMCWallEscapePod2-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod3-name = wall
-ent-RMCWallEscapePod3-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod3-name = стена
+ent-RMCWallEscapePod3-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod4-name = wall
-ent-RMCWallEscapePod4-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod4-name = стена
+ent-RMCWallEscapePod4-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod5-name = wall
-ent-RMCWallEscapePod5-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod5-name = стена
+ent-RMCWallEscapePod5-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod6-name = wall
-ent-RMCWallEscapePod6-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod6-name = стена
+ent-RMCWallEscapePod6-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod7-name = wall
-ent-RMCWallEscapePod7-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod7-name = стена
+ent-RMCWallEscapePod7-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod8-name = wall
-ent-RMCWallEscapePod8-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod8-name = стена
+ent-RMCWallEscapePod8-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod9-name = wall
-ent-RMCWallEscapePod9-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod9-name = стена
+ent-RMCWallEscapePod9-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod10-name = wall
-ent-RMCWallEscapePod10-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod10-name = стена
+ent-RMCWallEscapePod10-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod11-name = wall
-ent-RMCWallEscapePod11-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod11-name = стена
+ent-RMCWallEscapePod11-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod12-name = wall
-ent-RMCWallEscapePod12-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod12-name = стена
+ent-RMCWallEscapePod12-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod13-name = wall
-ent-RMCWallEscapePod13-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod13-name = стена
+ent-RMCWallEscapePod13-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod14-name = wall
-ent-RMCWallEscapePod14-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod14-name = стена
+ent-RMCWallEscapePod14-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallEscapePod15-name = wall
-ent-RMCWallEscapePod15-desc = A huge chunk of metal used to separate rooms.
+ent-RMCWallEscapePod15-name = стена
+ent-RMCWallEscapePod15-desc = Огромный кусок металла, используемый для разделения комнат.
 

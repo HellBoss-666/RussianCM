@@ -1,2 +1,2 @@
-ent-CMCartridgeSMGBase-name = cartridge (.25 caseless)
+ent-CMCartridgeSMGBase-name = патрон (.25 безгильзовый)
 

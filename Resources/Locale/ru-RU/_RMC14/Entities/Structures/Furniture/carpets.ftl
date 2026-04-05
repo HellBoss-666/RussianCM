@@ -1,152 +1,152 @@
-ent-RMCCarpetBlack1-name = black carpet
-ent-RMCCarpetBlack1-desc = Fancy walking surface.
+ent-RMCCarpetBlack1-name = черный ковер
+ent-RMCCarpetBlack1-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink1-name = pink carpet
-ent-RMCCarpetPink1-desc = Fancy walking surface.
+ent-RMCCarpetPink1-name = розовый ковер
+ent-RMCCarpetPink1-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue1-name = grey blue carpet
-ent-RMCCarpetGreyBlue1-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue1-name = серо-синий ковер
+ent-RMCCarpetGreyBlue1-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige1-name = beige carpet
-ent-RMCCarpetBeige1-desc = Fancy walking surface.
+ent-RMCCarpetBeige1-name = бежевый ковер
+ent-RMCCarpetBeige1-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue1-name = blue carpet
-ent-RMCCarpetBlue1-desc = Fancy walking surface.
+ent-RMCCarpetBlue1-name = синий ковер
+ent-RMCCarpetBlue1-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBaseNonIconsmooth-name = carpet
-ent-RMCCarpetBaseNonIconsmooth-desc = Fancy walking surface.
+ent-RMCCarpetBaseNonIconsmooth-name = ковер
+ent-RMCCarpetBaseNonIconsmooth-desc = Необычная поверхность для ходьбы.
 
-ent-CMCarpetBase-name = carpet
-ent-CMCarpetBase-desc = Fancy walking surface.
+ent-CMCarpetBase-name = ковер
+ent-CMCarpetBase-desc = Необычная поверхность для ходьбы.
 
-ent-CMCarpetPrison-name = carpet
-ent-CMCarpetPrison-desc = Fancy walking surface.
+ent-CMCarpetPrison-name = ковер
+ent-CMCarpetPrison-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue2-name = blue carpet
-ent-RMCCarpetBlue2-desc = Fancy walking surface.
+ent-RMCCarpetBlue2-name = синий ковер
+ent-RMCCarpetBlue2-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue3-name = blue carpet
-ent-RMCCarpetBlue3-desc = Fancy walking surface.
+ent-RMCCarpetBlue3-name = синий ковер
+ent-RMCCarpetBlue3-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue4-name = blue carpet
-ent-RMCCarpetBlue4-desc = Fancy walking surface.
+ent-RMCCarpetBlue4-name = синий ковер
+ent-RMCCarpetBlue4-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue5-name = blue carpet
-ent-RMCCarpetBlue5-desc = Fancy walking surface.
+ent-RMCCarpetBlue5-name = синий ковер
+ent-RMCCarpetBlue5-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue6-name = blue carpet
-ent-RMCCarpetBlue6-desc = Fancy walking surface.
+ent-RMCCarpetBlue6-name = синий ковер
+ent-RMCCarpetBlue6-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue7-name = blue carpet
-ent-RMCCarpetBlue7-desc = Fancy walking surface.
+ent-RMCCarpetBlue7-name = синий ковер
+ent-RMCCarpetBlue7-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue8-name = blue carpet
-ent-RMCCarpetBlue8-desc = Fancy walking surface.
+ent-RMCCarpetBlue8-name = синий ковер
+ent-RMCCarpetBlue8-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlue9-name = blue carpet
-ent-RMCCarpetBlue9-desc = Fancy walking surface.
+ent-RMCCarpetBlue9-name = синий ковер
+ent-RMCCarpetBlue9-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige2-name = beige carpet
-ent-RMCCarpetBeige2-desc = Fancy walking surface.
+ent-RMCCarpetBeige2-name = бежевый ковер
+ent-RMCCarpetBeige2-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige3-name = beige carpet
-ent-RMCCarpetBeige3-desc = Fancy walking surface.
+ent-RMCCarpetBeige3-name = бежевый ковер
+ent-RMCCarpetBeige3-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige4-name = beige carpet
-ent-RMCCarpetBeige4-desc = Fancy walking surface.
+ent-RMCCarpetBeige4-name = бежевый ковер
+ent-RMCCarpetBeige4-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige5-name = beige carpet
-ent-RMCCarpetBeige5-desc = Fancy walking surface.
+ent-RMCCarpetBeige5-name = бежевый ковер
+ent-RMCCarpetBeige5-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige6-name = beige carpet
-ent-RMCCarpetBeige6-desc = Fancy walking surface.
+ent-RMCCarpetBeige6-name = бежевый ковер
+ent-RMCCarpetBeige6-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige7-name = beige carpet
-ent-RMCCarpetBeige7-desc = Fancy walking surface.
+ent-RMCCarpetBeige7-name = бежевый ковер
+ent-RMCCarpetBeige7-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige8-name = beige carpet
-ent-RMCCarpetBeige8-desc = Fancy walking surface.
+ent-RMCCarpetBeige8-name = бежевый ковер
+ent-RMCCarpetBeige8-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBeige9-name = beige carpet
-ent-RMCCarpetBeige9-desc = Fancy walking surface.
+ent-RMCCarpetBeige9-name = бежевый ковер
+ent-RMCCarpetBeige9-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue2-name = grey blue carpet
-ent-RMCCarpetGreyBlue2-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue2-name = серо-синий ковер
+ent-RMCCarpetGreyBlue2-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue3-name = grey blue carpet
-ent-RMCCarpetGreyBlue3-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue3-name = серо-синий ковер
+ent-RMCCarpetGreyBlue3-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue4-name = grey blue carpet
-ent-RMCCarpetGreyBlue4-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue4-name = серо-синий ковер
+ent-RMCCarpetGreyBlue4-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue5-name = grey blue carpet
-ent-RMCCarpetGreyBlue5-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue5-name = серо-синий ковер
+ent-RMCCarpetGreyBlue5-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue6-name = grey blue carpet
-ent-RMCCarpetGreyBlue6-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue6-name = серо-синий ковер
+ent-RMCCarpetGreyBlue6-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue7-name = grey blue carpet
-ent-RMCCarpetGreyBlue7-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue7-name = серо-синий ковер
+ent-RMCCarpetGreyBlue7-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue8-name = grey blue carpet
-ent-RMCCarpetGreyBlue8-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue8-name = серо-синий ковер
+ent-RMCCarpetGreyBlue8-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetGreyBlue9-name = grey blue carpet
-ent-RMCCarpetGreyBlue9-desc = Fancy walking surface.
+ent-RMCCarpetGreyBlue9-name = серо-синий ковер
+ent-RMCCarpetGreyBlue9-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink2-name = pink carpet
-ent-RMCCarpetPink2-desc = Fancy walking surface.
+ent-RMCCarpetPink2-name = розовый ковер
+ent-RMCCarpetPink2-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink3-name = pink carpet
-ent-RMCCarpetPink3-desc = Fancy walking surface.
+ent-RMCCarpetPink3-name = розовый ковер
+ent-RMCCarpetPink3-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink4-name = pink carpet
-ent-RMCCarpetPink4-desc = Fancy walking surface.
+ent-RMCCarpetPink4-name = розовый ковер
+ent-RMCCarpetPink4-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink5-name = pink carpet
-ent-RMCCarpetPink5-desc = Fancy walking surface.
+ent-RMCCarpetPink5-name = розовый ковер
+ent-RMCCarpetPink5-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink6-name = pink carpet
-ent-RMCCarpetPink6-desc = Fancy walking surface.
+ent-RMCCarpetPink6-name = розовый ковер
+ent-RMCCarpetPink6-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink7-name = pink carpet
-ent-RMCCarpetPink7-desc = Fancy walking surface.
+ent-RMCCarpetPink7-name = розовый ковер
+ent-RMCCarpetPink7-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink8-name = pink carpet
-ent-RMCCarpetPink8-desc = Fancy walking surface.
+ent-RMCCarpetPink8-name = розовый ковер
+ent-RMCCarpetPink8-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetPink9-name = pink carpet
-ent-RMCCarpetPink9-desc = Fancy walking surface.
+ent-RMCCarpetPink9-name = розовый ковер
+ent-RMCCarpetPink9-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack2-name = black carpet
-ent-RMCCarpetBlack2-desc = Fancy walking surface.
+ent-RMCCarpetBlack2-name = черный ковер
+ent-RMCCarpetBlack2-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack3-name = black carpet
-ent-RMCCarpetBlack3-desc = Fancy walking surface.
+ent-RMCCarpetBlack3-name = черный ковер
+ent-RMCCarpetBlack3-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack4-name = black carpet
-ent-RMCCarpetBlack4-desc = Fancy walking surface.
+ent-RMCCarpetBlack4-name = черный ковер
+ent-RMCCarpetBlack4-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack5-name = black carpet
-ent-RMCCarpetBlack5-desc = Fancy walking surface.
+ent-RMCCarpetBlack5-name = черный ковер
+ent-RMCCarpetBlack5-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack6-name = black carpet
-ent-RMCCarpetBlack6-desc = Fancy walking surface.
+ent-RMCCarpetBlack6-name = черный ковер
+ent-RMCCarpetBlack6-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack7-name = black carpet
-ent-RMCCarpetBlack7-desc = Fancy walking surface.
+ent-RMCCarpetBlack7-name = черный ковер
+ent-RMCCarpetBlack7-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack8-name = black carpet
-ent-RMCCarpetBlack8-desc = Fancy walking surface.
+ent-RMCCarpetBlack8-name = черный ковер
+ent-RMCCarpetBlack8-desc = Необычная поверхность для ходьбы.
 
-ent-RMCCarpetBlack9-name = black carpet
-ent-RMCCarpetBlack9-desc = Fancy walking surface.
+ent-RMCCarpetBlack9-name = черный ковер
+ent-RMCCarpetBlack9-desc = Необычная поверхность для ходьбы.
 
-ent-RMCBaseColourableRug-name = rug
+ent-RMCBaseColourableRug-name = коврик
 
-ent-RMCColourableRugGrey-name = rubber mat
+ent-RMCColourableRugGrey-name = резиновый коврик
 
-ent-RMCColourableRugRed-name = rug
+ent-RMCColourableRugRed-name = коврик
 
-ent-RMCColourableRugBlue-name = rug
+ent-RMCColourableRugBlue-name = коврик
 

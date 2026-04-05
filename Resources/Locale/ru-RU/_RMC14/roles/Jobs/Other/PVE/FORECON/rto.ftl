@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVERadioTelephoneOperator-name = forecon rto spawn point
-ent-RMCSpawnPointFORECONPVERadioTelephoneOperator-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointFORECONPVERadioTelephoneOperator-name = точка появления Forecon RTO
+ent-RMCSpawnPointFORECONPVERadioTelephoneOperator-desc = Создатель заданий RMC14. 
 

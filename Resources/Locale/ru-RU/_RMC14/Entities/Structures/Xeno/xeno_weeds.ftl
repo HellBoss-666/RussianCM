@@ -1,35 +1,35 @@
-ent-XenoHardyWeedsSource-name = hardy weed node
-ent-XenoHardyWeedsSource-desc = A weird, pulsating node
+ent-XenoHardyWeedsSource-name = выносливый узел с сорняками
+ent-XenoHardyWeedsSource-desc = Странный пульсирующий узел
 
-ent-XenoWeedsWall-name = weeds
+ent-XenoWeedsWall-name = сорняки
 
-ent-XenoHiveWeedsSource-name = hive weed node
-ent-XenoHiveWeedsSource-desc = A weird, pulsating node
+ent-XenoHiveWeedsSource-name = узел для борьбы с сорняками
+ent-XenoHiveWeedsSource-desc = Странный пульсирующий узел
 
-ent-XenoHiveWeeds-name = hive weeds
-ent-XenoHiveWeeds-desc = Weird black weeds...
+ent-XenoHiveWeeds-name = Улей сорняков
+ent-XenoHiveWeeds-desc = Странные черные сорняки...
 
-ent-XenoWeedsSource-name = weed node
-ent-XenoWeedsSource-desc = A weird, pulsating node
+ent-XenoWeedsSource-name = узел сорняков
+ent-XenoWeedsSource-desc = Странный пульсирующий узел
 
-ent-XenoWeeds-name = weeds
-ent-XenoWeeds-desc = Weird black weeds...
+ent-XenoWeeds-name = сорняки
+ent-XenoWeeds-desc = Странные черные сорняки...
 
-ent-XenoWeedsSourceHidden-name = weeds
-ent-XenoWeedsSourceHidden-desc = Weird black weeds...
+ent-XenoWeedsSourceHidden-name = сорняки
+ent-XenoWeedsSourceHidden-desc = Странные черные сорняки...
 
-ent-XenoHiveWeedsCluster-name = hive weeds
-ent-XenoHiveWeedsCluster-desc = Weird black weeds...
+ent-XenoHiveWeedsCluster-name = Улей сорняков
+ent-XenoHiveWeedsCluster-desc = Странные черные сорняки...
 
-ent-XenoHiveWeedsCore-name = hive weeds
-ent-XenoHiveWeedsCore-desc = Weird black weeds...
+ent-XenoHiveWeedsCore-name = Улей сорняков
+ent-XenoHiveWeedsCore-desc = Странные черные сорняки...
 
-ent-XenoHiveWeedsSourceHidden-name = hive weeds
-ent-XenoHiveWeedsSourceHidden-desc = Weird black weeds...
+ent-XenoHiveWeedsSourceHidden-name = Улей сорняков
+ent-XenoHiveWeedsSourceHidden-desc = Странные черные сорняки...
 
-ent-XenoHardyWeeds-name = weeds
-ent-XenoHardyWeeds-desc = Weird black weeds...
+ent-XenoHardyWeeds-name = сорняки
+ent-XenoHardyWeeds-desc = Странные черные сорняки...
 
-ent-XenoHardyWeedsSourceHidden-name = weeds
-ent-XenoHardyWeedsSourceHidden-desc = Weird black weeds...
+ent-XenoHardyWeedsSourceHidden-name = сорняки
+ent-XenoHardyWeedsSourceHidden-desc = Странные черные сорняки...
 

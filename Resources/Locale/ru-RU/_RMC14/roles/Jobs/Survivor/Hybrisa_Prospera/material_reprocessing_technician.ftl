@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaMaterialReprocessingTechnician-name = hybrisa material reprocessing technician preset
+ent-RMCGearSurvivorPresetHybrisaMaterialReprocessingTechnician-name = Предварительная настройка специалиста по переработке материалов hybrisa
 
-ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician-name = hybrisa material reprocessing technician spawn point
-ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician-name = Точка возрождения техника по переработке материалов гибриды
+ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician-desc = Создатель заданий RMC14. 
 

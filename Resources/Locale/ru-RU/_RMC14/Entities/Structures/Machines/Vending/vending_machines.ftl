@@ -1,87 +1,87 @@
-ent-CMVendorIngredients-name = Galley Auxiliary Storage Requisition System
-ent-CMVendorIngredients-desc = A vending machine meant to be use for cooks.
+ent-CMVendorIngredients-name = Система запроса вспомогательного складского помещения на камбузе
+ent-CMVendorIngredients-desc = Торговый автомат, предназначенный для поваров.
 
-ent-CMVendorSodaSoviet-name = Vendomat
-ent-CMVendorSodaSoviet-desc = A generic vending machine.
+ent-CMVendorSodaSoviet-name = Вендомат
+ent-CMVendorSodaSoviet-desc = Обычный торговый автомат.
 
-ent-CMVendorDinnerware-name = Dinnerware
-ent-CMVendorDinnerware-desc = A kitchen and restaurant equipment vendor.
+ent-CMVendorDinnerware-name = Столовая посуда
+ent-CMVendorDinnerware-desc = Производитель кухонного и ресторанного оборудования.
 
-ent-CMVendorSeeds-name = Vendomat
-ent-CMVendorSeeds-desc = A generic vending machine.
+ent-CMVendorSeeds-name = Вендомат
+ent-CMVendorSeeds-desc = Обычный торговый автомат.
 
-ent-CMVendorNutri-name = Vendomat
-ent-CMVendorNutri-desc = A generic vending machine.
+ent-CMVendorNutri-name = Вендомат
+ent-CMVendorNutri-desc = Обычный торговый автомат.
 
-ent-CMVendorSEA-name = Vendomat
-ent-CMVendorSEA-desc = A generic vending machine.
+ent-CMVendorSEA-name = Вендомат
+ent-CMVendorSEA-desc = Обычный торговый автомат.
 
-ent-RMCVendorSecArmory-name = Riot Tech
-ent-RMCVendorSecArmory-desc = A security riot equipment vendor.
+ent-RMCVendorSecArmory-name = Бунт Тех
+ent-RMCVendorSecArmory-desc = Поставщик оборудования для массовых беспорядков.
 
-ent-CMVendorSec-name = Vendomat
-ent-CMVendorSec-desc = A generic vending machine.
+ent-CMVendorSec-name = Вендомат
+ent-CMVendorSec-desc = Обычный торговый автомат.
 
-ent-RMCVendorCigsSPP-name = Komandir Cigarettes Vendor
-ent-RMCVendorCigsSPP-desc = A state-owned cigarette vendor. Its drab colour was chosen to discourage purchases, but its existence is an admittance to the necessity for such machines to exist in the first place.
+ent-RMCVendorCigsSPP-name = Командир Продавец сигарет
+ent-RMCVendorCigsSPP-desc = Государственный продавец сигарет. 
 
-ent-RMCVendorCigsWeYa-name = Vendomat
-ent-RMCVendorCigsWeYa-desc = A generic vending machine.
+ent-RMCVendorCigsWeYa-name = Вендомат
+ent-RMCVendorCigsWeYa-desc = Обычный торговый автомат.
 
-ent-RMCVendorCigsElectro-name = Vendomat
-ent-RMCVendorCigsElectro-desc = A generic vending machine.
+ent-RMCVendorCigsElectro-name = Вендомат
+ent-RMCVendorCigsElectro-desc = Обычный торговый автомат.
 
-ent-CMVendorCigs-name = Vendomat
-ent-CMVendorCigs-desc = A generic vending machine.
+ent-CMVendorCigs-name = Вендомат
+ent-CMVendorCigs-desc = Обычный торговый автомат.
 
-ent-RMCVendorColaSPP-name = Xuanshi Drinks
-ent-RMCVendorColaSPP-desc = A drinks vendors from a long forgotten branch of the SPP, selling rationed water mixed with thrice diluted 5% flavourments.
+ent-RMCVendorColaSPP-name = Сюаньши Напитки
+ent-RMCVendorColaSPP-desc = Продавцы напитков из давно забытого филиала СПП, торгующие нормированной водой, смешанной с трижды разбавленными 5% ароматизаторами.
 
-ent-RMCVendorNutriCoDrink-name = NutriCo AutoDrink
-ent-RMCVendorNutriCoDrink-desc = A NutriCo AutoDrink dispenser, capable of making a variety of drinks to consume from a mixture of water and instant flavoring juice and caffeine additives.
+ent-RMCVendorNutriCoDrink-name = НутриКо АвтоДринк
+ent-RMCVendorNutriCoDrink-desc = Диспенсер NutriCo AutoDrink, способный готовить разнообразные напитки из смеси воды, растворимого вкусового сока и добавок с кофеином.
 
-ent-CMVendorCola-name = Vendomat
-ent-CMVendorCola-desc = A generic vending machine.
+ent-CMVendorCola-name = Вендомат
+ent-CMVendorCola-desc = Обычный торговый автомат.
 
-ent-RMCVendorSnackSPP-name = Surplus Ration Vendor
-ent-RMCVendorSnackSPP-desc = A vending machine full of surplus rations, viewed as the luxury of ready-avaliable SPP rations.
+ent-RMCVendorSnackSPP-name = Торговец излишками рациона
+ent-RMCVendorSnackSPP-desc = Торговый автомат, полный излишков пайков, рассматриваемый как роскошь готовых пайков SPP.
 
-ent-CMVendorSnack-name = Vendomat
-ent-CMVendorSnack-desc = A generic vending machine.
+ent-CMVendorSnack-name = Вендомат
+ent-CMVendorSnack-desc = Обычный торговый автомат.
 
-ent-RMCVendorCoffeeSimple-name = Vendomat
-ent-RMCVendorCoffeeSimple-desc = A generic vending machine.
+ent-RMCVendorCoffeeSimple-name = Вендомат
+ent-RMCVendorCoffeeSimple-desc = Обычный торговый автомат.
 
-ent-CMVendorCoffee-name = Vendomat
-ent-CMVendorCoffee-desc = A generic vending machine.
+ent-CMVendorCoffee-name = Вендомат
+ent-CMVendorCoffee-desc = Обычный торговый автомат.
 
-ent-CMVendor-name = Vendomat
-ent-CMVendor-desc = A generic vending machine.
+ent-CMVendor-name = Вендомат
+ent-CMVendor-desc = Обычный торговый автомат.
 
-ent-CMVendorCoffeeLockedPowered-name = Vendomat
-ent-CMVendorCoffeeLockedPowered-desc = A generic vending machine.
+ent-CMVendorCoffeeLockedPowered-name = Вендомат
+ent-CMVendorCoffeeLockedPowered-desc = Обычный торговый автомат.
 
-ent-RMCVendorSnackSimple-name = Vendomat
-ent-RMCVendorSnackSimple-desc = A generic vending machine.
+ent-RMCVendorSnackSimple-name = Вендомат
+ent-RMCVendorSnackSimple-desc = Обычный торговый автомат.
 
-ent-RMCVendorColaResearch-name = Vendomat
-ent-RMCVendorColaResearch-desc = A generic vending machine.
+ent-RMCVendorColaResearch-name = Вендомат
+ent-RMCVendorColaResearch-desc = Обычный торговый автомат.
 
-ent-RMCVendorNutriCoDrinkSPP-name = drink dispenser
-ent-RMCVendorNutriCoDrinkSPP-desc = A drinks vendors from a long forgotten branch of the SPP, selling rationed water mixed with thrice diluted 5% flavourments.
+ent-RMCVendorNutriCoDrinkSPP-name = диспенсер для напитков
+ent-RMCVendorNutriCoDrinkSPP-desc = Продавцы напитков из давно забытого филиала СПП, торгующие нормированной водой, смешанной с трижды разбавленными 5% ароматизаторами.
 
-ent-RMCVendorSoda-name = Vendomat
-ent-RMCVendorSoda-desc = A generic vending machine.
+ent-RMCVendorSoda-name = Вендомат
+ent-RMCVendorSoda-desc = Обычный торговый автомат.
 
-ent-RMCVendorCigsFree-name = Vendomat
-ent-RMCVendorCigsFree-desc = A generic vending machine.
+ent-RMCVendorCigsFree-name = Вендомат
+ent-RMCVendorCigsFree-desc = Обычный торговый автомат.
 
-ent-CMVendorDinnerwareLockedPowered-name = Dinnerware
-ent-CMVendorDinnerwareLockedPowered-desc = A kitchen and restaurant equipment vendor.
+ent-CMVendorDinnerwareLockedPowered-name = Столовая посуда
+ent-CMVendorDinnerwareLockedPowered-desc = Производитель кухонного и ресторанного оборудования.
 
-ent-CMVendorIngredientsLockedPowered-name = Galley Auxiliary Storage Requisition System
-ent-CMVendorIngredientsLockedPowered-desc = A vending machine meant to be use for cooks.
+ent-CMVendorIngredientsLockedPowered-name = Система запроса вспомогательного складского помещения на камбузе
+ent-CMVendorIngredientsLockedPowered-desc = Торговый автомат, предназначенный для поваров.
 
-ent-RMCVendorSecTSEPA-name = Vendomat
-ent-RMCVendorSecTSEPA-desc = A generic vending machine.
+ent-RMCVendorSecTSEPA-name = Вендомат
+ent-RMCVendorSecTSEPA-desc = Обычный торговый автомат.
 

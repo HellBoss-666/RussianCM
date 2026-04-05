@@ -1,39 +1,39 @@
-ent-RMCSecureCaseStrappedMetal-name = metal sheets supply crate (x200)
-ent-RMCSecureCaseStrappedMetal-desc = A supply crate containing four fifty stacks of metal sheets.
+ent-RMCSecureCaseStrappedMetal-name = Ящик для поставок металлических листов (x200)
+ent-RMCSecureCaseStrappedMetal-desc = Ящик с припасами, содержащий четыреста пятьдесят стопок металлических листов.
 
-ent-RMCSecureCaseM54CMagHalf-name = M54C magazine case (x10)
-ent-RMCSecureCaseM54CMagHalf-desc = An ammunition case containing 10 M54C magazines.
+ent-RMCSecureCaseM54CMagHalf-name = Чехол для магазинов M54C (x10)
+ent-RMCSecureCaseM54CMagHalf-desc = Ящик с боеприпасами, содержащий 10 магазинов M54C.
 
-ent-RMCSecureCaseM54CMag-name = M54C magazine case (x20)
-ent-RMCSecureCaseM54CMag-desc = An ammunition case containing 20 M54C magazines.
+ent-RMCSecureCaseM54CMag-name = Чехол для магазинов M54C (20 шт.)
+ent-RMCSecureCaseM54CMag-desc = Ящик с боеприпасами, содержащий 20 магазинов M54C.
 
-ent-RMCSecureCaseL90Mag-name = L90/91 magazine case (x20)
-ent-RMCSecureCaseL90Mag-desc = An ammunition case containing 20 L90/91 magazines.
+ent-RMCSecureCaseL90Mag-name = Чехол для магазинов L90/91 (20 шт.)
+ent-RMCSecureCaseL90Mag-desc = Ящик с боеприпасами на 20 магазинов L90/91.
 
-ent-RMCSecureCaseL90MagHalf-name = L90/91 magazine case (x10)
-ent-RMCSecureCaseL90MagHalf-desc = An ammunition case containing 10 L90/91 magazines.
+ent-RMCSecureCaseL90MagHalf-name = Чехол для магазинов L90/91 (10 шт.)
+ent-RMCSecureCaseL90MagHalf-desc = Ящик с боеприпасами, содержащий 10 магазинов L90/91.
 
-ent-RMCSecureCaseStrappedWater-name = We-Ya Bottled Water crate (x50)
-ent-RMCSecureCaseStrappedWater-desc = A crate containing fifty Weston-Yamada Bottled Spring Water bottles.
+ent-RMCSecureCaseStrappedWater-name = Ящик с водой в бутылках We-Ya (x50)
+ent-RMCSecureCaseStrappedWater-desc = Ящик с пятьюдесятью бутылками родниковой воды Weston-Yamada.
 
-ent-RMCSecureCaseStrappedMRE-name = UNMC MRE crate (x60)
-ent-RMCSecureCaseStrappedMRE-desc = A supply crate containing sixty UNMC MRE packets.
+ent-RMCSecureCaseStrappedMRE-name = Ящик UNMC MRE (x60)
+ent-RMCSecureCaseStrappedMRE-desc = Ящик с припасами, содержащий шестьдесят пакетов MRE UNMC.
 
-ent-RMCSecureCaseStrappedTSEMRE-name = TSE ORP rations crate (x60)
-ent-RMCSecureCaseStrappedTSEMRE-desc = A supply crate containing sixty TSE ORP ration packets.
+ent-RMCSecureCaseStrappedTSEMRE-name = Ящик с пайками TSE ORP (x60)
+ent-RMCSecureCaseStrappedTSEMRE-desc = Ящик с шестьюдесятью пакетами рациона TSE ORP.
 
-ent-RMCSecureCaseStrappedSandbag-name = sandbag supply crate (x100)
-ent-RMCSecureCaseStrappedSandbag-desc = A supply crate containing four piles of twenty-five sandbags.
+ent-RMCSecureCaseStrappedSandbag-name = ящик с мешками с песком (x100)
+ent-RMCSecureCaseStrappedSandbag-desc = Ящик с припасами, содержащий четыре кучки по двадцать пять мешков с песком.
 
-ent-RMCSecureCaseStrappedFlare-name = flare supply crate (x320)
-ent-RMCSecureCaseStrappedFlare-desc = A supply crate containing two crates of flares.
+ent-RMCSecureCaseStrappedFlare-name = ящик с факелами (x320)
+ent-RMCSecureCaseStrappedFlare-desc = Ящик с припасами, содержащий два ящика с сигнальными ракетами.
 
-ent-RMCSecureCaseStrappedTripod-name = Tripod light crate (x8)
-ent-RMCSecureCaseStrappedTripod-desc = A supply crate containing eight tripod lights.
+ent-RMCSecureCaseStrappedTripod-name = Ящик для освещения штатива (x8)
+ent-RMCSecureCaseStrappedTripod-desc = Ящик с восемью лампами-треножками.
 
-ent-RMCSecureCaseMedicalBigIV-name = IV stand crate (x3)
-ent-RMCSecureCaseMedicalBigIV-desc = A medical supply crate containing three IV drips.
+ent-RMCSecureCaseMedicalBigIV-name = Ящик для подставки для капельниц (x3)
+ent-RMCSecureCaseMedicalBigIV-desc = Ящик с медицинскими принадлежностями, содержащий три капельницы для внутривенного вливания.
 
-ent-RMCSecureCaseMedicalBigFirstAid-name = first aid supply crate (x20)
-ent-RMCSecureCaseMedicalBigFirstAid-desc = A medical supply crate containing six advanced, three standard, three burn, two toxin, two oxygen, and two radiation first aid kits.
+ent-RMCSecureCaseMedicalBigFirstAid-name = ящик с аптечкой первой помощи (x20)
+ent-RMCSecureCaseMedicalBigFirstAid-desc = Ящик с медицинскими принадлежностями, содержащий шесть улучшенных, три стандартных, три ожоговых, две токсиновые, две кислородные и две радиационные аптечки.
 

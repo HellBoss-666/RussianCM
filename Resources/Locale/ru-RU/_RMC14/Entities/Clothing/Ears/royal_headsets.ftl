@@ -1,21 +1,21 @@
-ent-RMCEncryptionKeyRoyalMarine-name = royal marine radio encryption key
-ent-RMCEncryptionKeyRoyalMarine-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyRoyalMarine-name = королевский ключ шифрования радио Морпех
+ent-RMCEncryptionKeyRoyalMarine-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCHeadsetRoyalMarine-name = royal marine headset
-ent-RMCHeadsetRoyalMarine-desc = A sleek headset used by the Royal Crown Marines. Low profile enough to fit under their unique helmets.
+ent-RMCHeadsetRoyalMarine-name = королевский гарнитур Морпех
+ent-RMCHeadsetRoyalMarine-desc = Элегантная гарнитура, используемая Королевской морской пехотой. 
 
-ent-RMCHeadsetRoyalMarineLeader-name = royal marine leader's headset
-ent-RMCHeadsetRoyalMarineLeader-desc = A sleek headset used by the Royal Crown Marines. Low profile enough to fit under their unique helmets.
+ent-RMCHeadsetRoyalMarineLeader-name = Гарнитура лидера королевского Морпеха
+ent-RMCHeadsetRoyalMarineLeader-desc = Элегантная гарнитура, используемая Королевской морской пехотой. 
 
-ent-RMCHeadsetRoyalMarineOfficer-name = royal marine officer's headset
-ent-RMCHeadsetRoyalMarineOfficer-desc = A sleek headset used by the Royal Crown Marines. Low profile enough to fit under their unique helmets. This one is heavier with the weight of responsibility.
+ent-RMCHeadsetRoyalMarineOfficer-name = королевский офицерский наушник Морпех
+ent-RMCHeadsetRoyalMarineOfficer-desc = Элегантная гарнитура, используемая Королевской морской пехотой. 
 
-ent-RMCHeadsetRoyalMarinePVE-name = royal marine's headset
-ent-RMCHeadsetRoyalMarinePVE-desc = A sleek headset used by the Royal Crown Marines. Low profile enough to fit under their unique helmets.
+ent-RMCHeadsetRoyalMarinePVE-name = королевский наушник Морпеха
+ent-RMCHeadsetRoyalMarinePVE-desc = Элегантная гарнитура, используемая Королевской морской пехотой. 
 
-ent-RMCHeadsetRoyalMarineLeaderPVE-name = royal marine leader's headset
-ent-RMCHeadsetRoyalMarineLeaderPVE-desc = A sleek headset used by the Royal Crown Marines. Low profile enough to fit under their unique helmets. This one is heavier with the weight of responsibility.
+ent-RMCHeadsetRoyalMarineLeaderPVE-name = Гарнитура лидера королевского Морпеха
+ent-RMCHeadsetRoyalMarineLeaderPVE-desc = Элегантная гарнитура, используемая Королевской морской пехотой. 
 
-ent-RMCEncryptionKeyRoyalMarineCommand-name = royal marine command radio encryption key
-ent-RMCEncryptionKeyRoyalMarineCommand-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyRoyalMarineCommand-name = ключ шифрования радиосвязи королевского командования Морпех
+ent-RMCEncryptionKeyRoyalMarineCommand-desc = Ключ шифрования для радиогарнитуры.
 

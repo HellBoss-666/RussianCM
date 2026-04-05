@@ -1,42 +1,42 @@
-ent-CMHeadBandRebel-name = rebel headband
-ent-CMHeadBandRebel-desc = A headband made from a simple strip of cloth. The words "DOWN WITH TYRANTS" are emblazoned on the front.
+ent-CMHeadBandRebel-name = повязка на голову повстанца
+ent-CMHeadBandRebel-desc = Повязка на голову из простой полоски ткани. 
 
-ent-CMHeadBandIntel-name = intel headband
-ent-CMHeadBandIntel-desc = A piece of cloth that belonged to an experienced special forces operative, nobody seems to recall his name though. Viper..? Serpent..?
+ent-CMHeadBandIntel-name = Intel повязка на голову
+ent-CMHeadBandIntel-desc = Кусок ткани, принадлежавший опытному спецназовцу, имени которого, похоже, никто не помнит. 
 
-ent-CMHeadBandFoxtrot-name = foxtrot headband
-ent-CMHeadBandFoxtrot-desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandFoxtrot-name = повязка на голову для фокстрота
+ent-CMHeadBandFoxtrot-desc = Кусок ткани в цветах вашего отряда.
 
-ent-CMHeadBandEcho-name = echo headband
-ent-CMHeadBandEcho-desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandEcho-name = эхо повязка на голову
+ent-CMHeadBandEcho-desc = Кусок ткани в цветах вашего отряда.
 
-ent-CMHeadBandDelta-name = delta headband
-ent-CMHeadBandDelta-desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandDelta-name = дельта-повязка на голову
+ent-CMHeadBandDelta-desc = Кусок ткани в цветах вашего отряда.
 
-ent-CMHeadBandCharlie-name = charlie headband
-ent-CMHeadBandCharlie-desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandCharlie-name = повязка на голову Чарли
+ent-CMHeadBandCharlie-desc = Кусок ткани в цветах вашего отряда.
 
-ent-CMHeadBandBravo-name = bravo headband
-ent-CMHeadBandBravo-desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandBravo-name = браво повязка на голову
+ent-CMHeadBandBravo-desc = Кусок ткани в цветах вашего отряда.
 
-ent-CMHeadBandAlpha-name = alpha headband
-ent-CMHeadBandAlpha-desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandAlpha-name = альфа повязка на голову
+ent-CMHeadBandAlpha-desc = Кусок ткани в цветах вашего отряда.
 
-ent-RMCHeadBandSquad-name = UNMC squad headband
-ent-RMCHeadBandSquad-desc = Piece of cloth to wrap around the head.
+ent-RMCHeadBandSquad-name = Повязка отряда UNMC
+ent-RMCHeadBandSquad-desc = Кусок ткани, которым можно обернуть голову.
 
-ent-CMHeadBandTan-name = tan headband
-ent-CMHeadBandTan-desc = Piece of cloth to wrap around the head.
+ent-CMHeadBandTan-name = коричневая повязка на голову
+ent-CMHeadBandTan-desc = Кусок ткани, которым можно обернуть голову.
 
-ent-CMHeadBandRed-name = red headband
-ent-CMHeadBandRed-desc = Piece of cloth to wrap around the head.
+ent-CMHeadBandRed-name = красная повязка на голову
+ent-CMHeadBandRed-desc = Кусок ткани, которым можно обернуть голову.
 
-ent-CMHeadBandGray-name = gray headband
-ent-CMHeadBandGray-desc = Piece of cloth to wrap around the head.
+ent-CMHeadBandGray-name = серая повязка на голову
+ent-CMHeadBandGray-desc = Кусок ткани, которым можно обернуть голову.
 
-ent-CMHeadBandBrown-name = brown headband
-ent-CMHeadBandBrown-desc = Piece of cloth to wrap around the head.
+ent-CMHeadBandBrown-name = коричневая повязка на голову
+ent-CMHeadBandBrown-desc = Кусок ткани, которым можно обернуть голову.
 
-ent-CMHeadBandGreen-name = green headband
-ent-CMHeadBandGreen-desc = Piece of cloth to wrap around the head.
+ent-CMHeadBandGreen-name = зеленая повязка на голову
+ent-CMHeadBandGreen-desc = Кусок ткани, которым можно обернуть голову.
 

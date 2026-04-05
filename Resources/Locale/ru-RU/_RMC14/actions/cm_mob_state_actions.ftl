@@ -1,3 +1,3 @@
-ent-CMActionGhost-name = Ghost
-ent-CMActionGhost-desc = Become a Ghost.
+ent-CMActionGhost-name = Призрак
+ent-CMActionGhost-desc = Стать призраком.
 

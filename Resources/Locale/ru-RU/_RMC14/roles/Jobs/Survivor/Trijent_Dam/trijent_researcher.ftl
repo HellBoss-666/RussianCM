@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetTrijentResearcher-name = trijent researcher colonist preset
+ent-RMCSurvivorPresetTrijentResearcher-name = предустановленные настройки колониста-исследователя Trijent
 
-ent-RMCSpawnPointSurvivorTrijentResearcher-name = survivor trijent researcher spawn point
-ent-RMCSpawnPointSurvivorTrijentResearcher-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorTrijentResearcher-name = точка появления выжившего триджента-исследователя
+ent-RMCSpawnPointSurvivorTrijentResearcher-desc = Создатель заданий RMC14. 
 

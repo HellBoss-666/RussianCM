@@ -1,3 +1,3 @@
-ent-CMDrinkWEYAWaterBottle30-name = We-Ya bottled spring water
-ent-CMDrinkWEYAWaterBottle30-desc = Overpriced 'Spring' water. Bottled by the We-Ya Corporation.
+ent-CMDrinkWEYAWaterBottle30-name = Родниковая вода We-Ya в бутылках
+ent-CMDrinkWEYAWaterBottle30-desc = Завышенная цена на «родниковую» воду. 
 

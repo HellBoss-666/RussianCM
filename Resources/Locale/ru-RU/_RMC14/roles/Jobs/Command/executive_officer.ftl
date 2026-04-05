@@ -1,6 +1,6 @@
-ent-RMCGuidebookRoleXO-name = The Executive Officer
-ent-RMCGuidebookRoleXO-desc = The Executive Officer.
+ent-RMCGuidebookRoleXO-name = Исполнительный директор
+ent-RMCGuidebookRoleXO-desc = Исполнительный директор.
 
-ent-CMSpawnPointExecutiveOfficer-name = executive officer spawn point
-ent-CMSpawnPointExecutiveOfficer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointExecutiveOfficer-name = точка появления старшего офицера
+ent-CMSpawnPointExecutiveOfficer-desc = Создатель заданий RMC14. 
 

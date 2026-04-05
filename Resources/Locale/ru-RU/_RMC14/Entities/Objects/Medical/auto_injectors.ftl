@@ -1,99 +1,99 @@
-ent-RMCMedicAutoInjectorCS60-name = autoinjector (C-XXL)
-ent-RMCMedicAutoInjectorCS60-desc = A custom-made autoinjector, likely from research.
+ent-RMCMedicAutoInjectorCS60-name = автоинжектор (C-XXL)
+ent-RMCMedicAutoInjectorCS60-desc = Изготовленный на заказ автоинъектор, вероятно, в результате исследований.
 
-ent-RMCMedicAutoInjectorCS30-name = autoinjector (C-XL)
-ent-RMCMedicAutoInjectorCS30-desc = A custom-made autoinjector, likely from research.
+ent-RMCMedicAutoInjectorCS30-name = автоинжектор (C-XL)
+ent-RMCMedicAutoInjectorCS30-desc = Изготовленный на заказ автоинъектор, вероятно, в результате исследований.
 
-ent-RMCMedicAutoInjectorCS15-name = autoinjector (C-M)
-ent-RMCMedicAutoInjectorCS15-desc = A custom-made autoinjector, likely from research.
+ent-RMCMedicAutoInjectorCS15-name = автоинжектор (CM)
+ent-RMCMedicAutoInjectorCS15-desc = Изготовленный на заказ автоинъектор, вероятно, в результате исследований.
 
-ent-RMCMedicAutoInjectorCS5-name = autoinjector (C-XS)
-ent-RMCMedicAutoInjectorCS5-desc = A custom-made autoinjector, likely from research.
+ent-RMCMedicAutoInjectorCS5-name = автоинжектор (C-XS)
+ent-RMCMedicAutoInjectorCS5-desc = Изготовленный на заказ автоинъектор, вероятно, в результате исследований.
 
-ent-RMCMedicAutoInjectorEZ60-name = rmc-autoinjector-ez-60
-ent-RMCMedicAutoInjectorEZ60-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ60-name = RMC-autoinjector-ez-60
+ent-RMCMedicAutoInjectorEZ60-desc = Автоинжектор.
 
-ent-RMCMedicAutoInjectorEZ45-name = rmc-autoinjector-ez-45
-ent-RMCMedicAutoInjectorEZ45-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ45-name = RMC-autoinjector-ez-45
+ent-RMCMedicAutoInjectorEZ45-desc = Автоинжектор.
 
-ent-RMCMedicAutoInjectorEZ30-name = rmc-autoinjector-ez-30
-ent-RMCMedicAutoInjectorEZ30-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ30-name = RMC-autoinjector-ez-30
+ent-RMCMedicAutoInjectorEZ30-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorEZ15-name = rmc-autoinjector-ez-15
-ent-RMCMedicAutoInjectorEZ15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ15-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorEZ10-name = rmc-autoinjector-ez-10
-ent-RMCMedicAutoInjectorEZ10-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ10-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorEZ5-name = rmc-autoinjector-ez-5
-ent-RMCMedicAutoInjectorEZ5-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ5-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorEZ1-name = rmc-autoinjector-ez-1
-ent-RMCMedicAutoInjectorEZ1-desc = An autoinjector.
+ent-RMCMedicAutoInjectorEZ1-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjector30-name = rmc-autoinjector-medic-30
-ent-RMCMedicAutoInjector30-desc = An autoinjector.
+ent-RMCMedicAutoInjector30-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjector15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjector15-desc = An autoinjector.
+ent-RMCMedicAutoInjector15-desc = Автоинжектор.
 
-ent-CMEpinephrineAutoInjector-name = epinephrine autoinjector
-ent-CMEpinephrineAutoInjector-desc = An autoinjector loaded with 3 uses of Epinephrine, better known as Adrenaline, a nerve stimulant useful in restarting the heart.
+ent-CMEpinephrineAutoInjector-name = автоинжектор адреналина
+ent-CMEpinephrineAutoInjector-desc = Автоинъектор, в котором содержится три дозы адреналина, более известного как адреналин, нервного стимулятора, полезного для перезапуска сердца.
 
-ent-CMInaprovalineAutoInjector-name = inaprovaline autoinjector
-ent-CMInaprovalineAutoInjector-desc = An autoinjector loaded with 3 uses of Inaprovaline, an emergency stabilization medicine for patients in critical condition.
+ent-CMInaprovalineAutoInjector-name = инапровалин автоинжектор
+ent-CMInaprovalineAutoInjector-desc = Автоинъектор, рассчитанный на 3 применения инапровалина, препарата для экстренной стабилизации для пациентов в критическом состоянии.
 
-ent-CMBicaridineAutoInjector-name = bicaridine autoinjector
-ent-CMBicaridineAutoInjector-desc = An autoinjector loaded with 3 uses of Bicaridine, a common brute and circulatory damage medicine.
+ent-CMBicaridineAutoInjector-name = бикаридин автоинжектор
+ent-CMBicaridineAutoInjector-desc = Автоинжектор, в который загружен бикаридин для трех применений, распространенное лекарство от грубых повреждений и нарушений кровообращения.
 
-ent-CMDexalinPlusAutoInjector-name = dexalin plus autoinjector
-ent-CMDexalinPlusAutoInjector-desc = An autoinjector loaded with 3 uses of Dexalin+, designed to immediately oxygenate the entire body.
+ent-CMDexalinPlusAutoInjector-name = дексалин плюс автоинжектор
+ent-CMDexalinPlusAutoInjector-desc = Автоинжектор с 3-кратным использованием Дексалина+, предназначенный для немедленной оксигенации всего тела.
 
-ent-CMKelotaneAutoInjector-name = kelotane autoinjector
-ent-CMKelotaneAutoInjector-desc = An autoinjector loaded with 3 uses of Kelotane, a common burn medicine.
+ent-CMKelotaneAutoInjector-name = автоинжектор келотана
+ent-CMKelotaneAutoInjector-desc = Автоинжектор с 3 применениями келотана, обычного средства от ожогов.
 
-ent-CMTricordrazineAutoInjectorNoSkill-name = first-aid autoinjector
-ent-CMTricordrazineAutoInjectorNoSkill-desc = An autoinjector loaded with a small dose of medicine for marines to treat themselves with.
+ent-CMTricordrazineAutoInjectorNoSkill-name = автоинжектор первой помощи
+ent-CMTricordrazineAutoInjectorNoSkill-desc = Автоинжектор с небольшой дозой лекарства для морских пехотинцев.
 
-ent-CMTricordrazineAutoInjector-name = tricordrazine autoinjector
-ent-CMTricordrazineAutoInjector-desc = An autoinjector loaded with 3 uses of Tricordrazine, a weak general use medicine for treating damage.
+ent-CMTricordrazineAutoInjector-name = автоинжектор трикордразина
+ent-CMTricordrazineAutoInjector-desc = Автоинжектор, в который загружен трикордразин, слабодействующее лекарство общего назначения для лечения повреждений.
 
-ent-CMEmergencyAutoInjector-name = emergency autoinjector (CAUTION)
-ent-CMEmergencyAutoInjector-desc = An autoinjector loaded with a special cocktail of chemicals, to be used in life-threatening situations. Doesn't require any training to use.
+ent-CMEmergencyAutoInjector-name = аварийный автоинжектор (ВНИМАНИЕ)
+ent-CMEmergencyAutoInjector-desc = Автоинжектор, наполненный специальным химическим коктейлем, который можно использовать в опасных для жизни ситуациях. 
 
-ent-CMAutoInjectorBase-name = autoinjector
-ent-CMAutoInjectorBase-desc = An autoinjector.
+ent-CMAutoInjectorBase-name = автоинжектор
+ent-CMAutoInjectorBase-desc = Автоинжектор.
 
-ent-CMAutoInjector-name = autoinjector
-ent-CMAutoInjector-desc = An autoinjector.
+ent-CMAutoInjector-name = автоинжектор
+ent-CMAutoInjector-desc = Автоинжектор.
 
-ent-RMCDyloveneAutoInjector-name = dylovene autoinjector
-ent-RMCDyloveneAutoInjector-desc = An autoinjector loaded with 3 doses of 15u of Dylovene, a common toxin damage medicine. You can refill it at Weya-Med vending machines.
+ent-RMCDyloveneAutoInjector-name = автоинжектор диловена
+ent-RMCDyloveneAutoInjector-desc = Автоинжектор с 3 дозами по 15 МЕ диловена, распространенного лекарства от токсинов. 
 
-ent-RMCIronAutoInjector-name = iron autoinjector
-ent-RMCIronAutoInjector-desc = An autoinjector loaded with 3 uses of iron, a chemical commonly used to treat blood loss.
+ent-RMCIronAutoInjector-name = железный автоинжектор
+ent-RMCIronAutoInjector-desc = Автоинжектор, содержащий железо трехкратного применения — химическое вещество, обычно используемое для лечения кровопотери.
 
-ent-RMCDermalineAutoInjector-name = dermaline autoinjector
-ent-RMCDermalineAutoInjector-desc = An autoinjector loaded with 3 uses of Dermaline, an advanced burn treatment chemical.
+ent-RMCDermalineAutoInjector-name = дермалин автоинжектор
+ent-RMCDermalineAutoInjector-desc = Автоинъектор, содержащий 3 применения Dermaline, передового химиката для лечения ожогов.
 
 ent-RMCMedicAutoInjectorBicaridine15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjectorBicaridine15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorBicaridine15-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorKelotane15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjectorKelotane15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorKelotane15-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorTricordrazineRevival15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjectorTricordrazineRevival15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorTricordrazineRevival15-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorTricordrazine15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjectorTricordrazine15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorTricordrazine15-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorMeraBic15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjectorMeraBic15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorMeraBic15-desc = Автоинжектор.
 
 ent-RMCMedicAutoInjectorKeloDerm15-name = rmc-autoinjector-medic-15
-ent-RMCMedicAutoInjectorKeloDerm15-desc = An autoinjector.
+ent-RMCMedicAutoInjectorKeloDerm15-desc = Автоинжектор.
 
-ent-RMCMedicAutoInjectorBase-name = autoinjector
-ent-RMCMedicAutoInjectorBase-desc = An autoinjector.
+ent-RMCMedicAutoInjectorBase-name = автоинжектор
+ent-RMCMedicAutoInjectorBase-desc = Автоинжектор.
 

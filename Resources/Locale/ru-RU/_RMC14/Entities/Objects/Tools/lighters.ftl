@@ -1,18 +1,18 @@
-ent-RMCLighter-name = cheap lighter
-ent-RMCLighter-desc = A cheap-as-free lighter.
+ent-RMCLighter-name = дешевая зажигалка
+ent-RMCLighter-desc = Дешевая зажигалка.
 
-ent-RMCZippoGold-name = golden zippo lighter
-ent-RMCZippoGold-desc = A gold-anodized Zippo lighter. Ostentatious, but it certainly stands out.
+ent-RMCZippoGold-name = золотая зажигалка Zippo
+ent-RMCZippoGold-desc = Зажигалка Zippo с золотым анодированием. 
 
-ent-RMCZippoExec-name = We-Ya executive zippo lighter
-ent-RMCZippoExec-desc = A remarkable Zippo lighter embellished in the Company's black and gold shade.
+ent-RMCZippoExec-name = Зажигалка We-Ya Executive Zippo
+ent-RMCZippoExec-desc = Замечательная зажигалка Zippo, выполненная в черно-золотом цвете компании.
 
-ent-RMCZippo-name = zippo lighter
-ent-RMCZippo-desc = A fancy steel Zippo lighter. Ignite in style.
+ent-RMCZippo-name = зажигалка zippo
+ent-RMCZippo-desc = Модная стальная зажигалка Zippo. 
 
-ent-RMCLighterBase-name = flippo lighter
-ent-RMCLighterBase-desc = A rugged metal lighter, lasts quite a while.
+ent-RMCLighterBase-name = флиппо зажигалка
+ent-RMCLighterBase-desc = Прочная металлическая зажигалка, служит довольно долго.
 
-ent-RMCLighterCheapBase-name = cheap lighter
-ent-RMCLighterCheapBase-desc = A dangerously inexpensive plastic lighter, don't burn your thumb!
+ent-RMCLighterCheapBase-name = дешевая зажигалка
+ent-RMCLighterCheapBase-desc = Опасно недорогая пластиковая зажигалка, не обожгите большой палец!
 

@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidFreelancerMedicFriendly-name = freelancer ghost role medic
+ent-RMCRandomHumanoidFreelancerMedicFriendly-name = фрилансер, роль призрака, медик
 
-ent-RMCRandomHumanoidFreelancerMedicHostile-name = freelancer ghost role medic
+ent-RMCRandomHumanoidFreelancerMedicHostile-name = фрилансер, роль призрака, медик
 

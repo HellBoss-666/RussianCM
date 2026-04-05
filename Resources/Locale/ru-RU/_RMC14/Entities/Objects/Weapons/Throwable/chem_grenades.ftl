@@ -1,25 +1,25 @@
-ent-RMCSmokeChemical-name = smoke
+ent-RMCSmokeChemical-name = курить
 
-ent-RMCChemicalPayloadWeedkiller-name = weedkiller payload
-ent-RMCChemicalPayloadWeedkiller-desc = A chemical payload. Has space to store two beakers.
+ent-RMCChemicalPayloadWeedkiller-name = полезная нагрузка гербицида
+ent-RMCChemicalPayloadWeedkiller-desc = Химическая полезная нагрузка. 
 
-ent-RMCGrenadeCustomWeedkiller-name = weedkiller grenade
-ent-RMCGrenadeCustomWeedkiller-desc = Used for purging large areas of invasive plant species. Contents under pressure. Do not directly inhale contents.
+ent-RMCGrenadeCustomWeedkiller-name = граната от сорняков
+ent-RMCGrenadeCustomWeedkiller-desc = Используется для очистки больших площадей от инвазивных видов растений. 
 
-ent-RMCChemicalPayloadMetalFoam-name = metal-foam payload
-ent-RMCChemicalPayloadMetalFoam-desc = A chemical payload. Has space to store two beakers.
+ent-RMCChemicalPayloadMetalFoam-name = полезная нагрузка из металлической пены
+ent-RMCChemicalPayloadMetalFoam-desc = Химическая полезная нагрузка. 
 
-ent-RMCGrenadeCustomMetalFoam-name = metal-foam grenade
-ent-RMCGrenadeCustomMetalFoam-desc = Used for emergency sealing of air breaches.
+ent-RMCGrenadeCustomMetalFoam-name = металлопенная граната
+ent-RMCGrenadeCustomMetalFoam-desc = Используется для аварийной герметизации воздушных нарушений.
 
-ent-RMCCustomGrenade-name = custom grenade
-ent-RMCCustomGrenade-desc = A custom chemical grenade with an 30mm casing. This one is made to fit into underslung grenade launchers, but can also be thrown by hand.
+ent-RMCCustomGrenade-name = пользовательская граната
+ent-RMCCustomGrenade-desc = Изготовленная на заказ химическая граната с гильзой 30 мм. 
 
-ent-RMCBeakerMetalFoamAluminum-name = item
+ent-RMCBeakerMetalFoamAluminum-name = элемент
 
-ent-RMCBeakerMetalFoamingAgent-name = item
+ent-RMCBeakerMetalFoamingAgent-name = элемент
 
-ent-RMCBeakerWeedkillerPlantBGone-name = item
+ent-RMCBeakerWeedkillerPlantBGone-name = элемент
 
-ent-RMCBeakerWeedkillerPhosphorus-name = item
+ent-RMCBeakerWeedkillerPhosphorus-name = элемент
 

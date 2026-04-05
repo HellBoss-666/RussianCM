@@ -1,9 +1,9 @@
-ent-ActionToggleVulpkaninWagging-name = Wagging Tail
-ent-ActionToggleVulpkaninWagging-desc = Start or stop wagging your tail.
+ent-ActionToggleVulpkaninWagging-name = Вилять хвостом
+ent-ActionToggleVulpkaninWagging-desc = Начни или перестань вилять хвостом.
 
-ent-ActionToggleFelinidWagging-name = Wagging Tail
-ent-ActionToggleFelinidWagging-desc = Start or stop wagging your tail.
+ent-ActionToggleFelinidWagging-name = Вилять хвостом
+ent-ActionToggleFelinidWagging-desc = Начни или перестань вилять хвостом.
 
-ent-ActionToggleAvaliWagging-name = Wagging Tail
-ent-ActionToggleAvaliWagging-desc = Start or stop wagging your tail.
+ent-ActionToggleAvaliWagging-name = Вилять хвостом
+ent-ActionToggleAvaliWagging-desc = Начни или перестань вилять хвостом.
 

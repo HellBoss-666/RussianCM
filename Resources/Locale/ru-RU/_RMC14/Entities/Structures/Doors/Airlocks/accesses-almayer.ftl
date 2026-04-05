@@ -1,53 +1,53 @@
-ent-CMAirlockLiaisonLocked-name = Corporate Liaison's Quarters
+ent-CMAirlockLiaisonLocked-name = Комната корпоративных связей
 
-ent-CMAirlockRequisitionsLocked-name = requisitions bay
-ent-CMAirlockRequisitionsLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockRequisitionsLocked-name = отсек для заявок
+ent-CMAirlockRequisitionsLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintRequisitionsLocked-name = maintenance hatch
+ent-CMAirlockMaintRequisitionsLocked-name = люк для обслуживания
 
-ent-CMAirlockGlassKitchenLocked-name = glass airlock
-ent-CMAirlockGlassKitchenLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassKitchenLocked-name = стеклянный шлюзовой шлюз
+ent-CMAirlockGlassKitchenLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintKitchenLocked-name = maintenance hatch
+ent-CMAirlockMaintKitchenLocked-name = люк для обслуживания
 
-ent-CMAirlockEngineerLocked-name = engineering airlock
+ent-CMAirlockEngineerLocked-name = инженерный шлюз
 
-ent-CMAirlockGlassEngineerLocked-name = engineering airlock
-ent-CMAirlockGlassEngineerLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassEngineerLocked-name = инженерный шлюз
+ent-CMAirlockGlassEngineerLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintEngineerLocked-name = maintenance hatch
+ent-CMAirlockMaintEngineerLocked-name = люк для обслуживания
 
-ent-CMAirlockOrdnanceLocked-name = engineering airlock
+ent-CMAirlockOrdnanceLocked-name = инженерный шлюз
 
-ent-CMAirlockMedicalLocked-name = medical airlock
+ent-CMAirlockMedicalLocked-name = медицинский шлюз
 
-ent-CMAirlockGlassMedicalLocked-name = medical airlock
-ent-CMAirlockGlassMedicalLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassMedicalLocked-name = медицинский шлюз
+ent-CMAirlockGlassMedicalLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintMedicalLocked-name = maintenance hatch
+ent-CMAirlockMaintMedicalLocked-name = люк для обслуживания
 
-ent-CMAirlockMorgueLocked-name = medical airlock
+ent-CMAirlockMorgueLocked-name = медицинский шлюз
 
-ent-CMAirlockChemistryLocked-name = medical airlock
+ent-CMAirlockChemistryLocked-name = медицинский шлюз
 
-ent-CMAirlockResearchLocked-name = medical airlock
+ent-CMAirlockResearchLocked-name = медицинский шлюз
 
-ent-CMAirlockMedicalCMOLocked-name = medical airlock
+ent-CMAirlockMedicalCMOLocked-name = медицинский шлюз
 
-ent-CMAirlockGlassMedicalCMOLocked-name = medical airlock
-ent-CMAirlockGlassMedicalCMOLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassMedicalCMOLocked-name = медицинский шлюз
+ent-CMAirlockGlassMedicalCMOLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassPressLocked-name = glass airlock
-ent-CMAirlockGlassPressLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassPressLocked-name = стеклянный шлюзовой шлюз
+ent-CMAirlockGlassPressLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintPressLocked-name = maintenance hatch
+ent-CMAirlockMaintPressLocked-name = люк для обслуживания
 
-ent-CMAirlockSecurityLocked-name = security airlock
+ent-CMAirlockSecurityLocked-name = шлюз безопасности
 
-ent-CMAirlockGlassSecurityLocked-name = security airlock
-ent-CMAirlockGlassSecurityLocked-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassSecurityLocked-name = шлюз безопасности
+ent-CMAirlockGlassSecurityLocked-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMaintLiaisonLocked-name = maintenance hatch
+ent-CMAirlockMaintLiaisonLocked-name = люк для обслуживания
 
-ent-CMAirlockHC-name = High Command Door
+ent-CMAirlockHC-name = Высшая командная дверь
 

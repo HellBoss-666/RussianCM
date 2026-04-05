@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetMedicalTechnician-name = medical technician colonist preset
+ent-RMCGearSurvivorPresetMedicalTechnician-name = Предварительная настройка медицинского техника-колониста
 
-ent-RMCSpawnPointSurvivorMedicalTechnician-name = survivor medical technician spawn point
-ent-RMCSpawnPointSurvivorMedicalTechnician-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorMedicalTechnician-name = Точка появления выжившего медицинского техника
+ent-RMCSpawnPointSurvivorMedicalTechnician-desc = Создатель заданий RMC14. 
 

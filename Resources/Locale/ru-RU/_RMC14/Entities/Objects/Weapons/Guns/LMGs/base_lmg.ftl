@@ -1,4 +1,4 @@
-ent-RMCBaseCartridgeLMG-name = cartridge
+ent-RMCBaseCartridgeLMG-name = картридж
 
-ent-RMCMagazineLMGBase-name = item
+ent-RMCMagazineLMGBase-name = элемент
 

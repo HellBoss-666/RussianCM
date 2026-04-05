@@ -1,66 +1,66 @@
-ent-RMCStampFreePress-name = free press rubber stamp
-ent-RMCStampFreePress-desc = A rubber stamp for stamping important documents.
+ent-RMCStampFreePress-name = штамп свободной прессы
+ent-RMCStampFreePress-desc = Штамп для штамповки важных документов.
 
-ent-RMCStampTSE-name = three suns empire rubber stamp
-ent-RMCStampTSE-desc = A rubber stamp for stamping important documents.
+ent-RMCStampTSE-name = резиновый штамп империи трех солнц
+ent-RMCStampTSE-desc = Штамп для штамповки важных документов.
 
-ent-RMCStampSPP-name = socialist progressive peoples rubber stamp
-ent-RMCStampSPP-desc = A rubber stamp for stamping important documents.
+ent-RMCStampSPP-name = штамп социалистических прогрессивных народов
+ent-RMCStampSPP-desc = Штамп для штамповки важных документов.
 
-ent-RMCStampCLF-name = colony liberation front rubber stamp
-ent-RMCStampCLF-desc = A rubber stamp for stamping important documents.
+ent-RMCStampCLF-name = Резиновая марка фронта освобождения колоний
+ent-RMCStampCLF-desc = Штамп для штамповки важных документов.
 
-ent-CMStampProvost-name = provost rubber stamp
-ent-CMStampProvost-desc = A rubber stamp for stamping important documents.
+ent-CMStampProvost-name = резиновый штамп ректора
+ent-CMStampProvost-desc = Штамп для штамповки важных документов.
 
-ent-CMStampCMB-name = colony marshal bureau rubber stamp
-ent-CMStampCMB-desc = A rubber stamp for stamping important documents.
+ent-CMStampCMB-name = Штамп маршальского бюро колонии
+ent-CMStampCMB-desc = Штамп для штамповки важных документов.
 
-ent-CMStampMarine-name = marine rubber stamp
-ent-CMStampMarine-desc = A rubber stamp for stamping important documents.
+ent-CMStampMarine-name = Резиновая марка Морпех
+ent-CMStampMarine-desc = Штамп для штамповки важных документов.
 
-ent-CMStampWeYa-name = Weston-Yamada rubber stamp
-ent-CMStampWeYa-desc = A rubber stamp for stamping important documents.
+ent-CMStampWeYa-name = Резиновая марка Уэстон-Ямада
+ent-CMStampWeYa-desc = Штамп для штамповки важных документов.
 
-ent-CMStampDenied-name = DENIED rubber stamp
-ent-CMStampDenied-desc = A rubber stamp for stamping important documents.
+ent-CMStampDenied-name = ОТКАЗАН резиновый штамп
+ent-CMStampDenied-desc = Штамп для штамповки важных документов.
 
-ent-CMStampApproved-name = APPROVED rubber stamp
-ent-CMStampApproved-desc = A rubber stamp for stamping important documents.
+ent-CMStampApproved-name = УТВЕРЖДЕНО резиновый штамп
+ent-CMStampApproved-desc = Штамп для штамповки важных документов.
 
-ent-CMStampLiaison-name = corporate liaison rubber stamp
-ent-CMStampLiaison-desc = A rubber stamp for stamping important documents.
+ent-CMStampLiaison-name = резиновый штамп корпоративной связи
+ent-CMStampLiaison-desc = Штамп для штамповки важных документов.
 
-ent-CMStampCE-name = chief engineer's rubber stamp
-ent-CMStampCE-desc = A rubber stamp for stamping important documents.
+ent-CMStampCE-name = штамп главного инженера
+ent-CMStampCE-desc = Штамп для штамповки важных документов.
 
-ent-CMStampQM-name = Logistics Officer's rubber stamp
-ent-CMStampQM-desc = A rubber stamp for stamping important documents.
+ent-CMStampQM-name = Штамп офицера логистики
+ent-CMStampQM-desc = Штамп для штамповки важных документов.
 
-ent-CMStampCMO-name = chief medical officer's rubber stamp
-ent-CMStampCMO-desc = A rubber stamp for stamping important documents.
+ent-CMStampCMO-name = штамп главного врача
+ent-CMStampCMO-desc = Штамп для штамповки важных документов.
 
-ent-CMStampMW-name = Military Warden's rubber stamp
-ent-CMStampMW-desc = A rubber stamp for stamping important documents.
+ent-CMStampMW-name = Штамп военного начальника
+ent-CMStampMW-desc = Штамп для штамповки важных документов.
 
-ent-CMStampCMP-name = Chief MP's rubber stamp
-ent-CMStampCMP-desc = A rubber stamp for stamping important documents.
+ent-CMStampCMP-name = Штамп главного депутата парламента
+ent-CMStampCMP-desc = Штамп для штамповки важных документов.
 
-ent-CMStampASO-name = auxiliary support officer's rubber stamp
-ent-CMStampASO-desc = A rubber stamp for stamping important documents.
+ent-CMStampASO-name = Штамп офицера вспомогательной поддержки
+ent-CMStampASO-desc = Штамп для штамповки важных документов.
 
-ent-CMStampCO-name = commanding officer's rubber stamp
-ent-CMStampCO-desc = A rubber stamp for stamping important documents.
+ent-CMStampCO-name = штамп командира
+ent-CMStampCO-desc = Штамп для штамповки важных документов.
 
-ent-CMStampXO-name = executive officer's rubber stamp
-ent-CMStampXO-desc = A rubber stamp for stamping important documents.
+ent-CMStampXO-name = штамп исполнительного директора
+ent-CMStampXO-desc = Штамп для штамповки важных документов.
 
-ent-CMStampBase-name = rubber stamp
-ent-CMStampBase-desc = A rubber stamp for stamping important documents.
+ent-CMStampBase-name = резиновый штамп
+ent-CMStampBase-desc = Штамп для штамповки важных документов.
 
-ent-RMCStampSEA-name = senior enlisted advisor's rubber stamp
-ent-RMCStampSEA-desc = A rubber stamp for stamping important documents.
+ent-RMCStampSEA-name = Штамп старшего рядового советника
+ent-RMCStampSEA-desc = Штамп для штамповки важных документов.
 
-ent-RMCStampProvostInspector-name = provost inspector rubber stamp
-ent-RMCStampProvostInspector-desc = A rubber stamp for stamping important documents.
+ent-RMCStampProvostInspector-name = резиновый штамп проректора-инспектора
+ent-RMCStampProvostInspector-desc = Штамп для штамповки важных документов.
 

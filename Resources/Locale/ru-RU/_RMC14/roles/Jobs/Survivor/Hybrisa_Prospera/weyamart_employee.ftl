@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaWeyamartEmployee-name = hybrisa weyamart employee preset
+ent-RMCGearSurvivorPresetHybrisaWeyamartEmployee-name = Предустановка сотрудника hybrisa weyamart
 
-ent-RMCSpawnPointSurvivorHybrisaWeyamartEmployee-name = hybrisa weyamart employee spawn point
-ent-RMCSpawnPointSurvivorHybrisaWeyamartEmployee-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaWeyamartEmployee-name = Точка появления сотрудников Hybrisa Weyamart
+ent-RMCSpawnPointSurvivorHybrisaWeyamartEmployee-desc = Создатель заданий RMC14. 
 

@@ -1,60 +1,60 @@
-ent-RMCOverheadFuelLine1-name = dense fuel line
-ent-RMCOverheadFuelLine1-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine1-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine1-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-CMOverheadPipe-name = overhead pipe segment
+ent-CMOverheadPipe-name = сегмент подвесной трубы
 
-ent-RMCOverheadPipeCorner-name = overhead pipe segment
+ent-RMCOverheadPipeCorner-name = сегмент подвесной трубы
 
-ent-RMCOverheadPipeCap-name = overhead pipe segment
+ent-RMCOverheadPipeCap-name = сегмент подвесной трубы
 
-ent-RMCOverheadFuelLine1Offset-name = dense fuel line
-ent-RMCOverheadFuelLine1Offset-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine1Offset-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine1Offset-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine2-name = dense fuel line
-ent-RMCOverheadFuelLine2-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine2-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine2-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine3-name = dense fuel line
-ent-RMCOverheadFuelLine3-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine3-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine3-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine4-name = dense fuel line
-ent-RMCOverheadFuelLine4-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine4-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine4-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine5-name = dense fuel line
-ent-RMCOverheadFuelLine5-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine5-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine5-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine6-name = dense fuel line
-ent-RMCOverheadFuelLine6-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine6-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine6-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine7-name = dense fuel line
-ent-RMCOverheadFuelLine7-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine7-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine7-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine8-name = dense fuel line
-ent-RMCOverheadFuelLine8-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine8-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine8-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine9-name = dense fuel line
-ent-RMCOverheadFuelLine9-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine9-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine9-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine10-name = dense fuel line
-ent-RMCOverheadFuelLine10-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine10-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine10-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine11-name = dense fuel line
-ent-RMCOverheadFuelLine11-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine11-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine11-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine12-name = dense fuel line
-ent-RMCOverheadFuelLine12-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine12-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine12-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine13-name = dense fuel line
-ent-RMCOverheadFuelLine13-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine13-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine13-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine14-name = dense fuel line
-ent-RMCOverheadFuelLine14-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine14-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine14-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine15-name = dense fuel line
-ent-RMCOverheadFuelLine15-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine15-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine15-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine16-name = dense fuel line
-ent-RMCOverheadFuelLine16-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine16-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine16-desc = Вероятно, он невероятно легковоспламеняющийся.
 
-ent-RMCOverheadFuelLine17-name = dense fuel line
-ent-RMCOverheadFuelLine17-desc = Likely to be incredibly flammable.
+ent-RMCOverheadFuelLine17-name = плотная топливная магистраль
+ent-RMCOverheadFuelLine17-desc = Вероятно, он невероятно легковоспламеняющийся.
 

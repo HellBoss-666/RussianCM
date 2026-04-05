@@ -1,15 +1,15 @@
-ent-RMCJumpsuitKhakiWorkwear-name = khaki workwear
-ent-RMCJumpsuitKhakiWorkwear-desc = A pair of jeans paired with a khaki workshirt. A common pairing among blue-collar workers due to its drab look.
+ent-RMCJumpsuitKhakiWorkwear-name = хаки спецодежда
+ent-RMCJumpsuitKhakiWorkwear-desc = Пара джинсов в сочетании с рабочей рубашкой цвета хаки. 
 
-ent-RMCJumpsuitBlueWorkwear-name = blue workwear
-ent-RMCJumpsuitBlueWorkwear-desc = A pair of brown canvas workpants paired with a dark blue workshirt. A common pairing among blue-collar workers.
+ent-RMCJumpsuitBlueWorkwear-name = синяя спецодежда
+ent-RMCJumpsuitBlueWorkwear-desc = Пара коричневых холщовых рабочих брюк в сочетании с темно-синей рабочей рубашкой. 
 
-ent-RMCJumpsuitDispatcherUniform-name = dispatchers uniform
-ent-RMCJumpsuitDispatcherUniform-desc = A blue dress shirt and khakis with a small red security patch sewn on.
+ent-RMCJumpsuitDispatcherUniform-name = униформа диспетчеров
+ent-RMCJumpsuitDispatcherUniform-desc = Синяя классическая рубашка и брюки цвета хаки с пришитой маленькой красной защитной нашивкой.
 
-ent-RMCJumpsuitBlueWorkwearChancesGoon-name = blue workwear
-ent-RMCJumpsuitBlueWorkwearChancesGoon-desc = A pair of brown canvas workpants paired with a dark blue workshirt. A common pairing among blue-collar workers.
+ent-RMCJumpsuitBlueWorkwearChancesGoon-name = синяя спецодежда
+ent-RMCJumpsuitBlueWorkwearChancesGoon-desc = Пара коричневых холщовых рабочих брюк в сочетании с темно-синей рабочей рубашкой. 
 
-ent-RMCJumpsuitKhakiWorkwearJacketless-name = khaki workwear
-ent-RMCJumpsuitKhakiWorkwearJacketless-desc = A pair of jeans paired with a khaki workshirt. A common pairing among blue-collar workers due to its drab look.
+ent-RMCJumpsuitKhakiWorkwearJacketless-name = хаки спецодежда
+ent-RMCJumpsuitKhakiWorkwearJacketless-desc = Пара джинсов в сочетании с рабочей рубашкой цвета хаки. 
 

@@ -1,3 +1,3 @@
-ent-RMCPropTrashFull-name = full trash bag
-ent-RMCPropTrashFull-desc = It's the heavy-duty black polymer kind. It's full of old trash, you don't want to touch it.
+ent-RMCPropTrashFull-name = полный мешок для мусора
+ent-RMCPropTrashFull-desc = Это прочный черный полимер. 
 

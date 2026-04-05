@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaTMCCMiner-name = tmcc miner preset
+ent-RMCGearSurvivorPresetHybrisaTMCCMiner-name = настройки майнера tmcc
 
-ent-RMCSpawnPointSurvivorHybrisaTMCCMiner-name = tmcc miner spawn point
-ent-RMCSpawnPointSurvivorHybrisaTMCCMiner-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaTMCCMiner-name = Точка спавна майнера tmcc
+ent-RMCSpawnPointSurvivorHybrisaTMCCMiner-desc = Создатель заданий RMC14. 
 

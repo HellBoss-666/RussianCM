@@ -1,24 +1,24 @@
-ent-RMCOverwatchConsoleSPP-name = overwatch console
-ent-RMCOverwatchConsoleSPP-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleSPP-name = консоль наблюдения
+ent-RMCOverwatchConsoleSPP-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleSPPRotating-name = overwatch console
-ent-RMCOverwatchConsoleSPPRotating-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleSPPRotating-name = консоль наблюдения
+ent-RMCOverwatchConsoleSPPRotating-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleAdmin-name = overwatch console
-ent-RMCOverwatchConsoleAdmin-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleAdmin-name = консоль наблюдения
+ent-RMCOverwatchConsoleAdmin-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleAdminRotating-name = overwatch console
-ent-RMCOverwatchConsoleAdminRotating-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleAdminRotating-name = консоль наблюдения
+ent-RMCOverwatchConsoleAdminRotating-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleWeYa-name = overwatch console
-ent-RMCOverwatchConsoleWeYa-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleWeYa-name = консоль наблюдения
+ent-RMCOverwatchConsoleWeYa-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleWeYaRotating-name = overwatch console
-ent-RMCOverwatchConsoleWeYaRotating-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleWeYaRotating-name = консоль наблюдения
+ent-RMCOverwatchConsoleWeYaRotating-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleRCM-name = overwatch console
-ent-RMCOverwatchConsoleRCM-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleRCM-name = консоль наблюдения
+ent-RMCOverwatchConsoleRCM-desc = Современная техника для отдачи приказов отряду.
 
-ent-RMCOverwatchConsoleRCMRotating-name = overwatch console
-ent-RMCOverwatchConsoleRCMRotating-desc = State of the art machinery for giving orders to a squad.
+ent-RMCOverwatchConsoleRCMRotating-name = консоль наблюдения
+ent-RMCOverwatchConsoleRCMRotating-desc = Современная техника для отдачи приказов отряду.
 

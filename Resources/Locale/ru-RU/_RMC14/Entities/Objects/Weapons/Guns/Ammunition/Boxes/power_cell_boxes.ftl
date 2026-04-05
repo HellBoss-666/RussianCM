@@ -1,6 +1,6 @@
-ent-RMCBoxMagazinePowerCellsHigh-name = Supply Box (High-Capacity Power Cells)
-ent-RMCBoxMagazinePowerCellsHigh-desc = A box of High-Capacity Power Cells to keep your electronics going all night long!
+ent-RMCBoxMagazinePowerCellsHigh-name = Коробка питания (силовые элементы большой емкости)
+ent-RMCBoxMagazinePowerCellsHigh-desc = Коробка с аккумуляторами большой емкости, чтобы ваша электроника работала всю ночь напролет!
 
-ent-RMCBoxMagazinePowerCellsHighFilled-name = Supply Box (High-Capacity Power Cells)
-ent-RMCBoxMagazinePowerCellsHighFilled-desc = A box of High-Capacity Power Cells to keep your electronics going all night long!
+ent-RMCBoxMagazinePowerCellsHighFilled-name = Коробка питания (силовые элементы большой емкости)
+ent-RMCBoxMagazinePowerCellsHighFilled-desc = Коробка с аккумуляторами большой емкости, чтобы ваша электроника работала всю ночь напролет!
 

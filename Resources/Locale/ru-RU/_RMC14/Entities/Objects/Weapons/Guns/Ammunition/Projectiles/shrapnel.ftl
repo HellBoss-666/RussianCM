@@ -1,3 +1,3 @@
-ent-CMProjectileShrapnel-name = shrapnel
-ent-CMProjectileShrapnel-desc = If you can see this you're probably dead!
+ent-CMProjectileShrapnel-name = шрапнель
+ent-CMProjectileShrapnel-desc = Если ты это видишь, ты, вероятно, мертв!
 

@@ -1,2 +1,2 @@
-ent-CMCartridgeSniper10x28mm-name = cartridge
+ent-CMCartridgeSniper10x28mm-name = картридж
 

@@ -1,6 +1,6 @@
-ent-CMSpawnPointMilitaryPolice-name = military police spawn point
-ent-CMSpawnPointMilitaryPolice-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointMilitaryPolice-name = точка появления военной полиции
+ent-CMSpawnPointMilitaryPolice-desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleMP-name = Military Police
-ent-RMCGuidebookRoleMP-desc = Military Police
+ent-RMCGuidebookRoleMP-name = Военная полиция
+ent-RMCGuidebookRoleMP-desc = Военная полиция
 

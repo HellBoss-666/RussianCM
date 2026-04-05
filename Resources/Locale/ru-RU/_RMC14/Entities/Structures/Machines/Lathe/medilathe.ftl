@@ -1,6 +1,6 @@
-ent-RMCMedilathe-name = medilathe
-ent-RMCMedilathe-desc = A specialized autolathe made for printing medical items.
+ent-RMCMedilathe-name = медилат
+ent-RMCMedilathe-desc = Специализированный токарный станок, предназначенный для печати изделий медицинского назначения.
 
-ent-RMCMedilatheLeft-name = medilathe
-ent-RMCMedilatheLeft-desc = A specialized autolathe made for printing medical items.
+ent-RMCMedilatheLeft-name = медилат
+ent-RMCMedilatheLeft-desc = Специализированный токарный станок, предназначенный для печати изделий медицинского назначения.
 

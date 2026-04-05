@@ -1,6 +1,6 @@
-ent-RMCBenchLeft-name = bench
-ent-RMCBenchLeft-desc = A metal frame, with seats that are fitted with synthetic leather, they've faded in time.
+ent-RMCBenchLeft-name = лавка
+ent-RMCBenchLeft-desc = Металлический каркас, сиденья, обтянутые синтетической кожей, со временем поблекли.
 
-ent-RMCBenchRight-name = bench
-ent-RMCBenchRight-desc = A metal frame, with seats that are fitted with synthetic leather, they've faded in time.
+ent-RMCBenchRight-name = лавка
+ent-RMCBenchRight-desc = Металлический каркас, сиденья, обтянутые синтетической кожей, со временем поблекли.
 

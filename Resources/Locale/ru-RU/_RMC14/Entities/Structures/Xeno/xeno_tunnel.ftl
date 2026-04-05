@@ -1,15 +1,15 @@
-ent-XenoTunnelMaintHybrisaNoXenoDesc-name = Sewer Manhole
-ent-XenoTunnelMaintHybrisaNoXenoDesc-desc = An entrance to a maintenance tunnel. Pieces of debris keep you from getting a closer look.
+ent-XenoTunnelMaintHybrisaNoXenoDesc-name = Канализационный люк
+ent-XenoTunnelMaintHybrisaNoXenoDesc-desc = Вход в туннель технического обслуживания. 
 
-ent-XenoTunnelMaintHybrisa-name = Sewer Manhole
-ent-XenoTunnelMaintHybrisa-desc = An entrance to a maintenance tunnel. You can see bits of slime and resin within. Pieces of debris keep you from getting a closer look.
+ent-XenoTunnelMaintHybrisa-name = Канализационный люк
+ent-XenoTunnelMaintHybrisa-desc = Вход в туннель технического обслуживания. 
 
-ent-XenoTunnelMaint-name = Maintenance Hatch
-ent-XenoTunnelMaint-desc = An entrance to a maintenance tunnel. You can see bits of slime and resin within. Pieces of debris keep you from getting a closer look.
+ent-XenoTunnelMaint-name = Люк для обслуживания
+ent-XenoTunnelMaint-desc = Вход в туннель технического обслуживания. 
 
-ent-XenoTunnel-name = Tunnel
-ent-XenoTunnel-desc = A tunnel entrance. Looks like it was dug by some kind of clawed beast.
+ent-XenoTunnel-name = Туннель
+ent-XenoTunnel-desc = Вход в туннель. 
 
-ent-XenoTunnelMaintNoXenoDesc-name = Maintenance Hatch
-ent-XenoTunnelMaintNoXenoDesc-desc = An entrance to a maintenance tunnel. Pieces of debris keep you from getting a closer look.
+ent-XenoTunnelMaintNoXenoDesc-name = Люк для обслуживания
+ent-XenoTunnelMaintNoXenoDesc-desc = Вход в туннель технического обслуживания. 
 

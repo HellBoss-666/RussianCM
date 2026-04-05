@@ -1,30 +1,30 @@
-ent-RMCAIConsoleHERMES-name = HERMES Maintenance Controller
-ent-RMCAIConsoleHERMES-desc = A console built to facilitate Average Joes and their operation, allowing for simple allocation of resources.
+ent-RMCAIConsoleHERMES-name = Контроллер технического обслуживания ГЕРМЕС
+ent-RMCAIConsoleHERMES-desc = Консоль, созданная для облегчения работы обычных игроков и позволяющая легко распределять ресурсы.
 
-ent-RMCAIConsoleInterface-name = AI interface console
-ent-RMCAIConsoleInterface-desc = A large, bulky computer intended to allow the user to interface with the ship's AI.
+ent-RMCAIConsoleInterface-name = Консоль с интерфейсом AI
+ent-RMCAIConsoleInterface-desc = Большой, громоздкий компьютер, предназначенный для того, чтобы пользователь мог взаимодействовать с искусственным интеллектом корабля.
 
-ent-RMCAIConsoleARES-name = ARES Interface
-ent-RMCAIConsoleARES-desc = A console built to interface with ARES, allowing for 1:1 communication.
+ent-RMCAIConsoleARES-name = Интерфейс АРЕС
+ent-RMCAIConsoleARES-desc = Консоль, созданная для взаимодействия с ARES, обеспечивающая связь 1:1.
 
-ent-RMCAICoreSubstrate-name = ARES Substrate
-ent-RMCAICoreSubstrate-desc = The memory substrate of ARES, containing complex protocols and information. Limited capabilities can operate on substrate alone, without the main ARES Unit operational.
+ent-RMCAICoreSubstrate-name = АРЕС Субстрат
+ent-RMCAICoreSubstrate-desc = Подложка памяти ARES, содержащая сложные протоколы и информацию. 
 
-ent-RMCAICoreCPU-name = ARES CPU
-ent-RMCAICoreCPU-desc = This is ARES' central processor. Made of a casing designed to withstand nuclear blasts, the CPU also contains ARES' blackbox recorder.
+ent-RMCAICoreCPU-name = АРЕС ЦП
+ent-RMCAICoreCPU-desc = Это центральный процессор ARES. 
 
-ent-RMCAICoreProcessorHERMES-name = ARES Processor (HERMES)
-ent-RMCAICoreProcessorHERMES-desc = The external component of ARES' HERMES processor. Primarily responsible for coordinating Average Joes and Maintenance Drones. It definitely wasn't stolen from Novaris Industries.
+ent-RMCAICoreProcessorHERMES-name = Процессор АРЕС (ГЕРМЕС)
+ent-RMCAICoreProcessorHERMES-desc = Внешний компонент процессора HERMES компании ARES. 
 
-ent-RMCAICoreProcessorInterface-name = ARES Processor (Interface)
-ent-RMCAICoreProcessorInterface-desc = An external processor for ARES; this one handles core processes for interfacing with the crew, including radio transmissions and broadcasts.
+ent-RMCAICoreProcessorInterface-name = Процессор ARES (интерфейс)
+ent-RMCAICoreProcessorInterface-desc = Внешний процессор для ARES; 
 
-ent-RMCAICoreProcessorBioscan-name = ARES Processor (Bioscan)
-ent-RMCAICoreProcessorBioscan-desc = The external component of ARES' Bioscan systems. Without this, the UNS Almayer would be incapable of running bioscans!
+ent-RMCAICoreProcessorBioscan-name = Процессор ARES (Биоскан)
+ent-RMCAICoreProcessorBioscan-desc = Внешний компонент систем Биоскан компании ARES. 
 
-ent-RMCAICoreProcessor-name = ARES Processor
-ent-RMCAICoreProcessor-desc = An external processor for ARES, used to process vast amounts of information.
+ent-RMCAICoreProcessor-name = Процессор АРЕС
+ent-RMCAICoreProcessor-desc = Внешний процессор ARES, используемый для обработки огромных объемов информации.
 
-ent-RMCAICore-name = ARES v3.2
-ent-RMCAICore-desc = This is the artificial intelligence system for the UNS Almayer. Like many other military-grade AI systems, this one was manufactured by We-Ya.
+ent-RMCAICore-name = АРЕС v3.2
+ent-RMCAICore-desc = Это система искусственного интеллекта для UNS Almayer. 
 

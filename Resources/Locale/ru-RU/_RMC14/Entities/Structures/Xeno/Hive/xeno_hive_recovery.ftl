@@ -1,6 +1,6 @@
-ent-HiveRecoveryNodeXenoConstructionNode-name = recovery node
-ent-HiveRecoveryNodeXenoConstructionNode-desc = A warm, soothing light source that pulsates with a faint hum. Looks like a marker for something.
+ent-HiveRecoveryNodeXenoConstructionNode-name = узел восстановления
+ent-HiveRecoveryNodeXenoConstructionNode-desc = Теплый, успокаивающий источник света, пульсирующий слабым гудением. 
 
-ent-HiveRecoveryNodeXeno-name = recovery node
-ent-HiveRecoveryNodeXeno-desc = A warm, soothing light source that pulsates with a faint hum.
+ent-HiveRecoveryNodeXeno-name = узел восстановления
+ent-HiveRecoveryNodeXeno-desc = Теплый, успокаивающий источник света, пульсирующий слабым гудением.
 

@@ -1,6 +1,6 @@
-ent-RMCColMarTechSurplusPVE-name = ColMarTech surplus uniform vendor
-ent-RMCColMarTechSurplusPVE-desc = An automated rack hooked up to a small storage of standard marine uniforms.
+ent-RMCColMarTechSurplusPVE-name = ColMarTech поставщик униформы
+ent-RMCColMarTechSurplusPVE-desc = Автоматизированный стеллаж, подключенный к небольшому складу стандартной униформы Морпеха.
 
-ent-RMCColMarTechUtilitiesPVE-name = ColMarTech automated utilities squad vendor
-ent-RMCColMarTechUtilitiesPVE-desc = An automated supply rack hooked up to a small storage of various utilities and tools. Can be accessed by any Marine Rifleman.
+ent-RMCColMarTechUtilitiesPVE-name = ColMarTech поставщик автоматизированных коммунальных услуг
+ent-RMCColMarTechUtilitiesPVE-desc = Автоматизированный стеллаж для снабжения, соединенный с небольшим хранилищем различных утилит и инструментов. 
 

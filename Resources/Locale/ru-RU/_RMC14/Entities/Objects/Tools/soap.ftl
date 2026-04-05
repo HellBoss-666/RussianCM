@@ -1,12 +1,12 @@
-ent-CMSoapNT-name = soap
-ent-CMSoapNT-desc = A WeYa brand bar of soap. Smells of phoron.
+ent-CMSoapNT-name = мыло
+ent-CMSoapNT-desc = Кусок мыла марки WeYa. 
 
-ent-CMSoapSyndie-name = soap
-ent-CMSoapSyndie-desc = An untrustworthy bar of soap. Smells of fear.
+ent-CMSoapSyndie-name = мыло
+ent-CMSoapSyndie-desc = Ненадежный кусок мыла. 
 
-ent-CMSoapDeluxe-name = soap
-ent-CMSoapDeluxe-desc = A deluxe Waffle Co. brand bar of soap. Smells of strawberries.
+ent-CMSoapDeluxe-name = мыло
+ent-CMSoapDeluxe-desc = Роскошный кусок мыла марки Waffle Co. 
 
-ent-CMSoap-name = soap
-ent-CMSoap-desc = A cheap bar of soap. Doesn't smell.
+ent-CMSoap-name = мыло
+ent-CMSoap-desc = Дешевый кусок мыла. 
 

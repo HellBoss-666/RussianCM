@@ -1,15 +1,15 @@
-ent-CMWallSolarisRock-name = rock wall
-ent-CMWallSolarisRock-desc = Tough looking walls that have been blasted by sand since the day they were erected. A testament to human willpower.
+ent-CMWallSolarisRock-name = каменная стена
+ent-CMWallSolarisRock-desc = Прочные на вид стены, покрытые песком со дня их возведения. 
 
-ent-CMWallSolarisHull-name = heavy reinforced colony wall
-ent-CMWallSolarisHull-desc = Tough looking walls that have been blasted by sand since the day they were erected. A testament to human willpower.
+ent-CMWallSolarisHull-name = тяжелая укрепленная стена колонии
+ent-CMWallSolarisHull-desc = Прочные на вид стены, покрытые песком со дня их возведения. 
 
-ent-CMWallSolarisReinforced-name = reinforced colony wall
-ent-CMWallSolarisReinforced-desc = Tough looking walls that have been blasted by sand since the day they were erected. A testament to human willpower.
+ent-CMWallSolarisReinforced-name = усиленная стена колонии
+ent-CMWallSolarisReinforced-desc = Прочные на вид стены, покрытые песком со дня их возведения. 
 
-ent-CMWallSolaris-name = colony wall
-ent-CMWallSolaris-desc = Tough looking walls that have been blasted by sand since the day they were erected. A testament to human willpower.
+ent-CMWallSolaris-name = стена колонии
+ent-CMWallSolaris-desc = Прочные на вид стены, покрытые песком со дня их возведения. 
 
-ent-RMCWallSolarisRockTimed-name = rock wall
-ent-RMCWallSolarisRockTimed-desc = Tough looking walls that have been blasted by sand since the day they were erected. A testament to human willpower.
+ent-RMCWallSolarisRockTimed-name = каменная стена
+ent-RMCWallSolarisRockTimed-desc = Прочные на вид стены, покрытые песком со дня их возведения. 
 

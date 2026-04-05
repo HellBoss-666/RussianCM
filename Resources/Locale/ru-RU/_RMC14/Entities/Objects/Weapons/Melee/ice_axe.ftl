@@ -1,9 +1,9 @@
-ent-RMCIceAxe-name = ice axe
-ent-RMCIceAxe-desc = For climbing, mostly. Makes for a good improvised weapon.
+ent-RMCIceAxe-name = ледоруб
+ent-RMCIceAxe-desc = В основном для скалолазания. 
 
-ent-RMCIceAxeRed-name = ice axe
-ent-RMCIceAxeRed-desc = For climbing, mostly. Makes for a good improvised weapon.
+ent-RMCIceAxeRed-name = ледоруб
+ent-RMCIceAxeRed-desc = В основном для скалолазания. 
 
-ent-RMCIceAxeGreen-name = ice axe
-ent-RMCIceAxeGreen-desc = For climbing, mostly. Makes for a good improvised weapon.
+ent-RMCIceAxeGreen-name = ледоруб
+ent-RMCIceAxeGreen-desc = В основном для скалолазания. 
 

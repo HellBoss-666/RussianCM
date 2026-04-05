@@ -1,8 +1,8 @@
-ent-RMCComputerFrameUnfinished-name = computer frame
-ent-RMCComputerFrameUnfinished-desc = A machine under construction. Needs more parts.
+ent-RMCComputerFrameUnfinished-name = компьютерная рама
+ent-RMCComputerFrameUnfinished-desc = Машина в стадии строительства. 
 
-ent-CMMachineFrameUnfinished-name = machine frame
-ent-CMMachineFrameUnfinished-desc = A machine under construction. Needs more parts.
+ent-CMMachineFrameUnfinished-name = рама машины
+ent-CMMachineFrameUnfinished-desc = Машина в стадии строительства. 
 
-ent-CMMachineFrameDestroyed-name = destroyed machine frame
+ent-CMMachineFrameDestroyed-name = разрушенный корпус машины
 

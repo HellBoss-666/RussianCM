@@ -1,53 +1,53 @@
-ent-RMCAirlockGlassSecurityLockedTSEPAAlt-name = airlock
-ent-RMCAirlockGlassSecurityLockedTSEPAAlt-desc = It opens, it closes, and maybe crushes you.
+ent-RMCAirlockGlassSecurityLockedTSEPAAlt-name = шлюзовая камера
+ent-RMCAirlockGlassSecurityLockedTSEPAAlt-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockSecureLockedColony-name = secure airlock
+ent-CMAirlockSecureLockedColony-name = безопасный шлюз
 
-ent-CMAirlockCommandLockedColony-name = command airlock
+ent-CMAirlockCommandLockedColony-name = командный шлюз
 
-ent-CMAirlockSecurityLockedColony-name = security airlock
+ent-CMAirlockSecurityLockedColony-name = шлюз безопасности
 
-ent-CMAirlockEngineerLockedColony-name = engineering airlock
+ent-CMAirlockEngineerLockedColony-name = инженерный шлюз
 
-ent-CMAirlockRequisitionsLockedColony-name = requisitions bay
-ent-CMAirlockRequisitionsLockedColony-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockRequisitionsLockedColony-name = отсек для заявок
+ent-CMAirlockRequisitionsLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMedicalLockedColony-name = medical airlock
+ent-CMAirlockMedicalLockedColony-name = медицинский шлюз
 
-ent-CMAirlockResearchLockedColony-name = medical airlock
+ent-CMAirlockResearchLockedColony-name = медицинский шлюз
 
-ent-CMAirlockMaintLockedColony-name = maintenance hatch
+ent-CMAirlockMaintLockedColony-name = люк для обслуживания
 
-ent-CMAirlockGlassLockedColony-name = glass airlock
-ent-CMAirlockGlassLockedColony-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassLockedColony-name = стеклянный шлюзовой шлюз
+ent-CMAirlockGlassLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassEngineerLockedColony-name = engineering airlock
-ent-CMAirlockGlassEngineerLockedColony-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassEngineerLockedColony-name = инженерный шлюз
+ent-CMAirlockGlassEngineerLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassSecurityLockedColony-name = security airlock
-ent-CMAirlockGlassSecurityLockedColony-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassSecurityLockedColony-name = шлюз безопасности
+ent-CMAirlockGlassSecurityLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassMedicalLockedColony-name = medical airlock
-ent-CMAirlockGlassMedicalLockedColony-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassMedicalLockedColony-name = медицинский шлюз
+ent-CMAirlockGlassMedicalLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassResearchLockedColony-name = medical airlock
-ent-CMAirlockGlassResearchLockedColony-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassResearchLockedColony-name = медицинский шлюз
+ent-CMAirlockGlassResearchLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-RMCAirlockGlassSecurityLockedTSEPA-name = security airlock
-ent-RMCAirlockGlassSecurityLockedTSEPA-desc = It opens, it closes, and maybe crushes you.
+ent-RMCAirlockGlassSecurityLockedTSEPA-name = шлюз безопасности
+ent-RMCAirlockGlassSecurityLockedTSEPA-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-RMCAirlockSecurityLockedTSEPA-name = security airlock
+ent-RMCAirlockSecurityLockedTSEPA-name = шлюз безопасности
 
-ent-RMCAirlockGlassSecurityLockedTSEPABrig-name = security airlock
-ent-RMCAirlockGlassSecurityLockedTSEPABrig-desc = It opens, it closes, and maybe crushes you.
+ent-RMCAirlockGlassSecurityLockedTSEPABrig-name = шлюз безопасности
+ent-RMCAirlockGlassSecurityLockedTSEPABrig-desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-RMCDoubleDoorSecurityGlassLockedTSEPA-name = door
+ent-RMCDoubleDoorSecurityGlassLockedTSEPA-name = дверь
 
-ent-RMCDoubleDoorSecurityGlassLockedTSEPAAlt-name = door
+ent-RMCDoubleDoorSecurityGlassLockedTSEPAAlt-name = дверь
 
-ent-RMCAirlockMaintLockedTSEPA-name = maintenance hatch
+ent-RMCAirlockMaintLockedTSEPA-name = люк для обслуживания
 
-ent-RMCAirlockHybrisaPersonalLockedTSEPA-name = airlock
+ent-RMCAirlockHybrisaPersonalLockedTSEPA-name = шлюзовая камера
 
-ent-RMCAirlockHybrisaPersonalLockedTSEPABrig-name = airlock
+ent-RMCAirlockHybrisaPersonalLockedTSEPABrig-name = шлюзовая камера
 

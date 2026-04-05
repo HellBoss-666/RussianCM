@@ -1,4 +1,4 @@
-ent-RMCFoodSpawner-name = Random Food Spawner
+ent-RMCFoodSpawner-name = Случайный источник еды
 
-ent-RMCDrinkSpawner-name = Random Drink Spawner
+ent-RMCDrinkSpawner-name = Случайный генератор напитков
 

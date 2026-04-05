@@ -1,12 +1,12 @@
-ent-RMCHeadsetTSEPA-name = TSEPA headset
+ent-RMCHeadsetTSEPA-name = ЦЭПА гарнитура
 
-ent-RMCHeadsetTSE-name = TSE headset
+ent-RMCHeadsetTSE-name = ТСЭ гарнитура
 
-ent-RMCEncryptionKeyTSEPA-name = TSEPA radio encryption key
-ent-RMCEncryptionKeyTSEPA-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyTSEPA-name = Ключ радиошифрования TSEPA
+ent-RMCEncryptionKeyTSEPA-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyTSE-name = TSE radio encryption key
-ent-RMCEncryptionKeyTSE-desc = An encryption key for a radio headset.
+ent-RMCEncryptionKeyTSE-name = Ключ радиошифрования TSE
+ent-RMCEncryptionKeyTSE-desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCHeadsetTSEAbstract-name = lathe-category-clothing
+ent-RMCHeadsetTSEAbstract-name = токарный станок-категория-одежда
 

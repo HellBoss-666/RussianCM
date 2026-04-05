@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidProvostChiefInspector-name = provost ghost role chief inspector
+ent-RMCRandomHumanoidProvostChiefInspector-name = роль провоста-призрака, главный инспектор
 

@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCGunner-name = weya pmc gunner spawn point
-ent-RMCSpawnPointPMCGunner-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCGunner-name = Weya точка спавна наводчика ЧВК
+ent-RMCSpawnPointPMCGunner-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCGunner-name = weya pmc ghost role gunner
+ent-RMCRandomHumanoidPMCGunner-name = Weya PMC роль наводчика-призрака
 

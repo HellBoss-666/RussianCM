@@ -1,27 +1,27 @@
-ent-RMCPouchFirstAidSPPArmyFill-name = first-aid pouch
-ent-RMCPouchFirstAidSPPArmyFill-desc = Contains a variety of autoinjectors for quickly treating injuries.
+ent-RMCPouchFirstAidSPPArmyFill-name = аптечка первой помощи
+ent-RMCPouchFirstAidSPPArmyFill-desc = Содержит множество автоинъекторов для быстрого лечения травм.
 
-ent-RMCPouchFirstAidPMC-name = We-Ya first-aid pouch
-ent-RMCPouchFirstAidPMC-desc = Contains a variety of autoinjectors for quickly treating injuries.
+ent-RMCPouchFirstAidPMC-name = Аптечка We-Ya
+ent-RMCPouchFirstAidPMC-desc = Содержит множество автоинъекторов для быстрого лечения травм.
 
-ent-RMCPouchFirstAid-name = first-aid pouch
-ent-RMCPouchFirstAid-desc = It contains, by default, autoinjectors. But it may also hold ointments, bandages, and pill packets.
+ent-RMCPouchFirstAid-name = аптечка первой помощи
+ent-RMCPouchFirstAid-desc = По умолчанию он содержит автоинжекторы. 
 
-ent-RMCPouchFirstAidInjectors-name = first-aid pouch
-ent-RMCPouchFirstAidInjectors-desc = Contains a variety of autoinjectors for quickly treating injuries.
+ent-RMCPouchFirstAidInjectors-name = аптечка первой помощи
+ent-RMCPouchFirstAidInjectors-desc = Содержит множество автоинъекторов для быстрого лечения травм.
 
-ent-RMCPouchFirstAidSplintsGauzeOintment-name = first-aid pouch
-ent-RMCPouchFirstAidSplintsGauzeOintment-desc = It contains, by default, autoinjectors. But it may also hold ointments, bandages, and pill packets.
+ent-RMCPouchFirstAidSplintsGauzeOintment-name = аптечка первой помощи
+ent-RMCPouchFirstAidSplintsGauzeOintment-desc = По умолчанию он содержит автоинжекторы. 
 
-ent-RMCPouchFirstAidPills-name = first-aid pouch
-ent-RMCPouchFirstAidPills-desc = It contains, by default, autoinjectors. But it may also hold ointments, bandages, and pill packets.
+ent-RMCPouchFirstAidPills-name = аптечка первой помощи
+ent-RMCPouchFirstAidPills-desc = По умолчанию он содержит автоинжекторы. 
 
-ent-RMCPouchFirstAidERT-name = first-aid pouch
-ent-RMCPouchFirstAidERT-desc = It can contain autoinjectors, ointments, and bandages. This one has some extra stuff.
+ent-RMCPouchFirstAidERT-name = аптечка первой помощи
+ent-RMCPouchFirstAidERT-desc = Он может содержать автоинъекторы, мази и повязки. 
 
-ent-RMCPouchFirstAidERTFill-name = first-aid pouch
-ent-RMCPouchFirstAidERTFill-desc = It can contain autoinjectors, ointments, and bandages. This one has some extra stuff.
+ent-RMCPouchFirstAidERTFill-name = аптечка первой помощи
+ent-RMCPouchFirstAidERTFill-desc = Он может содержать автоинъекторы, мази и повязки. 
 
-ent-RMCPouchFirstAidPMCFill-name = We-Ya first-aid pouch
-ent-RMCPouchFirstAidPMCFill-desc = Contains a variety of autoinjectors for quickly treating injuries.
+ent-RMCPouchFirstAidPMCFill-name = Аптечка We-Ya
+ent-RMCPouchFirstAidPMCFill-desc = Содержит множество автоинъекторов для быстрого лечения травм.
 

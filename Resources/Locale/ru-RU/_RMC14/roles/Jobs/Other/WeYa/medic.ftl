@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCMedic-name = weya pmc medic spawn point
-ent-RMCSpawnPointPMCMedic-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPMCMedic-name = точка спавна медика Weya PMC
+ent-RMCSpawnPointPMCMedic-desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCMedic-name = weya pmc ghost role medic
+ent-RMCRandomHumanoidPMCMedic-name = weya pmc роль призрака медик
 

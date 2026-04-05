@@ -1,68 +1,68 @@
-ent-RMCSpawnMobDoc-name = doc spawner
+ent-RMCSpawnMobDoc-name = спаунер документов
 
-ent-RMCSpawnMobGarry-name = Garry Spawner
+ent-RMCSpawnMobGarry-name = Гарри Спаунер
 
-ent-CMSpawnMobOrion-name = Orion Spawner
+ent-CMSpawnMobOrion-name = Производитель Ориона
 
-ent-CMSpawnMobJones-name = Jones Spawner
+ent-CMSpawnMobJones-name = Джонс Спаунер
 
-ent-CMSpawnMobWiggles-name = Mr. Wiggles Spawner
+ent-CMSpawnMobWiggles-name = Мистер Вигглс Спаунер
 
-ent-RMCSpawnRatBlack-name = rat spawner
+ent-RMCSpawnRatBlack-name = заводчик крыс
 
-ent-CMSpawnMobKobold-name = kobold spawner
+ent-CMSpawnMobKobold-name = спаунер кобольдов
 
-ent-CMSpawnMobMonkey-name = monkey spawner
+ent-CMSpawnMobMonkey-name = спаунер обезьян
 
-ent-RMCMobGarry-name = Garry
-ent-RMCMobGarry-desc = Her fur has the look and feel of velvet, and her tail quivers occasionally.
+ent-RMCMobGarry-name = Гарри
+ent-RMCMobGarry-desc = Ее мех на вид похож на бархат, а хвост время от времени подрагивает.
 
-ent-RMCMobOrion-name = Orion
-ent-RMCMobOrion-desc = A domesticated, feline pet. The collar says 'Orion'.
+ent-RMCMobOrion-name = Орион
+ent-RMCMobOrion-desc = Домашний кошачий питомец. 
 
-ent-CMMobJones-name = Jones
-ent-CMMobJones-desc = A tough, old stray whose origin no one seems to know.
+ent-CMMobJones-name = Джонс
+ent-CMMobJones-desc = Крепкий старый бездомный, чье происхождение, кажется, никто не знает.
 
-ent-CMMobWiggles-name = Mister Wiggles
-ent-CMMobWiggles-desc = It's a corgi puppy. MISTER WIGGLES!! HE IS THE GREATEST!
+ent-CMMobWiggles-name = Мистер Вигглс
+ent-CMMobWiggles-desc = Это щенок корги. 
 
-ent-RMCMobRatBrown-name = rat
-ent-RMCMobRatBrown-desc = It's a big, disease-ridden rodent.
+ent-RMCMobRatBrown-name = крыса
+ent-RMCMobRatBrown-desc = Это большой, больной грызун.
 
-ent-RMCMobRat-name = rat
-ent-RMCMobRat-desc = It's a small laboratory rat.
+ent-RMCMobRat-name = крыса
+ent-RMCMobRat-desc = Это маленькая лабораторная крыса.
 
-ent-RMCMobMouseDoc-name = Doc
-ent-RMCMobMouseDoc-desc = Senior mouse researcher of the Almayer. Likes: cheese, experiments, explosions.
+ent-RMCMobMouseDoc-name = Док
+ent-RMCMobMouseDoc-desc = Старший исследователь мышей в Олмайере. 
 
-ent-CMMobKobold-name = kobold
+ent-CMMobKobold-name = кобольд
 
-ent-CMMobMonkey-name = monkey
+ent-CMMobMonkey-name = обезьяна
 
-ent-RMCSmallHost-name = abstract small host
+ent-RMCSmallHost-name = абстрактный маленький хост
 
-ent-RMCSimpleMob-name = abstract simple mob
+ent-RMCSimpleMob-name = абстрактный простой моб
 
-ent-CMMobMouse-name = mouse
-ent-CMMobMouse-desc = Squeak!
+ent-CMMobMouse-name = мышь
+ent-CMMobMouse-desc = Писк!
 
-ent-CMMobMouse1-name = mouse
-ent-CMMobMouse1-desc = Squeak!
+ent-CMMobMouse1-name = мышь
+ent-CMMobMouse1-desc = Писк!
 
-ent-CMMobMouse2-name = mouse
-ent-CMMobMouse2-desc = Squeak!
+ent-CMMobMouse2-name = мышь
+ent-CMMobMouse2-desc = Писк!
 
-ent-RMCMobRatGray-name = rat
-ent-RMCMobRatGray-desc = It's a big, disease-ridden rodent.
+ent-RMCMobRatGray-name = крыса
+ent-RMCMobRatGray-desc = Это большой, больной грызун.
 
-ent-RMCMobRatBlack-name = rat
-ent-RMCMobRatBlack-desc = It's a big, disease-ridden rodent.
+ent-RMCMobRatBlack-name = крыса
+ent-RMCMobRatBlack-desc = Это большой, больной грызун.
 
-ent-CMSpawnMobMouse-name = Mouse Spawner
+ent-CMSpawnMobMouse-name = Создатель мыши
 
-ent-RMCSpawnRatGray-name = rat spawner
+ent-RMCSpawnRatGray-name = заводчик крыс
 
-ent-RMCSpawnRatBrown-name = rat spawner
+ent-RMCSpawnRatBrown-name = заводчик крыс
 
-ent-RMCSpawnRatWhite-name = rat spawner
+ent-RMCSpawnRatWhite-name = заводчик крыс
 

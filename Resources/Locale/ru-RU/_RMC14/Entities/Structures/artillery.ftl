@@ -1,18 +1,18 @@
-ent-RMCRailgunProp-name = 'BURST' MAC Planetary Battery
-ent-RMCRailgunProp-desc = The 'BURST' MAC Planetary Battery is an advanced magnetic mass accelerator cannon which utilises a long linear system of magnetic coils to propel metal payloads at incredible speeds.
+ent-RMCRailgunProp-name = Планетарная батарея MAC «BURST»
+ent-RMCRailgunProp-desc = Планетарная батарея MAC «BURST» — это усовершенствованная пушка-ускоритель магнитной массы, в которой используется длинная линейная система магнитных катушек для приведения в движение металлических полезных грузов на невероятных скоростях.
 
-ent-RMCAntiAirProp-name = IX-50 MGAD Cannon
-ent-RMCAntiAirProp-desc = The IX-50 is a state-of-the-art Micro-Gravity and Air Defense system capable of independently tracking and neutralizing threats with rockets strapped onto them.
+ent-RMCAntiAirProp-name = Пушка IX-50 МГАД
+ent-RMCAntiAirProp-desc = IX-50 — это современная система микрогравитации и противовоздушной обороны, способная самостоятельно отслеживать и нейтрализовать угрозы с помощью прикрепленных к ним ракет.
 
-ent-RMCAntiAirPropFlipped-name = IX-50 MGAD Cannon
-ent-RMCAntiAirPropFlipped-desc = The IX-50 is a state-of-the-art Micro-Gravity and Air Defense system capable of independently tracking and neutralizing threats with rockets strapped onto them.
+ent-RMCAntiAirPropFlipped-name = Пушка IX-50 МГАД
+ent-RMCAntiAirPropFlipped-desc = IX-50 — это современная система микрогравитации и противовоздушной обороны, способная самостоятельно отслеживать и нейтрализовать угрозы с помощью прикрепленных к ним ракет.
 
-ent-RMCRailgunPropFlipped-name = 'BURST' MAC Planetary Battery
-ent-RMCRailgunPropFlipped-desc = The 'BURST' MAC Planetary Battery is an advanced magnetic mass accelerator cannon which utilises a long linear system of magnetic coils to propel metal payloads at incredible speeds.
+ent-RMCRailgunPropFlipped-name = Планетарная батарея MAC «BURST»
+ent-RMCRailgunPropFlipped-desc = Планетарная батарея MAC «BURST» — это усовершенствованная пушка-ускоритель магнитной массы, в которой используется длинная линейная система магнитных катушек для приведения в движение металлических полезных грузов на невероятных скоростях.
 
-ent-RMCMissileTubeProp-name = Mk 33 ASAT launcher system
-ent-RMCMissileTubeProp-desc = Cold launch tubes that can fire a few varieties of missiles out of them, the most common being the ASAT-21 Rapier IV missile used against satellites and other spacecraft and the BGM-227 Sledgehammer missile which is used for ground attack.
+ent-RMCMissileTubeProp-name = Противоспутниковая пусковая система Mk 33
+ent-RMCMissileTubeProp-desc = Трубы холодного запуска, которые могут запускать из них несколько разновидностей ракет, наиболее распространенной из которых является ракета ASAT-21 Rapier IV, используемая против спутников и других космических кораблей, и ракета BGM-227 Sledgehammer, которая используется для наземных атак.
 
-ent-RMCMissileTubePropFlipped-name = Mk 33 ASAT launcher system
-ent-RMCMissileTubePropFlipped-desc = Cold launch tubes that can fire a few varieties of missiles out of them, the most common being the ASAT-21 Rapier IV missile used against satellites and other spacecraft and the BGM-227 Sledgehammer missile which is used for ground attack.
+ent-RMCMissileTubePropFlipped-name = Противоспутниковая пусковая система Mk 33
+ent-RMCMissileTubePropFlipped-desc = Трубы холодного запуска, которые могут запускать из них несколько разновидностей ракет, наиболее распространенной из которых является ракета ASAT-21 Rapier IV, используемая против спутников и других космических кораблей, и ракета BGM-227 Sledgehammer, которая используется для наземных атак.
 

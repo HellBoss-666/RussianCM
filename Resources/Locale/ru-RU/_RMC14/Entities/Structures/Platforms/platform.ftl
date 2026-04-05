@@ -1,162 +1,162 @@
-ent-RMCPlatformAlmayerCorner-name = raised metal corner
-ent-RMCPlatformAlmayerCorner-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformAlmayerCorner-name = приподнятый металлический уголок
+ent-RMCPlatformAlmayerCorner-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformAlmayer-name = raised metal edge
-ent-RMCPlatformAlmayer-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformAlmayer-name = приподнятый металлический край
+ent-RMCPlatformAlmayer-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformSandstoneStairLeft-name = sandstone platform stair
-ent-RMCPlatformSandstoneStairLeft-desc = A square metal surface resting on four legs.
+ent-RMCPlatformSandstoneStairLeft-name = лестница на платформе из песчаника
+ent-RMCPlatformSandstoneStairLeft-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-RMCPlatformSandstoneStairRight-name = sandstone platform stair
-ent-RMCPlatformSandstoneStairRight-desc = A square metal surface resting on four legs.
+ent-RMCPlatformSandstoneStairRight-name = лестница на платформе из песчаника
+ent-RMCPlatformSandstoneStairRight-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-RMCPlatformSandstoneCornerSmall-name = sandstone platform corner
-ent-RMCPlatformSandstoneCornerSmall-desc = The corner of what appears to be raised piece of metal, often used to imply the illusion of elevation in non-Euclidean 2d spaces. But you don't know that, you're just a spaceman with a rifle.
+ent-RMCPlatformSandstoneCornerSmall-name = Угол платформы из песчаника
+ent-RMCPlatformSandstoneCornerSmall-desc = Угол того, что кажется приподнятым куском металла, часто используется для обозначения иллюзии возвышения в неевклидовых двумерных пространствах. 
 
-ent-RMCPlatformSandstone-name = sandstone platform
-ent-RMCPlatformSandstone-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformSandstone-name = платформа из песчаника
+ent-RMCPlatformSandstone-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformHybrisaStoneCornerSmall-name = raised stone corner
-ent-RMCPlatformHybrisaStoneCornerSmall-desc = A raised level of stone, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformHybrisaStoneCornerSmall-name = приподнятый каменный угол
+ent-RMCPlatformHybrisaStoneCornerSmall-desc = Приподнятый уровень камня, часто используемый для возвышения одних мест над другими. 
 
-ent-RMCPlatformHybrisaStone-name = raised stone platform
-ent-RMCPlatformHybrisaStone-desc = A raised level of stone, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaStone-name = приподнятая каменная платформа
+ent-RMCPlatformHybrisaStone-desc = Приподнятый уровень камня, часто используемый для возвышения одних мест над другими. 
 
-ent-RMCPlatformHybrisaRockCornerSmall-name = raised rock corner
-ent-RMCPlatformHybrisaRockCornerSmall-desc = A collection of stones and rocks that cap the edge of some conveniently 1-meter-long lengths of perfectly climbable chest high walls.
+ent-RMCPlatformHybrisaRockCornerSmall-name = приподнятый угол камня
+ent-RMCPlatformHybrisaRockCornerSmall-desc = Собрание камней и скал, которые закрывают края удобных 1-метровых стен высотой по грудь, по которым можно легко подняться.
 
-ent-RMCPlatformHybrisaRock-name = raised rock edges
-ent-RMCPlatformHybrisaRock-desc = A collection of stones and rocks that provide ample grappling and vaulting opportunity. Indicates a change in elevation. You could probably climb it.
+ent-RMCPlatformHybrisaRock-name = приподнятые края скалы
+ent-RMCPlatformHybrisaRock-desc = Коллекция камней и камней, предоставляющая широкие возможности для борьбы и прыжков. 
 
-ent-RMCPlatformHybrisaThreeCornerSmall-name = raised metal corner
-ent-RMCPlatformHybrisaThreeCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformHybrisaThreeCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformHybrisaThreeCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaThreeStairAlt-name = raised metal platform
-ent-RMCPlatformHybrisaThreeStairAlt-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaThreeStairAlt-name = поднятая металлическая платформа
+ent-RMCPlatformHybrisaThreeStairAlt-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaThreeStair-name = raised metal platform
-ent-RMCPlatformHybrisaThreeStair-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaThreeStair-name = поднятая металлическая платформа
+ent-RMCPlatformHybrisaThreeStair-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaThreeCorner-name = raised metal platform
-ent-RMCPlatformHybrisaThreeCorner-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaThreeCorner-name = поднятая металлическая платформа
+ent-RMCPlatformHybrisaThreeCorner-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaThree-name = raised metal platform
-ent-RMCPlatformHybrisaThree-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaThree-name = поднятая металлическая платформа
+ent-RMCPlatformHybrisaThree-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaTwoCornerSmall-name = raised metal corner
-ent-RMCPlatformHybrisaTwoCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformHybrisaTwoCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformHybrisaTwoCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaTwo-name = raised metal platform
-ent-RMCPlatformHybrisaTwo-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaTwo-name = поднятая металлическая платформа
+ent-RMCPlatformHybrisaTwo-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaCornerSmall-name = raised metal corner
-ent-RMCPlatformHybrisaCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformHybrisaCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformHybrisaCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisa-name = raised metal platform
-ent-RMCPlatformHybrisa-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisa-name = поднятая металлическая платформа
+ent-RMCPlatformHybrisa-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaEdgeCornerSmall-name = raised metal corner
-ent-RMCPlatformHybrisaEdgeCornerSmall-desc = A raised level of metal, often used to elevate areas above others. This is the corner.
+ent-RMCPlatformHybrisaEdgeCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformHybrisaEdgeCornerSmall-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformHybrisaEdge-name = raised metal edge
-ent-RMCPlatformHybrisaEdge-desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.
+ent-RMCPlatformHybrisaEdge-name = приподнятый металлический край
+ent-RMCPlatformHybrisaEdge-desc = Приподнятый уровень металла, часто используемый для поднятия одних объектов над другими. 
 
-ent-RMCPlatformKutjevoRockCornerSmall-name = raised rock corner
-ent-RMCPlatformKutjevoRockCornerSmall-desc = A collection of stones and rocks that cap the edge of some conveniently 1-meter-long lengths of perfectly climbable chest high walls.
+ent-RMCPlatformKutjevoRockCornerSmall-name = приподнятый угол камня
+ent-RMCPlatformKutjevoRockCornerSmall-desc = Собрание камней и скал, которые закрывают края удобных 1-метровых стен высотой по грудь, по которым можно легко подняться.
 
-ent-RMCPlatformKutjevoRockBroken-name = destroyed raised rock edge
-ent-RMCPlatformKutjevoRockBroken-desc = A collection of stones and rocks that provide ample grappling and vaulting opportunity. Indicates a change in elevation. You could probably climb it. It has been destroyed.
+ent-RMCPlatformKutjevoRockBroken-name = разрушенный приподнятый край скалы
+ent-RMCPlatformKutjevoRockBroken-desc = Коллекция камней и камней, предоставляющая широкие возможности для борьбы и прыжков. 
 
-ent-RMCPlatformKutjevoRock-name = raised rock edge
-ent-RMCPlatformKutjevoRock-desc = A collection of stones and rocks that provide ample grappling and vaulting opportunity. Indicates a change in elevation. You could probably climb it.
+ent-RMCPlatformKutjevoRock-name = приподнятый край скалы
+ent-RMCPlatformKutjevoRock-desc = Коллекция камней и камней, предоставляющая широкие возможности для борьбы и прыжков. 
 
-ent-RMCPlatformShivaCornerSmall-name = raised rubber cord platform
-ent-RMCPlatformShivaCornerSmall-desc = Reliable steel and a polymer rubber substitute. Doesn't crack under cold weather.
+ent-RMCPlatformShivaCornerSmall-name = приподнятая платформа из резинового шнура
+ent-RMCPlatformShivaCornerSmall-desc = Надежная сталь и заменитель полимерной резины. 
 
-ent-RMCPlatformShivaBroken-name = destroyed rubber cord platform
-ent-RMCPlatformShivaBroken-desc = Reliable steel and a polymer rubber substitute. Doesn't crack under cold weather. It has been destroyed.
+ent-RMCPlatformShivaBroken-name = разрушенная платформа из резинового шнура
+ent-RMCPlatformShivaBroken-desc = Надежная сталь и заменитель полимерной резины. 
 
-ent-RMCPlatformShiva-name = raised rubber cord platform
-ent-RMCPlatformShiva-desc = Reliable steel and a polymer rubber substitute. Doesn't crack under cold weather.
+ent-RMCPlatformShiva-name = приподнятая платформа из резинового шнура
+ent-RMCPlatformShiva-desc = Надежная сталь и заменитель полимерной резины. 
 
-ent-RMCPlatformKutjevoStairLeft-name = raised metal edge
-ent-RMCPlatformKutjevoStairLeft-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevoStairLeft-name = приподнятый металлический край
+ent-RMCPlatformKutjevoStairLeft-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformKutjevoStairRight-name = raised metal edge
-ent-RMCPlatformKutjevoStairRight-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevoStairRight-name = приподнятый металлический край
+ent-RMCPlatformKutjevoStairRight-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformKutjevoSMRound-name = raised metal edge
-ent-RMCPlatformKutjevoSMRound-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevoSMRound-name = приподнятый металлический край
+ent-RMCPlatformKutjevoSMRound-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformKutjevoSMCorner-name = raised metal edge
-ent-RMCPlatformKutjevoSMCorner-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevoSMCorner-name = приподнятый металлический край
+ent-RMCPlatformKutjevoSMCorner-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformKutjevoSM-name = raised metal edge
-ent-RMCPlatformKutjevoSM-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevoSM-name = приподнятый металлический край
+ent-RMCPlatformKutjevoSM-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformKutjevoCornerSmall-name = raised metal corner
-ent-RMCPlatformKutjevoCornerSmall-desc = The corner of what appears to be raised piece of metal, often used to imply the illusion of elevation in non-Euclidean 2d spaces. But you don't know that, you're just a spaceman with a rifle.
+ent-RMCPlatformKutjevoCornerSmall-name = приподнятый металлический уголок
+ent-RMCPlatformKutjevoCornerSmall-desc = Угол того, что кажется приподнятым куском металла, часто используется для обозначения иллюзии возвышения в неевклидовых двумерных пространствах. 
 
-ent-RMCPlatformKutjevo-name = raised metal edge
-ent-RMCPlatformKutjevo-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformKutjevo-name = приподнятый металлический край
+ent-RMCPlatformKutjevo-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformRound-name = platform
-ent-RMCPlatformRound-desc = A square metal surface resting on four legs.
+ent-RMCPlatformRound-name = платформа
+ent-RMCPlatformRound-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-RMCPlatformCornerSmall-name = platform
-ent-RMCPlatformCornerSmall-desc = A square metal surface resting on four legs.
+ent-RMCPlatformCornerSmall-name = платформа
+ent-RMCPlatformCornerSmall-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-CMPlatformCorner-name = platform
-ent-CMPlatformCorner-desc = A square metal surface resting on four legs.
+ent-CMPlatformCorner-name = платформа
+ent-CMPlatformCorner-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-CMPlatform-name = platform
-ent-CMPlatform-desc = A square metal surface resting on four legs.
+ent-CMPlatform-name = платформа
+ent-CMPlatform-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-CMPlatformBaseBroken-name = destroyed platform
-ent-CMPlatformBaseBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-CMPlatformBaseBroken-name = разрушенная платформа
+ent-CMPlatformBaseBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-CMPlatformBase-name = platform
-ent-CMPlatformBase-desc = A square metal surface resting on four legs.
+ent-CMPlatformBase-name = платформа
+ent-CMPlatformBase-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-CMPlatformBaseDestructible-name = platform
-ent-CMPlatformBaseDestructible-desc = A square metal surface resting on four legs.
+ent-CMPlatformBaseDestructible-name = платформа
+ent-CMPlatformBaseDestructible-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-CMPlatformBroken-name = destroyed platform
-ent-CMPlatformBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-CMPlatformBroken-name = разрушенная платформа
+ent-CMPlatformBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformStairRight-name = platform
-ent-RMCPlatformStairRight-desc = A square metal surface resting on four legs.
+ent-RMCPlatformStairRight-name = платформа
+ent-RMCPlatformStairRight-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-RMCPlatformStairLeft-name = platform
-ent-RMCPlatformStairLeft-desc = A square metal surface resting on four legs.
+ent-RMCPlatformStairLeft-name = платформа
+ent-RMCPlatformStairLeft-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки.
 
-ent-RMCPlatformKutjevoBroken-name = destroyed platform
-ent-RMCPlatformKutjevoBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformKutjevoBroken-name = разрушенная платформа
+ent-RMCPlatformKutjevoBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformHybrisaEdgeBroken-name = destroyed platform
-ent-RMCPlatformHybrisaEdgeBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformHybrisaEdgeBroken-name = разрушенная платформа
+ent-RMCPlatformHybrisaEdgeBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformHybrisaBroken-name = destroyed platform
-ent-RMCPlatformHybrisaBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformHybrisaBroken-name = разрушенная платформа
+ent-RMCPlatformHybrisaBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformHybrisa2Broken-name = destroyed platform
-ent-RMCPlatformHybrisa2Broken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformHybrisa2Broken-name = разрушенная платформа
+ent-RMCPlatformHybrisa2Broken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformHybrisa3Broken-name = destroyed platform
-ent-RMCPlatformHybrisa3Broken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformHybrisa3Broken-name = разрушенная платформа
+ent-RMCPlatformHybrisa3Broken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformHybrisaRockBroken-name = destroyed platform
-ent-RMCPlatformHybrisaRockBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformHybrisaRockBroken-name = разрушенная платформа
+ent-RMCPlatformHybrisaRockBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformHybrisaStoneBroken-name = destroyed platform
-ent-RMCPlatformHybrisaStoneBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformHybrisaStoneBroken-name = разрушенная платформа
+ent-RMCPlatformHybrisaStoneBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformSandstoneBroken-name = destroyed platform
-ent-RMCPlatformSandstoneBroken-desc = A square metal surface resting on four legs. It has been destroyed.
+ent-RMCPlatformSandstoneBroken-name = разрушенная платформа
+ent-RMCPlatformSandstoneBroken-desc = Квадратная металлическая поверхность, опирающаяся на четыре ножки. 
 
-ent-RMCPlatformAlmayerStairs-name = raised metal edge
-ent-RMCPlatformAlmayerStairs-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformAlmayerStairs-name = приподнятый металлический край
+ent-RMCPlatformAlmayerStairs-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 
-ent-RMCPlatformAlmayerStairsAlt-name = raised metal edge
-ent-RMCPlatformAlmayerStairsAlt-desc = A raised level of metal, often used to elevate areas above others, or construct bridges. You could probably climb it.
+ent-RMCPlatformAlmayerStairsAlt-name = приподнятый металлический край
+ent-RMCPlatformAlmayerStairsAlt-desc = Приподнятый уровень металла, часто используемый для поднятия одних мест над другими или для строительства мостов. 
 

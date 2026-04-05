@@ -1,6 +1,6 @@
-ent-RMCPintGlass-name = pint glass
-ent-RMCPintGlass-desc = A proper geezer's pint glass. Rarely seen without a frothy head of beer.
+ent-RMCPintGlass-name = пинта стакана
+ent-RMCPintGlass-desc = Настоящий чудаковатый стаканчик. 
 
-ent-RMCPintGlassFull-name = pint glass
-ent-RMCPintGlassFull-desc = A proper geezer's pint glass. Rarely seen without a frothy head of beer.
+ent-RMCPintGlassFull-name = пинта стакана
+ent-RMCPintGlassFull-desc = Настоящий чудаковатый стаканчик. 
 

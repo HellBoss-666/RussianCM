@@ -1,28 +1,28 @@
-ent-RMCDropshipMiniRocketExplosionMiniMikeIncindiary-name = AGR-59-I 'Mini-Mike' explosion
+ent-RMCDropshipMiniRocketExplosionMiniMikeIncindiary-name = Взрыв АГР-59-И «Мини-Майк»
 
-ent-RMCDropshipMiniRocketExplosionMiniMike-name = AGR-59 'Mini-Mike' explosion
+ent-RMCDropshipMiniRocketExplosionMiniMike-name = Взрыв АГР-59 «Мини-Майк»
 
-ent-RMCDropshipMissileExplosionBanshee-name = AGM-227 'Banshee' explosion
+ent-RMCDropshipMissileExplosionBanshee-name = Взрыв AGM-227 «Банши»
 
-ent-RMCDropshipMissileExplosionThermobaric-name = BLU-200 'Dragon's Breath' explosion
+ent-RMCDropshipMissileExplosionThermobaric-name = Взрыв BLU-200 «Дыхание Дракона»
 
-ent-RMCDropshipMissileExplosionHarpoon-name = AGM-184 'Harpoon II' explosion
+ent-RMCDropshipMissileExplosionHarpoon-name = Взрыв AGM-184 «Гарпун II»
 
-ent-RMCDropshipMissileExplosionNapalm-name = AGM-99 'Napalm' explosion
+ent-RMCDropshipMissileExplosionNapalm-name = Взрыв AGM-99 «Напалм»
 
-ent-RMCDropshipMissileExplosionKeeper-name = GBU-67 'Keeper II' explosion
+ent-RMCDropshipMissileExplosionKeeper-name = Взрыв GBU-67 «Хранитель II»
 
-ent-RMCDropshipMissileExplosionWidowmaker-name = AIM-224B 'Widowmaker' explosion
+ent-RMCDropshipMissileExplosionWidowmaker-name = Взрыв AIM-224B «Вдоводел»
 
-ent-RMCDropshipLaserFire-name = dropship laser
+ent-RMCDropshipLaserFire-name = десантный лазер
 
-ent-RMCDropshipGauBurstAntiTank-name = dropship Anti-Tank GAU burst
+ent-RMCDropshipGauBurstAntiTank-name = десантный противотанковый ГАУ взрыв
 
-ent-RMCDropshipGauBurst-name = dropship Multi-Purpose GAU burst
+ent-RMCDropshipGauBurst-name = десантный многоцелевой ГАУ взрывной
 
-ent-RMCMortarExplosionFlare-name = mortar flare/camera
+ent-RMCMortarExplosionFlare-name = минометная вспышка/камера
 
-ent-RMCMortarExplosionIncendiary-name = incendiary mortar explosion
+ent-RMCMortarExplosionIncendiary-name = взрыв зажигательной мины
 
-ent-RMCMortarExplosionHE-name = he mortar explosion
+ent-RMCMortarExplosionHE-name = взрыв миномета
 

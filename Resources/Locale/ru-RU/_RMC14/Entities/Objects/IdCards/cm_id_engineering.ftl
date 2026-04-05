@@ -1,9 +1,9 @@
-ent-CMIDCardMaintTech-name = maintenance tech's ID card
-ent-CMIDCardMaintTech-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardMaintTech-name = удостоверение специалиста по техническому обслуживанию
+ent-CMIDCardMaintTech-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardOrdnanceTech-name = ordnance tech's ID card
-ent-CMIDCardOrdnanceTech-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardOrdnanceTech-name = удостоверение специалиста по вооружению
+ent-CMIDCardOrdnanceTech-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-CMIDCardChiefEngineer-name = chief engineer ID card
-ent-CMIDCardChiefEngineer-desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardChiefEngineer-name = удостоверение главного инженера
+ent-CMIDCardChiefEngineer-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 

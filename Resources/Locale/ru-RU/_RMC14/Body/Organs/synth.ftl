@@ -1,2 +1,2 @@
-ent-RMCOrganSynthBrain-name = brain
+ent-RMCOrganSynthBrain-name = мозг
 

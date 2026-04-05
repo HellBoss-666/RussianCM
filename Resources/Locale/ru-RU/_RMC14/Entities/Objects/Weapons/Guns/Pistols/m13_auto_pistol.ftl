@@ -1,32 +1,32 @@
-ent-RMCMagazinePistolM13Drum-name = item
-ent-RMCMagazinePistolM13Drum-desc = A pistol magazine.
+ent-RMCMagazinePistolM13Drum-name = элемент
+ent-RMCMagazinePistolM13Drum-desc = Журнал Пистолет.
 
-ent-RMCMagazinePistolM13Ext-name = item
-ent-RMCMagazinePistolM13Ext-desc = A pistol magazine.
+ent-RMCMagazinePistolM13Ext-name = элемент
+ent-RMCMagazinePistolM13Ext-desc = Журнал Пистолет.
 
-ent-RMCMagazinePistolM13-name = item
-ent-RMCMagazinePistolM13-desc = A pistol magazine.
+ent-RMCMagazinePistolM13-name = элемент
+ent-RMCMagazinePistolM13-desc = Журнал Пистолет.
 
-ent-RMCWeaponPistolM13-name = item
+ent-RMCWeaponPistolM13-name = элемент
 
-ent-RMCWeaponPistolM13Empty-name = item
+ent-RMCWeaponPistolM13Empty-name = элемент
 
-ent-RMCMagazinePistolM13AP-name = item
-ent-RMCMagazinePistolM13AP-desc = A pistol magazine.
+ent-RMCMagazinePistolM13AP-name = элемент
+ent-RMCMagazinePistolM13AP-desc = Журнал Пистолет.
 
-ent-RMCMagazinePistolM13ExtAP-name = item
-ent-RMCMagazinePistolM13ExtAP-desc = A pistol magazine.
+ent-RMCMagazinePistolM13ExtAP-name = элемент
+ent-RMCMagazinePistolM13ExtAP-desc = Журнал Пистолет.
 
-ent-RMCMagazinePistolM13DrumAP-name = item
-ent-RMCMagazinePistolM13DrumAP-desc = A pistol magazine.
+ent-RMCMagazinePistolM13DrumAP-name = элемент
+ent-RMCMagazinePistolM13DrumAP-desc = Журнал Пистолет.
 
-ent-RMCCartridgeAutoPistol-name = cartridge (.25 caseless)
+ent-RMCCartridgeAutoPistol-name = патрон (.25 безгильзовый)
 
-ent-RMCCartridgeAutoPistolAP-name = cartridge (.25 caseless)
+ent-RMCCartridgeAutoPistolAP-name = патрон (.25 безгильзовый)
 
-ent-RMCBulletAutoPistol-name = BaseBullet
-ent-RMCBulletAutoPistol-desc = If you can see this you're probably dead!
+ent-RMCBulletAutoPistol-name = БазаBullet
+ent-RMCBulletAutoPistol-desc = Если ты это видишь, ты, вероятно, мертв!
 
-ent-RMCBulletAutoPistolAP-name = BaseBullet
-ent-RMCBulletAutoPistolAP-desc = If you can see this you're probably dead!
+ent-RMCBulletAutoPistolAP-name = БазаBullet
+ent-RMCBulletAutoPistolAP-desc = Если ты это видишь, ты, вероятно, мертв!
 

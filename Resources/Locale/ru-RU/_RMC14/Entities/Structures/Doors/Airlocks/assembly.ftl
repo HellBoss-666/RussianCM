@@ -1,3 +1,3 @@
-ent-CMAirlockAssembly-name = airlock assembly
-ent-CMAirlockAssembly-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockAssembly-name = шлюзовая сборка
+ent-CMAirlockAssembly-desc = Он открывается, закрывается и, возможно, раздавит вас.
 

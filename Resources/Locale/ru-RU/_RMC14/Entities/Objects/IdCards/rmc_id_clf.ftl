@@ -1,33 +1,33 @@
-ent-RMCIDCardCLFStandardPVE-name = clf standard's ID card
-ent-RMCIDCardCLFStandardPVE-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFStandardPVE-name = удостоверение личности clf Standard
+ent-RMCIDCardCLFStandardPVE-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFHeavyGunnerPVE-name = clf heavy gunner's ID card
-ent-RMCIDCardCLFHeavyGunnerPVE-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFHeavyGunnerPVE-name = удостоверение тяжелого стрелка clf
+ent-RMCIDCardCLFHeavyGunnerPVE-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFDoctorPVE-name = clf doctor's ID card
-ent-RMCIDCardCLFDoctorPVE-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFDoctorPVE-name = удостоверение врача clf
+ent-RMCIDCardCLFDoctorPVE-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFCommanderPVE-name = clf commander's ID card
-ent-RMCIDCardCLFCommanderPVE-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFCommanderPVE-name = удостоверение командира clf
+ent-RMCIDCardCLFCommanderPVE-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFCellCommander-name = clf cell commander's ID card
-ent-RMCIDCardCLFCellCommander-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFCellCommander-name = удостоверение командира ячейки clf
+ent-RMCIDCardCLFCellCommander-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFSpecialist-name = clf specialists's ID card
-ent-RMCIDCardCLFSpecialist-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFSpecialist-name = удостоверение специалиста clf
+ent-RMCIDCardCLFSpecialist-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFMedic-name = clf medic's ID card
-ent-RMCIDCardCLFMedic-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFMedic-name = удостоверение врача clf
+ent-RMCIDCardCLFMedic-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFEngineer-name = clf engineer's ID card
-ent-RMCIDCardCLFEngineer-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFEngineer-name = удостоверение инженера clf
+ent-RMCIDCardCLFEngineer-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFSoldier-name = clf soldier's ID card
-ent-RMCIDCardCLFSoldier-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFSoldier-name = солдатское удостоверение clf
+ent-RMCIDCardCLFSoldier-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFBase-name = identification holo-badge
-ent-RMCIDCardCLFBase-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFBase-name = идентификационный голографический бейдж
+ent-RMCIDCardCLFBase-desc = Кусок закодированного сжатого стекловолокна. 
 
-ent-RMCIDCardCLFCellLeader-name = clf cell leader's ID card
-ent-RMCIDCardCLFCellLeader-desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-RMCIDCardCLFCellLeader-name = удостоверение лидера ячейки clf
+ent-RMCIDCardCLFCellLeader-desc = Кусок закодированного сжатого стекловолокна. 
 

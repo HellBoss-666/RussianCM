@@ -1,3 +1,3 @@
-ent-RMCPropGroundWire-name = ground wire
-ent-RMCPropGroundWire-desc = A small string of black wire hangs between two marker posts. Probably used to mark off an area.
+ent-RMCPropGroundWire-name = заземляющий провод
+ent-RMCPropGroundWire-desc = Между двумя маркерными стойками висит небольшая веревка черного провода. 
 

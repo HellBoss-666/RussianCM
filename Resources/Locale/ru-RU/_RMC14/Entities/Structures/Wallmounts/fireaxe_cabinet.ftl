@@ -1,6 +1,6 @@
-ent-RMCFireAxeCabinet-name = fire axe cabinet
-ent-RMCFireAxeCabinet-desc = There is a small label that reads "For Emergency use only" along with details for safe use of the axe. As if.
+ent-RMCFireAxeCabinet-name = шкаф для пожарного топора
+ent-RMCFireAxeCabinet-desc = Имеется небольшая этикетка с надписью «Только для экстренного использования» и инструкциями по безопасному использованию топора. 
 
-ent-RMCFireAxeCabinetFilled-name = fire axe cabinet
-ent-RMCFireAxeCabinetFilled-desc = There is a small label that reads "For Emergency use only" along with details for safe use of the axe. As if.
+ent-RMCFireAxeCabinetFilled-name = шкаф для пожарного топора
+ent-RMCFireAxeCabinetFilled-desc = Имеется небольшая этикетка с надписью «Только для экстренного использования» и инструкциями по безопасному использованию топора. 
 

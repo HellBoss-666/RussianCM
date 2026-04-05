@@ -1,9 +1,9 @@
-ent-CMArmorRiot-name = M5 riot control armor
-ent-CMArmorRiot-desc = A heavily modified suit of M2 MP Armor used to suppress riots from buckethead marines. Slows you down a lot.
+ent-CMArmorRiot-name = Борьба с массовыми беспорядками M5 Броня
+ent-CMArmorRiot-desc = Сильно модифицированный костюм M2 MP Броня, используемый для подавления беспорядков со стороны морских пехотинцев. 
 
-ent-RMCArmorRiotCivilian-name = riot suit
-ent-RMCArmorRiotCivilian-desc = A suit of armor with heavy padding to protect against melee attacks. Looks like it might impair movement.
+ent-RMCArmorRiotCivilian-name = костюм для массовых беспорядков
+ent-RMCArmorRiotCivilian-desc = Костюм Броня с толстой подкладкой для защиты от атак в ближнем бою. 
 
-ent-CMArmorRiotOld-name = M5 riot control armor
-ent-CMArmorRiotOld-desc = Barring the slightly off-color plates, it's preserved quite well.
+ent-CMArmorRiotOld-name = Борьба с массовыми беспорядками M5 Броня
+ent-CMArmorRiotOld-desc = Если не считать пластинок, слегка изменивших цвет, он сохранился довольно хорошо.
 

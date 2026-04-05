@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidProvostAdvisor-name = provost ghost role advisor
+ent-RMCRandomHumanoidProvostAdvisor-name = советник по роли призрака проректора
 

@@ -1,12 +1,12 @@
-ent-DoorXenoResinQueen-name = queen resin door
-ent-DoorXenoResinQueen-desc = A heavily reinforced resin door, built with the queen's enhanced abilities.
+ent-DoorXenoResinQueen-name = Королевская смоляная дверь
+ent-DoorXenoResinQueen-desc = Сильно усиленная смоляная дверь, созданная с использованием улучшенных способностей Королевы.
 
-ent-WallXenoMembraneQueen-name = queen membrane wall
-ent-WallXenoMembraneQueen-desc = A heavily reinforced membrane wall, built with the queen's enhanced abilities.
+ent-WallXenoMembraneQueen-name = Королевская мембранная стенка
+ent-WallXenoMembraneQueen-desc = Сильно укрепленная мембранная стена, построенная с использованием расширенных способностей Королевы.
 
-ent-WallXenoResinQueen-name = queen resin wall
-ent-WallXenoResinQueen-desc = A heavily reinforced wall of resin, built with the queen's enhanced abilities.
+ent-WallXenoResinQueen-name = Королевская смоляная стена
+ent-WallXenoResinQueen-desc = Сильно укрепленная стена из смолы, построенная с использованием улучшенных способностей Королевы.
 
-ent-XenoConstructionGhost-name = construction ghost
-ent-XenoConstructionGhost-desc = A preview of what will be built.
+ent-XenoConstructionGhost-name = Призрак строительства
+ent-XenoConstructionGhost-desc = Предварительный просмотр того, что будет построено.
 

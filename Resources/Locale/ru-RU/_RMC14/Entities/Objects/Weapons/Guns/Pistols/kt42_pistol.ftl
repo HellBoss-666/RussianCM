@@ -1,5 +1,5 @@
-ent-RMCMagazinePistolKT42-name = item
-ent-RMCMagazinePistolKT42-desc = A pistol magazine.
+ent-RMCMagazinePistolKT42-name = элемент
+ent-RMCMagazinePistolKT42-desc = Журнал Пистолет.
 
-ent-RMCWeaponPistolKT42-name = item
+ent-RMCWeaponPistolKT42-name = элемент
 

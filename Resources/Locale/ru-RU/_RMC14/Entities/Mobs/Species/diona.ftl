@@ -1,2 +1,2 @@
-ent-CMMobDiona-name = Urist C.M McPlants
+ent-CMMobDiona-name = Урист К.М. МакПлэнтс
 

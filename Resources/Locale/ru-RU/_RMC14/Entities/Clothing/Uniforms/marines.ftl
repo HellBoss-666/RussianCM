@@ -1,144 +1,144 @@
-ent-RMCJumpsuitSynthetic-name = UNMC Support Uniform
-ent-RMCJumpsuitSynthetic-desc = A simple uniform made for Synthetic crewmembers
+ent-RMCJumpsuitSynthetic-name = Униформа поддержки UNMC
+ent-RMCJumpsuitSynthetic-desc = Простая униформа, созданная для членов экипажа Synthetic.
 
-ent-CMJumpsuitSyntheticOutdated-name = outdated synthetic support uniform
-ent-CMJumpsuitSyntheticOutdated-desc = An outdated version of the UNMC synthetic support uniform. Despite the age, it is still very stylish and practical.
+ent-CMJumpsuitSyntheticOutdated-name = устаревшая синтетическая униформа поддержки
+ent-CMJumpsuitSyntheticOutdated-desc = Устаревшая версия синтетической униформы поддержки UNMC. 
 
-ent-CMJumpsuitAverageJoe-name = average joe uniform
-ent-CMJumpsuitAverageJoe-desc = A cheap, utilitarian uniform made for Novaris Industries' Average Joe line of synthetics.
+ent-CMJumpsuitAverageJoe-name = средняя униформа Джо
+ent-CMJumpsuitAverageJoe-desc = Дешевая утилитарная униформа, созданная для линии синтетики «Average Joe» компании Novaris Industries.
 
-ent-CMJumpsuitSyntheticPristine-name = UNMC pristine support uniform
-ent-CMJumpsuitSyntheticPristine-desc = A simple uniform made for synthetic crew members, this one is in Weston-Yamada's signature black and orange color scheme.
+ent-CMJumpsuitSyntheticPristine-name = Нетронутая униформа поддержки UNMC
+ent-CMJumpsuitSyntheticPristine-desc = Простая униформа, созданная для синтетических членов экипажа, выполнена в фирменной черно-оранжевой цветовой гамме Weston-Yamada.
 
-ent-CMJumpsuitGeneral-name = general's uniform
-ent-CMJumpsuitGeneral-desc = A uniform worn by a fleet general. It comes in a shade of deep black, and has a light shimmer to it. The weave looks strong enough to provide some light protections.
+ent-CMJumpsuitGeneral-name = генеральская форма
+ent-CMJumpsuitGeneral-desc = Униформа генерала флота. 
 
-ent-CMJumpsuitSurvivorMarine-name = UNMC uniform
-ent-CMJumpsuitSurvivorMarine-desc = Torn, Burned and blood stained. This uniform has seen much more than you could possibly imagine.
+ent-CMJumpsuitSurvivorMarine-name = Униформа UNMC
+ent-CMJumpsuitSurvivorMarine-desc = Разорванный, обожженный и запятнанный кровью. 
 
-ent-CMJumpsuitColonist-name = colonist uniform
-ent-CMJumpsuitColonist-desc = A stylish gray-green jumpsuit - standard issue for colonists.
+ent-CMJumpsuitColonist-name = колонистская униформа
+ent-CMJumpsuitColonist-desc = Стильный серо-зеленый комбинезон – стандартная вещь для колонистов.
 
-ent-CMJumpsuitTShirtGray-name = gray tshirt
-ent-CMJumpsuitTShirtGray-desc = Simple pair of tshirt and pants.
+ent-CMJumpsuitTShirtGray-name = серая футболка
+ent-CMJumpsuitTShirtGray-desc = Простая пара футболки и брюк.
 
-ent-CMJumpsuitTShirtRed-name = red tshirt
-ent-CMJumpsuitTShirtRed-desc = Simple pair of tshirt and pants.
+ent-CMJumpsuitTShirtRed-name = красная футболка
+ent-CMJumpsuitTShirtRed-desc = Простая пара футболки и брюк.
 
-ent-CMJumpsuitTShirtWhite-name = white tshirt
-ent-CMJumpsuitTShirtWhite-desc = Simple pair of tshirt and pants.
+ent-CMJumpsuitTShirtWhite-name = белая футболка
+ent-CMJumpsuitTShirtWhite-desc = Простая пара футболки и брюк.
 
-ent-CMJumpsuitDCC-name = dropship crew chief bodysuit
-ent-CMJumpsuitDCC-desc = A bodysuit worn by dropship crew chiefs of the UNMC, and is meant for survival in inhospitable conditions. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitDCC-name = комбинезон начальника экипажа десантного корабля
+ent-CMJumpsuitDCC-desc = Комбинезон, который носят командиры экипажей десантных кораблей UNMC и предназначен для выживания в негостеприимных условиях. 
 
-ent-CMJumpsuitPilot-name = pilot bodysuit
-ent-CMJumpsuitPilot-desc = A bodysuit worn by pilots of the marines, and is meant for survival in inhospitable conditions. Fly the marines onwards to glory. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitPilot-name = боди пилота
+ent-CMJumpsuitPilot-desc = Боди, которое носят пилоты морской пехоты и предназначено для выживания в суровых условиях. 
 
-ent-RMCUniformIntel-name = lathe-category-clothing
+ent-RMCUniformIntel-name = токарный станок-категория-одежда
 
-ent-CMJumpsuitOperations-name = marine operations uniform
-ent-CMJumpsuitOperations-desc = An operations uniform worn by members of the UNMC. Do the corps proud. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitOperations-name = Морпех оперативная униформа
+ent-CMJumpsuitOperations-desc = Оперативная форма, которую носят члены UNMC. 
 
-ent-CMJumpsuitBO-name = marine service uniform
-ent-CMJumpsuitBO-desc = A service uniform worn by members of the UNMC. Do the corps proud. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitBO-name = Морпех военная форма
+ent-CMJumpsuitBO-desc = Военная форма, которую носят члены UNMC. 
 
-ent-RMCJumpsuitASOOperations-name = auxiliary support officer operations uniform
-ent-RMCJumpsuitASOOperations-desc = An operations uniform typically used by Auxiliary Support Officers. This one has a dark blue camo pattern.
+ent-RMCJumpsuitASOOperations-name = Оперативная униформа офицера вспомогательной поддержки
+ent-RMCJumpsuitASOOperations-desc = Оперативная униформа, обычно используемая офицерами вспомогательной поддержки. 
 
-ent-RMCJumpsuitASOBlackAlt-name = auxiliary support officer black uniform
-ent-RMCJumpsuitASOBlackAlt-desc = A service uniform typycally used by Auxiliary Support Officers. This one is colored black with green stripes.
+ent-RMCJumpsuitASOBlackAlt-name = Черная униформа офицера вспомогательной поддержки
+ent-RMCJumpsuitASOBlackAlt-desc = Служебная униформа, обычно используемая офицерами вспомогательной службы. 
 
-ent-RMCJumpsuitASOFormalAlt-name = auxiliary support officer formal uniform
-ent-RMCJumpsuitASOFormalAlt-desc = A pearly white formal uniform with black pants used by Auxiliary Support Officers.
+ent-RMCJumpsuitASOFormalAlt-name = Официальная форма офицера вспомогательной поддержки
+ent-RMCJumpsuitASOFormalAlt-desc = Жемчужно-белая официальная униформа с черными брюками, используемая офицерами вспомогательной поддержки.
 
-ent-RMCJumpsuitASOFormal-name = auxiliary support officer formal uniform
-ent-RMCJumpsuitASOFormal-desc = A pearly white formal uniform used by Auxiliary Support Officers.
+ent-RMCJumpsuitASOFormal-name = Официальная форма офицера вспомогательной поддержки
+ent-RMCJumpsuitASOFormal-desc = Жемчужно-белая официальная униформа, используемая офицерами вспомогательной поддержки.
 
-ent-RMCJumpsuitASOBlack-name = auxiliary support officer black uniform
-ent-RMCJumpsuitASOBlack-desc = A service uniform typycally used by Auxiliary Support Officers. This one is colored black.
+ent-RMCJumpsuitASOBlack-name = Черная униформа офицера вспомогательной поддержки
+ent-RMCJumpsuitASOBlack-desc = Служебная униформа, обычно используемая офицерами вспомогательной службы. 
 
-ent-CMJumpsuitXOFormal-name = marine formal service uniform
-ent-CMJumpsuitXOFormal-desc = A formal service uniform typically worn by marines of the UNMC. Still practicable while still being more formal than the standard service uniform.
+ent-CMJumpsuitXOFormal-name = Морпех форменная военная форма
+ent-CMJumpsuitXOFormal-desc = Официальная военная форма, которую обычно носят морские пехотинцы UNMC. 
 
-ent-RMCJumpsuitCOUniformGray-name = Commanding Officer's gray formal uniform
-ent-RMCJumpsuitCOUniformGray-desc = A well-ironed UNMC officer uniform  intended for parades or hot weather. Wear this with pride.
+ent-RMCJumpsuitCOUniformGray-name = Серая форменная форма командира
+ent-RMCJumpsuitCOUniformGray-desc = Хорошо выглаженная офицерская форма UNMC, предназначенная для парадов или жаркой погоды. 
 
-ent-RMCJumpsuitCOUniform-name = UNMC officer uniform
-ent-RMCJumpsuitCOUniform-desc = The well-ironed utility uniform of a UNMC officer. Even looking at it the wrong way could result in being court-martialed. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitCOUniform-name = Офицерская форма UNMC
+ent-RMCJumpsuitCOUniform-desc = Хорошо выглаженная униформа офицера UNMC. 
 
-ent-RMCJumsuitWhiteService-name = white service uniform
-ent-RMCJumsuitWhiteService-desc = A white dress shirt and tie with sleek pants. Standard clothing for anyone on professional business.
+ent-RMCJumsuitWhiteService-name = белая военная форма
+ent-RMCJumsuitWhiteService-desc = Белая классическая рубашка и галстук с гладкими брюками. 
 
-ent-CMJumpsuitCOService-name = commanding officer's dress shirt
-ent-CMJumpsuitCOService-desc = The shirt and tie of a two-piece Navy service dress uniform for high-ranking officers. Wear with style and substance.
+ent-CMJumpsuitCOService-name = парадная рубашка командира
+ent-CMJumpsuitCOService-desc = Рубашка и галстук состоящей из двух частей парадной формы военно-морского флота для высших офицеров. 
 
-ent-CMJumpsuitCOFormalWhite-name = formal commanding officer uniform
-ent-CMJumpsuitCOFormalWhite-desc = Standard-issue commanding officer uniform.
+ent-CMJumpsuitCOFormalWhite-name = официальная форма командира
+ent-CMJumpsuitCOFormalWhite-desc = Стандартная форма командира.
 
-ent-CMJumpsuitCOFormalBlack-name = formal commanding officer uniform
-ent-CMJumpsuitCOFormalBlack-desc = Standard-issue commanding officer uniform.
+ent-CMJumpsuitCOFormalBlack-name = официальная форма командира
+ent-CMJumpsuitCOFormalBlack-desc = Стандартная форма командира.
 
-ent-CMJumpsuitCO-name = commanding officer uniform
-ent-CMJumpsuitCO-desc = Standard-issue Commanding Officer uniform.
+ent-CMJumpsuitCO-name = форма командира офицера
+ent-CMJumpsuitCO-desc = Стандартная форма командира.
 
-ent-CMJumpsuitMaintTech-name = engineer uniform
-ent-CMJumpsuitMaintTech-desc = A uniform for a military engineer. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMaintTech-name = униформа инженера
+ent-CMJumpsuitMaintTech-desc = Униформа военного инженера. 
 
-ent-CMJumpsuitOrdnanceTech-name = ordnance engineer uniform
-ent-CMJumpsuitOrdnanceTech-desc = A uniform for a professional bomb maker. It has shards of light Kevlar to help protect against stabbing weapons, bullets, and shrapnel from explosions. Padded with extra plates to take the brunt force of an explosion.
+ent-CMJumpsuitOrdnanceTech-name = униформа инженера-артиллериста
+ent-CMJumpsuitOrdnanceTech-desc = Униформа для профессионального изготовления бомб. 
 
-ent-CMJumpsuitChiefEngineer-name = chief engineer uniform
-ent-CMJumpsuitChiefEngineer-desc = A uniform for a military engineer. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitChiefEngineer-name = униформа главного инженера
+ent-CMJumpsuitChiefEngineer-desc = Униформа военного инженера. 
 
-ent-CMJumpsuitMessTech-name = UNMC Mess Technician uniform
-ent-CMJumpsuitMessTech-desc = Standard-issue Mess Technician uniform. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMessTech-name = Униформа столового техника UNMC
+ent-CMJumpsuitMessTech-desc = Стандартная униформа столовой. 
 
-ent-CMJumpsuitCargoTech-name = requisitions technician uniform
-ent-CMJumpsuitCargoTech-desc = A standard-issue req tech uniform.
+ent-CMJumpsuitCargoTech-name = Заявки на униформу технического специалиста
+ent-CMJumpsuitCargoTech-desc = Стандартная техническая униформа.
 
-ent-CMJumpsuitQM-name = Logistics Officer suit
-ent-CMJumpsuitQM-desc = A nicely-fitting military suit for a Logistics Officer. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitQM-name = Костюм офицера логистики
+ent-CMJumpsuitQM-desc = Хорошо сидящий военный костюм для офицера тыла. 
 
-ent-RMCCBRNSuit-name = M3 MOPP Suit
-ent-RMCCBRNSuit-desc = M3 MOPP suits are specially designed and engineered to protect the wearer from unshielded exposure to any Chemical, Biological, Radiological, or Nuclear (CBRN) threats in the field. The suit has a recommended lifespan of twenty-four hours once contact with a toxic environment is made, but depending on the severity this can be shortened to eight hours or less.
+ent-RMCCBRNSuit-name = Костюм М3 МОПП
+ent-RMCCBRNSuit-desc = Костюмы M3 MOPP специально разработаны и спроектированы для защиты пользователя от неэкранированного воздействия любых химических, биологических, радиологических или ядерных (ХБРЯ) угроз в полевых условиях. 
 
-ent-CMJumpsuitMarineTanker-name = UNMC tanker uniform
+ent-CMJumpsuitMarineTanker-name = Униформа танкиста UNMC
 
-ent-CMJumpsuitMarineSniper-name = UNMC sniper uniform
-ent-CMJumpsuitMarineSniper-desc = Standard-issue Marine uniform. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMarineSniper-name = Снайперская форма UNMC
+ent-CMJumpsuitMarineSniper-desc = Стандартная униформа Морпеха. 
 
-ent-CMJumpsuitMarineRTO-name = UNMC radio telephone operator uniform
-ent-CMJumpsuitMarineRTO-desc = Standard-issue RTO fatigues. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMarineRTO-name = Униформа радиотелефониста UNMC
+ent-CMJumpsuitMarineRTO-desc = Стандартная форма RTO. 
 
-ent-CMJumpsuitMarineMedic-name = UNMC corpsman uniform
-ent-CMJumpsuitMarineMedic-desc = Standard-issue Marine hospital corpsman fatigues. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMarineMedic-name = Униформа санитара UNMC
+ent-CMJumpsuitMarineMedic-desc = Стандартная форма санитара госпиталя Морпех. 
 
-ent-CMJumpsuitMarineEngineer-name = UNMC ComTech uniform
-ent-CMJumpsuitMarineEngineer-desc = Standard-issue Marine combat technician fatigues. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMarineEngineer-name = Униформа UNMC ComTech
+ent-CMJumpsuitMarineEngineer-desc = Стандартная форма боевого техника Морпех. 
 
-ent-CMJumpsuitMarineFormal-name = formal marine uniform
+ent-CMJumpsuitMarineFormal-name = официальная униформа Морпеха
 
-ent-JumpsuitMarine-name = UNMC uniform
-ent-JumpsuitMarine-desc = Standard-issue Marine uniform. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-JumpsuitMarine-name = Униформа UNMC
+ent-JumpsuitMarine-desc = Стандартная униформа Морпеха. 
 
-ent-RMCJumpsuitMarinePatch-name = UNMC uniform
-ent-RMCJumpsuitMarinePatch-desc = Standard-issue Marine uniform. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitMarinePatch-name = Униформа UNMC
+ent-RMCJumpsuitMarinePatch-desc = Стандартная униформа Морпеха. 
 
-ent-RMCJumpsuitMarineEngineerPatch-name = UNMC ComTech uniform
-ent-RMCJumpsuitMarineEngineerPatch-desc = Standard-issue Marine combat technician fatigues. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitMarineEngineerPatch-name = Униформа UNMC ComTech
+ent-RMCJumpsuitMarineEngineerPatch-desc = Стандартная форма боевого техника Морпех. 
 
-ent-RMCJumpsuitMarineMedicPatch-name = UNMC corpsman uniform
-ent-RMCJumpsuitMarineMedicPatch-desc = Standard-issue Marine hospital corpsman fatigues. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitMarineMedicPatch-name = Униформа санитара UNMC
+ent-RMCJumpsuitMarineMedicPatch-desc = Стандартная форма санитара госпиталя Морпех. 
 
-ent-RMCJumpsuitMarineRTOPatch-name = UNMC radio telephone operator uniform
-ent-RMCJumpsuitMarineRTOPatch-desc = Standard-issue RTO fatigues. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitMarineRTOPatch-name = Униформа радиотелефониста UNMC
+ent-RMCJumpsuitMarineRTOPatch-desc = Стандартная форма RTO. 
 
-ent-RMCJumpsuitSunRiders-name = UNMC uniform
-ent-RMCJumpsuitSunRiders-desc = Standard-issue Marine uniform. They have shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-RMCJumpsuitSunRiders-name = Униформа UNMC
+ent-RMCJumpsuitSunRiders-desc = Стандартная униформа Морпеха. 
 
-ent-RMCJumpsuitPilotAlt-name = tactical pilot officer flightsuit
-ent-RMCJumpsuitPilotAlt-desc = A flightsuit worn by pilot officers of the UNMC, with plenty of leather straps, pouches, and other essential gear you will never use. Looks badass.
+ent-RMCJumpsuitPilotAlt-name = летный костюм тактического пилота-офицера
+ent-RMCJumpsuitPilotAlt-desc = Летный костюм, который носят пилоты UNMC, со множеством кожаных ремней, подсумков и другого необходимого снаряжения, которое вы никогда не будете использовать. 
 
-ent-RMCJumpsuitSurvivorMarineDropPouch-name = UNMC uniform
-ent-RMCJumpsuitSurvivorMarineDropPouch-desc = Torn, Burned and blood stained. This uniform has seen much more than you could possibly imagine.
+ent-RMCJumpsuitSurvivorMarineDropPouch-name = Униформа UNMC
+ent-RMCJumpsuitSurvivorMarineDropPouch-desc = Разорванный, обожженный и запятнанный кровью. 
 

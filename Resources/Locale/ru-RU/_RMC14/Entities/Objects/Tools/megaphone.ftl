@@ -1,2 +1,2 @@
-ent-RMCMegaphone-name = item
+ent-RMCMegaphone-name = элемент
 

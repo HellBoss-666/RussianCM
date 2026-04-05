@@ -1,83 +1,83 @@
-ent-RMCFloraTreeStumpConifer-name = tree stump
-ent-RMCFloraTreeStumpConifer-desc = Yep, it's a tree.
+ent-RMCFloraTreeStumpConifer-name = пень
+ent-RMCFloraTreeStumpConifer-desc = Да, это дерево.
 
-ent-RMCFloraTreeConifer03-name = snowy conifer
-ent-RMCFloraTreeConifer03-desc = Yep, it's a tree.
+ent-RMCFloraTreeConifer03-name = заснеженное хвойное дерево
+ent-RMCFloraTreeConifer03-desc = Да, это дерево.
 
-ent-RMCFloraTreeConifer02-name = snowy conifer
-ent-RMCFloraTreeConifer02-desc = Yep, it's a tree.
+ent-RMCFloraTreeConifer02-name = заснеженное хвойное дерево
+ent-RMCFloraTreeConifer02-desc = Да, это дерево.
 
-ent-RMCFloraTreeConifer01-name = snowy conifer
-ent-RMCFloraTreeConifer01-desc = Yep, it's a tree.
+ent-RMCFloraTreeConifer01-name = заснеженное хвойное дерево
+ent-RMCFloraTreeConifer01-desc = Да, это дерево.
 
-ent-RMCFloraTreeLarge06-name = large tree
-ent-RMCFloraTreeLarge06-desc = Yep, it's a tree.
+ent-RMCFloraTreeLarge06-name = большое дерево
+ent-RMCFloraTreeLarge06-desc = Да, это дерево.
 
-ent-RMCFloraTreeLarge05-name = large tree
-ent-RMCFloraTreeLarge05-desc = Yep, it's a tree.
+ent-RMCFloraTreeLarge05-name = большое дерево
+ent-RMCFloraTreeLarge05-desc = Да, это дерево.
 
-ent-RMCFloraTreeLarge04-name = large tree
-ent-RMCFloraTreeLarge04-desc = Yep, it's a tree.
+ent-RMCFloraTreeLarge04-name = большое дерево
+ent-RMCFloraTreeLarge04-desc = Да, это дерево.
 
-ent-RMCFloraTreeLarge03-name = large tree
-ent-RMCFloraTreeLarge03-desc = Yep, it's a tree.
+ent-RMCFloraTreeLarge03-name = большое дерево
+ent-RMCFloraTreeLarge03-desc = Да, это дерево.
 
-ent-RMCFloraTreeLarge02-name = large tree
-ent-RMCFloraTreeLarge02-desc = Yep, it's a tree.
+ent-RMCFloraTreeLarge02-name = большое дерево
+ent-RMCFloraTreeLarge02-desc = Да, это дерево.
 
-ent-RMCFloraTreeLarge01-name = large tree
-ent-RMCFloraTreeLarge01-desc = Yep, it's a tree.
+ent-RMCFloraTreeLarge01-name = большое дерево
+ent-RMCFloraTreeLarge01-desc = Да, это дерево.
 
-ent-RMCFloraTreeStump-name = tree stump
-ent-RMCFloraTreeStump-desc = Yep, it's a tree.
+ent-RMCFloraTreeStump-name = пень
+ent-RMCFloraTreeStump-desc = Да, это дерево.
 
-ent-RMCFloraTreeSnow06-name = snowy tree
-ent-RMCFloraTreeSnow06-desc = Yep, it's a tree.
+ent-RMCFloraTreeSnow06-name = заснеженное дерево
+ent-RMCFloraTreeSnow06-desc = Да, это дерево.
 
-ent-RMCFloraTreeSnow05-name = snowy tree
-ent-RMCFloraTreeSnow05-desc = Yep, it's a tree.
+ent-RMCFloraTreeSnow05-name = заснеженное дерево
+ent-RMCFloraTreeSnow05-desc = Да, это дерево.
 
-ent-RMCFloraTreeSnow04-name = snowy tree
-ent-RMCFloraTreeSnow04-desc = Yep, it's a tree.
+ent-RMCFloraTreeSnow04-name = заснеженное дерево
+ent-RMCFloraTreeSnow04-desc = Да, это дерево.
 
-ent-RMCFloraTreeSnow03-name = snowy tree
-ent-RMCFloraTreeSnow03-desc = Yep, it's a tree.
+ent-RMCFloraTreeSnow03-name = заснеженное дерево
+ent-RMCFloraTreeSnow03-desc = Да, это дерево.
 
-ent-RMCFloraTreeSnow02-name = snowy tree
-ent-RMCFloraTreeSnow02-desc = Yep, it's a tree.
+ent-RMCFloraTreeSnow02-name = заснеженное дерево
+ent-RMCFloraTreeSnow02-desc = Да, это дерево.
 
-ent-RMCFloraTreeSnow01-name = snowy tree
-ent-RMCFloraTreeSnow01-desc = Yep, it's a tree.
+ent-RMCFloraTreeSnow01-name = заснеженное дерево
+ent-RMCFloraTreeSnow01-desc = Да, это дерево.
 
-ent-RMCFloraTree06-name = tree
-ent-RMCFloraTree06-desc = Yep, it's a tree.
+ent-RMCFloraTree06-name = дерево
+ent-RMCFloraTree06-desc = Да, это дерево.
 
-ent-RMCFloraTree05-name = tree
-ent-RMCFloraTree05-desc = Yep, it's a tree.
+ent-RMCFloraTree05-name = дерево
+ent-RMCFloraTree05-desc = Да, это дерево.
 
-ent-RMCFloraTree04-name = tree
-ent-RMCFloraTree04-desc = Yep, it's a tree.
+ent-RMCFloraTree04-name = дерево
+ent-RMCFloraTree04-desc = Да, это дерево.
 
-ent-RMCFloraTree03-name = tree
-ent-RMCFloraTree03-desc = Yep, it's a tree.
+ent-RMCFloraTree03-name = дерево
+ent-RMCFloraTree03-desc = Да, это дерево.
 
-ent-RMCFloraTree02-name = tree
-ent-RMCFloraTree02-desc = Yep, it's a tree.
+ent-RMCFloraTree02-name = дерево
+ent-RMCFloraTree02-desc = Да, это дерево.
 
-ent-RMCFloraTree01-name = tree
-ent-RMCFloraTree01-desc = Yep, it's a tree.
+ent-RMCFloraTree01-name = дерево
+ent-RMCFloraTree01-desc = Да, это дерево.
 
-ent-RMCBaseTreeAlien-name = strange tree
-ent-RMCBaseTreeAlien-desc = Some kind of bizarre alien tree. It oozes with a sickly yellow sap.
+ent-RMCBaseTreeAlien-name = странное дерево
+ent-RMCBaseTreeAlien-desc = Какое-то причудливое инопланетное дерево. 
 
-ent-RMCBaseTree-desc = Yep, it's a tree.
+ent-RMCBaseTree-desc = Да, это дерево.
 
-ent-RMCBaseTreeSnow-desc = Yep, it's a tree.
+ent-RMCBaseTreeSnow-desc = Да, это дерево.
 
-ent-RMCBaseTreeLarge-desc = Yep, it's a tree.
+ent-RMCBaseTreeLarge-desc = Да, это дерево.
 
-ent-RMCBaseTreeConifer-desc = Yep, it's a tree.
+ent-RMCBaseTreeConifer-desc = Да, это дерево.
 
-ent-RMCAlienTree01-name = strange tree
-ent-RMCAlienTree01-desc = Some kind of bizarre alien tree. It oozes with a sickly yellow sap.
+ent-RMCAlienTree01-name = странное дерево
+ent-RMCAlienTree01-desc = Какое-то причудливое инопланетное дерево. 
 

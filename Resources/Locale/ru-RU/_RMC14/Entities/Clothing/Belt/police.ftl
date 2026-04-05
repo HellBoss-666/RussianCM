@@ -1,15 +1,15 @@
-ent-CMBeltSecurityMarshal-name = marshal duty belt
-ent-CMBeltSecurityMarshal-desc = The black duty belt used to carry the instruments of a Marshals. It is a heavy police belt with several pouches to contain various law enforcement items.
+ent-CMBeltSecurityMarshal-name = маршальский дежурный ремень
+ent-CMBeltSecurityMarshal-desc = Черный дежурный ремень, используемый для ношения инструментов маршалов. 
 
-ent-CMBeltSecuritySPP-name = Type 43 military police rig
-ent-CMBeltSecuritySPP-desc = The Type 43 is the standard load-bearing equipment of the SPP. It consists of a modular belt with various clips. This version is filled with an array of small pouches, meant to carry non-lethal equipment and restraints.
+ent-CMBeltSecuritySPP-name = Установка военной полиции Тип 43
+ent-CMBeltSecuritySPP-desc = Тип 43 является штатным несущим оборудованием СЭС. 
 
-ent-RMCBeltSecurityWeYa-name = M276-C corporate security rig
-ent-RMCBeltSecurityWeYa-desc = A Weston-Yamada adaptation of the M276 load-bearing equipment, designed for corporate security forces. This modular black rig features multiple pouches for carrying restraints, ammunition, and a mix of lethal and non-lethal equipment for maintaining order.
+ent-RMCBeltSecurityWeYa-name = Комплекс корпоративной безопасности М276-С
+ent-RMCBeltSecurityWeYa-desc = Адаптация несущего оборудования M276 компании Weston-Yamada, предназначенная для корпоративных сил безопасности. 
 
-ent-CMBeltSecurityMP-name = M276 pattern military police rig
-ent-CMBeltSecurityMP-desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This version is filled with an array of small pouches, meant to carry non-lethal equipment and restraints.
+ent-CMBeltSecurityMP-name = Установка военной полиции образца М276
+ent-CMBeltSecurityMP-desc = М276 является штатной несущей техникой UNMC. 
 
-ent-CMBeltSecurity-name = M276 pattern security rig
-ent-CMBeltSecurity-desc = The M276 is the standard load-bearing equipment of the UNMC. It consists of a modular belt with various clips. This configuration is commonly seen among Marine Military Police and peacekeepers, though it can hold some light munitions.
+ent-CMBeltSecurity-name = Охранное устройство модели М276
+ent-CMBeltSecurity-desc = М276 является штатной несущей техникой UNMC. 
 

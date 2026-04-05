@@ -1,13 +1,13 @@
-ent-RMCBlockerAirtight-name = airtight blocker
+ent-RMCBlockerAirtight-name = герметичный блокиратор
 
-ent-RMCWallInvisibleBulletPassible-name = wall blocker
+ent-RMCWallInvisibleBulletPassible-name = блокировщик стен
 
-ent-CMBaseWallXeno-name = resin wall
-ent-CMBaseWallXeno-desc = Keeps the air in and the greytide out.
+ent-CMBaseWallXeno-name = смоляная стена
+ent-CMBaseWallXeno-desc = Задерживает воздух и серую волну снаружи.
 
-ent-RMCBaseWallInvincibleNoIcon-desc = A huge chunk of metal used to separate rooms.
+ent-RMCBaseWallInvincibleNoIcon-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-CMBaseWallInvincible-desc = A huge chunk of metal used to separate rooms.
+ent-CMBaseWallInvincible-desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-CMBaseWall-desc = A huge chunk of metal used to separate rooms.
+ent-CMBaseWall-desc = Огромный кусок металла, используемый для разделения комнат.
 

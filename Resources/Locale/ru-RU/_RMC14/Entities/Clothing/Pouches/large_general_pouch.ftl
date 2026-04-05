@@ -1,15 +1,15 @@
-ent-RMCPouchGeneralLarge-name = large general pouch
-ent-RMCPouchGeneralLarge-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLarge-name = большая общая сумка
+ent-RMCPouchGeneralLarge-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 
-ent-RMCPouchGeneralLargeFilledSmartGunDrums-name = large general pouch
-ent-RMCPouchGeneralLargeFilledSmartGunDrums-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeFilledSmartGunDrums-name = большая общая сумка
+ent-RMCPouchGeneralLargeFilledSmartGunDrums-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 
-ent-RMCPouchGeneralLargeFilledRoyalCommando-name = large general pouch
-ent-RMCPouchGeneralLargeFilledRoyalCommando-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeFilledRoyalCommando-name = большая общая сумка
+ent-RMCPouchGeneralLargeFilledRoyalCommando-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 
-ent-RMCPouchGeneralLargeFilledSPPCommand-name = large general pouch
-ent-RMCPouchGeneralLargeFilledSPPCommand-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeFilledSPPCommand-name = большая общая сумка
+ent-RMCPouchGeneralLargeFilledSPPCommand-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 
-ent-RMCPouchGeneralLargeFilledParaCO-name = large general pouch
-ent-RMCPouchGeneralLargeFilledParaCO-desc = A general-purpose pouch used to carry more differently sized items.
+ent-RMCPouchGeneralLargeFilledParaCO-name = большая общая сумка
+ent-RMCPouchGeneralLargeFilledParaCO-desc = Универсальная сумка, используемая для переноски предметов разного размера.
 

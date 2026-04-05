@@ -1,3 +1,3 @@
-ent-RMCIDComputer-name = Identification Computer
-ent-RMCIDComputer-desc = Terminal for programming UNMC employee ID card access.
+ent-RMCIDComputer-name = Идентификационный компьютер
+ent-RMCIDComputer-desc = Терминал для программирования доступа к удостоверению личности сотрудника UNMC.
 

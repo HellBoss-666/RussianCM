@@ -1,3 +1,3 @@
-ent-RMCBarricadeWood-name = Wooden Barricade
-ent-RMCBarricadeWood-desc = A makeshift wooden barricade.
+ent-RMCBarricadeWood-name = Деревянная баррикада
+ent-RMCBarricadeWood-desc = Импровизированная деревянная баррикада.
 

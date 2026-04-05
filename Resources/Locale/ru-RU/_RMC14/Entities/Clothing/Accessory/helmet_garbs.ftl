@@ -1,106 +1,106 @@
-ent-RMCHelmetGarbMovieTicket-name = movie ticket
-ent-RMCHelmetGarbMovieTicket-desc = A pair of red movie tickets. It reminds you of a time you could watch more than the same 5 or so VHS films the Almayer has.
+ent-RMCHelmetGarbMovieTicket-name = билет в кино
+ent-RMCHelmetGarbMovieTicket-desc = Пара красных билетов в кино. 
 
-ent-RMCHelmetGarbUNMCFlair-name = UNMC flair
-ent-RMCHelmetGarbUNMCFlair-desc = These pins get handed out like candy at enlistment offices. Wear it with pride marine.
+ent-RMCHelmetGarbUNMCFlair-name = Чутье UNMC
+ent-RMCHelmetGarbUNMCFlair-desc = Эти значки в военкоматах раздают как конфеты. 
 
-ent-RMCHelmetGarbTerraTekFlair-name = TerraTek flair
-ent-RMCHelmetGarbTerraTekFlair-desc = Flair for some weird tech company back on Earth. How did they get promotional material this far out in the rim?.
+ent-RMCHelmetGarbTerraTekFlair-name = чутье ТерраТек
+ent-RMCHelmetGarbTerraTekFlair-desc = Чутье на какую-то странную технологическую компанию на Земле. 
 
-ent-RMCHelmetGarbIoFlair-name = io flair
-ent-RMCHelmetGarbIoFlair-desc = The Arcturians might be our allies now, but Io is forever a stain on trans-species relations. Never forget those who gave their lives aboard the UNS Doramin..
+ent-RMCHelmetGarbIoFlair-name = Ио чутье
+ent-RMCHelmetGarbIoFlair-desc = Арктурианцы, возможно, сейчас наши союзники, но Ио навсегда останется пятном на межвидовых отношениях. 
 
-ent-RMCHelmetGarbPeaceFlair-name = peace flair
-ent-RMCHelmetGarbPeaceFlair-desc = Doesn't matter when it's Arcturian, baby..
+ent-RMCHelmetGarbPeaceFlair-name = чутье мира
+ent-RMCHelmetGarbPeaceFlair-desc = Неважно, когда это будет Арктурианец, детка..
 
-ent-RMCHelmetGarbChaplainPatch-name = UNMC chaplain helmet patch
-ent-RMCHelmetGarbChaplainPatch-desc = This patch is all that remains of the Chaplaincy of the UNS Almayer, along with the Chaplains themselves. Both no longer exist as a result of losses suffered during Tychon Tackle.
+ent-RMCHelmetGarbChaplainPatch-name = Нашивка капеллана UNMC Шлема
+ent-RMCHelmetGarbChaplainPatch-desc = Эта нашивка — все, что осталось от капелланов UNS Almayer вместе с самими капелланами. 
 
-ent-RMCHelmetGarbWire-name = trimmed barbed wire
-ent-RMCHelmetGarbWire-desc = It is a length of barbed wire that's had most of the sharp points filed down so that it is safe to handle.
+ent-RMCHelmetGarbWire-name = обрезанная колючая проволока
+ent-RMCHelmetGarbWire-desc = Это кусок колючей проволоки, большинство острых концов которого спилено, чтобы с ней было безопасно обращаться.
 
-ent-RMCHelmetGarbPrescription-name = prescription medication
-ent-RMCHelmetGarbPrescription-desc = Anti-anxiety meds? Amphetamines? The cure for Sudden Sleep Disorder? The label can't be read, leaving the now absent contents forever a mystery. The cap is screwed on tighter than any ID lock.
+ent-RMCHelmetGarbPrescription-name = лекарство, отпускаемое по рецепту
+ent-RMCHelmetGarbPrescription-desc = Противотревожные лекарства? 
 
-ent-RMCHelmetGarbRosary-name = rosary
-ent-RMCHelmetGarbRosary-desc = Jesus Saves Lives!
+ent-RMCHelmetGarbRosary-name = четки
+ent-RMCHelmetGarbRosary-desc = Иисус спасает жизни!
 
-ent-RMCHelmetGarbGunOil-name = gun oil
-ent-RMCHelmetGarbGunOil-desc = It is a bottle of oil, for your gun. Don't fall for the rumors, the M54C is NOT a self-cleaning firearm.
+ent-RMCHelmetGarbGunOil-name = оружейное масло
+ent-RMCHelmetGarbGunOil-desc = Это бутылка масла для вашего пистолета. 
 
-ent-RMCHelmetGarbFeatherYellow-name = lucky yellow feather
-ent-RMCHelmetGarbFeatherYellow-desc = It is an unyielding yellow color. They say the New Kansas colony produces more carpenters per capita than any other colony in all of UN controlled space.
+ent-RMCHelmetGarbFeatherYellow-name = счастливое желтое перо
+ent-RMCHelmetGarbFeatherYellow-desc = Это стойкий желтый цвет. 
 
-ent-RMCHelmetGarbFeatherPurple-name = lucky purple feather
-ent-RMCHelmetGarbFeatherPurple-desc = It is a plucky purple color. Legend has it a station AI known as Shakespeare simulated 1000 monkeys typing gibberish in order to replicate the actual works of Shakespeare. Art critics are on the fence if this is the first instance of true artificial abstract art.
+ent-RMCHelmetGarbFeatherPurple-name = счастливое фиолетовое перо
+ent-RMCHelmetGarbFeatherPurple-desc = Это отважный фиолетовый цвет. 
 
-ent-RMCHelmetGarbFeatherBlue-name = lucky blue feather
-ent-RMCHelmetGarbFeatherBlue-desc = It is a brilliant blue color. You think you might have seen a bluejay in a holo-theatre once.
+ent-RMCHelmetGarbFeatherBlue-name = счастливое голубое перо
+ent-RMCHelmetGarbFeatherBlue-desc = Это блестящий синий цвет. 
 
-ent-RMCHelmetGarbFeatherRed-name = lucky red feather
-ent-RMCHelmetGarbFeatherRed-desc = It is a riotous red color, made of really crummy plastic and synthetic threading, you know, the same sort of material every Corporate Liaison's spine is made of.
+ent-RMCHelmetGarbFeatherRed-name = счастливое красное перо
+ent-RMCHelmetGarbFeatherRed-desc = Он буйно-красного цвета, сделан из очень убогого пластика и синтетических ниток, ну, знаете, из такого же материала сделан корешек каждого корпоративного представителя.
 
-ent-RMCHelmetGarbFeather-name = lucky white feather
-ent-RMCHelmetGarbFeather-desc = A sniper's greatest asset is his mind, not his rifle.
+ent-RMCHelmetGarbFeather-name = счастливое белое перо
+ent-RMCHelmetGarbFeather-desc = Самым большим достоинством снайпера является его ум, а не винтовка.
 
-ent-RMCRC6RiotShield-name = RC6 riot shield
-ent-RMCRC6RiotShield-desc = The complimentary, but sold separate face shield associated with the RC6 riot helmet.
+ent-RMCRC6RiotShield-name = Защитный щит RC6
+ent-RMCRC6RiotShield-desc = Бесплатная, но продаваемая отдельная маска для лица, связанная с бунтом RC6 в Шлеме.
 
-ent-RMCHelmetGarbGasmaskUrban-name = Urban M5 integrated gasmask
-ent-RMCHelmetGarbGasmaskUrban-desc = The UNMC had its funding pulled for these when it became apparent that not every deployed enlisted was wearing a helmet 24/7; much to the bafflement of UN High Command.
+ent-RMCHelmetGarbGasmaskUrban-name = Интегрированный противогаз Urban M5
+ent-RMCHelmetGarbGasmaskUrban-desc = UNMC прекратил финансирование этих проектов, когда стало очевидно, что не все военнослужащие носят Шлем 24/7; 
 
-ent-RMCHelmetGarbGasmaskJungle-name = Jungle M5 integrated gasmask
-ent-RMCHelmetGarbGasmaskJungle-desc = The UNMC had its funding pulled for these when it became apparent that not every deployed enlisted was wearing a helmet 24/7; much to the bafflement of UN High Command.
+ent-RMCHelmetGarbGasmaskJungle-name = Интегрированный противогаз Jungle M5
+ent-RMCHelmetGarbGasmaskJungle-desc = UNMC прекратил финансирование этих проектов, когда стало очевидно, что не все военнослужащие носят Шлем 24/7; 
 
-ent-RMCHelmetGarbGasmaskDesert-name = Desert M5 integrated gasmask
-ent-RMCHelmetGarbGasmaskDesert-desc = The UNMC had its funding pulled for these when it became apparent that not every deployed enlisted was wearing a helmet 24/7; much to the bafflement of UN High Command.
+ent-RMCHelmetGarbGasmaskDesert-name = Интегрированный противогаз Desert M5
+ent-RMCHelmetGarbGasmaskDesert-desc = UNMC прекратил финансирование этих проектов, когда стало очевидно, что не все военнослужащие носят Шлем 24/7; 
 
-ent-RMCHelmetGarbGasmask-name = M5 integrated gasmask
-ent-RMCHelmetGarbGasmask-desc = The UNMC had its funding pulled for these when it became apparent that not every deployed enlisted was wearing a helmet 24/7; much to the bafflement of UN High Command.
+ent-RMCHelmetGarbGasmask-name = Интегрированный противогаз M5
+ent-RMCHelmetGarbGasmask-desc = UNMC прекратил финансирование этих проектов, когда стало очевидно, что не все военнослужащие носят Шлем 24/7; 
 
-ent-RMCHelmetGarbCartridge-name = cartridge
-ent-RMCHelmetGarbCartridge-desc = This is the bullet from a Type 54 Assault Rifle. It is deformed from impact against an armored surface. It's been reduced to a lucky keepsake now.
+ent-RMCHelmetGarbCartridge-name = картридж
+ent-RMCHelmetGarbCartridge-desc = Это пуля из штурмовой винтовки Тип 54. 
 
-ent-RMCHelmetGarbSlug-name = spent slugs
-ent-RMCHelmetGarbSlug-desc = For when you need to knock your target down with superior stopping power. These three have already been fired.
+ent-RMCHelmetGarbSlug-name = отработанные пули
+ent-RMCHelmetGarbSlug-desc = Для тех случаев, когда вам нужно сбить цель с превосходной останавливающей силой. 
 
-ent-RMCHelmetGarbFlechette-name = spent flechette
-ent-RMCHelmetGarbFlechette-desc = The more you fire these, the more you're reminded that a fragmentation grenade is probably more effective at fulfilling the same purpose. Say, aren't these supposed to eject from your gun?
+ent-RMCHelmetGarbFlechette-name = использованное стрело
+ent-RMCHelmetGarbFlechette-desc = Чем больше вы их стреляете, тем больше вам напоминают, что осколочная граната, вероятно, более эффективна для достижения той же цели. 
 
-ent-RMCHelmetGarbBuckshot-name = spent buckshot
-ent-RMCHelmetGarbBuckshot-desc = Three spent rounds of good ol' buckshot. You know they used to paint these green? Strange times.
+ent-RMCHelmetGarbBuckshot-name = стреляная картечь
+ent-RMCHelmetGarbBuckshot-desc = Три выстрела из старой доброй картечи. 
 
-ent-RMCHelmetGarbRainCoverJungle-name = jungle raincover
-ent-RMCHelmetGarbRainCoverJungle-desc = The standard M10 combat helmet is already water-resistant at depths of up to 10 meters. This makes the top potentially water-proof. At least it's something.
+ent-RMCHelmetGarbRainCoverJungle-name = дождевик для джунглей
+ent-RMCHelmetGarbRainCoverJungle-desc = Стандартный боевой Шлем М10 уже водонепроницаем на глубине до 10 метров. 
 
-ent-RMCHelmetGarbRainCoverDesert-name = desert raincover
-ent-RMCHelmetGarbRainCoverDesert-desc = The standard M10 combat helmet is already water-resistant at depths of up to 10 meters. This makes the top potentially water-proof. At least it's something.
+ent-RMCHelmetGarbRainCoverDesert-name = дождевик для пустыни
+ent-RMCHelmetGarbRainCoverDesert-desc = Стандартный боевой Шлем М10 уже водонепроницаем на глубине до 10 метров. 
 
-ent-RMCHelmetGarbRainCoverUrban-name = urban raincover
-ent-RMCHelmetGarbRainCoverUrban-desc = The standard M10 combat helmet is already water-resistant at depths of up to 10 meters. This makes the top potentially water-proof. At least it's something.
+ent-RMCHelmetGarbRainCoverUrban-name = городской дождевик
+ent-RMCHelmetGarbRainCoverUrban-desc = Стандартный боевой Шлем М10 уже водонепроницаем на глубине до 10 метров. 
 
-ent-RMCHelmetGarbRainCover-name = raincover
-ent-RMCHelmetGarbRainCover-desc = The standard M10 combat helmet is already water-resistant at depths of up to 10 meters. This makes the top potentially water-proof. At least it's something.
+ent-RMCHelmetGarbRainCover-name = дождевик
+ent-RMCHelmetGarbRainCover-desc = Стандартный боевой Шлем М10 уже водонепроницаем на глубине до 10 метров. 
 
-ent-RMCHelmetGarbNettingJungle-name = jungle combat netting
-ent-RMCHelmetGarbNettingJungle-desc = Probably combat netting for a helmet. Probably just an extra hairnet that got ordered for the phantom Almayer cooking staff. Probably useless.
+ent-RMCHelmetGarbNettingJungle-name = сетка для борьбы в джунглях
+ent-RMCHelmetGarbNettingJungle-desc = Наверное боевая сетка для Шлема. 
 
-ent-RMCHelmetGarbNettingDesert-name = desert combat netting
-ent-RMCHelmetGarbNettingDesert-desc = Probably combat netting for a helmet. Probably just an extra hairnet that got ordered for the phantom Almayer cooking staff. Probably useless.
+ent-RMCHelmetGarbNettingDesert-name = сетка для боя в пустыне
+ent-RMCHelmetGarbNettingDesert-desc = Наверное боевая сетка для Шлема. 
 
-ent-RMCHelmetGarbNettingUrban-name = urban combat netting
-ent-RMCHelmetGarbNettingUrban-desc = Probably combat netting for a helmet. Probably just an extra hairnet that got ordered for the phantom Almayer cooking staff. Probably useless.
+ent-RMCHelmetGarbNettingUrban-name = городская боевая сеть
+ent-RMCHelmetGarbNettingUrban-desc = Наверное боевая сетка для Шлема. 
 
-ent-RMCHelmetGarbNetting-name = combat netting
-ent-RMCHelmetGarbNetting-desc = Probably combat netting for a helmet. Probably just an extra hairnet that got ordered for the phantom Almayer cooking staff. Probably useless.
+ent-RMCHelmetGarbNetting-name = боевая сетка
+ent-RMCHelmetGarbNetting-desc = Наверное боевая сетка для Шлема. 
 
-ent-RMCHelmetGarbNightVisionPVE-name = old M1 multi-spectrum visor
-ent-RMCHelmetGarbNightVisionPVE-desc = A failed prototype for next generation HUD optics for the Marine Corps that was surpassed by the current issue integrated IR optic, this flip down visor offers a full visor suite with multi-spectrum capabilities. A really cool piece until you realize you are one headbang away from losing night capability.
+ent-RMCHelmetGarbNightVisionPVE-name = старый мультиспектральный визор М1
+ent-RMCHelmetGarbNightVisionPVE-desc = Неудавшийся прототип оптики HUD следующего поколения для Корпуса Морпех, который был превзойден нынешней интегрированной ИК-оптикой. Этот откидной визор предлагает полный набор визоров с многоспектральными возможностями. 
 
-ent-RMCHelmetGarbNightVision-name = old M2 night vision goggles
-ent-RMCHelmetGarbNightVision-desc = This pair has been gutted of all electronics and therefore not working. But hey, they make you feel tacticool, and that's all that matters, right?
+ent-RMCHelmetGarbNightVision-name = старые очки ночного видения М2
+ent-RMCHelmetGarbNightVision-desc = Эта пара лишена всей электроники и поэтому не работает. 
 
-ent-RMCHelmetGarbBase-name = item
+ent-RMCHelmetGarbBase-name = элемент
 
-ent-RMCHelmetGarbToggleableBase-name = item
+ent-RMCHelmetGarbToggleableBase-name = элемент
 

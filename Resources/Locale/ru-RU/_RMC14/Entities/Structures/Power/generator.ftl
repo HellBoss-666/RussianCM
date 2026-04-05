@@ -1,19 +1,19 @@
-ent-RMCPortableGenerator2-name = S.U.P.E.R.P.A.C.M.A.N.-type Portable Generator
-ent-RMCPortableGenerator2-desc = A portable generator for emergency backup power.
+ent-RMCPortableGenerator2-name = Портативный генератор типа СУПЕРПАКМАН
+ent-RMCPortableGenerator2-desc = Портативный генератор для аварийного резервного питания.
 
-ent-RMCPortableGenerator-name = P.A.C.M.A.N.-type Portable Generator
-ent-RMCPortableGenerator-desc = A portable generator for emergency backup power.
+ent-RMCPortableGenerator-name = Портативный генератор типа P.A.C.M.A.N.
+ent-RMCPortableGenerator-desc = Портативный генератор для аварийного резервного питания.
 
-ent-RMCGeneratorFusionCell-name = WL-6 universal fuel cell
-ent-RMCGeneratorFusionCell-desc = A rechargeable fuel cell.
+ent-RMCGeneratorFusionCell-name = Универсальный топливный элемент WL-6
+ent-RMCGeneratorFusionCell-desc = Перезаряжаемый топливный элемент.
 
-ent-RMCGeneratorFusionColony-name = G-11 geothermal generator
-ent-RMCGeneratorFusionColony-desc = A thermoelectric generator sitting atop a plasma-filled borehole.
+ent-RMCGeneratorFusionColony-name = Геотермальный генератор Г-11
+ent-RMCGeneratorFusionColony-desc = Термоэлектрический генератор, расположенный на вершине заполненной плазмой скважины.
 
-ent-RMCGeneratorFusion-name = S-52 fusion reactor
+ent-RMCGeneratorFusion-name = Термоядерный реактор С-52
 
-ent-RMCGeneratorFusionFake-name = permanently destroyed S-52 fusion reactor
+ent-RMCGeneratorFusionFake-name = безвозвратно разрушенный термоядерный реактор С-52
 
-ent-RMCGeneratorFusionColonyNoMapIcon-name = G-11 geothermal generator
-ent-RMCGeneratorFusionColonyNoMapIcon-desc = A thermoelectric generator sitting atop a plasma-filled borehole.
+ent-RMCGeneratorFusionColonyNoMapIcon-name = Геотермальный генератор Г-11
+ent-RMCGeneratorFusionColonyNoMapIcon-desc = Термоэлектрический генератор, расположенный на вершине заполненной плазмой скважины.
 

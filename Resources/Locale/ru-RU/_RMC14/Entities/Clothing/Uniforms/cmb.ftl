@@ -1,14 +1,14 @@
-ent-RMCMarshalCMBUniform-name = colony marshal uniform
-ent-RMCMarshalCMBUniform-desc = A pair of off-white slacks and a blue button-down shirt with a dark brown tie; the standard uniform of the Colony Marshals.
+ent-RMCMarshalCMBUniform-name = униформа маршала колонии
+ent-RMCMarshalCMBUniform-desc = Пара не совсем белых брюк, синяя рубашка на пуговицах и темно-коричневый галстук; 
 
-ent-RMCSwatLeaderCMBUniform-name = CMB Riot Control Marshal uniform
-ent-RMCSwatLeaderCMBUniform-desc = A dark set of tactical uniform utilized by the Colony Marshals, designed to be used by units of riot suppression on the distant worlds, under colony jurisdiction.
+ent-RMCSwatLeaderCMBUniform-name = Униформа маршала по борьбе с массовыми беспорядками CMB
+ent-RMCSwatLeaderCMBUniform-desc = Темный комплект тактической униформы, используемый маршалами колоний и предназначенный для использования подразделениями по подавлению беспорядков на далеких мирах, находящихся под юрисдикцией колонии.
 
-ent-RMCSwatCMBUniform-name = CMB Riot Control uniform
-ent-RMCSwatCMBUniform-desc = A dark set of tactical uniform utilized by the Colony Marshals, designed to be used by units of riot suppression on the distant worlds, under colony jurisdiction.
+ent-RMCSwatCMBUniform-name = Униформа CMB Riot Control
+ent-RMCSwatCMBUniform-desc = Темный комплект тактической униформы, используемый маршалами колоний и предназначенный для использования подразделениями по подавлению беспорядков на далеких мирах, находящихся под юрисдикцией колонии.
 
-ent-RMCCMBUniformBase-name = lathe-category-clothing
+ent-RMCCMBUniformBase-name = токарный станок-категория-одежда
 
-ent-RMCSwatCMBUniformSpearhead-name = CMB Riot Control uniform
-ent-RMCSwatCMBUniformSpearhead-desc = A dark set of tactical uniform utilized by the Colony Marshals, designed to be used by units of riot suppression on the distant worlds, under colony jurisdiction.
+ent-RMCSwatCMBUniformSpearhead-name = Униформа CMB Riot Control
+ent-RMCSwatCMBUniformSpearhead-desc = Темный комплект тактической униформы, используемый маршалами колоний и предназначенный для использования подразделениями по подавлению беспорядков на далеких мирах, находящихся под юрисдикцией колонии.
 

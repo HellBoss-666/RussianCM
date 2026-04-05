@@ -1,18 +1,18 @@
-ent-RMCLockerFridgeFish-name = fish
-ent-RMCLockerFridgeFish-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerFridgeFish-name = рыба
+ent-RMCLockerFridgeFish-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeMeat-name = meat
-ent-RMCLockerFridgeMeat-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerFridgeMeat-name = мясо
+ent-RMCLockerFridgeMeat-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeDry-name = dry
-ent-RMCLockerFridgeDry-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerFridgeDry-name = сухой
+ent-RMCLockerFridgeDry-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeOrganic-name = organic
-ent-RMCLockerFridgeOrganic-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerFridgeOrganic-name = органический
+ent-RMCLockerFridgeOrganic-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeGroceries-name = groceries
-ent-RMCLockerFridgeGroceries-desc = It's an immobile card-locked storage unit.
+ent-RMCLockerFridgeGroceries-name = продукты
+ent-RMCLockerFridgeGroceries-desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerFridge-name = fridge
-ent-CMLockerFridge-desc = It's an immobile card-locked storage unit.
+ent-CMLockerFridge-name = холодильник
+ent-CMLockerFridge-desc = Это неподвижное хранилище, закрывающееся картой.
 

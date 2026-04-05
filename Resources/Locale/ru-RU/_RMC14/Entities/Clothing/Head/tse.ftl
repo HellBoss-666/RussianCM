@@ -1,18 +1,18 @@
-ent-RMCHeadCapTSEPAPeaked-name = peaked tsepa cap
-ent-RMCHeadCapTSEPAPeaked-desc = A dark peaked cap enscribed with the powerful silver & red Sakura flower shaped emblem of the TSEPA. Empire and Honor, Bound by Duty. Duty Beyond Borders, Justice Across Worlds.
+ent-RMCHeadCapTSEPAPeaked-name = кепка-цепа с козырьком
+ent-RMCHeadCapTSEPAPeaked-desc = Темная фуражка с мощной серебряно-красной эмблемой ЦЕПА в форме цветка сакуры. 
 
-ent-RMCHeadBeretTSEPA-name = tsepa beret
-ent-RMCHeadBeretTSEPA-desc = Does not protect a head from bullet.
+ent-RMCHeadBeretTSEPA-name = цепа берет
+ent-RMCHeadBeretTSEPA-desc = Не защищает голову от пули.
 
-ent-RMCHeadBeretTSE-name = tse beret
-ent-RMCHeadBeretTSE-desc = Does not protect a head from bullet.
+ent-RMCHeadBeretTSE-name = це берет
+ent-RMCHeadBeretTSE-desc = Не защищает голову от пули.
 
-ent-RMCHeadCapTSEPA-name = tsepa cap
-ent-RMCHeadCapTSEPA-desc = A cap for TSEPA constables. Wots all this then?
+ent-RMCHeadCapTSEPA-name = цепа шапка
+ent-RMCHeadCapTSEPA-desc = Кепка для сотрудников ЦЭПА. 
 
-ent-RMCHeadCapTSEPAPeakedGoldSilver-name = peaked tsepa cap
-ent-RMCHeadCapTSEPAPeakedGoldSilver-desc = A dark peaked cap enscribed with the powerful silver & gold Sakura flower shaped emblem of the TSEPA. Empire and Honor, Bound by Duty. Duty Beyond Borders, Justice Across Worlds.
+ent-RMCHeadCapTSEPAPeakedGoldSilver-name = кепка-цепа с козырьком
+ent-RMCHeadCapTSEPAPeakedGoldSilver-desc = Темная фуражка с мощной серебряно-золотой эмблемой ЦЕПА в форме цветка сакуры. 
 
-ent-RMCHeadCapTSEPAPeakedGold-name = peaked tsepa cap
-ent-RMCHeadCapTSEPAPeakedGold-desc = A dark peaked cap enscribed with the powerful red & gold Sakura flower shaped emblem of the TSEPA, more commonly used by higher ranking Constables & TSEPA personnel. Empire and Honor, Bound by Duty. Duty Beyond Borders, Justice Across Worlds.
+ent-RMCHeadCapTSEPAPeakedGold-name = кепка-цепа с козырьком
+ent-RMCHeadCapTSEPAPeakedGold-desc = Темная фуражка с мощной красно-золотой эмблемой TSEPA в форме цветка сакуры, чаще используемая более высокопоставленными констеблями и сотрудниками TSEPA. 
 

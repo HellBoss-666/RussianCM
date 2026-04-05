@@ -1,5 +1,5 @@
-ent-RMCTurretGaussSpaceborne-name = UN-577 spaceborne gauss turret
-ent-RMCTurretGaussSpaceborne-desc = A fully-automated defence turret with mid-range targeting capabilities. Armed with a modified M32-S Autocannon and an internal belt feed.
+ent-RMCTurretGaussSpaceborne-name = Космическая гаусс-турель УН-577
+ent-RMCTurretGaussSpaceborne-desc = Полностью автоматизированная защитная турель с возможностью наведения на среднюю дальность. 
 
-ent-RMCBaseTurret-name = turret
+ent-RMCBaseTurret-name = турель
 

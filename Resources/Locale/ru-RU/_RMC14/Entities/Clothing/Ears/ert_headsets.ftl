@@ -1,3 +1,3 @@
-ent-RMCHeadsetDistressICBLiaison-name = ICB liaison headset
-ent-RMCHeadsetDistressICBLiaison-desc = Used by the CL to convince people to sign NDAs.
+ent-RMCHeadsetDistressICBLiaison-name = Гарнитура связи ICB
+ent-RMCHeadsetDistressICBLiaison-desc = Используется CL, чтобы убедить людей подписать соглашения о неразглашении.
 

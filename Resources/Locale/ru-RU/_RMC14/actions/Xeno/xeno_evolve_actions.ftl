@@ -1,9 +1,9 @@
-ent-RMCGuidebookActionXenoEvolve-name = Evolve
-ent-RMCGuidebookActionXenoEvolve-desc = Evolve to the next caste of xenonid or choose a strain if one is available.
+ent-RMCGuidebookActionXenoEvolve-name = Эволюционировать
+ent-RMCGuidebookActionXenoEvolve-desc = Эволюционируйте до следующей касты ксенонидов или выберите штамм, если он доступен.
 
-ent-ActionXenoDevolve-name = De-evolve
-ent-ActionXenoDevolve-desc = Devolve to the previous caste of xenonid. [color=red]You won't get your evolution points refunded![/color]
+ent-ActionXenoDevolve-name = Де-эволюционировать
+ent-ActionXenoDevolve-desc = Перейдите в предыдущую касту ксенонидов. 
 
-ent-ActionXenoEvolve-name = Evolve
-ent-ActionXenoEvolve-desc = Evolve to the next caste of xenonid or choose a strain if one is available.
+ent-ActionXenoEvolve-name = Эволюционировать
+ent-ActionXenoEvolve-desc = Эволюционируйте до следующей касты ксенонидов или выберите штамм, если он доступен.
 

@@ -1,2 +1,2 @@
-ent-CMXenoBoiler-name = cm-job-name-xeno-boiler
+ent-CMXenoBoiler-name = cm-имя-задания-ксено-котел
 

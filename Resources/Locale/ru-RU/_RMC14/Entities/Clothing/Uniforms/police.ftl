@@ -1,33 +1,33 @@
-ent-RMCScrubsPrisonMaxsec-name = prisoner maximum custody scrubs
-ent-RMCScrubsPrisonMaxsec-desc = Orange scrubs worn by prisoners as directed by Marine Law. Marked with red for maximum custody prisoners.
+ent-RMCScrubsPrisonMaxsec-name = халаты для заключенных под максимальным сроком содержания под стражей
+ent-RMCScrubsPrisonMaxsec-desc = Оранжевые халаты, которые носят заключенные по указанию Морпеха Лоу. 
 
-ent-RMCScrubsPrisonMedsec-name = prisoner medium custody scrubs
-ent-RMCScrubsPrisonMedsec-desc = Orange scrubs worn by prisoners as directed by Marine Law. Marked with yellow for medium custody prisoners.
+ent-RMCScrubsPrisonMedsec-name = халаты для заключенных средней степени содержания под стражей
+ent-RMCScrubsPrisonMedsec-desc = Оранжевые халаты, которые носят заключенные по указанию Морпеха Лоу. 
 
-ent-CMJumpsuitWO-name = chief MP uniform
-ent-CMJumpsuitWO-desc = A uniform typically worn by a Chief MP of the UNMC. It has shards of light Kevlar to help protect against stabbing weapons, bullets, and shrapnel from explosions. This uniform includes a small EMF distributor to help nullify energy-based weapon fire, along with a hazmat chemical filter woven throughout the material to ward off biological and radiation hazards.
+ent-CMJumpsuitWO-name = униформа главного депутата
+ent-CMJumpsuitWO-desc = Униформа, которую обычно носит главный член парламента UNMC. 
 
-ent-CMJumpsuitWardenTan-name = tan warden uniform
-ent-CMJumpsuitWardenTan-desc = A standard-issue warden uniform.
+ent-CMJumpsuitWardenTan-name = загар в униформе надзирателя
+ent-CMJumpsuitWardenTan-desc = Стандартная униформа начальника тюрьмы.
 
-ent-CMJumpsuitWardenNavy-name = navy warden uniform
-ent-CMJumpsuitWardenNavy-desc = A navy variant of warden uniform.
+ent-CMJumpsuitWardenNavy-name = форма начальника военно-морского флота
+ent-CMJumpsuitWardenNavy-desc = Темно-синий вариант униформы надзирателя.
 
-ent-CMJumpsuitWardenCorporate-name = corporate warden uniform
-ent-CMJumpsuitWardenCorporate-desc = A standard-issue warden uniform.
+ent-CMJumpsuitWardenCorporate-name = униформа корпоративного начальника
+ent-CMJumpsuitWardenCorporate-desc = Стандартная униформа начальника тюрьмы.
 
-ent-CMJumpsuitWardenRed-name = red warden uniform
-ent-CMJumpsuitWardenRed-desc = A standard-issue warden uniform.
+ent-CMJumpsuitWardenRed-name = красная форма надзирателя
+ent-CMJumpsuitWardenRed-desc = Стандартная униформа начальника тюрьмы.
 
-ent-CMJumpsuitWardenBlue-name = blue warden uniform
-ent-CMJumpsuitWardenBlue-desc = The insignia on this uniform tells you that this uniform belongs to the Warden.
+ent-CMJumpsuitWardenBlue-name = синяя форма надзирателя
+ent-CMJumpsuitWardenBlue-desc = Знак отличия на этой униформе говорит о том, что эта униформа принадлежит Смотрителю.
 
-ent-CMJumpsuitWarden-name = military warden uniform
-ent-CMJumpsuitWarden-desc = Standard-issue Military Warden uniform. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitWarden-name = форма военного начальника
+ent-CMJumpsuitWarden-desc = Стандартная форма военного начальника. 
 
-ent-RMCJumpsuitMPCorporate-name = corporate security officer's jumpsuit
-ent-RMCJumpsuitMPCorporate-desc = It's made of a slightly sturdier material than standard jumpsuits, to allow for robust protection.
+ent-RMCJumpsuitMPCorporate-name = комбинезон сотрудника корпоративной безопасности
+ent-RMCJumpsuitMPCorporate-desc = Он изготовлен из немного более прочного материала, чем стандартные комбинезоны, что обеспечивает надежную защиту.
 
-ent-CMJumpsuitMP-name = military police jumpsuit
-ent-CMJumpsuitMP-desc = Standard-issue Military Police uniform. It has shards of light Kevlar to help protect against stabbing weapons and bullets.
+ent-CMJumpsuitMP-name = комбинезон военной полиции
+ent-CMJumpsuitMP-desc = Стандартная форма военной полиции. 
 

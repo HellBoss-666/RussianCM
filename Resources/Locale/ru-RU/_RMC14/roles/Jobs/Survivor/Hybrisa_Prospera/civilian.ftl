@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaCivilian-name = hybrisa civilian preset
+ent-RMCGearSurvivorPresetHybrisaCivilian-name = Гражданский пресет Hybrisa
 
-ent-RMCSpawnPointSurvivorHybrisaCivilian-name = hybrisa civilian spawn point
-ent-RMCSpawnPointSurvivorHybrisaCivilian-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorHybrisaCivilian-name = гражданская точка появления гибриды
+ent-RMCSpawnPointSurvivorHybrisaCivilian-desc = Создатель заданий RMC14. 
 

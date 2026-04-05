@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaSynthExecBodyguard-name = survivor synth hybrisa executive bodyguard preset
+ent-RMCSurvivorPresetHybrisaSynthExecBodyguard-name = Survivor Synth Hybrisa: пресет исполнительного телохранителя
 

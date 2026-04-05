@@ -1,12 +1,12 @@
-ent-RMCMangoSeeds-name = packet of mango seeds
+ent-RMCMangoSeeds-name = пакетик семян манго
 
-ent-SunflowerSeeds-name = packet of sunflower seeds
+ent-SunflowerSeeds-name = пакетик семян подсолнечника
 
-ent-PeanutSeeds-name = packet of peanut seeds
+ent-PeanutSeeds-name = пакетик семян арахиса
 
-ent-WhiteBeetSeeds-name = packet of white beet seeds
+ent-WhiteBeetSeeds-name = пакетик семян белой свеклы
 
-ent-GrassSeeds-name = packet of grass seeds
+ent-GrassSeeds-name = пакетик семян травы
 
-ent-PlumpSeeds-name = packet of plump spores
+ent-PlumpSeeds-name = пакет пухлых спор
 

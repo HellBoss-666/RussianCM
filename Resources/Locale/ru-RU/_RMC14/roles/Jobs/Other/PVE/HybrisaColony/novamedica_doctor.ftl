@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVENovaMedicaDoctor-name = nova medica doctor spawn point
-ent-RMCSpawnPointPVENovaMedicaDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointPVENovaMedicaDoctor-name = точка появления доктора нова медика
+ent-RMCSpawnPointPVENovaMedicaDoctor-desc = Создатель заданий RMC14. 
 

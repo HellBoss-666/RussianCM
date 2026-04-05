@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentDamTech-name = dam maintenance technician colonist preset
+ent-RMCGearSurvivorPresetTrijentDamTech-name = Предварительная настройка специалиста по обслуживанию плотин колониста
 
-ent-RMCSpawnPointSurvivorTrijentDamTech-name = survivor dam maintenance technician spawn point
-ent-RMCSpawnPointSurvivorTrijentDamTech-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorTrijentDamTech-name = Место появления специалиста по обслуживанию плотины выжившего
+ent-RMCSpawnPointSurvivorTrijentDamTech-desc = Создатель заданий RMC14. 
 

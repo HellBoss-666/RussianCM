@@ -1,19 +1,19 @@
-ent-CMGuidebookRoleYou-name = You?
+ent-CMGuidebookRoleYou-name = Ты?
 
-ent-CMSpawnPointRifleman-name = rifleman spawn point
-ent-CMSpawnPointRifleman-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRifleman-name = точка появления стрелка
+ent-CMSpawnPointRifleman-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointRiflemanAlpha-name = rifleman spawn point
-ent-CMSpawnPointRiflemanAlpha-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRiflemanAlpha-name = точка появления стрелка
+ent-CMSpawnPointRiflemanAlpha-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointRiflemanBravo-name = rifleman spawn point
-ent-CMSpawnPointRiflemanBravo-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRiflemanBravo-name = точка появления стрелка
+ent-CMSpawnPointRiflemanBravo-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointRiflemanCharlie-name = rifleman spawn point
-ent-CMSpawnPointRiflemanCharlie-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRiflemanCharlie-name = точка появления стрелка
+ent-CMSpawnPointRiflemanCharlie-desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointRiflemanDelta-name = rifleman spawn point
-ent-CMSpawnPointRiflemanDelta-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRiflemanDelta-name = точка появления стрелка
+ent-CMSpawnPointRiflemanDelta-desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookCorpseMarine-name = Wounded marine
+ent-RMCGuidebookCorpseMarine-name = Раненый Морпех
 

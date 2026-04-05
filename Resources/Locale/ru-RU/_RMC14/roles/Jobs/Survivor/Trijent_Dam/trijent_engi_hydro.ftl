@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentEngiHydro-name = hydro electric engineer colonist preset
+ent-RMCGearSurvivorPresetTrijentEngiHydro-name = Предварительная настройка инженера-гидроэлектрика-колониста
 
-ent-RMCSpawnPointSurvivorTrijentEngiHydro-name = survivor hydro electric engineer spawn point
-ent-RMCSpawnPointSurvivorTrijentEngiHydro-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorTrijentEngiHydro-name = точка возрождения выжившего гидроэлектрика
+ent-RMCSpawnPointSurvivorTrijentEngiHydro-desc = Создатель заданий RMC14. 
 

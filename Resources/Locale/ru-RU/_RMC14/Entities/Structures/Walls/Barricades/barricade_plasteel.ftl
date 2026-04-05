@@ -1,9 +1,9 @@
-ent-RMCBarricadeBurnPlasteel-name = Plasteel Barricade
-ent-RMCBarricadeBurnPlasteel-desc = A military-grade hardened plasteel barricade.
+ent-RMCBarricadeBurnPlasteel-name = Пластилевая баррикада
+ent-RMCBarricadeBurnPlasteel-desc = Баррикада из закаленной пластали военного уровня.
 
-ent-RMCBarricadeBrutePlasteel-name = Plasteel Barricade
-ent-RMCBarricadeBrutePlasteel-desc = A military-grade hardened plasteel barricade.
+ent-RMCBarricadeBrutePlasteel-name = Пластилевая баррикада
+ent-RMCBarricadeBrutePlasteel-desc = Баррикада из закаленной пластали военного уровня.
 
-ent-RMCBarricadeExplosivePlasteel-name = Plasteel Barricade
-ent-RMCBarricadeExplosivePlasteel-desc = A military-grade hardened plasteel barricade.
+ent-RMCBarricadeExplosivePlasteel-name = Пластилевая баррикада
+ent-RMCBarricadeExplosivePlasteel-desc = Баррикада из закаленной пластали военного уровня.
 

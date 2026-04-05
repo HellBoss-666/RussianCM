@@ -1,132 +1,132 @@
-ent-RMCAreaKutjevoInteriorColonySouthPower2-name = Kutjevo - South Colony Treatment Plant - North
+ent-RMCAreaKutjevoInteriorColonySouthPower2-name = Кутьево - Южные очистные сооружения колонии - Север
 
-ent-RMCAreaKutjevoInteriorColonySouth-name = Kutjevo - South Colony Caves
+ent-RMCAreaKutjevoInteriorColonySouth-name = Кутьево - Пещеры Южной Колонии
 
-ent-RMCAreaKutjevoInteriorColonyNEast-name = Kutjevo - Northeast Colony Caves
+ent-RMCAreaKutjevoInteriorColonyNEast-name = Кутьево - Пещеры северо-восточной колонии
 
-ent-RMCAreaKutjevoInteriorColonySEast-name = Kutjevo - Southeast Colony Caves
+ent-RMCAreaKutjevoInteriorColonySEast-name = Кутьево - Пещеры юго-восточной колонии
 
-ent-RMCAreaKutjevoInteriorColonyNorth-name = Kutjevo - North Colony Caves
+ent-RMCAreaKutjevoInteriorColonyNorth-name = Кутьево - Пещеры Северной Колонии
 
-ent-RMCAreaKutjevoInteriorColonyCentralMineElevator-name = Kutjevo - Central Colony Elevator
+ent-RMCAreaKutjevoInteriorColonyCentralMineElevator-name = Кутьево - Элеватор Центральной колонии
 
-ent-RMCAreaKutjevoInteriorColonyCentral-name = Kutjevo - Central Colony Caves
+ent-RMCAreaKutjevoInteriorColonyCentral-name = Кутьево - Пещеры Центральной Колонии
 
-ent-RMCAreaKutjevoInteriorColony-name = Kutjevo - Colony Building Interior
+ent-RMCAreaKutjevoInteriorColony-name = Кутьево - Интерьер здания колонии
 
-ent-RMCAreaKutjevoInteriorPowerPt2ElectricBoogaloo-name = Kutjevo - Power Plant
+ent-RMCAreaKutjevoInteriorPowerPt2ElectricBoogaloo-name = Кутьево - Электростанция
 
-ent-RMCAreaKutjevoInteriorBotanyBayInt-name = Kutjevo - Space Weed Farm Interior
+ent-RMCAreaKutjevoInteriorBotanyBayInt-name = Кутьево — Интерьер фермы космических сорняков
 
-ent-RMCAreaKutjevoInteriorForemansOffice-name = Kutjevo - Foreman's Office
+ent-RMCAreaKutjevoInteriorForemansOffice-name = Кутьево - кабинет мастера
 
-ent-RMCAreaKutjevoInteriorConstruction-name = Kutjevo - Abandoned Construction Interior
+ent-RMCAreaKutjevoInteriorConstruction-name = Кутьево - интерьер заброшенной стройки
 
-ent-RMCAreaKutjevoInteriorPowerComms-name = Kutjevo - Hydroelectric Dam Comms Relay
+ent-RMCAreaKutjevoInteriorPowerComms-name = Кутьево - Реле связи плотины ГЭС
 
-ent-RMCAreaKutjevoInteriorPower-name = Kutjevo - Hydroelectric Dam Substation
+ent-RMCAreaKutjevoInteriorPower-name = Кутьево - Подстанция плотины ГЭС
 
-ent-RMCAreaKutjevoInteriorComplexNorthwestSecurityCheckpoint-name = Kutjevo Complex - Northwest Security Checkpoint
+ent-RMCAreaKutjevoInteriorComplexNorthwestSecurityCheckpoint-name = Комплекс Кутьево - Северо-Западный КПП
 
-ent-RMCAreaKutjevoInteriorComplexNorthwestFlightControl-name = Kutjevo Complex - Northwest Flight Control Room
+ent-RMCAreaKutjevoInteriorComplexNorthwestFlightControl-name = Комплекс Кутьево - Северо-западный диспетчерский пункт
 
-ent-RMCAreaKutjevoInteriorComplexNorthwestDorms-name = Kutjevo Complex - Northwest Colony Dorms
+ent-RMCAreaKutjevoInteriorComplexNorthwestDorms-name = Комплекс Кутьево - Общежития Северо-Западной колонии
 
-ent-RMCAreaKutjevoInteriorComplexMedLocks-name = Kutjevo Complex - Medical Stormlocks
+ent-RMCAreaKutjevoInteriorComplexMedLocks-name = Комплекс Кутьево - Медицинские Штормлоксы
 
-ent-RMCAreaKutjevoInteriorComplexMedPano-name = Kutjevo Complex - Medical Panopticon
+ent-RMCAreaKutjevoInteriorComplexMedPano-name = Кутьевский Комплекс - Медицинский Паноптикум
 
-ent-RMCAreaKutjevoInteriorComplexMedCells-name = Kutjevo Complex - Medical Cryocells
+ent-RMCAreaKutjevoInteriorComplexMedCells-name = Кутьево Комплекс - Медицинские криоэлементы
 
-ent-RMCAreaKutjevoInteriorComplexMedTriage-name = Kutjevo Complex - Medical Triage Hallway
+ent-RMCAreaKutjevoInteriorComplexMedTriage-name = Комплекс Кутьево - Коридор медицинской сортировки
 
-ent-RMCAreaKutjevoInteriorComplexMedOperating-name = Kutjevo Complex - Medical Operation Hallway
+ent-RMCAreaKutjevoInteriorComplexMedOperating-name = Комплекс Кутьево - Операционный зал
 
-ent-RMCAreaKutjevoInteriorComplexMedAutoDoc-name = Kutjevo Complex - Medical Autodoc Hallway
+ent-RMCAreaKutjevoInteriorComplexMedAutoDoc-name = Комплекс Кутьево - Медицинский автодок-холл
 
-ent-RMCAreaKutjevoInteriorComplexMed-name = Kutjevo Complex - Medical Foyer
+ent-RMCAreaKutjevoInteriorComplexMed-name = Комплекс Кутьево - Медицинский фойе
 
-ent-RMCAreaKutjevoInteriorComplexBotanyLocks-name = Kutjevo Complex - Botany Stormlocks
+ent-RMCAreaKutjevoInteriorComplexBotanyLocks-name = Комплекс Кутьево - Ботаника Штормлокс
 
-ent-RMCAreaKutjevoInteriorComplexBotanyEastTech-name = Kutjevo Complex - Powerplant Access Hall
+ent-RMCAreaKutjevoInteriorComplexBotanyEastTech-name = Комплекс Кутьево - Зал доступа к электростанции
 
-ent-RMCAreaKutjevoInteriorComplexBotanyEast-name = Kutjevo Complex - Botany East Hall
+ent-RMCAreaKutjevoInteriorComplexBotanyEast-name = Комплекс Кутьево - Ботаника Восточный зал
 
-ent-RMCAreaKutjevoInteriorComplexBotany-name = Kutjevo Complex - Botany Bay
+ent-RMCAreaKutjevoInteriorComplexBotany-name = Комплекс Кутьево - Бухта Ботани
 
-ent-RMCAreaKutjevoInteriorComplex-name = Kutjevo Complex
+ent-RMCAreaKutjevoInteriorComplex-name = Кутьево Комплекс
 
-ent-RMCAreaKutjevoExteriorTelecommLz2South-name = Kutjevo - South LZ2 Communications Relay
+ent-RMCAreaKutjevoExteriorTelecommLz2South-name = Кутьево - Южное реле связи LZ2
 
-ent-RMCAreaKutjevoExteriorTelecommLz2North-name = Kutjevo - North LZ2 Communications Relay
+ent-RMCAreaKutjevoExteriorTelecommLz2North-name = Кутьево - Реле связи Северная LZ2
 
-ent-RMCAreaKutjevoExteriorTelecommLz1South-name = Kutjevo - South LZ1 Communications Relay
+ent-RMCAreaKutjevoExteriorTelecommLz1South-name = Кутьево - Южное реле связи LZ1
 
-ent-RMCAreaKutjevoExteriorTelecommLz1North-name = Kutjevo - North LZ1 Communications Relay
+ent-RMCAreaKutjevoExteriorTelecommLz1North-name = Кутьево - Реле связи Северная LZ1
 
-ent-RMCAreaKutjevoExteriorTelecomm-name = Kutjevo - Communications Relay
+ent-RMCAreaKutjevoExteriorTelecomm-name = Кутьево - Реле связи
 
-ent-RMCAreaKutjevoExteriorComplexBorderMedRec-name = Kutjevo Complex - Water Tank Cave
+ent-RMCAreaKutjevoExteriorComplexBorderMedRec-name = Комплекс Кутьево - Пещера с резервуаром для воды
 
-ent-RMCAreaKutjevoExteriorComplexBorderMedPark-name = Kutjevo Complex - Medical Park
+ent-RMCAreaKutjevoExteriorComplexBorderMedPark-name = Комплекс Кутьево - Медикал Парк
 
-ent-RMCAreaKutjevoExteriorComplexBorderBotanyMedicalCave-name = Kutjevo Complex - Botany - Medical Cave
+ent-RMCAreaKutjevoExteriorComplexBorderBotanyMedicalCave-name = Комплекс Кутьево - Ботаника - Медицинская пещера
 
-ent-RMCAreaKutjevoExteriorComplexBorder-name = Kutjevo Complex - Exterior
+ent-RMCAreaKutjevoExteriorComplexBorder-name = Комплекс Кутьево - Внешний вид
 
-ent-RMCAreaKutjevoExteriorConstruction-name = Kutjevo - Abandoned Construction
+ent-RMCAreaKutjevoExteriorConstruction-name = Кутьево - Заброшенная постройка
 
-ent-RMCAreaKutjevoExteriorBotanyBayExt-name = Kutjevo - Space Weed Farm Exterior
+ent-RMCAreaKutjevoExteriorBotanyBayExt-name = Кутьево: внешний вид фермы космических сорняков
 
-ent-RMCAreaKutjevoExteriorOverlook-name = Kutjevo - Runoff River Overlook
+ent-RMCAreaKutjevoExteriorOverlook-name = Кутьево - вид на стоковую реку
 
-ent-RMCAreaKutjevoExteriorRunoffBridge-name = Kutjevo - Runoff Bridge
+ent-RMCAreaKutjevoExteriorRunoffBridge-name = Кутьево - Стоковый мост
 
-ent-RMCAreaKutjevoExteriorRunoffRiver-name = Kutjevo - Runoff River
+ent-RMCAreaKutjevoExteriorRunoffRiver-name = Кутьево - Сток реки
 
-ent-RMCAreaKutjevoExteriorRunoffDunes-name = Kutjevo - Runoff Dunes
+ent-RMCAreaKutjevoExteriorRunoffDunes-name = Кутьево - Сток Дюны
 
-ent-RMCAreaKutjevoExteriorNorthwestColony-name = Kutjevo - Northwest Colony Grounds
+ent-RMCAreaKutjevoExteriorNorthwestColony-name = Кутьево - Северо-Западная колония
 
-ent-RMCAreaKutjevoExteriorStonyfields-name = Kutjevo - Stony Fields
+ent-RMCAreaKutjevoExteriorStonyfields-name = Кутьево - Каменистые поля
 
-ent-RMCAreaKutjevoExteriorScrublandSouth-name = Kutjevo - South Scrubland
+ent-RMCAreaKutjevoExteriorScrublandSouth-name = Кутьево - Южный кустарник
 
-ent-RMCAreaKutjevoExteriorScrubland-name = Kutjevo - North Scrubland
+ent-RMCAreaKutjevoExteriorScrubland-name = Кутьево - Северный кустарник
 
-ent-RMCAreaKutjevoExteriorSpring-name = Kutjevo - Southern Spring
+ent-RMCAreaKutjevoExteriorSpring-name = Кутьево - Южный источник
 
-ent-RMCAreaKutjevoExteriorLzRiver-name = Kutjevo - Power Station River
+ent-RMCAreaKutjevoExteriorLzRiver-name = Кутьево - Речная Электростанция
 
-ent-RMCAreaKutjevoExteriorLzDunes-name = Kutjevo - Landing Zone Dunes
+ent-RMCAreaKutjevoExteriorLzDunes-name = Кутьево - Дюны зоны приземления
 
-ent-RMCAreaKutjevoExteriorLzPad-name = Kutjevo Auxilliary Landing Zone
+ent-RMCAreaKutjevoExteriorLzPad-name = Вспомогательная посадочная зона Кутьево
 
-ent-RMCAreaKutjevoInteriorOobDevRoom-name = Kutjevo - Credits Room
+ent-RMCAreaKutjevoInteriorOobDevRoom-name = Кутьево — Комната кредитов
 
-ent-RMCAreaKutjevoInteriorOob-name = Kutjevo - Out Of Bounds
+ent-RMCAreaKutjevoInteriorOob-name = Кутьево - За пределами поля
 
-ent-RMCAreaKutjevoInterior-name = Kutjevo - Interior
+ent-RMCAreaKutjevoInterior-name = Кутьево - Интерьер
 
-ent-RMCAreaKutjevoExterior-name = Kutjevo - Exterior
+ent-RMCAreaKutjevoExterior-name = Кутьево - Внешний вид
 
-ent-RMCAreaShuttleDrop2Kutjevo-name = Kutjevo - Dropship Normandy Landing Zone
+ent-RMCAreaShuttleDrop2Kutjevo-name = Кутьево - Зона высадки десантного корабля в Нормандии
 
-ent-RMCAreaShuttleDrop1Kutjevo-name = Kutjevo - Dropship Alamo Landing Zone
+ent-RMCAreaShuttleDrop1Kutjevo-name = Кутьево - Зона приземления десантного корабля Аламо
 
-ent-RMCAreaKutjevo-name = Kutjevo Refinery
+ent-RMCAreaKutjevo-name = Кутьевский НПЗ
 
-ent-RMCAreaKutjevoInteriorConstructionNorth-name = Kutjevo - Northern Abandoned Construction Interior
+ent-RMCAreaKutjevoInteriorConstructionNorth-name = Кутьево - интерьер северной заброшенной постройки
 
-ent-RMCAreaKutjevoInteriorConstructionEast-name = Kutjevo - Eastern Abandoned Construction Interior
+ent-RMCAreaKutjevoInteriorConstructionEast-name = Кутьево - Восточный интерьер заброшенной постройки
 
-ent-RMCAreaKutjevoInteriorConstructionSignalTower-name = Kutjevo - Abandoned Signal Tower
+ent-RMCAreaKutjevoInteriorConstructionSignalTower-name = Кутьево - Заброшенная сигнальная башня
 
-ent-RMCAreaKutjevoInteriorColonySouthPower2South-name = Kutjevo - South Colony Treatment Plant - South
+ent-RMCAreaKutjevoInteriorColonySouthPower2South-name = Кутьево - Южные очистные сооружения колонии - Юг
 
-ent-RMCAreaKutjevoInteriorColonyLandingZoneCheckpoint-name = Kutjevo - Landing Zone Checkpoint
+ent-RMCAreaKutjevoInteriorColonyLandingZoneCheckpoint-name = Кутьево - КПП зоны приземления
 
-ent-RMCAreaKutjevoInteriorColonyCLFShuttle-name = Kutjevo - Unregistered Freighter
+ent-RMCAreaKutjevoInteriorColonyCLFShuttle-name = Кутьево - незарегистрированное грузовое судно
 
-ent-RMCAreaKutjevoExteriorCLFLZ-name = Kutjevo - Tertiary Landing Zone
+ent-RMCAreaKutjevoExteriorCLFLZ-name = Кутьево - Третичная зона высадки
 

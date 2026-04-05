@@ -1,15 +1,15 @@
-ent-RMCOrganXenoHeart-name = acidic heart
-ent-RMCOrganXenoHeart-desc = Acidic heart removed from a xenonid. It spews droplets of acid every so often.
+ent-RMCOrganXenoHeart-name = кислотное сердце
+ent-RMCOrganXenoHeart-desc = Кислотное сердце, удаленное из ксенонида. 
 
-ent-RMCOrganXenoHeartT1-name = acidic heart
-ent-RMCOrganXenoHeartT1-desc = Acidic heart removed from a xenonid. It spews droplets of acid every so often.
+ent-RMCOrganXenoHeartT1-name = кислотное сердце
+ent-RMCOrganXenoHeartT1-desc = Кислотное сердце, удаленное из ксенонида. 
 
-ent-RMCOrganXenoHeartT2-name = acidic heart
-ent-RMCOrganXenoHeartT2-desc = Acidic heart removed from a xenonid. It spews droplets of acid every so often.
+ent-RMCOrganXenoHeartT2-name = кислотное сердце
+ent-RMCOrganXenoHeartT2-desc = Кислотное сердце, удаленное из ксенонида. 
 
-ent-RMCOrganXenoHeartT3-name = acidic heart
-ent-RMCOrganXenoHeartT3-desc = Acidic heart removed from a xenonid. It spews droplets of acid every so often.
+ent-RMCOrganXenoHeartT3-name = кислотное сердце
+ent-RMCOrganXenoHeartT3-desc = Кислотное сердце, удаленное из ксенонида. 
 
-ent-RMCOrganXenoHeartTQ-name = acidic heart
-ent-RMCOrganXenoHeartTQ-desc = Acidic heart removed from a xenonid. It spews droplets of acid every so often.
+ent-RMCOrganXenoHeartTQ-name = кислотное сердце
+ent-RMCOrganXenoHeartTQ-desc = Кислотное сердце, удаленное из ксенонида. 
 

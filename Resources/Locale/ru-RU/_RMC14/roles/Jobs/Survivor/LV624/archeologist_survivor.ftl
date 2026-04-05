@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetLV624Archeologist-name = lv624 archeologist colonist preset
+ent-RMCGearSurvivorPresetLV624Archeologist-name = lv624 пресет археолога-колониста
 
-ent-RMCSpawnPointSurvivorLV624Archeologist-name = survivor lv624 archeologist spawn point
-ent-RMCSpawnPointSurvivorLV624Archeologist-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorLV624Archeologist-name = выживший lv624 точка спавна археолога
+ent-RMCSpawnPointSurvivorLV624Archeologist-desc = Создатель заданий RMC14. 
 

@@ -1,116 +1,116 @@
-ent-CMDrinkCanBobdaPineappleDiet-name = diet pineapple bobda
-ent-CMDrinkCanBobdaPineappleDiet-desc = This tastes like battery acid with a half cup of sugar mixed in. Canned in Havana.
+ent-CMDrinkCanBobdaPineappleDiet-name = диета ананасовая бобда
+ent-CMDrinkCanBobdaPineappleDiet-desc = По вкусу напоминает аккумуляторную кислоту с добавлением полстакана сахара. Консервировано в Гаване.
 
-ent-CMDrinkCanBobdaVanillaDiet-name = diet vanilla bobda
-ent-CMDrinkCanBobdaVanillaDiet-desc = This is a can of watery bitter vanilla extract. You can't possibly imagine who would greenlight such a concept. Canned in Havana.
+ent-CMDrinkCanBobdaVanillaDiet-name = диета ванильного бобда
+ent-CMDrinkCanBobdaVanillaDiet-desc = Это баночка водянистого горького ванильного экстракта. 
 
-ent-CMDrinkCanBobdaCranberryDiet-name = diet cranberry bobda
-ent-CMDrinkCanBobdaCranberryDiet-desc = This tastes more like prunes than cranberries. It's not bad; it's just wrong. Canned in Havana.
+ent-CMDrinkCanBobdaCranberryDiet-name = диета клюквенная бобда
+ent-CMDrinkCanBobdaCranberryDiet-desc = По вкусу это больше похоже на чернослив, чем на клюкву. 
 
-ent-CMDrinkCanBobdaPeachDiet-name = diet peach bobda
-ent-CMDrinkCanBobdaPeachDiet-desc = On one hand, it tastes pretty good. On the other hand, you think you can hear half of a peach pit rattling on the inside. Canned in Havana.
+ent-CMDrinkCanBobdaPeachDiet-name = диета персиковая бобда
+ent-CMDrinkCanBobdaPeachDiet-desc = С одной стороны, это очень вкусно. 
 
-ent-CMDrinkCanBobdaBlueDiet-name = diet blue raspberry bobda
-ent-CMDrinkCanBobdaBlueDiet-desc = WHAT A SCAM! It doesn't even taste like blue! At best, it tastes like cyan. Canned in Havana.
+ent-CMDrinkCanBobdaBlueDiet-name = Диета Бобда с голубой малиной
+ent-CMDrinkCanBobdaBlueDiet-desc = КАКОЕ МОШЕННИЧЕСТВО! 
 
-ent-CMDrinkCanBobdaGrapeDiet-name = diet grape bobda
-ent-CMDrinkCanBobdaGrapeDiet-desc = You're fairly certain that this is just grape cough syrup and carbonated water. Canned in Havana.
+ent-CMDrinkCanBobdaGrapeDiet-name = диета виноградная бобда
+ent-CMDrinkCanBobdaGrapeDiet-desc = Вы совершенно уверены, что это всего лишь виноградный сироп от кашля и газированная вода. 
 
-ent-CMDrinkCanBobdaLimeDiet-name = diet lime bobda
-ent-CMDrinkCanBobdaLimeDiet-desc = Ten kinds of acid, two cups of fake sugar, almost a full tank of carbon dioxide, and about 210 kPa all crammed into an aluminum can. What's not to love? Canned in Havana.
+ent-CMDrinkCanBobdaLimeDiet-name = диета лайма бобды
+ent-CMDrinkCanBobdaLimeDiet-desc = Десять видов кислоты, две чашки поддельного сахара, почти полный бак углекислого газа и около 210 кПа — все это запихнуто в алюминиевую банку. 
 
-ent-CMDrinkCanBobdaCherryDiet-name = diet cherry bobda
-ent-CMDrinkCanBobdaCherryDiet-desc = It's neither diet nor cherry flavored. Canned in Havana.
+ent-CMDrinkCanBobdaCherryDiet-name = Диета вишневого бобда
+ent-CMDrinkCanBobdaCherryDiet-desc = Он не диетический и не со вкусом вишни. 
 
-ent-CMDrinkCanBobdaClassicDiet-name = diet bobda classic
-ent-CMDrinkCanBobdaClassicDiet-desc = Now with 0% fruit juice! Canned in Havana
+ent-CMDrinkCanBobdaClassicDiet-name = диета бобда классика
+ent-CMDrinkCanBobdaClassicDiet-desc = Теперь с 0% фруктовым соком! 
 
-ent-CMDrinkCanBobdaDiet-name = diet bobda
-ent-CMDrinkCanBobdaDiet-desc = Now with 0% fruit juice! Canned in Havana
+ent-CMDrinkCanBobdaDiet-name = диета Бобда
+ent-CMDrinkCanBobdaDiet-desc = Теперь с 0% фруктовым соком! 
 
-ent-CMDrinkCanBobdaPineapple-name = pineapple bobda
-ent-CMDrinkCanBobdaPineapple-desc = This tastes like battery acid with a full cup of sugar mixed in. Canned in Havana.
+ent-CMDrinkCanBobdaPineapple-name = ананас бобда
+ent-CMDrinkCanBobdaPineapple-desc = По вкусу напоминает аккумуляторную кислоту с добавлением полной чашки сахара. Консервировано в Гаване.
 
-ent-CMDrinkCanBobdaVanilla-name = vanilla bobda
-ent-CMDrinkCanBobdaVanilla-desc = When most soft drinks say 'vanilla,' they really mean their classic flavor with a bit of vanilla added. NOT THE BOBDA CORPORATION, BABY! This bad boy is filled to the brim with 100% pure carbonated vanilla extract! It tastes terrible. Canned in Havana.
+ent-CMDrinkCanBobdaVanilla-name = ваниль бобда
+ent-CMDrinkCanBobdaVanilla-desc = Когда в большинстве безалкогольных напитков говорится «ваниль», они на самом деле имеют в виду их классический вкус с добавлением небольшого количества ванили. 
 
-ent-CMDrinkCanBobdaCranberry-name = cranberry bobda
-ent-CMDrinkCanBobdaCranberry-desc = On closer inspection, the can reads, 'CRAMberry Bobda.' What the Hell is a Cramberry? Canned in Havana.
+ent-CMDrinkCanBobdaCranberry-name = клюквенный бобда
+ent-CMDrinkCanBobdaCranberry-desc = При ближайшем рассмотрении на банке написано: «КРАМБРИ БОБДА». 
 
-ent-CMDrinkCanBobdaPeach-name = peach bobda
-ent-CMDrinkCanBobdaPeach-desc = On one hand, it tastes pretty good. On the other hand, you think you can hear a peach pit rattling on the inside. Canned in Havana.
+ent-CMDrinkCanBobdaPeach-name = персик бобда
+ent-CMDrinkCanBobdaPeach-desc = С одной стороны, это очень вкусно. 
 
-ent-CMDrinkCanBobdaBlue-name = blue raspberry bobda
-ent-CMDrinkCanBobdaBlue-desc = It tastes like the color blue. Technology really is amazing. Canned in Havana.
+ent-CMDrinkCanBobdaBlue-name = синий малиновый бобда
+ent-CMDrinkCanBobdaBlue-desc = По вкусу напоминает синий цвет. 
 
-ent-CMDrinkCanBobdaGrape-name = grape bobda
-ent-CMDrinkCanBobdaGrape-desc = An old standby for soda flavors. This, however, tastes like grape flavored cough syrup. Canned in Havana.
+ent-CMDrinkCanBobdaGrape-name = виноградная бобда
+ent-CMDrinkCanBobdaGrape-desc = Старый вариант вкусов газировки. 
 
-ent-CMDrinkCanBobdaLime-name = lime bobda
-ent-CMDrinkCanBobdaLime-desc = It's not bad. It's not good either, but it's not bad. Canned in Havana.
+ent-CMDrinkCanBobdaLime-name = лайм бобда
+ent-CMDrinkCanBobdaLime-desc = Это неплохо. 
 
-ent-CMDrinkCanBobdaCherry-name = cherry bobda
-ent-CMDrinkCanBobdaCherry-desc = Now with more artificial flavors! Canned in Havana
+ent-CMDrinkCanBobdaCherry-name = вишня бобда
+ent-CMDrinkCanBobdaCherry-desc = Теперь еще больше искусственных ароматизаторов! 
 
-ent-CMDrinkCanBobdaClassic-name = bobda classic
-ent-CMDrinkCanBobdaClassic-desc = The can boldly proclaims it to be tangerine flavored. You can't help but think that's a lie. Canned in Havana.
+ent-CMDrinkCanBobdaClassic-name = бобда классика
+ent-CMDrinkCanBobdaClassic-desc = На банке смело заявлено, что он со вкусом мандарина. 
 
-ent-CMDrinkCanBobda-name = bobda can
-ent-CMDrinkCanBobda-desc = Canned in Havana.
+ent-CMDrinkCanBobda-name = Бобда может
+ent-CMDrinkCanBobda-desc = Консервы в Гаване.
 
-ent-RMCDrinkCanSequoiaBeer-name = Weston-Yamada sequoia beer
-ent-RMCDrinkCanSequoiaBeer-desc = Pretty good when you get past the fact that it tastes like piss. Canned by the Weston-Yamada Corporation.
+ent-RMCDrinkCanSequoiaBeer-name = Пиво из секвойи Weston-Yamada
+ent-RMCDrinkCanSequoiaBeer-desc = Довольно хорошо, если забыть о том, что на вкус это моча. 
 
-ent-RMCBeerPack-name = Sequoia beer pack
-ent-RMCBeerPack-desc = A pack of Sequoia beer cans.
+ent-RMCBeerPack-name = упаковка пива «Секвойя»
+ent-RMCBeerPack-desc = Пачка пивных банок Sequoia.
 
-ent-CMDrinkCanAle-name = We-Ya IPA
-ent-CMDrinkCanAle-desc = Beer's misunderstood cousin. Canned by the Weston-Yamada Corporation.
+ent-CMDrinkCanAle-name = Мы-Я IPA
+ent-CMDrinkCanAle-desc = Непонятый кузен Бира. 
 
-ent-CMDrinkCanBeerLite-name = We-Ya Lite
-ent-CMDrinkCanBeerLite-desc = Beer. You've dialed in your target. Time to fire for effect. Canned by the Weston-Yamada Corporation
+ent-CMDrinkCanBeerLite-name = Мы-Я Лайт
+ent-CMDrinkCanBeerLite-desc = Пиво. 
 
-ent-CMDrinkCanFruitBeer-name = fruit-beer
-ent-CMDrinkCanFruitBeer-desc = In theory, Mango flavored root beer sounds like a pretty good idea. We-Ya has disproved yet another theory with its latest line of cola. Canned by the We-Ya Corporation.
+ent-CMDrinkCanFruitBeer-name = фруктовое пиво
+ent-CMDrinkCanFruitBeer-desc = Теоретически корневое пиво со вкусом манго кажется довольно хорошей идеей. 
 
-ent-CMDrinkCanBodaPlyus-name = boda-plyus
-ent-CMDrinkCanBodaPlyus-desc = State regulated soda beverage, now with added surplus flavoring. Enjoy comrades.
+ent-CMDrinkCanBodaPlyus-name = Бода-плюс
+ent-CMDrinkCanBodaPlyus-desc = Газированный напиток, регулируемый государством, теперь с добавлением избыточного ароматизатора. 
 
-ent-CMDrinkCanBoda-name = boda
-ent-CMDrinkCanBoda-desc = State regulated soda beverage. Enjoy comrades.
+ent-CMDrinkCanBoda-name = Бода
+ent-CMDrinkCanBoda-desc = Газированный напиток, регулируемый государством. 
 
-ent-CMDrinkCanSoda-name = soda water
-ent-CMDrinkCanSoda-desc = A can of soda water. Tap water's more refreshing cousin...according to those Europe-folk.
+ent-CMDrinkCanSoda-name = газированная вода
+ent-CMDrinkCanSoda-desc = Банка газированной воды. 
 
-ent-CMDrinkCanTonic-name = tonic water
-ent-CMDrinkCanTonic-desc = Step One: Tonic. Check. Step Two: Gin.
+ent-CMDrinkCanTonic-name = тонизирующая вода
+ent-CMDrinkCanTonic-desc = Шаг первый: Тоник. 
 
-ent-CMDrinkCanGrape-name = grape juice
-ent-CMDrinkCanGrape-desc = A can of probably not grape juice.
+ent-CMDrinkCanGrape-name = виноградный сок
+ent-CMDrinkCanGrape-desc = Банка, вероятно, не виноградного сока.
 
-ent-CMDrinkCanIcedTea-name = iced tea can
-ent-CMDrinkCanIcedTea-desc = Just like the squad redneck's grandmother used to buy.
+ent-CMDrinkCanIcedTea-name = банка холодного чая
+ent-CMDrinkCanIcedTea-desc = Точно такие, какие покупала бабушка деревенщины из отряда.
 
-ent-CMDrinkCanLemonLime-name = lemon-lime
-ent-CMDrinkCanLemonLime-desc = You wanted ORANGE. It gave you Lemon Lime.
+ent-CMDrinkCanLemonLime-name = лимонно-лаймовый
+ent-CMDrinkCanLemonLime-desc = Вы хотели ОРАНЖЕВЫЙ. 
 
-ent-CMDrinkCanSpaceUp-name = space-up
-ent-CMDrinkCanSpaceUp-desc = Tastes like a hull breach in your mouth.
+ent-CMDrinkCanSpaceUp-name = пространство вверх
+ent-CMDrinkCanSpaceUp-desc = Во рту вкус пробоины корпуса.
 
-ent-CMDrinkCanStarkist-name = star-kist
-ent-CMDrinkCanStarkist-desc = The taste of a star in liquid form. And, a bit of tuna...?
+ent-CMDrinkCanStarkist-name = звездный звездный свет
+ent-CMDrinkCanStarkist-desc = Вкус звезды в жидком виде. 
 
-ent-CMDrinkCanDrGibb-name = dr. gibb
-ent-CMDrinkCanDrGibb-desc = A delicious mixture of 42 different flavors of chemicals that you can't pronounce.
+ent-CMDrinkCanDrGibb-name = доктор 
+ent-CMDrinkCanDrGibb-desc = Восхитительная смесь 42 различных вкусов химикатов, которые невозможно произнести.
 
-ent-CMDrinkCanThirteenLoko-name = thirteen loko
-ent-CMDrinkCanThirteenLoko-desc = Consumption of Thirteen Loko may result in seizures, blindness, drunkenness, or even death. Please Drink Responsibly.
+ent-CMDrinkCanThirteenLoko-name = тринадцать локо
+ent-CMDrinkCanThirteenLoko-desc = Употребление Тринадцати Локо может привести к судорогам, слепоте, опьянению или даже смерти. 
 
-ent-CMDrinkCanMountainWind-name = mountain wind
-ent-CMDrinkCanMountainWind-desc = Blows right through you like a space wind.
+ent-CMDrinkCanMountainWind-name = горный ветер
+ent-CMDrinkCanMountainWind-desc = Дует сквозь тебя, как космический ветер.
 
-ent-CMDrinkCanCola-name = classic cola
-ent-CMDrinkCanCola-desc = A classic cola with a taste that's been around for centuries. Nobody can beat it.
+ent-CMDrinkCanCola-name = классическая кола
+ent-CMDrinkCanCola-desc = Классическая кола со вкусом, который известен уже много веков. 
 
-ent-CMDrinkCanBase-name = item
+ent-CMDrinkCanBase-name = элемент
 

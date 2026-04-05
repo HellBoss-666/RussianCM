@@ -1,5 +1,5 @@
-ent-RMCGuidebookRoleASO-name = Auxiliary Support Officer
+ent-RMCGuidebookRoleASO-name = Вспомогательный офицер поддержки
 
-ent-CMSpawnPointASO-name = auxiliary support officer spawn point
-ent-CMSpawnPointASO-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointASO-name = точка появления офицера вспомогательной поддержки
+ent-CMSpawnPointASO-desc = Создатель заданий RMC14. 
 

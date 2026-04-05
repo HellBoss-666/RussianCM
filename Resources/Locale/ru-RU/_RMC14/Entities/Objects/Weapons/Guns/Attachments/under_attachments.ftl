@@ -1,48 +1,48 @@
-ent-RMCAttachmentLaserLightModule-name = item
+ent-RMCAttachmentLaserLightModule-name = элемент
 
-ent-RMCAttachmentFlashlightGrip-name = item
+ent-RMCAttachmentFlashlightGrip-name = элемент
 
-ent-RMCAttachmentVerticalGrip-name = item
+ent-RMCAttachmentVerticalGrip-name = элемент
 
-ent-RMCAttachmentM203GrenadeLauncher-name = item
+ent-RMCAttachmentM203GrenadeLauncher-name = элемент
 
-ent-RMCAttachmentMK1GrenadeLauncher-name = item
+ent-RMCAttachmentMK1GrenadeLauncher-name = элемент
 
-ent-RMCAttachmentU1GrenadeLauncher-name = item
+ent-RMCAttachmentU1GrenadeLauncher-name = элемент
 
-ent-RMCAttachmentUnderbarrelExtinguisher-name = HME-12 underbarrel extinguisher
-ent-RMCAttachmentUnderbarrelExtinguisher-desc = A Taiho-Technologies HME-12 underbarrel extinguisher. Attaches to the underbarrel of most weapons. Point at flame before applying pressure.
+ent-RMCAttachmentUnderbarrelExtinguisher-name = Подствольный огнетушитель ТМЭ-12
+ent-RMCAttachmentUnderbarrelExtinguisher-desc = Подствольный огнетушитель Taiho-Technologies HME-12. 
 
-ent-RMCAttachmentU7UnderbarrelShotgun-name = item
+ent-RMCAttachmentU7UnderbarrelShotgun-name = элемент
 
-ent-CMAttachmentXMVESG1FlamerNozzle-name = XM-VESG-1 flamer nozzle
-ent-CMAttachmentXMVESG1FlamerNozzle-desc = A special nozzle designed to alter flamethrowers to be used in a more offense orientated manner. As the inside of the nozzle is coated in a special gel and resin substance that takes the fuel that passes through and hardens it. Upon exiting the barrel, a cluster of burning gel is projected instead of a stream of burning naphtha.
+ent-CMAttachmentXMVESG1FlamerNozzle-name = Сопло огнеметное ХМ-ВЕСГ-1
+ent-CMAttachmentXMVESG1FlamerNozzle-desc = Специальное сопло, предназначенное для модификации огнеметов для использования в наступательных целях. 
 
-ent-RMCAttachmentMiniFlamethrower-name = underbarrel flamethrower
-ent-RMCAttachmentMiniFlamethrower-desc = A weapon-mounted refillable flamethrower attachment. It has a secondary setting for a more intense flame with far less propulsion ability and heavy fuel usage.
+ent-RMCAttachmentMiniFlamethrower-name = подствольный огнемет
+ent-RMCAttachmentMiniFlamethrower-desc = Многоразовый огнемет, устанавливаемый на оружие. 
 
-ent-RMCAttachmentLaserSight-name = item
+ent-RMCAttachmentLaserSight-name = элемент
 
-ent-RMCAttachmentGyroscopicStabilizer-name = item
+ent-RMCAttachmentGyroscopicStabilizer-name = элемент
 
-ent-RMCAttachmentBurstFireAssembly-name = item
+ent-RMCAttachmentBurstFireAssembly-name = элемент
 
-ent-RMCAttachmentBipod-name = item
+ent-RMCAttachmentBipod-name = элемент
 
-ent-RMCAttachmentAngledGrip-name = item
+ent-RMCAttachmentAngledGrip-name = элемент
 
-ent-RMCUnderAttachmentBase-name = item
+ent-RMCUnderAttachmentBase-name = элемент
 
-ent-RMCAttachmentMicroLaserSight-name = item
+ent-RMCAttachmentMicroLaserSight-name = элемент
 
-ent-RMCAttachmentUnderbarrelExtinguisherSpec-name = HME-88B underbarrel extinguisher
-ent-RMCAttachmentUnderbarrelExtinguisherSpec-desc = An experimental Taiho-Technologies HME-88B underbarrel extinguisher integrated with a select few gun models. It is capable of putting out the strongest of flames. Point at flame before applying pressure.
+ent-RMCAttachmentUnderbarrelExtinguisherSpec-name = Подствольный огнетушитель ХМЕ-88Б
+ent-RMCAttachmentUnderbarrelExtinguisherSpec-desc = Экспериментальный подствольный огнетушитель Taiho-Technologies HME-88B, интегрированный с некоторыми моделями пистолетов. 
 
-ent-RMCAttachmentL91Bipod-name = item
+ent-RMCAttachmentL91Bipod-name = элемент
 
-ent-RMCAttachmentL90GL-name = item
+ent-RMCAttachmentL90GL-name = элемент
 
-ent-RMCAttachmentL90UBS-name = item
+ent-RMCAttachmentL90UBS-name = элемент
 
-ent-RMCAttachmentL88Grip-name = item
+ent-RMCAttachmentL88Grip-name = элемент
 

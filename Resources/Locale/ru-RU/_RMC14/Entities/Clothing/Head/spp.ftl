@@ -1,54 +1,54 @@
-ent-CMHeadCapSPPUshankaCivilian-name = SPP UL8c ushanka
-ent-CMHeadCapSPPUshankaCivilian-desc = SPP headgear issued to soldiers when they're not expected to face combat, and may be requested by officers and above.
+ent-CMHeadCapSPPUshankaCivilian-name = СПП УЛ8с ушанка
+ent-CMHeadCapSPPUshankaCivilian-desc = Головные уборы SPP выдаются солдатам, когда они не должны участвовать в боевых действиях, и могут быть запрошены офицерами и выше.
 
-ent-CMHeadCapSPPUshanka-name = SPP UL8 ushanka
-ent-CMHeadCapSPPUshanka-desc = SPP headgear issued to soldiers when they're not expected to face combat, and may be requested by officers and above.
+ent-CMHeadCapSPPUshanka-name = СПП УЛ8 ушанка
+ent-CMHeadCapSPPUshanka-desc = Головные уборы SPP выдаются солдатам, когда они не должны участвовать в боевых действиях, и могут быть запрошены офицерами и выше.
 
-ent-CMHeadCapSPPPeakedPolice-name = UL3 PaP peaked cap
-ent-CMHeadCapSPPPeakedPolice-desc = Standard issue peaked cap of the People's Armed Police.
+ent-CMHeadCapSPPPeakedPolice-name = фуражка UL3 PaP
+ent-CMHeadCapSPPPeakedPolice-desc = Стандартная фуражка Народной вооруженной полиции.
 
-ent-CMHeadCapSPPPeaked-name = SPP UL3 peaked cap
-ent-CMHeadCapSPPPeaked-desc = SPP headgear issued to Kapitans and above. It is made of high-quality materials, and has the officers rank in gold placed upon the front of the cap.
+ent-CMHeadCapSPPPeaked-name = Кепка SPP UL3
+ent-CMHeadCapSPPPeaked-desc = Головной убор SPP выдается капитанам и выше. 
 
-ent-RMCHeadCapSPPBeretArmy-name = SPP reservist beret
-ent-RMCHeadCapSPPBeretArmy-desc = A well-made beret worn by reservists of the SPP armed forces. It signifies their continued commitment to the cause, even while not on active duty, and serves as a symbol of unity and service.
+ent-RMCHeadCapSPPBeretArmy-name = Берет резервиста СПП
+ent-RMCHeadCapSPPBeretArmy-desc = Добротный берет, который носят резервисты вооруженных сил СПП. 
 
-ent-CMHeadCapSPPBeret-name = UL3 SPP beret
-ent-CMHeadCapSPPBeret-desc = SPP headgear issued to soldiers when they're not expected to face combat, and may be requested by officers and above.
+ent-CMHeadCapSPPBeret-name = Берет УЛ3 СПП
+ent-CMHeadCapSPPBeret-desc = Головные уборы SPP выдаются солдатам, когда они не должны участвовать в боевых действиях, и могут быть запрошены офицерами и выше.
 
-ent-RMCHeadCapSPPCivilianPlantWorker-name = white worker cap
-ent-RMCHeadCapSPPCivilianPlantWorker-desc = A simple white fabric cap, commonly worn by various SPP workers to keep hair contained and maintain cleanliness. Lightweight and practical, but not very durable.
+ent-RMCHeadCapSPPCivilianPlantWorker-name = белая рабочая кепка
+ent-RMCHeadCapSPPCivilianPlantWorker-desc = Простая белая тканевая кепка, которую обычно носят различные работники СЭС, чтобы держать волосы под контролем и поддерживать чистоту. 
 
-ent-CMHeadCapSPPCivilian-name = SPP UL2 civilian cap
-ent-CMHeadCapSPPCivilian-desc = SPP civilian headgear. It's of poor quality, and isn't expected to last all that long, however for as long as it's whole, it appears quite stylish.
+ent-CMHeadCapSPPCivilian-name = Кепка гражданская SPP UL2
+ent-CMHeadCapSPPCivilian-desc = Гражданский головной убор СПП. 
 
-ent-CMHeadCapSPP-name = UL2 cap
-ent-CMHeadCapSPP-desc = SPP headgear issued to soldiers when they're not expected to face combat, and may be requested by officers and above.
+ent-CMHeadCapSPP-name = крышка UL2
+ent-CMHeadCapSPP-desc = Головные уборы SPP выдаются солдатам, когда они не должны участвовать в боевых действиях, и могут быть запрошены офицерами и выше.
 
-ent-RMCArmorHelmetSPPFirefighter-name = T-20 firefighter helmet
-ent-RMCArmorHelmetSPPFirefighter-desc = A reinforced, heat-resistant helmet issued to SPP emergency responders. Its durable composite shell provides protection against falling debris and extreme heat, while the attached fire-resistant shroud shields the wearer’s neck and shoulders. A red star is emblazoned on the front, marking its service within the socialist's progressive peoples.
+ent-RMCArmorHelmetSPPFirefighter-name = Т-20 пожарный Шлем
+ent-RMCArmorHelmetSPPFirefighter-desc = Шлем усиленный термостойкий, выданный аварийно-спасательным работникам СЭС. 
 
-ent-RMCArmorHelmetSPPArmy-name = 6B82 combat helmet
-ent-RMCArmorHelmetSPPArmy-desc = An older version of the SPP Army's 6B92 combat helmet, still worn by certain units on planets the SPP deems less important.
+ent-RMCArmorHelmetSPPArmy-name = 6Б82 боевой Шлем
+ent-RMCArmorHelmetSPPArmy-desc = Старая версия армейского боевого шлема 6Б92 СПП, которую до сих пор носят некоторые подразделения на планетах, которые СПП считает менее важными.
 
-ent-ArmorHelmetSPPHeavy-name = SPP UH7 helmet
-ent-ArmorHelmetSPPHeavy-desc = Like the UM4, this helmet is very resistant to ballistic damage, but both its flaws and benefits have been doubled. The few SPP Zhergeants that have lived past age 30 have all needed to retire from terminal neck problems caused from the stress of wearing this helmet.
+ent-ArmorHelmetSPPHeavy-name = СПП UH7 Шлем
+ent-ArmorHelmetSPPHeavy-desc = Как и UM4, этот Шлем очень устойчив к баллистическим повреждениям, однако его недостатки и преимущества увеличены вдвое. 
 
-ent-ArmorHelmetSPPEngineer-name = SPP UM4-V helmet
-ent-ArmorHelmetSPPEngineer-desc = This version of the UM4 helmet has a ballistic-glass visor, allowing for the SPP Engineers to safely weld, but by some reports hindering sight in the process.
+ent-ArmorHelmetSPPEngineer-name = СПП УМ4-В Шлем
+ent-ArmorHelmetSPPEngineer-desc = Эта версия UM4 Шлема имеет козырек из баллистического стекла, позволяющий инженерам СПП безопасно выполнять сварку, но, по некоторым сообщениям, затрудняющий обзор в процессе.
 
-ent-ArmorHelmetSPP-name = SPP UM4 helmet
-ent-ArmorHelmetSPP-desc = Using highly skilled manufacturing techniques this UM4 helmet manages to be very resistant to ballistics damage, at the cost of its huge weight causing an extreme stress on the occupant's head that will most likely cause neck problems.
+ent-ArmorHelmetSPP-name = СПП UM4 Шлем
+ent-ArmorHelmetSPP-desc = Используя высококвалифицированные технологии производства, этот шлем UM4 может быть очень устойчив к баллистическим повреждениям за счет своего огромного веса, вызывающего чрезвычайную нагрузку на голову пассажира, что, скорее всего, приведет к проблемам с шеей.
 
-ent-RMCArmorHelmetSPPSOF-name = CCC5-L composite helmet
-ent-RMCArmorHelmetSPPSOF-desc = A SPP-manufactured combat helmet with a distinctive spherical design. Made from a reinforced polymer composite, it offers ballistic protection while incorporating an integrated HUD, encrypted comms, and a rebreather system. Its limited visor visibility is a tradeoff for enhanced durability.
+ent-RMCArmorHelmetSPPSOF-name = CCC5-L композитный шлем
+ent-RMCArmorHelmetSPPSOF-desc = Боевой шлем производства СПП с характерной сферической конструкцией. 
 
-ent-RMCHeadCapSPPPolKomWhite-name = SPP  UL5 C-1 peaked cap
-ent-RMCHeadCapSPPPolKomWhite-desc = SPP headgear issued to high ranking officers in the navy or Marine Infantry corps.
+ent-RMCHeadCapSPPPolKomWhite-name = Кепка СПП UL5 C-1
+ent-RMCHeadCapSPPPolKomWhite-desc = Головной убор СПП, выдаваемый высокопоставленным офицерам ВМФ или пехотного корпуса Морпеха.
 
-ent-RMCHeadCapSPPPolBlack-name = SPP  UL5 P-1 peaked cap
-ent-RMCHeadCapSPPPolBlack-desc = SPP headgear issued to political Kommisars of all types. Reminds you of october.
+ent-RMCHeadCapSPPPolBlack-name = Кепка СПП УЛ5 П-1
+ent-RMCHeadCapSPPPolBlack-desc = Головные уборы СПП выдаются политическим комиссарам всех категорий. 
 
-ent-RMCHeadCapSPPSOF-name = SOF beret
-ent-RMCHeadCapSPPSOF-desc = A finely crafted beret worn by members of the SPP Space Operations Forces. It signifies service in the void, from deep-space missions to planetary operations, and is a mark of discipline and camaraderie among its wearers.
+ent-RMCHeadCapSPPSOF-name = берет ССО
+ent-RMCHeadCapSPPSOF-desc = Берет искусной работы, который носят военнослужащие Сил космических операций СПП. 
 

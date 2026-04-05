@@ -1,33 +1,33 @@
-ent-CMVendorBlood-name = MM Blood Dispenser
-ent-CMVendorBlood-desc = The Marine Med Brand Blood Pack Dispensary is the premier, top-of-the-line blood dispenser of 2105! Get yours today!
+ent-CMVendorBlood-name = Дозатор крови ММ
+ent-CMVendorBlood-desc = Фирменный диспансер «Морпех Мед» — это лучший и лучший в мире диспансер 2105 года! 
 
-ent-RMCBobdaMed-name = BobdaMed
-ent-RMCBobdaMed-desc = In Bobdaland (Trademark pending), one is never more than 6ft away from canned Havana goodness. Drink a Bobda today! For a full selection of Bobda products please visit a licensed retailer or vending machine. Also doubles as basic first aid station.
+ent-RMCBobdaMed-name = БобдаМед
+ent-RMCBobdaMed-desc = В Бобдалэнде (ожидается регистрация товарного знака) человек никогда не находится на расстоянии более 6 футов от консервированного гаванского добра. 
 
-ent-RMCNanoMed-name = NanoMed
-ent-RMCNanoMed-desc = A wall-mounted medical equipment dispenser.
+ent-RMCNanoMed-name = НаноМед
+ent-RMCNanoMed-desc = Диспенсер для медицинского оборудования настенный.
 
-ent-ColMarTechMarineMedical-name = ColMarTech MarineMed
-ent-ColMarTechMarineMedical-desc = Medical Pharmaceutical dispenser with basic medical supplies for marines.
+ent-ColMarTechMarineMedical-name = КолМарТек МаринМед
+ent-ColMarTechMarineMedical-desc = Медицинский фармацевтический дозатор с основными медикаментами для морской пехоты.
 
-ent-CMVendorChemistry-name = We-Ya-Chem Plus
-ent-CMVendorChemistry-desc = Medical chemistry dispenser. Provided by We-Ya Pharmaceuticals Division(TM).
+ent-CMVendorChemistry-name = Ви-Я-Чем Плюс
+ent-CMVendorChemistry-desc = Дозатор медицинской химии. 
 
-ent-CMVendorMedicalAllAccess-name = We-Ya-Med Plus
-ent-CMVendorMedicalAllAccess-desc = Medical pharmaceutical dispenser. Provided by We-Ya Pharmaceuticals Division(TM).
+ent-CMVendorMedicalAllAccess-name = Ве-Я-Мед Плюс
+ent-CMVendorMedicalAllAccess-desc = Медицинский фармацевтический дозатор. 
 
-ent-CMMedilinkSupplyPort-name = medilink supply port
-ent-CMMedilinkSupplyPort-desc = A complex network of pipes and machinery, linking to large storage systems below the deck. Medical vendors linked to this port will be able to infinitely restock supplies.
+ent-CMMedilinkSupplyPort-name = порт питания Medilink
+ent-CMMedilinkSupplyPort-desc = Сложная сеть труб и механизмов, соединяющаяся с большими системами хранения под палубой. 
 
-ent-CMVendorMedical-name = We-Ya-Med Plus
-ent-CMVendorMedical-desc = Medical pharmaceutical dispenser. Provided by We-Ya Pharmaceuticals Division(TM).
+ent-CMVendorMedical-name = Ве-Я-Мед Плюс
+ent-CMVendorMedical-desc = Медицинский фармацевтический дозатор. 
 
-ent-RMCVendorMedicalPVE-name = We-Ya-Med Plus
-ent-RMCVendorMedicalPVE-desc = Medical pharmaceutical dispenser. Provided by We-Ya Pharmaceuticals Division(TM).
+ent-RMCVendorMedicalPVE-name = Ве-Я-Мед Плюс
+ent-RMCVendorMedicalPVE-desc = Медицинский фармацевтический дозатор. 
 
-ent-ColMarTechMarineMedicalPowered-name = ColMarTech MarineMed
-ent-ColMarTechMarineMedicalPowered-desc = Medical Pharmaceutical dispenser with basic medical supplies for marines.
+ent-ColMarTechMarineMedicalPowered-name = КолМарТек МаринМед
+ent-ColMarTechMarineMedicalPowered-desc = Медицинский фармацевтический дозатор с основными медикаментами для морской пехоты.
 
-ent-RMCNanoMedLimited-name = NanoMed
-ent-RMCNanoMedLimited-desc = A wall-mounted medical equipment dispenser. This version is more limited than standard UNMC NanoMeds.
+ent-RMCNanoMedLimited-name = НаноМед
+ent-RMCNanoMedLimited-desc = Диспенсер для медицинского оборудования настенный. 
 

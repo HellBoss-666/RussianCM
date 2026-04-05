@@ -1,6 +1,6 @@
-ent-RMCConcreteStatue-name = concrete statue
-ent-RMCConcreteStatue-desc = A decorative statue with the Weston-Yamada 'Wings' adorned on it, A corporate brutalist piece of art.
+ent-RMCConcreteStatue-name = бетонная статуя
+ent-RMCConcreteStatue-desc = Декоративная статуя с украшенными «Крыльями» Уэстон-Ямада — корпоративное бруталистическое произведение искусства.
 
-ent-RMCConcreteStatueOffset-name = concrete statue
-ent-RMCConcreteStatueOffset-desc = A decorative statue with the Weston-Yamada 'Wings' adorned on it, A corporate brutalist piece of art.
+ent-RMCConcreteStatueOffset-name = бетонная статуя
+ent-RMCConcreteStatueOffset-desc = Декоративная статуя с украшенными «Крыльями» Уэстон-Ямада — корпоративное бруталистическое произведение искусства.
 

@@ -1,63 +1,63 @@
-ent-RMCCrateAttachmentSmgStock-name = submachinegun solid stock attachment crate (x4)
-ent-RMCCrateAttachmentSmgStock-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentSmgStock-name = Ящик крепления твердого приклада пистолета-пулемета (4 шт.)
+ent-RMCCrateAttachmentSmgStock-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentShotgunStock-name = shotgun stock attachment crate (x4)
-ent-RMCCrateAttachmentShotgunStock-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentShotgunStock-name = Ящик крепления приклада дробовика (x4)
+ent-RMCCrateAttachmentShotgunStock-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentRifleStock-name = rifle stock attachment crate (x4)
-ent-RMCCrateAttachmentRifleStock-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentRifleStock-name = Ящик крепления приклада винтовки (x4)
+ent-RMCCrateAttachmentRifleStock-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentRevolverStock-name = revolver stock attachment crate (x4)
-ent-RMCCrateAttachmentRevolverStock-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentRevolverStock-name = Ящик крепления приклада револьвера (4 шт.)
+ent-RMCCrateAttachmentRevolverStock-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentAllStocks-name = stock attachments crate (x3 each, x1 paratroopers)
-ent-RMCCrateAttachmentAllStocks-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentAllStocks-name = Ящик с навесным оборудованием (по 3 штуки, 1 десантник)
+ent-RMCCrateAttachmentAllStocks-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentBurstfire-name = burstfire assembly attachment crate (x2)
-ent-RMCCrateAttachmentBurstfire-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentBurstfire-name = Ящик крепления сборки очередного огня (x2)
+ent-RMCCrateAttachmentBurstfire-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentUnderbarrelFlamer-name = underbarrel flamer attachment crate (x4)
-ent-RMCCrateAttachmentUnderbarrelFlamer-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentUnderbarrelFlamer-name = Ящик крепления подствольного огнемета (x4)
+ent-RMCCrateAttachmentUnderbarrelFlamer-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentUnderbarrelExtinguisher-name = underbarrel extinguisher attachment crate (x4)
-ent-RMCCrateAttachmentUnderbarrelExtinguisher-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentUnderbarrelExtinguisher-name = Ящик крепления подствольного огнетушителя (4 шт.)
+ent-RMCCrateAttachmentUnderbarrelExtinguisher-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentUnderbarrelShotgun-name = underbarrel shotgun attachment crate (x4)
-ent-RMCCrateAttachmentUnderbarrelShotgun-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentUnderbarrelShotgun-name = Ящик крепления подствольного ружья (4 шт.)
+ent-RMCCrateAttachmentUnderbarrelShotgun-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentBipod-name = bipod attachment crate (x6)
-ent-RMCCrateAttachmentBipod-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentBipod-name = ящик крепления сошек (x6)
+ent-RMCCrateAttachmentBipod-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentGyro-name = gyroscopic stabilizer attachment crate (x2)
-ent-RMCCrateAttachmentGyro-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentGyro-name = Ящик крепления гироскопического стабилизатора (x2)
+ent-RMCCrateAttachmentGyro-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentForegrip-name = foregrip attachment crate (x8)
-ent-RMCCrateAttachmentForegrip-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentForegrip-name = ящик крепления цевья (x8)
+ent-RMCCrateAttachmentForegrip-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentCompensator-name = compensator attachment crate (x6)
-ent-RMCCrateAttachmentCompensator-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentCompensator-name = ящик крепления компенсатора (x6)
+ent-RMCCrateAttachmentCompensator-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentExtendedBarrel-name = extended barrel attachment crate (x6)
-ent-RMCCrateAttachmentExtendedBarrel-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentExtendedBarrel-name = расширенный ящик крепления ствола (x6)
+ent-RMCCrateAttachmentExtendedBarrel-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentSuppressor-name = suppressor attachment crate (x8)
-ent-RMCCrateAttachmentSuppressor-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentSuppressor-name = ящик крепления глушителя (x8)
+ent-RMCCrateAttachmentSuppressor-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentMagneticHarness-name = magnetic harness attachment crate (x6)
-ent-RMCCrateAttachmentMagneticHarness-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentMagneticHarness-name = магнитный ящик крепления ремня безопасности (x6)
+ent-RMCCrateAttachmentMagneticHarness-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentMiniScope-name = mini railscope attachment crate (x2)
-ent-RMCCrateAttachmentMiniScope-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentMiniScope-name = Ящик крепления мини-рейлскопа (2 шт.)
+ent-RMCCrateAttachmentMiniScope-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentTelescopicScope-name = railscope attachment crate (x2)
-ent-RMCCrateAttachmentTelescopicScope-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentTelescopicScope-name = ящик крепления рельсового телескопа (x2)
+ent-RMCCrateAttachmentTelescopicScope-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentRailFlashlight-name = rail flashlight crate (x8)
-ent-RMCCrateAttachmentRailFlashlight-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentRailFlashlight-name = ящик фонарей на рельсах (x8)
+ent-RMCCrateAttachmentRailFlashlight-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentSmartScope-name = B8 smart-scope attachment crate (x4)
-ent-RMCCrateAttachmentSmartScope-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentSmartScope-name = Ящик крепления интеллектуального прицела B8 (4 шт.)
+ent-RMCCrateAttachmentSmartScope-desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateAttachmentRedDot-name = red-dot sight attachment crate (x8)
-ent-RMCCrateAttachmentRedDot-desc = A rectangular metal crate.
+ent-RMCCrateAttachmentRedDot-name = Ящик крепления коллиматорного прицела (x8)
+ent-RMCCrateAttachmentRedDot-desc = Металлический ящик прямоугольной формы.
 

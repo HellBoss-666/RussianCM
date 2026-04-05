@@ -1,3 +1,3 @@
-ent-ColMarTechEquipment-name = ColMarTech automated marine equipment rack
-ent-ColMarTechEquipment-desc = An automated rack hooked up to a colossal storage of Marine Rifleman standard-issue equipment.
+ent-ColMarTechEquipment-name = ColMarTech автоматизированный стеллаж для оборудования Морпех
+ent-ColMarTechEquipment-desc = Автоматизированный стеллаж, подключенный к огромному складу стандартного снаряжения «Морпех-Стрелок».
 

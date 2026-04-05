@@ -1,12 +1,12 @@
-ent-RMCMapInsertSolarisPlinkingSpotNorthLZ-name = Plinking Spot North LZ
+ent-RMCMapInsertSolarisPlinkingSpotNorthLZ-name = Плинкинг-Спот, Северная зона LZ
 
-ent-RMCMapInsertKutjevoTrappedMonke-name = Trapped Clown
+ent-RMCMapInsertKutjevoTrappedMonke-name = Клоун в ловушке
 
-ent-RMCMapInsertKutjevoCleaningProgBotany-name = Cleaning Botany
+ent-RMCMapInsertKutjevoCleaningProgBotany-name = Очистка Ботаника
 
-ent-RMCMapInsertKutjevoCommunications-name = SE Checkpoint
+ent-RMCMapInsertKutjevoCommunications-name = ЮВ КПП
 
-ent-RMCMapInsertKutjevoCLFSmugglers-name = CLF Smugglers
+ent-RMCMapInsertKutjevoCLFSmugglers-name = Контрабандисты CLF
 
-ent-RMCMapInsertKutjevoLZ1Alternative-name = LZ1 Alternative
+ent-RMCMapInsertKutjevoLZ1Alternative-name = Альтернатива LZ1
 

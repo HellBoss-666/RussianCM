@@ -1,8 +1,8 @@
-ent-CMDoubleDoorPreparationsAlphaLocked-name = door
+ent-CMDoubleDoorPreparationsAlphaLocked-name = дверь
 
-ent-CMDoublCMDoubleDoorPreparationsBravoLocked-name = door
+ent-CMDoublCMDoubleDoorPreparationsBravoLocked-name = дверь
 
-ent-CMDoubleDoorPreparationsCharlieLocked-name = door
+ent-CMDoubleDoorPreparationsCharlieLocked-name = дверь
 
-ent-CMDoublCMDoubleDoorPreparationsDeltaLocked-name = door
+ent-CMDoublCMDoubleDoorPreparationsDeltaLocked-name = дверь
 

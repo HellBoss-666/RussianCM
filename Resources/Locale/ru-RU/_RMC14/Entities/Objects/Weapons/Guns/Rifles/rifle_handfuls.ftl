@@ -1,3 +1,3 @@
-ent-RMCCartridge458SOCOM-name = handful of shotgun shell
-ent-RMCCartridge458SOCOM-desc = A handful of rounds to reload on the go.
+ent-RMCCartridge458SOCOM-name = горсть патронов для дробовика
+ent-RMCCartridge458SOCOM-desc = Несколько патронов, которые можно перезарядить на ходу.
 

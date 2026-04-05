@@ -1,3 +1,3 @@
-ent-CMSpawnPointForeconCommander-name = FORECON Commander spawn point
-ent-CMSpawnPointForeconCommander-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointForeconCommander-name = Точка появления FORECON Commander
+ent-CMSpawnPointForeconCommander-desc = Создатель заданий RMC14. 
 

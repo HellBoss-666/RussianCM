@@ -1,21 +1,21 @@
-ent-RMCCoagulationArm-name = coagulation arm
-ent-RMCCoagulationArm-desc = An axel with four sides, made to spin to help filter the water.
+ent-RMCCoagulationArm-name = коагуляционный рычаг
+ent-RMCCoagulationArm-desc = Аксель с четырьмя сторонами, вращающийся для фильтрации воды.
 
-ent-RMCFiltrationSedimentation-name = sedimentation filter
-ent-RMCFiltrationSedimentation-desc = A water filter specifically designed to capture and remove sediment, such as sand, silt, dirt, and rust, from water without removing the nutritious minerals for that crisp, clean taste every time.
+ent-RMCFiltrationSedimentation-name = осадочный фильтр
+ent-RMCFiltrationSedimentation-desc = Фильтр для воды, специально разработанный для улавливания и удаления осадка, такого как песок, ил, грязь и ржавчина, из воды, не удаляя при этом питательные минералы, каждый раз обеспечивая свежий и чистый вкус.
 
-ent-RMCFiltrationDistribution-name = waste distribution system
-ent-RMCFiltrationDistribution-desc = This machine separates the leftover waste from the purification processes to be discarded into space, recycled for supplies, or used for research.
+ent-RMCFiltrationDistribution-name = система распределения отходов
+ent-RMCFiltrationDistribution-desc = Эта машина отделяет остатки процессов очистки, которые затем выбрасываются в космос, перерабатываются для производства расходных материалов или используются для исследований.
 
-ent-RMCFiltrationDisinfection-name = disinfection filter
-ent-RMCFiltrationDisinfection-desc = A water filter specifically designed to separate micro-organisms, such as viruses and bacteria, from water.
+ent-RMCFiltrationDisinfection-name = дезинфекционный фильтр
+ent-RMCFiltrationDisinfection-desc = Фильтр для воды, специально разработанный для отделения микроорганизмов, таких как вирусы и бактерии, из воды.
 
-ent-RMCFiltration-name = water filtration system
-ent-RMCFiltration-desc = A water filter that separates both organic and inorganic matter, hazardous waste, and corrosive acids from water so it may be further processed.
+ent-RMCFiltration-name = система фильтрации воды
+ent-RMCFiltration-desc = Фильтр для воды, который отделяет из воды как органические, так и неорганические вещества, опасные отходы и едкие кислоты для дальнейшей обработки.
 
-ent-RMCFiltrationDistributionDamaged-name = waste distribution system
-ent-RMCFiltrationDistributionDamaged-desc = This machine separates the leftover waste from the purification processes to be discarded into space, recycled for supplies, or used for research.
+ent-RMCFiltrationDistributionDamaged-name = система распределения отходов
+ent-RMCFiltrationDistributionDamaged-desc = Эта машина отделяет остатки процессов очистки, которые затем выбрасываются в космос, перерабатываются для производства расходных материалов или используются для исследований.
 
-ent-RMCFiltrationSedimentationAlt-name = sedimentation filter
-ent-RMCFiltrationSedimentationAlt-desc = A water filter specifically designed to capture and remove sediment, such as sand, silt, dirt, and rust, from water without removing the nutritious minerals for that crisp, clean taste every time.
+ent-RMCFiltrationSedimentationAlt-name = осадочный фильтр
+ent-RMCFiltrationSedimentationAlt-desc = Фильтр для воды, специально разработанный для улавливания и удаления осадка, такого как песок, ил, грязь и ржавчина, из воды, не удаляя при этом питательные минералы, каждый раз обеспечивая свежий и чистый вкус.
 

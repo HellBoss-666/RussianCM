@@ -1,6 +1,6 @@
-ent-RMCZipties-name = zipties
-ent-RMCZipties-desc = Tough single-use plastic zipties, ideal for restraining rowdy prisoners.
+ent-RMCZipties-name = молнии
+ent-RMCZipties-desc = Прочные одноразовые пластиковые застежки-молнии, идеально подходящие для удержания буйных заключенных.
 
-ent-RMCHandcuffs-name = handcuffs
-ent-RMCHandcuffs-desc = Use this to keep prisoners in line.
+ent-RMCHandcuffs-name = наручники
+ent-RMCHandcuffs-desc = Используйте это, чтобы держать заключенных в узде.
 

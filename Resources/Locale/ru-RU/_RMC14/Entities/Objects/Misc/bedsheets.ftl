@@ -1,42 +1,42 @@
-ent-CMBedsheetBase-name = bedsheet
-ent-CMBedsheetBase-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetBase-name = простыня
+ent-CMBedsheetBase-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetBlue-name = bedsheet
-ent-CMBedsheetBlue-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetBlue-name = простыня
+ent-CMBedsheetBlue-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetGreen-name = bedsheet
-ent-CMBedsheetGreen-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetGreen-name = простыня
+ent-CMBedsheetGreen-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetOrange-name = bedsheet
-ent-CMBedsheetOrange-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetOrange-name = простыня
+ent-CMBedsheetOrange-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetPurple-name = bedsheet
-ent-CMBedsheetPurple-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetPurple-name = простыня
+ent-CMBedsheetPurple-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetWhite-name = bedsheet
-ent-CMBedsheetWhite-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetWhite-name = простыня
+ent-CMBedsheetWhite-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetRed-name = bedsheet
-ent-CMBedsheetRed-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetRed-name = простыня
+ent-CMBedsheetRed-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetYellow-name = bedsheet
-ent-CMBedsheetYellow-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetYellow-name = простыня
+ent-CMBedsheetYellow-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetGrayOrange-name = bedsheet
-ent-CMBedsheetGrayOrange-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetGrayOrange-name = простыня
+ent-CMBedsheetGrayOrange-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetMedical-name = bedsheet
-ent-CMBedsheetMedical-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetMedical-name = простыня
+ent-CMBedsheetMedical-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetOrangeFull-name = bedsheet
-ent-CMBedsheetOrangeFull-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetOrangeFull-name = простыня
+ent-CMBedsheetOrangeFull-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetGray-name = bedsheet
-ent-CMBedsheetGray-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetGray-name = простыня
+ent-CMBedsheetGray-desc = Удивительно мягкая льняная простыня.
 
-ent-CMBedsheetBrown-name = bedsheet
-ent-CMBedsheetBrown-desc = A surprisingly soft linen bedsheet.
+ent-CMBedsheetBrown-name = простыня
+ent-CMBedsheetBrown-desc = Удивительно мягкая льняная простыня.
 
-ent-RMCBedsheetSoro-name = bedsheet
-ent-RMCBedsheetSoro-desc = A surprisingly soft linen bedsheet.
+ent-RMCBedsheetSoro-name = простыня
+ent-RMCBedsheetSoro-desc = Удивительно мягкая льняная простыня.
 
