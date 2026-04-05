@@ -1,42 +1,25 @@
-ent-RMCCondimentHotsauceTabasco = Бутылка табаско
-  .desc = Бутылка острого соуса Табаско марки Weston-Yamada.
-
-ent-RMCCondimentHotsauceSriracha = Бутылка Шрирача
-  .desc = Бутылка острого соуса Шрирача марки Weston-Yamada.
-
-ent-RMCCondimentHotsauceFranks = красная горячая бутылка
-  .desc = Бутылка острого соуса Red Hot марки Weston-Yamada.
-
-ent-RMCCondimentHotsauceCholula = Бутылка Чолулы
-  .desc = Бутылка острого соуса Cholula марки Weston-Yamada.
-
-ent-RMCCondimentSmallPepper = мельница для перца
-  .desc = Часто используется для придания вкуса еде или для того, чтобы заставить людей чихнуть.
-
+ent-RMCCondimentHotsauceTabasco = бутылка Табаско
+  .desc = Бутылка острого соуса Табаско от бренда «Вестон-Ямада».
+ent-RMCCondimentHotsauceSriracha = бутылка Срирача
+  .desc = Бутылка острого соуса Срирача от бренда «Вестон-Ямада».
+ent-RMCCondimentHotsauceFranks = бутылка Ред Хот
+  .desc = Бутылка острого соуса Ред Хот от бренда «Вестон-Ямада».
+ent-RMCCondimentHotsauceCholula = бутылка Чолула
+  .desc = Бутылка острого соуса Чолула от бренда «Вестон-Ямада».
+ent-RMCCondimentSmallPepper = перечница
+  .desc = Часто используется для придания вкуса еде или чтобы заставить людей чихать.
 ent-RMCCondimentSmallSalt = солонка
-  .desc = Соль. 
-
+  .desc = Соль. Предположительно, из космических океанов.
 ent-RMCCondimentCornOil = кукурузное масло
-  .desc = Вкусное масло, используемое в кулинарии. 
-
+  .desc = Вкусное масло, используемое в кулинарии. Изготовлено из кукурузы.
 ent-RMCCondimentSoysauce = соевый соус
-  .desc = Соленый ароматизатор на основе сои.
-
+  .desc = Соленая приправа на основе сои.
 ent-RMCCondimentKetchup = кетчуп
   .desc = Вы уже чувствуете себя более американцем.
-
 ent-RMCCondimentSugar = сахар
   .desc = Вкусный космический сахар!
-
 ent-RMCCondimentEnzyme = универсальный фермент
-  .desc = Используется при приготовлении различных блюд.
-
-ent-RMCCondimentHotsauce = Родительский объект горячего соуса
-  .desc = Просто обычный контейнер для приправ.
-
-ent-RMCCondiment = контейнер для приправ
-  .desc = Просто обычный контейнер для приправ.
-
-ent-RMCCondimentSmall = контейнер для приправ
-  .desc = Просто обычный контейнер для приправ.
-
+  .desc = Используется в приготовлении различных блюд.
+ent-RMCCondimentHotsauce = родительский объект острого соуса
+ent-RMCCondiment = контейнер с приправой
+  .desc = Обычный контейнер для приправ.

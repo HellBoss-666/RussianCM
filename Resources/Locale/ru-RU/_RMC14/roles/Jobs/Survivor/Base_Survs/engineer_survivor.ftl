@@ -3,5 +3,5 @@ ent-RMCRandomHumanoidSurvivorEngineer = роль призрака инженер
 ent-RMCSurvivorPresetEngineer = пресет инженера-колониста
 
 ent-RMCSpawnPointSurvivorEngineer = точка появления выжившего инженера
-  .desc = Создатель заданий RMC14. 
+ 
 

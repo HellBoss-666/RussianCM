@@ -1,12 +1,2 @@
-ent-RMCFuelCan = топливо может
-  .desc = Канистра. 
-
-ent-RMCFuelCan2 = топливо может
-  .desc = Канистра. 
-
-ent-RMCFuelCan3 = топливо может
-  .desc = Канистра. 
-
-ent-RMCFuelCan4 = топливо может
-  .desc = Канистра. 
-
+ent-RMCFuelCan = канистра с топливом
+  .desc = Канистра. В космосе! Или, может быть, в колонии.

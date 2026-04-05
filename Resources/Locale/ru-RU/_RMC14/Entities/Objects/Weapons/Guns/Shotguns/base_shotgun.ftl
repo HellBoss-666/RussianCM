@@ -1,7 +1,2 @@
-ent-CMShellShotgunBase = горсть патронов для дробовика
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-RMCBaseWeaponShotgun = элемент
-
-ent-RMCBaseBreechloader = элемент
-
+ent-CMShellShotgunBase = пригоршня патронов для дробовика
+  .desc = Несколько патронов для перезарядки на ходу.

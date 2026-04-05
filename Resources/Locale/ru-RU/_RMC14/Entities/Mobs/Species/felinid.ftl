@@ -1,2 +1,1 @@
-ent-CMMobFelinid = Урист МакФелинид
-
+ent-CMMobFelinid = ересь

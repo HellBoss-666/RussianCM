@@ -1,63 +1,21 @@
-ent-RMCCrateAttachmentSmgStock = Ящик крепления твердого приклада пистолета-пулемета (4 шт.)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentShotgunStock = Ящик крепления приклада дробовика (x4)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentRifleStock = Ящик крепления приклада винтовки (x4)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentRevolverStock = Ящик крепления приклада револьвера (4 шт.)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentAllStocks = Ящик с навесным оборудованием (по 3 штуки, 1 десантник)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentBurstfire = Ящик крепления сборки очередного огня (x2)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentUnderbarrelFlamer = Ящик крепления подствольного огнемета (x4)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentUnderbarrelExtinguisher = Ящик крепления подствольного огнетушителя (4 шт.)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentUnderbarrelShotgun = Ящик крепления подствольного ружья (4 шт.)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentBipod = ящик крепления сошек (x6)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentGyro = Ящик крепления гироскопического стабилизатора (x2)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentForegrip = ящик крепления цевья (x8)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentCompensator = ящик крепления компенсатора (x6)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentExtendedBarrel = расширенный ящик крепления ствола (x6)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentSuppressor = ящик крепления глушителя (x8)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentMagneticHarness = магнитный ящик крепления ремня безопасности (x6)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentMiniScope = Ящик крепления мини-рейлскопа (2 шт.)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentTelescopicScope = ящик крепления рельсового телескопа (x2)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentRailFlashlight = ящик фонарей на рельсах (x8)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentSmartScope = Ящик крепления интеллектуального прицела B8 (4 шт.)
-  .desc = Металлический ящик прямоугольной формы.
-
-ent-RMCCrateAttachmentRedDot = Ящик крепления коллиматорного прицела (x8)
-  .desc = Металлический ящик прямоугольной формы.
-
+ent-RMCCrateAttachmentSmgStock = ящик прикладов для ПП (x4)
+ent-RMCCrateAttachmentShotgunStock = ящик прикладов для дробовиков (x4)
+ent-RMCCrateAttachmentRifleStock = ящик прикладов для винтовок (x4)
+ent-RMCCrateAttachmentRevolverStock = ящик прикладов для револьверов (x4)
+ent-RMCCrateAttachmentAllStocks = ящик прикладов (x3 каждого, x1 десантный)
+ent-RMCCrateAttachmentBurstfire = ящик модулей очереди (x2)
+ent-RMCCrateAttachmentUnderbarrelFlamer = ящик подствольных огнеметов (x4)
+ent-RMCCrateAttachmentUnderbarrelExtinguisher = ящик подствольных огнетушителей (x4)
+ent-RMCCrateAttachmentUnderbarrelShotgun = ящик подствольных дробовиков (x4)
+ent-RMCCrateAttachmentBipod = ящик сошек (x6)
+ent-RMCCrateAttachmentGyro = ящик гиростабилизаторов (x2)
+ent-RMCCrateAttachmentForegrip = ящик рукоятей (x8)
+ent-RMCCrateAttachmentCompensator = ящик компенсаторов (x6)
+ent-RMCCrateAttachmentExtendedBarrel = ящик удлиненных стволов (x6)
+ent-RMCCrateAttachmentSuppressor = ящик глушителей (x8)
+ent-RMCCrateAttachmentMagneticHarness = ящик магнитных подсумков (x6)
+ent-RMCCrateAttachmentMiniScope = ящик компактных прицелов (x2)
+ent-RMCCrateAttachmentTelescopicScope = ящик оптических прицелов (x2)
+ent-RMCCrateAttachmentRailFlashlight = ящик тактических фонарей (x8)
+ent-RMCCrateAttachmentSmartScope = ящик умных прицелов B8 (x4)
+ent-RMCCrateAttachmentRedDot = ящик коллиматорных прицелов (x8)

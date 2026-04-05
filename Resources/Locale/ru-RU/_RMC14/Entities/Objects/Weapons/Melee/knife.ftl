@@ -1,35 +1,12 @@
-ent-RMCStraightRazor = straight razor
-  .desc = The commandant's favorite weapon against marines who dare break the grooming standards.
-
-ent-RMCM2100Machete = M2132 machete
-  .desc = Latest issue of the Marine Machete.
-
-ent-RMCCeremonialSword = M2132 machete
-  .desc = Latest issue of the Marine Machete.
-
-ent-CMM2132Machete = M2132 machete
-  .desc = Latest issue of the Marine Machete.
-
-ent-CMM11Knife = M11 throwing knife
-  .desc = A military knife designed to be thrown at the enemy.
-
+ent-RMCStraightRazor = опасная бритва
+  .desc = Любимое оружие коменданта против морпехов, осмелившихся нарушить стандарты ухода за внешностью.
+ent-RMCM2100Machete = мачете M2100 «Нгахье»
+  .desc = Более старая модель мачете КМП, так и не вышедшая из стадии испытаний. Разработана в Центральноафриканской Республике. Зазубрины затрудняли чистку, и поэтому КМП отказалась принимать его на вооружение — несмотря на превосходную ударную мощь.
+ent-RMCCeremonialSword = церемониальная сабля
+  .desc = Изящная церемониальная сабля, передаваемая из поколения в поколение. Несмотря на это, за ней очень хорошо ухаживали, и она находится в отличном состоянии.
+ent-CMM2132Machete = мачете M2132
+  .desc = Последняя модель мачете морской пехоты.
+ent-CMM11Knife = метательный нож M11
+  .desc = Армейский нож, предназначенный для метания во врага.
 ent-RMCM5Bayonet = штык-нож M5 «Ночной рейдер»
-
-ent-RMCCombatUtilityKnifeA = 'Druzhina' combat utility knife
-  .desc = A heavy combat knife, designed for SPP special forces. Its heft and durability makes it popular for various uses in the field.
-
-ent-RMCCombatUtilityKnifeB = 'Druzhina' combat utility knife
-  .desc = A heavy combat knife, designed for SPP special forces. Its heft and durability makes it popular for various uses in the field.
-
-ent-RMCTantoA = MK3 infantry service tanto
-  .desc = Forged for the elite forces of the Royal Crown Marines, the sleek, tempered construction of this blade has been lauded by its wielders.
-
-ent-RMCTantoB = MK3 infantry service tanto
-  .desc = Forged for the elite forces of the Royal Crown Marines, the sleek, tempered construction of this blade has been lauded by its wielders.
-
-ent-RMCSawtoothDaggerA = Fiore-pattern trench dagger
-  .desc = This thin, yet rigid dagger is favored for its combination of elegant features and lethality in hand-to-hand combat.
-
-ent-RMCSawtoothDaggerB = Fiore-pattern trench dagger
-  .desc = This thin, yet rigid dagger is favored for its combination of elegant features and lethality in hand-to-hand combat.
-
+  .desc = Штатный штык-нож морской пехоты. Этот нож можно засунуть в голенище сапога или прикрепить на конец винтовки.

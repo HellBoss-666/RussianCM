@@ -1,2 +1,2 @@
-ent-CMXenoLesserDrone = cm-имя-работы-ксено-меньший-дрон
-
+ent-CMXenoLesserDrone = Малый дрон
+  .desc = Инопланетный дрон. Выглядит... меньше.

@@ -1,4 +1,2 @@
-ent-SpawnCMTestDummy = Создатель тестовых манекенов RMC
-
-ent-CMTestDummy = тестовый манекен
-
+ent-SpawnCMTestDummy = RMC Test Dummy Spawner
+ent-CMTestDummy = груша для битья

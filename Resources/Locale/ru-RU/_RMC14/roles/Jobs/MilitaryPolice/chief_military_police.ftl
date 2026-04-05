@@ -1,6 +1,3 @@
-ent-RMCGuidebookRoleCMP = Главный депутат
-  .desc = Начальник военной полиции.
-
-ent-CMSpawnPointChiefMP = точка появления главного депутата
-  .desc = Создатель заданий RMC14. 
-
+ent-RMCGuidebookRoleCMP = Начальник военной полиции
+  .desc = Начальник военной полиции
+ent-CMSpawnPointChiefMP = chief mp spawn point

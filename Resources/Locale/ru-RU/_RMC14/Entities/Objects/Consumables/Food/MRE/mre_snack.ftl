@@ -1,42 +1,24 @@
 ent-CMMREFoodSushi = суши
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
+  .desc = Содержимое стандартного ИРП морской пехоты. Это суши.
 ent-CMMREFoodPeanuts = арахис
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-CMMREFoodPretzels = крендели с солью
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-RMCMREFoodMeatzels = котлеты
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
+  .desc = Содержимое стандартного ИРП морской пехоты. Это арахис.
+ent-CMMREFoodPretzels = крендели
+  .desc = Содержимое стандартного ИРП морской пехоты. Это крендели.
+ent-RMCMREFoodMeatzels = митцлес
+  .desc = Содержимое стандартного ИРП морской пехоты. Это... митцлес?
 ent-CMMREFoodMeatballs = фрикадельки
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-CMMREFoodBiscuit = бисквит
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-CMMREComponentSushi = Компонент MRE (суши)
-  .desc = Компонент закуски MRE. 
-
-ent-CMMREComponentPeanuts = Компонент MRE (арахис)
-  .desc = Компонент закуски MRE. 
-
-ent-CMMREComponentPretzels = Компонент MRE (крендели)
-  .desc = Компонент закуски MRE. 
-
-ent-RMCMREComponentMeatzels = Компонент MRE (котлеты)
-  .desc = Компонент закуски MRE. 
-
-ent-CMMREComponentMeatballs = Компонент MRE (фрикадельки)
-  .desc = Компонент закуски MRE. 
-
-ent-CMMREComponentBiscuit = Компонент MRE (бисквит)
-  .desc = Компонент закуски MRE. 
-
-ent-CMMRESnackComponentBase = компонент MRE
-  .desc = Компонент закуски MRE. 
-
-ent-CMMREFoodSnack = элемент
-  .desc = Содержание выпуска Морпех Standard MRE.
-
+  .desc = Содержимое стандартного ИРП морской пехоты. Это фрикадельки.
+ent-CMMREFoodBiscuit = печенье
+  .desc = Содержимое стандартного ИРП морской пехоты. Это печенье.
+ent-CMMREComponentSushi = Компонент ИРП (суши)
+  .desc = Компонент ИРП для перекуса. Содержит легкую закуску на случай, если вы не сильно голодны. Это суши.
+ent-CMMREComponentPeanuts = Компонент ИРП (арахис)
+  .desc = Компонент ИРП для перекуса. Содержит легкую закуску на случай, если вы не сильно голодны. Это арахис.
+ent-CMMREComponentPretzels = Компонент ИРП (крендели)
+  .desc = Компонент ИРП для перекуса. Содержит легкую закуску на случай, если вы не сильно голодны. Это крендели.
+ent-RMCMREComponentMeatzels = Компонент ИРП (митцлес)
+  .desc = Компонент ИРП для перекуса. Содержит легкую закуску на случай, если вы не сильно голодны. Это... митцлес?
+ent-CMMREComponentMeatballs = Компонент ИРП (фрикадельки)
+  .desc = Компонент ИРП для перекуса. Содержит легкую закуску на случай, если вы не сильно голодны. Это фрикадельки.
+ent-CMMREComponentBiscuit = Компонент ИРП (печенье)
+  .desc = Компонент ИРП для перекуса. Содержит легкую закуску на случай, если вы не сильно голодны. Это печенье.

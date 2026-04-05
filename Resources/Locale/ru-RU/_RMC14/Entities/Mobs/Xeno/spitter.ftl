@@ -1,2 +1,2 @@
-ent-CMXenoSpitter = cm-имя-задания-xeno-spitter
-
+ent-CMXenoSpitter = Плеватель
+  .desc = Какой-то отвратительный, склизкий инопланетянин.

@@ -1,31 +1,16 @@
-ent-RMCArmylatheMachineCircuitboard = армейский токарный станок
-  .desc = Печатная плата для армейского станка.
-
-ent-CMCircuitboardMicrowave = плата микроволновой машины
+ent-RMCArmylatheMachineCircuitboard = плата армилата
+  .desc = Машинная печатная плата для армейского лата.
+ent-CMCircuitboardMicrowave = плата микроволновой печи
   .desc = Машинная печатная плата для микроволновой печи.
-
-ent-CMCircuitboardChemMaster = Машинная доска мастера химии
-  .desc = Машинная печатная плата для мастера-химика.
-
-ent-CMCircuitboardDispenserSoda = Доска для дозатора газировки
-  .desc = Машинная печатная плата для автомата для газировки.
-
-ent-CMCircuitboardDispenserBooze = Доска для раздачи выпивки
-  .desc = Машинная печатная плата для дозатора спиртных напитков.
-
-ent-CMCircuitboardDispenserChem = Доска дозатора химикатов
-  .desc = Машинная печатная плата дозатора химикатов.
-
-ent-CMAutolatheMachineCircuitboard = доска токарного станка
-  .desc = Машинная печатная плата для токарного станка
-
-ent-CMSMESMachineCircuitboard = Машинная доска SMES
-  .desc = Машинная печатная плата для СМС.
-
-ent-RMCPortableGeneratorPacmanMachineCircuitBoard = Плата портативного генератора типа P.A.C.M.A.N.
-
-ent-RMCPortableGeneratorSuperPacmanMachineCircuitboard = Плата портативного генератора типа S.U.P.E.R.P.A.C.M.A.N.
-
-ent-RMCCircuitboardIndustrialChemMaster = Машинная доска мастера химии
-  .desc = Машинная печатная плата для мастера промышленной химии.
-
+ent-CMCircuitboardChemMaster = плата хим-мастера
+  .desc = Машинная печатная плата для хим-мастера.
+ent-CMCircuitboardDispenserSoda = плата диспенсера газировки
+  .desc = Машинная печатная плата для диспенсера газировки.
+ent-CMCircuitboardDispenserBooze = плата диспенсера алкоголя
+  .desc = Машинная печатная плата для диспенсера алкоголя.
+ent-CMCircuitboardDispenserChem = плата химического диспенсера
+  .desc = Машинная печатная плата для химического диспенсера.
+ent-CMAutolatheMachineCircuitboard = плата автолата
+  .desc = Машинная печатная плата для автолата.
+ent-CMSMESMachineCircuitboard = плата СМЭУ
+  .desc = Машинная печатная плата для СМЭУ (Супер-Машинный Энергетический Узел).

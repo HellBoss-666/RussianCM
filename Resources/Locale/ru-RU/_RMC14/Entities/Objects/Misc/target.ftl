@@ -1,18 +1,12 @@
-ent-RMCTargetStrange = кошачья цель
-  .desc = Стрельба по мишени. 
-
-ent-RMCTargetClown = клоунская мишень
-  .desc = Стрельба по мишени. 
-
-ent-RMCTargetSyndicate = цель синдиката
-  .desc = Стрельба по мишени. 
-
-ent-RMCTargetArmored = стрельба по мишени
-  .desc = Стрельба по мишени. 
-
-ent-RMCTargetXeno = ксенонидная мишень
-  .desc = Стрельба по мишени. 
-
-ent-RMCTargetHuman = человеческая цель
-  .desc = Стрельба по мишени. 
-
+ent-RMCTargetStrange = мишень-фелинид
+  .desc = Стрелковая мишень. Ты не совсем уверен, что это такое, но кажется, она особенно прочная.
+ent-RMCTargetClown = мишень-клоун
+  .desc = Стрелковая мишень. Эта — клоун.
+ent-RMCTargetSyndicate = мишень-синдикат
+  .desc = Стрелковая мишень. Эта — агент синдиката.
+ent-RMCTargetArmored = стрелковая мишень
+  .desc = Стрелковая мишень. Эта — человек в броне.
+ent-RMCTargetXeno = мишень-ксенонид
+  .desc = Стрелковая мишень. Эта — ксенонид.
+ent-RMCTargetHuman = мишень-человек
+  .desc = Стрелковая мишень. Эта — человек.

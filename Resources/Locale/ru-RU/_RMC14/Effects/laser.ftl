@@ -1,6 +1,3 @@
-ent-RMCSpottingLaser = корректирующий лазер
-
-ent-RMCAMRLaser = АМР-лазер
-
-ent-RMCM96SLaser = Лазер М96С
-
+ent-RMCSpottingLaser = лазер наводчика
+ent-RMCAMRLaser = AMR лазер
+ent-RMCM96SLaser = M96S лазер

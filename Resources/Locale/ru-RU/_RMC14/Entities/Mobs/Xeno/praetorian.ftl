@@ -1,25 +1,12 @@
 ent-CMXenoPraetorianBase = Преторианец
-  .desc = Большой чёрный инопланетянин.
-
-ent-CMXenoPraetorian = cm-job-name-xeno-praetorian
-
+  .desc = Огромный, угрожающий инопланетный зверь.
+ent-CMXenoPraetorian = Преторианец
+  .desc = Огромный, угрожающий инопланетный зверь.
 ent-CMXenoPraetorianDancer = Преторианец
-
+  .desc = Огромный, угрожающий инопланетный зверь.
 ent-CMXenoPraetorianValkyrie = Преторианец
-
+  .desc = Огромный, угрожающий инопланетный зверь.
 ent-CMXenoPraetorianOpressor = Преторианец
-
+  .desc = Огромный, угрожающий инопланетный зверь.
 ent-CMXenoPraetorianVanguard = Преторианец
-
-ent-RMCXenoPraetorianValkyrie = Преторианец
-  .desc = Большой чёрный инопланетянин.
-
-ent-RMCXenoPraetorianDancer = Преторианец
-  .desc = Большой чёрный инопланетянин.
-
-ent-RMCXenoPraetorianVanguard = Преторианец
-  .desc = Большой чёрный инопланетянин.
-
-ent-RMCXenoPraetorianOppressor = Преторианец
-  .desc = Большой чёрный инопланетянин.
-
+  .desc = Огромный, угрожающий инопланетный зверь.

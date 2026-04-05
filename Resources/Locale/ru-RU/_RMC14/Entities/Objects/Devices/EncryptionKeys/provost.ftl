@@ -1,3 +1,1 @@
-ent-RMCEncryptionKeyProvost = ключ шифрования радиосвязи проректора
-  .desc = Ключ шифрования для радиогарнитуры.
-
+ent-RMCEncryptionKeyProvost = ключ шифрования Провост

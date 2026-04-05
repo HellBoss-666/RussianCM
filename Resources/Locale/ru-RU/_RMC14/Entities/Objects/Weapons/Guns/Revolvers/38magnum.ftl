@@ -1,13 +1,7 @@
 ent-RMCBulletRevolver38 = пуля (.38)
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-RMCCartridgeRevolver38 = патрон (.35 авто)
-
-ent-RMCSpeedLoader38 = Скоростной погрузчик (.38)
-
-ent-RMCBaseSpeedLoader38 = Скоростной погрузчик (.38)
-
-ent-RMCWeaponRevolver38Magnum = элемент
-
-ent-RMCWeaponRevolver38Empty = элемент
-
+ent-RMCCartridgeRevolver38 = патрон (.38)
+ent-RMCSpeedLoader38 = Быстрый заряжатель (.38)
+  .desc = Быстрый заряжатель для револьвера.
+ent-RMCBaseSpeedLoader38 = Быстрый заряжатель (.38)
+ent-RMCWeaponRevolver38Magnum = револьвер .38 Magnum
+  .desc = Изящный револьвер калибра .38. Бессмертная классика, от античности до будущего. Эта конкретная модель известна своей дикой неточностью, но крайней летальностью.

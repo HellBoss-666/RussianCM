@@ -1,27 +1,16 @@
-ent-RMCCartridgeRifleL83AAP = cartridge
-
-ent-RMCMagazineRifleL83A2Incendiary = item
-
-ent-RMCMagazineRifleL83A2HEAP = item
-
+ent-RMCCartridgeRifleL83AAP = БП патрон (5.56x45)
+  .desc = Бронебойный винтовочный патрон 5.56x45
+ent-RMCMagazineRifleL83A2Incendiary = магазин L83A2 зажигательных (5.56x45мм)
+  .desc = Магазин зажигательных патронов 5.56x45мм для винтовки L83A2.
+ent-RMCMagazineRifleL83A2HEAP = магазин L83A2 КБП (5.56x45мм)
+  .desc = Магазон кумулятивно-осколочных патронов 5.56x45мм для винтовки L83A2.
 ent-RMCMagazineRifleL83A2extended = удлинённый магазин L83A2 (5.56x45мм)
-
-ent-RMCMagazineRifleL83A2AP = item
-
-ent-RMCCartridgeRifleL83A = cartridge
-
-ent-RMCMagazineRifleL83A2 = item
-
+  .desc = Удлинённый магазин для винтовки L83A2.
+ent-RMCMagazineRifleL83A2AP = магазин L83A2 БП (5.56x45мм)
+  .desc = Магазин бронебойных патронов 5.56x45мм для винтовки L83A2.
+ent-RMCCartridgeRifleL83A = патрон (5.56x45)
+  .desc = Винтовочный патрон 5.56x45
+ent-RMCMagazineRifleL83A2 = магазин L83A2 (5.56x45мм)
+  .desc = Магазин патронов 5.56x45мм для винтовки L83A2.
 ent-WeaponRifleL83A2 = винтовка L83A2
-
-ent-RMCWeaponRifleL83A2 = L83A2 rifle
-  .desc = A civilian grade caseless rifle utilised by TSEPA officers.
-
-ent-RMCWeaponRifleL83A2Stripped = L83A2 rifle
-  .desc = A civilian grade caseless rifle utilised by TSEPA officers.
-
-ent-RMCMagazineRifleL83A2Extended = item
-
-ent-BulletRifle556x45mmAP = BaseBullet
-  .desc = If you can see this you're probably dead!
-
+  .desc = Винтовка гражданского класса с беспатронными патронами, используемая офицерами ТСЭПА.

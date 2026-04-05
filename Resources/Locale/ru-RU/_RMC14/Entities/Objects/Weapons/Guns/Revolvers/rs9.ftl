@@ -1,11 +1,5 @@
-ent-RMCBulletRsh9 = bullet (9x39)
-  .desc = If you can see this you're probably dead!
-
-ent-RMCCartridgeRevolverRsh9 = cartridge (.35 auto)
-
-ent-RMCBaseSpeedLoaderRsh9 = RSh-9 Speed Loader (9x39)
-
+ent-RMCBulletRsh9 = пуля (9x39)
+ent-RMCCartridgeRevolverRsh9 = патрон (9x39)
+ent-RMCBaseSpeedLoaderRsh9 = быстрый заряжатель RSh-9 (9x39)
 ent-RMCWeaponRevolverRSh9 = штурмовой револьвер RSh-9
-
-ent-RMCSpeedLoaderRsh9 = RSh-9 Speed Loader (9x39)
-
+  .desc = Штурмовой револьвер RSh-9 — весьма необычное оружие, изначально разработанное по запросу для зачистки помещений в ближнем бою подразделениями по борьбе с терроризмом. Эта модель использует меньший патрон 9x39 вместо исходного 12.7x55мм, но она по-прежнему остаётся ничем иным, как ультимативным устройством для убийства людей.

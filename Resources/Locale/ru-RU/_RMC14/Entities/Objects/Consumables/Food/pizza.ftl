@@ -1,84 +1,22 @@
 ent-RMCBoxPizza = коробка для пиццы
-  .desc = Коробка, подходящая для пиццы.
-
-ent-RMCFoodPizzaHawaiianSlice = Гавайский ломтик
-  .desc = Кусочек радости/греха.
-
+  .desc = Коробка, предназначенная для пиццы.
+ent-RMCFoodPizzaHawaiianSlice = кусок гавайской пиццы
+  .desc = Кусок радости/греха.
 ent-RMCFoodPizzaHawaiianFull = гавайская пицца
-  .desc = Заставляет людей плакать. 
-
-ent-RMCFoodPizzaVegetableSlice = овощной ломтик
-  .desc = Кусочек самой зеленой пиццы из всех пицц, не содержащих зеленых ингредиентов.
-
+  .desc = Заставляет людей разрыдаться. Слёзы радости или печали зависят от любви человека к ананасам.
+ent-RMCFoodPizzaVegetableSlice = кусок овощной пиццы
+  .desc = Кусок самой зелёной пиццы из всех пицц, не содержащих зелёных ингредиентов.
 ent-RMCFoodPizzaVegetableFull = овощная пицца
-  .desc = Никто из Tomato Sapiens не пострадал во время приготовления этой пиццы.
-
-ent-RMCFoodPizzaMushroomSlice = кусок пиццы с грибами
-  .desc = Возможно, это последний кусок пиццы в вашей жизни.
-
-ent-RMCFoodPizzaMushroomFull = пицца с грибами
+  .desc = Ни один из Томатных Сапиенсов не пострадал при создании этой пиццы.
+ent-RMCFoodPizzaMushroomSlice = кусок грибной пиццы
+  .desc = Возможно, это последний кусок пиццы в твоей жизни.
+ent-RMCFoodPizzaMushroomFull = грибная пицца
   .desc = Очень особенная пицца.
-
 ent-RMCFoodPizzaMeatSlice = кусок мясной пиццы
-  .desc = Кусочек мясистой пиццы.
-
+  .desc = Кусок мясной пиццы.
 ent-RMCFoodPizzaMeatFull = мясная пицца
   .desc = Пицца с мясной начинкой.
-
-ent-RMCFoodPizzaMargheritaSlice = кусочек маргариты
-  .desc = Кусочек классической пиццы.
-
-ent-RMCFoodPizzaMargheritaFull = Маргарита
-  .desc = Золотой стандарт пиццы.
-
-ent-RMCFoodPizzaBase = элемент
-
-ent-RMCFoodPizzaFullBase = элемент
-
-ent-RMCFoodPizzaSliceBase = элемент
-
-ent-RMCFoodPizzaSupremeFull = высшая пицца
-  .desc = Благодаря такому количеству начинок он оправдывает свое название.
-
-ent-RMCFoodPizzaSupremeSlice = высший кусок
-  .desc = Кусочек верха.
-
-ent-RMCFoodPizzaCalabresaFull = пицца калабреза
-  .desc = Пицца настолько хороша, что вы увидите Кристо Редентора!
-
-ent-RMCFoodPizzaCalabresaSlice = кусочек де калабреза
-  .desc = Кусочек параисо.
-
-ent-RMCBoxPizzaGalaxy = Коробка для пиццы «Пицца Галакси»
-  .desc = Коробка для лучшей пиццы.
-
-ent-RMCBoxPizzaMargherita = коробка для пиццы
-  .desc = Коробка, подходящая для пиццы.
-
-ent-RMCBoxPizzaGalaxyMargherita = Коробка для пиццы «Пицца Галакси»
-  .desc = Коробка для лучшей пиццы.
-
-ent-RMCBoxPizzaMeat = коробка для пиццы
-  .desc = Коробка, подходящая для пиццы.
-
-ent-RMCBoxPizzaGalaxyMeat = Коробка для пиццы «Пицца Галакси»
-  .desc = Коробка для лучшей пиццы.
-
-ent-RMCBoxPizzaMushroom = коробка для пиццы
-  .desc = Коробка, подходящая для пиццы.
-
-ent-RMCBoxPizzaGalaxyMushroom = Коробка для пиццы «Пицца Галакси»
-  .desc = Коробка для лучшей пиццы.
-
-ent-RMCBoxPizzaVegetable = коробка для пиццы
-  .desc = Коробка, подходящая для пиццы.
-
-ent-RMCBoxPizzaGalaxyVegetable = Коробка для пиццы «Пицца Галакси»
-  .desc = Коробка для лучшей пиццы.
-
-ent-RMCBoxPizzaRandom = коробка для пиццы
-  .desc = Коробка, подходящая для пиццы.
-
-ent-RMCBoxPizzaGalaxyMystery = Коробка для пиццы «Пицца Галакси»
-  .desc = Коробка для лучшей пиццы.
-
+ent-RMCFoodPizzaMargheritaSlice = кусок пиццы «Маргарита»
+  .desc = Кусок классической пиццы.
+ent-RMCFoodPizzaMargheritaFull = пицца «Маргарита»
+  .desc = Золотой стандарт пицц.

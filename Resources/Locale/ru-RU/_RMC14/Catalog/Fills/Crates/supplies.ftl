@@ -1,18 +1,7 @@
-ent-RMCCrateAegisLobby = Ящик с оборудованием слежения AEGIS (3 пинпоинтера, 1 брошюра)
-  .desc = Ящик с припасами, содержащий оборудование для отслеживания идентификаторов AEGIS и документацию.
-
-ent-RMCCrateSuppliesCrayons = коробки с мелками
-  .desc = Ящик с припасами.
-
-ent-RMCCrateSupplyJanitor = различные товары для уборки
-  .desc = Ящик с припасами.
-
-ent-RMCCrateSuppliesBoxes = листы картона (х50)
-  .desc = Ящик с припасами.
-
-ent-RMCCrateSupplyEvacuation = аварийно-спасательное оборудование (2 ящика для инструментов, 2 спасательных жилета, кислородный баллон 5 раз, маски 5 раз)
-  .desc = Ящик с припасами.
-
-ent-RMCCrateSupplyInternals = Ящик с кислородными внутренностями (3 маски, 3 баллона)
-  .desc = Ящик с припасами.
-
+ent-RMCCrateAegisLobby = ящик оборудования слежения AEGIS (3x целеуказателя, 1x брошюра)
+  .desc = Ящик с оборудованием для отслеживания ID AEGIS и документацией.
+ent-RMCCrateSuppliesCrayons = ящик коробок с мелками
+ent-RMCCrateSupplyJanitor = ящик уборочного инвентаря
+ent-RMCCrateSuppliesBoxes = ящик картонных листов (x50)
+ent-RMCCrateSupplyEvacuation = ящик аварийного снаряжения (2x набор инструментов, 2x сигнальных жилета, 5x кислородных баллонов, 5x масок)
+ent-RMCCrateSupplyInternals = ящик дыхательного обрудования (3x маски, 3x баллона)

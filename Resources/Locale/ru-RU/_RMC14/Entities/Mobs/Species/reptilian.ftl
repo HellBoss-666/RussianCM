@@ -1,2 +1,1 @@
-ent-CMMobReptilian = Уриссь С-М Мжанд
-
+ent-CMMobReptilian = Морпех Урист Рептилоид

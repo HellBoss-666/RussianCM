@@ -1,5 +1,2 @@
-ent-RMCGuidebookRoleASO = Вспомогательный офицер поддержки
-
-ent-CMSpawnPointASO = точка появления офицера вспомогательной поддержки
-  .desc = Создатель заданий RMC14. 
-
+ent-RMCGuidebookRoleASO = Офицер вспомогательной поддержки
+ent-CMSpawnPointASO = auxiliary support officer spawn point

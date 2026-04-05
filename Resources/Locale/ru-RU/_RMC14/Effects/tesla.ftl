@@ -1,2 +1,1 @@
-ent-EffectTeslaBeam = электрический луч
-
+ent-EffectTeslaBeam = электрический пучок

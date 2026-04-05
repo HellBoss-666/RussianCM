@@ -1,27 +1,7 @@
-ent-CMShellShotgunIncendiaryBuckshot = горсть зажигательных картечных снарядов
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-CMShellShotgunFlechette = горсть снарядов для стрел
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-CMShellShotgunBeanbag = горсть слизней из погремушек
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
+ent-CMShellShotgunIncendiaryBuckshot = горсть зажигательных картечных патронов
+ent-CMShellShotgunFlechette = горсть патронов с оперёнными стрелами
+ent-CMShellShotgunBeanbag = горсть травматических пуль
 ent-CMShellShotgunIncendiary = горсть зажигательных пуль
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-CMShellShotgunSlugs = горсть патронов для дробовика
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-RMCShellShotgunBreaching = горсть патронов для дробовика
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-CMShellShotgunBuckshot = горсть картечных гильз
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-CMShellShotgunBuckshot1 = горсть картечных гильз
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
-ent-RMCShellShotgunBreaching1 = горсть патронов для дробовика
-  .desc = Несколько патронов, которые можно перезарядить на ходу.
-
+ent-CMShellShotgunSlugs = горсть пулевых патронов
+ent-RMCShellShotgunBreaching = горсть штурмовых патронов
+ent-CMShellShotgunBuckshot = горсть патронов с картечью

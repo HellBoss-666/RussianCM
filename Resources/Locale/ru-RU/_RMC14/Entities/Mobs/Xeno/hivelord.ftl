@@ -1,11 +1,6 @@
-ent-CMXenoHivelordBase = Хивелорд
+ent-CMXenoHivelordBase = Повелитель улья
   .desc = Строитель действительно больших ульев.
-
-ent-CMXenoHivelord = cm-имя-работы-xeno-hivelord
-
-ent-CMXenoHivelordResinWhisperer = Хивелорд
+ent-CMXenoHivelord = Повелитель улья
   .desc = Строитель действительно больших ульев.
-
-ent-CMXenoHivelordDesigner = Хивелорд
+ent-CMXenoHivelordResinWhisperer = Повелитель улья
   .desc = Строитель действительно больших ульев.
-

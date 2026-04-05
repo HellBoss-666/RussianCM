@@ -1,3 +1,3 @@
 ent-RMCSpawnPointSurvivorFiorinaRiotOfficer = точка возрождения выжившего офицера по охране общественного порядка Фиорины
-  .desc = Создатель заданий RMC14. 
+ 
 

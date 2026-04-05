@@ -1,6 +1,3 @@
-ent-RMCGuidebookRoleCMO = директор по маркетингу
-  .desc = Главный врач.
-
-ent-CMSpawnPointCMO = точка появления главного врача
-  .desc = Создатель заданий RMC14. 
-
+ent-RMCGuidebookRoleCMO = Главный врач
+  .desc = Главный врач
+ent-CMSpawnPointCMO = chief medical officer spawn point

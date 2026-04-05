@@ -1,40 +1,17 @@
-ent-RMCMagazineRifleM5SPRHVHIP = элемент
-
-ent-RMCCartridgeRifleM5SPRHVHIP = картридж
-
-ent-RMCCartridgeRifleM5SPRHVP = картридж
-
-ent-RMCMagazineRifleM5SPRHVP = элемент
-
-ent-CMMagazineRifleM4SPRExt = элемент
-
-ent-CMMagazineRifleM4SPRAP = элемент
-
-ent-CMMagazineRifleM4SPR = элемент
-
-ent-WeaponRifleM5SPR = Боевая винтовка М5СПР
-  .desc = Боевая винтовка M5SPR представляет собой модифицированную версию M4SPR, способную использовать высокоскоростные проникающие патроны и оснащенную конфигурацией с двумя залпами.
-
-ent-WeaponRifleM4SPR = Боевая винтовка М4СПР
-  .desc = Боевая винтовка M4SPR — это снайперская винтовка, состоящая на вооружении Корпуса Морпеха. 
-
-ent-WeaponRifleM5SPR2 = Боевая винтовка М5СПР/2
-  .desc = Боевая винтовка M5SPR/2 представляет собой модифицированную версию M5SPR, предназначенную для сотрудников ЧВК для поражения целей на больших дистанциях.
-
-ent-WeaponRifleM4SPRFilled = Боевая винтовка М4СПР
-  .desc = Боевая винтовка M4SPR — это снайперская винтовка, состоящая на вооружении Корпуса Морпеха. 
-
-ent-RMCMagazineRifleM4SPRWP = элемент
-
-ent-RMCMagazineRifleM4SPRIncendiary = элемент
-
-ent-RMCMagazineRifleM4SPRHEAP = элемент
-
-ent-RMCMagazineRifleM4SPRAPEmpty = элемент
-
-ent-BulletRifleM5SPRHVP = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-BulletRifleM5SPRHVHIP = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
+ent-RMCMagazineRifleM5SPRHVHIP = магазин M5SPR ВСВП-Пробивающий (10x24мм)
+  .desc = Магазин с патронами ВСВП-Пробивающими 10x24мм для использования в боевой винтовке M5SPR.
+ent-RMCCartridgeRifleM5SPRHVHIP = патрон (ВСВП-Пробивающий)
+  .desc = Высокоскоростной ВСВП-Пробивающий патрон. Подходит для специальных магазинов M5SPR.
+ent-RMCCartridgeRifleM5SPRHVP = патрон (ВС-Пробивающий)
+  .desc = Высокоскоростной ВС-Пробивающий патрон. Подходит для специальных магазинов M5SPR.
+ent-RMCMagazineRifleM5SPRHVP = магазин M5SPR ВС-П (10x24мм)
+  .desc = Магазин с патронами ВС-Пробивающими 10x24мм для использования в боевой винтовке M5SPR.
+ent-CMMagazineRifleM4SPRExt = расширенный магазин M4SPR (10x24мм)
+ent-CMMagazineRifleM4SPRAP = магазин M4SPR БО (10x24мм)
+  .desc = Магазин с бронебойными патронами 10x24мм для использования в боевой винтовке M4SPR.
+ent-CMMagazineRifleM4SPR = магазин M4SPR (10x24мм)
+  .desc = Магазин со стандартными патронами 10x24мм для использования в боевой винтовке M4SPR.
+ent-WeaponRifleM5SPR = боевая винтовка M5SPR
+  .desc = Боевая винтовка M5SPR — это модифицированная версия M4SPR, способная использовать патроны High Velocity Piercing и оснащённая режимом стрельбы очередями по два выстрела.
+ent-WeaponRifleM4SPR = боевая винтовка M4SPR
+  .desc = Боевая винтовка M4SPR — это винтовка designated marksman, состоящая на вооружении морской пехоты. Имея компоновку буллпап, боевая винтовка M4SPR идеально подходит для разведывательных групп и групп огневой поддержки.

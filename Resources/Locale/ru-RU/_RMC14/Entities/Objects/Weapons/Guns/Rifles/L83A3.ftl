@@ -1,39 +1,20 @@
-ent-WeaponRifleL83A3M = L83A3M rifle
-  .desc = The L83A3M Battle Rifle is a modification sold to the Three Suns Empire. This particular version of the weapon has been given a custom stock and variable zoom scope. Reliable and deadly.
-
-ent-WeaponRifleL83A3F = L83A3F rifle
-  .desc = A variant of the L83A3 with a heavily modified firing mechanism, which grants it a burst-fire option.
-
-ent-RMCCartridgeRifleL83AIncendiary = cartridge
-
-ent-RMCCartridgeRifleL83AHEAP = cartridge
-
-ent-RMCMagazineRifleL83A3Incendiary = item
-
-ent-RMCMagazineRifleL83A3HEAP = item
-
+ent-WeaponRifleL83A3M = Винтовка L83A3M
+  .desc = Боевая винтовка L83A3M, модификация, проданная Империи Трех Солнц. Данная версия оружия оснащена специальной ложей и оптическим прицелом с переменным увеличением. Надежная и смертоносная.
+ent-WeaponRifleL83A3F = Винтовка L83A3F
+  .desc = Вариант L83A3 с сильно модифицированным ударным механизмом, обеспечивающим режим стрельбы очередями.
+ent-RMCCartridgeRifleL83AIncendiary = Зажигательный патрон (5.56x45)
+  .desc = Зажигательный винтовочный патрон 5.56x45.
+ent-RMCCartridgeRifleL83AHEAP = Патрон БОПС (5.56x45)
+  .desc = Бронебойно-зажигательный винтовочный патрон 5.56x45.
+ent-RMCMagazineRifleL83A3Incendiary = Зажигательный магазин L83A3 (5.56x45мм)
+  .desc = Магазин зажигательных патронов 5.56x45мм для винтовки L83A3.
+ent-RMCMagazineRifleL83A3HEAP = Магазин L83A3 БОПС (5.56x45мм)
+  .desc = Магазин бронебойно-зажигательных патронов 5.56x45мм для винтовки L83A3.
 ent-RMCMagazineRifleL83A3extended = Удлинённый магазин L83A3 (5.56x45мм)
-
-ent-RMCMagazineRifleL83A3AP = item
-
-ent-RMCMagazineRifleL83A3 = item
-
+  .desc = Удлинённый магазин для винтовки L83A3.
+ent-RMCMagazineRifleL83A3AP = Бронебойный магазин L83A3 (5.56x45мм)
+  .desc = Магазин бронебойных патронов 5.56x45мм для винтовки L83A3.
+ent-RMCMagazineRifleL83A3 = Магазин L83A3 (5.56x45мм)
+  .desc = Магазин на 5.56x45мм патронов для винтовки L83A3.
 ent-WeaponRifleL83A3 = Винтовка L83A3
-
-ent-RMCWeaponRifleL83A3 = L83A3 rifle
-  .desc = The L83A3 Battle Rifle, found commonly in Three Suns Empires armories.
-
-ent-RMCWeaponRifleL83A3Stripped = L83A3 rifle
-  .desc = The L83A3 Battle Rifle, found commonly in Three Suns Empires armories.
-
-ent-RMCMagazineRifleL83A3Extended = item
-
-ent-BulletRifle556x45mmHEAP = BaseBullet
-  .desc = If you can see this you're probably dead!
-
-ent-BulletRifle556x45mmIncendiary = BaseBullet
-  .desc = If you can see this you're probably dead!
-
-ent-RMCWeaponRifleL83A3FStripped = L83A3F rifle
-  .desc = A variant of the L83A3 with a heavily modified firing mechanism, which grants it a burst-fire option.
-
+  .desc = Боевая винтовка L83A3, часто встречающаяся в арсеналах Империи Трех Солнц.

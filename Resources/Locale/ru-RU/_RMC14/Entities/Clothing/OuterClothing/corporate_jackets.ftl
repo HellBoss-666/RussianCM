@@ -1,69 +1,35 @@
-ent-RMCJacketCorporateManager = куртка менеджера
-  .desc = Куртка, принадлежащая кому-то очень важному. 
-
-ent-RMCFancySuitJacketLightBrown = светло-коричневый нарядный пиджак
-  .desc = Яркий пиджак.
-
-ent-RMCFancySuitJacketBrown = коричневый модный пиджак
-  .desc = Яркий пиджак.
-
-ent-RMCFancySuitJacketRed = красный модный пиджак
-  .desc = Яркий пиджак.
-
-ent-RMCFancySuitJacketPurp = фиолетовый модный пиджак
-  .desc = Яркий пиджак.
-
-ent-RMCFancySuitJacketBlue = синий модный пиджак
-  .desc = Яркий пиджак.
-
-ent-RMCFancySuitJacketBlack = черный модный пиджак
-  .desc = Яркий пиджак.
-
+ent-RMCJacketCorporateManager = костюм менеджера
+  .desc = Пиджак, принадлежащий очень важному человеку. Он сделан из изоляционного материала и обеспечивает небольшую защиту от всех форм урона.
+ent-RMCFancySuitJacketLightBrown = светло-коричневый элегантный пиджак
+ent-RMCFancySuitJacketBrown = коричневый элегантный пиджак
+ent-RMCFancySuitJacketRed = красный элегантный пиджак
+ent-RMCFancySuitJacketPurp = фиолетовый элегантный пиджак
+ent-RMCFancySuitJacketBlue = синий элегантный пиджак
+ent-RMCFancySuitJacketBlack = чёрный элегантный пиджак
+  .desc = Щёгольской пиджак.
 ent-RMCVestBrown = коричневый жилет
   .desc = Повседневный коричневый жилет.
-
-ent-RMCWeYaFurCoat = WeYa шуба
-  .desc = Старая шуба без опознавательных знаков, когда-то выданная представителям корпораций, работавшим в суровом климате. 
-
+ent-RMCWeYaFurCoat = меховая шуба WeYa
+  .desc = Старая, немаркированная меховая шуба, когда-то выдававшаяся корпоративным связистам, размещённым в суровых климатических условиях. Она явно много раз меняла владельцев — ткань изношена, отчётливый запах, а бирки производителя давно выцвели. Слабая корпоративная эмблема осталась, вышитая над пожелтевшей этикеткой с надписью: «Только химчистка».
 ent-RMCVestGrey = серый жилет
   .desc = Повседневный серый жилет.
-
-ent-RMCVestTan = светло-коричневый жилет
-  .desc = Повседневный светло-коричневый жилет.
-
-ent-RMCWeYaWhiteVest = WeYa белый жилет
-  .desc = Белый пуховик.
-
-ent-RMCWeYaRedVest = WeYa красный жилет
-  .desc = Красный пуховик.
-
-ent-RMCWeYaBlueVest = WeYa синий жилет
-  .desc = Синий пуховик.
-
-ent-RMCWeYaBrownVest = WeYa коричневый жилет
-  .desc = Коричневый пуховик.
-
-ent-RMCJacketCorporateKhaki = куртка цвета хаки
+ent-RMCVestTan = бежевый жилет
+  .desc = Повседневный бежевый жилет.
+ent-RMCWeYaWhiteVest = белый жилет WeYa
+  .desc = Белый пуховик-жилет.
+ent-RMCWeYaRedVest = красный жилет WeYa
+  .desc = Красный пуховик-жилет.
+ent-RMCWeYaBlueVest = синий жилет WeYa
+  .desc = Синий пуховик-жилет.
+ent-RMCWeYaBrownVest = коричневый жилет WeYa
+  .desc = Коричневый пуховик-жилет.
+ent-RMCJacketCorporateKhaki = пиджак цвета хаки
   .desc = Пиджак цвета хаки.
-
-ent-RMCJacketCorporateFormal = формальный пиджак
+ent-RMCJacketCorporateFormal = официальный пиджак
   .desc = Официальный пиджак.
-
 ent-RMCJacketCorporateBrown = коричневый пиджак
   .desc = Коричневый пиджак.
-
 ent-RMCJacketCorporateBlue = синий пиджак
   .desc = Синий пиджак.
-
-ent-RMCJacketCorporateBlack = черный пиджак
-  .desc = Черный пиджак.
-
-ent-RMCCorporateLogisticsJacket = куртка для корпоративной логистики
-  .desc = Белый жакет с коричневыми вставками. 
-
-ent-RMCCorporateDutyJacket = корпоративный пиджак
-  .desc = Коричневый плащ, созданный для того, чтобы противостоять условиям фронтира, орбитальным космическим станциям, кораблям и колониям. 
-
-ent-RMCJacketWindbreakerWEYA = зеленая ветровка
-  .desc = Зеленая ветровка.
-
+ent-RMCJacketCorporateBlack = чёрный пиджак
+  .desc = Чёрный пиджак.

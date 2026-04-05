@@ -1,18 +1,6 @@
-ent-RMCCrateGearParachute = ящик парашутов (x20)
-  .desc = Ящик с припасами.
-
-ent-RMCCrateGearFulton = Ящик фултонов (x4)
-  .desc = Ящик с припасами.
-
-ent-RMCCrateGearPackFlareCAS = Ящик с сигнальными ракетами (x4)
-  .desc = Ящик с боеприпасами.
-
-ent-RMCCrateGearMotionDetector = ящик для детектора движения (x2)
-  .desc = Ящик с боеприпасами.
-
-ent-RMCCrateGearPackFlare = ящик фаеров (x20)
-  .desc = Ящик с боеприпасами.
-
-ent-RMCCrateGearBinoculars = смешанный ящик для биноклей (2 шт., всего 6 шт.)
-  .desc = Ящик с боеприпасами.
-
+ent-RMCCrateGearParachute = ящик парашютов (x20)
+ent-RMCCrateGearFulton = ящик устройств подъёма Фултона (x4)
+ent-RMCCrateGearPackFlareCAS = ящик наборов сигнальных ракет (x4)
+ent-RMCCrateGearMotionDetector = ящик детекторов движения (x2)
+ent-RMCCrateGearPackFlare = ящик наборов сигнальных ракет (x20)
+ent-RMCCrateGearBinoculars = ящик биноклей (2x каждого, 6x всего)

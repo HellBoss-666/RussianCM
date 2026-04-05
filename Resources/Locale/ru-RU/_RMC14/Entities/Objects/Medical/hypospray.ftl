@@ -1,6 +1,2 @@
-ent-CMHypospray = элемент
-
-ent-CMHyposprayWithVial = элемент
-
-ent-CMHyposprayFilledTricord = элемент
-
+ent-CMHypospray = гипоспрей
+  .desc = Гипоспрей от DeForest Medical Corporation — это стерильный автоинъектор с воздушной иглой для быстрого введения лекарств пациентам.

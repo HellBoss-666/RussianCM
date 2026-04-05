@@ -1,4 +1,1 @@
-ent-RMCBaseCartridgeLMG = картридж
-
-ent-RMCMagazineLMGBase = элемент
-
+ent-RMCBaseCartridgeLMG = патрон

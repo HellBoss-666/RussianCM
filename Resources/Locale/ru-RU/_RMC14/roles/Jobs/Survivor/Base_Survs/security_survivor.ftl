@@ -3,5 +3,5 @@ ent-RMCRandomHumanoidSurvivorSecurity = роль призрака колонис
 ent-RMCSurvivorPresetSecurity = настройки колониста службы безопасности
 
 ent-RMCSpawnPointSurvivorSecurity = точка появления службы безопасности выжившего
-  .desc = Создатель заданий RMC14. 
+ 
 

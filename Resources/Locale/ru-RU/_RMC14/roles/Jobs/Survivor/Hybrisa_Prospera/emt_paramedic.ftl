@@ -1,5 +1,5 @@
 ent-RMCGearSurvivorPresetHybrisaEMTParamedic = пресет фельдшера emt
 
 ent-RMCSpawnPointSurvivorHybrisaEMTParamedic = точка спавна фельдшера скорой помощи
-  .desc = Создатель заданий RMC14. 
+ 
 

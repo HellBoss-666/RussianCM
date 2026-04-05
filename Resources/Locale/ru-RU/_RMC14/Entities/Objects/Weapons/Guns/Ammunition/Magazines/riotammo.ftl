@@ -1,29 +1,12 @@
-ent-RMCBulletPistol9mmRubber = резиновая пуля (9 мм)
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-RMCCartridgePistol9mmRubber = патрон (.35 авто)
-
-ent-RMCMagazinePistolM77Rubber = элемент
-  .desc = Журнал Пистолет.
-
-ent-RMCMagazinePistolM1984Rubber = элемент
-  .desc = Журнал Пистолет.
-
-ent-RMCCartridge10x20mmRubber = патрон (.25 безгильзовый)
-
-ent-RMCMagazineSMGM63Rubber = элемент
-
-ent-RMCCartridgeRifle10x24mmRubber = картридж
-
-ent-RMCMagazineRifleM4SPRRubber = элемент
-
-ent-RMCMagazineRifleM54CRubber = элемент
-
-ent-RMCMagazineRifleM54CMK1Rubber = элемент
-
-ent-BulletRifle10x24mmRubber = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-Bullet10x20mmRubber = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
+ent-RMCBulletPistol9mmRubber = резиновая пуля (9мм)
+ent-RMCCartridgePistol9mmRubber = резиновый патрон (9мм)
+ent-RMCMagazinePistolM77Rubber = магазин M77 с резиновыми пулями (9мм)
+ent-RMCMagazinePistolM1984Rubber = магазин M1984 с резиновыми пулями (9мм)
+ent-RMCCartridge10x20mmRubber = резиновый патрон (10x20мм)
+ent-RMCMagazineSMGM63Rubber = магазин M63 с резиновыми пулями (10x20мм)
+ent-RMCCartridgeRifle10x24mmRubber = резиновый патрон (10x24мм)
+  .desc = Патрон 10x24мм. Подходит для магазинов 10x24мм, этот предназначен для менее смертоносного применения.
+ent-RMCMagazineRifleM4SPRRubber = магазин M4SPR с резиновыми пулями (10x24мм)
+  .desc = Магазин с менее смертоносными резиновыми патронами 10x24мм для использования в боевой винтовке M4SPR.
+ent-RMCMagazineRifleM54CRubber = магазин M54C с резиновыми пулями (10x24мм)
+  .desc = Магазин с менее смертоносными резиновыми патронами 10x24мм для использования в боевой винтовке M54C.

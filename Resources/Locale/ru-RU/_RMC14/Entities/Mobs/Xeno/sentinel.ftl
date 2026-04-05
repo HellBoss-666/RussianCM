@@ -1,2 +1,2 @@
-ent-CMXenoSentinel = cm-имя-задания-xeno-sentinel
-
+ent-CMXenoSentinel = Страж
+  .desc = Скользкий, плюющийся пришелец.

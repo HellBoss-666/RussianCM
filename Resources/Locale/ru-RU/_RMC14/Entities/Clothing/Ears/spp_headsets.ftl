@@ -1,36 +1,14 @@
 ent-RMCHeadsetDistressHalcyon = корпоративная гарнитура Halcyon
-  .desc = Гарнитура, которую обычно носят сотрудники корпорации Halcyon Dynamics.
-
-ent-RMCHeadsetSPPPaP = SPP PaP-гарнитура
-  .desc = Специальная гарнитура, используемая Народной вооруженной полицией СПП.
-
-ent-RMCHeadsetDistressSPP = Гарнитура колонии СПП
-
-ent-RMCHeadsetSPPMedic = СПП-МЕД гарнитура
-
-ent-RMCHeadsetSPPEngineer = СПП-ЦКТ гарнитура
-
-ent-RMCHeadsetSPPCommand = СПП-CMD гарнитура
-
-ent-RMCHeadsetSPP = СПП-гарнитура
-
-ent-RMCEncryptionKeyHalcyon = Ключ радиошифрования Halcyon
-  .desc = Ключ шифрования для радиогарнитуры.
-
-ent-RMCEncryptionKeySPPMedic = Ключ шифрования радиомедицинской радиосвязи SPP
-  .desc = Ключ шифрования для радиогарнитуры.
-
-ent-RMCEncryptionKeySPPEngineer = Ключ инженерного радиошифрования SPP
-  .desc = Ключ шифрования для радиогарнитуры.
-
-ent-RMCEncryptionKeySPPCommand = Ключ шифрования радиокоманды SPP
-  .desc = Ключ шифрования для радиогарнитуры.
-
-ent-RMCEncryptionKeySPP = Ключ радиошифрования SPP
-  .desc = Ключ шифрования для радиогарнитуры.
-
-ent-RMCHeadsetSPPAbstract = токарный станок-категория-одежда
-
-ent-RMCHeadsetSPPCommando = СПП-КдоК гарнитура
-  .desc = Специализированная гарнитура, используемая командами СПП.
-
+  .desc = Гарнитура, которую обычно носят корпоративные сотрудники Halcyon Dynamics.
+ent-RMCHeadsetSPPPaP = гарнитура НО СНП
+  .desc = Специальная гарнитура, используемая Народной вооружённой полицией СНП.
+ent-RMCHeadsetDistressSPP = гарнитура колонии СНП
+ent-RMCHeadsetSPPMedic = гарнитура СНП-МЕД
+ent-RMCHeadsetSPPEngineer = гарнитура СНП-ИНЖ
+ent-RMCHeadsetSPPCommand = гарнитура СНП-КОМ
+ent-RMCHeadsetSPP = гарнитура СНП
+ent-RMCEncryptionKeyHalcyon = ключ шифрования радио Halcyon
+ent-RMCEncryptionKeySPPMedic = ключ шифрования медицинского радио СНП
+ent-RMCEncryptionKeySPPEngineer = ключ шифрования инженерного радио СНП
+ent-RMCEncryptionKeySPPCommand = ключ шифрования командного радио СНП
+ent-RMCEncryptionKeySPP = ключ шифрования радио СНП

@@ -1,57 +1,20 @@
-ent-CMMREFoodChickenTender = куриный тендер
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
+ent-CMMREFoodChickenTender = куриный стрипс
+  .desc = Содержимое стандартного ИРП морской пехоты. Это куриный стрипс.
 ent-CMMREFoodSpaghettiChunks = кусочки спагетти
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-CMMREFoodPizzaSquare = площадь пиццы
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
+  .desc = Содержимое стандартного ИРП морской пехоты. Это кусочки спагетти.
+ent-CMMREFoodPizzaSquare = квадратная пицца
+  .desc = Содержимое стандартного ИРП морской пехоты. Это квадратная пицца.
 ent-CMMREFoodGrilledChicken = курица-гриль
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-CMMREFoodBonelessPorkRibs = свиные ребрышки без костей
-  .desc = Содержание выпуска Морпех Standard MRE. 
-
-ent-CMMREComponentChickenTender = Компонент MRE (куриное филе)
-  .desc = Компонент входа MRE. 
-
-ent-CMMREComponentSpaghettiChunks = Компонент MRE (кусочки спагетти)
-  .desc = Компонент входа MRE. 
-
-ent-CMMREComponentPizzaSquare = Компонент MRE (площадь для пиццы)
-  .desc = Компонент входа MRE. 
-
-ent-CMMREComponentGrilledChicken = Компонент MRE (курица гриль)
-  .desc = Компонент входа MRE. 
-
-ent-CMMREComponentBonelessPorkRibs = Компонент MRE (свиные ребрышки без костей)
-  .desc = Компонент входа MRE. 
-
-ent-CMMREMainComponentBase = компонент MRE
-  .desc = Компонент входа MRE. 
-
-ent-CMMREFoodMain = элемент
-  .desc = Содержание выпуска Морпех Standard MRE.
-
-ent-RMCMREFoodCLF = элемент
-  .desc = Содержание выпуска Морпех Standard MRE.
-
-ent-RMCMREFoodMeatSlab = завернутый кусок мяса
-  .desc = Обернутый редкий кусок мяса, быстро приготовленный на гриле.
-
-ent-RMCMREFoodMeatSlabCheese = завернутый кусок сырного мяса
-  .desc = Обернутый редкий кусок мяса, быстро приготовленный на гриле и покрытый плавленым сыром. 
-
-ent-RMCMREFoodBread = завернутый хлеб на закваске
-  .desc = Завернутая небольшая буханка сухого хлеба на закваске.
-
-ent-RMCMREFoodMargaritaPizza = завернутая пицца Маргарита
-  .desc = Маленькая пицца «Маргарита» в упаковке.
-
-ent-RMCMRESPPSurvivalRationTypeA = рацион выживания
-  .desc = Компактный кусок сублимированного мяса или рыбы с питательными добавками в виде плотного порошка. 
-
-ent-RMCMRESPPSurvivalRationTypeB = рацион выживания
-  .desc = Компактный шарик из риса или овса, похожий на тесто, с питательными добавками в виде плотного порошка. 
-
+  .desc = Содержимое стандартного ИРП морской пехоты. Это курица-гриль.
+ent-CMMREFoodBonelessPorkRibs = ребрышки без кости
+  .desc = Содержимое стандартного ИРП морской пехоты. Это ребрышки без кости.
+ent-CMMREComponentChickenTender = Компонент ИРП (куриный стрипс)
+  .desc = Основной компонент ИРП. Содержит главное блюдо для питания. Это куриный стрипс.
+ent-CMMREComponentSpaghettiChunks = Компонент ИРП (кусочки спагетти)
+  .desc = Основной компонент ИРП. Содержит главное блюдо для питания. Это кусочки спагетти.
+ent-CMMREComponentPizzaSquare = Компонент ИРП (квадратная пицца)
+  .desc = Основной компонент ИРП. Содержит главное блюдо для питания. Это квадратная пицца.
+ent-CMMREComponentGrilledChicken = Компонент ИРП (курица-гриль)
+  .desc = Основной компонент ИРП. Содержит главное блюдо для питания. Это курица-гриль.
+ent-CMMREComponentBonelessPorkRibs = Компонент ИРП (ребрышки без кости)
+  .desc = Основной компонент ИРП. Содержит главное блюдо для питания. Это ребрышки без кости.

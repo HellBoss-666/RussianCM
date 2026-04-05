@@ -1,24 +1,7 @@
-ent-RMCPelletShotgunBreaching = легкий пробивной снаряд
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-CMPelletShotgunIncendiaryBuckshot = зажигательная картечь
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-CMPelletShotgunFlechette = стрелковый снаряд
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-CMPelletShotgunBeanbag = слизняк из погремушки
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
+ent-RMCPelletShotgunBreaching = лёгкий штурмовой патрон
+ent-CMPelletShotgunIncendiaryBuckshot = зажигательный картечный патрон
+ent-CMPelletShotgunFlechette = патрон с оперёнными стрелами
+ent-CMPelletShotgunBeanbag = травматическая пуля
 ent-CMPelletShotgunIncendiary = зажигательная пуля
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-CMPelletShotgunSlug = слизняк
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
+ent-CMPelletShotgunSlug = пуля
 ent-CMPelletShotgunBuckshot = картечь
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-CMPelletShotgunBase = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-

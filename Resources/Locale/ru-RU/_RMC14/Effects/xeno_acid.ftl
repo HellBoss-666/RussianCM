@@ -1,28 +1,16 @@
-ent-XenoAcidSprayTrapStrong = сильные брызги
-  .desc = Оно сильно жжется!
-
-ent-XenoAcidSprayTrapWeak = слабые брызги
-  .desc = Оно жжется!
-
-ent-XenoAcidSprayTrap = брызги
-  .desc = Оно жжется!
-
-ent-XenoAcidSprayAcidStacks = брызги
-  .desc = Оно жжется!
-
-ent-XenoAcidSprayStrong = брызги
-  .desc = Оно жжется!
-
-ent-XenoAcidSprayWeak = слабые брызги
-  .desc = Оно жжется!
-
+ent-XenoAcidSprayTrapStrong = сильный брызг
+  .desc = Очень сильно печёт!
+ent-XenoAcidSprayTrapWeak = слабый брызг
+  .desc = Печёт! Печёт, но не так сильно!
+ent-XenoAcidSprayTrap = брызг
+  .desc = Печёт! Печёт невыносимо!
+ent-XenoAcidSprayAcidStacks = брызг
+  .desc = Печёт! Печёт невыносимо!
+ent-XenoAcidSprayStrong = брызг
+  .desc = Печёт! Печёт невыносимо!
+ent-XenoAcidSprayWeak = слабый брызг
+  .desc = Печёт! Печёт, но не так сильно!
 ent-XenoAcidStrong = сильная едкая кислота
-  .desc = Бурлящая едкая штука.
-
 ent-XenoAcidWeak = слабая едкая кислота
-  .desc = Бурлящая едкая штука.
-
 ent-XenoAcidNormal = едкая кислота
-  .desc = Бурлящая едкая штука.
-
-  .desc = Холодно...
+  .desc = Булькающая едкая субстанция. Лучше до неё не дотрагиваться.

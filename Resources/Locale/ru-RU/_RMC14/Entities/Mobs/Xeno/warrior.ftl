@@ -1,2 +1,2 @@
-ent-CMXenoWarrior = cm-имя-задания-xeno-Воин
-
+ent-CMXenoWarrior = Воин
+  .desc = Мускулистый пришелец с бронированным панцирем.

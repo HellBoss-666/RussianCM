@@ -1,18 +1,4 @@
-ent-RMCTarbackTube = смоляная трубка
-  .desc = Одиночная сигара Tarback в защитной металлической трубке. 
-
-ent-CMTarbackCigar = сигара из тарбака
-  .desc = Тарбаки от Reisland Tobacco. 
-
-ent-CMTarbackCigarSpent = сигара из тарбака
-  .desc = Тарбаки от Reisland Tobacco. 
-
-ent-RMCShioCigar = Сигара Шио Роялс
-  .desc = Shio Royals производства Weston-Yamada. 
-
-ent-RMCShioCigarSpent = Сигара Шио Роялс
-  .desc = Shio Royals производства Weston-Yamada. 
-
-ent-RMCShioRoyalsTube = трубка королевской семьи Шио
-  .desc = Одна сигара Shio Royals в защитной металлической трубке серебристого цвета. 
-
+ent-RMCTarbackTube = туба «Тарбэкс»
+  .desc = Одна сигара «Тарбэкс» в защитной металлической тубе. Почти самый низкий сегмент, какой только можно найти. Свернуто в Колумбии.
+ent-CMTarbackCigar = сигара «Тарбэкс»
+  .desc = «Тарбэкс» от Райсленд Тобакко. Главный хирург заявил, что курение «Тарбэксов» может быть вредным для здоровья. Райсленд Тобакко заявили, что Главный хирург — сука. Свернуто в Колумбии.

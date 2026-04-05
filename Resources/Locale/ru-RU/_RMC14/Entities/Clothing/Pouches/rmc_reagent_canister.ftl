@@ -1,21 +1,2 @@
-ent-RMCPouchReagentCanister = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
-ent-RMCPouchReagentCanisterBicaridine = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
-ent-RMCPouchReagentCanisterKelotane = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
-ent-RMCPouchReagentCanisterTricordrazineRevival = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
-ent-RMCPouchReagentCanisterTricordrazine = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
-ent-RMCPouchReagentCanisterMeraBic = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
-ent-RMCPouchReagentCanisterKeloDerm = сумка для хранения
-  .desc = Физическое проявление концепции сумки. 
-
+ent-RMCPouchReagentCanister = подсумок для реагентного баллона под давлением
+  .desc = Подсумок для реагентного баллона под давлением. Используется для заправки кастомных инжекторов и также может хранить один. Может быть заправлен из реагентного бака или химического раздатчика. Можно носить, прикрепив к карману.

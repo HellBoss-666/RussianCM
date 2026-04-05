@@ -3,5 +3,5 @@ ent-RMCRandomHumanoidSurvivorMiner = роль призрака шахтёра-к
 ent-RMCSurvivorPresetMiner = предустановка шахтера-колониста
 
 ent-RMCSpawnPointSurvivorMiner = точка появления выжившего шахтера
-  .desc = Создатель заданий RMC14. 
+ 
 

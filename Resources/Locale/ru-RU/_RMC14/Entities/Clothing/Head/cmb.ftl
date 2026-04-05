@@ -1,6 +1,2 @@
-ent-RMCArmorHelmetM10CMB = Модель M11R CMB Riot Шлем
-  .desc = Вариант CMB стандартного рисунка M10. 
-
-ent-RMCArmorHelmetM10CMBVisorSWAT = Модель M11R CMB Riot Шлем
-  .desc = Вариант CMB стандартного рисунка M10. 
-
+ent-RMCArmorHelmetM10CMB = штурмовой шлем CMB схемы M11R
+  .desc = Вариант CMB стандартной схемы M10. Передняя пластина усилена. Эта модель сидит гораздо плотнее.

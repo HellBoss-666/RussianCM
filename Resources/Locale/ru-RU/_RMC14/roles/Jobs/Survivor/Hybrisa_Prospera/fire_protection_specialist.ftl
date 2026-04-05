@@ -1,5 +1,5 @@
 ent-RMCGearSurvivorPresetHybrisaFireProtectionSpecialist = Предустановка специалиста по противопожарной защите hybrisa
 
 ent-RMCSpawnPointSurvivorHybrisaFireProtectionSpecialist = Место появления специалиста по пожарной безопасности Hybrisa
-  .desc = Создатель заданий RMC14. 
+ 
 

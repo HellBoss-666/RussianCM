@@ -1,42 +1,22 @@
-ent-RMCAttachmentMatebaSnubNose = элемент
-
-ent-RMCAttachmentMatebaMarksman = элемент
-
-ent-RMCAttachmentMatebaStandard = элемент
-
-ent-RMCAttachmentSuppressorNPZ92 = элемент
-
-ent-RMCAttachmentSuppressorXM40 = элемент
-
-ent-RMCAttachmentSuppressor = элемент
-
-ent-RMCAttachmentShotgunChoke = элемент
-
-ent-RMCAttachmentRecoilCompensator = элемент
-
-ent-RMCAttachmentBarrelCharger = элемент
-
-ent-RMCAttachmentBarrelMar50 = элемент
-
-ent-RMCAttachmentExtendedBarrel = элемент
-
-ent-RMCBarrelAttachmentBase = элемент
-
-ent-RMCAttachmentExtendedCompensator = элемент
-
-ent-RMCAttachmentRecoilCompensatorM13 = элемент
-
-ent-RMCAttachmentRecoilCompensatorM13Spiked = элемент
-
-ent-RMCAttachmentSuppressorCompact = элемент
-
-ent-RMCAttachmentSuppressorM96SB = элемент
-
-ent-RMCAttachmentSuppressorL112 = элемент
-
-ent-RMCAttachmentMatebaStandardGolden = элемент
-
-ent-RMCAttachmentMatebaMarksmanGolden = элемент
-
-ent-RMCAttachmentMatebaSnubNoseGolden = элемент
-
+ent-RMCAttachmentMatebaSnubNose = короткий ствол Матебы
+  .desc = Короткий ствол Матебы. Предлагает высокую скорострельность ценой точности.
+ent-RMCAttachmentMatebaMarksman = снайперский ствол Матебы
+  .desc = Снайперский ствол Матебы. Предлагает повышенную точность ценой скорости стрельбы.
+ent-RMCAttachmentMatebaStandard = стандартный ствол Матебы
+  .desc = Стандартный ствол Матебы. Предлагает баланс между точностью и скорострельностью.
+ent-RMCAttachmentSuppressorNPZ92 = интегрированный глушитель NPZ92
+  .desc = У вас этого быть не должно.
+ent-RMCAttachmentSuppressorXM40 = глушитель XM40
+  .desc = Небольшая трубка с выпускными отверстиями для отвода шума и газов. Не полностью заглушает оружие, но делает его гораздо тише ценой небольшого снижения урона.
+ent-RMCAttachmentSuppressor = глушитель
+  .desc = Небольшая трубка с выпускными отверстиями для отвода шума и газов. Не полностью заглушает оружие, но делает его гораздо тише ценой небольшого снижения урона.
+ent-RMCAttachmentShotgunChoke = чокер для дробовика
+  .desc = Резьбовой чокер, который можно вставить в дробовик M42A2. Улучшает точность, скорость, сужает разброс и увеличивает темп стрельбы. В обмен снижается урон и сила снаряда. Также увеличивает отдачу. Не рекомендуется для пулевых патронов.
+ent-RMCAttachmentRecoilCompensator = компенсатор отдачи
+  .desc = Дульное устройство, уменьшающее отдачу за счёт отвода выхлопных газов вверх. Уменьшает отдачу ценой небольшого снижения урона оружия.
+ent-RMCAttachmentBarrelCharger = ствольный ускоритель
+  .desc = Гиперпоточный удлинитель ствола, подходящий к дульному срезу большинства огнестрельных видов оружия. Значительно увеличивает урон снаряда ценой скорости стрельбы.
+ent-RMCAttachmentBarrelMar50 = ствол MAR-50
+  .desc = Тяжёлый ствол.
+ent-RMCAttachmentExtendedBarrel = удлинённый ствол
+  .desc = Удлинённый ствол ускоряет и стабилизирует пулю, увеличивая скорость.

@@ -1,6 +1,3 @@
-ent-RMCGuidebookRoleCO = Командир
-  .desc = Командир.
-
-ent-CMSpawnPointCommandingOfficer = точка появления командира
-  .desc = Создатель заданий RMC14. 
-
+ent-RMCGuidebookRoleCO = Командующий офицер
+  .desc = Командующий офицер
+ent-CMSpawnPointCommandingOfficer = commanding officer spawn point

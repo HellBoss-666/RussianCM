@@ -1,36 +1,17 @@
-ent-SquadSunRiders = Солнечные Райдеры
-
-ent-SquadUnassigned = Неназначенный
-
-ent-SquadCLF = КЛФ
-
-ent-SquadSOF = ССО
-
-ent-SquadFORECON = Разведка
-
-ent-SquadProvost = Провост
-
-ent-SquadRoyalMarines = Королевская морская пехота
-
-ent-SquadFreelancer = Фрилансер
-
+ent-SquadSunRiders = Солнечные ездоки
+ent-SquadUnassigned = Не назначенный
+ent-SquadCLF = CLF
+ent-SquadSOF = SOF
+ent-SquadFORECON = ФОРЕКОН
+ent-SquadProvost = Провосты
+ent-SquadRoyalMarines = Королевские морпехи
+ent-SquadFreelancer = Свободный
 ent-SquadPMC = ЧВК
-
-ent-SquadSPP = СЭС
-
-ent-SquadIntel = Интел
-
+ent-SquadSPP = СПН
+ent-SquadIntel = Разведка
 ent-SquadEcho = Эхо
-
 ent-SquadFoxtrot = Фокстрот
-
 ent-SquadDelta = Дельта
-
 ent-SquadCharlie = Чарли
-
 ent-SquadBravo = Браво
-
 ent-SquadAlpha = Альфа
-
-ent-SquadRoyalMarinesPVE = Виски Отряд
-

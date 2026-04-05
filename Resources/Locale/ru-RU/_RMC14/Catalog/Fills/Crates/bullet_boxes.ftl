@@ -1,12 +1,4 @@
-ent-RMCCrateBoxBulletsSMGAP = Ящик боеприпасов ПП ББ (10х20 мм AP) (600 патронов)
-  .desc = Ящик с боеприпасами.
-
-ent-RMCCrateBoxBulletsSMG = Ящик патронов ПП (10х20мм) (600 патронов)
-  .desc = Ящик с боеприпасами.
-
-ent-RMCCrateBoxBulletsRifleAP = Ящик винтовочных боеприпасов AP (10x24 мм AP) (600 патронов)
-  .desc = Ящик с боеприпасами.
-
-ent-RMCCrateBoxBulletsRifle = Ящик винтовочных боеприпасов (10х24 мм) (600 патронов)
-  .desc = Ящик с боеприпасами.
-
+ent-RMCCrateBoxBulletsSMGAP = ящик ББ патронов для ПП (10x20мм БП) (x600)
+ent-RMCCrateBoxBulletsSMG = ящик патронов для ПП (10x20мм) (x600)
+ent-RMCCrateBoxBulletsRifleAP = ящик ББ патронов для винтовки (10x24мм БП) (x600)
+ent-RMCCrateBoxBulletsRifle = ящик патронов для винтовки (10x24мм) (x600)

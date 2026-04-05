@@ -1,6 +1,3 @@
-ent-RMCGuidebookRoleXO = Исполнительный директор
-  .desc = Исполнительный директор.
-
-ent-CMSpawnPointExecutiveOfficer = точка появления старшего офицера
-  .desc = Создатель заданий RMC14. 
-
+ent-RMCGuidebookRoleXO = Исполнительный офицер
+  .desc = Исполнительный офицер
+ent-CMSpawnPointExecutiveOfficer = executive officer spawn point

@@ -1,11 +1,5 @@
 ent-RMCBulletPistol45ACP = пуля (.45 ACP)
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-RMCCartridgePistol45ACP = патрон (.45 АСР)
-
-ent-RMCMagazinePistolSU6 = элемент
-  .desc = Журнал Пистолет.
-
-ent-RMCWeaponPistolSU6 = СУ-6 умный Пистолет
-  .desc = СУ-6 Smartpistol — это пистолет на базе IFF, который в настоящее время проходит полевые испытания в UNMC. 
-
+ent-RMCCartridgePistol45ACP = патрон (.45 ACP)
+ent-RMCMagazinePistolSU6 = магазин SU-6 (.45 ACP)
+ent-RMCWeaponPistolSU6 = смарт-пистолет SU-6
+  .desc = Смарт-пистолет SU-6 — это табельное оружие на основе системы «свой-чужой», проходящее в настоящее время полевые испытания в КМП. Использует модифицированные патроны .45 ACP с системой «свой-чужой». Способен вести огонь очередями.

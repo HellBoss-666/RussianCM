@@ -1,2 +1,1 @@
-ent-CMCartridgeSniper10x28mm = картридж
-
+ent-CMCartridgeSniper10x28mm = патрон (10x28мм)

@@ -1,15 +1,8 @@
-ent-RMCBulletSentryFireProjectileSmoke = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-RMCBulletSentryFireProjectileBlue = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
-ent-RMCBulletSentryFireProjectile = БазаBullet
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
+ent-RMCBulletSentryFireProjectileSmoke = пылающий шар дыма
+  .desc = Хм? 
+ent-RMCBulletSentryFireProjectileBlue = пылающий шар синего цвета
+  .desc = Хм? 
+ent-RMCBulletSentryFireProjectile = пылающий шар
+  .desc = Хм? 
 ent-RMCBulletSentry = пуля (10х28мм)
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-
 ent-CMBulletSentry10x50mm = пуля (10х50мм)
-  .desc = Если ты это видишь, ты, вероятно, мертв!
-

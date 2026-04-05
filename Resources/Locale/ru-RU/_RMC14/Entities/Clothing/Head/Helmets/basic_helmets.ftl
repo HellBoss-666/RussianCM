@@ -1,6 +1,1 @@
-ent-RMCHelmetBase = Шлем
-
-ent-RMCMarineHelmetBase = Шлем
-
-ent-RMCMarineHelmetWithLightBase = Шлем
-
+ent-RMCHelmetBase = шлем

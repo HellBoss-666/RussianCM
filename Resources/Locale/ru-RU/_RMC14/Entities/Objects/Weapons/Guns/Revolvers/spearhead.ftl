@@ -1,20 +1,13 @@
-ent-RMCBulletRevolver357Hollowpoint = bullet (.357) Hollowpoint
-  .desc = If you can see this you're probably dead!
-
-ent-RMCBulletRevolver357 = bullet (.357)
-  .desc = If you can see this you're probably dead!
-
-ent-RMCCartridgeRevolver357Hollowpoint = cartridge (.35 auto)
-
-ent-RMCCartridgeRevolver357 = cartridge (.35 auto)
-
-ent-RMCSpeedLoader357Hollowpoint = Speed loader (.357)
-
-ent-RMCSpeedLoader357 = Speed loader (.357)
-
-ent-RMCBaseSpeedLoader357 = Speed loader (.357)
-
+ent-RMCBulletRevolver357Hollowpoint = пуля (.357) экспансивная
+ent-RMCBulletRevolver357 = пуля (.357)
+ent-RMCCartridgeRevolver357Hollowpoint = патрон (.357) экспансивный
+ent-RMCCartridgeRevolver357 = патрон (.357)
+ent-RMCSpeedLoader357Hollowpoint = Спидлоадер экспансивными (.357)
+  .desc = Револьверный спидлоадер, снаряженный экспансивными патронами.
+ent-RMCSpeedLoader357 = Спидлоадер (.357)
+  .desc = Револьверный спидлоадер.
+ent-RMCBaseSpeedLoader357 = Спидлоадер (.357)
 ent-RMCWeaponRevolverSpearheadCustom = Кастомный авторевольвер "Спирхед"
-
+  .desc = Автоматический револьвер под патрон .357, изготовленный на заказ из темного металла с деревянной рукоятью, явно созданный для человека со вкусом.
 ent-RMCWeaponRevolverSpearhead = Авторевольвер КМП "Спирхед"
-
+  .desc = Массивный револьвер, который иногда носят штурмовые подразделения и офицеры в Корпусе Морской Пехоты, а также сотрудники гражданских правоохранительных органов. Использует патроны .357 Magnum.

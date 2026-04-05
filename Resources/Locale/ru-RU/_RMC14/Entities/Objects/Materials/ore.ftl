@@ -1,36 +1,9 @@
-ent-RMCUraniumOre = настуран
-  .desc = Руда, содержащая уран. 
-
+ent-RMCUraniumOre = урановая смолка
+  .desc = Руда, содержащая уран. Один только взгляд на неё вызывает туман в голове... она слегка светится.
 ent-RMCSilverOre = самородная серебряная руда
-
-ent-RMCPlatinumOre = необработанная платина
-
-ent-RMCPlasmaOre = кристаллы форонов
-
+ent-RMCPlatinumOre = сырая платина
+ent-RMCPlasmaOre = кристаллы форона
 ent-RMCIronOre = гематит
-
 ent-RMCGoldOre = самородная золотая руда
-
-ent-RMCDiamondOre = бриллианты
-
-ent-RMCCoal = углеродистая порода
-
-ent-RMCOreBase = элемент
-
-ent-RMCCoal1 = углеродистая порода
-
-ent-RMCGoldOre1 = самородная золотая руда
-
-ent-RMCDiamondOre1 = бриллианты
-
-ent-RMCIronOre1 = гематит
-
-ent-RMCPlasmaOre1 = кристаллы форонов
-
-ent-RMCPlatinumOre1 = необработанная платина
-
-ent-RMCSilverOre1 = самородная серебряная руда
-
-ent-RMCUraniumOre1 = настуран
-  .desc = Руда, содержащая уран. 
-
+ent-RMCDiamondOre = алмазы
+ent-RMCCoal = углистый сланец

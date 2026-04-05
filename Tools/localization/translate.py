@@ -76,11 +76,8 @@ def translate_ftl_file(path):
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    # если файл уже переведён
-    if any(contains_cyrillic(line) for line in lines):
-        return False
-
     new_lines = []
+    translated_any = False
 
     for line in lines:
 
@@ -95,6 +92,11 @@ def translate_ftl_file(path):
             new_lines.append(line)
             continue
 
+        # если строка уже содержит кириллицу — пропускаем
+        if contains_cyrillic(value):
+            new_lines.append(line)
+            continue
+
         protected, vars = protect_variables(value)
 
         protected = apply_dictionary(protected)
@@ -105,12 +107,15 @@ def translate_ftl_file(path):
         new_line = f"{key}= {translated}\n"
         new_lines.append(new_line)
 
+        translated_any = True
+
         time.sleep(0.05)
 
-    with open(path, "w", encoding="utf-8") as f:
-        f.writelines(new_lines)
+    if translated_any:
+        with open(path, "w", encoding="utf-8") as f:
+            f.writelines(new_lines)
 
-    return True
+    return translated_any
 
 
 def run():

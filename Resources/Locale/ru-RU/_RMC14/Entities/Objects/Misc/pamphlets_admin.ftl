@@ -1,201 +1,66 @@
-ent-RMCPamphletAdminVehicles3 = инструкции по транспортным средствам 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminVehicles2 = инструкции по транспортным средствам 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminVehicles1 = транспортные средства 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminSurgery3 = учебная брошюра по хирургии 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminSurgery2 = учебная брошюра по хирургии 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminSurgery1 = хирургия 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminWeaponsSpecialistSniper = Учебная брошюра для специалиста-снайпера
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminWeaponsSpecialistScout = Учебная брошюра для специалиста-разведчика
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminWeaponsSpecialistPyro = Учебная брошюра для специалиста по пиротехнике
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminWeaponsSpecialistGrenadier = Учебная брошюра для гренадерского специалиста
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminWeaponsSpecialistDemolitionist = Учебная брошюра для специалистов по сносу зданий
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminSmartGun1 = умный пистолет 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminResearch1 = исследование 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminPowerLoader2 = брошюра с инструкциями по Power Loader 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminPowerLoader1 = погрузчик с электроприводом 1 брошюра с инструкциями
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminPolice2 = Учебная брошюра полиции 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminPolice1 = полиция 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminPilot2 = учебная брошюра для пилота 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminPilot1 = учебная брошюра для пилота 1
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminOverwatch1 = Overwatch 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminNavigations1 = навигация 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminMeleeWeapons2 = Учебная брошюра по холодному оружию 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminMeleeWeapons1 = холодное оружие 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminMedical4 = медицинская 4 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminMedical3 = медицинская 3 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminMedical2 = медицинская 2 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminMedical1 = медицинская 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminLeadership3 = Учебная брошюра по лидерству 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminLeadership2 = Учебная брошюра по лидерству 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminLeadership1 = лидерство 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminJtac4 = инструкция по jtac 4
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminJtac3 = инструкция по jtac 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminJtac2 = инструкция по jtac 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminJtac1 = jtac 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminIntel2 = инструкция по Intel 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminIntel1 = Intel 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFireman5 = Учебная брошюра пожарного 5
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFireman4 = Учебная брошюра «Пожарный 4»
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFireman3 = Учебная брошюра пожарного 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFireman2 = Учебная брошюра пожарного 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFireman1 = Учебная брошюра для пожарного 1
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFirearms3 = Учебная брошюра по огнестрельному оружию 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFirearms2 = Учебная брошюра по огнестрельному оружию 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminFirearms1 = огнестрельное оружие 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminExecution1 = исполнение 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEngineer4 = учебная брошюра инженера 4
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEngineer3 = учебная брошюра инженера 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEngineer2 = учебная брошюра инженера 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEngineer1 = инженер 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEndurance5 = Учебная брошюра по выносливости 5
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEndurance4 = Учебная брошюра по выносливости 4
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEndurance3 = Учебная брошюра по выносливости 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEndurance2 = Учебная брошюра по выносливости 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminEndurance1 = учебная брошюра по выносливости 1
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminDomestics2 = учебная брошюра для домашних животных 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminDomestics1 = домашняя прислуга 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminCQC5 = cqc 5 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminCQC4 = cqc 4 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminCQC3 = cqc 3 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminCQC2 = cqc 2 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminCQC1 = cqc 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminConstruction3 = учебная брошюра по строительству 3
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
+ent-RMCPamphletAdminVehicles3 = инструкция по технике 3
+ent-RMCPamphletAdminVehicles2 = инструкция по технике 2
+ent-RMCPamphletAdminVehicles1 = инструкция по технике 1
+ent-RMCPamphletAdminSurgery3 = инструкция по хирургии 3
+ent-RMCPamphletAdminSurgery2 = инструкция по хирургии 2
+ent-RMCPamphletAdminSurgery1 = инструкция по хирургии 1
+ent-RMCPamphletAdminWeaponsSpecialistSniper = инструкция для специалиста-снайпера
+ent-RMCPamphletAdminWeaponsSpecialistScout = инструкция для специалиста-разведчика
+ent-RMCPamphletAdminWeaponsSpecialistPyro = инструкция для специалиста-огнемётчика
+ent-RMCPamphletAdminWeaponsSpecialistGrenadier = инструкция для специалиста-гранатомётчика
+ent-RMCPamphletAdminWeaponsSpecialistDemolitionist = инструкция для специалиста-подрывника
+ent-RMCPamphletAdminSmartGun1 = инструкция по умному оружию 1
+ent-RMCPamphletAdminResearch1 = инструкция для исследователей 1
+ent-RMCPamphletAdminPowerLoader2 = инструкция по погрузчикам 2
+ent-RMCPamphletAdminPowerLoader1 = инструкция по погрузчикам 1
+ent-RMCPamphletAdminPolice2 = инструкция для полиции 2
+ent-RMCPamphletAdminPolice1 = инструкция для полиции 1
+ent-RMCPamphletAdminPilot2 = инструкция для пилотов 2
+ent-RMCPamphletAdminPilot1 = инструкция для пилотов 1
+ent-RMCPamphletAdminOverwatch1 = инструкция по управлению 1
+ent-RMCPamphletAdminNavigations1 = инструкция по навигации 1
+ent-RMCPamphletAdminMeleeWeapons2 = инструкция по оружию ближнего боя 2
+ent-RMCPamphletAdminMeleeWeapons1 = инструкция по оружию ближнего боя 1
+ent-RMCPamphletAdminMedical4 = инструкция для медиков 4
+ent-RMCPamphletAdminMedical3 = инструкция для медиков 3
+ent-RMCPamphletAdminMedical2 = инструкция для медиков 2
+ent-RMCPamphletAdminMedical1 = инструкция для медиков 1
+ent-RMCPamphletAdminLeadership3 = инструкция по лидерству 3
+ent-RMCPamphletAdminLeadership2 = инструкция по лидерству 2
+ent-RMCPamphletAdminLeadership1 = инструкция по лидерству 1
+ent-RMCPamphletAdminJtac4 = инструкция для СКАТ 4
+ent-RMCPamphletAdminJtac3 = инструкция для СКАТ 3
+ent-RMCPamphletAdminJtac2 = инструкция для СКАТ 2
+ent-RMCPamphletAdminJtac1 = инструкция для СКАТ 1
+ent-RMCPamphletAdminIntel2 = инструкция по разведке 2
+ent-RMCPamphletAdminIntel1 = инструкция по разведке 1
+ent-RMCPamphletAdminFireman5 = инструкция для пожарных 5
+ent-RMCPamphletAdminFireman4 = инструкция для пожарных 4
+ent-RMCPamphletAdminFireman3 = инструкция для пожарных 3
+ent-RMCPamphletAdminFireman2 = инструкция для пожарных 2
+ent-RMCPamphletAdminFireman1 = инструкция для пожарных 1
+ent-RMCPamphletAdminFirearms3 = инструкция по стрелковому оружию 3
+ent-RMCPamphletAdminFirearms2 = инструкция по стрелковому оружию 2
+ent-RMCPamphletAdminFirearms1 = инструкция по стрелковому оружию 1
+ent-RMCPamphletAdminExecution1 = инструкция по приведению приговоров 1
+ent-RMCPamphletAdminEngineer4 = инструкция для инженеров 4
+ent-RMCPamphletAdminEngineer3 = инструкция для инженеров 3
+ent-RMCPamphletAdminEngineer2 = инструкция для инженеров 2
+ent-RMCPamphletAdminEngineer1 = инструкция для инженеров 1
+ent-RMCPamphletAdminEndurance5 = инструкция по выносливости 5
+ent-RMCPamphletAdminEndurance4 = инструкция по выносливости 4
+ent-RMCPamphletAdminEndurance3 = инструкция по выносливости 3
+ent-RMCPamphletAdminEndurance2 = инструкция по выносливости 2
+ent-RMCPamphletAdminEndurance1 = инструкция по выносливости 1
+ent-RMCPamphletAdminDomestics2 = инструкция по бытовым вопросам 2
+ent-RMCPamphletAdminDomestics1 = инструкция по бытовым вопросам 1
+ent-RMCPamphletAdminCQC5 = инструкция по рукопашному бою 5
+ent-RMCPamphletAdminCQC4 = инструкция по рукопашному бою 4
+ent-RMCPamphletAdminCQC3 = инструкция по рукопашному бою 3
+ent-RMCPamphletAdminCQC2 = инструкция по рукопашному бою 2
+ent-RMCPamphletAdminCQC1 = инструкция по рукопашному бою 1
+ent-RMCPamphletAdminConstruction3 = инструкция по строительству 3
 ent-RMCPamphletAdminConstruction2 = инструкция по строительству 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminConstruction1 = строительство 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminAntagonist2 = Учебная брошюра по Антагонисту 2
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdminAntagonist1 = антагонист 1 учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
-ent-RMCPamphletAdmin = учебная брошюра
-  .desc = Брошюра, предназначенная для быстрого распространения жизненно важных знаний.
-
+ent-RMCPamphletAdminConstruction1 = инструкция по строительству 1
+ent-RMCPamphletAdminAntagonist2 = инструкция по антагонистам 2
+ent-RMCPamphletAdminAntagonist1 = инструкция по антагонистам 1

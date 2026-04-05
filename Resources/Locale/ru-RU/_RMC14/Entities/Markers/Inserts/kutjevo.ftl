@@ -1,12 +1,4 @@
-ent-RMCMapInsertSolarisPlinkingSpotNorthLZ = Плинкинг-Спот, Северная зона LZ
-
-ent-RMCMapInsertKutjevoTrappedMonke = Клоун в ловушке
-
-ent-RMCMapInsertKutjevoCleaningProgBotany = Очистка Ботаника
-
-ent-RMCMapInsertKutjevoCommunications = ЮВ КПП
-
-ent-RMCMapInsertKutjevoCLFSmugglers = Контрабандисты CLF
-
-ent-RMCMapInsertKutjevoLZ1Alternative = Альтернатива LZ1
-
+ent-RMCMapInsertSolarisPlinkingSpotNorthLZ = Стрельбище Северная ЗП
+ent-RMCMapInsertKutjevoTrappedMonke = Запертый Клоун
+ent-RMCMapInsertKutjevoCleaningProgBotany = Уборка Ботаники
+ent-RMCMapInsertKutjevoCommunications = КПП ЮВ
