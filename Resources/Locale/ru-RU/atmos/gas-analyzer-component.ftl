@@ -1,7 +1,10 @@
 ## Entity
+
 gas-analyzer-object-out-of-range = Объект покинул зону действия.
 gas-analyzer-shutoff = Газоанализатор выключается.
+
 ## UI
+
 gas-analyzer-window-name = Газоанализатор
 gas-analyzer-window-environment-tab-label = Окружение
 gas-analyzer-window-tab-title-capitalized = { CAPITALIZE($title) }
@@ -21,8 +24,10 @@ gas-analyzer-window-percentage-column-name = %
 gas-analyzer-window-molarity-text = { $mol }
 gas-analyzer-window-percentage-text = { $percentage }
 gas-analyzer-window-molarity-percentage-text = { $gasName }: { $amount } моль ({ $percentage }%)
+
 # Used for GasEntry.ToString()
 gas-entry-info = { $gasName }: { $gasAmount } моль
+
 # overrides for trinary devices to have saner names
 gas-analyzer-window-text-inlet = Вход
 gas-analyzer-window-text-outlet = Выход

@@ -60,6 +60,7 @@ news-dataset-59 = Томми Б. Сайф говорит: Бронировани
 news-dataset-60 = Пончики: Есть ли что-то, что они не могут?
 news-dataset-61 = Если свистки сделаны из олова, то из чего сделаны горны?
 news-dataset-62 = Брокколи оказалась колонией крошечных инопланетян с мыслями об убийстве.
+
 ## Commented
 # {{AFFECTED}} clerk first person able to pronounce '@*$%!'.
 # {{AFFECTED}} delis serving boiled paperback dictionaries, 'Adjectives chewy' customers declare.
