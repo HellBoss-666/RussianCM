@@ -15,6 +15,5 @@ rmc-squad-info-unassigned = [font size=16][bold]Не распределены[/b
 rmc-squad-info-fireteam = [font size=16][bold]Боевая группа {$fireteam}[/bold][/font]
 rmc-squad-info-tracking-selection = Отслеживание цели
 rmc-squad-info-tracking-choose = Выберите новую цель для отслеживания.
-rmc-squad-info-squad-leader = Командир отряда
 rmc-squad-info-fireteam-leader = Командир группы
 rmc-squad-info-change-tracker = Сменить цель
