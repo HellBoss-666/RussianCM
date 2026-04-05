@@ -1,20 +1,20 @@
-ent-RMCMarkerGM-name = ГМ-маркер
+ent-RMCMarkerGM = ГМ-маркер
 
-ent-RMCMarkerGMExclamation-name = GM marker
+ent-RMCMarkerGMExclamation = GM marker
 
-ent-RMCMarkerGMQuestion-name = GM marker
+ent-RMCMarkerGMQuestion = GM marker
 
-ent-RMCMarkerGMCircle-name = GM marker
+ent-RMCMarkerGMCircle = GM marker
 
-ent-RMCMarkerGMX-name = GM marker
+ent-RMCMarkerGMX = GM marker
 
-ent-RMCMarkerGMDollar-name = GM marker
+ent-RMCMarkerGMDollar = GM marker
 
-ent-RMCMarkerGMSword-name = GM marker
+ent-RMCMarkerGMSword = GM marker
 
-ent-RMCMarkerGMShield-name = GM marker
+ent-RMCMarkerGMShield = GM marker
 
-ent-RMCMarkerGMHash-name = GM marker
+ent-RMCMarkerGMHash = GM marker
 
-ent-RMCMarkerGMStar-name = GM marker
+ent-RMCMarkerGMStar = GM marker
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTechnician-name = предустановка технического колониста
+ent-RMCGearSurvivorPresetTechnician = предустановка технического колониста
 
-ent-RMCSpawnPointSurvivorTechnician-name = точка появления выжившего инженера-техника
-ent-RMCSpawnPointSurvivorTechnician-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorTechnician = точка появления выжившего инженера-техника
+  .desc = Создатель заданий RMC14. 
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaXenoarchaeologist-name = пресет ксеноархеолога
+ent-RMCGearSurvivorPresetHybrisaXenoarchaeologist = пресет ксеноархеолога
 
-ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist-name = точка спавна ксеноархеологов
-ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaXenoarchaeologist = точка спавна ксеноархеологов
+  .desc = Создатель заданий RMC14. 
 

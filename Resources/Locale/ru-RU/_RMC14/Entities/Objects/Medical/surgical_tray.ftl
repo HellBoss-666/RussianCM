@@ -1,4 +1,4 @@
-ent-RMCSurgicalTray-name = хирургический лоток
+ent-RMCSurgicalTray = хирургический лоток
 
-ent-RMCSurgicalTrayEmpty-name = предмет хранения
+ent-RMCSurgicalTrayEmpty = предмет хранения
 

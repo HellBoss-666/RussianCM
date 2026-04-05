@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidICBLiaison-name = роль призрака связи бюро межзвездной торговли
+ent-RMCRandomHumanoidICBLiaison = роль призрака связи бюро межзвездной торговли
 

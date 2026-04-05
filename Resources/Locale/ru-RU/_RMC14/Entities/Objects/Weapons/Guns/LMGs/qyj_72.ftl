@@ -1,9 +1,9 @@
-ent-RMCCartridgeLMGQYJ72-name = cartridge
+ent-RMCCartridgeLMGQYJ72 = cartridge
 
-ent-RMCMagazineLMGQYJ72-name = item
+ent-RMCMagazineLMGQYJ72 = item
 
-ent-RMCWeaponLMGQYJ72-name = единый пулемёт QYJ-72
+ent-RMCWeaponLMGQYJ72 = единый пулемёт QYJ-72
 
-ent-RMCBulletLMGQYJ72-name = BaseBullet
-ent-RMCBulletLMGQYJ72-desc = If you can see this you're probably dead!
+ent-RMCBulletLMGQYJ72 = BaseBullet
+  .desc = If you can see this you're probably dead!
 

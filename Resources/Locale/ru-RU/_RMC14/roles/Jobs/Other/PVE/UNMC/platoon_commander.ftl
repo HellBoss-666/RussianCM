@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVEPlatoonCommander-name = Точка появления командира взвода PVE
-ent-RMCSpawnPointPVEPlatoonCommander-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPVEPlatoonCommander = Точка появления командира взвода PVE
+  .desc = Создатель заданий RMC14. 
 

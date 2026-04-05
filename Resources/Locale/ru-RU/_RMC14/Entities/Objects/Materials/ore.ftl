@@ -1,36 +1,36 @@
-ent-RMCUraniumOre-name = настуран
-ent-RMCUraniumOre-desc = Руда, содержащая уран. 
+ent-RMCUraniumOre = настуран
+  .desc = Руда, содержащая уран. 
 
-ent-RMCSilverOre-name = самородная серебряная руда
+ent-RMCSilverOre = самородная серебряная руда
 
-ent-RMCPlatinumOre-name = необработанная платина
+ent-RMCPlatinumOre = необработанная платина
 
-ent-RMCPlasmaOre-name = кристаллы форонов
+ent-RMCPlasmaOre = кристаллы форонов
 
-ent-RMCIronOre-name = гематит
+ent-RMCIronOre = гематит
 
-ent-RMCGoldOre-name = самородная золотая руда
+ent-RMCGoldOre = самородная золотая руда
 
-ent-RMCDiamondOre-name = бриллианты
+ent-RMCDiamondOre = бриллианты
 
-ent-RMCCoal-name = углеродистая порода
+ent-RMCCoal = углеродистая порода
 
-ent-RMCOreBase-name = элемент
+ent-RMCOreBase = элемент
 
-ent-RMCCoal1-name = углеродистая порода
+ent-RMCCoal1 = углеродистая порода
 
-ent-RMCGoldOre1-name = самородная золотая руда
+ent-RMCGoldOre1 = самородная золотая руда
 
-ent-RMCDiamondOre1-name = бриллианты
+ent-RMCDiamondOre1 = бриллианты
 
-ent-RMCIronOre1-name = гематит
+ent-RMCIronOre1 = гематит
 
-ent-RMCPlasmaOre1-name = кристаллы форонов
+ent-RMCPlasmaOre1 = кристаллы форонов
 
-ent-RMCPlatinumOre1-name = необработанная платина
+ent-RMCPlatinumOre1 = необработанная платина
 
-ent-RMCSilverOre1-name = самородная серебряная руда
+ent-RMCSilverOre1 = самородная серебряная руда
 
-ent-RMCUraniumOre1-name = настуран
-ent-RMCUraniumOre1-desc = Руда, содержащая уран. 
+ent-RMCUraniumOre1 = настуран
+  .desc = Руда, содержащая уран. 
 

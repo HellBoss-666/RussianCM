@@ -1,20 +1,20 @@
-ent-CMLightReplacer-name = сменщик ламп
+ent-CMLightReplacer = сменщик ламп
 
-ent-CMWarningCone-name = warning cone
-ent-CMWarningCone-desc = This cone is trying to warn you of something!
+ent-CMWarningCone = warning cone
+  .desc = This cone is trying to warn you of something!
 
-ent-CMWetSign-name = wet floor sign
-ent-CMWetSign-desc = Caution! Wet Floor!
+ent-CMWetSign = wet floor sign
+  .desc = Caution! Wet Floor!
 
-ent-CMMop-name = mop
-ent-CMMop-desc = The world of janitalia wouldn't be complete without a mop.
+ent-CMMop = mop
+  .desc = The world of janitalia wouldn't be complete without a mop.
 
-ent-RMCLightReplacer-name = light replacer
-ent-RMCLightReplacer-desc = A device to automatically replace lights. Refill with working lightbulbs.
+ent-RMCLightReplacer = light replacer
+  .desc = A device to automatically replace lights. Refill with working lightbulbs.
 
-ent-RMCLightReplacerEmpty-name = light replacer
-ent-RMCLightReplacerEmpty-desc = A device to automatically replace lights. Refill with working lightbulbs.
+ent-RMCLightReplacerEmpty = light replacer
+  .desc = A device to automatically replace lights. Refill with working lightbulbs.
 
-ent-RMCSprayBottleSpaceCleaner-name = space cleaner
-ent-RMCSprayBottleSpaceCleaner-desc = BLAM!-brand non-foaming space cleaner!
+ent-RMCSprayBottleSpaceCleaner = space cleaner
+  .desc = BLAM!-brand non-foaming space cleaner!
 

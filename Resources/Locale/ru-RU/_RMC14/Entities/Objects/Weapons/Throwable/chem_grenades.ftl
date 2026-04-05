@@ -1,25 +1,25 @@
-ent-RMCSmokeChemical-name = курить
+ent-RMCSmokeChemical = курить
 
-ent-RMCChemicalPayloadWeedkiller-name = полезная нагрузка гербицида
-ent-RMCChemicalPayloadWeedkiller-desc = Химическая полезная нагрузка. 
+ent-RMCChemicalPayloadWeedkiller = полезная нагрузка гербицида
+  .desc = Химическая полезная нагрузка. 
 
-ent-RMCGrenadeCustomWeedkiller-name = граната от сорняков
-ent-RMCGrenadeCustomWeedkiller-desc = Используется для очистки больших площадей от инвазивных видов растений. 
+ent-RMCGrenadeCustomWeedkiller = граната от сорняков
+  .desc = Используется для очистки больших площадей от инвазивных видов растений. 
 
-ent-RMCChemicalPayloadMetalFoam-name = полезная нагрузка из металлической пены
-ent-RMCChemicalPayloadMetalFoam-desc = Химическая полезная нагрузка. 
+ent-RMCChemicalPayloadMetalFoam = полезная нагрузка из металлической пены
+  .desc = Химическая полезная нагрузка. 
 
-ent-RMCGrenadeCustomMetalFoam-name = металлопенная граната
-ent-RMCGrenadeCustomMetalFoam-desc = Используется для аварийной герметизации воздушных нарушений.
+ent-RMCGrenadeCustomMetalFoam = металлопенная граната
+  .desc = Используется для аварийной герметизации воздушных нарушений.
 
-ent-RMCCustomGrenade-name = пользовательская граната
-ent-RMCCustomGrenade-desc = Изготовленная на заказ химическая граната с гильзой 30 мм. 
+ent-RMCCustomGrenade = пользовательская граната
+  .desc = Изготовленная на заказ химическая граната с гильзой 30 мм. 
 
-ent-RMCBeakerMetalFoamAluminum-name = элемент
+ent-RMCBeakerMetalFoamAluminum = элемент
 
-ent-RMCBeakerMetalFoamingAgent-name = элемент
+ent-RMCBeakerMetalFoamingAgent = элемент
 
-ent-RMCBeakerWeedkillerPlantBGone-name = элемент
+ent-RMCBeakerWeedkillerPlantBGone = элемент
 
-ent-RMCBeakerWeedkillerPhosphorus-name = элемент
+ent-RMCBeakerWeedkillerPhosphorus = элемент
 

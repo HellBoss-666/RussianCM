@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidPMCWhiteout-name = DEATHSQUAD ЧВК в роли призрака
+ent-RMCRandomHumanoidPMCWhiteout = DEATHSQUAD ЧВК в роли призрака
 

@@ -1,53 +1,53 @@
-ent-RMCAirlockGlassSecurityLockedTSEPAAlt-name = шлюзовая камера
-ent-RMCAirlockGlassSecurityLockedTSEPAAlt-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-RMCAirlockGlassSecurityLockedTSEPAAlt = шлюзовая камера
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockSecureLockedColony-name = безопасный шлюз
+ent-CMAirlockSecureLockedColony = безопасный шлюз
 
-ent-CMAirlockCommandLockedColony-name = командный шлюз
+ent-CMAirlockCommandLockedColony = командный шлюз
 
-ent-CMAirlockSecurityLockedColony-name = шлюз безопасности
+ent-CMAirlockSecurityLockedColony = шлюз безопасности
 
-ent-CMAirlockEngineerLockedColony-name = инженерный шлюз
+ent-CMAirlockEngineerLockedColony = инженерный шлюз
 
-ent-CMAirlockRequisitionsLockedColony-name = отсек для заявок
-ent-CMAirlockRequisitionsLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-CMAirlockRequisitionsLockedColony = отсек для заявок
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockMedicalLockedColony-name = медицинский шлюз
+ent-CMAirlockMedicalLockedColony = медицинский шлюз
 
-ent-CMAirlockResearchLockedColony-name = медицинский шлюз
+ent-CMAirlockResearchLockedColony = медицинский шлюз
 
-ent-CMAirlockMaintLockedColony-name = люк для обслуживания
+ent-CMAirlockMaintLockedColony = люк для обслуживания
 
-ent-CMAirlockGlassLockedColony-name = стеклянный шлюзовой шлюз
-ent-CMAirlockGlassLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-CMAirlockGlassLockedColony = стеклянный шлюзовой шлюз
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassEngineerLockedColony-name = инженерный шлюз
-ent-CMAirlockGlassEngineerLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-CMAirlockGlassEngineerLockedColony = инженерный шлюз
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassSecurityLockedColony-name = шлюз безопасности
-ent-CMAirlockGlassSecurityLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-CMAirlockGlassSecurityLockedColony = шлюз безопасности
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassMedicalLockedColony-name = медицинский шлюз
-ent-CMAirlockGlassMedicalLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-CMAirlockGlassMedicalLockedColony = медицинский шлюз
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-CMAirlockGlassResearchLockedColony-name = медицинский шлюз
-ent-CMAirlockGlassResearchLockedColony-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-CMAirlockGlassResearchLockedColony = медицинский шлюз
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-RMCAirlockGlassSecurityLockedTSEPA-name = шлюз безопасности
-ent-RMCAirlockGlassSecurityLockedTSEPA-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-RMCAirlockGlassSecurityLockedTSEPA = шлюз безопасности
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-RMCAirlockSecurityLockedTSEPA-name = шлюз безопасности
+ent-RMCAirlockSecurityLockedTSEPA = шлюз безопасности
 
-ent-RMCAirlockGlassSecurityLockedTSEPABrig-name = шлюз безопасности
-ent-RMCAirlockGlassSecurityLockedTSEPABrig-desc = Он открывается, закрывается и, возможно, раздавит вас.
+ent-RMCAirlockGlassSecurityLockedTSEPABrig = шлюз безопасности
+  .desc = Он открывается, закрывается и, возможно, раздавит вас.
 
-ent-RMCDoubleDoorSecurityGlassLockedTSEPA-name = дверь
+ent-RMCDoubleDoorSecurityGlassLockedTSEPA = дверь
 
-ent-RMCDoubleDoorSecurityGlassLockedTSEPAAlt-name = дверь
+ent-RMCDoubleDoorSecurityGlassLockedTSEPAAlt = дверь
 
-ent-RMCAirlockMaintLockedTSEPA-name = люк для обслуживания
+ent-RMCAirlockMaintLockedTSEPA = люк для обслуживания
 
-ent-RMCAirlockHybrisaPersonalLockedTSEPA-name = шлюзовая камера
+ent-RMCAirlockHybrisaPersonalLockedTSEPA = шлюзовая камера
 
-ent-RMCAirlockHybrisaPersonalLockedTSEPABrig-name = шлюзовая камера
+ent-RMCAirlockHybrisaPersonalLockedTSEPABrig = шлюзовая камера
 

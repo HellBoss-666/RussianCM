@@ -1,10 +1,10 @@
-ent-RMCAreaSupplyDockVehicle-name = Автомобиль АСРС
+ent-RMCAreaSupplyDockVehicle = Автомобиль АСРС
 
-ent-RMCAreaSupplyStationVehicle-name = Автомобиль АСРС
+ent-RMCAreaSupplyStationVehicle = Автомобиль АСРС
 
-ent-RMCAreaSupplyDock-name = Шаттл снабжения
+ent-RMCAreaSupplyDock = Шаттл снабжения
 
-ent-RMCAreaSupplyStation-name = Шаттл снабжения
+ent-RMCAreaSupplyStation = Шаттл снабжения
 
-ent-RMCAreaSupply-name = область
+ent-RMCAreaSupply = область
 

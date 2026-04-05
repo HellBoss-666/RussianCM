@@ -1,3 +1,3 @@
-ent-RMCBoxIngredients-name = лишняя коробка ингредиентов
-ent-RMCBoxIngredients-desc = В этой коробке находятся ингредиенты.
+ent-RMCBoxIngredients = лишняя коробка ингредиентов
+  .desc = В этой коробке находятся ингредиенты.
 

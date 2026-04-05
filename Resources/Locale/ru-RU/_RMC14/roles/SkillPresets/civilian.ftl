@@ -1,34 +1,34 @@
-ent-RMCSkillPresetSurvivor-name = Выживший
+ent-RMCSkillPresetSurvivor = Выживший
 
-ent-RMCSkillPresetSurvivorChaplain-name = Выживший капеллан
+ent-RMCSkillPresetSurvivorChaplain = Выживший капеллан
 
-ent-RMCSkillPresetSurvivorWeYaManager-name = Выживший Менеджер WeYa
+ent-RMCSkillPresetSurvivorWeYaManager = Выживший Менеджер WeYa
 
-ent-RMCSkillPresetSurvivorMarshal-name = Заместитель маршала, выживший
+ent-RMCSkillPresetSurvivorMarshal = Заместитель маршала, выживший
 
-ent-RMCSkillPresetSurvivorRiotControlTeamLeader-name = Руководитель группы по борьбе с беспорядками CMB, выживший
+ent-RMCSkillPresetSurvivorRiotControlTeamLeader = Руководитель группы по борьбе с беспорядками CMB, выживший
 
-ent-RMCSkillPresetSurvivorGoon-name = Выживший Гун
+ent-RMCSkillPresetSurvivorGoon = Выживший Гун
 
-ent-RMCSkillPresetSurvivorGoonMedic-name = Выживший головорез-медик
+ent-RMCSkillPresetSurvivorGoonMedic = Выживший головорез-медик
 
-ent-RMCSkillPresetSurvivorGoonTechnician-name = Техник-выживший головорез
+ent-RMCSkillPresetSurvivorGoonTechnician = Техник-выживший головорез
 
-ent-RMCSkillPresetSurvivorGoonLead-name = Выживший головорез
+ent-RMCSkillPresetSurvivorGoonLead = Выживший головорез
 
-ent-RMCSkillPresetSurvivorTrucker-name = Выживший дальнобойщик
+ent-RMCSkillPresetSurvivorTrucker = Выживший дальнобойщик
 
-ent-RMCSkillPresetSurvivorMiner-name = Выживший шахтер
+ent-RMCSkillPresetSurvivorMiner = Выживший шахтер
 
-ent-RMCSkillPresetSurvivorWeYaPMCStandard-name = Выживший ЧВК Стандарт
+ent-RMCSkillPresetSurvivorWeYaPMCStandard = Выживший ЧВК Стандарт
 
-ent-RMCSkillPresetSurvivorWeYaPMCMedic-name = Выживший медик ЧВК
+ent-RMCSkillPresetSurvivorWeYaPMCMedic = Выживший медик ЧВК
 
-ent-RMCSkillPresetSurvivorWeYaPMCEngineer-name = Выживший инженер ЧВК
+ent-RMCSkillPresetSurvivorWeYaPMCEngineer = Выживший инженер ЧВК
 
-ent-RMCSkillPresetSurvivorWeYaPMCLeader-name = Руководитель группы выживших ЧВК
+ent-RMCSkillPresetSurvivorWeYaPMCLeader = Руководитель группы выживших ЧВК
 
-ent-RMCSkillPresetSurvivorWeYaPMCCommander-name = Руководитель полевых операций ЧВК выживших
+ent-RMCSkillPresetSurvivorWeYaPMCCommander = Руководитель полевых операций ЧВК выживших
 
-ent-RMCSkillPresetSurvivorPizzaGalaxyDriver-name = Водитель службы доставки Survivor Pizza Galaxy
+ent-RMCSkillPresetSurvivorPizzaGalaxyDriver = Водитель службы доставки Survivor Pizza Galaxy
 

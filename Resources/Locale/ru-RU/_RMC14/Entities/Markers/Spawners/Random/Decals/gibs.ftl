@@ -1,6 +1,6 @@
-ent-RMCDecalSpawnerGibsDrone-name = спаунер гибов
+ent-RMCDecalSpawnerGibsDrone = спаунер гибов
 
-ent-RMCDecalSpawnerGibsLesserDrone-name = спаунер гибов
+ent-RMCDecalSpawnerGibsLesserDrone = спаунер гибов
 
-ent-RMCDecalSpawnerGibsBase-name = Decal Spawner
+ent-RMCDecalSpawnerGibsBase = Decal Spawner
 

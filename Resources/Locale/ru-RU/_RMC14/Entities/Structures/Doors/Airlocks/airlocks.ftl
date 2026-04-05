@@ -1,64 +1,64 @@
-ent-CMAirlockPrepDelta-name = delta squad preparations
-ent-CMAirlockPrepDelta-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepDelta = delta squad preparations
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockPrepCharlie-name = charlie squad preparations
-ent-CMAirlockPrepCharlie-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepCharlie = charlie squad preparations
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockPrepBravo-name = bravo squad preparations
-ent-CMAirlockPrepBravo-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepBravo = bravo squad preparations
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockPrepAlpha-name = alpha squad preparations
-ent-CMAirlockPrepAlpha-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrepAlpha = alpha squad preparations
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockPrep-name = preparations airlock
-ent-CMAirlockPrep-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockPrep = preparations airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockGlassSecurity-name = security airlock
-ent-CMAirlockGlassSecurity-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassSecurity = security airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockGlassMedical-name = medical airlock
-ent-CMAirlockGlassMedical-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassMedical = medical airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockGlassEngineer-name = engineering airlock
-ent-CMAirlockGlassEngineer-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassEngineer = engineering airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockGlass-name = glass airlock
-ent-CMAirlockGlass-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlass = glass airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-RMCAirlockRustedWhite-name = airlock
+ent-RMCAirlockRustedWhite = airlock
 
-ent-RMCAirlockRusted-name = airlock
+ent-RMCAirlockRusted = airlock
 
-ent-RMCAirlockHybrisaPersonal-name = airlock
+ent-RMCAirlockHybrisaPersonal = airlock
 
-ent-RMCAirlockHybrisa-name = airlock
+ent-RMCAirlockHybrisa = airlock
 
-ent-CMAirlockPrison-name = maintenance hatch
+ent-CMAirlockPrison = maintenance hatch
 
-ent-CMAirlockCell-name = cell door
+ent-CMAirlockCell = cell door
 
-ent-CMAirlockSecure-name = secure airlock
+ent-CMAirlockSecure = secure airlock
 
-ent-CMAirlockMaintReinforced-name = reinforced maintenance hatch
+ent-CMAirlockMaintReinforced = reinforced maintenance hatch
 
-ent-CMAirlockMaint-name = maintenance hatch
+ent-CMAirlockMaint = maintenance hatch
 
-ent-CMAirlockSecurity-name = security airlock
+ent-CMAirlockSecurity = security airlock
 
-ent-CMAirlockMedical-name = medical airlock
+ent-CMAirlockMedical = medical airlock
 
-ent-CMAirlockEngineer-name = engineering airlock
+ent-CMAirlockEngineer = engineering airlock
 
-ent-CMAirlockCommand-name = command airlock
+ent-CMAirlockCommand = command airlock
 
-ent-CMAirlock-name = шлюзовая камера
+ent-CMAirlock = шлюзовая камера
 
-ent-CMAirlockGlassHybrisa-name = glass airlock
-ent-CMAirlockGlassHybrisa-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassHybrisa = glass airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-CMAirlockGlassHybrisaPersonal-name = glass airlock
-ent-CMAirlockGlassHybrisaPersonal-desc = It opens, it closes, and maybe crushes you.
+ent-CMAirlockGlassHybrisaPersonal = glass airlock
+  .desc = It opens, it closes, and maybe crushes you.
 
-ent-RMCAirlockSPPGreyGlass-name = glass airlock
-ent-RMCAirlockSPPGreyGlass-desc = It opens, it closes, and maybe crushes you.
+ent-RMCAirlockSPPGreyGlass = glass airlock
+  .desc = It opens, it closes, and maybe crushes you.
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetICB-name = предустановка колониста icb
+ent-RMCGearSurvivorPresetICB = предустановка колониста icb
 
-ent-RMCSpawnPointSurvivorVaraderoICB-name = точка появления выжившего icb
-ent-RMCSpawnPointSurvivorVaraderoICB-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorVaraderoICB = точка появления выжившего icb
+  .desc = Создатель заданий RMC14. 
 

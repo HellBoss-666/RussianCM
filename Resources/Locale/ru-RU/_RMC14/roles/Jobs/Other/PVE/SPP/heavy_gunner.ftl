@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPGunnerPVE-name = точка спавна тяжелого стрелка SPP
-ent-RMCSpawnPointSPPGunnerPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSPPGunnerPVE = точка спавна тяжелого стрелка SPP
+  .desc = Создатель заданий RMC14. 
 

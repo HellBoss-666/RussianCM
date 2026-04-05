@@ -1,5 +1,5 @@
-ent-RMCSpawnPointSurvivorILRCPeacekeeper-name = точка возрождения выжившего миротворца ILRC
-ent-RMCSpawnPointSurvivorILRCPeacekeeper-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorILRCPeacekeeper = точка возрождения выжившего миротворца ILRC
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 
-ent-RMCGearSurvivorPresetILRCPeacekeeper-name = Настройки колониста-миротворца ILRC
+ent-RMCGearSurvivorPresetILRCPeacekeeper = Настройки колониста-миротворца ILRC
 

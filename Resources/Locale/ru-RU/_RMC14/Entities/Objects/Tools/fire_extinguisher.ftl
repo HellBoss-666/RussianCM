@@ -1,9 +1,9 @@
-ent-CMFireExtinguisher-name = огнетушитель
+ent-CMFireExtinguisher = огнетушитель
 
-ent-CMFireExtinguisherPortable-name = portable fire extinguisher
-ent-CMFireExtinguisherPortable-desc = A light and compact fibreglass-framed model fire extinguisher.
+ent-CMFireExtinguisherPortable = портативный огнетушитель
+  .desc = Легкая и компактная модель огнетушителя
 
-ent-RMCExtinguisherSpray-name = extinguisher spray
+ent-RMCExtinguisherSpray = extinguisher spray
 
-ent-RMCExtinguisherSpraySpec-name = extinguisher spray
+ent-RMCExtinguisherSpraySpec = extinguisher spray
 

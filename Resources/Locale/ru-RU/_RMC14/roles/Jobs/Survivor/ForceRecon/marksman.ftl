@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetForeconMarksman-name = Предустановка выживания стрелка Forecon
+ent-RMCSurvivorPresetForeconMarksman = Предустановка выживания стрелка Forecon
 
-ent-CMSpawnPointForeconMarksman-name = точка появления стрелка Forecon
-ent-CMSpawnPointForeconMarksman-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointForeconMarksman = точка появления стрелка Forecon
+  .desc = Создатель заданий RMC14. 
 

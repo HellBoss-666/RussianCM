@@ -1,32 +1,32 @@
-ent-RMCAreaTdomeTdomeobserve-name = заброшенный Громовой Купол (Наблюдатель.)
+ent-RMCAreaTdomeTdomeobserve = заброшенный Громовой Купол (Наблюдатель.)
 
-ent-RMCAreaTdomeTdomeadmin-name = заброшенный Громовой Купол (Админ.)
+ent-RMCAreaTdomeTdomeadmin = заброшенный Громовой Купол (Админ.)
 
-ent-RMCAreaTdomeTdome2-name = заброшенный Громовой Купол (Команда 2)
+ent-RMCAreaTdomeTdome2 = заброшенный Громовой Купол (Команда 2)
 
-ent-RMCAreaTdomeTdome1-name = заброшенный Громовой Купол (Команда 1)
+ent-RMCAreaTdomeTdome1 = заброшенный Громовой Купол (Команда 1)
 
-ent-RMCAreaTdome-name = заброшенный Громовой Купол
+ent-RMCAreaTdome = заброшенный Громовой Купол
 
-ent-RMCAreaCentcomLiving-name = заброшенные жилые помещения Центкома
+ent-RMCAreaCentcomLiving = заброшенные жилые помещения Центкома
 
-ent-RMCAreaCentcomControl-name = заброшенный Centcom Control
+ent-RMCAreaCentcomControl = заброшенный Centcom Control
 
-ent-RMCAreaCentcom-name = заброшенный Центком
+ent-RMCAreaCentcom = заброшенный Центком
 
-ent-RMCAreaStart-name = стартовая зона
+ent-RMCAreaStart = стартовая зона
 
-ent-RMCAreaSpaceHighalt-name = Большая высота
+ent-RMCAreaSpaceHighalt = Большая высота
 
-ent-RMCAreaAdminDroppodLoading-name = Административные поставки снижают загрузку
+ent-RMCAreaAdminDroppodLoading = Административные поставки снижают загрузку
 
-ent-RMCAreaAdminDroppodHolding-name = Административные поставки Droppod
+ent-RMCAreaAdminDroppodHolding = Административные поставки Droppod
 
-ent-RMCAreaAdmin-name = Комната администратора
+ent-RMCAreaAdmin = Комната администратора
 
-ent-RMCAreaSpace-name = Космос
+ent-RMCAreaSpace = Космос
 
-ent-RMCAreaEngine-name = область
+ent-RMCAreaEngine = область
 
-ent-RMCAreaAdminDroppod-name = Комната администратора
+ent-RMCAreaAdminDroppod = Комната администратора
 

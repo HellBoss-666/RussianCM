@@ -1,2 +1,2 @@
-ent-RMCMobSkrell-name = Урист Р. Макфрог
+ent-RMCMobSkrell = Урист Р. Макфрог
 

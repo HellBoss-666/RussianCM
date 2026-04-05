@@ -1,3 +1,3 @@
-ent-CMSpawnPointMessTech-name = точка появления беспорядокной техники
-ent-CMSpawnPointMessTech-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointMessTech = точка появления беспорядокной техники
+  .desc = Создатель заданий RMC14. 
 

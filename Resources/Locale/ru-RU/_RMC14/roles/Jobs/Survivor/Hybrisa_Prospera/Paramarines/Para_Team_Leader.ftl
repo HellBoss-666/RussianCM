@@ -1,3 +1,3 @@
-ent-RMCSpawnPointParaTeamLeader-name = Точка появления лидера группы парамаринов
-ent-RMCSpawnPointParaTeamLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointParaTeamLeader = Точка появления лидера группы парамаринов
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

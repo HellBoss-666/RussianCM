@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetCargoTechnician-name = Предварительная настройка колониста грузового техника
+ent-RMCGearSurvivorPresetCargoTechnician = Предварительная настройка колониста грузового техника
 
-ent-RMCSpawnPointSurvivorCargoTechnician-name = Точка появления выжившего грузового техника
-ent-RMCSpawnPointSurvivorCargoTechnician-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorCargoTechnician = Точка появления выжившего грузового техника
+  .desc = Создатель заданий RMC14. 
 

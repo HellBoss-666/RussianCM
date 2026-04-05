@@ -1,3 +1,3 @@
-ent-RMCKitchenReagentGrinder-name = Универсальная шлифовальная машина
-ent-RMCKitchenReagentGrinder-desc = Из БлендерТех. 
+ent-RMCKitchenReagentGrinder = Универсальная шлифовальная машина
+  .desc = Из БлендерТех. 
 

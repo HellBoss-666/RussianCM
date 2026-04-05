@@ -1,6 +1,6 @@
-ent-CMSpawnPointMilitaryWarden-name = точка появления военного надзирателя
-ent-CMSpawnPointMilitaryWarden-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointMilitaryWarden = точка появления военного надзирателя
+  .desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleMW-name = Военный начальник
-ent-RMCGuidebookRoleMW-desc = Военный начальник
+ent-RMCGuidebookRoleMW = Военный начальник
+  .desc = Военный начальник
 

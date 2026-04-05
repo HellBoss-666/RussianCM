@@ -1,4 +1,4 @@
-ent-RMCTankFlamerImprovised-name = самодельный бак для огнемёта
+ent-RMCTankFlamerImprovised = самодельный бак для огнемёта
 
-ent-RMCWeaponFlamerImprovised-name = самодельный огнемёт
+ent-RMCWeaponFlamerImprovised = самодельный огнемёт
 

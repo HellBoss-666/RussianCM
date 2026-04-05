@@ -1,3 +1,3 @@
-ent-RMCCoatRack-name = вешалка для одежды
-ent-RMCCoatRack-desc = Вешалка для пальто.
+ent-RMCCoatRack = вешалка для одежды
+  .desc = Вешалка для пальто.
 

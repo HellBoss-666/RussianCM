@@ -1,42 +1,42 @@
-ent-RMCAttachmentMatebaSnubNose-name = элемент
+ent-RMCAttachmentMatebaSnubNose = элемент
 
-ent-RMCAttachmentMatebaMarksman-name = элемент
+ent-RMCAttachmentMatebaMarksman = элемент
 
-ent-RMCAttachmentMatebaStandard-name = элемент
+ent-RMCAttachmentMatebaStandard = элемент
 
-ent-RMCAttachmentSuppressorNPZ92-name = элемент
+ent-RMCAttachmentSuppressorNPZ92 = элемент
 
-ent-RMCAttachmentSuppressorXM40-name = элемент
+ent-RMCAttachmentSuppressorXM40 = элемент
 
-ent-RMCAttachmentSuppressor-name = элемент
+ent-RMCAttachmentSuppressor = элемент
 
-ent-RMCAttachmentShotgunChoke-name = элемент
+ent-RMCAttachmentShotgunChoke = элемент
 
-ent-RMCAttachmentRecoilCompensator-name = элемент
+ent-RMCAttachmentRecoilCompensator = элемент
 
-ent-RMCAttachmentBarrelCharger-name = элемент
+ent-RMCAttachmentBarrelCharger = элемент
 
-ent-RMCAttachmentBarrelMar50-name = элемент
+ent-RMCAttachmentBarrelMar50 = элемент
 
-ent-RMCAttachmentExtendedBarrel-name = элемент
+ent-RMCAttachmentExtendedBarrel = элемент
 
-ent-RMCBarrelAttachmentBase-name = элемент
+ent-RMCBarrelAttachmentBase = элемент
 
-ent-RMCAttachmentExtendedCompensator-name = элемент
+ent-RMCAttachmentExtendedCompensator = элемент
 
-ent-RMCAttachmentRecoilCompensatorM13-name = элемент
+ent-RMCAttachmentRecoilCompensatorM13 = элемент
 
-ent-RMCAttachmentRecoilCompensatorM13Spiked-name = элемент
+ent-RMCAttachmentRecoilCompensatorM13Spiked = элемент
 
-ent-RMCAttachmentSuppressorCompact-name = элемент
+ent-RMCAttachmentSuppressorCompact = элемент
 
-ent-RMCAttachmentSuppressorM96SB-name = элемент
+ent-RMCAttachmentSuppressorM96SB = элемент
 
-ent-RMCAttachmentSuppressorL112-name = элемент
+ent-RMCAttachmentSuppressorL112 = элемент
 
-ent-RMCAttachmentMatebaStandardGolden-name = элемент
+ent-RMCAttachmentMatebaStandardGolden = элемент
 
-ent-RMCAttachmentMatebaMarksmanGolden-name = элемент
+ent-RMCAttachmentMatebaMarksmanGolden = элемент
 
-ent-RMCAttachmentMatebaSnubNoseGolden-name = элемент
+ent-RMCAttachmentMatebaSnubNoseGolden = элемент
 

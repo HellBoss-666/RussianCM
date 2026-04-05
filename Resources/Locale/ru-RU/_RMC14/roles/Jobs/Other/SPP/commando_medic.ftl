@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidSPPCommandoMedic-name = DEATHSQUAD spp роль призрака медик-коммандос
+ent-RMCRandomHumanoidSPPCommandoMedic = DEATHSQUAD spp роль призрака медик-коммандос
 

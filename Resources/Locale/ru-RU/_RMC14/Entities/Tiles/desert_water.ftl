@@ -1,13 +1,13 @@
-ent-RMCGrate-name = решетка
-ent-RMCGrate-desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
+ent-RMCGrate = решетка
+  .desc = Подиум для облегчения маневрирования в открытом космосе и прокладки кабеля.
 
-ent-RMCEntityDesertWaterShallow-name = мелководье
+ent-RMCEntityDesertWaterShallow = мелководье
 
-ent-RMCEntityDesertWaterShallowCorner-name = мелководье
+ent-RMCEntityDesertWaterShallowCorner = мелководье
 
-ent-RMCEntityDesertWaterShallowCornerEdge-name = мелководье
+ent-RMCEntityDesertWaterShallowCornerEdge = мелководье
 
-ent-RMCEntityDesertWaterShallowEdge-name = мелководье
+ent-RMCEntityDesertWaterShallowEdge = мелководье
 
-ent-RMCEntityDesertWaterDeep-name = глубокая вода
+ent-RMCEntityDesertWaterDeep = глубокая вода
 

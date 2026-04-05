@@ -1,10 +1,10 @@
-ent-RMCAreaShuttleERT-name = ЭРТ Шаттл
+ent-RMCAreaShuttleERT = ЭРТ Шаттл
 
-ent-RMCAreaShuttleNS-name = Трансфер
+ent-RMCAreaShuttleNS = Трансфер
 
-ent-RMCAreaERTFaxExterior-name = Реле связи сектора
+ent-RMCAreaERTFaxExterior = Реле связи сектора
 
-ent-RMCAreaERTFax-name = Реле связи сектора
+ent-RMCAreaERTFax = Реле связи сектора
 
-ent-RMCAreaERT-name = станция ERT
+ent-RMCAreaERT = станция ERT
 

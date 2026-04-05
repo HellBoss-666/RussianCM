@@ -1,2 +1,2 @@
-ent-CMBaseElectronics-name = базовая электроника
+ent-CMBaseElectronics = базовая электроника
 

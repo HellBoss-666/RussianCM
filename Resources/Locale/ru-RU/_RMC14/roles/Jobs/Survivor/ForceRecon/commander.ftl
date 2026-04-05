@@ -1,3 +1,3 @@
-ent-CMSpawnPointForeconCommander-name = Точка появления FORECON Commander
-ent-CMSpawnPointForeconCommander-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointForeconCommander = Точка появления FORECON Commander
+  .desc = Создатель заданий RMC14. 
 

@@ -1,2 +1,2 @@
-ent-CMSpawnPointJobBase-desc = Создатель заданий RMC14. 
+  .desc = Создатель заданий RMC14. 
 

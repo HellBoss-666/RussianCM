@@ -1,4 +1,4 @@
-ent-RMCGasWeedKiller-name = Средство от сорняков C10-W
+ent-RMCGasWeedKiller = Средство от сорняков C10-W
 
-ent-RMCLandingZoneGas-name = CN20-X миазмы
+ent-RMCLandingZoneGas = CN20-X миазмы
 

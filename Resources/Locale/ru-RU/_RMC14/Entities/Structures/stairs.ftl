@@ -1,2 +1,2 @@
-ent-RMCStairs-name = лестница
+ent-RMCStairs = лестница
 

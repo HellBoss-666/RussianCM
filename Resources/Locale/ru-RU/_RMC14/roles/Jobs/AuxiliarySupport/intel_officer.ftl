@@ -1,5 +1,5 @@
-ent-RMCGuidebookRoleIO-name = Офицер разведки
+ent-RMCGuidebookRoleIO = Офицер разведки
 
-ent-CMSpawnPointIntelOfficer-name = точка появления офицера разведки
-ent-CMSpawnPointIntelOfficer-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointIntelOfficer = точка появления офицера разведки
+  .desc = Создатель заданий RMC14. 
 

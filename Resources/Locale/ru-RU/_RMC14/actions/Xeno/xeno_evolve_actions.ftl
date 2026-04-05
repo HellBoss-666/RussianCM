@@ -1,9 +1,9 @@
-ent-RMCGuidebookActionXenoEvolve-name = Эволюционировать
-ent-RMCGuidebookActionXenoEvolve-desc = Эволюционируйте до следующей касты ксенонидов или выберите штамм, если он доступен.
+ent-RMCGuidebookActionXenoEvolve = Эволюционировать
+  .desc = Эволюционируйте до следующей касты ксенонидов или выберите штамм, если он доступен.
 
-ent-ActionXenoDevolve-name = Де-эволюционировать
-ent-ActionXenoDevolve-desc = Перейдите в предыдущую касту ксенонидов. 
+ent-ActionXenoDevolve = Де-эволюционировать
+  .desc = Перейдите в предыдущую касту ксенонидов. 
 
-ent-ActionXenoEvolve-name = Эволюционировать
-ent-ActionXenoEvolve-desc = Эволюционируйте до следующей касты ксенонидов или выберите штамм, если он доступен.
+ent-ActionXenoEvolve = Эволюционировать
+  .desc = Эволюционируйте до следующей касты ксенонидов или выберите штамм, если он доступен.
 

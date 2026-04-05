@@ -1,2 +1,2 @@
-ent-FloorDeathEntity-name = смерть
+ent-FloorDeathEntity = смерть
 

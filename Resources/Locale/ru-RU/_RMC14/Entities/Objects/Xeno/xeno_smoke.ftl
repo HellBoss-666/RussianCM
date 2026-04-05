@@ -1,12 +1,12 @@
-ent-RMCSmokeAcidDeathcloud-name = acid gas
+ent-RMCSmokeAcidDeathcloud = acid gas
 
-ent-RMCSmokeNeurotoxinShroud-name = neurotoxin gas
+ent-RMCSmokeNeurotoxinShroud = neurotoxin gas
 
-ent-RMCSmokeAcidShroud-name = acid gas
+ent-RMCSmokeAcidShroud = acid gas
 
-ent-RMCSmokeRunner-name = acid smoke
+ent-RMCSmokeRunner = acid smoke
 
-ent-RMCSmokeNeurotoxin-name = нейротоксичный газ
+ent-RMCSmokeNeurotoxin = нейротоксичный газ
 
-ent-RMCSmokeAcid-name = кислотный газ
+ent-RMCSmokeAcid = кислотный газ
 

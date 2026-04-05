@@ -1,0 +1,1 @@
+../../Resources/Locale/ru-RU/_RMC14/Entities\Structures\Dropships\weya_walls.ftl:181 -> ent-RMCWeyaWallStandard18 = -desc = Огромный кусок металла, используемый для разделения комнат.

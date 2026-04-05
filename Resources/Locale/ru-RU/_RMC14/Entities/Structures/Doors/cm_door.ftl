@@ -1,4 +1,4 @@
-ent-CMBaseDoor-name = дверь
+ent-CMBaseDoor = дверь
 
-ent-RMCBaseDoorInvincible-name = дверь
+ent-RMCBaseDoorInvincible = дверь
 

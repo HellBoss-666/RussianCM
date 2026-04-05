@@ -1,3 +1,3 @@
-ent-CMSpawnPointRCMPVESectionLeader-name = Точка появления лидера секции RCM
-ent-CMSpawnPointRCMPVESectionLeader-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRCMPVESectionLeader = Точка появления лидера секции RCM
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

@@ -1,2 +1,2 @@
-ent-CMRadioHandheld-name = элемент
+ent-CMRadioHandheld = элемент
 

@@ -1,198 +1,198 @@
-ent-RMCStump1-name = пень
-ent-RMCStump1-desc = Раньше здесь было дерево.
+ent-RMCStump1 = пень
+  .desc = Раньше здесь было дерево.
 
-ent-RMCAlienBush1-name = странное дерево
-ent-RMCAlienBush1-desc = Какое-то причудливое инопланетное дерево. 
+ent-RMCAlienBush1 = странное дерево
+  .desc = Какое-то причудливое инопланетное дерево. 
 
-ent-RMCBaseRock-name = скалы
+ent-RMCBaseRock = скалы
 
-ent-RMCBaseFlowers-name = цветы
+ent-RMCBaseFlowers = цветы
 
-ent-RMCBaseGrass-name = трава
+ent-RMCBaseGrass = трава
 
-ent-RMCBaseBush-name = куст
+ent-RMCBaseBush = куст
 
-ent-RMCGrassa1-name = трава
+ent-RMCGrassa1 = трава
 
-ent-RMCGrassa2-name = трава
+ent-RMCGrassa2 = трава
 
-ent-RMCGrassa3-name = трава
+ent-RMCGrassa3 = трава
 
-ent-RMCGrassa4-name = трава
+ent-RMCGrassa4 = трава
 
-ent-RMCGrassa5-name = трава
+ent-RMCGrassa5 = трава
 
-ent-RMCGrassb1-name = трава
+ent-RMCGrassb1 = трава
 
-ent-RMCGrassb2-name = трава
+ent-RMCGrassb2 = трава
 
-ent-RMCGrassb3-name = трава
+ent-RMCGrassb3 = трава
 
-ent-RMCGrassb4-name = трава
+ent-RMCGrassb4 = трава
 
-ent-RMCGrassb5-name = трава
+ent-RMCGrassb5 = трава
 
-ent-RMCGrassc1-name = трава
+ent-RMCGrassc1 = трава
 
-ent-RMCGrassc2-name = трава
+ent-RMCGrassc2 = трава
 
-ent-RMCGrassc3-name = трава
+ent-RMCGrassc3 = трава
 
-ent-RMCGrassc4-name = трава
+ent-RMCGrassc4 = трава
 
-ent-RMCGrassd1-name = трава
+ent-RMCGrassd1 = трава
 
-ent-RMCGrassd2-name = трава
+ent-RMCGrassd2 = трава
 
-ent-RMCGrassd3-name = трава
+ent-RMCGrassd3 = трава
 
-ent-RMCGrasse1-name = трава
+ent-RMCGrasse1 = трава
 
-ent-RMCGrasse2-name = трава
+ent-RMCGrasse2 = трава
 
-ent-RMCGrasse3-name = трава
+ent-RMCGrasse3 = трава
 
-ent-RMCBusha1-name = куст
+ent-RMCBusha1 = куст
 
-ent-RMCBusha2-name = куст
+ent-RMCBusha2 = куст
 
-ent-RMCBusha3-name = куст
+ent-RMCBusha3 = куст
 
-ent-RMCBushb1-name = куст
+ent-RMCBushb1 = куст
 
-ent-RMCBushb2-name = куст
+ent-RMCBushb2 = куст
 
-ent-RMCBushb3-name = куст
+ent-RMCBushb3 = куст
 
-ent-RMCBushc1-name = куст
+ent-RMCBushc1 = куст
 
-ent-RMCBushc2-name = куст
+ent-RMCBushc2 = куст
 
-ent-RMCBushc3-name = куст
+ent-RMCBushc3 = куст
 
-ent-RMCBushd1-name = куст
+ent-RMCBushd1 = куст
 
-ent-RMCBushd2-name = куст
+ent-RMCBushd2 = куст
 
-ent-RMCBushd3-name = куст
+ent-RMCBushd3 = куст
 
-ent-RMCBushd4-name = куст
+ent-RMCBushd4 = куст
 
-ent-RMCBushe1-name = куст
+ent-RMCBushe1 = куст
 
-ent-RMCBushe2-name = куст
+ent-RMCBushe2 = куст
 
-ent-RMCBushe3-name = куст
+ent-RMCBushe3 = куст
 
-ent-RMCBushe4-name = куст
+ent-RMCBushe4 = куст
 
-ent-RMCBushf1-name = куст
+ent-RMCBushf1 = куст
 
-ent-RMCBushf2-name = куст
+ent-RMCBushf2 = куст
 
-ent-RMCBushf3-name = куст
+ent-RMCBushf3 = куст
 
-ent-RMCBushg1-name = куст
+ent-RMCBushg1 = куст
 
-ent-RMCBushg2-name = куст
+ent-RMCBushg2 = куст
 
-ent-RMCBushg3-name = куст
+ent-RMCBushg3 = куст
 
-ent-RMCBushg4-name = куст
+ent-RMCBushg4 = куст
 
-ent-RMCBushh1-name = куст
+ent-RMCBushh1 = куст
 
-ent-RMCBushh2-name = куст
+ent-RMCBushh2 = куст
 
-ent-RMCBushh3-name = куст
+ent-RMCBushh3 = куст
 
-ent-RMCBushi1-name = куст
+ent-RMCBushi1 = куст
 
-ent-RMCBushi2-name = куст
+ent-RMCBushi2 = куст
 
-ent-RMCBushi3-name = куст
+ent-RMCBushi3 = куст
 
-ent-RMCBushi4-name = куст
+ent-RMCBushi4 = куст
 
-ent-RMCBushj1-name = куст
+ent-RMCBushj1 = куст
 
-ent-RMCBushj2-name = куст
+ent-RMCBushj2 = куст
 
-ent-RMCBushj3-name = куст
+ent-RMCBushj3 = куст
 
-ent-RMCBushk1-name = куст
+ent-RMCBushk1 = куст
 
-ent-RMCBushk2-name = куст
+ent-RMCBushk2 = куст
 
-ent-RMCBushk3-name = куст
+ent-RMCBushk3 = куст
 
-ent-RMCBushl1-name = куст
+ent-RMCBushl1 = куст
 
-ent-RMCBushl2-name = куст
+ent-RMCBushl2 = куст
 
-ent-RMCBushl3-name = куст
+ent-RMCBushl3 = куст
 
-ent-RMCBushl4-name = куст
+ent-RMCBushl4 = куст
 
-ent-RMCBushm1-name = куст
+ent-RMCBushm1 = куст
 
-ent-RMCBushm2-name = куст
+ent-RMCBushm2 = куст
 
-ent-RMCBushm3-name = куст
+ent-RMCBushm3 = куст
 
-ent-RMCBushm4-name = куст
+ent-RMCBushm4 = куст
 
-ent-RMCBushn1-name = куст
+ent-RMCBushn1 = куст
 
-ent-RMCbushsnowa1-name = куст
+ent-RMCbushsnowa1 = куст
 
-ent-RMCbushsnowa2-name = куст
+ent-RMCbushsnowa2 = куст
 
-ent-RMCbushsnowa3-name = куст
+ent-RMCbushsnowa3 = куст
 
-ent-RMCbushsnowb1-name = куст
+ent-RMCbushsnowb1 = куст
 
-ent-RMCbushsnowb2-name = куст
+ent-RMCbushsnowb2 = куст
 
-ent-RMCbushsnowb3-name = куст
+ent-RMCbushsnowb3 = куст
 
-ent-RMCFlowersbr1-name = цветы
+ent-RMCFlowersbr1 = цветы
 
-ent-RMCFlowersbr2-name = цветы
+ent-RMCFlowersbr2 = цветы
 
-ent-RMCFlowersbr3-name = цветы
+ent-RMCFlowersbr3 = цветы
 
-ent-RMCFlowerspv1-name = цветы
+ent-RMCFlowerspv1 = цветы
 
-ent-RMCFlowerspv2-name = цветы
+ent-RMCFlowerspv2 = цветы
 
-ent-RMCFlowerspv3-name = цветы
+ent-RMCFlowerspv3 = цветы
 
-ent-RMCFlowersy1-name = цветы
+ent-RMCFlowersy1 = цветы
 
-ent-RMCFlowersy2-name = цветы
+ent-RMCFlowersy2 = цветы
 
-ent-RMCFlowersy3-name = цветы
+ent-RMCFlowersy3 = цветы
 
-ent-RMCFlowersy4-name = цветы
+ent-RMCFlowersy4 = цветы
 
-ent-RMCRock01-name = скалы
+ent-RMCRock01 = скалы
 
-ent-RMCRock02-name = скалы
+ent-RMCRock02 = скалы
 
-ent-RMCRock03-name = скалы
+ent-RMCRock03 = скалы
 
-ent-RMCRock04-name = скалы
+ent-RMCRock04 = скалы
 
-ent-RMCRock05-name = скалы
+ent-RMCRock05 = скалы
 
-ent-RMCRock06-name = скалы
+ent-RMCRock06 = скалы
 
-ent-RMCRock07-name = скалы
+ent-RMCRock07 = скалы
 
-ent-RMCStump2-name = пень
-ent-RMCStump2-desc = Раньше здесь было дерево.
+ent-RMCStump2 = пень
+  .desc = Раньше здесь было дерево.
 
-ent-RMCStump3-name = пень
-ent-RMCStump3-desc = Раньше здесь было дерево.
+ent-RMCStump3 = пень
+  .desc = Раньше здесь было дерево.
 

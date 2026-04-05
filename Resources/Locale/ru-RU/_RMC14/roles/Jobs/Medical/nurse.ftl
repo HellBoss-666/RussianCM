@@ -1,3 +1,3 @@
-ent-CMSpawnPointNurse-name = точка появления медсестры
-ent-CMSpawnPointNurse-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointNurse = точка появления медсестры
+  .desc = Создатель заданий RMC14. 
 

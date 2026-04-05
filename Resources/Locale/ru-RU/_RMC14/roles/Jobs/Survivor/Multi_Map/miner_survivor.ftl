@@ -1,7 +1,7 @@
-ent-RMCRandomHumanoidSurvivorMiner-name = роль призрака шахтёра-колониста
+ent-RMCRandomHumanoidSurvivorMiner = роль призрака шахтёра-колониста
 
-ent-RMCSurvivorPresetMiner-name = предустановка шахтера-колониста
+ent-RMCSurvivorPresetMiner = предустановка шахтера-колониста
 
-ent-RMCSpawnPointSurvivorMiner-name = точка появления выжившего шахтера
-ent-RMCSpawnPointSurvivorMiner-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorMiner = точка появления выжившего шахтера
+  .desc = Создатель заданий RMC14. 
 

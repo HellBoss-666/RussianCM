@@ -1,4 +1,4 @@
-ent-CMDoubleDoorCommandGlassLocked-name = дверь
+ent-CMDoubleDoorCommandGlassLocked = дверь
 
-ent-CMDoubleDoorCommandSolidLocked-name = дверь
+ent-CMDoubleDoorCommandSolidLocked = дверь
 

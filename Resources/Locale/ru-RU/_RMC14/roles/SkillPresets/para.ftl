@@ -1,12 +1,12 @@
-ent-RMCSkillPresetParamarine-name = Королевский парамариновый стрелок
+ent-RMCSkillPresetParamarine = Королевский парамариновый стрелок
 
-ent-RMCSkillPresetParaPilot-name = Королевский пилот-парамарин
+ent-RMCSkillPresetParaPilot = Королевский пилот-парамарин
 
-ent-RMCSkillPresetParaEngineer-name = Королевский инженер-парамарин
+ent-RMCSkillPresetParaEngineer = Королевский инженер-парамарин
 
-ent-RMCSkillPresetParaMedic-name = Королевский парамариновый медик
+ent-RMCSkillPresetParaMedic = Королевский парамариновый медик
 
-ent-RMCSkillPresetParaLeader-name = Командир Королевского парамаринского отряда
+ent-RMCSkillPresetParaLeader = Командир Королевского парамаринского отряда
 
-ent-RMCSkillPresetParaSynth-name = Королевский парамарин синтетический
+ent-RMCSkillPresetParaSynth = Королевский парамарин синтетический
 

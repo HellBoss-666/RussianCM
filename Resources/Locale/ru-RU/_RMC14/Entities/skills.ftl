@@ -1,48 +1,48 @@
-ent-RMCSkillVehicles-name = Техника
+ent-RMCSkillVehicles = Техника
 
-ent-RMCSkillSurgery-name = Хирургия
+ent-RMCSkillSurgery = Хирургия
 
-ent-RMCSkillSpecialistWeapons-name = Специализированное оружие
+ent-RMCSkillSpecialistWeapons = Специализированное оружие
 
-ent-RMCSkillSmartGun-name = Умное оружие
+ent-RMCSkillSmartGun = Умное оружие
 
-ent-RMCSkillResearch-name = Исследования
+ent-RMCSkillResearch = Исследования
 
-ent-RMCSkillPowerLoader-name = Погрузчик
+ent-RMCSkillPowerLoader = Погрузчик
 
-ent-RMCSkillPolice-name = Полиция
+ent-RMCSkillPolice = Полиция
 
-ent-RMCSkillPilot-name = Пилот
+ent-RMCSkillPilot = Пилот
 
-ent-RMCSkillOverwatch-name = Управление
+ent-RMCSkillOverwatch = Управление
 
-ent-RMCSkillNavigations-name = Навигация
+ent-RMCSkillNavigations = Навигация
 
-ent-RMCSkillMeleeWeapons-name = Оружие ближнего боя
+ent-RMCSkillMeleeWeapons = Оружие ближнего боя
 
-ent-RMCSkillMedical-name = Медицина
+ent-RMCSkillMedical = Медицина
 
-ent-RMCSkillLeadership-name = Лидерство
+ent-RMCSkillLeadership = Лидерство
 
-ent-RMCSkillJtac-name = Целеуказание
+ent-RMCSkillJtac = Целеуказание
 
-ent-RMCSkillIntel-name = Разведка
+ent-RMCSkillIntel = Разведка
 
-ent-RMCSkillFireman-name = Перенос на плече
+ent-RMCSkillFireman = Перенос на плече
 
-ent-RMCSkillFirearms-name = Владение оружием
+ent-RMCSkillFirearms = Владение оружием
 
-ent-RMCSkillExecution-name = Казнь
+ent-RMCSkillExecution = Казнь
 
-ent-RMCSkillEngineer-name = Инженер
+ent-RMCSkillEngineer = Инженер
 
-ent-RMCSkillEndurance-name = Выносливость
+ent-RMCSkillEndurance = Выносливость
 
-ent-RMCSkillDomestics-name = Быт
+ent-RMCSkillDomestics = Быт
 
-ent-RMCSkillCqc-name = Рукопашный бой
+ent-RMCSkillCqc = Рукопашный бой
 
-ent-RMCSkillConstruction-name = Строительство
+ent-RMCSkillConstruction = Строительство
 
-ent-RMCSkillAntagonist-name = Антагонист
+ent-RMCSkillAntagonist = Антагонист
 

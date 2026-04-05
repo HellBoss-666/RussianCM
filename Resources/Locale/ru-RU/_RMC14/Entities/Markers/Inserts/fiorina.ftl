@@ -1,8 +1,8 @@
-ent-RMCMapInsertFiorinaPodholder-name = Подхолдер
+ent-RMCMapInsertFiorinaPodholder = Подхолдер
 
-ent-RMCMapInsertFiorinaRocinanteCLF-name = Росинант - CLF
+ent-RMCMapInsertFiorinaRocinanteCLF = Росинант - CLF
 
-ent-RMCMapInsertFiorinaRiotInProgress-name = Бунт в разгаре
+ent-RMCMapInsertFiorinaRiotInProgress = Бунт в разгаре
 
-ent-RMCMapInsertFiorinaBase-name = Map Insert Base
+ent-RMCMapInsertFiorinaBase = Map Insert Base
 

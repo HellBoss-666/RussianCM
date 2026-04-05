@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetForeconSquadLead-name = Предварительные настройки выжившего лидера отряда Forecon
+ent-RMCSurvivorPresetForeconSquadLead = Предварительные настройки выжившего лидера отряда Forecon
 
-ent-CMSpawnPointForeconSquadLeader-name = точка спавна лидера отряда форекон
-ent-CMSpawnPointForeconSquadLeader-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointForeconSquadLeader = точка спавна лидера отряда форекон
+  .desc = Создатель заданий RMC14. 
 

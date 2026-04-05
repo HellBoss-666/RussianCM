@@ -1,14 +1,14 @@
-ent-RMCPouchMedical-name = medical pouch
-ent-RMCPouchMedical-desc = It can carry small medical supplies.
+ent-RMCPouchMedical = medical pouch
+  .desc = It can carry small medical supplies.
 
-ent-RMCPouchMedicalFilled-name = медицинский подсумок
+ent-RMCPouchMedicalFilled = медицинский подсумок
 
-ent-RMCPouchMedicalFill-name = medical pouch
-ent-RMCPouchMedicalFill-desc = It can carry small medical supplies.
+ent-RMCPouchMedicalFill = medical pouch
+  .desc = It can carry small medical supplies.
 
-ent-RMCPouchMedicalPills-name = medical pouch
-ent-RMCPouchMedicalPills-desc = It can carry small medical supplies.
+ent-RMCPouchMedicalPills = medical pouch
+  .desc = It can carry small medical supplies.
 
-ent-RMCPouchMedicalERT-name = medical pouch
-ent-RMCPouchMedicalERT-desc = It can carry small medical supplies.
+ent-RMCPouchMedicalERT = medical pouch
+  .desc = It can carry small medical supplies.
 

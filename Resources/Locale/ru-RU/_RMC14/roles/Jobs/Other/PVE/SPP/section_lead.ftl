@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPSectionLeadPVE-name = точка спавна лидера раздела spp
-ent-RMCSpawnPointSPPSectionLeadPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSPPSectionLeadPVE = точка спавна лидера раздела spp
+  .desc = Создатель заданий RMC14. 
 

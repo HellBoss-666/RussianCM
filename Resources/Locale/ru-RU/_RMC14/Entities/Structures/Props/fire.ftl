@@ -1,3 +1,3 @@
-ent-RMCFireProp-name = огонь
-ent-RMCFireProp-desc = Это не выйдет в ближайшее время.
+ent-RMCFireProp = огонь
+  .desc = Это не выйдет в ближайшее время.
 

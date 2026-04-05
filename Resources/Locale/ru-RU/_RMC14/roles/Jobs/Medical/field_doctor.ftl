@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFieldDoctor-name = точка появления полевого врача
-ent-RMCSpawnPointFieldDoctor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointFieldDoctor = точка появления полевого врача
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

@@ -1,9 +1,9 @@
-ent-CMBloodPackFull-name = пакет крови
-ent-CMBloodPackFull-desc = Пакет крови. 
+ent-CMBloodPackFull = пакет крови
+  .desc = Пакет крови. 
 
-ent-CMBloodPack-name = пакет крови
-ent-CMBloodPack-desc = Пакет крови. 
+ent-CMBloodPack = пакет крови
+  .desc = Пакет крови. 
 
-ent-CMIV-name = iv
-ent-CMIV-desc = Позволяет вводить кровь пациенту или брать у него кровь для переливания крови.
+ent-CMIV = iv
+  .desc = Позволяет вводить кровь пациенту или брать у него кровь для переливания крови.
 

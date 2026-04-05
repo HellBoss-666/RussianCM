@@ -1,48 +1,48 @@
-ent-CMDoubleDoorBase-name = дверь
+ent-CMDoubleDoorBase = дверь
 
-ent-CMDoubleDoorAlmayerGlass-name = дверь
+ent-CMDoubleDoorAlmayerGlass = дверь
 
-ent-CMDoubleDoorAlmayerSolid-name = дверь
+ent-CMDoubleDoorAlmayerSolid = дверь
 
-ent-CMDoubleDoorCommandGlass-name = дверь
+ent-CMDoubleDoorCommandGlass = дверь
 
-ent-CMDoubleDoorCommandSolid-name = дверь
+ent-CMDoubleDoorCommandSolid = дверь
 
-ent-CMDoubleDoorEngineerGlass-name = дверь
+ent-CMDoubleDoorEngineerGlass = дверь
 
-ent-CMDoubleDoorEngineerSolid-name = дверь
+ent-CMDoubleDoorEngineerSolid = дверь
 
-ent-CMDoubleDoorGenericGlass-name = дверь
+ent-CMDoubleDoorGenericGlass = дверь
 
-ent-RMCDoubleDoorGlassHybrisa-name = дверь
+ent-RMCDoubleDoorGlassHybrisa = дверь
 
-ent-RMCDoubleDoorSolidHybrisa-name = дверь
+ent-RMCDoubleDoorSolidHybrisa = дверь
 
-ent-RMCDoubleDoorHybrisaMecical-name = дверь
+ent-RMCDoubleDoorHybrisaMecical = дверь
 
-ent-RMCDoubleDoorHybrisaGlassMecical-name = дверь
+ent-RMCDoubleDoorHybrisaGlassMecical = дверь
 
-ent-CMDoubleDoorGenericSolid-name = дверь
+ent-CMDoubleDoorGenericSolid = дверь
 
-ent-CMDoubleDoorMedicalGlass-name = дверь
+ent-CMDoubleDoorMedicalGlass = дверь
 
-ent-CMDoubleDoorMedicalSolid-name = дверь
+ent-CMDoubleDoorMedicalSolid = дверь
 
-ent-CMDoubleDoorPersonalGlass-name = дверь
+ent-CMDoubleDoorPersonalGlass = дверь
 
-ent-CMDoubleDoorPersonalSolid-name = дверь
+ent-CMDoubleDoorPersonalSolid = дверь
 
-ent-CMDoubleDoorPreparations-name = дверь
+ent-CMDoubleDoorPreparations = дверь
 
-ent-CMDoubleDoorPreparationsAlpha-name = дверь
+ent-CMDoubleDoorPreparationsAlpha = дверь
 
-ent-CMDoubleDoorPreparationsBravo-name = дверь
+ent-CMDoubleDoorPreparationsBravo = дверь
 
-ent-CMDoubleDoorPreparationsCharlie-name = дверь
+ent-CMDoubleDoorPreparationsCharlie = дверь
 
-ent-CMDoubleDoorPreparationsDelta-name = дверь
+ent-CMDoubleDoorPreparationsDelta = дверь
 
-ent-CMDoubleDoorSecurityGlass-name = дверь
+ent-CMDoubleDoorSecurityGlass = дверь
 
-ent-CMDoubleDoorSecuritySolid-name = дверь
+ent-CMDoubleDoorSecuritySolid = дверь
 

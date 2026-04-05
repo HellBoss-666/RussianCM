@@ -1,3 +1,3 @@
-ent-CMSpawnPointRCMPVEMedicalAssistant-name = Точка появления фельдшера RCM
-ent-CMSpawnPointRCMPVEMedicalAssistant-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-CMSpawnPointRCMPVEMedicalAssistant = Точка появления фельдшера RCM
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

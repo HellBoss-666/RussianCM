@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHalcyonDynamicsLiaison-name = предустановка связи Halcyon Dynamics
+ent-RMCGearSurvivorPresetHalcyonDynamicsLiaison = предустановка связи Halcyon Dynamics
 
-ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison-name = точка спауна безмятежной динамики
-ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHalcyonDynamicsLiaison = точка спауна безмятежной динамики
+  .desc = Создатель заданий RMC14. 
 

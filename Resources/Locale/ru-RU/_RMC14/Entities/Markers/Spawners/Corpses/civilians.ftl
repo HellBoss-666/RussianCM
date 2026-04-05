@@ -1,46 +1,46 @@
-ent-RMCSpawnerCorpseWeYaManager-name = Corpse Spawner - Corporate Supervisor
+ent-RMCSpawnerCorpseWeYaManager = Corpse Spawner - Corporate Supervisor
 
-ent-RMCSpawnerCorpseWeYaPMCStandardBurst-name = Создатель трупов - Стандарт We-Ya PMC
+ent-RMCSpawnerCorpseWeYaPMCStandardBurst = Создатель трупов - Стандарт We-Ya PMC
 
-ent-RMCSpawnerCorpseWeYaPMC-name = Создатель трупов - Стандарт We-Ya PMC
+ent-RMCSpawnerCorpseWeYaPMC = Создатель трупов - Стандарт We-Ya PMC
 
-ent-RMCSpawnerCorpseWeYaGoonKutjevo-name = Создатель трупов - We-Ya Goon Kutjevo
+ent-RMCSpawnerCorpseWeYaGoonKutjevo = Создатель трупов - We-Ya Goon Kutjevo
 
-ent-RMCSpawnerCorpseWeYaGoon-name = Создатель трупов - We-Ya Goon
+ent-RMCSpawnerCorpseWeYaGoon = Создатель трупов - We-Ya Goon
 
-ent-RMCSpawnerCorpseColonistKutjevoBust-name = Corpse Spawner - Colonist Kutjevo
+ent-RMCSpawnerCorpseColonistKutjevoBust = Corpse Spawner - Colonist Kutjevo
 
-ent-RMCSpawnerCorpseColonistKutjevo-name = Corpse Spawner - Colonist Kutjevo
+ent-RMCSpawnerCorpseColonistKutjevo = Corpse Spawner - Colonist Kutjevo
 
-ent-RMCSpawnerCorpseColonistBust-name = Corpse Spawner - Colonist
+ent-RMCSpawnerCorpseColonistBust = Corpse Spawner - Colonist
 
-ent-RMCSpawnerCorpseColonist-name = Corpse Spawner - Colonist
+ent-RMCSpawnerCorpseColonist = Corpse Spawner - Colonist
 
-ent-RMCSpawnerCorpsePrisonGuard-name = Corpse Spawner - Prison Guard
+ent-RMCSpawnerCorpsePrisonGuard = Corpse Spawner - Prison Guard
 
-ent-RMCSpawnerCorpseLiaison-name = Corpse Spawner - Corporate Liaison
+ent-RMCSpawnerCorpseLiaison = Corpse Spawner - Corporate Liaison
 
-ent-RMCSpawnerCorpseDeputy-name = Создатель трупов - заместитель CMB
+ent-RMCSpawnerCorpseDeputy = Создатель трупов - заместитель CMB
 
-ent-RMCSpawnerCorpseSecurity-name = Corpse Spawner - Security Officer
+ent-RMCSpawnerCorpseSecurity = Corpse Spawner - Security Officer
 
-ent-RMCSpawnerCorpseMiner-name = Corpse Spawner - Shaft Miner
+ent-RMCSpawnerCorpseMiner = Corpse Spawner - Shaft Miner
 
-ent-RMCSpawnerCorpseScientistAegis-name = Corpse Spawner - Aegis Scientist
+ent-RMCSpawnerCorpseScientistAegis = Corpse Spawner - Aegis Scientist
 
-ent-RMCSpawnerCorpseScientist-name = Corpse Spawner - Scientist
+ent-RMCSpawnerCorpseScientist = Corpse Spawner - Scientist
 
-ent-RMCSpawnerCorpseEngineer-name = Corpse Spawner - Engineer
+ent-RMCSpawnerCorpseEngineer = Corpse Spawner - Engineer
 
-ent-RMCSpawnerCorpseDoctor-name = Corpse Spawner - Doctor
+ent-RMCSpawnerCorpseDoctor = Corpse Spawner - Doctor
 
-ent-RMCSpawnerCorpseChef-name = Corpse Spawner - Chef
+ent-RMCSpawnerCorpseChef = Corpse Spawner - Chef
 
-ent-RMCSpawnerCorpsePrisoner-name = Corpse Spawner - Prisoner
+ent-RMCSpawnerCorpsePrisoner = Corpse Spawner - Prisoner
 
-ent-RMCSpawnerCorpseUNRiotOfficer-name = Corpse Spawner - CMB Riot Control Officer
+ent-RMCSpawnerCorpseUNRiotOfficer = Corpse Spawner - CMB Riot Control Officer
 
-ent-RMCSpawnerCorpseUNRiotOfficerBurst-name = Corpse Spawner - CMB Riot Control Officer
+ent-RMCSpawnerCorpseUNRiotOfficerBurst = Corpse Spawner - CMB Riot Control Officer
 
-ent-RMCSpawnerCorpseCLF-name = Corpse Spawner - CLF Soldier
+ent-RMCSpawnerCorpseCLF = Corpse Spawner - CLF Soldier
 

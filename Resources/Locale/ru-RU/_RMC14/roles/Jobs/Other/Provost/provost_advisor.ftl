@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidProvostAdvisor-name = советник по роли призрака проректора
+ent-RMCRandomHumanoidProvostAdvisor = советник по роли призрака проректора
 

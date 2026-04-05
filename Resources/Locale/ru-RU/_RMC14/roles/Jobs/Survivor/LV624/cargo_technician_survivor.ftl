@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetLV624CargoTechnician-name = lv624 пресет грузового техника-колониста
+ent-RMCGearSurvivorPresetLV624CargoTechnician = lv624 пресет грузового техника-колониста
 
-ent-RMCSpawnPointSurvivorLV624CargoTechnician-name = выживший lv624 точка спавна археолога
-ent-RMCSpawnPointSurvivorLV624CargoTechnician-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorLV624CargoTechnician = выживший lv624 точка спавна археолога
+  .desc = Создатель заданий RMC14. 
 

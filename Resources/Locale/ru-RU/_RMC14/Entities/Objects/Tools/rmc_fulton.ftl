@@ -1,4 +1,4 @@
-ent-RMCFulton-name = Фултон
+ent-RMCFulton = Фултон
 
-ent-RMCFulton20-name = Фултон
+ent-RMCFulton20 = Фултон
 

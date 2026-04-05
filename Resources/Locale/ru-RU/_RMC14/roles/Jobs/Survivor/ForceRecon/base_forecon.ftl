@@ -1,6 +1,6 @@
-ent-RMCSurvivorPresetForeconNoPistol-name = предустановка выжившего Forecon
+ent-RMCSurvivorPresetForeconNoPistol = предустановка выжившего Forecon
 
-ent-RMCSurvivorPresetForecon-name = предустановка выжившего Forecon
+ent-RMCSurvivorPresetForecon = предустановка выжившего Forecon
 
-ent-RMCSurvivorPresetForeconNoPrimary-name = forcon без предварительной настройки основного выжившего
+ent-RMCSurvivorPresetForeconNoPrimary = forcon без предварительной настройки основного выжившего
 

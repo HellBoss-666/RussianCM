@@ -1,9 +1,9 @@
-ent-RMCBulletSniperType88-name = bullet (7.62x54mmR)
-ent-RMCBulletSniperType88-desc = If you can see this you're probably dead!
+ent-RMCBulletSniperType88 = bullet (7.62x54mmR)
+  .desc = If you can see this you're probably dead!
 
-ent-RMCCartridgeSniperType88-name = cartridge
+ent-RMCCartridgeSniperType88 = cartridge
 
-ent-RMCMagazineSniperType88-name = item
+ent-RMCMagazineSniperType88 = item
 
-ent-RMCType88SniperRifle-name = Снайперская винтовка Тип 88
+ent-RMCType88SniperRifle = Снайперская винтовка Тип 88
 

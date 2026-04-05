@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaCivilian-name = Гражданский пресет Hybrisa
+ent-RMCGearSurvivorPresetHybrisaCivilian = Гражданский пресет Hybrisa
 
-ent-RMCSpawnPointSurvivorHybrisaCivilian-name = гражданская точка появления гибриды
-ent-RMCSpawnPointSurvivorHybrisaCivilian-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaCivilian = гражданская точка появления гибриды
+  .desc = Создатель заданий RMC14. 
 

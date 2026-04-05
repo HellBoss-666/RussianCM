@@ -1,3 +1,3 @@
-ent-RMCSpawnPointRecruit-name = нанять точку возрождения
-ent-RMCSpawnPointRecruit-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointRecruit = нанять точку возрождения
+  .desc = Создатель заданий RMC14. 
 

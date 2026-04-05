@@ -1,2 +1,2 @@
-ent-RMCWeaponRifleM59A-name = Винтовка M59A прототип
+ent-RMCWeaponRifleM59A = Винтовка M59A прототип
 

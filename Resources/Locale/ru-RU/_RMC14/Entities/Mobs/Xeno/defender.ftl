@@ -1,8 +1,8 @@
-ent-CMXenoDefenderBase-name = Защитник
-ent-CMXenoDefenderBase-desc = Пришелец с бронированным панцирем.
+ent-CMXenoDefenderBase = Защитник
+  .desc = Пришелец с бронированным панцирем.
 
-ent-CMXenoDefender-name = cm-job-name-xeno-defender
+ent-CMXenoDefender = cm-job-name-xeno-defender
 
-ent-CMXenoDefenderSteelcrest-name = Защитник
-ent-CMXenoDefenderSteelcrest-desc = Пришелец с бронированным панцирем.
+ent-CMXenoDefenderSteelcrest = Защитник
+  .desc = Пришелец с бронированным панцирем.
 

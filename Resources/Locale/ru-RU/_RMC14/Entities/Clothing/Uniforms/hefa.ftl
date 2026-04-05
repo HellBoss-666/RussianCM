@@ -1,3 +1,3 @@
-ent-RMCJumpsuitHEFA-name = униформа ХЕФА
-ent-RMCJumpsuitHEFA-desc = Стандартная униформа HEFA. 
+ent-RMCJumpsuitHEFA = униформа ХЕФА
+  .desc = Стандартная униформа HEFA. 
 

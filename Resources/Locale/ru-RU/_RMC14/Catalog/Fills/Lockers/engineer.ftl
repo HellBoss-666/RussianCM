@@ -1,9 +1,9 @@
-ent-CMClosetRadiationFilledTycho-name = шкаф для радиационного костюма
-ent-CMClosetRadiationFilledTycho-desc = Это хранилище радиационно-защитных костюмов.
+ent-CMClosetRadiationFilledTycho = шкаф для радиационного костюма
+  .desc = Это хранилище радиационно-защитных костюмов.
 
-ent-CMClosetToolFilled-name = tool closet
-ent-CMClosetToolFilled-desc = It's a storage unit for tools.
+ent-CMClosetToolFilled = tool closet
+  .desc = It's a storage unit for tools.
 
-ent-CMClosetRadiationFilled-name = radiation suit closet
-ent-CMClosetRadiationFilled-desc = It's a storage unit for rad-protective suits.
+ent-CMClosetRadiationFilled = radiation suit closet
+  .desc = It's a storage unit for rad-protective suits.
 

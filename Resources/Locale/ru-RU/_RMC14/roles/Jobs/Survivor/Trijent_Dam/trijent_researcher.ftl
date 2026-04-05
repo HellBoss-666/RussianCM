@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetTrijentResearcher-name = предустановленные настройки колониста-исследователя Trijent
+ent-RMCSurvivorPresetTrijentResearcher = предустановленные настройки колониста-исследователя Trijent
 
-ent-RMCSpawnPointSurvivorTrijentResearcher-name = точка появления выжившего триджента-исследователя
-ent-RMCSpawnPointSurvivorTrijentResearcher-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorTrijentResearcher = точка появления выжившего триджента-исследователя
+  .desc = Создатель заданий RMC14. 
 

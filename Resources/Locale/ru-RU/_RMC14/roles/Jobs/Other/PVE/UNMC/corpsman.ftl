@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVECorpsman-name = Точка появления санитара PVE
-ent-RMCSpawnPointPVECorpsman-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPVECorpsman = Точка появления санитара PVE
+  .desc = Создатель заданий RMC14. 
 

@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaSynthXenoarch-name = Survivor Synth Hybrisa Пресет Xenoarch
+ent-RMCSurvivorPresetHybrisaSynthXenoarch = Survivor Synth Hybrisa Пресет Xenoarch
 

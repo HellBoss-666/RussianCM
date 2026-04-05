@@ -1,6 +1,6 @@
-ent-CMSpawnPointXenoLeader-name = точка появления лидера ксеносов
-ent-CMSpawnPointXenoLeader-desc = Спаунер RMC14. 
+ent-CMSpawnPointXenoLeader = точка появления лидера ксеносов
+  .desc = Спаунер RMC14. 
 
-ent-CMSpawnPointXeno-name = точка спавна ксеносов
-ent-CMSpawnPointXeno-desc = Спаунер RMC14. 
+ent-CMSpawnPointXeno = точка спавна ксеносов
+  .desc = Спаунер RMC14. 
 

@@ -1,4 +1,4 @@
-ent-RMCCartridgeSentry-name = картридж
+ent-RMCCartridgeSentry = картридж
 
-ent-CMCartridgeSentry10x50mm-name = патрон (10х50мм)
+ent-CMCartridgeSentry10x50mm = патрон (10х50мм)
 

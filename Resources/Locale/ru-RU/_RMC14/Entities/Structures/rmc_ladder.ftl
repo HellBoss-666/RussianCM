@@ -1,18 +1,18 @@
-ent-RMCLadder-name = лестница
-ent-RMCLadder-desc = Прочная металлическая лестница.
+ent-RMCLadder = лестница
+  .desc = Прочная металлическая лестница.
 
-ent-RMCLadderUp-name = лестница
-ent-RMCLadderUp-desc = Прочная металлическая лестница.
+ent-RMCLadderUp = лестница
+  .desc = Прочная металлическая лестница.
 
-ent-RMCLadderThrough-name = лестница
-ent-RMCLadderThrough-desc = Прочная металлическая лестница.
+ent-RMCLadderThrough = лестница
+  .desc = Прочная металлическая лестница.
 
-ent-RMCLadderHatch-name = лестница
-ent-RMCLadderHatch-desc = Прочная металлическая лестница.
+ent-RMCLadderHatch = лестница
+  .desc = Прочная металлическая лестница.
 
-ent-RMCLadderRope-name = веревка
-ent-RMCLadderRope-desc = Прочная веревка.
+ent-RMCLadderRope = веревка
+  .desc = Прочная веревка.
 
-ent-RMCLadderRopeAltDrawdepth-name = веревка
-ent-RMCLadderRopeAltDrawdepth-desc = Прочная веревка.
+ent-RMCLadderRopeAltDrawdepth = веревка
+  .desc = Прочная веревка.
 

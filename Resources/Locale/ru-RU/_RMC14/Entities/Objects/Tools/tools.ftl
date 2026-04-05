@@ -1,40 +1,40 @@
-ent-CMCrowbarRed-name = emergency crowbar
-ent-CMCrowbarRed-desc = A multipurpose tool to pry open doors and fight interdimensional invaders.
+ent-CMCrowbarRed = emergency crowbar
+  .desc = A multipurpose tool to pry open doors and fight interdimensional invaders.
 
-ent-CMTRayScanner-name = t-ray scanner
-ent-CMTRayScanner-desc = A high-tech scanning device that uses Terahertz Radiation to detect subfloor infrastructure.
+ent-CMTRayScanner = t-ray scanner
+  .desc = A high-tech scanning device that uses Terahertz Radiation to detect subfloor infrastructure.
 
-ent-CMMultitool-name = настройщик доступа
+ent-CMMultitool = настройщик доступа
 
-ent-CMCrowbar-name = crowbar
-ent-CMCrowbar-desc = A multipurpose tool to pry open doors and fight interdimensional invaders.
+ent-CMCrowbar = crowbar
+  .desc = A multipurpose tool to pry open doors and fight interdimensional invaders.
 
-ent-CMWirecutter-name = кусачки
+ent-CMWirecutter = кусачки
 
-ent-CMScrewdriver-name = отвёртка
+ent-CMScrewdriver = отвёртка
 
-ent-CMWrench-name = гаечный ключ
+ent-CMWrench = гаечный ключ
 
-ent-CMNetworkConfigurator-name = конфигуратор сетей
+ent-CMNetworkConfigurator = конфигуратор сетей
 
-ent-CMPowerDrill-name = электродрель
+ent-CMPowerDrill = электродрель
 
-ent-CMRCD-name = РСУ
+ent-CMRCD = РСУ
 
-ent-RCDEmpty-name = { ent-RCD }
+ent-RCDEmpty = { ent-RCD }
 
     .suffix = Пустой
     .suffix = Автозарядка
     .suffix = Адмемы
-ent-RMCTacticalPrybar-name = tactical prybar
-ent-RMCTacticalPrybar-desc = Holding this makes you want to raid a townhouse filled with terrorists. Also doubles as a blunt weapon.
+ent-RMCTacticalPrybar = tactical prybar
+  .desc = Holding this makes you want to raid a townhouse filled with terrorists. Also doubles as a blunt weapon.
 
-ent-RMCWireSnappers-name = wire snappers
-ent-RMCWireSnappers-desc = The jaws are perfect for snipping large wires and other small metal bits, but are a bit too heavy for delicate work.
+ent-RMCWireSnappers = wire snappers
+  .desc = The jaws are perfect for snipping large wires and other small metal bits, but are a bit too heavy for delicate work.
 
-ent-RMCWireSnappersNoRepeat-name = wire snappers
-ent-RMCWireSnappersNoRepeat-desc = The jaws are perfect for snipping large wires and other small metal bits, but are a bit too heavy for delicate work.
+ent-RMCWireSnappersNoRepeat = wire snappers
+  .desc = The jaws are perfect for snipping large wires and other small metal bits, but are a bit too heavy for delicate work.
 
-ent-RMCWireSnappersNormal-name = wire snappers
-ent-RMCWireSnappersNormal-desc = The jaws are perfect for snipping large wires and other small metal bits, but are a bit too heavy for delicate work.
+ent-RMCWireSnappersNormal = wire snappers
+  .desc = The jaws are perfect for snipping large wires and other small metal bits, but are a bit too heavy for delicate work.
 

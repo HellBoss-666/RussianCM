@@ -1,58 +1,58 @@
-ent-RMCAreaShuttleDrop1PortNereid-name = Грузовое депо Порт-Нереида AC-170 - LZ1
+ent-RMCAreaShuttleDrop1PortNereid = Грузовое депо Порт-Нереида AC-170 - LZ1
 
-ent-RMCAreaShuttleDrop2PortNereid-name = Международный космодром Порт-Нереид - LZ2
+ent-RMCAreaShuttleDrop2PortNereid = Международный космодром Порт-Нереид - LZ2
 
-ent-RMCAreaPortNereidCargo-name = Порт Нереида - Грузовое депо AC-170
+ent-RMCAreaPortNereidCargo = Порт Нереида - Грузовое депо AC-170
 
-ent-RMCAreaPortNereidMining-name = Порт-Нереид — горнодобывающая застава TMCC
+ent-RMCAreaPortNereidMining = Порт-Нереид — горнодобывающая застава TMCC
 
-ent-RMCAreaPortNereidDeepsiteUAS1-name = Порт Нереида - Deepsite UAS-1
+ent-RMCAreaPortNereidDeepsiteUAS1 = Порт Нереида - Deepsite UAS-1
 
-ent-RMCAreaPortNereidSecurity-name = Порт-Нереида — штаб-квартира безопасности
+ent-RMCAreaPortNereidSecurity = Порт-Нереида — штаб-квартира безопасности
 
-ent-RMCAreaPortNereidEngineering-name = Порт Нереида – Инженерная бухта
+ent-RMCAreaPortNereidEngineering = Порт Нереида – Инженерная бухта
 
-ent-RMCAreaPortNereidSpaceport-name = Порт Нереид - Международный космодром Порт Нереид
+ent-RMCAreaPortNereidSpaceport = Порт Нереид - Международный космодром Порт Нереид
 
-ent-RMCAreaPortNereidHeavyHaulter-name = Порт Нереида - WEYA Hauler
+ent-RMCAreaPortNereidHeavyHaulter = Порт Нереида - WEYA Hauler
 
-ent-RMCAreaPortNereidShack-name = Порт Нереида - Хижина на берегу озера
+ent-RMCAreaPortNereidShack = Порт Нереида - Хижина на берегу озера
 
-ent-RMCAreaPortNereidStorage-name = Порт Нереида — Хранилище
+ent-RMCAreaPortNereidStorage = Порт Нереида — Хранилище
 
-ent-RMCAreaPortNereidCargoComms-name = Порт Нереида — грузовая связь
+ent-RMCAreaPortNereidCargoComms = Порт Нереида — грузовая связь
 
-ent-RMCAreaPortNereidSouthWestJungle-name = Порт Нереида – Юго-западные джунгли
+ent-RMCAreaPortNereidSouthWestJungle = Порт Нереида – Юго-западные джунгли
 
-ent-RMCAreaPortNereidSouthEastJungle-name = Порт Нереида - Юго-восточные джунгли
+ent-RMCAreaPortNereidSouthEastJungle = Порт Нереида - Юго-восточные джунгли
 
-ent-RMCAreaPortNereidWeymart-name = Порт Нереид - Веймарт
+ent-RMCAreaPortNereidWeymart = Порт Нереид - Веймарт
 
-ent-RMCAreaPortNereidHabitationEast-name = Порт Нереида - Восточный жилой комплекс
+ent-RMCAreaPortNereidHabitationEast = Порт Нереида - Восточный жилой комплекс
 
-ent-RMCAreaPortNereidHabitationWest-name = Порт Нереида - Западный жилой комплекс
+ent-RMCAreaPortNereidHabitationWest = Порт Нереида - Западный жилой комплекс
 
-ent-RMCAreaPortNereidMedical-name = Порт Нереида - Медицинская клиника
+ent-RMCAreaPortNereidMedical = Порт Нереида - Медицинская клиника
 
-ent-RMCAreaPortNereidBotany-name = Порт-Нереида - залив Ботани
+ent-RMCAreaPortNereidBotany = Порт-Нереида - залив Ботани
 
-ent-RMCAreaPortNereidDisposals-name = Порт Нереида - Утилизация и переработка отходов
+ent-RMCAreaPortNereidDisposals = Порт Нереида - Утилизация и переработка отходов
 
-ent-RMCAreaPortNereidDam-name = Порт Нереида - Плотина реки
+ent-RMCAreaPortNereidDam = Порт Нереида - Плотина реки
 
-ent-RMCAreaPortNereidNorthWestJungle-name = Порт Нереида – Северо-Западные джунгли
+ent-RMCAreaPortNereidNorthWestJungle = Порт Нереида – Северо-Западные джунгли
 
-ent-RMCAreaPortNereidNorthEastJungle-name = Порт Нереида – Северо-восточные джунгли
+ent-RMCAreaPortNereidNorthEastJungle = Порт Нереида – Северо-восточные джунгли
 
-ent-RMCAreaPortNereidCentralAtmosphericProcessor-name = Порт Нереида - Центральный процессор тяжелой атмосферы ПАЭК-500 (двигатель обработки атмосферы дуэльного синтеза)
+ent-RMCAreaPortNereidCentralAtmosphericProcessor = Порт Нереида - Центральный процессор тяжелой атмосферы ПАЭК-500 (двигатель обработки атмосферы дуэльного синтеза)
 
-ent-RMCAreaPortNereidWestAtmosphericProcessor-name = Порт Нереида - Западный процессор тяжелой атмосферы ПАЭК-500 (запасы и управление теплоносителем реактора)
+ent-RMCAreaPortNereidWestAtmosphericProcessor = Порт Нереида - Западный процессор тяжелой атмосферы ПАЭК-500 (запасы и управление теплоносителем реактора)
 
-ent-RMCAreaPortNereidEastAtmosphericProcessor-name = Порт Нереида - Восточный процессор тяжелой атмосферы ПАЭК-500 (основная энергогенераторная сеть)
+ent-RMCAreaPortNereidEastAtmosphericProcessor = Порт Нереида - Восточный процессор тяжелой атмосферы ПАЭК-500 (основная энергогенераторная сеть)
 
-ent-RMCAreaPortNereidRoadSystem-name = Порт Нереида - Дорожная система
+ent-RMCAreaPortNereidRoadSystem = Порт Нереида - Дорожная система
 
-ent-RMCAreaPortNereidPort-name = Порт Нереида - Порт на берегу океана
+ent-RMCAreaPortNereidPort = Порт Нереида - Порт на берегу океана
 
-ent-RMCAreaPortNereidOob-name = Порт-Нереида - за пределами границ
+ent-RMCAreaPortNereidOob = Порт-Нереида - за пределами границ
 

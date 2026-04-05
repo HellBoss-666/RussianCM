@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidFreelancerStandardFriendly-name = фрилансер роль призрака стрелок
+ent-RMCRandomHumanoidFreelancerStandardFriendly = фрилансер роль призрака стрелок
 
-ent-RMCRandomHumanoidFreelancerStandardHostile-name = фрилансер роль призрака стрелок
+ent-RMCRandomHumanoidFreelancerStandardHostile = фрилансер роль призрака стрелок
 

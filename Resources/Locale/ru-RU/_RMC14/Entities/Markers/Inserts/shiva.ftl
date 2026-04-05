@@ -1,6 +1,6 @@
-ent-RMCMapInsertShivaSouthCaves-name = LZ2 Южные пещеры
+ent-RMCMapInsertShivaSouthCaves = LZ2 Южные пещеры
 
-ent-RMCMapInsertShivaPanicRoomHold-name = Удержание в комнате паники
+ent-RMCMapInsertShivaPanicRoomHold = Удержание в комнате паники
 
-ent-RMCMapInsertShivaCLFRaid-name = CLF Рейд
+ent-RMCMapInsertShivaCLFRaid = CLF Рейд
 

@@ -1,3 +1,3 @@
-ent-RMCKitBase-name = набор
-ent-RMCKitBase-desc = Это обычная коробка.
+ent-RMCKitBase = набор
+  .desc = Это обычная коробка.
 

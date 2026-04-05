@@ -1,270 +1,270 @@
-ent-RMCAreaBigredv2OutsideFiltrationCaveCas-name = Вход в пещеры с фильтрацией
+ent-RMCAreaBigredv2OutsideFiltrationCaveCas = Вход в пещеры с фильтрацией
 
-ent-RMCAreaBigredv2OutsideLz2SouthCas-name = Вход в пещеры блокировки ЭТА
+ent-RMCAreaBigredv2OutsideLz2SouthCas = Вход в пещеры блокировки ЭТА
 
-ent-RMCAreaBigredv2OutsideLz2WestCas-name = Вход в юго-западные пещеры
+ent-RMCAreaBigredv2OutsideLz2WestCas = Вход в юго-западные пещеры
 
-ent-RMCAreaBigredv2OutsideLz1TelecommCas-name = Вход в вирусологические пещеры
+ent-RMCAreaBigredv2OutsideLz1TelecommCas = Вход в вирусологические пещеры
 
-ent-RMCAreaBigredv2OutsideLz1NorthCas-name = Вход в Северные пещеры
+ent-RMCAreaBigredv2OutsideLz1NorthCas = Вход в Северные пещеры
 
-ent-RMCAreaBigredv2LandingConsole2-name = LZ2 «Грузовой»
+ent-RMCAreaBigredv2LandingConsole2 = LZ2 «Грузовой»
 
-ent-RMCAreaBigredv2LandingConsole-name = LZ1 «Телекоммуникации»
+ent-RMCAreaBigredv2LandingConsole = LZ1 «Телекоммуникации»
 
-ent-RMCAreaBigredv2CavesNorth-name = Северные пещеры
+ent-RMCAreaBigredv2CavesNorth = Северные пещеры
 
-ent-RMCAreaBigredv2CavesEast-name = Восточные пещеры
+ent-RMCAreaBigredv2CavesEast = Восточные пещеры
 
-ent-RMCAreaBigredv2CavesSe-name = Юго-восточные пещеры
+ent-RMCAreaBigredv2CavesSe = Юго-восточные пещеры
 
-ent-RMCAreaBigredv2CavesResearch-name = Пещеры исследовательской лаборатории We-Ya
+ent-RMCAreaBigredv2CavesResearch = Пещеры исследовательской лаборатории We-Ya
 
-ent-RMCAreaBigredv2CavesSw-name = Юго-западные пещеры
+ent-RMCAreaBigredv2CavesSw = Юго-западные пещеры
 
-ent-RMCAreaBigredv2CavesVirology-name = Вирусологические пещеры
+ent-RMCAreaBigredv2CavesVirology = Вирусологические пещеры
 
-ent-RMCAreaBigredv2OutsideGeneralOffices-name = Общие офисы
+ent-RMCAreaBigredv2OutsideGeneralOffices = Общие офисы
 
-ent-RMCAreaBigredv2OutsideAtmos-name = Атмосферный стабилизатор
+ent-RMCAreaBigredv2OutsideAtmos = Атмосферный стабилизатор
 
-ent-RMCAreaBigredv2OutsideSolarPlant-name = Солнечная электростанция
+ent-RMCAreaBigredv2OutsideSolarPlant = Солнечная электростанция
 
-ent-RMCAreaBigredv2OutsideStorage-name = Хранилище
+ent-RMCAreaBigredv2OutsideStorage = Хранилище
 
-ent-RMCAreaBigredv2OutsideEngineeringReactor-name = Главный реактор
+ent-RMCAreaBigredv2OutsideEngineeringReactor = Главный реактор
 
-ent-RMCAreaBigredv2OutsideEngineering-name = Инженерный комплекс
+ent-RMCAreaBigredv2OutsideEngineering = Инженерный комплекс
 
-ent-RMCAreaBigredv2OutsideTelecommEngi-name = Реле инженерной связи
+ent-RMCAreaBigredv2OutsideTelecommEngi = Реле инженерной связи
 
-ent-RMCAreaBigredv2OutsideTelecommAdmin-name = Реле административной связи
+ent-RMCAreaBigredv2OutsideTelecommAdmin = Реле административной связи
 
-ent-RMCAreaBigredv2OutsideTelecommStore-name = Реле связи универсального магазина
+ent-RMCAreaBigredv2OutsideTelecommStore = Реле связи универсального магазина
 
-ent-RMCAreaBigredv2OutsideTelecommSecurity-name = Реле охранной связи
+ent-RMCAreaBigredv2OutsideTelecommSecurity = Реле охранной связи
 
-ent-RMCAreaBigredv2OutsideTelecommWarehouse-name = Реле складской связи
+ent-RMCAreaBigredv2OutsideTelecommWarehouse = Реле складской связи
 
-ent-RMCAreaBigredv2OutsideTelecommNCave-name = Реле связи Северной пещеры
+ent-RMCAreaBigredv2OutsideTelecommNCave = Реле связи Северной пещеры
 
-ent-RMCAreaBigredv2OutsideTelecommLz2Cave-name = Реле связи с центральной территорией
+ent-RMCAreaBigredv2OutsideTelecommLz2Cave = Реле связи с центральной территорией
 
-ent-RMCAreaBigredv2OutsideTelecomm-name = Реле связи LZ1
+ent-RMCAreaBigredv2OutsideTelecomm = Реле связи LZ1
 
-ent-RMCAreaBigredv2OutsideSpacePortLz2-name = Грузовая посадочная площадка
+ent-RMCAreaBigredv2OutsideSpacePortLz2 = Грузовая посадочная площадка
 
-ent-RMCAreaBigredv2OutsideSpacePort-name = Космический порт
+ent-RMCAreaBigredv2OutsideSpacePort = Космический порт
 
-ent-RMCAreaBigredv2OutsideOfficeComplex-name = Офисный комплекс
+ent-RMCAreaBigredv2OutsideOfficeComplex = Офисный комплекс
 
-ent-RMCAreaBigredv2OutsideLibrary-name = Библиотека
+ent-RMCAreaBigredv2OutsideLibrary = Библиотека
 
-ent-RMCAreaBigredv2OutsideHydroponics-name = Гидропоника
+ent-RMCAreaBigredv2OutsideHydroponics = Гидропоника
 
-ent-RMCAreaBigredv2OutsideChapel-name = Часовня
+ent-RMCAreaBigredv2OutsideChapel = Часовня
 
-ent-RMCAreaBigredv2OutsideBar-name = Бар
+ent-RMCAreaBigredv2OutsideBar = Бар
 
-ent-RMCAreaBigredv2OutsideDorms-name = Общежития
+ent-RMCAreaBigredv2OutsideDorms = Общежития
 
-ent-RMCAreaBigredv2OutsideVirology-name = Вирусологическая лаборатория
+ent-RMCAreaBigredv2OutsideVirology = Вирусологическая лаборатория
 
-ent-RMCAreaBigredv2OutsideFiltrationPlant-name = Фильтрационная установка
+ent-RMCAreaBigredv2OutsideFiltrationPlant = Фильтрационная установка
 
-ent-RMCAreaBigredv2OutsideAdminBuilding-name = Администрация
+ent-RMCAreaBigredv2OutsideAdminBuilding = Администрация
 
-ent-RMCAreaBigredv2OutsideMedical-name = Больница
+ent-RMCAreaBigredv2OutsideMedical = Больница
 
-ent-RMCAreaBigredv2OutsideMarshalOffice-name = Маршальские офисы
+ent-RMCAreaBigredv2OutsideMarshalOffice = Маршальские офисы
 
-ent-RMCAreaBigredv2OutsideGeneralStore-name = Универсальный магазин
+ent-RMCAreaBigredv2OutsideGeneralStore = Универсальный магазин
 
-ent-RMCAreaBigredv2OutsideCargo-name = Груз
+ent-RMCAreaBigredv2OutsideCargo = Груз
 
-ent-RMCAreaBigredv2CavesEtaResearch-name = Эта Исследования
+ent-RMCAreaBigredv2CavesEtaResearch = Эта Исследования
 
-ent-RMCAreaBigredv2CavesEtaStorage-name = Эта хранилище
+ent-RMCAreaBigredv2CavesEtaStorage = Эта хранилище
 
-ent-RMCAreaBigredv2CavesEtaXenobiology-name = Эта ксенобиология
+ent-RMCAreaBigredv2CavesEtaXenobiology = Эта ксенобиология
 
-ent-RMCAreaBigredv2CavesEtaLiving-name = Жилые помещения Эта
+ent-RMCAreaBigredv2CavesEtaLiving = Жилые помещения Эта
 
-ent-RMCAreaBigredv2OutsideEta-name = Комплекс Эта Лабораторий
+ent-RMCAreaBigredv2OutsideEta = Комплекс Эта Лабораторий
 
-ent-RMCAreaBigredv2CavesMining-name = Юго-западные заброшенные шахтерские пещеры
+ent-RMCAreaBigredv2CavesMining = Юго-западные заброшенные шахтерские пещеры
 
-ent-RMCAreaBigredv2Caves-name = Неизвестный район
+ent-RMCAreaBigredv2Caves = Неизвестный район
 
-ent-RMCAreaBigredv2OutsideSw-name = Юго-западная колония
+ent-RMCAreaBigredv2OutsideSw = Юго-западная колония
 
-ent-RMCAreaBigredv2OutsideS-name = Территория Южной колонии
+ent-RMCAreaBigredv2OutsideS = Территория Южной колонии
 
-ent-RMCAreaBigredv2OutsideSe-name = Юго-восточная колония
+ent-RMCAreaBigredv2OutsideSe = Юго-восточная колония
 
-ent-RMCAreaBigredv2OutsideE-name = Территория Восточной колонии
+ent-RMCAreaBigredv2OutsideE = Территория Восточной колонии
 
-ent-RMCAreaBigredv2OutsideW-name = Территория Западной колонии
+ent-RMCAreaBigredv2OutsideW = Территория Западной колонии
 
-ent-RMCAreaBigredv2OutsideN-name = Территория Северной колонии
+ent-RMCAreaBigredv2OutsideN = Территория Северной колонии
 
-ent-RMCAreaBigredv2OutsideC-name = Центральная колония
+ent-RMCAreaBigredv2OutsideC = Центральная колония
 
-ent-RMCAreaBigredv2OutsideNw-name = Территория северо-западной колонии
+ent-RMCAreaBigredv2OutsideNw = Территория северо-западной колонии
 
-ent-RMCAreaBigredv2OutsideNe-name = Территория северо-восточной колонии
+ent-RMCAreaBigredv2OutsideNe = Территория северо-восточной колонии
 
-ent-RMCAreaBigredv2Outside-name = Территория колонии
+ent-RMCAreaBigredv2Outside = Территория колонии
 
-ent-RMCAreaBigredv2Oob-name = Большой Красный за пределами поля
+ent-RMCAreaBigredv2Oob = Большой Красный за пределами поля
 
-ent-RMCAreaBigredv2OutsideLambdaCaveCas-name = Вход в пещеры Лямбда-локдаун
+ent-RMCAreaBigredv2OutsideLambdaCaveCas = Вход в пещеры Лямбда-локдаун
 
-ent-RMCAreaBigredv2LambdaCaves-name = Пещеры лаборатории Лямбда
+ent-RMCAreaBigredv2LambdaCaves = Пещеры лаборатории Лямбда
 
-ent-RMCAreaBigredv2CavesLambdaXenobiology-name = Лямбда-ксенобиология
+ent-RMCAreaBigredv2CavesLambdaXenobiology = Лямбда-ксенобиология
 
-ent-RMCAreaBigredv2CavesLambdaBreakroom-name = Лямбда-комната отдыха
+ent-RMCAreaBigredv2CavesLambdaBreakroom = Лямбда-комната отдыха
 
-ent-RMCAreaBigredv2CavesLambdaResearch-name = Лямбда-исследования
+ent-RMCAreaBigredv2CavesLambdaResearch = Лямбда-исследования
 
-ent-RMCAreaBigredv2CavesLambdaVirology-name = Лямбда-вирусология
+ent-RMCAreaBigredv2CavesLambdaVirology = Лямбда-вирусология
 
-ent-RMCAreaBigredUgroundSafeRoom-name = Корпоративная сейфовая комната
+ent-RMCAreaBigredUgroundSafeRoom = Корпоративная сейфовая комната
 
-ent-RMCAreaBigredUgroundCargoElevator-name = Грузовой лифт
+ent-RMCAreaBigredUgroundCargoElevator = Грузовой лифт
 
-ent-RMCAreaBigredUgroundQuarantine-name = Карантинная зона
+ent-RMCAreaBigredUgroundQuarantine = Карантинная зона
 
-ent-RMCAreaBigredUgroundVirology-name = Лаборатория вирусологии
+ent-RMCAreaBigredUgroundVirology = Лаборатория вирусологии
 
-ent-RMCAreaBigredUgroundTeleporter-name = Лаборатория телепортации
+ent-RMCAreaBigredUgroundTeleporter = Лаборатория телепортации
 
-ent-RMCAreaBigredUgroundAnomalyLab-name = Лаборатория аномальных материалов
+ent-RMCAreaBigredUgroundAnomalyLab = Лаборатория аномальных материалов
 
-ent-RMCAreaBigredUgroundMiscLab-name = Разное Лаборатория
+ent-RMCAreaBigredUgroundMiscLab = Разное Лаборатория
 
-ent-RMCAreaBigredUgroundDisection-name = Лаборатория диссекции
+ent-RMCAreaBigredUgroundDisection = Лаборатория диссекции
 
-ent-RMCAreaBigredUgroundChemistry-name = Химическая лаборатория
+ent-RMCAreaBigredUgroundChemistry = Химическая лаборатория
 
-ent-RMCAreaBigredUgroundXenoFlora-name = Лаборатория Ксено-Флоры
+ent-RMCAreaBigredUgroundXenoFlora = Лаборатория Ксено-Флоры
 
-ent-RMCAreaBigredUgroundXeno-name = Ксенобиологическая лаборатория
+ent-RMCAreaBigredUgroundXeno = Ксенобиологическая лаборатория
 
-ent-RMCAreaBigredUgroundHallway-name = Исследовательский коридор
+ent-RMCAreaBigredUgroundHallway = Исследовательский коридор
 
-ent-RMCAreaBigredUgroundLobby-name = Исследовательское лобби
+ent-RMCAreaBigredUgroundLobby = Исследовательское лобби
 
-ent-RMCAreaBigredGroundCargo-name = Грузовой отсек
+ent-RMCAreaBigredGroundCargo = Грузовой отсек
 
-ent-RMCAreaBigredGroundExteriorEast-name = Внешний вид восточного объекта
+ent-RMCAreaBigredGroundExteriorEast = Внешний вид восточного объекта
 
-ent-RMCAreaBigredGroundExteriorWest-name = Внешний вид западного объекта
+ent-RMCAreaBigredGroundExteriorWest = Внешний вид западного объекта
 
-ent-RMCAreaBigredGroundExteriorSouth-name = Внешний вид южного объекта
+ent-RMCAreaBigredGroundExteriorSouth = Внешний вид южного объекта
 
-ent-RMCAreaBigredGroundExteriorNorth-name = Внешний вид северного объекта
+ent-RMCAreaBigredGroundExteriorNorth = Внешний вид северного объекта
 
-ent-RMCAreaBigredGroundExterior-name = Метро
+ent-RMCAreaBigredGroundExterior = Метро
 
-ent-RMCAreaBigredGroundMaintAtmos-name = Обслуживание атмосферы
+ent-RMCAreaBigredGroundMaintAtmos = Обслуживание атмосферы
 
-ent-RMCAreaBigredGroundMaintEngineering-name = Инженерное обслуживание
+ent-RMCAreaBigredGroundMaintEngineering = Инженерное обслуживание
 
-ent-RMCAreaBigredGroundMaintCommand-name = Командное обслуживание
+ent-RMCAreaBigredGroundMaintCommand = Командное обслуживание
 
-ent-RMCAreaBigredGroundMaintScience-name = Наука Техническое обслуживание
+ent-RMCAreaBigredGroundMaintScience = Наука Техническое обслуживание
 
-ent-RMCAreaBigredGroundMaintCentral-name = Центральная шахта технического обслуживания
+ent-RMCAreaBigredGroundMaintCentral = Центральная шахта технического обслуживания
 
-ent-RMCAreaBigredGroundHr-name = Отдел кадров
+ent-RMCAreaBigredGroundHr = Отдел кадров
 
-ent-RMCAreaBigredGroundToilet-name = Туалеты
+ent-RMCAreaBigredGroundToilet = Туалеты
 
-ent-RMCAreaBigredGroundScienceResearch-name = Исследовательская лаборатория
+ent-RMCAreaBigredGroundScienceResearch = Исследовательская лаборатория
 
-ent-RMCAreaBigredGroundScienceOffice-name = Администрация
+ent-RMCAreaBigredGroundScienceOffice = Администрация
 
-ent-RMCAreaBigredGroundScienceAssembly-name = Актовый зал
+ent-RMCAreaBigredGroundScienceAssembly = Актовый зал
 
-ent-RMCAreaBigredGroundScienceRobotics-name = Лаборатория робототехники
+ent-RMCAreaBigredGroundScienceRobotics = Лаборатория робототехники
 
-ent-RMCAreaBigredGroundScienceHall-name = Научный коридор
+ent-RMCAreaBigredGroundScienceHall = Научный коридор
 
-ent-RMCAreaBigredGroundScienceDecon-name = Обеззараживание
+ent-RMCAreaBigredGroundScienceDecon = Обеззараживание
 
-ent-RMCAreaBigredGroundEngineeringAtmosphericsGenerator-name = Терраформирующий процессор
+ent-RMCAreaBigredGroundEngineeringAtmosphericsGenerator = Терраформирующий процессор
 
-ent-RMCAreaBigredGroundEngineeringAtmospherics-name = Атмосфера
+ent-RMCAreaBigredGroundEngineeringAtmospherics = Атмосфера
 
-ent-RMCAreaBigredGroundEngineeringCustodial-name = Кастодиальное хранение
+ent-RMCAreaBigredGroundEngineeringCustodial = Кастодиальное хранение
 
-ent-RMCAreaBigredGroundEngineeringEngine-name = Машинное отделение
+ent-RMCAreaBigredGroundEngineeringEngine = Машинное отделение
 
-ent-RMCAreaBigredGroundEngineeringEngineControl-name = Основной контроль
+ent-RMCAreaBigredGroundEngineeringEngineControl = Основной контроль
 
-ent-RMCAreaBigredGroundEngineeringSmesRoom-name = Энергетическое хранилище
+ent-RMCAreaBigredGroundEngineeringSmesRoom = Энергетическое хранилище
 
-ent-RMCAreaBigredGroundChapel-name = Часовня
+ent-RMCAreaBigredGroundChapel = Часовня
 
-ent-RMCAreaBigredGroundForehall-name = Передний коридор
+ent-RMCAreaBigredGroundForehall = Передний коридор
 
-ent-RMCAreaBigredGroundCrewQuarters-name = Общежития для экипажа
+ent-RMCAreaBigredGroundCrewQuarters = Общежития для экипажа
 
-ent-RMCAreaBigredGroundHanger-name = Вешалка
+ent-RMCAreaBigredGroundHanger = Вешалка
 
-ent-RMCAreaBigredGroundLaundry-name = прачечная самообслуживания
+ent-RMCAreaBigredGroundLaundry = прачечная самообслуживания
 
-ent-RMCAreaBigredGroundCryogenics-name = Криогенное хранилище
+ent-RMCAreaBigredGroundCryogenics = Криогенное хранилище
 
-ent-RMCAreaBigredGroundGarden-name = Сад
+ent-RMCAreaBigredGroundGarden = Сад
 
-ent-RMCAreaBigredGroundCentralHall3-name = Центральный коридор
+ent-RMCAreaBigredGroundCentralHall3 = Центральный коридор
 
-ent-RMCAreaBigredGroundMedicalLobby-name = Медицинское лобби
+ent-RMCAreaBigredGroundMedicalLobby = Медицинское лобби
 
-ent-RMCAreaBigredGroundMedbay-name = Медикал Бэй
+ent-RMCAreaBigredGroundMedbay = Медикал Бэй
 
-ent-RMCAreaBigredGroundBridge-name = Командная комната
+ent-RMCAreaBigredGroundBridge = Командная комната
 
-ent-RMCAreaBigredGroundSecurity-name = Модуль безопасности
+ent-RMCAreaBigredGroundSecurity = Модуль безопасности
 
-ent-RMCAreaBigredGroundKitchen-name = Кухня
+ent-RMCAreaBigredGroundKitchen = Кухня
 
-ent-RMCAreaBigredGroundCanteen-name = Кафетерий
+ent-RMCAreaBigredGroundCanteen = Кафетерий
 
-ent-RMCAreaBigredGroundCentralHall-name = Центральный коридор
+ent-RMCAreaBigredGroundCentralHall = Центральный коридор
 
-ent-RMCAreaBigredGroundEngineeringEngineeringHall-name = Инженерный коридор
+ent-RMCAreaBigredGroundEngineeringEngineeringHall = Инженерный коридор
 
-ent-RMCAreaBigredGroundNexus-name = Центральный Нексус
+ent-RMCAreaBigredGroundNexus = Центральный Нексус
 
-ent-RMCAreaBigredGroundShip-name = Разбившееся судно
+ent-RMCAreaBigredGroundShip = Разбившееся судно
 
-ent-RMCAreaBigredGroundGarageWorkshop-name = Гаражная мастерская
+ent-RMCAreaBigredGroundGarageWorkshop = Гаражная мастерская
 
-ent-RMCAreaBigredUground-name = наземный
+ent-RMCAreaBigredUground = наземный
 
-ent-RMCAreaBigredGround-name = земля
+ent-RMCAreaBigredGround = земля
 
-ent-RMCAreaBigred-name = область
+ent-RMCAreaBigred = область
 
-ent-RMCAreaBigredGroundEngineering-name = земля
+ent-RMCAreaBigredGroundEngineering = земля
 
-ent-RMCAreaBigredGroundMedical-name = земля
+ent-RMCAreaBigredGroundMedical = земля
 
-ent-RMCAreaBigredGroundScience-name = земля
+ent-RMCAreaBigredGroundScience = земля
 
-ent-RMCAreaBigredGroundMaint-name = земля
+ent-RMCAreaBigredGroundMaint = земля
 
-ent-RMCAreaBigredv2CavesLambda-name = Неизвестный район
+ent-RMCAreaBigredv2CavesLambda = Неизвестный район
 
-ent-RMCAreaBigredv2-name = область
+ent-RMCAreaBigredv2 = область
 
-ent-RMCAreaBigredv2OutsideNwCeiling-name = Территория северо-западной колонии
+ent-RMCAreaBigredv2OutsideNwCeiling = Территория северо-западной колонии
 
-ent-RMCAreaBigredv2CavesEta-name = Неизвестный район
+ent-RMCAreaBigredv2CavesEta = Неизвестный район
 
-ent-RMCAreaBigredv2Landing-name = область
+ent-RMCAreaBigredv2Landing = область
 

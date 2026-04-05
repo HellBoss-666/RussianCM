@@ -1,35 +1,35 @@
-ent-XenoHardyWeedsSource-name = выносливый узел с сорняками
-ent-XenoHardyWeedsSource-desc = Странный пульсирующий узел
+ent-XenoHardyWeedsSource = выносливый узел с сорняками
+  .desc = Странный пульсирующий узел
 
-ent-XenoWeedsWall-name = сорняки
+ent-XenoWeedsWall = сорняки
 
-ent-XenoHiveWeedsSource-name = узел для борьбы с сорняками
-ent-XenoHiveWeedsSource-desc = Странный пульсирующий узел
+ent-XenoHiveWeedsSource = узел для борьбы с сорняками
+  .desc = Странный пульсирующий узел
 
-ent-XenoHiveWeeds-name = Улей сорняков
-ent-XenoHiveWeeds-desc = Странные черные сорняки...
+ent-XenoHiveWeeds = Улей сорняков
+  .desc = Странные черные сорняки...
 
-ent-XenoWeedsSource-name = узел сорняков
-ent-XenoWeedsSource-desc = Странный пульсирующий узел
+ent-XenoWeedsSource = узел сорняков
+  .desc = Странный пульсирующий узел
 
-ent-XenoWeeds-name = сорняки
-ent-XenoWeeds-desc = Странные черные сорняки...
+ent-XenoWeeds = сорняки
+  .desc = Странные черные сорняки...
 
-ent-XenoWeedsSourceHidden-name = сорняки
-ent-XenoWeedsSourceHidden-desc = Странные черные сорняки...
+ent-XenoWeedsSourceHidden = сорняки
+  .desc = Странные черные сорняки...
 
-ent-XenoHiveWeedsCluster-name = Улей сорняков
-ent-XenoHiveWeedsCluster-desc = Странные черные сорняки...
+ent-XenoHiveWeedsCluster = Улей сорняков
+  .desc = Странные черные сорняки...
 
-ent-XenoHiveWeedsCore-name = Улей сорняков
-ent-XenoHiveWeedsCore-desc = Странные черные сорняки...
+ent-XenoHiveWeedsCore = Улей сорняков
+  .desc = Странные черные сорняки...
 
-ent-XenoHiveWeedsSourceHidden-name = Улей сорняков
-ent-XenoHiveWeedsSourceHidden-desc = Странные черные сорняки...
+ent-XenoHiveWeedsSourceHidden = Улей сорняков
+  .desc = Странные черные сорняки...
 
-ent-XenoHardyWeeds-name = сорняки
-ent-XenoHardyWeeds-desc = Странные черные сорняки...
+ent-XenoHardyWeeds = сорняки
+  .desc = Странные черные сорняки...
 
-ent-XenoHardyWeedsSourceHidden-name = сорняки
-ent-XenoHardyWeedsSourceHidden-desc = Странные черные сорняки...
+ent-XenoHardyWeedsSourceHidden = сорняки
+  .desc = Странные черные сорняки...
 

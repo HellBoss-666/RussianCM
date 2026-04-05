@@ -1,2 +1,2 @@
-ent-RMCWeaponRifleL24B-name = винтовка L24B
+ent-RMCWeaponRifleL24B = винтовка L24B
 

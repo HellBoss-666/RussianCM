@@ -1,3 +1,3 @@
-ent-CMSpawnPointForeconSynth-name = Синтетическая точка появления Forecon
-ent-CMSpawnPointForeconSynth-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointForeconSynth = Синтетическая точка появления Forecon
+  .desc = Создатель заданий RMC14. 
 

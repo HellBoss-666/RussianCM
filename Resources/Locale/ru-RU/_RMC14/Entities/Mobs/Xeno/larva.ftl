@@ -1,5 +1,5 @@
-ent-RMCXenoEmbryo-name = инопланетный эмбрион
-ent-RMCXenoEmbryo-desc = Весь склизкий и противный.
+ent-RMCXenoEmbryo = инопланетный эмбрион
+  .desc = Весь склизкий и противный.
 
-ent-CMXenoLarva-name = cm-имя-задания-ксено-личинка
+ent-CMXenoLarva = cm-имя-задания-ксено-личинка
 

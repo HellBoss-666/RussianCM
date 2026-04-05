@@ -1,2 +1,2 @@
-ent-RMCWeaponMar50LMG-name = ручной пулемёт MAR-50
+ent-RMCWeaponMar50LMG = ручной пулемёт MAR-50
 

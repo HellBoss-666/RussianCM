@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidProvostEnforcer-name = исполнитель роли призрака провоста
+ent-RMCRandomHumanoidProvostEnforcer = исполнитель роли призрака провоста
 

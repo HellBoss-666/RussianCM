@@ -42,4 +42,4 @@ rmc-mortar-offset-too-close = Слишком близко к миномёту.
 rmc-mortar-offset-max = Макс. смещение: {$max}
 rmc-mortar-view-camera = Камера наблюдения
 rmc-mortar-camera-title = Интерфейс миномётной камеры
-rmc-mortar-camera-name = Пара-Камера ({$x}):({$y})
+rmc-mortar-camera = Пара-Камера ({$x}):({$y})

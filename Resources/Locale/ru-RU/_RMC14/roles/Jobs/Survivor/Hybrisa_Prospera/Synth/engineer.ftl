@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaSynthEngineer-name = пресет инженера-колониста Survivor Synth Hybrisa
+ent-RMCSurvivorPresetHybrisaSynthEngineer = пресет инженера-колониста Survivor Synth Hybrisa
 

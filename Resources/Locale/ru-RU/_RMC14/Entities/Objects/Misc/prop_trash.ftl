@@ -1,3 +1,3 @@
-ent-RMCPropTrashFull-name = полный мешок для мусора
-ent-RMCPropTrashFull-desc = Это прочный черный полимер. 
+ent-RMCPropTrashFull = полный мешок для мусора
+  .desc = Это прочный черный полимер. 
 

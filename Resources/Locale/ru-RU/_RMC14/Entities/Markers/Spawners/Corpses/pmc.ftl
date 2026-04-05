@@ -1,10 +1,10 @@
-ent-RMCSpawnerCorpseWeYaGoonLead-name = Создатель трупов — главный герой We-Ya Goon
+ent-RMCSpawnerCorpseWeYaGoonLead = Создатель трупов — главный герой We-Ya Goon
 
-ent-RMCSpawnerCorpseWeYaGoonLeadBurst-name = Создатель трупов — главный герой We-Ya Goon
+ent-RMCSpawnerCorpseWeYaGoonLeadBurst = Создатель трупов — главный герой We-Ya Goon
 
-ent-RMCSpawnerCorpseWeYaGoonLeadHybrisa-name = Создатель трупов — We-Ya Goon Hybrisa Lead
+ent-RMCSpawnerCorpseWeYaGoonLeadHybrisa = Создатель трупов — We-Ya Goon Hybrisa Lead
 
-ent-RMCSpawnerCorpseWeYaGoonLeadHybrisaBurst-name = Создатель трупов — We-Ya Goon Hybrisa Lead
+ent-RMCSpawnerCorpseWeYaGoonLeadHybrisaBurst = Создатель трупов — We-Ya Goon Hybrisa Lead
 
-ent-RMCSpawnerCorpseWeYaGoonHybrisa-name = Создатель трупов - We-Ya Goon Hybrisa
+ent-RMCSpawnerCorpseWeYaGoonHybrisa = Создатель трупов - We-Ya Goon Hybrisa
 

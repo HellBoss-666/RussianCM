@@ -1,2 +1,2 @@
-ent-RMCWeaponShotgunXM51-name = штурмовой дробовик XM51
+ent-RMCWeaponShotgunXM51 = штурмовой дробовик XM51
 

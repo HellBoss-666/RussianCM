@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidWeYaGoon-name = Weya Corporate в роли призрака
+ent-RMCRandomHumanoidWeYaGoon = Weya Corporate в роли призрака
 

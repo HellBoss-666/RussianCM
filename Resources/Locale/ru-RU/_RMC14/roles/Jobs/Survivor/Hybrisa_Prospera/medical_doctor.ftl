@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaMedicalDoctor-name = предустановка врача
+ent-RMCGearSurvivorPresetHybrisaMedicalDoctor = предустановка врача
 
-ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor-name = точка появления врача
-ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaMedicalDoctor = точка появления врача
+  .desc = Создатель заданий RMC14. 
 

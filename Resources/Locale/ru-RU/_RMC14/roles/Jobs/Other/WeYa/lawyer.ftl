@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidWeYaLawyer-name = Weya Корпоративный адвокат-призрак
+ent-RMCRandomHumanoidWeYaLawyer = Weya Корпоративный адвокат-призрак
 

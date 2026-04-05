@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPCorpsmanPVE-name = точка спавна санитара SPP
-ent-RMCSpawnPointSPPCorpsmanPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSPPCorpsmanPVE = точка спавна санитара SPP
+  .desc = Создатель заданий RMC14. 
 

@@ -1,2 +1,2 @@
-ent-RMCNuke-name = Взрывчатка ядерного деления (PlaceHolder)
+ent-RMCNuke = Взрывчатка ядерного деления (PlaceHolder)
 

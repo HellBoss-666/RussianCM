@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaGrindBarista-name = ежедневная настройка бариста
+ent-RMCGearSurvivorPresetHybrisaGrindBarista = ежедневная настройка бариста
 
-ent-RMCSpawnPointSurvivorHybrisaGrindBarista-name = точка возрождения бариста ежедневного измельчения
-ent-RMCSpawnPointSurvivorHybrisaGrindBarista-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaGrindBarista = точка возрождения бариста ежедневного измельчения
+  .desc = Создатель заданий RMC14. 
 

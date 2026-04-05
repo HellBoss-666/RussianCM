@@ -1,33 +1,33 @@
-ent-RMCStationAlertComputer-name = компьютер оповещения о станции
-ent-RMCStationAlertComputer-desc = Это можно использовать для различных функций.
+ent-RMCStationAlertComputer = компьютер оповещения о станции
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCIdentificationComputer-name = идентификационный компьютер
-ent-RMCIdentificationComputer-desc = Это можно использовать для различных функций.
+ent-RMCIdentificationComputer = идентификационный компьютер
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCSecurityRecordsConsoleAlt-name = записи безопасности
-ent-RMCSecurityRecordsConsoleAlt-desc = Это можно использовать для различных функций.
+ent-RMCSecurityRecordsConsoleAlt = записи безопасности
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCSecurityRecordsConsole-name = записи безопасности
-ent-RMCSecurityRecordsConsole-desc = Это можно использовать для различных функций.
+ent-RMCSecurityRecordsConsole = записи безопасности
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCDropshipWeaponsConsoleProp-name = управление вооружением десантного корабля
-ent-RMCDropshipWeaponsConsoleProp-desc = Это можно использовать для различных функций.
+ent-RMCDropshipWeaponsConsoleProp = управление вооружением десантного корабля
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCSecurityCameraConsole-name = консоль камер видеонаблюдения
-ent-RMCSecurityCameraConsole-desc = Это можно использовать для различных функций.
+ent-RMCSecurityCameraConsole = консоль камер видеонаблюдения
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCPersonalDesktop-name = персональный рабочий стол
-ent-RMCPersonalDesktop-desc = Это можно использовать для различных функций.
+ent-RMCPersonalDesktop = персональный рабочий стол
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCPropCommunicationsConsole-name = консоль связи
-ent-RMCPropCommunicationsConsole-desc = Это можно использовать для различных функций.
+ent-RMCPropCommunicationsConsole = консоль связи
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCPropComputerBase-name = Терминал
-ent-RMCPropComputerBase-desc = Это можно использовать для различных функций.
+ent-RMCPropComputerBase = Терминал
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCPropCommunicationsConsoleAlt-name = консоль связи
-ent-RMCPropCommunicationsConsoleAlt-desc = Это можно использовать для различных функций.
+ent-RMCPropCommunicationsConsoleAlt = консоль связи
+  .desc = Это можно использовать для различных функций.
 
-ent-RMCSystemsComputer-name = системный компьютер
-ent-RMCSystemsComputer-desc = Это можно использовать для различных функций.
+ent-RMCSystemsComputer = системный компьютер
+  .desc = Это можно использовать для различных функций.
 

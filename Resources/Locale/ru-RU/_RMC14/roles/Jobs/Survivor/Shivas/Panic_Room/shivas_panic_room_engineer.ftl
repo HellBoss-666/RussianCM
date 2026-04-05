@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorShivasPanicRoomEngineer-name = Специальный выживший Шива, комната паники, инженер, точка возрождения
-ent-RMCSpawnPointSurvivorShivasPanicRoomEngineer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorShivasPanicRoomEngineer = Специальный выживший Шива, комната паники, инженер, точка возрождения
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

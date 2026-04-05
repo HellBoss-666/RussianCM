@@ -1,12 +1,12 @@
-ent-RMCHeadsetTSEPA-name = ЦЭПА гарнитура
+ent-RMCHeadsetTSEPA = ЦЭПА гарнитура
 
-ent-RMCHeadsetTSE-name = ТСЭ гарнитура
+ent-RMCHeadsetTSE = ТСЭ гарнитура
 
-ent-RMCEncryptionKeyTSEPA-name = Ключ радиошифрования TSEPA
-ent-RMCEncryptionKeyTSEPA-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeyTSEPA = Ключ радиошифрования TSEPA
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeyTSE-name = Ключ радиошифрования TSE
-ent-RMCEncryptionKeyTSE-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeyTSE = Ключ радиошифрования TSE
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCHeadsetTSEAbstract-name = токарный станок-категория-одежда
+ent-RMCHeadsetTSEAbstract = токарный станок-категория-одежда
 

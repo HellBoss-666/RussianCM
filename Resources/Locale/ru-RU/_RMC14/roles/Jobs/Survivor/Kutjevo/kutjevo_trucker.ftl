@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoTrucker-name = Пресет колониста-дальнобойщика Кутьево
+ent-RMCGearSurvivorPresetKutjevoTrucker = Пресет колониста-дальнобойщика Кутьево
 
-ent-RMCSpawnPointSurvivorKutjevoTrucker-name = точка спавна дальнобойщиков в Кутьево
-ent-RMCSpawnPointSurvivorKutjevoTrucker-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorKutjevoTrucker = точка спавна дальнобойщиков в Кутьево
+  .desc = Создатель заданий RMC14. 
 

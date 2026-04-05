@@ -1,3 +1,3 @@
-ent-RMCPickaxe-name = кирка
-ent-RMCPickaxe-desc = Это кирка. 
+ent-RMCPickaxe = кирка
+  .desc = Это кирка. 
 

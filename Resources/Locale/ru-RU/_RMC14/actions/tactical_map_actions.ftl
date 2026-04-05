@@ -1,8 +1,8 @@
-ent-RMCActionOpenTacticalMap-name = Открыть тактическую карту
+ent-RMCActionOpenTacticalMap = Открыть тактическую карту
 
-ent-RMCActionOpenTacticalMapMarine-name = Открыть тактическую карту
+ent-RMCActionOpenTacticalMapMarine = Открыть тактическую карту
 
-ent-RMCActionOpenTacticalMapXeno-name = Открыть тактическую карту
+ent-RMCActionOpenTacticalMapXeno = Открыть тактическую карту
 
-ent-RMCActionOpenTacticalMapGhost-name = Открыть тактическую карту
+ent-RMCActionOpenTacticalMapGhost = Открыть тактическую карту
 

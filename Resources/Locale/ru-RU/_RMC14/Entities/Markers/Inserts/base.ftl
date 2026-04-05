@@ -1,2 +1,2 @@
-ent-RMCMapInsertBase-name = База для вставки карты
+ent-RMCMapInsertBase = База для вставки карты
 

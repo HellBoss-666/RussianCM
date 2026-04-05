@@ -1,3 +1,3 @@
-ent-RMCSpawnPointTSEPAConstable-name = точка появления констебля цепы
-ent-RMCSpawnPointTSEPAConstable-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointTSEPAConstable = точка появления констебля цепы
+  .desc = Создатель заданий RMC14. 
 

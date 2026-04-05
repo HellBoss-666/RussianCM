@@ -1,18 +1,18 @@
-ent-CMBarricadeMetalDoor-name = складная металлическая баррикада
+ent-CMBarricadeMetalDoor = складная металлическая баррикада
 
-ent-RMCBarricadeHybrisaPlasticRoadBarrier-name = пластиковый дорожный барьер
+ent-RMCBarricadeHybrisaPlasticRoadBarrier = пластиковый дорожный барьер
 
-ent-RMCBarricadeHandrail-name = поручень
+ent-RMCBarricadeHandrail = поручень
 
-ent-CMBarricadeTurnstileMed-name = турникет
+ent-CMBarricadeTurnstileMed = турникет
 
-ent-CMBarricadeTurnstile-name = турникет
+ent-CMBarricadeTurnstile = турникет
 
-ent-CMBarricadeMetal-name = металлическая баррикада
+ent-CMBarricadeMetal = металлическая баррикада
 
-ent-RMCBruteUpgrade-name = усиленное улучшение (+Brute)
+ent-RMCBruteUpgrade = усиленное улучшение (+Brute)
 
-ent-RMCBiohazardUpgrade-name = улучшение биологической опасности (+Сжечь)
+ent-RMCBiohazardUpgrade = улучшение биологической опасности (+Сжечь)
 
-ent-RMCExplosiveUpgrade-name = составное улучшение (++Взрывчатка, ++Снаряд, ++Огонь)
+ent-RMCExplosiveUpgrade = составное улучшение (++Взрывчатка, ++Снаряд, ++Огонь)
 

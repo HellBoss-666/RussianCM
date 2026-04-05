@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetGangLeader-name = Пресет выжившего лидера банды
+ent-RMCGearSurvivorPresetGangLeader = Пресет выжившего лидера банды
 
-ent-RMCSpawnPointSurvivorGangLeader-name = Точка возрождения лидера банды выживших
-ent-RMCSpawnPointSurvivorGangLeader-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorGangLeader = Точка возрождения лидера банды выживших
+  .desc = Создатель заданий RMC14. 
 

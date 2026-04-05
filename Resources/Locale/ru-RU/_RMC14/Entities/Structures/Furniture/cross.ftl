@@ -1,2 +1,2 @@
-ent-RMCGraveCross-name = деревянный крест
+ent-RMCGraveCross = деревянный крест
 

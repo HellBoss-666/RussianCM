@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPMCForceLeadPVE-name = Weya PMC Force Lead точка появления
-ent-RMCSpawnPointPMCForceLeadPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCForceLeadPVE = Weya PMC Force Lead точка появления
+  .desc = Создатель заданий RMC14. 
 

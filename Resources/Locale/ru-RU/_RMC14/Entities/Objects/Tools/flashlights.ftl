@@ -1,34 +1,34 @@
-ent-RMCFlashlightLantern-name = фонарь
-ent-RMCFlashlightLantern-desc = Шахтерский фонарь.
+ent-RMCFlashlightLantern = фонарь
+  .desc = Шахтерский фонарь.
 
-ent-RMCLampTripod-name = штативная лампа
-ent-RMCLampTripod-desc = Трубка аварийного освещения, закрепленная на штативе. 
+ent-RMCLampTripod = штативная лампа
+  .desc = Трубка аварийного освещения, закрепленная на штативе. 
 
-ent-RMCLampCandelabra-name = канделябры
-ent-RMCLampCandelabra-desc = Пожарная опасность, которую можно использовать, чтобы безнаказанно бить вещи.
+ent-RMCLampCandelabra = канделябры
+  .desc = Пожарная опасность, которую можно использовать, чтобы безнаказанно бить вещи.
 
-ent-RMCLampMenorah-name = Менора
-ent-RMCLampMenorah-desc = Для празднования Хануки.
+ent-RMCLampMenorah = Менора
+  .desc = Для празднования Хануки.
 
-ent-RMCLamp-name = настольная лампа
-ent-RMCLamp-desc = Настольная лампа с регулируемым креплением.
+ent-RMCLamp = настольная лампа
+  .desc = Настольная лампа с регулируемым креплением.
 
-ent-RMCFlashlightPen-name = фонарик
-ent-RMCFlashlightPen-desc = Фонарик размером с ручку, используемый медицинским персоналом.
+ent-RMCFlashlightPen = фонарик
+  .desc = Фонарик размером с ручку, используемый медицинским персоналом.
 
-ent-RMCFlashlight-name = элемент
+ent-RMCFlashlight = элемент
 
-ent-RMCBoxFlashlightsEmpty-name = Ящик с припасами (фонарики)
-ent-RMCBoxFlashlightsEmpty-desc = Коробка фонариков, которые украсят ваш день!
+ent-RMCBoxFlashlightsEmpty = Ящик с припасами (фонарики)
+  .desc = Коробка фонариков, которые украсят ваш день!
 
-ent-RMCFlashlightBase-name = элемент
+ent-RMCFlashlightBase = элемент
 
-ent-RMCBoxFlashlights-name = Ящик с припасами (фонарики)
-ent-RMCBoxFlashlights-desc = Коробка фонариков, которые украсят ваш день!
+ent-RMCBoxFlashlights = Ящик с припасами (фонарики)
+  .desc = Коробка фонариков, которые украсят ваш день!
 
-ent-RMCLampGreen-name = настольная лампа
-ent-RMCLampGreen-desc = Классическая настольная лампа зеленого цвета.
+ent-RMCLampGreen = настольная лампа
+  .desc = Классическая настольная лампа зеленого цвета.
 
-ent-RMCLampTripodGrey-name = штативная лампа
-ent-RMCLampTripodGrey-desc = Трубка аварийного освещения, закрепленная на штативе. 
+ent-RMCLampTripodGrey = штативная лампа
+  .desc = Трубка аварийного освещения, закрепленная на штативе. 
 

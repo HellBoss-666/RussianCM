@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetSoroCivilian-name = гражданский пресет сорокино
+ent-RMCGearSurvivorPresetSoroCivilian = гражданский пресет сорокино
 
-ent-RMCSpawnPointSurvivorSoroCivilian-name = Сорокино — точка возрождения гражданских лиц
-ent-RMCSpawnPointSurvivorSoroCivilian-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorSoroCivilian = Сорокино — точка возрождения гражданских лиц
+  .desc = Создатель заданий RMC14. 
 

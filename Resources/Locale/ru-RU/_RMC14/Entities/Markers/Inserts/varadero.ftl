@@ -1,10 +1,10 @@
-ent-RMCMapInsertVaraderoCLFRaid-name = CLF Рейд
+ent-RMCMapInsertVaraderoCLFRaid = CLF Рейд
 
-ent-RMCMapInsertVaraderoResturant-name = Ресторан
+ent-RMCMapInsertVaraderoResturant = Ресторан
 
-ent-RMCMapInsertVaraderoAltHospital-name = Альт.
+ent-RMCMapInsertVaraderoAltHospital = Альт.
 
-ent-RMCMapInsertVaraderoEngiHold-name = Энги Холд
+ent-RMCMapInsertVaraderoEngiHold = Энги Холд
 
-ent-RMCMapInsertVaraderoBase-name = Map Insert Base
+ent-RMCMapInsertVaraderoBase = Map Insert Base
 

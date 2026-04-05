@@ -1,3 +1,3 @@
-ent-RMCDebugSoundDevice-name = неизвестное устройство
-ent-RMCDebugSoundDevice-desc = ???
+ent-RMCDebugSoundDevice = неизвестное устройство
+  .desc = ???
 

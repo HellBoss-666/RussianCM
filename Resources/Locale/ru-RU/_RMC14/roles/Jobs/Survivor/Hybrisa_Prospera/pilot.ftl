@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaCommercialPilot-name = Предустановка корпоративной связи hybrisa
+ent-RMCSurvivorPresetHybrisaCommercialPilot = Предустановка корпоративной связи hybrisa
 

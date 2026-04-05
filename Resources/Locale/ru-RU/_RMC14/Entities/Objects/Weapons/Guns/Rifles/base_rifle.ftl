@@ -1,4 +1,4 @@
-ent-CMBaseCartridgeRifle-name = картридж
+ent-CMBaseCartridgeRifle = картридж
 
-ent-CMMagazineRifleBase-name = элемент
+ent-CMMagazineRifleBase = элемент
 

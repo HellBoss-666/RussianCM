@@ -1,3 +1,3 @@
-ent-XenoSpikeProjectile-name = осколок шипа
-ent-XenoSpikeProjectile-desc = Осколок острого шипа.
+ent-XenoSpikeProjectile = осколок шипа
+  .desc = Осколок острого шипа.
 

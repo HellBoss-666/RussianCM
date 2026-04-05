@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoCMBDeputy-name = пресет колониста Кутьево-гуна
+ent-RMCGearSurvivorPresetKutjevoCMBDeputy = пресет колониста Кутьево-гуна
 
-ent-RMCSpawnPointSurvivorKutjevoCMBDeputy-name = точка появления заместителя кутьево cmb
-ent-RMCSpawnPointSurvivorKutjevoCMBDeputy-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorKutjevoCMBDeputy = точка появления заместителя кутьево cmb
+  .desc = Создатель заданий RMC14. 
 

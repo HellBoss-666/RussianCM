@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPRiflemanPVE-name = точка спавна стрелка SPP
-ent-RMCSpawnPointSPPRiflemanPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSPPRiflemanPVE = точка спавна стрелка SPP
+  .desc = Создатель заданий RMC14. 
 

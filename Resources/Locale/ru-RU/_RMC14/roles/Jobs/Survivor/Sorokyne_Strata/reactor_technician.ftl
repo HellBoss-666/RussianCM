@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetReactorTechnician-name = предустановка специалиста по реактору
+ent-RMCGearSurvivorPresetReactorTechnician = предустановка специалиста по реактору
 
-ent-RMCSpawnPointSurvivorReactorTechnician-name = Точка появления реакторного техника
-ent-RMCSpawnPointSurvivorReactorTechnician-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorReactorTechnician = Точка появления реакторного техника
+  .desc = Создатель заданий RMC14. 
 

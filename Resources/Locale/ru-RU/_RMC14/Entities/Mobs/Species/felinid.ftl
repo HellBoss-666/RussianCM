@@ -1,2 +1,2 @@
-ent-CMMobFelinid-name = Урист МакФелинид
+ent-CMMobFelinid = Урист МакФелинид
 

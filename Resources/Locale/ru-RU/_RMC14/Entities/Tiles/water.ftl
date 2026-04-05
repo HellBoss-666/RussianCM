@@ -1,10 +1,10 @@
-ent-RMCRiverSorokyne-name = река
+ent-RMCRiverSorokyne = река
 
-ent-CMFloorDeepWaterEntity-name = глубокая вода
+ent-CMFloorDeepWaterEntity = глубокая вода
 
-ent-CMFloorShallowWaterEntity-name = мелководье
+ent-CMFloorShallowWaterEntity = мелководье
 
-ent-RMCFloorShallowWaterEntityRed-name = мелководье
+ent-RMCFloorShallowWaterEntityRed = мелководье
 
-ent-RMCFloorShallowWaterEntityDarkRed-name = мелководье
+ent-RMCFloorShallowWaterEntityDarkRed = мелководье
 

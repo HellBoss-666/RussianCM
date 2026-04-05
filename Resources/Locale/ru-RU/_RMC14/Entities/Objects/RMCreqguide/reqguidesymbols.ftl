@@ -1,27 +1,27 @@
-ent-RMCLogisticsofficerGuideBook-name = Символ офицеров логистики
-ent-RMCLogisticsofficerGuideBook-desc = Сумма офицеров по логистике
+ent-RMCLogisticsofficerGuideBook = Символ офицеров логистики
+  .desc = Сумма офицеров по логистике
 
-ent-RMCCargotechGuideBook-name = Символ технических специалистов
-ent-RMCCargotechGuideBook-desc = Символ грузовых техников
+ent-RMCCargotechGuideBook = Символ технических специалистов
+  .desc = Символ грузовых техников
 
-ent-RMCPitRasedGuideBook-name = питрасед
-ent-RMCPitRasedGuideBook-desc = Все 5 падпадов
+ent-RMCPitRasedGuideBook = питрасед
+  .desc = Все 5 падпадов
 
-ent-RMCPitLowerdGuideBook-name = Питловерд
-ent-RMCPitLowerdGuideBook-desc = грузовая яма опущена
+ent-RMCPitLowerdGuideBook = Питловерд
+  .desc = грузовая яма опущена
 
-ent-RMCSupplyDropPadsGuideBook-name = подставки для поставок
-ent-RMCSupplyDropPadsGuideBook-desc = Все 5 падпадов
+ent-RMCSupplyDropPadsGuideBook = подставки для поставок
+  .desc = Все 5 падпадов
 
-ent-RMCTheLineGuideBook-name = Линия
-ent-RMCTheLineGuideBook-desc = Линия
+ent-RMCTheLineGuideBook = Линия
+  .desc = Линия
 
-ent-RMCASRSinterfaceGuideBook-name = АСРС-интерфейс
-ent-RMCASRSinterfaceGuideBook-desc = Интерфейс АСРС
+ent-RMCASRSinterfaceGuideBook = АСРС-интерфейс
+  .desc = Интерфейс АСРС
 
-ent-RMCGuidebookPaperRequisitionsWritten-name = requisition invoice
-ent-RMCGuidebookPaperRequisitionsWritten-desc = A single unit of bureaucracy awaiting for approval.
+ent-RMCGuidebookPaperRequisitionsWritten = requisition invoice
+  .desc = A single unit of bureaucracy awaiting for approval.
 
-ent-RMCGuidebookPaperRequisitionsStamped-name = requisition invoice
-ent-RMCGuidebookPaperRequisitionsStamped-desc = A single unit of bureaucracy awaiting for approval.
+ent-RMCGuidebookPaperRequisitionsStamped = requisition invoice
+  .desc = A single unit of bureaucracy awaiting for approval.
 

@@ -1,16 +1,16 @@
-ent-RMCSkillPresetPVEPlatoonCommander-name = командир взвода
+ent-RMCSkillPresetPVEPlatoonCommander = командир взвода
 
-ent-RMCSkillPresetPVESectionSergeant-name = Сержант отделения
+ent-RMCSkillPresetPVESectionSergeant = Сержант отделения
 
-ent-RMCSkillPresetPVESquadLeader-name = Командир отряда
+ent-RMCSkillPresetPVESquadLeader = Командир отряда
 
-ent-RMCSkillPresetPVECorpsman-name = санитар
+ent-RMCSkillPresetPVECorpsman = санитар
 
-ent-RMCSkillPresetPVESGO-name = Оператор Смартгана
+ent-RMCSkillPresetPVESGO = Оператор Смартгана
 
-ent-RMCSkillPresetPVERifleman-name = стрелок
+ent-RMCSkillPresetPVERifleman = стрелок
 
-ent-RMCSkillPresetPVECLFDoctor-name = CLF Доктор
+ent-RMCSkillPresetPVECLFDoctor = CLF Доктор
 
-ent-RMCSkillPresetPVEForeconRTO-name = Форекон РТО
+ent-RMCSkillPresetPVEForeconRTO = Форекон РТО
 

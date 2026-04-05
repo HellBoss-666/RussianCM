@@ -1,3 +1,3 @@
-ent-RMCWhistle-name = свист
-ent-RMCWhistle-desc = Металлический свисток. 
+ent-RMCWhistle = свист
+  .desc = Металлический свисток. 
 

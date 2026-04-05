@@ -1,2 +1,2 @@
-ent-RMCRackParts-name = детали стеллажа
+ent-RMCRackParts = детали стеллажа
 

@@ -1,36 +1,36 @@
-ent-RMCHeadsetDistressHalcyon-name = корпоративная гарнитура Halcyon
-ent-RMCHeadsetDistressHalcyon-desc = Гарнитура, которую обычно носят сотрудники корпорации Halcyon Dynamics.
+ent-RMCHeadsetDistressHalcyon = корпоративная гарнитура Halcyon
+  .desc = Гарнитура, которую обычно носят сотрудники корпорации Halcyon Dynamics.
 
-ent-RMCHeadsetSPPPaP-name = SPP PaP-гарнитура
-ent-RMCHeadsetSPPPaP-desc = Специальная гарнитура, используемая Народной вооруженной полицией СПП.
+ent-RMCHeadsetSPPPaP = SPP PaP-гарнитура
+  .desc = Специальная гарнитура, используемая Народной вооруженной полицией СПП.
 
-ent-RMCHeadsetDistressSPP-name = Гарнитура колонии СПП
+ent-RMCHeadsetDistressSPP = Гарнитура колонии СПП
 
-ent-RMCHeadsetSPPMedic-name = СПП-МЕД гарнитура
+ent-RMCHeadsetSPPMedic = СПП-МЕД гарнитура
 
-ent-RMCHeadsetSPPEngineer-name = СПП-ЦКТ гарнитура
+ent-RMCHeadsetSPPEngineer = СПП-ЦКТ гарнитура
 
-ent-RMCHeadsetSPPCommand-name = СПП-CMD гарнитура
+ent-RMCHeadsetSPPCommand = СПП-CMD гарнитура
 
-ent-RMCHeadsetSPP-name = СПП-гарнитура
+ent-RMCHeadsetSPP = СПП-гарнитура
 
-ent-RMCEncryptionKeyHalcyon-name = Ключ радиошифрования Halcyon
-ent-RMCEncryptionKeyHalcyon-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeyHalcyon = Ключ радиошифрования Halcyon
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeySPPMedic-name = Ключ шифрования радиомедицинской радиосвязи SPP
-ent-RMCEncryptionKeySPPMedic-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeySPPMedic = Ключ шифрования радиомедицинской радиосвязи SPP
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeySPPEngineer-name = Ключ инженерного радиошифрования SPP
-ent-RMCEncryptionKeySPPEngineer-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeySPPEngineer = Ключ инженерного радиошифрования SPP
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeySPPCommand-name = Ключ шифрования радиокоманды SPP
-ent-RMCEncryptionKeySPPCommand-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeySPPCommand = Ключ шифрования радиокоманды SPP
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCEncryptionKeySPP-name = Ключ радиошифрования SPP
-ent-RMCEncryptionKeySPP-desc = Ключ шифрования для радиогарнитуры.
+ent-RMCEncryptionKeySPP = Ключ радиошифрования SPP
+  .desc = Ключ шифрования для радиогарнитуры.
 
-ent-RMCHeadsetSPPAbstract-name = токарный станок-категория-одежда
+ent-RMCHeadsetSPPAbstract = токарный станок-категория-одежда
 
-ent-RMCHeadsetSPPCommando-name = СПП-КдоК гарнитура
-ent-RMCHeadsetSPPCommando-desc = Специализированная гарнитура, используемая командами СПП.
+ent-RMCHeadsetSPPCommando = СПП-КдоК гарнитура
+  .desc = Специализированная гарнитура, используемая командами СПП.
 

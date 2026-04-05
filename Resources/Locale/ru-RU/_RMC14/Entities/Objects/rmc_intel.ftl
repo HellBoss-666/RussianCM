@@ -1,16 +1,16 @@
-ent-RMCIntelTechTree-name = дерево технологий разведки
+ent-RMCIntelTechTree = дерево технологий разведки
 
-ent-RMCComputerIntel-name = компьютер разведки
+ent-RMCComputerIntel = компьютер разведки
 
-ent-RMCTechTreeConsole-name = консоль дерева технологий
+ent-RMCTechTreeConsole = консоль дерева технологий
 
-ent-RMCIntelTechnicalManual-name = техническое руководство
+ent-RMCIntelTechnicalManual = техническое руководство
 
-ent-RMCIntelFolder-name = папка с разведданными
+ent-RMCIntelFolder = папка с разведданными
 
-ent-RMCIntelProgressReport-name = отчет о ходе работ
+ent-RMCIntelProgressReport = отчет о ходе работ
 
-ent-RMCIntelPaperScrap-name = клочок бумаги
+ent-RMCIntelPaperScrap = клочок бумаги
 
-ent-RMCIntelBase-name = разведданные
+ent-RMCIntelBase = разведданные
 

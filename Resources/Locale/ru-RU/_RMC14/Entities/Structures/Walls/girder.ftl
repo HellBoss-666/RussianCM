@@ -1,6 +1,6 @@
-ent-RMCGirderDisplaced-name = displaced
+ent-RMCGirderDisplaced = displaced
 
-ent-CMGirderReinforced-name = reinforced girder
+ent-CMGirderReinforced = reinforced girder
 
-ent-CMGirder-name = балка
+ent-CMGirder = балка
 

@@ -1,4 +1,4 @@
-ent-SpawnCMTestDummy-name = Создатель тестовых манекенов RMC
+ent-SpawnCMTestDummy = Создатель тестовых манекенов RMC
 
-ent-CMTestDummy-name = тестовый манекен
+ent-CMTestDummy = тестовый манекен
 

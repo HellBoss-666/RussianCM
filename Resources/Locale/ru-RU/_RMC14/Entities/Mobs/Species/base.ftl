@@ -1,4 +1,4 @@
-ent-CMBaseMobSpeciesOrganic-name = Морпех Урист Макхэндс
+ent-CMBaseMobSpeciesOrganic = Морпех Урист Макхэндс
 
-ent-RMCBaseMobSpeciesOrganic-name = Urist C.M. McHands
+ent-RMCBaseMobSpeciesOrganic = Urist C.M. McHands
 

@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidCLFCellCommander-name = clf роль призрака командир ячейки
+ent-RMCRandomHumanoidCLFCellCommander = clf роль призрака командир ячейки
 

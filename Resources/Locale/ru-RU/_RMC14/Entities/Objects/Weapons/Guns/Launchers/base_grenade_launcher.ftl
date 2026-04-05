@@ -1,2 +1,2 @@
-ent-RMCBaseWeaponGrenadeLauncher-name = элемент
+ent-RMCBaseWeaponGrenadeLauncher = элемент
 

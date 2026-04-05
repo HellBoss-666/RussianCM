@@ -1,11 +1,11 @@
-ent-CMShardPhoron-name = осколок форона
-ent-CMShardPhoron-desc = Осколок разбитого форонового стекла. 
+ent-CMShardPhoron = осколок форона
+  .desc = Осколок разбитого форонового стекла. 
 
-ent-RMCShardIce-name = ледяной осколок
-ent-RMCShardIce-desc = Осколок льда. 
+ent-RMCShardIce = ледяной осколок
+  .desc = Осколок льда. 
 
-ent-CMShardGlass-name = осколок стекла
-ent-CMShardGlass-desc = Осколок разбитого стекла. 
+ent-CMShardGlass = осколок стекла
+  .desc = Осколок разбитого стекла. 
 
-ent-CMShardBase-name = элемент
+ent-CMShardBase = элемент
 

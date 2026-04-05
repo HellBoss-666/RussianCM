@@ -1,3 +1,3 @@
-ent-CMSpawnPointForeconSmartGunOperator-name = точка появления оператора умного оружия Forecon
-ent-CMSpawnPointForeconSmartGunOperator-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointForeconSmartGunOperator = точка появления оператора умного оружия Forecon
+  .desc = Создатель заданий RMC14. 
 

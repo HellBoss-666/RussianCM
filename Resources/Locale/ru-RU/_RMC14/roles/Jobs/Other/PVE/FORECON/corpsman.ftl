@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVECorpsman-name = точка появления санитара форэкона
-ent-RMCSpawnPointFORECONPVECorpsman-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointFORECONPVECorpsman = точка появления санитара форэкона
+  .desc = Создатель заданий RMC14. 
 

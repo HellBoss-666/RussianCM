@@ -1,9 +1,9 @@
-ent-RMCCartridgeBoltActionRifle-name = cartridge
+ent-RMCCartridgeBoltActionRifle = cartridge
 
-ent-RMCMagazineRifleHunting-name = item
+ent-RMCMagazineRifleHunting = item
 
-ent-RMCWeaponBoltActionRifle-name = охотничья винтовка с продольно-скользящим затвором «Басира-Армстронг»
+ent-RMCWeaponBoltActionRifle = охотничья винтовка с продольно-скользящим затвором «Басира-Армстронг»
 
-ent-RMCBulletRifleHunting-name = BaseBullet
-ent-RMCBulletRifleHunting-desc = If you can see this you're probably dead!
+ent-RMCBulletRifleHunting = BaseBullet
+  .desc = If you can see this you're probably dead!
 

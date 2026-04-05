@@ -1,11 +1,11 @@
-ent-CMXenoHivelordBase-name = Хивелорд
-ent-CMXenoHivelordBase-desc = Строитель действительно больших ульев.
+ent-CMXenoHivelordBase = Хивелорд
+  .desc = Строитель действительно больших ульев.
 
-ent-CMXenoHivelord-name = cm-имя-работы-xeno-hivelord
+ent-CMXenoHivelord = cm-имя-работы-xeno-hivelord
 
-ent-CMXenoHivelordResinWhisperer-name = Хивелорд
-ent-CMXenoHivelordResinWhisperer-desc = Строитель действительно больших ульев.
+ent-CMXenoHivelordResinWhisperer = Хивелорд
+  .desc = Строитель действительно больших ульев.
 
-ent-CMXenoHivelordDesigner-name = Хивелорд
-ent-CMXenoHivelordDesigner-desc = Строитель действительно больших ульев.
+ent-CMXenoHivelordDesigner = Хивелорд
+  .desc = Строитель действительно больших ульев.
 

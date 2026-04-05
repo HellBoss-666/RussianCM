@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaSynthTSEPA-name = пресет Survivor Synth Hybrisa Tsepa Colonist
+ent-RMCSurvivorPresetHybrisaSynthTSEPA = пресет Survivor Synth Hybrisa Tsepa Colonist
 

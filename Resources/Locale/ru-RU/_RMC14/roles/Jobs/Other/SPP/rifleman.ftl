@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidSPPRiflemanFriendly-name = spp роль призрака стрелок
+ent-RMCRandomHumanoidSPPRiflemanFriendly = spp роль призрака стрелок
 
-ent-RMCRandomHumanoidSPPRiflemanHostile-name = spp роль призрака стрелок
+ent-RMCRandomHumanoidSPPRiflemanHostile = spp роль призрака стрелок
 

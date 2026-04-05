@@ -1,2 +1,2 @@
-ent-CMBaseMachineCircuitboard-name = машинная доска
+ent-CMBaseMachineCircuitboard = машинная доска
 

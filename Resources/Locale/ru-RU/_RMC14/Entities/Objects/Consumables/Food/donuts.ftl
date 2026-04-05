@@ -1,12 +1,12 @@
-ent-RMCFoodDonutFrosted-name = матовый пончик
-ent-RMCFoodDonutFrosted-desc = Розовый матовый пончик. 
+ent-RMCFoodDonutFrosted = матовый пончик
+  .desc = Розовый матовый пончик. 
 
-ent-RMCFoodDonut-name = пончик
-ent-RMCFoodDonut-desc = Пончик. 
+ent-RMCFoodDonut = пончик
+  .desc = Пончик. 
 
-ent-RMCBoxDonut-name = Ням! 
-ent-RMCBoxDonut-desc = Коробочка аппетитного «Ням!» 
+ent-RMCBoxDonut = Ням! 
+  .desc = Коробочка аппетитного «Ням!» 
 
-ent-RMCBoxDonutEmpty-name = Ням! 
-ent-RMCBoxDonutEmpty-desc = Коробочка аппетитного «Ням!» 
+ent-RMCBoxDonutEmpty = Ням! 
+  .desc = Коробочка аппетитного «Ням!» 
 

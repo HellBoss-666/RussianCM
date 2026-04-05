@@ -1,26 +1,26 @@
-ent-RMCAreaHFOOB-name = За пределами границ
+ent-RMCAreaHFOOB = За пределами границ
 
-ent-RMCAreaHFHangar-name = Ангар
+ent-RMCAreaHFHangar = Ангар
 
-ent-RMCAreaHFArmoury-name = Силовой арсенал
+ent-RMCAreaHFArmoury = Силовой арсенал
 
-ent-RMCAreaHFPrep-name = Силовая подготовка
+ent-RMCAreaHFPrep = Силовая подготовка
 
-ent-RMCAreaHFCommandDeck-name = Командная колода сил
+ent-RMCAreaHFCommandDeck = Командная колода сил
 
-ent-RMCAreaHFBriefRoom-name = Комната для брифингов
+ent-RMCAreaHFBriefRoom = Комната для брифингов
 
-ent-RMCAreaHFMedical-name = Медицинский
+ent-RMCAreaHFMedical = Медицинский
 
-ent-RMCAreaHFDisposals-name = Выбытия
+ent-RMCAreaHFDisposals = Выбытия
 
-ent-RMCAreaHFBathroom-name = Ванная комната
+ent-RMCAreaHFBathroom = Ванная комната
 
-ent-RMCAreaHFMessHall-name = Столовая
+ent-RMCAreaHFMessHall = Столовая
 
-ent-RMCAreaHFHypersleepGearLockers-name = Шкафчики для снаряжения Hypersleep
+ent-RMCAreaHFHypersleepGearLockers = Шкафчики для снаряжения Hypersleep
 
-ent-RMCAreaHFHypersleepStorageA-name = Гиперсонное хранилище
+ent-RMCAreaHFHypersleepStorageA = Гиперсонное хранилище
 
-ent-RMCAreaHF-name = Хауршефант
+ent-RMCAreaHF = Хауршефант
 

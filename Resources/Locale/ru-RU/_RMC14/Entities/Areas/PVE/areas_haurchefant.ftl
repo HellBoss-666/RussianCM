@@ -1,10 +1,10 @@
-ent-RMCAreaHFOffice-name = Офис
+ent-RMCAreaHFOffice = Офис
 
-ent-RMCAreaHFEngineering-name = Инженерное дело
+ent-RMCAreaHFEngineering = Инженерное дело
 
-ent-RMCAreaHFSyntheticCloset-name = Синтетический шкаф
+ent-RMCAreaHFSyntheticCloset = Синтетический шкаф
 
-ent-RMCAreaHFAICore-name = Ядро ИИ
+ent-RMCAreaHFAICore = Ядро ИИ
 
-ent-RMCAreaHFHangar2-name = Нижний ангар
+ent-RMCAreaHFHangar2 = Нижний ангар
 

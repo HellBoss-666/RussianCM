@@ -1,12 +1,12 @@
-ent-RMCRandomHumanoidPMCStandardM54C2-name = стандарт роли призрака weya pmc
+ent-RMCRandomHumanoidPMCStandardM54C2 = стандарт роли призрака weya pmc
 
-ent-RMCSpawnPointPMCStandardSSG45-name = точка появления оператора Weya PMC
-ent-RMCSpawnPointPMCStandardSSG45-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCStandardSSG45 = точка появления оператора Weya PMC
+  .desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCStandardSSG45-name = стандарт роли призрака weya pmc
+ent-RMCRandomHumanoidPMCStandardSSG45 = стандарт роли призрака weya pmc
 
-ent-RMCSpawnPointPMCStandardM63B2-name = точка появления оператора Weya PMC
-ent-RMCSpawnPointPMCStandardM63B2-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCStandardM63B2 = точка появления оператора Weya PMC
+  .desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCStandardM63B2-name = стандарт роли призрака weya pmc
+ent-RMCRandomHumanoidPMCStandardM63B2 = стандарт роли призрака weya pmc
 

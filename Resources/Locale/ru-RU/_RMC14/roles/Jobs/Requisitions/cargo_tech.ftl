@@ -1,3 +1,3 @@
-ent-CMSpawnPointCargoTech-name = требуется точка появления технологий
-ent-CMSpawnPointCargoTech-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointCargoTech = требуется точка появления технологий
+  .desc = Создатель заданий RMC14. 
 

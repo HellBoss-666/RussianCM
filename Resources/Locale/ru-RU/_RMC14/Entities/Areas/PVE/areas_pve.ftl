@@ -1,2 +1,2 @@
-ent-RMCAreaPVE-name = область
+ent-RMCAreaPVE = область
 

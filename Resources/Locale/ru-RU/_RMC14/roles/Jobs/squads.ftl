@@ -1,36 +1,36 @@
-ent-SquadSunRiders-name = Солнечные Райдеры
+ent-SquadSunRiders = Солнечные Райдеры
 
-ent-SquadUnassigned-name = Неназначенный
+ent-SquadUnassigned = Неназначенный
 
-ent-SquadCLF-name = КЛФ
+ent-SquadCLF = КЛФ
 
-ent-SquadSOF-name = ССО
+ent-SquadSOF = ССО
 
-ent-SquadFORECON-name = Разведка
+ent-SquadFORECON = Разведка
 
-ent-SquadProvost-name = Провост
+ent-SquadProvost = Провост
 
-ent-SquadRoyalMarines-name = Королевская морская пехота
+ent-SquadRoyalMarines = Королевская морская пехота
 
-ent-SquadFreelancer-name = Фрилансер
+ent-SquadFreelancer = Фрилансер
 
-ent-SquadPMC-name = ЧВК
+ent-SquadPMC = ЧВК
 
-ent-SquadSPP-name = СЭС
+ent-SquadSPP = СЭС
 
-ent-SquadIntel-name = Интел
+ent-SquadIntel = Интел
 
-ent-SquadEcho-name = Эхо
+ent-SquadEcho = Эхо
 
-ent-SquadFoxtrot-name = Фокстрот
+ent-SquadFoxtrot = Фокстрот
 
-ent-SquadDelta-name = Дельта
+ent-SquadDelta = Дельта
 
-ent-SquadCharlie-name = Чарли
+ent-SquadCharlie = Чарли
 
-ent-SquadBravo-name = Браво
+ent-SquadBravo = Браво
 
-ent-SquadAlpha-name = Альфа
+ent-SquadAlpha = Альфа
 
-ent-SquadRoyalMarinesPVE-name = Виски Отряд
+ent-SquadRoyalMarinesPVE = Виски Отряд
 

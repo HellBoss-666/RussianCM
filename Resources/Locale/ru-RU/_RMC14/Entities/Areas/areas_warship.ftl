@@ -1,398 +1,398 @@
-ent-RMCAreaWarship-name = Военный корабль
+ent-RMCAreaWarship = Военный корабль
 
-ent-RMCAreaWarshipASOsOffice-name = Офис ASO
+ent-RMCAreaWarshipASOsOffice = Офис ASO
 
-ent-RMCAreaWarshipIOPreparations-name = Препараты для ввода-вывода
+ent-RMCAreaWarshipIOPreparations = Препараты для ввода-вывода
 
-ent-RMCAreaWarshipIntelligenceLab-name = Разведывательная лаборатория
+ent-RMCAreaWarshipIntelligenceLab = Разведывательная лаборатория
 
-ent-RMCAreaWarshipDropshipPreparations-name = Подготовка к дропшиппингу
+ent-RMCAreaWarshipDropshipPreparations = Подготовка к дропшиппингу
 
-ent-RMCAreaWarshipDropshipCrewQuarters-name = Каюты экипажа десантного корабля
+ent-RMCAreaWarshipDropshipCrewQuarters = Каюты экипажа десантного корабля
 
-ent-RMCAreaWarshipHangerCrewLounge-name = Ангар, комната отдыха для экипажа
+ent-RMCAreaWarshipHangerCrewLounge = Ангар, комната отдыха для экипажа
 
-ent-RMCAreaWarshipVehicleCrewQuarters-name = Помещения для экипажа транспортных средств
+ent-RMCAreaWarshipVehicleCrewQuarters = Помещения для экипажа транспортных средств
 
-ent-RMCAreaWarshipVehicleCrewPreparations-name = Подготовка экипажа автомобиля
+ent-RMCAreaWarshipVehicleCrewPreparations = Подготовка экипажа автомобиля
 
-ent-RMCAreaWarshipHangerConstruction-name = Строительство ангаров
+ent-RMCAreaWarshipHangerConstruction = Строительство ангаров
 
-ent-RMCAreaWarshipHangerBriefing-name = Брифинг в ангаре
+ent-RMCAreaWarshipHangerBriefing = Брифинг в ангаре
 
-ent-RMCAreaWarshipHangerHallwaySouth-name = Южный коридор ангара
+ent-RMCAreaWarshipHangerHallwaySouth = Южный коридор ангара
 
-ent-RMCAreaWarshipDropshipHanger-name = Ангар для десантных кораблей
+ent-RMCAreaWarshipDropshipHanger = Ангар для десантных кораблей
 
-ent-RMCAreaWarshipIntelligenceMaintenance-name = Техническое обслуживание разведки
+ent-RMCAreaWarshipIntelligenceMaintenance = Техническое обслуживание разведки
 
-ent-RMCAreaWarshipEastEngineeringReactors-name = Восточные инженерные реакторы
+ent-RMCAreaWarshipEastEngineeringReactors = Восточные инженерные реакторы
 
-ent-RMCAreaWarshipEastEngineeringReactorsMaintenance-name = Восточное инженерное обслуживание реакторов
+ent-RMCAreaWarshipEastEngineeringReactorsMaintenance = Восточное инженерное обслуживание реакторов
 
-ent-RMCAreaWarshipMemorialandChapel-name = Мемориал и часовня
+ent-RMCAreaWarshipMemorialandChapel = Мемориал и часовня
 
-ent-RMCAreaWarshipMorguePreparation-name = Подготовка к моргу
+ent-RMCAreaWarshipMorguePreparation = Подготовка к моргу
 
-ent-RMCAreaWarshipMorgue-name = Морг
+ent-RMCAreaWarshipMorgue = Морг
 
-ent-RMCAreaWarshipFieldDoctorsPreparations-name = Препараты полевых врачей
+ent-RMCAreaWarshipFieldDoctorsPreparations = Препараты полевых врачей
 
-ent-RMCAreaWarshipMedicalORs-name = Медицинские операционные
+ent-RMCAreaWarshipMedicalORs = Медицинские операционные
 
-ent-RMCAreaWarshipMedialORLobby-name = Медицинский ИЛИ Лобби
+ent-RMCAreaWarshipMedialORLobby = Медицинский ИЛИ Лобби
 
-ent-RMCAreaWarshipCMOsOffice-name = Офис директора по маркетингу
+ent-RMCAreaWarshipCMOsOffice = Офис директора по маркетингу
 
-ent-RMCAreaWarshipMedicalJanitorial-name = Медицинский Уборочный
+ent-RMCAreaWarshipMedicalJanitorial = Медицинский Уборочный
 
-ent-RMCAreaWarshipChemistry-name = Химия
+ent-RMCAreaWarshipChemistry = Химия
 
-ent-RMCAreaWarshipMedicalBreakRoom-name = Комната медицинского отдыха
+ent-RMCAreaWarshipMedicalBreakRoom = Комната медицинского отдыха
 
-ent-RMCAreaWarshipMedicalArmory-name = Медицинский арсенал
+ent-RMCAreaWarshipMedicalArmory = Медицинский арсенал
 
-ent-RMCAreaWarshipNursePrep-name = Подготовка медсестры
+ent-RMCAreaWarshipNursePrep = Подготовка медсестры
 
-ent-RMCAreaWarshipMedicalMaintenance-name = Медицинское обслуживание
+ent-RMCAreaWarshipMedicalMaintenance = Медицинское обслуживание
 
-ent-RMCAreaWarshipMedicalCheckpoint-name = Медицинский контрольно-пропускной пункт
+ent-RMCAreaWarshipMedicalCheckpoint = Медицинский контрольно-пропускной пункт
 
-ent-RMCAreaWarshipMedicalHallway-name = Медицинский коридор
+ent-RMCAreaWarshipMedicalHallway = Медицинский коридор
 
-ent-RMCAreaWarshipMedicalRecovery-name = Медицинское восстановление
+ent-RMCAreaWarshipMedicalRecovery = Медицинское восстановление
 
-ent-RMCAreaWarshipResearchChemistry-name = Исследования химии
+ent-RMCAreaWarshipResearchChemistry = Исследования химии
 
-ent-RMCAreaWarshipResearchLaboratories-name = Исследовательские лаборатории
+ent-RMCAreaWarshipResearchLaboratories = Исследовательские лаборатории
 
-ent-RMCAreaWarshipResearchContainment-name = Сдерживание исследований
+ent-RMCAreaWarshipResearchContainment = Сдерживание исследований
 
-ent-RMCAreaWarshipResearchHallway-name = Исследовательский коридор
+ent-RMCAreaWarshipResearchHallway = Исследовательский коридор
 
-ent-RMCAreaWarshipFiringRangeHallway-name = Прихожая на стрельбище
+ent-RMCAreaWarshipFiringRangeHallway = Прихожая на стрельбище
 
-ent-RMCAreaWarshipSouthBriefingHallway-name = Южный коридор для брифингов
+ent-RMCAreaWarshipSouthBriefingHallway = Южный коридор для брифингов
 
-ent-RMCAreaWarshipNorthBriefingHallway-name = Северный коридор для брифингов
+ent-RMCAreaWarshipNorthBriefingHallway = Северный коридор для брифингов
 
-ent-RMCAreaWarshipSouthRequisitionsHallway-name = Южный коридор заявок
+ent-RMCAreaWarshipSouthRequisitionsHallway = Южный коридор заявок
 
-ent-RMCAreaWarshipNorthRequisitionsHallway-name = Северный коридор заявок
+ent-RMCAreaWarshipNorthRequisitionsHallway = Северный коридор заявок
 
-ent-RMCAreaWarshipRearDeltaPreparations-name = Подготовка Восточной Дельты
+ent-RMCAreaWarshipRearDeltaPreparations = Подготовка Восточной Дельты
 
-ent-RMCAreaWarshipFrontDeltaPreparations-name = Препараты передней дельты
+ent-RMCAreaWarshipFrontDeltaPreparations = Препараты передней дельты
 
-ent-RMCAreaWarshipRearCharliePreparations-name = Подготовка Ист-Чарли
+ent-RMCAreaWarshipRearCharliePreparations = Подготовка Ист-Чарли
 
-ent-RMCAreaWarshipFrontCharliePreparations-name = Подготовка Фронта Чарли
+ent-RMCAreaWarshipFrontCharliePreparations = Подготовка Фронта Чарли
 
-ent-RMCAreaWarshipFrontBravoPreparations-name = Подготовка Фронта Браво
+ent-RMCAreaWarshipFrontBravoPreparations = Подготовка Фронта Браво
 
-ent-RMCAreaWarshipRearBravoPreparations-name = Подготовка к Ист Браво
+ent-RMCAreaWarshipRearBravoPreparations = Подготовка к Ист Браво
 
-ent-RMCAreaWarshipFrontAlphaPreparations-name = Препараты Фронт Альфа
+ent-RMCAreaWarshipFrontAlphaPreparations = Препараты Фронт Альфа
 
-ent-RMCAreaWarshipRearAlphaPreparations-name = Препараты Восток Альфа
+ent-RMCAreaWarshipRearAlphaPreparations = Препараты Восток Альфа
 
-ent-RMCAreaWarshipEchoPreparations-name = Эхопрепараты
+ent-RMCAreaWarshipEchoPreparations = Эхопрепараты
 
-ent-RMCAreaWarshipFoxtrotPreparations-name = Препараты для фокстрота
+ent-RMCAreaWarshipFoxtrotPreparations = Препараты для фокстрота
 
-ent-RMCAreaWarshipSEATrainingRange-name = Учебный полигон SEA
+ent-RMCAreaWarshipSEATrainingRange = Учебный полигон SEA
 
-ent-RMCAreaWarshipSEAOfficeOne-name = Офис СЭО Один
+ent-RMCAreaWarshipSEAOfficeOne = Офис СЭО Один
 
-ent-RMCAreaWarshipSEAOfficeTwo-name = Офис СЭО №2
+ent-RMCAreaWarshipSEAOfficeTwo = Офис СЭО №2
 
-ent-RMCAreaWarshipLowerEngineering-name = Нижнее машиностроение
+ent-RMCAreaWarshipLowerEngineering = Нижнее машиностроение
 
-ent-RMCAreaWarshipLowerEngineeringAtmospherics-name = Нижняя техническая атмосфера
+ent-RMCAreaWarshipLowerEngineeringAtmospherics = Нижняя техническая атмосфера
 
-ent-RMCAreaWarshipOrbitalCannonStorage-name = Орбитальное пушечное хранилище
+ent-RMCAreaWarshipOrbitalCannonStorage = Орбитальное пушечное хранилище
 
-ent-RMCAreaWarshipRequisitionsExternal-name = Заявки внешние
+ent-RMCAreaWarshipRequisitionsExternal = Заявки внешние
 
-ent-RMCAreaWarshipRequisitionsInternal-name = Заявки внутренние
+ent-RMCAreaWarshipRequisitionsInternal = Заявки внутренние
 
-ent-RMCAreaWarshipRequisitionsArmory-name = Оружейная Реквизитов
+ent-RMCAreaWarshipRequisitionsArmory = Оружейная Реквизитов
 
-ent-RMCAreaWarshipFiringRange-name = Дальность стрельбы
+ent-RMCAreaWarshipFiringRange = Дальность стрельбы
 
-ent-RMCAreaWarshipMPFiringRangeOffice-name = Управление полигона МП
+ent-RMCAreaWarshipMPFiringRangeOffice = Управление полигона МП
 
-ent-RMCAreaWarshipNCOLounge-name = Зал ожидания унтер-офицера
+ent-RMCAreaWarshipNCOLounge = Зал ожидания унтер-офицера
 
-ent-RMCAreaWarshipSquadBriefing-name = Брифинг отряда
+ent-RMCAreaWarshipSquadBriefing = Брифинг отряда
 
-ent-RMCAreaWarshipMessHall-name = Столовая
+ent-RMCAreaWarshipMessHall = Столовая
 
-ent-RMCAreaWarshipMessHallKitchen-name = Кухня-столовая
+ent-RMCAreaWarshipMessHallKitchen = Кухня-столовая
 
-ent-RMCAreaWarshipLowerCentralCheckpoint-name = Нижний центральный КПП
+ent-RMCAreaWarshipLowerCentralCheckpoint = Нижний центральный КПП
 
-ent-RMCAreaWarshipFiringRangeCheckpoint-name = Контрольно-пропускной пункт полигона
+ent-RMCAreaWarshipFiringRangeCheckpoint = Контрольно-пропускной пункт полигона
 
-ent-RMCAreaWarshipAlphaBravoMaintenance-name = Техническое обслуживание Альфа Браво
+ent-RMCAreaWarshipAlphaBravoMaintenance = Техническое обслуживание Альфа Браво
 
-ent-RMCAreaWarshipCharlieDeltaMaintenance-name = Чарли Дельта Техническое обслуживание
+ent-RMCAreaWarshipCharlieDeltaMaintenance = Чарли Дельта Техническое обслуживание
 
-ent-RMCAreaWarshipFiringRangeMaintenance-name = Обслуживание стрельбища
+ent-RMCAreaWarshipFiringRangeMaintenance = Обслуживание стрельбища
 
-ent-RMCAreaWarshipResearchMaintenance-name = Поддержание исследований
+ent-RMCAreaWarshipResearchMaintenance = Поддержание исследований
 
-ent-RMCAreaWarshipLowerSecureBunker-name = Нижний безопасный бункер
+ent-RMCAreaWarshipLowerSecureBunker = Нижний безопасный бункер
 
-ent-RMCAreaWarshipAEGISTargetedRailgun-name = Нацеленный рельсотрон AEGIS
+ent-RMCAreaWarshipAEGISTargetedRailgun = Нацеленный рельсотрон AEGIS
 
-ent-RMCAreaWarshipUpperDeckEngineeringSouth-name = Верхняя палуба Инжиниринг Юг
+ent-RMCAreaWarshipUpperDeckEngineeringSouth = Верхняя палуба Инжиниринг Юг
 
-ent-RMCAreaWarshipUpperDeckEngineeringNorth-name = Верхняя палуба Инжиниринг Норт
+ent-RMCAreaWarshipUpperDeckEngineeringNorth = Верхняя палуба Инжиниринг Норт
 
-ent-RMCAreaWarshipEngineeringHypersleep-name = Инженерный гиперсон
+ent-RMCAreaWarshipEngineeringHypersleep = Инженерный гиперсон
 
-ent-RMCAreaWarshipEngineeringArmory-name = Инженерный арсенал
+ent-RMCAreaWarshipEngineeringArmory = Инженерный арсенал
 
-ent-RMCAreaWarshipEngineeringArmorer-name = Инженер-оружейник
+ent-RMCAreaWarshipEngineeringArmorer = Инженер-оружейник
 
-ent-RMCAreaWarshipOrdnance-name = Артиллерийское вооружение
+ent-RMCAreaWarshipOrdnance = Артиллерийское вооружение
 
-ent-RMCAreaWarshipEngineeringStorage-name = Инженерное хранилище
+ent-RMCAreaWarshipEngineeringStorage = Инженерное хранилище
 
-ent-RMCAreaWarshipChiefEngineersOffice-name = Офис главного инженера
+ent-RMCAreaWarshipChiefEngineersOffice = Офис главного инженера
 
-ent-RMCAreaWarshipBasketBallandGym-name = Баскетбол и Тренажерный зал
+ent-RMCAreaWarshipBasketBallandGym = Баскетбол и Тренажерный зал
 
-ent-RMCAreaWarshipExecutiveChefsOffice-name = Офис шеф-повара
+ent-RMCAreaWarshipExecutiveChefsOffice = Офис шеф-повара
 
-ent-RMCAreaWarshipUpperWestNorthCheckpoint-name = Контрольно-пропускной пункт Верхняя палуба Запад-Север
+ent-RMCAreaWarshipUpperWestNorthCheckpoint = Контрольно-пропускной пункт Верхняя палуба Запад-Север
 
-ent-RMCAreaWarshipUpperWestSouthCheckpoint-name = Контрольно-пропускной пункт Верхней палубы Запад-Юг
+ent-RMCAreaWarshipUpperWestSouthCheckpoint = Контрольно-пропускной пункт Верхней палубы Запад-Юг
 
-ent-RMCAreaWarshipUpperWestNorthPump-name = Насос верхней палубы, запад, север
+ent-RMCAreaWarshipUpperWestNorthPump = Насос верхней палубы, запад, север
 
-ent-RMCAreaWarshipUpperWestSouthPump-name = Насос верхней палубы Запад-Юг
+ent-RMCAreaWarshipUpperWestSouthPump = Насос верхней палубы Запад-Юг
 
-ent-RMCAreaWarshipUpperEastNorthPump-name = Насос верхней палубы Восток-Север
+ent-RMCAreaWarshipUpperEastNorthPump = Насос верхней палубы Восток-Север
 
-ent-RMCAreaWarshipUpperEastSouthPump-name = Насос верхней палубы Восток-Юг
+ent-RMCAreaWarshipUpperEastSouthPump = Насос верхней палубы Восток-Юг
 
-ent-RMCAreaWarshipLaundryRoom-name = Прачечная
+ent-RMCAreaWarshipLaundryRoom = Прачечная
 
-ent-RMCAreaWarshipUpperNorthEngineeringMaintenance-name = Инженерное обслуживание верхней палубы Северная
+ent-RMCAreaWarshipUpperNorthEngineeringMaintenance = Инженерное обслуживание верхней палубы Северная
 
-ent-RMCAreaWarshipUpperNorthEngineeringHallway-name = Северный инженерный коридор верхней палубы
+ent-RMCAreaWarshipUpperNorthEngineeringHallway = Северный инженерный коридор верхней палубы
 
-ent-RMCAreaWarshipUpperSouthEngineeringHallway-name = Южный инженерный коридор верхней палубы
+ent-RMCAreaWarshipUpperSouthEngineeringHallway = Южный инженерный коридор верхней палубы
 
-ent-RMCAreaWarshipUpperSouthEngineeringMaintenance-name = Инженерное обслуживание верхней палубы юга
+ent-RMCAreaWarshipUpperSouthEngineeringMaintenance = Инженерное обслуживание верхней палубы юга
 
-ent-RMCAreaWarshipUNMCRecruitment-name = Набор персонала UNMC
+ent-RMCAreaWarshipUNMCRecruitment = Набор персонала UNMC
 
-ent-RMCAreaWarshipTemporaryCrewQuarters-name = Временные помещения для экипажа
+ent-RMCAreaWarshipTemporaryCrewQuarters = Временные помещения для экипажа
 
-ent-RMCAreaWarshipUNMCRecruitmentMaintenance-name = Служба набора персонала UNMC
+ent-RMCAreaWarshipUNMCRecruitmentMaintenance = Служба набора персонала UNMC
 
-ent-RMCAreaWarshipUpperNorthMilitaryPoliceMaintenance-name = Техническое обслуживание военной полиции верхней палубы Северной
+ent-RMCAreaWarshipUpperNorthMilitaryPoliceMaintenance = Техническое обслуживание военной полиции верхней палубы Северной
 
-ent-RMCAreaWarshipUpperSouthMilitaryPoliceMaintenance-name = Техническое обслуживание Южной военной полиции верхней палубы
+ent-RMCAreaWarshipUpperSouthMilitaryPoliceMaintenance = Техническое обслуживание Южной военной полиции верхней палубы
 
-ent-RMCAreaWarshipEvacuationNorthMaintenance-name = Эвакуация Севера Техническое обслуживание
+ent-RMCAreaWarshipEvacuationNorthMaintenance = Эвакуация Севера Техническое обслуживание
 
-ent-RMCAreaWarshipEvacuationSouthMaintenance-name = Эвакуация Юг Техническое обслуживание
+ent-RMCAreaWarshipEvacuationSouthMaintenance = Эвакуация Юг Техническое обслуживание
 
-ent-RMCAreaWarshipEvacuation-name = Эвакуация
+ent-RMCAreaWarshipEvacuation = Эвакуация
 
-ent-RMCAreaWarshipNorthEvacuationCheckpoint-name = Северный эвакуационный контрольно-пропускной пункт
+ent-RMCAreaWarshipNorthEvacuationCheckpoint = Северный эвакуационный контрольно-пропускной пункт
 
-ent-RMCAreaWarshipCentralEvacuationCheckpoint-name = Центральный эвакуационный контрольно-пропускной пункт
+ent-RMCAreaWarshipCentralEvacuationCheckpoint = Центральный эвакуационный контрольно-пропускной пункт
 
-ent-RMCAreaWarshipSouthEvacuationCheckpoint-name = Южный эвакуационный контрольно-пропускной пункт
+ent-RMCAreaWarshipSouthEvacuationCheckpoint = Южный эвакуационный контрольно-пропускной пункт
 
-ent-RMCAreaWarshipMPFiringRange-name = Дальность стрельбы МП
+ent-RMCAreaWarshipMPFiringRange = Дальность стрельбы МП
 
-ent-RMCAreaWarshipMPBunks-name = МП Банкс
+ent-RMCAreaWarshipMPBunks = МП Банкс
 
-ent-RMCAreaWarshipExecutionChamber-name = Палата казней
+ent-RMCAreaWarshipExecutionChamber = Палата казней
 
-ent-RMCAreaWarshipExecutionChamberEngineering-name = Проектирование камеры исполнения
+ent-RMCAreaWarshipExecutionChamberEngineering = Проектирование камеры исполнения
 
-ent-RMCAreaWarshipPermanentConfinementMaintenance-name = Постоянное содержание под стражей
+ent-RMCAreaWarshipPermanentConfinementMaintenance = Постоянное содержание под стражей
 
-ent-RMCAreaWarshipPermanentConfinement-name = Постоянное заключение
+ent-RMCAreaWarshipPermanentConfinement = Постоянное заключение
 
-ent-RMCAreaWarshipPermanentConfinementHallway-name = Коридор постоянного заключения
+ent-RMCAreaWarshipPermanentConfinementHallway = Коридор постоянного заключения
 
-ent-RMCAreaWarshipBrigHolding-name = Бриг Холдинг
+ent-RMCAreaWarshipBrigHolding = Бриг Холдинг
 
-ent-RMCAreaWarshipBrigHoldingHallway-name = Бриговый коридор
+ent-RMCAreaWarshipBrigHoldingHallway = Бриговый коридор
 
-ent-RMCAreaWarshipBrigHoldingObservation-name = Бриг Холдинг Наблюдение
+ent-RMCAreaWarshipBrigHoldingObservation = Бриг Холдинг Наблюдение
 
-ent-RMCAreaWarshipBrigMedical-name = Бриг Медикал
+ent-RMCAreaWarshipBrigMedical = Бриг Медикал
 
-ent-RMCAreaWarshipBrigLobby-name = Бриг Лобби
+ent-RMCAreaWarshipBrigLobby = Бриг Лобби
 
-ent-RMCAreaWarshipMilitaryWardensOffice-name = Офис военного начальника
+ent-RMCAreaWarshipMilitaryWardensOffice = Офис военного начальника
 
-ent-RMCAreaWarshipCMPsOffice-name = Офис CMP
+ent-RMCAreaWarshipCMPsOffice = Офис CMP
 
-ent-RMCAreaWarshipBrigReception-name = Бриговый прием
+ent-RMCAreaWarshipBrigReception = Бриговый прием
 
-ent-RMCAreaWarshipDrunkTank-name = Пьяный Танк
+ent-RMCAreaWarshipDrunkTank = Пьяный Танк
 
-ent-RMCAreaWarshipMPPrep-name = Подготовка к депутату
+ent-RMCAreaWarshipMPPrep = Подготовка к депутату
 
-ent-RMCAreaWarshipMPArmory-name = Оружейная палата МП
+ent-RMCAreaWarshipMPArmory = Оружейная палата МП
 
-ent-RMCAreaWarshipBrigEvidence-name = Бриг Доказательства
+ent-RMCAreaWarshipBrigEvidence = Бриг Доказательства
 
-ent-RMCAreaWarshipBrigInterview-name = Бриг Интервью
+ent-RMCAreaWarshipBrigInterview = Бриг Интервью
 
-ent-RMCAreaWarshipBrigSecureHallway-name = Бриг Безопасный коридор
+ent-RMCAreaWarshipBrigSecureHallway = Бриг Безопасный коридор
 
-ent-RMCAreaWarshipBrigEntranceHallway-name = Входной коридор брига
+ent-RMCAreaWarshipBrigEntranceHallway = Входной коридор брига
 
-ent-RMCAreaWarshipUpperNorthBrigHallway-name = Коридор северного брига верхней палубы
+ent-RMCAreaWarshipUpperNorthBrigHallway = Коридор северного брига верхней палубы
 
-ent-RMCAreaWarshipUpperSouthBrigHallway-name = Коридор южного брига верхней палубы
+ent-RMCAreaWarshipUpperSouthBrigHallway = Коридор южного брига верхней палубы
 
-ent-RMCAreaWarshipUpperNorthCentralHallway-name = Северный центральный коридор верхней палубы
+ent-RMCAreaWarshipUpperNorthCentralHallway = Северный центральный коридор верхней палубы
 
-ent-RMCAreaWarshipUpperCentralHallway-name = Центральный коридор верхней палубы
+ent-RMCAreaWarshipUpperCentralHallway = Центральный коридор верхней палубы
 
-ent-RMCAreaWarshipUpperSouthCentralHallway-name = Южный центральный коридор верхней палубы
+ent-RMCAreaWarshipUpperSouthCentralHallway = Южный центральный коридор верхней палубы
 
-ent-RMCAreaWarshipPressBriefing-name = Пресс-брифинг
+ent-RMCAreaWarshipPressBriefing = Пресс-брифинг
 
-ent-RMCAreaWarshipHighCommandAdjutantsOffice-name = Управление адъютантов высшего командования
+ent-RMCAreaWarshipHighCommandAdjutantsOffice = Управление адъютантов высшего командования
 
-ent-RMCAreaWarshipPressHallway-name = Пресс-холл
+ent-RMCAreaWarshipPressHallway = Пресс-холл
 
-ent-RMCAreaWarshipPressMeetingRoom-name = Комната для пресс-конференций
+ent-RMCAreaWarshipPressMeetingRoom = Комната для пресс-конференций
 
-ent-RMCAreaWarshipPressQuarters-name = Пресс-центр
+ent-RMCAreaWarshipPressQuarters = Пресс-центр
 
-ent-RMCAreaWarshipSquadLeaderBriefing-name = Брифинг командира отряда
+ent-RMCAreaWarshipSquadLeaderBriefing = Брифинг командира отряда
 
-ent-RMCAreaWarshipWardroomHallway-name = Кладовая Прихожая
+ent-RMCAreaWarshipWardroomHallway = Кладовая Прихожая
 
-ent-RMCAreaWarshipWardroom-name = Кают-компания
+ent-RMCAreaWarshipWardroom = Кают-компания
 
-ent-RMCAreaWarshipWardroomKitchen-name = Кают-компания Кухня
+ent-RMCAreaWarshipWardroomKitchen = Кают-компания Кухня
 
-ent-RMCAreaWarshipStaffOfficersQuarters-name = Штабные офицерские помещения
+ent-RMCAreaWarshipStaffOfficersQuarters = Штабные офицерские помещения
 
-ent-RMCAreaWarshipWardroomReception-name = Приемная в кают-компании
+ent-RMCAreaWarshipWardroomReception = Приемная в кают-компании
 
-ent-RMCAreaWarshipUpperDeckSouthViewingRoom-name = Номер на верхней палубе с видом на южную сторону
+ent-RMCAreaWarshipUpperDeckSouthViewingRoom = Номер на верхней палубе с видом на южную сторону
 
-ent-RMCAreaWarshipUpperDeckNorthViewingRoom-name = Номер с видом на северную верхнюю палубу
+ent-RMCAreaWarshipUpperDeckNorthViewingRoom = Номер с видом на северную верхнюю палубу
 
-ent-RMCAreaWarshipUpperDeckMedical-name = Медицинский центр Верхней палубы
+ent-RMCAreaWarshipUpperDeckMedical = Медицинский центр Верхней палубы
 
-ent-RMCAreaWarshipUpperDeckMasterWashroom-name = Главный туалет на верхней палубе
+ent-RMCAreaWarshipUpperDeckMasterWashroom = Главный туалет на верхней палубе
 
-ent-RMCAreaWarshipCorporateHallway-name = Корпоративный коридор
+ent-RMCAreaWarshipCorporateHallway = Корпоративный коридор
 
-ent-RMCAreaWarshipCorporateLiaisonsMainOffice-name = Главный офис корпоративных связей
+ent-RMCAreaWarshipCorporateLiaisonsMainOffice = Главный офис корпоративных связей
 
-ent-RMCAreaWarshipCorporateLiaisonsQuarters-name = Отдел корпоративных связей
+ent-RMCAreaWarshipCorporateLiaisonsQuarters = Отдел корпоративных связей
 
-ent-RMCAreaWarshipCorporateLiaisonsResearch-name = Исследование корпоративных связей
+ent-RMCAreaWarshipCorporateLiaisonsResearch = Исследование корпоративных связей
 
-ent-RMCAreaWarshipCorporateMeetingRoom-name = Корпоративный конференц-зал
+ent-RMCAreaWarshipCorporateMeetingRoom = Корпоративный конференц-зал
 
-ent-RMCAreaWarshipCorporateMaintenance-name = Корпоративное обслуживание
+ent-RMCAreaWarshipCorporateMaintenance = Корпоративное обслуживание
 
-ent-RMCAreaWarshipCorporateMeetingRoomMaintenance-name = Обслуживание зала корпоративных конференций
+ent-RMCAreaWarshipCorporateMeetingRoomMaintenance = Обслуживание зала корпоративных конференций
 
-ent-RMCAreaWarshipSecureRelay-name = Безопасное реле
+ent-RMCAreaWarshipSecureRelay = Безопасное реле
 
-ent-RMCAreaWarshipTelecommunications-name = Телекоммуникации
+ent-RMCAreaWarshipTelecommunications = Телекоммуникации
 
-ent-RMCAreaWarshipTelecommunicationsEntrance-name = Телекоммуникационный вход
+ent-RMCAreaWarshipTelecommunicationsEntrance = Телекоммуникационный вход
 
-ent-RMCAreaWarshipSyntheticPreparations-name = Синтетические препараты
+ent-RMCAreaWarshipSyntheticPreparations = Синтетические препараты
 
-ent-RMCAreaWarshipARESBase-name = База АРЕС
+ent-RMCAreaWarshipARESBase = База АРЕС
 
-ent-RMCAreaWarshipARESReception-name = АРЕС Прием
+ent-RMCAreaWarshipARESReception = АРЕС Прием
 
-ent-RMCAreaWarshipARESCore-name = АРЕС Ядро
+ent-RMCAreaWarshipARESCore = АРЕС Ядро
 
-ent-RMCAreaWarshipARESHallway-name = АРЕС Прихожая
+ent-RMCAreaWarshipARESHallway = АРЕС Прихожая
 
-ent-RMCAreaWarshipARESStorage-name = АРЕС Хранилище
+ent-RMCAreaWarshipARESStorage = АРЕС Хранилище
 
-ent-RMCAreaWarshipARESSecureStorage-name = Безопасное хранилище ARES
+ent-RMCAreaWarshipARESSecureStorage = Безопасное хранилище ARES
 
-ent-RMCAreaWarshipCommandingOfficersQuarters-name = Комнаты командиров
+ent-RMCAreaWarshipCommandingOfficersQuarters = Комнаты командиров
 
-ent-RMCAreaWarshipExecutiveOfficersQuarters-name = Квартиры исполнительных директоров
+ent-RMCAreaWarshipExecutiveOfficersQuarters = Квартиры исполнительных директоров
 
-ent-RMCAreaWarshipCombatInformationCenter-name = Боевой информационный центр
+ent-RMCAreaWarshipCombatInformationCenter = Боевой информационный центр
 
-ent-RMCAreaWarshipCICArmory-name = Оружейная палата CIC
+ent-RMCAreaWarshipCICArmory = Оружейная палата CIC
 
-ent-RMCAreaWarshipStaffOfficerPrep-name = Подготовка штабного офицера
+ent-RMCAreaWarshipStaffOfficerPrep = Подготовка штабного офицера
 
-ent-RMCAreaWarshipCICReception-name = Приемная ЦИК
+ent-RMCAreaWarshipCICReception = Приемная ЦИК
 
-ent-RMCAreaWarshipCICWarRoom-name = Военная комната CIC
+ent-RMCAreaWarshipCICWarRoom = Военная комната CIC
 
-ent-RMCAreaWarshipCICHallwayNorth-name = CIC коридор север
+ent-RMCAreaWarshipCICHallwayNorth = CIC коридор север
 
-ent-RMCAreaWarshipCICHallwaySouth-name = CIC Коридор Юг
+ent-RMCAreaWarshipCICHallwaySouth = CIC Коридор Юг
 
-ent-RMCAreaWarshipAstroNav-name = АстроНав
+ent-RMCAreaWarshipAstroNav = АстроНав
 
-ent-RMCAreaWarshipEscapePod-name = Спасательная капсула
+ent-RMCAreaWarshipEscapePod = Спасательная капсула
 
-ent-RMCAreaWarshipLifeBoat-name = Спасательная шлюпка
+ent-RMCAreaWarshipLifeBoat = Спасательная шлюпка
 
-ent-RMCAreaWarshipNoEntry-name = Неизвестный
+ent-RMCAreaWarshipNoEntry = Неизвестный
 
-ent-RMCAreaWarshipLaundryHallway-name = Прачечная Прихожая
+ent-RMCAreaWarshipLaundryHallway = Прачечная Прихожая
 
-ent-RMCAreaWarshipUpperDeckNorthCentralHallway-name = Северный центральный коридор верхней палубы
+ent-RMCAreaWarshipUpperDeckNorthCentralHallway = Северный центральный коридор верхней палубы
 
-ent-RMCAreaWarshipUpperDeckSouthCentralHallway-name = Южный центральный коридор верхней палубы
+ent-RMCAreaWarshipUpperDeckSouthCentralHallway = Южный центральный коридор верхней палубы
 
-ent-RMCAreaWarshipDockingPort-name = Стыковочный порт
+ent-RMCAreaWarshipDockingPort = Стыковочный порт
 
-ent-RMCAreaWarshipDockingPortLE-name = Нижний восточный стыковочный порт
+ent-RMCAreaWarshipDockingPortLE = Нижний восточный стыковочный порт
 
-ent-RMCAreaWarshipDockingPortLN-name = Нижний Северный стыковочный порт
+ent-RMCAreaWarshipDockingPortLN = Нижний Северный стыковочный порт
 
-ent-RMCAreaWarshipDockingPortLS-name = Нижний Южный стыковочный порт
+ent-RMCAreaWarshipDockingPortLS = Нижний Южный стыковочный порт
 
-ent-RMCAreaWarshipDockingPortUNW-name = Северо-западный стыковочный порт верхней палубы
+ent-RMCAreaWarshipDockingPortUNW = Северо-западный стыковочный порт верхней палубы
 
-ent-RMCAreaWarshipDockingPortUSE-name = Юго-восточный стыковочный порт верхней палубы
+ent-RMCAreaWarshipDockingPortUSE = Юго-восточный стыковочный порт верхней палубы
 
-ent-RMCAreaWarshipWestNorthStairwell-name = Западно-Северная Лестница
+ent-RMCAreaWarshipWestNorthStairwell = Западно-Северная Лестница
 
-ent-RMCAreaWarshipWestSouthStairwell-name = Западно-Южная Лестница
+ent-RMCAreaWarshipWestSouthStairwell = Западно-Южная Лестница
 
-ent-RMCAreaWarshipSouthCentralStairwell-name = Южная центральная лестница
+ent-RMCAreaWarshipSouthCentralStairwell = Южная центральная лестница
 
-ent-RMCAreaWarshipNorthCentralStairwell-name = Северная Центральная Лестница
+ent-RMCAreaWarshipNorthCentralStairwell = Северная Центральная Лестница
 
-ent-RMCAreaWarshipMedicalStairwell-name = Медицинская лестница
+ent-RMCAreaWarshipMedicalStairwell = Медицинская лестница
 
-ent-RMCAreaWarshipFiringRangeStairwell-name = Стрельбище
+ent-RMCAreaWarshipFiringRangeStairwell = Стрельбище
 
-ent-RMCAreaWarshipBrigStairwell-name = Бриг Лестничный колодец
+ent-RMCAreaWarshipBrigStairwell = Бриг Лестничный колодец
 
-ent-RMCAreaWarshipUpperDeckCICStairwell-name = Лестница CIC на верхней палубе
+ent-RMCAreaWarshipUpperDeckCICStairwell = Лестница CIC на верхней палубе
 
-ent-RMCAreaWarshipUpperDeckStaffOfficerStairwell-name = Верхняя палуба SO, лестничная клетка
+ent-RMCAreaWarshipUpperDeckStaffOfficerStairwell = Верхняя палуба SO, лестничная клетка
 
-ent-RMCAreaWarshipUpperDeckWardroomStairwell-name = Кают-компания на верхней палубе, лестница
+ent-RMCAreaWarshipUpperDeckWardroomStairwell = Кают-компания на верхней палубе, лестница
 
-ent-RMCAreaWarshipWardroomMaints-name = Техническое обслуживание кают-компании на верхней палубе
+ent-RMCAreaWarshipWardroomMaints = Техническое обслуживание кают-компании на верхней палубе
 
-ent-RMCAreaWarshipLateWakeCryo-name = Криоподы позднего пробуждения
+ent-RMCAreaWarshipLateWakeCryo = Криоподы позднего пробуждения
 

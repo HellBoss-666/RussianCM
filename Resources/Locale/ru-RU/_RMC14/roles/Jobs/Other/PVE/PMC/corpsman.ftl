@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPMCCorpsmanPVE-name = точка спавна медика Weya PMC
-ent-RMCSpawnPointPMCCorpsmanPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCCorpsmanPVE = точка спавна медика Weya PMC
+  .desc = Создатель заданий RMC14. 
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointTSEPASynthetic-name = синтетическая точка появления цепы
-ent-RMCSpawnPointTSEPASynthetic-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointTSEPASynthetic = синтетическая точка появления цепы
+  .desc = Создатель заданий RMC14. 
 

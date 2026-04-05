@@ -1,3 +1,3 @@
-ent-RMCMortarEquipmentCase-name = минометный комплект
-ent-RMCMortarEquipmentCase-desc = Содержит оборудование, необходимое для миномета.
+ent-RMCMortarEquipmentCase = минометный комплект
+  .desc = Содержит оборудование, необходимое для миномета.
 

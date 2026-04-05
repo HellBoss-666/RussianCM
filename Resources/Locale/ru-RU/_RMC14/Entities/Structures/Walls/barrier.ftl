@@ -1,3 +1,3 @@
-ent-CMDeployableBarrier-name = развертываемый барьер
-ent-CMDeployableBarrier-desc = Развертываемый барьер. 
+ent-CMDeployableBarrier = развертываемый барьер
+  .desc = Развертываемый барьер. 
 

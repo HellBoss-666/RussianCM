@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidRoyalMarinesMedic-name = королевская корона морская пехота роль призрака медик
+ent-RMCRandomHumanoidRoyalMarinesMedic = королевская корона морская пехота роль призрака медик
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentDoctor-name = предустановка доктора-колониста Trijent
+ent-RMCGearSurvivorPresetTrijentDoctor = предустановка доктора-колониста Trijent
 
-ent-RMCSpawnPointSurvivorTrijentDoctor-name = точка возрождения доктора-триджента
-ent-RMCSpawnPointSurvivorTrijentDoctor-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorTrijentDoctor = точка возрождения доктора-триджента
+  .desc = Создатель заданий RMC14. 
 

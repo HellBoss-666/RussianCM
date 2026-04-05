@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorFiorinaEngineer-name = точка возрождения выжившего инженера Фиорины
-ent-RMCSpawnPointSurvivorFiorinaEngineer-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorFiorinaEngineer = точка возрождения выжившего инженера Фиорины
+  .desc = Создатель заданий RMC14. 
 

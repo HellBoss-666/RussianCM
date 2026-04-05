@@ -1,86 +1,86 @@
-ent-RMCMarkerSoundSingleBase-name = звуковой маркер без цикла
+ent-RMCMarkerSoundSingleBase = звуковой маркер без цикла
 
-ent-RMCMarkerSoundAmbientBase-name = маркер окружающего звука
+ent-RMCMarkerSoundAmbientBase = маркер окружающего звука
 
-ent-RMCMarkerSoundBase-name = звуковой маркер
+ent-RMCMarkerSoundBase = звуковой маркер
 
-ent-RMCMarkerSoundRoar-name = звуковой маркер без цикла
+ent-RMCMarkerSoundRoar = звуковой маркер без цикла
 
-ent-RMCMarkerSoundDenyBuzz-name = звуковой маркер без цикла
+ent-RMCMarkerSoundDenyBuzz = звуковой маркер без цикла
 
-ent-RMCMarkerSoundShortBeep-name = звуковой маркер без цикла
+ent-RMCMarkerSoundShortBeep = звуковой маркер без цикла
 
-ent-RMCMarkerSoundAnalogRelease-name = звуковой маркер без цикла
+ent-RMCMarkerSoundAnalogRelease = звуковой маркер без цикла
 
-ent-RMCMarkerSoundMachinePowerUp-name = звуковой маркер без цикла
+ent-RMCMarkerSoundMachinePowerUp = звуковой маркер без цикла
 
-ent-RMCMarkerSoundMachineBootUp-name = звуковой маркер без цикла
+ent-RMCMarkerSoundMachineBootUp = звуковой маркер без цикла
 
-ent-RMCMarkerSoundBlastdoor-name = звуковой маркер без цикла
+ent-RMCMarkerSoundBlastdoor = звуковой маркер без цикла
 
-ent-RMCMarkerSoundCrateOpen-name = звуковой маркер без цикла
+ent-RMCMarkerSoundCrateOpen = звуковой маркер без цикла
 
-ent-RMCMarkerSoundCrateHit-name = звуковой маркер без цикла
+ent-RMCMarkerSoundCrateHit = звуковой маркер без цикла
 
-ent-RMCMarkerSoundCrateLanding-name = звуковой маркер без цикла
+ent-RMCMarkerSoundCrateLanding = звуковой маркер без цикла
 
-ent-RMCMarkerSoundMetalThud-name = звуковой маркер без цикла
+ent-RMCMarkerSoundMetalThud = звуковой маркер без цикла
 
-ent-RMCMarkerSoundXenoVentCrawl-name = звуковой маркер без цикла
+ent-RMCMarkerSoundXenoVentCrawl = звуковой маркер без цикла
 
-ent-RMCMarkerSoundXenoVentPass-name = звуковой маркер без цикла
+ent-RMCMarkerSoundXenoVentPass = звуковой маркер без цикла
 
-ent-RMCMarkerSoundXenoDoorPry-name = звуковой маркер без цикла
+ent-RMCMarkerSoundXenoDoorPry = звуковой маркер без цикла
 
-ent-RMCMarkerSoundPump-name = маркер окружающего звука
+ent-RMCMarkerSoundPump = маркер окружающего звука
 
-ent-RMCMarkerSoundMachineBuzz-name = маркер окружающего звука
+ent-RMCMarkerSoundMachineBuzz = маркер окружающего звука
 
-ent-RMCMarkerSoundHijackAlarm-name = маркер окружающего звука
+ent-RMCMarkerSoundHijackAlarm = маркер окружающего звука
 
-ent-RMCMarkerSoundScaryWhispers-name = маркер окружающего звука
+ent-RMCMarkerSoundScaryWhispers = маркер окружающего звука
 
-ent-RMCMarkerSoundAlienDrone-name = маркер окружающего звука
+ent-RMCMarkerSoundAlienDrone = маркер окружающего звука
 
-ent-RMCMarkerSoundGeneric-name = маркер окружающего звука
+ent-RMCMarkerSoundGeneric = маркер окружающего звука
 
-ent-RMCMarkerSoundAlienRuin-name = маркер окружающего звука
+ent-RMCMarkerSoundAlienRuin = маркер окружающего звука
 
-ent-RMCMarkerSoundHoly-name = маркер окружающего звука
+ent-RMCMarkerSoundHoly = маркер окружающего звука
 
-ent-RMCMarkerSoundHymms-name = маркер окружающего звука
+ent-RMCMarkerSoundHymms = маркер окружающего звука
 
-ent-RMCMarkerSoundDanger-name = маркер окружающего звука
+ent-RMCMarkerSoundDanger = маркер окружающего звука
 
-ent-RMCMarkerSoundCaves-name = маркер окружающего звука
+ent-RMCMarkerSoundCaves = маркер окружающего звука
 
-ent-RMCMarkerSoundMaintenanceShaft-name = маркер окружающего звука
+ent-RMCMarkerSoundMaintenanceShaft = маркер окружающего звука
 
-ent-RMCMarkerSoundWar-name = маркер окружающего звука
+ent-RMCMarkerSoundWar = маркер окружающего звука
 
-ent-RMCMarkerSoundWeakSnowstorm-name = маркер окружающего звука
+ent-RMCMarkerSoundWeakSnowstorm = маркер окружающего звука
 
-ent-RMCMarkerSoundSnowstorm-name = маркер окружающего звука
+ent-RMCMarkerSoundSnowstorm = маркер окружающего звука
 
-ent-RMCMarkerSoundRain-name = маркер окружающего звука
+ent-RMCMarkerSoundRain = маркер окружающего звука
 
-ent-RMCMarkerSoundRain2-name = маркер окружающего звука
+ent-RMCMarkerSoundRain2 = маркер окружающего звука
 
-ent-RMCMarkerSoundRainHeavy-name = маркер окружающего звука
+ent-RMCMarkerSoundRainHeavy = маркер окружающего звука
 
-ent-RMCMarkerSoundWind21-name = маркер окружающего звука
+ent-RMCMarkerSoundWind21 = маркер окружающего звука
 
-ent-RMCMarkerSoundWind22-name = маркер окружающего звука
+ent-RMCMarkerSoundWind22 = маркер окружающего звука
 
-ent-RMCMarkerSoundWind31-name = маркер окружающего звука
+ent-RMCMarkerSoundWind31 = маркер окружающего звука
 
-ent-RMCMarkerSoundWind41-name = маркер окружающего звука
+ent-RMCMarkerSoundWind41 = маркер окружающего звука
 
-ent-RMCMarkerSoundWind42-name = маркер окружающего звука
+ent-RMCMarkerSoundWind42 = маркер окружающего звука
 
-ent-RMCMarkerSoundWind51-name = маркер окружающего звука
+ent-RMCMarkerSoundWind51 = маркер окружающего звука
 
-ent-RMCMarkerSoundThunderclap1-name = маркер окружающего звука
+ent-RMCMarkerSoundThunderclap1 = маркер окружающего звука
 
-ent-RMCMarkerSoundThunderclap2-name = маркер окружающего звука
+ent-RMCMarkerSoundThunderclap2 = маркер окружающего звука
 

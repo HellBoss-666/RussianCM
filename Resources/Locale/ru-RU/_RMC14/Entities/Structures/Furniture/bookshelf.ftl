@@ -1,6 +1,6 @@
-ent-RMCBookcaseEngineering-name = книжный шкаф с инженерными руководствами
+ent-RMCBookcaseEngineering = книжный шкаф с инженерными руководствами
 
-ent-RMCBookcaseMedical-name = книжный шкаф с медицинскими руководствами
+ent-RMCBookcaseMedical = книжный шкаф с медицинскими руководствами
 
-ent-RMCBookcase-name = книжный шкаф
+ent-RMCBookcase = книжный шкаф
 

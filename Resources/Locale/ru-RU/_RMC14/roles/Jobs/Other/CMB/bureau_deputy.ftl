@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidBureauDeputy-name = роль помощника призрака бюро
+ent-RMCRandomHumanoidBureauDeputy = роль помощника призрака бюро
 

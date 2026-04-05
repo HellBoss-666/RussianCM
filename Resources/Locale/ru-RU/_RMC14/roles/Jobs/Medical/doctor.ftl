@@ -1,5 +1,5 @@
-ent-CMGuidebookRoleDoctor-name = Доктор
+ent-CMGuidebookRoleDoctor = Доктор
 
-ent-CMSpawnPointDoctor-name = точка появления доктора
-ent-CMSpawnPointDoctor-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointDoctor = точка появления доктора
+  .desc = Создатель заданий RMC14. 
 

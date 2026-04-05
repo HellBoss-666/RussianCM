@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSynthColonist-name = синтетическая точка спавна колонистов
-ent-RMCSpawnPointSynthColonist-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSynthColonist = синтетическая точка спавна колонистов
+  .desc = Создатель заданий RMC14. 
 

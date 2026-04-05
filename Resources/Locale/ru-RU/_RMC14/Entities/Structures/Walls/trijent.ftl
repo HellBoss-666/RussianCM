@@ -1,12 +1,12 @@
-ent-RMCWallChigusa-name = стена объекта
-ent-RMCWallChigusa-desc = Огромный кусок армированного металла, используемый для разделения комнат.
+ent-RMCWallChigusa = стена объекта
+  .desc = Огромный кусок армированного металла, используемый для разделения комнат.
 
-ent-RMCWallBunker-name = Стена бункера
-ent-RMCWallBunker-desc = Огромный кусок армированного металла, используемый для разделения комнат.
+ent-RMCWallBunker = Стена бункера
+  .desc = Огромный кусок армированного металла, используемый для разделения комнат.
 
-ent-RMCWallHangar-name = стена ангара
-ent-RMCWallHangar-desc = Огромный кусок металла, используемый для разделения комнат.
+ent-RMCWallHangar = стена ангара
+  .desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-RMCWallRockTrijent-name = каменная стена
-ent-RMCWallRockTrijent-desc = Грубая стена из затвердевшего камня.
+ent-RMCWallRockTrijent = каменная стена
+  .desc = Грубая стена из затвердевшего камня.
 

@@ -1,4 +1,4 @@
-ent-RMCGearSurvivorPresetTrijentGoon-name = Пресет Trijent Goon Colonist
+ent-RMCGearSurvivorPresetTrijentGoon = Пресет Trijent Goon Colonist
 
-ent-RMCSpawnPointSurvivorTrijentGoon-name = точка спавна триджентских головорезов
+ent-RMCSpawnPointSurvivorTrijentGoon = точка спавна триджентских головорезов
 

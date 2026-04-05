@@ -1,4 +1,4 @@
-ent-ColMarTechBase-name = Поставщик ColMarTech
+ent-ColMarTechBase = Поставщик ColMarTech
 
-ent-ColMarTechBaseAnchorable-name = Поставщик ColMarTech
+ent-ColMarTechBaseAnchorable = Поставщик ColMarTech
 

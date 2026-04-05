@@ -1,3 +1,3 @@
-ent-RMCTimerTrigger-name = таймер
-ent-RMCTimerTrigger-desc = Привыкла рассчитывать время. 
+ent-RMCTimerTrigger = таймер
+  .desc = Привыкла рассчитывать время. 
 

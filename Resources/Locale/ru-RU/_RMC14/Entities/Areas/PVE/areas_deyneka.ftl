@@ -1,26 +1,26 @@
-ent-RMCAreaDeynekaCryo-name = Дейнека Крио
+ent-RMCAreaDeynekaCryo = Дейнека Крио
 
-ent-RMCAreaDeynekaAI-name = Дейнека AI Core
+ent-RMCAreaDeynekaAI = Дейнека AI Core
 
-ent-RMCAreaDeynekaArmory-name = Оружейная палата Дейнеки
+ent-RMCAreaDeynekaArmory = Оружейная палата Дейнеки
 
-ent-RMCAreaDeynekaBridge-name = Мост Дейнека
+ent-RMCAreaDeynekaBridge = Мост Дейнека
 
-ent-RMCAreaDeynekaCargo-name = Дейнека Карго
+ent-RMCAreaDeynekaCargo = Дейнека Карго
 
-ent-RMCAreaDeynekaDorm-name = Общежитие Дейнека
+ent-RMCAreaDeynekaDorm = Общежитие Дейнека
 
-ent-RMCAreaDeynekaEngi-name = Дейнека Энги
+ent-RMCAreaDeynekaEngi = Дейнека Энги
 
-ent-RMCAreaDeynekaHanger-name = Дейнека Ангар
+ent-RMCAreaDeynekaHanger = Дейнека Ангар
 
-ent-RMCAreaDeynekaKitchen-name = Кухня Дейнека
+ent-RMCAreaDeynekaKitchen = Кухня Дейнека
 
-ent-RMCAreaDeynekaLowerHall-name = Нижний зал Дейнеки
+ent-RMCAreaDeynekaLowerHall = Нижний зал Дейнеки
 
-ent-RMCAreaDeynekaMed-name = Дейнека Мед
+ent-RMCAreaDeynekaMed = Дейнека Мед
 
-ent-RMCAreaDeynekaOOB-name = Дейнека ООО
+ent-RMCAreaDeynekaOOB = Дейнека ООО
 
-ent-RMCAreaDeynekaUpperHall-name = Верхний зал Дейнеки
+ent-RMCAreaDeynekaUpperHall = Верхний зал Дейнеки
 

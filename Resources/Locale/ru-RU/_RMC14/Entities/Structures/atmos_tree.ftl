@@ -1,3 +1,3 @@
-ent-RMCAtmosTree-name = огромное дерево
-ent-RMCAtmosTree-desc = Какое огромное дерево!
+ent-RMCAtmosTree = огромное дерево
+  .desc = Какое огромное дерево!
 

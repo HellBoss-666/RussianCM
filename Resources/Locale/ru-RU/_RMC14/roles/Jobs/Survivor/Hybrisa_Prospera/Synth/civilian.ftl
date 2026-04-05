@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaSynthCivilian-name = пресет Survivor Synth Hybrisa для гражданского колониста
+ent-RMCSurvivorPresetHybrisaSynthCivilian = пресет Survivor Synth Hybrisa для гражданского колониста
 

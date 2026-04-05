@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPMCOperatorPVE-name = точка появления оператора Weya PMC
-ent-RMCSpawnPointPMCOperatorPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCOperatorPVE = точка появления оператора Weya PMC
+  .desc = Создатель заданий RMC14. 
 

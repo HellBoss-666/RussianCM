@@ -1,3 +1,3 @@
-ent-ActionWheelchairBell-name = Позвонить в звонок
-ent-ActionWheelchairBell-desc = Позвоните в звонок для инвалидной коляски
+ent-ActionWheelchairBell = Позвонить в звонок
+  .desc = Позвоните в звонок для инвалидной коляски
 

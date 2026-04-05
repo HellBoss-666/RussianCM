@@ -1,17 +1,17 @@
-ent-RMCDropshipAttachmentParaDrop-name = Система парашютного развертывания ГПУ-1
+ent-RMCDropshipAttachmentParaDrop = Система парашютного развертывания ГПУ-1
 
-ent-RMCDropshipAttachmentFulton-name = Система восстановления Фултона РМУ-19
-ent-RMCDropshipAttachmentFulton-desc = Лебедочная система для сбора любых восстанавливаемых шаров Фултон на большой высоте. 
+ent-RMCDropshipAttachmentFulton = Система восстановления Фултона РМУ-19
+  .desc = Лебедочная система для сбора любых восстанавливаемых шаров Фултон на большой высоте. 
 
-ent-RMCDropshipAttachmentMedevac-name = Система медицинской эвакуации РМУ-4М
-ent-RMCDropshipAttachmentMedevac-desc = Лебедочная система для подъема раненых морских пехотинцев на медицинских носилках на десантный корабль. 
+ent-RMCDropshipAttachmentMedevac = Система медицинской эвакуации РМУ-4М
+  .desc = Лебедочная система для подъема раненых морских пехотинцев на медицинских носилках на десантный корабль. 
 
-ent-RMCDropshipAttachmentDoorGun-name = Система крепления дверного стрелка MTU-4B
-ent-RMCDropshipAttachmentDoorGun-desc = Ящик, в котором размещается крупнокалиберный пулемет M56D с оптическим прицелом, обслуживаемый расчетом. 
+ent-RMCDropshipAttachmentDoorGun = Система крепления дверного стрелка MTU-4B
+  .desc = Ящик, в котором размещается крупнокалиберный пулемет M56D с оптическим прицелом, обслуживаемый расчетом. 
 
-ent-RMCDropshipAttachmentSentryDefenseSystem-name = Система сторожевой защиты А/А-32-П
-ent-RMCDropshipAttachmentSentryDefenseSystem-desc = Ящик, в котором размещается сторожевая турель. 
+ent-RMCDropshipAttachmentSentryDefenseSystem = Система сторожевой защиты А/А-32-П
+  .desc = Ящик, в котором размещается сторожевая турель. 
 
-ent-RMCDropshipAttachmentLaunchBay-name = Внутренняя сторожевая пусковая установка ЛАГ-14
-ent-RMCDropshipAttachmentLaunchBay-desc = Пусковая площадка для сброса специальных боеприпасов. 
+ent-RMCDropshipAttachmentLaunchBay = Внутренняя сторожевая пусковая установка ЛАГ-14
+  .desc = Пусковая площадка для сброса специальных боеприпасов. 
 

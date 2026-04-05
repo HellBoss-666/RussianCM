@@ -1,6 +1,6 @@
-ent-CMCrematorium-name = крематорий
-ent-CMCrematorium-desc = Человеческий мусоросжигатель. 
+ent-CMCrematorium = крематорий
+  .desc = Человеческий мусоросжигатель. 
 
-ent-CMMorgue-name = морг
-ent-CMMorgue-desc = Используется для хранения тел, пока кто-нибудь их не заберет.
+ent-CMMorgue = морг
+  .desc = Используется для хранения тел, пока кто-нибудь их не заберет.
 

@@ -1,42 +1,42 @@
-ent-CMMREFoodSushi-name = суши
-ent-CMMREFoodSushi-desc = Содержание выпуска Морпех Standard MRE. 
+ent-CMMREFoodSushi = суши
+  .desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodPeanuts-name = арахис
-ent-CMMREFoodPeanuts-desc = Содержание выпуска Морпех Standard MRE. 
+ent-CMMREFoodPeanuts = арахис
+  .desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodPretzels-name = крендели с солью
-ent-CMMREFoodPretzels-desc = Содержание выпуска Морпех Standard MRE. 
+ent-CMMREFoodPretzels = крендели с солью
+  .desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-RMCMREFoodMeatzels-name = котлеты
-ent-RMCMREFoodMeatzels-desc = Содержание выпуска Морпех Standard MRE. 
+ent-RMCMREFoodMeatzels = котлеты
+  .desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodMeatballs-name = фрикадельки
-ent-CMMREFoodMeatballs-desc = Содержание выпуска Морпех Standard MRE. 
+ent-CMMREFoodMeatballs = фрикадельки
+  .desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREFoodBiscuit-name = бисквит
-ent-CMMREFoodBiscuit-desc = Содержание выпуска Морпех Standard MRE. 
+ent-CMMREFoodBiscuit = бисквит
+  .desc = Содержание выпуска Морпех Standard MRE. 
 
-ent-CMMREComponentSushi-name = Компонент MRE (суши)
-ent-CMMREComponentSushi-desc = Компонент закуски MRE. 
+ent-CMMREComponentSushi = Компонент MRE (суши)
+  .desc = Компонент закуски MRE. 
 
-ent-CMMREComponentPeanuts-name = Компонент MRE (арахис)
-ent-CMMREComponentPeanuts-desc = Компонент закуски MRE. 
+ent-CMMREComponentPeanuts = Компонент MRE (арахис)
+  .desc = Компонент закуски MRE. 
 
-ent-CMMREComponentPretzels-name = Компонент MRE (крендели)
-ent-CMMREComponentPretzels-desc = Компонент закуски MRE. 
+ent-CMMREComponentPretzels = Компонент MRE (крендели)
+  .desc = Компонент закуски MRE. 
 
-ent-RMCMREComponentMeatzels-name = Компонент MRE (котлеты)
-ent-RMCMREComponentMeatzels-desc = Компонент закуски MRE. 
+ent-RMCMREComponentMeatzels = Компонент MRE (котлеты)
+  .desc = Компонент закуски MRE. 
 
-ent-CMMREComponentMeatballs-name = Компонент MRE (фрикадельки)
-ent-CMMREComponentMeatballs-desc = Компонент закуски MRE. 
+ent-CMMREComponentMeatballs = Компонент MRE (фрикадельки)
+  .desc = Компонент закуски MRE. 
 
-ent-CMMREComponentBiscuit-name = Компонент MRE (бисквит)
-ent-CMMREComponentBiscuit-desc = Компонент закуски MRE. 
+ent-CMMREComponentBiscuit = Компонент MRE (бисквит)
+  .desc = Компонент закуски MRE. 
 
-ent-CMMRESnackComponentBase-name = компонент MRE
-ent-CMMRESnackComponentBase-desc = Компонент закуски MRE. 
+ent-CMMRESnackComponentBase = компонент MRE
+  .desc = Компонент закуски MRE. 
 
-ent-CMMREFoodSnack-name = элемент
-ent-CMMREFoodSnack-desc = Содержание выпуска Морпех Standard MRE.
+ent-CMMREFoodSnack = элемент
+  .desc = Содержание выпуска Морпех Standard MRE.
 

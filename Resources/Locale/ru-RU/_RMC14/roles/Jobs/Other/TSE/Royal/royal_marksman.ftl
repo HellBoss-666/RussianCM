@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidRoyalMarinesMarksman-name = королевская корона морская пехота роль призрака стрелок
+ent-RMCRandomHumanoidRoyalMarinesMarksman = королевская корона морская пехота роль призрака стрелок
 

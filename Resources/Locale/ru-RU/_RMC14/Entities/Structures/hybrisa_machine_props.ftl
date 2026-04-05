@@ -1,48 +1,48 @@
-ent-RMCMachinePropSmallVent3-name = настенное вентиляционное отверстие
+ent-RMCMachinePropSmallVent3 = настенное вентиляционное отверстие
 
-ent-RMCMachinePropSmallVent2-name = настенное вентиляционное отверстие
+ent-RMCMachinePropSmallVent2 = настенное вентиляционное отверстие
 
-ent-RMCMachinePropSmallVent-name = настенное вентиляционное отверстие
+ent-RMCMachinePropSmallVent = настенное вентиляционное отверстие
 
-ent-RMCMachinePropBaseOverhead-name = техника
+ent-RMCMachinePropBaseOverhead = техника
 
-ent-RMCMachinePropBaseWall-name = техника
+ent-RMCMachinePropBaseWall = техника
 
-ent-RMCMachinePropBase-name = техника
+ent-RMCMachinePropBase = техника
 
-ent-RMCMachinePropBaseWide-name = техника
+ent-RMCMachinePropBaseWide = техника
 
-ent-RMCMachinePropBaseOverheadFlipped-name = техника
+ent-RMCMachinePropBaseOverheadFlipped = техника
 
-ent-RMCMachinePropBig1-name = техника
+ent-RMCMachinePropBig1 = техника
 
-ent-RMCMachinePropBig2-name = техника
+ent-RMCMachinePropBig2 = техника
 
-ent-RMCMachinePropBig3-name = техника
+ent-RMCMachinePropBig3 = техника
 
-ent-RMCMachinePropBig4-name = техника
+ent-RMCMachinePropBig4 = техника
 
-ent-RMCMachinePropBig5-name = техника
+ent-RMCMachinePropBig5 = техника
 
-ent-RMCMachinePropBig6-name = техника
+ent-RMCMachinePropBig6 = техника
 
-ent-RMCMachinePropBig7-name = техника
+ent-RMCMachinePropBig7 = техника
 
-ent-RMCMachinePropBig8-name = техника
+ent-RMCMachinePropBig8 = техника
 
-ent-RMCMachinePropBig9-name = техника
+ent-RMCMachinePropBig9 = техника
 
-ent-RMCMachinePropBig10-name = техника
+ent-RMCMachinePropBig10 = техника
 
-ent-RMCMachinePropBig11-name = техника
+ent-RMCMachinePropBig11 = техника
 
-ent-RMCMachinePropBig12-name = техника
+ent-RMCMachinePropBig12 = техника
 
-ent-RMCMachinePropBig13-name = техника
+ent-RMCMachinePropBig13 = техника
 
-ent-RMCMachinePropBig11Flipped-name = техника
+ent-RMCMachinePropBig11Flipped = техника
 
-ent-RMCMachinePropBig12Flipped-name = техника
+ent-RMCMachinePropBig12Flipped = техника
 
-ent-RMCMachinePropBig13Flipped-name = техника
+ent-RMCMachinePropBig13Flipped = техника
 

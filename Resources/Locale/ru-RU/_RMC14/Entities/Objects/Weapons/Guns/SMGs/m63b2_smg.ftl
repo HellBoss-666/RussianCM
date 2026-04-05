@@ -1,2 +1,2 @@
-ent-RMCWeaponSMGM63B2-name = Пистолет-пулемет M63B2
+ent-RMCWeaponSMGM63B2 = Пистолет-пулемет M63B2
 

@@ -1,2 +1,2 @@
-ent-CMCigPackBlack-name = пачка сигарет
+ent-CMCigPackBlack = пачка сигарет
 

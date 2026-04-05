@@ -1,2 +1,2 @@
-ent-RMCGearSurvivorPresetHybrisaEngineer-name = Предустановка инженера-колониста Hybrisa
+ent-RMCGearSurvivorPresetHybrisaEngineer = Предустановка инженера-колониста Hybrisa
 

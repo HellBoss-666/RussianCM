@@ -1,18 +1,18 @@
-ent-RMCFoodMango-name = манго
-ent-RMCFoodMango-desc = МАНГО МАНГО МАНГО
+ent-RMCFoodMango = манго
+  .desc = МАНГО МАНГО МАНГО
 
-ent-FoodGrass-name = пучок травы
-ent-FoodGrass-desc = Давай, потрогай траву.
+ent-FoodGrass = пучок травы
+  .desc = Давай, потрогай траву.
 
-ent-FoodSunflower-name = подсолнечник
-ent-FoodSunflower-desc = Это красиво! 
+ent-FoodSunflower = подсолнечник
+  .desc = Это красиво! 
 
-ent-FoodWhiteBeet-name = сахарная свекла
-ent-FoodWhiteBeet-desc = Вы не можете победить белую свеклу.
+ent-FoodWhiteBeet = сахарная свекла
+  .desc = Вы не можете победить белую свеклу.
 
-ent-FoodPeanut-name = арахис
-ent-FoodPeanut-desc = Орехи!
+ent-FoodPeanut = арахис
+  .desc = Орехи!
 
-ent-FoodMushroomPlump-name = пухлый-Шлем
-ent-FoodMushroomPlump-desc = Плюмус Хеллмус: Ой, ЗАТКНИ уже насчёт КРОВАВЫХ грибов! 
+ent-FoodMushroomPlump = пухлый-Шлем
+  .desc = Плюмус Хеллмус: Ой, ЗАТКНИ уже насчёт КРОВАВЫХ грибов! 
 

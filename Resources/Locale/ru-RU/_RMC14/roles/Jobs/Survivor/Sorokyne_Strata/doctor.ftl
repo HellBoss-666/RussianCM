@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetMoHDoctor-name = Предварительная настройка врача Министерства здравоохранения
+ent-RMCGearSurvivorPresetMoHDoctor = Предварительная настройка врача Министерства здравоохранения
 
-ent-RMCSpawnPointSurvivorMoHDoctor-name = Место появления врачей Министерства здравоохранения
-ent-RMCSpawnPointSurvivorMoHDoctor-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorMoHDoctor = Место появления врачей Министерства здравоохранения
+  .desc = Создатель заданий RMC14. 
 

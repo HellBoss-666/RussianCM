@@ -1,2 +1,2 @@
-ent-CMXenoLesserDrone-name = cm-имя-работы-ксено-меньший-дрон
+ent-CMXenoLesserDrone = cm-имя-работы-ксено-меньший-дрон
 

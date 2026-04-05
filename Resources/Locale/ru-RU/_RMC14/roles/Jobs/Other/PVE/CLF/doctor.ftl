@@ -1,3 +1,3 @@
-ent-RMCSpawnPointCLFDoctorPVE-name = точка появления доктора clf
-ent-RMCSpawnPointCLFDoctorPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointCLFDoctorPVE = точка появления доктора clf
+  .desc = Создатель заданий RMC14. 
 

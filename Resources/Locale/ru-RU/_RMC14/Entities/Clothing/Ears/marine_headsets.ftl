@@ -1,96 +1,96 @@
-ent-RMCHeadsetGoldenArrow-name = радиогарнитура Sun Riders
-ent-RMCHeadsetGoldenArrow-desc = Он используется взводом UNMC Sun Riders.
+ent-RMCHeadsetGoldenArrow = радиогарнитура Sun Riders
+  .desc = Он используется взводом UNMC Sun Riders.
 
-ent-CMHeadsetFoxtrotMedic-name = Морпех фокстрот радиогарнитура санитара
-ent-CMHeadsetFoxtrotMedic-desc = Его используют боевые медики Морпех Фокстрот.
+ent-CMHeadsetFoxtrotMedic = Морпех фокстрот радиогарнитура санитара
+  .desc = Его используют боевые медики Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrotEngineer-name = Морпех Фокстрот инженерная радиогарнитура
-ent-CMHeadsetFoxtrotEngineer-desc = Его используют сапёры Морпех Фокстрот.
+ent-CMHeadsetFoxtrotEngineer = Морпех Фокстрот инженерная радиогарнитура
+  .desc = Его используют сапёры Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrotTeamLeader-name = Радиогарнитура лидера команды "Морпех фокстрот"
-ent-CMHeadsetFoxtrotTeamLeader-desc = Этим пользуется руководитель команды Морпех Фокстрот.
+ent-CMHeadsetFoxtrotTeamLeader = Радиогарнитура лидера команды "Морпех фокстрот"
+  .desc = Этим пользуется руководитель команды Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrotLeader-name = Радиогарнитура лидера фокстрота Морпех
-ent-CMHeadsetFoxtrotLeader-desc = Этим пользуется лидер отряда Морпех Фокстрот.
+ent-CMHeadsetFoxtrotLeader = Радиогарнитура лидера фокстрота Морпех
+  .desc = Этим пользуется лидер отряда Морпех Фокстрот.
 
-ent-CMHeadsetFoxtrot-name = Радиогарнитура Морпех Фокстрот
-ent-CMHeadsetFoxtrot-desc = Его используют члены отряда «Фокстрот».
+ent-CMHeadsetFoxtrot = Радиогарнитура Морпех Фокстрот
+  .desc = Его используют члены отряда «Фокстрот».
 
-ent-CMHeadsetEchoMedic-name = Морпех Эхо-санитарная радиогарнитура
-ent-CMHeadsetEchoMedic-desc = Его используют боевые медики Морпех Эхо.
+ent-CMHeadsetEchoMedic = Морпех Эхо-санитарная радиогарнитура
+  .desc = Его используют боевые медики Морпех Эхо.
 
-ent-CMHeadsetEchoEngineer-name = Морпех радиогарнитура эхоинженера
-ent-CMHeadsetEchoEngineer-desc = Его используют боевые инженеры Морпех Эхо.
+ent-CMHeadsetEchoEngineer = Морпех радиогарнитура эхоинженера
+  .desc = Его используют боевые инженеры Морпех Эхо.
 
-ent-CMHeadsetEchoTeamLeader-name = Радиогарнитура лидера группы "Морпех Эхо"
-ent-CMHeadsetEchoTeamLeader-desc = Этим пользуется лидер команды Морпех Эхо.
+ent-CMHeadsetEchoTeamLeader = Радиогарнитура лидера группы "Морпех Эхо"
+  .desc = Этим пользуется лидер команды Морпех Эхо.
 
-ent-CMHeadsetEchoLeader-name = Радиогарнитура Морпех Эхо Лидер
-ent-CMHeadsetEchoLeader-desc = Его использует командир отряда Морпех Эхо.
+ent-CMHeadsetEchoLeader = Радиогарнитура Морпех Эхо Лидер
+  .desc = Его использует командир отряда Морпех Эхо.
 
-ent-CMHeadsetEcho-name = Морпех Эхо радиогарнитура
-ent-CMHeadsetEcho-desc = Это используется членами отряда «Эхо».
+ent-CMHeadsetEcho = Морпех Эхо радиогарнитура
+  .desc = Это используется членами отряда «Эхо».
 
-ent-CMHeadsetDeltaMedic-name = Радиогарнитура Морпех Дельта санитара
-ent-CMHeadsetDeltaMedic-desc = Его используют боевые медики Морпех Дельта.
+ent-CMHeadsetDeltaMedic = Радиогарнитура Морпех Дельта санитара
+  .desc = Его используют боевые медики Морпех Дельта.
 
-ent-CMHeadsetDeltaEngineer-name = Морпех дельта инженерная радиогарнитура
-ent-CMHeadsetDeltaEngineer-desc = Его используют сапёры Морпех Дельта.
+ent-CMHeadsetDeltaEngineer = Морпех дельта инженерная радиогарнитура
+  .desc = Его используют сапёры Морпех Дельта.
 
-ent-CMHeadsetDeltaTeamLeader-name = Радиогарнитура руководителя группы Морпех Дельта
-ent-CMHeadsetDeltaTeamLeader-desc = Этим пользуется руководитель группы Морпех Дельта.
+ent-CMHeadsetDeltaTeamLeader = Радиогарнитура руководителя группы Морпех Дельта
+  .desc = Этим пользуется руководитель группы Морпех Дельта.
 
-ent-CMHeadsetDeltaLeader-name = Радиогарнитура Морпех Дельта Лидер
-ent-CMHeadsetDeltaLeader-desc = Его использует командир отряда Морпех Дельта.
+ent-CMHeadsetDeltaLeader = Радиогарнитура Морпех Дельта Лидер
+  .desc = Его использует командир отряда Морпех Дельта.
 
-ent-CMHeadsetDelta-name = Радиогарнитура Морпех дельта
-ent-CMHeadsetDelta-desc = Это используется членами отряда Дельта.
+ent-CMHeadsetDelta = Радиогарнитура Морпех дельта
+  .desc = Это используется членами отряда Дельта.
 
-ent-CMHeadsetCharlieMedic-name = Морпех Чарли санитар радиогарнитура
-ent-CMHeadsetCharlieMedic-desc = Его используют боевые медики Морпех Чарли.
+ent-CMHeadsetCharlieMedic = Морпех Чарли санитар радиогарнитура
+  .desc = Его используют боевые медики Морпех Чарли.
 
-ent-CMHeadsetCharlieEngineer-name = Морпех Чарли Инженер радиогарнитура
-ent-CMHeadsetCharlieEngineer-desc = Его используют боевые инженеры Морпех Чарли.
+ent-CMHeadsetCharlieEngineer = Морпех Чарли Инженер радиогарнитура
+  .desc = Его используют боевые инженеры Морпех Чарли.
 
-ent-CMHeadsetCharlieTeamLeader-name = Морпех Чарли Team Leader радиогарнитура
-ent-CMHeadsetCharlieTeamLeader-desc = Этим пользуется лидер команды Морпех Чарли.
+ent-CMHeadsetCharlieTeamLeader = Морпех Чарли Team Leader радиогарнитура
+  .desc = Этим пользуется лидер команды Морпех Чарли.
 
-ent-CMHeadsetCharlieLeader-name = Морпех Чарли Лидер радиогарнитура
-ent-CMHeadsetCharlieLeader-desc = Этим пользуется лидер отряда Морпех Чарли.
+ent-CMHeadsetCharlieLeader = Морпех Чарли Лидер радиогарнитура
+  .desc = Этим пользуется лидер отряда Морпех Чарли.
 
-ent-CMHeadsetCharlie-name = Радиогарнитура Морпех Чарли
-ent-CMHeadsetCharlie-desc = Это используется членами отряда Чарли.
+ent-CMHeadsetCharlie = Радиогарнитура Морпех Чарли
+  .desc = Это используется членами отряда Чарли.
 
-ent-CMHeadsetBravoMedic-name = Радиогарнитура Морпех браво санитара
-ent-CMHeadsetBravoMedic-desc = Его используют боевые медики Морпех Браво.
+ent-CMHeadsetBravoMedic = Радиогарнитура Морпех браво санитара
+  .desc = Его используют боевые медики Морпех Браво.
 
-ent-CMHeadsetBravoEngineer-name = Морпех браво инженер радиогарнитура
-ent-CMHeadsetBravoEngineer-desc = Его используют сапёры Морпех Браво.
+ent-CMHeadsetBravoEngineer = Морпех браво инженер радиогарнитура
+  .desc = Его используют сапёры Морпех Браво.
 
-ent-CMHeadsetBravoTeamLeader-name = Радиогарнитура руководителя группы Морпех браво
-ent-CMHeadsetBravoTeamLeader-desc = Этим пользуется лидер команды Морпех Браво.
+ent-CMHeadsetBravoTeamLeader = Радиогарнитура руководителя группы Морпех браво
+  .desc = Этим пользуется лидер команды Морпех Браво.
 
-ent-CMHeadsetBravoLeader-name = Радиогарнитура Морпех браво лидер
-ent-CMHeadsetBravoLeader-desc = Этим пользуется лидер отряда Морпех Браво.
+ent-CMHeadsetBravoLeader = Радиогарнитура Морпех браво лидер
+  .desc = Этим пользуется лидер отряда Морпех Браво.
 
-ent-CMHeadsetBravo-name = Радиогарнитура Морпех браво
-ent-CMHeadsetBravo-desc = Это используется членами отряда Браво.
+ent-CMHeadsetBravo = Радиогарнитура Морпех браво
+  .desc = Это используется членами отряда Браво.
 
-ent-CMHeadsetAlphaMedic-name = Радиогарнитура Морпех Альфа-санитар
-ent-CMHeadsetAlphaMedic-desc = Его используют боевые медики Морпех Альфа.
+ent-CMHeadsetAlphaMedic = Радиогарнитура Морпех Альфа-санитар
+  .desc = Его используют боевые медики Морпех Альфа.
 
-ent-CMHeadsetAlphaEngineer-name = Морпех альфа-инженерная радиогарнитура
-ent-CMHeadsetAlphaEngineer-desc = Его используют сапёры Морпех Альфа.
+ent-CMHeadsetAlphaEngineer = Морпех альфа-инженерная радиогарнитура
+  .desc = Его используют сапёры Морпех Альфа.
 
-ent-CMHeadsetAlphaTeamLeader-name = Радиогарнитура лидера группы "Морпех Альфа"
-ent-CMHeadsetAlphaTeamLeader-desc = Этим пользуется руководитель группы Морпех Альфа.
+ent-CMHeadsetAlphaTeamLeader = Радиогарнитура лидера группы "Морпех Альфа"
+  .desc = Этим пользуется руководитель группы Морпех Альфа.
 
-ent-CMHeadsetAlphaLeader-name = Радиогарнитура Морпех Альфа Лидер
-ent-CMHeadsetAlphaLeader-desc = Этим пользуется командир отряда Морпех Альфа.
+ent-CMHeadsetAlphaLeader = Радиогарнитура Морпех Альфа Лидер
+  .desc = Этим пользуется командир отряда Морпех Альфа.
 
-ent-CMHeadsetAlpha-name = Радиогарнитура Морпех Альфа
-ent-CMHeadsetAlpha-desc = Используется членами отряда «Альфа».
+ent-CMHeadsetAlpha = Радиогарнитура Морпех Альфа
+  .desc = Используется членами отряда «Альфа».
 
-ent-RMCHeadsetMarine-name = Радиогарнитура Морпех
-ent-RMCHeadsetMarine-desc = Стандартная военная радиогарнитура. 
+ent-RMCHeadsetMarine = Радиогарнитура Морпех
+  .desc = Стандартная военная радиогарнитура. 
 

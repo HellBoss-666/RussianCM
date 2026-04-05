@@ -1,15 +1,15 @@
-ent-CMLightBulbBroken-name = лампа накаливания
+ent-CMLightBulbBroken = лампа накаливания
 
-ent-CMLightBulb-name = лампа накаливания
+ent-CMLightBulb = лампа накаливания
 
-ent-RMCLightBulbBase-name = item
+ent-RMCLightBulbBase = item
 
-ent-RMCLightBulb-name = item
+ent-RMCLightBulb = item
 
-ent-RMCLightBulbBlue-name = item
+ent-RMCLightBulbBlue = item
 
-ent-RMCLightBulbRed-name = item
+ent-RMCLightBulbRed = item
 
-ent-RMCLightBulbBroken-name = light bulb
-ent-RMCLightBulbBroken-desc = A replacement light bulb.
+ent-RMCLightBulbBroken = light bulb
+  .desc = A replacement light bulb.
 

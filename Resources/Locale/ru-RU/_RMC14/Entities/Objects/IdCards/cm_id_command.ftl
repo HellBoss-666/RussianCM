@@ -1,21 +1,21 @@
-ent-CMIDCardProvostSectorMarshal-name = Удостоверение начальника сектора маршала
-ent-CMIDCardProvostSectorMarshal-desc = Выдается членам проректора.
+ent-CMIDCardProvostSectorMarshal = Удостоверение начальника сектора маршала
+  .desc = Выдается членам проректора.
 
-ent-CMIDCardHighCommand-name = удостоверение личности генерального офицера
-ent-CMIDCardHighCommand-desc = Высшая латунь высшей латуни. 
+ent-CMIDCardHighCommand = удостоверение личности генерального офицера
+  .desc = Высшая латунь высшей латуни. 
 
-ent-CMIDCardExecutiveOfficer-name = удостоверение личности руководителя
-ent-CMIDCardExecutiveOfficer-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
+ent-CMIDCardExecutiveOfficer = удостоверение личности руководителя
+  .desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-RMCIDCardCommandingOfficerPlus-name = удостоверение командира офицера
-ent-RMCIDCardCommandingOfficerPlus-desc = Высшая латунь высшей латуни. 
+ent-RMCIDCardCommandingOfficerPlus = удостоверение командира офицера
+  .desc = Высшая латунь высшей латуни. 
 
-ent-CMIDCardCommandingOfficer-name = удостоверение командира офицера
-ent-CMIDCardCommandingOfficer-desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
+ent-CMIDCardCommandingOfficer = удостоверение командира офицера
+  .desc = Позолоченный голографический значок, олицетворяющий силу и могущество.
 
-ent-RMCIDCardPlatoonCommander-name = удостоверение командира взвода
-ent-RMCIDCardPlatoonCommander-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
+ent-RMCIDCardPlatoonCommander = удостоверение командира взвода
+  .desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 
-ent-CMIDCardStaffOfficer-name = удостоверение личности штабного офицера
-ent-CMIDCardStaffOfficer-desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
+ent-CMIDCardStaffOfficer = удостоверение личности штабного офицера
+  .desc = Посеребренный голографический значок, символизирующий честь и преданность делу.
 

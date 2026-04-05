@@ -1,120 +1,120 @@
-ent-RMCDoubleDoorAlmayerGlassRequisitions-name = Заявки на двойную дверь
-ent-RMCDoubleDoorAlmayerGlassRequisitions-desc = Стеклянная дверь, запертая на Реквизиции.
+ent-RMCDoubleDoorAlmayerGlassRequisitions = Заявки на двойную дверь
+  .desc = Стеклянная дверь, запертая на Реквизиции.
 
-ent-RMCDoubleDoorAlmayerGlassCommand-name = Командная двойная дверь
-ent-RMCDoubleDoorAlmayerGlassCommand-desc = Стеклянная дверь заперта для командования.
+ent-RMCDoubleDoorAlmayerGlassCommand = Командная двойная дверь
+  .desc = Стеклянная дверь заперта для командования.
 
-ent-RMCDoubleDoorAlmayerGlassSEA-name = Двойная дверь
-ent-RMCDoubleDoorAlmayerGlassSEA-desc = Стеклянная дверь закрыта для старших рядовых советников.
+ent-RMCDoubleDoorAlmayerGlassSEA = Двойная дверь
+  .desc = Стеклянная дверь закрыта для старших рядовых советников.
 
-ent-RMCDoubleDoorAlmayerSolidRequisitions-name = Заявки на двойную дверь
-ent-RMCDoubleDoorAlmayerSolidRequisitions-desc = Дверь заперта на Реквизиции.
+ent-RMCDoubleDoorAlmayerSolidRequisitions = Заявки на двойную дверь
+  .desc = Дверь заперта на Реквизиции.
 
-ent-RMCDoubleDoorAlmayerSolidCommand-name = Командная двойная дверь
-ent-RMCDoubleDoorAlmayerSolidCommand-desc = Дверь заперта для командования.
+ent-RMCDoubleDoorAlmayerSolidCommand = Командная двойная дверь
+  .desc = Дверь заперта для командования.
 
-ent-RMCDoubleDoorAlmayerSolidSEA-name = Двойная дверь
-ent-RMCDoubleDoorAlmayerSolidSEA-desc = Дверь заперта для старших рядовых советников.
+ent-RMCDoubleDoorAlmayerSolidSEA = Двойная дверь
+  .desc = Дверь заперта для старших рядовых советников.
 
-ent-RMCDoubleDoorAlmayerGlassCO-name = Двойная дверь для командиров
-ent-RMCDoubleDoorAlmayerGlassCO-desc = Стеклянная дверь заперта перед командиром.
+ent-RMCDoubleDoorAlmayerGlassCO = Двойная дверь для командиров
+  .desc = Стеклянная дверь заперта перед командиром.
 
-ent-RMCDoubleDoorAlmayerSolidCO-name = Двойная дверь для командиров
-ent-RMCDoubleDoorAlmayerSolidCO-desc = Дверь заперта перед командиром.
+ent-RMCDoubleDoorAlmayerSolidCO = Двойная дверь для командиров
+  .desc = Дверь заперта перед командиром.
 
-ent-RMCDoubleDoorAlmayerGlassHC-name = Двойная дверь Верховного командования
-ent-RMCDoubleDoorAlmayerGlassHC-desc = Стеклянная дверь, запертая перед Верховным командованием.
+ent-RMCDoubleDoorAlmayerGlassHC = Двойная дверь Верховного командования
+  .desc = Стеклянная дверь, запертая перед Верховным командованием.
 
-ent-RMCDoubleDoorAlmayerSolidHC-name = Двойная дверь Верховного командования
-ent-RMCDoubleDoorAlmayerSolidHC-desc = Дверь заперта для высшего командования
+ent-RMCDoubleDoorAlmayerSolidHC = Двойная дверь Верховного командования
+  .desc = Дверь заперта для высшего командования
 
-ent-RMCDoubleDoorAlmayerGlassSynth-name = Двойная дверь из синтетики
-ent-RMCDoubleDoorAlmayerGlassSynth-desc = Стеклянная дверь, запертая на Синтов.
+ent-RMCDoubleDoorAlmayerGlassSynth = Двойная дверь из синтетики
+  .desc = Стеклянная дверь, запертая на Синтов.
 
-ent-RMCDoubleDoorAlmayerSolidSynth-name = Двойная дверь из синтетики
-ent-RMCDoubleDoorAlmayerSolidSynth-desc = Дверь, запертая для синтов.
+ent-RMCDoubleDoorAlmayerSolidSynth = Двойная дверь из синтетики
+  .desc = Дверь, запертая для синтов.
 
-ent-RMCDoubleDoorCommandGlassCommand-name = Командная двойная дверь
-ent-RMCDoubleDoorCommandGlassCommand-desc = Стеклянная дверь заперта для командования.
+ent-RMCDoubleDoorCommandGlassCommand = Командная двойная дверь
+  .desc = Стеклянная дверь заперта для командования.
 
-ent-RMCDoubleDoorCommandSolidCommand-name = door
-ent-RMCDoubleDoorCommandSolidCommand-desc = Дверь заперта для командования.
+ent-RMCDoubleDoorCommandSolidCommand = door
+  .desc = Дверь заперта для командования.
 
-ent-RMCDoubleDoorCommandGlassSeniorCommand-name = Командная двойная дверь
-ent-RMCDoubleDoorCommandGlassSeniorCommand-desc = Стеклянная дверь заперта перед старшим командованием.
+ent-RMCDoubleDoorCommandGlassSeniorCommand = Командная двойная дверь
+  .desc = Стеклянная дверь заперта перед старшим командованием.
 
-ent-RMCDoubleDoorCommandSolidSeniorCommand-name = Двойная дверь
-ent-RMCDoubleDoorCommandSolidSeniorCommand-desc = Дверь заперта перед старшим командованием.
+ent-RMCDoubleDoorCommandSolidSeniorCommand = Двойная дверь
+  .desc = Дверь заперта перед старшим командованием.
 
-ent-RMCDoubleDoorCommandGlassCO-name = Двойная дверь для командиров
-ent-RMCDoubleDoorCommandGlassCO-desc = Стеклянная дверь заперта перед командиром.
+ent-RMCDoubleDoorCommandGlassCO = Двойная дверь для командиров
+  .desc = Стеклянная дверь заперта перед командиром.
 
-ent-RMCDoubleDoorCommandSolidCO-name = Двойная дверь для командиров
-ent-RMCDoubleDoorCommandSolidCO-desc = Дверь заперта перед командиром.
+ent-RMCDoubleDoorCommandSolidCO = Двойная дверь для командиров
+  .desc = Дверь заперта перед командиром.
 
-ent-RMCDoubleDoorEngineerGlassEngineering-name = Инженерная двойная дверь
-ent-RMCDoubleDoorEngineerGlassEngineering-desc = Стеклянная дверь, запертая в инженерный отдел.
+ent-RMCDoubleDoorEngineerGlassEngineering = Инженерная двойная дверь
+  .desc = Стеклянная дверь, запертая в инженерный отдел.
 
-ent-RMCDoubleDoorEngineerSolidEngineering-name = Инженерная двойная дверь
-ent-RMCDoubleDoorEngineerSolidEngineering-desc = Дверь в инженерное заперта.
+ent-RMCDoubleDoorEngineerSolidEngineering = Инженерная двойная дверь
+  .desc = Дверь в инженерное заперта.
 
-ent-RMCDoubleDoorEngineerGlassSeniorCommand-name = Старший командир, двойная дверь
-ent-RMCDoubleDoorEngineerGlassSeniorCommand-desc = Стеклянная дверь заперта перед старшим командованием.
+ent-RMCDoubleDoorEngineerGlassSeniorCommand = Старший командир, двойная дверь
+  .desc = Стеклянная дверь заперта перед старшим командованием.
 
-ent-RMCDoubleDoorEngineerSolidSeniorCommand-name = Старший командир, двойная дверь
-ent-RMCDoubleDoorEngineerSolidSeniorCommand-desc = Дверь заперта перед старшим командованием.
+ent-RMCDoubleDoorEngineerSolidSeniorCommand = Старший командир, двойная дверь
+  .desc = Дверь заперта перед старшим командованием.
 
-ent-RMCDoubleDoorGenericGlassPress-name = Нажмите двойную дверь
-ent-RMCDoubleDoorGenericGlassPress-desc = Стеклянная дверь закрыта для Прессы.
+ent-RMCDoubleDoorGenericGlassPress = Нажмите двойную дверь
+  .desc = Стеклянная дверь закрыта для Прессы.
 
-ent-RMCDoubleDoorGenericSolidPress-name = Нажмите двойную дверь
-ent-RMCDoubleDoorGenericSolidPress-desc = Дверь заперта для Пресса.
+ent-RMCDoubleDoorGenericSolidPress = Нажмите двойную дверь
+  .desc = Дверь заперта для Пресса.
 
-ent-RMCDoubleDoorMedicalGlassMedical-name = door
+ent-RMCDoubleDoorMedicalGlassMedical = door
 
-ent-RMCDoubleDoorMedicalSolidMedical-name = door
+ent-RMCDoubleDoorMedicalSolidMedical = door
 
-ent-RMCDoubleDoorMedicalSolidMorgue-name = door
+ent-RMCDoubleDoorMedicalSolidMorgue = door
 
-ent-RMCDoubleDoorMedicalGlassResearch-name = door
+ent-RMCDoubleDoorMedicalGlassResearch = door
 
-ent-RMCDoubleDoorMedicalSolidResearch-name = door
+ent-RMCDoubleDoorMedicalSolidResearch = door
 
-ent-RMCDoubleDoorPreparationsReq-name = door
+ent-RMCDoubleDoorPreparationsReq = door
 
-ent-RMCDoubleDoorPreparationsPrep-name = door
+ent-RMCDoubleDoorPreparationsPrep = door
 
-ent-RMCDoubleDoorPreparationsMeetingRoom-name = door
+ent-RMCDoubleDoorPreparationsMeetingRoom = door
 
-ent-RMCDoubleDoorPreparationsAlphaPrep-name = door
+ent-RMCDoubleDoorPreparationsAlphaPrep = door
 
-ent-RMCDoubleDoorPreparationsBravoPrep-name = door
+ent-RMCDoubleDoorPreparationsBravoPrep = door
 
-ent-RMCDoubleDoorPreparationsCharliePrep-name = door
+ent-RMCDoubleDoorPreparationsCharliePrep = door
 
-ent-RMCDoubleDoorPreparationsDeltaPrep-name = door
+ent-RMCDoubleDoorPreparationsDeltaPrep = door
 
-ent-RMCDoubleDoorPreparationsAlphaAlpha-name = door
+ent-RMCDoubleDoorPreparationsAlphaAlpha = door
 
-ent-RMCDoubleDoorPreparationsBravoBravo-name = door
+ent-RMCDoubleDoorPreparationsBravoBravo = door
 
-ent-RMCDoubleDoorPreparationsCharlieCharlie-name = door
+ent-RMCDoubleDoorPreparationsCharlieCharlie = door
 
-ent-RMCDoubleDoorPreparationsDeltaDelta-name = door
+ent-RMCDoubleDoorPreparationsDeltaDelta = door
 
-ent-RMCDoubleDoorSecurityGlassBrigCommand-name = door
+ent-RMCDoubleDoorSecurityGlassBrigCommand = door
 
-ent-RMCDoubleDoorSecuritySolidBrigCommand-name = door
+ent-RMCDoubleDoorSecuritySolidBrigCommand = door
 
-ent-RMCDoubleDoorSecurityGlassBrig-name = door
+ent-RMCDoubleDoorSecurityGlassBrig = door
 
-ent-RMCDoubleDoorSecuritySolidBrig-name = door
+ent-RMCDoubleDoorSecuritySolidBrig = door
 
-ent-RMCDoubleDoorSecurityGlassArmory-name = door
+ent-RMCDoubleDoorSecurityGlassArmory = door
 
-ent-RMCDoubleDoorSecuritySolidArmory-name = door
+ent-RMCDoubleDoorSecuritySolidArmory = door
 
-ent-RMCDoubleDoorSecurityGlassSeniorCommand-name = door
+ent-RMCDoubleDoorSecurityGlassSeniorCommand = door
 
-ent-RMCDoubleDoorSecuritySolidSeniorCommand-name = door
+ent-RMCDoubleDoorSecuritySolidSeniorCommand = door
 

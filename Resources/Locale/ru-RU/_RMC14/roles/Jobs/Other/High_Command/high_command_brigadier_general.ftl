@@ -1,3 +1,3 @@
-ent-RMCIDCardUNMCBrigadierGeneral-name = удостоверение бригадного генерала
-ent-RMCIDCardUNMCBrigadierGeneral-desc = Выдан высшему руководству UNMC. 
+ent-RMCIDCardUNMCBrigadierGeneral = удостоверение бригадного генерала
+  .desc = Выдан высшему руководству UNMC. 
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorNewVaraderoResearcher-name = выживший новый исследователь Варадеро точка возрождения
-ent-RMCSpawnPointSurvivorNewVaraderoResearcher-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorNewVaraderoResearcher = выживший новый исследователь Варадеро точка возрождения
+  .desc = Создатель заданий RMC14. 
 

@@ -41,5 +41,5 @@ rank-RMCRankPrivateFirstClass = Рядовой первого класса
   .prefix = Ряд.
 rank-RMCRankRecruit = Рекрут
   .prefix = Рекр.
-ent-RMCRankPrivate-name = Рядовой
+ent-RMCRankPrivate = Рядовой
 

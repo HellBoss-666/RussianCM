@@ -1,10 +1,10 @@
-ent-CMWeaponPistolBase-name = элемент
+ent-CMWeaponPistolBase = элемент
 
-ent-CMBaseMagazinePistol-name = элемент
-ent-CMBaseMagazinePistol-desc = Журнал Пистолет.
+ent-CMBaseMagazinePistol = элемент
+  .desc = Журнал Пистолет.
 
-ent-CMCartridgePistolBase-name = патрон (.35 авто)
+ent-CMCartridgePistolBase = патрон (.35 авто)
 
-ent-CMBulletBase-name = БазаBullet
-ent-CMBulletBase-desc = Если ты это видишь, ты, вероятно, мертв!
+ent-CMBulletBase = БазаBullet
+  .desc = Если ты это видишь, ты, вероятно, мертв!
 

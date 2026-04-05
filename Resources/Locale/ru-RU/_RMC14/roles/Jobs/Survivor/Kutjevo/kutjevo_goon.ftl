@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoGoon-name = пресет колониста Кутьево-гуна
+ent-RMCGearSurvivorPresetKutjevoGoon = пресет колониста Кутьево-гуна
 
-ent-RMCSpawnPointSurvivorKutjevoGoon-name = kutjevo goon spawn point
-ent-RMCSpawnPointSurvivorKutjevoGoon-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorKutjevoGoon = kutjevo goon spawn point
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

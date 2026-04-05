@@ -1,9 +1,9 @@
-ent-HivePylonXeno-name = пилон улья
-ent-HivePylonXeno-desc = Высокий шип смолы. 
+ent-HivePylonXeno = пилон улья
+  .desc = Высокий шип смолы. 
 
-ent-HiveCoreXenoConstructionNode-name = ядро улья
-ent-HiveCoreXenoConstructionNode-desc = Странный извивающийся комок. 
+ent-HiveCoreXenoConstructionNode = ядро улья
+  .desc = Странный извивающийся комок. 
 
-ent-HiveCoreXeno-name = ядро улья
-ent-HiveCoreXeno-desc = Гигантская пульсирующая насыпь массы. 
+ent-HiveCoreXeno = ядро улья
+  .desc = Гигантская пульсирующая насыпь массы. 
 

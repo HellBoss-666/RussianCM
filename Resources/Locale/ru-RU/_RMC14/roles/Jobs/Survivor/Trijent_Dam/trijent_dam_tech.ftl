@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentDamTech-name = Предварительная настройка специалиста по обслуживанию плотин колониста
+ent-RMCGearSurvivorPresetTrijentDamTech = Предварительная настройка специалиста по обслуживанию плотин колониста
 
-ent-RMCSpawnPointSurvivorTrijentDamTech-name = Место появления специалиста по обслуживанию плотины выжившего
-ent-RMCSpawnPointSurvivorTrijentDamTech-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorTrijentDamTech = Место появления специалиста по обслуживанию плотины выжившего
+  .desc = Создатель заданий RMC14. 
 

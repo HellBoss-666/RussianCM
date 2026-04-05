@@ -1,6 +1,6 @@
-ent-RMCSpottingLaser-name = корректирующий лазер
+ent-RMCSpottingLaser = корректирующий лазер
 
-ent-RMCAMRLaser-name = АМР-лазер
+ent-RMCAMRLaser = АМР-лазер
 
-ent-RMCM96SLaser-name = Лазер М96С
+ent-RMCM96SLaser = Лазер М96С
 

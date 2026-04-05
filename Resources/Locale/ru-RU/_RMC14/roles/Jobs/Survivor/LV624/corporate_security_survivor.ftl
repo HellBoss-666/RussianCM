@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetLV624SecurityGuard-name = lv624 пресет охранника-колониста
+ent-RMCGearSurvivorPresetLV624SecurityGuard = lv624 пресет охранника-колониста
 
-ent-RMCSpawnPointSurvivorLV624SecurityGuard-name = survivor lv624 weya secguard spawn point
-ent-RMCSpawnPointSurvivorLV624SecurityGuard-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorLV624SecurityGuard = survivor lv624 weya secguard spawn point
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

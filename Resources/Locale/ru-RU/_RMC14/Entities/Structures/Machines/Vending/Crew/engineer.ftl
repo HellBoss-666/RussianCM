@@ -1,6 +1,6 @@
-ent-CMVendorBundleCrewMaintenanceEssentials-name = необходимый набор для обслуживания
-ent-CMVendorBundleCrewMaintenanceEssentials-desc = В комплект входит фонарик и заменитель света.
+ent-CMVendorBundleCrewMaintenanceEssentials = необходимый набор для обслуживания
+  .desc = В комплект входит фонарик и заменитель света.
 
-ent-ColMarTechCrewMaintTech-name = Стойка для оборудования для технического обслуживания ColMarTech
-ent-ColMarTechCrewMaintTech-desc = Автоматизированная стойка, подключенная к огромному хранилищу стандартного оборудования для техников по техническому обслуживанию.
+ent-ColMarTechCrewMaintTech = Стойка для оборудования для технического обслуживания ColMarTech
+  .desc = Автоматизированная стойка, подключенная к огромному хранилищу стандартного оборудования для техников по техническому обслуживанию.
 

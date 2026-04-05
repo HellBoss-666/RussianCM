@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVEAssistantSL-name = Место появления руководителя отряда помощника форэкона
-ent-RMCSpawnPointFORECONPVEAssistantSL-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointFORECONPVEAssistantSL = Место появления руководителя отряда помощника форэкона
+  .desc = Создатель заданий RMC14. 
 

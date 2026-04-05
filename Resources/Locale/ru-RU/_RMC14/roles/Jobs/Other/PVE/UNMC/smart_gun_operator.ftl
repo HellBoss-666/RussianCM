@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVESmartGunOperator-name = Точка появления оператора умного оружия PVE
-ent-RMCSpawnPointPVESmartGunOperator-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPVESmartGunOperator = Точка появления оператора умного оружия PVE
+  .desc = Создатель заданий RMC14. 
 

@@ -1,2 +1,2 @@
-ent-RMCHelmetWelding-name = сварочная маска
+ent-RMCHelmetWelding = сварочная маска
 

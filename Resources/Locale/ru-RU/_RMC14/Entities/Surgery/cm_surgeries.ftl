@@ -1,12 +1,12 @@
-ent-RMCSurgeryAlienHeartRemoval-name = Экспериментальная хирургия сбора урожая
-ent-RMCSurgeryAlienHeartRemoval-desc = Добудьте сердце умершего инопланетянина.
+ent-RMCSurgeryAlienHeartRemoval = Экспериментальная хирургия сбора урожая
+  .desc = Добудьте сердце умершего инопланетянина.
 
-ent-CMSurgeryAlienEmbryoRemoval-name = Удаление чужеродных эмбрионов
-ent-CMSurgeryAlienEmbryoRemoval-desc = Удаление чужеродного эмбриона из организма.
+ent-CMSurgeryAlienEmbryoRemoval = Удаление чужеродных эмбрионов
+  .desc = Удаление чужеродного эмбриона из организма.
 
-ent-CMSurgeryOpenRibcage-name = Открытая грудная клетка
+ent-CMSurgeryOpenRibcage = Открытая грудная клетка
 
-ent-CMSurgeryCloseIncision-name = Закрыть разрез
+ent-CMSurgeryCloseIncision = Закрыть разрез
 
-ent-CMSurgeryOpenIncision-name = Открытый разрез
+ent-CMSurgeryOpenIncision = Открытый разрез
 

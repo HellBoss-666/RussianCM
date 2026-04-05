@@ -1,5 +1,5 @@
-ent-RMCEarmuffs-name = наушники
-ent-RMCEarmuffs-desc = Защищает ваш слух как от громких, так и от тихих звуков.
+ent-RMCEarmuffs = наушники
+  .desc = Защищает ваш слух как от громких, так и от тихих звуков.
 
-ent-RMCEarMiscClothingBase-name = токарный станок-категория-одежда
+ent-RMCEarMiscClothingBase = токарный станок-категория-одежда
 

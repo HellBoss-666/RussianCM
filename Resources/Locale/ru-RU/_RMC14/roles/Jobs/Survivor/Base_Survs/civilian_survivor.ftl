@@ -1,15 +1,15 @@
-ent-RMCRandomHumanoidSurvivorCivilian-name = роль призрака гражданского колониста
+ent-RMCRandomHumanoidSurvivorCivilian = роль призрака гражданского колониста
 
-ent-RMCSurvivorPresetCivilianOutfits-name = Гражданский колонист со случайной одеждой
+ent-RMCSurvivorPresetCivilianOutfits = Гражданский колонист со случайной одеждой
 
-ent-RMCSurvivorPresetCivilianRareItem-name = Гражданский колонист с редким предметом
+ent-RMCSurvivorPresetCivilianRareItem = Гражданский колонист с редким предметом
 
-ent-RMCSurvivorPresetCivilian-name = настройки гражданского колониста
+ent-RMCSurvivorPresetCivilian = настройки гражданского колониста
 
-ent-RMCSurvivorPresetNoGun-name = нет предустановленных настроек колониста с оружием
+ent-RMCSurvivorPresetNoGun = нет предустановленных настроек колониста с оружием
 
-ent-CMGuidebookRoleSurvivor-name = Выживший
+ent-CMGuidebookRoleSurvivor = Выживший
 
-ent-CMSpawnPointSurvivor-name = точка появления выжившего
-ent-CMSpawnPointSurvivor-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointSurvivor = точка появления выжившего
+  .desc = Создатель заданий RMC14. 
 

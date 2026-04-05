@@ -1,22 +1,22 @@
-ent-RMCMachineScreenBase-name = монитор
+ent-RMCMachineScreenBase = монитор
 
-ent-RMCMachineScreenBasePowered-name = монитор
+ent-RMCMachineScreenBasePowered = монитор
 
-ent-RMCBlueMultiMonitorBig-name = монитор
+ent-RMCBlueMultiMonitorBig = монитор
 
-ent-RMCBlueMultiMonitorMedium-name = монитор
+ent-RMCBlueMultiMonitorMedium = монитор
 
-ent-RMCBlueMultiMonitorSmall-name = монитор
+ent-RMCBlueMultiMonitorSmall = монитор
 
-ent-RMCMultiMonitorBig-name = монитор
+ent-RMCMultiMonitorBig = монитор
 
-ent-RMCMultiMonitorMedium-name = монитор
+ent-RMCMultiMonitorMedium = монитор
 
-ent-RMCMultiMonitorSmall-name = монитор
+ent-RMCMultiMonitorSmall = монитор
 
-ent-RMCTelescreen-name = монитор
+ent-RMCTelescreen = монитор
 
-ent-RMCTelescreenBroken-name = монитор
+ent-RMCTelescreenBroken = монитор
 
-ent-RMCTelescreenBrokenSparks-name = монитор
+ent-RMCTelescreenBrokenSparks = монитор
 

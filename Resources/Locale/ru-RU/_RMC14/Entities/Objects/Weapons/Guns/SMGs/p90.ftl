@@ -1,6 +1,6 @@
-ent-RMCCartridge57x28mm-name = патрон (57×28мм ПП)
+ent-RMCCartridge57x28mm = патрон (57×28мм ПП)
 
-ent-RMCMagazineSMGP90-name = магазин FN P90 (5.7×28мм)
+ent-RMCMagazineSMGP90 = магазин FN P90 (5.7×28мм)
 
-ent-RMCWeaponSMGP90-name = пистолет-пулемёт FN P90
+ent-RMCWeaponSMGP90 = пистолет-пулемёт FN P90
 

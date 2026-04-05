@@ -1,9 +1,9 @@
-ent-RMCCartridgeLMGM60-name = cartridge
+ent-RMCCartridgeLMGM60 = cartridge
 
-ent-RMCMagazineLMGM60-name = item
+ent-RMCMagazineLMGM60 = item
 
-ent-RMCWeaponLMGM60-name = единый пулемёт M60
+ent-RMCWeaponLMGM60 = единый пулемёт M60
 
-ent-RMCBulletLMGM60-name = BaseBullet
-ent-RMCBulletLMGM60-desc = If you can see this you're probably dead!
+ent-RMCBulletLMGM60 = BaseBullet
+  .desc = If you can see this you're probably dead!
 

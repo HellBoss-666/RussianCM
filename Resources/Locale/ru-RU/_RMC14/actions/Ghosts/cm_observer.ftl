@@ -1,12 +1,12 @@
-ent-ActionJoinXeno-name = Присоединиться как ксеноморф
-ent-ActionJoinXeno-desc = Станьте одной из зарывшихся личинок.
+ent-ActionJoinXeno = Присоединиться как ксеноморф
+  .desc = Станьте одной из зарывшихся личинок.
 
-ent-ActionFindParasite-name = Стать лицехватом
-ent-ActionFindParasite-desc = Найдите призрачных лицехватов
+ent-ActionFindParasite = Стать лицехватом
+  .desc = Найдите призрачных лицехватов
 
-ent-ActionToggleXenoHud-name = Переключить интерфейс ксеноморфов
-ent-ActionToggleXenoHud-desc = Переключить полоски здоровья ксено и плазмы.
+ent-ActionToggleXenoHud = Переключить интерфейс ксеноморфов
+  .desc = Переключить полоски здоровья ксено и плазмы.
 
-ent-ActionToggleMarineHud-name = Переключить интерфейс морпехов
-ent-ActionToggleMarineHud-desc = Переключить значки Морпеха.
+ent-ActionToggleMarineHud = Переключить интерфейс морпехов
+  .desc = Переключить значки Морпеха.
 

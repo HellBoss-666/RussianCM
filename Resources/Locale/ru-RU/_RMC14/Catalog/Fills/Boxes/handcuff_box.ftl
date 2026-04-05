@@ -1,6 +1,6 @@
-ent-RMCBoxHandcuffs-name = Коробка наручников
-ent-RMCBoxHandcuffs-desc = Коробка, полная наручников
+ent-RMCBoxHandcuffs = Коробка наручников
+  .desc = Коробка, полная наручников
 
-ent-RMCBoxZiptie-name = коробка стяжек
-ent-RMCBoxZiptie-desc = Коробка, полная стяжек.
+ent-RMCBoxZiptie = коробка стяжек
+  .desc = Коробка, полная стяжек.
 

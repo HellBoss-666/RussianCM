@@ -1,47 +1,47 @@
-ent-RMCScabbardKatana-name = base scabbard
-ent-RMCScabbardKatana-desc = -- insert description here --
+ent-RMCScabbardKatana = base scabbard
+  .desc = -- insert description here --
 
-ent-RMCScabbardCeremonial-name = ceremonial sabre scabbard
-ent-RMCScabbardCeremonial-desc = A large, vibrantly colored scabbard used to carry a ceremonial sabre.
+ent-RMCScabbardCeremonial = ceremonial sabre scabbard
+  .desc = A large, vibrantly colored scabbard used to carry a ceremonial sabre.
 
-ent-RMCScabbardShotgun-name = L44 M42A2 shotgun scabbard
-ent-RMCScabbardShotgun-desc = A large leather holster fitted for UNMC-issue shotguns. It has harnesses that allow it to be secured to the back for easy storage.
+ent-RMCScabbardShotgun = L44 M42A2 shotgun scabbard
+  .desc = A large leather holster fitted for UNMC-issue shotguns. It has harnesses that allow it to be secured to the back for easy storage.
 
-ent-RMCScabbardMacheteSG-name = ML66A harness machete scabbard
-ent-RMCScabbardMacheteSG-desc = A scabbard that connects to the ML66A combat harness for carrying a M2132 machete.
+ent-RMCScabbardMacheteSG = ML66A harness machete scabbard
+  .desc = A scabbard that connects to the ML66A combat harness for carrying a M2132 machete.
 
-ent-RMCScabbardMacheteM2100-name = QH20 pattern M2100 custom machete scabbard
-ent-RMCScabbardMacheteM2100-desc = A large leather scabbard used to carry a M2100 "Ngájhe" machete. It can be strapped to the back or the armor.
+ent-RMCScabbardMacheteM2100 = QH20 pattern M2100 custom machete scabbard
+  .desc = A large leather scabbard used to carry a M2100 "Ngájhe" machete. It can be strapped to the back or the armor.
 
-ent-RMCScabbardMachete-name = H5 pattern M2132 machete scabbard
-ent-RMCScabbardMachete-desc = A large leather scabbard used to carry a M2132 machete. It can be strapped to the back or the waist.
+ent-RMCScabbardMachete = H5 pattern M2132 machete scabbard
+  .desc = A large leather scabbard used to carry a M2132 machete. It can be strapped to the back or the waist.
 
-ent-RMCScabbardBase-name = base scabbard
-ent-RMCScabbardBase-desc = -- insert description here --
+ent-RMCScabbardBase = base scabbard
+  .desc = -- insert description here --
 
 # filled variation
-ent-RMCScabbardKatanaFilled-name = base scabbard
-ent-RMCScabbardKatanaFilled-desc = -- insert description here --
+ent-RMCScabbardKatanaFilled = base scabbard
+  .desc = -- insert description here --
 
-ent-RMCScabbardCeremonialFilled-name = ceremonial sabre scabbard
-ent-RMCScabbardCeremonialFilled-desc = A large, vibrantly colored scabbard used to carry a ceremonial sabre.
+ent-RMCScabbardCeremonialFilled = ceremonial sabre scabbard
+  .desc = A large, vibrantly colored scabbard used to carry a ceremonial sabre.
 
-ent-RMCScabbardShotgunFilled-name = ножны дробовика L44 M42A2
+ent-RMCScabbardShotgunFilled = ножны дробовика L44 M42A2
 
-ent-RMCScabbardMacheteSGFilled-name = ML66A harness machete scabbard
-ent-RMCScabbardMacheteSGFilled-desc = A scabbard that connects to the ML66A combat harness for carrying a M2132 machete.
+ent-RMCScabbardMacheteSGFilled = ML66A harness machete scabbard
+  .desc = A scabbard that connects to the ML66A combat harness for carrying a M2132 machete.
 
-ent-RMCScabbardMacheteM2100Filled-name = QH20 pattern M2100 custom machete scabbard
-ent-RMCScabbardMacheteM2100Filled-desc = A large leather scabbard used to carry a M2100 "Ngájhe" machete. It can be strapped to the back or the armor.
+ent-RMCScabbardMacheteM2100Filled = QH20 pattern M2100 custom machete scabbard
+  .desc = A large leather scabbard used to carry a M2100 "Ngájhe" machete. It can be strapped to the back or the armor.
 
-ent-RMCScabbardMacheteFilled-name = H5 pattern M2132 machete scabbard
-ent-RMCScabbardMacheteFilled-desc = A large leather scabbard used to carry a M2132 machete. It can be strapped to the back or the waist.
+ent-RMCScabbardMacheteFilled = H5 pattern M2132 machete scabbard
+  .desc = A large leather scabbard used to carry a M2132 machete. It can be strapped to the back or the waist.
 
-ent-RMCScabbardBaseFilled-name = базовые ножны
+ent-RMCScabbardBaseFilled = базовые ножны
 
-ent-RMCScabbardShotgunWaist-name = L44 M42A2 shotgun waist scabbard
-ent-RMCScabbardShotgunWaist-desc = A large leather holster fitted for UNMC-issue shotguns. It has harnesses that allow it to be secured to the waist for easy storage.
+ent-RMCScabbardShotgunWaist = L44 M42A2 shotgun waist scabbard
+  .desc = A large leather holster fitted for UNMC-issue shotguns. It has harnesses that allow it to be secured to the waist for easy storage.
 
-ent-RMCScabbardKatanaSharpFilled-name = base scabbard
-ent-RMCScabbardKatanaSharpFilled-desc = -- insert description here --
+ent-RMCScabbardKatanaSharpFilled = base scabbard
+  .desc = -- insert description here --
 

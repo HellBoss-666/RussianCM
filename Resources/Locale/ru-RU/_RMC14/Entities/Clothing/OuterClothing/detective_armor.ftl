@@ -1,3 +1,3 @@
-ent-RMCArmorDetective-name = детектив Броня
-ent-RMCArmorDetective-desc = Бронежилет со значком детектива.
+ent-RMCArmorDetective = детектив Броня
+  .desc = Бронежилет со значком детектива.
 

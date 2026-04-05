@@ -1,3 +1,3 @@
-ent-HiveAcidPillarXeno-name = кислотный столб
-ent-HiveAcidPillarXeno-desc = Высокий столб, способный стрелять слабой кислотой.
+ent-HiveAcidPillarXeno = кислотный столб
+  .desc = Высокий столб, способный стрелять слабой кислотой.
 

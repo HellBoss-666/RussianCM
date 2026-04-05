@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetInfrastructureEngineer-name = предустановка инженера инфраструктуры
+ent-RMCGearSurvivorPresetInfrastructureEngineer = предустановка инженера инфраструктуры
 
-ent-RMCSpawnPointSurvivorInfrastructureEngineer-name = точка появления инженера инфраструктуры выжившего
-ent-RMCSpawnPointSurvivorInfrastructureEngineer-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorInfrastructureEngineer = точка появления инженера инфраструктуры выжившего
+  .desc = Создатель заданий RMC14. 
 

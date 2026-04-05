@@ -1,10 +1,10 @@
-ent-RMCMagazineSentryFireSmoke-name = магазин (винтовка .20)
+ent-RMCMagazineSentryFireSmoke = магазин (винтовка .20)
 
-ent-RMCMagazineSentryFireBlue-name = магазин (винтовка .20)
+ent-RMCMagazineSentryFireBlue = магазин (винтовка .20)
 
-ent-RMCMagazineSentryFire-name = магазин (винтовка .20)
+ent-RMCMagazineSentryFire = магазин (винтовка .20)
 
-ent-RMCMagazineSentryShotgun-name = элемент
+ent-RMCMagazineSentryShotgun = элемент
 
-ent-RMCMagazineSentry-name = элемент
+ent-RMCMagazineSentry = элемент
 

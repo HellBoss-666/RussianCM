@@ -1,10 +1,10 @@
-ent-RMCRequisitionsChairMarker-name = Маркер стула для заявок
+ent-RMCRequisitionsChairMarker = Маркер стула для заявок
 
-ent-RMCRequisitionsChairMarkerNorth-name = Маркер стула для заявок
+ent-RMCRequisitionsChairMarkerNorth = Маркер стула для заявок
 
-ent-RMCRequisitionsChairMarkerEast-name = Маркер стула для заявок
+ent-RMCRequisitionsChairMarkerEast = Маркер стула для заявок
 
-ent-RMCRequisitionsChairMarkerSouth-name = Маркер стула для заявок
+ent-RMCRequisitionsChairMarkerSouth = Маркер стула для заявок
 
-ent-RMCRequisitionsChairMarkerWest-name = Маркер стула для заявок
+ent-RMCRequisitionsChairMarkerWest = Маркер стула для заявок
 

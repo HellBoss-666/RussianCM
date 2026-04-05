@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVERifleman-name = Точка появления PVE-стрелков
-ent-RMCSpawnPointPVERifleman-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPVERifleman = Точка появления PVE-стрелков
+  .desc = Создатель заданий RMC14. 
 

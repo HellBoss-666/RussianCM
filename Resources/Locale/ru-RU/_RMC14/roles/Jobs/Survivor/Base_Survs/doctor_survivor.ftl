@@ -1,7 +1,7 @@
-ent-RMCRandomHumanoidSurvivorDoctor-name = роль призрака врача-колониста
+ent-RMCRandomHumanoidSurvivorDoctor = роль призрака врача-колониста
 
-ent-RMCSurvivorPresetDoctor-name = пресет доктора-колониста
+ent-RMCSurvivorPresetDoctor = пресет доктора-колониста
 
-ent-RMCSpawnPointSurvivorDoctor-name = точка появления доктора-выжившего
-ent-RMCSpawnPointSurvivorDoctor-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorDoctor = точка появления доктора-выжившего
+  .desc = Создатель заданий RMC14. 
 

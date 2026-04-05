@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorSolarisCMBDeputy-name = точка появления заместителя Solaris CMB
-ent-RMCSpawnPointSurvivorSolarisCMBDeputy-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorSolarisCMBDeputy = точка появления заместителя Solaris CMB
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

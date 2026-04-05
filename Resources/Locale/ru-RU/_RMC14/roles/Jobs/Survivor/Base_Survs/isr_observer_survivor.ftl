@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorISR-name = точка появления выжившего в ISR
-ent-RMCSpawnPointSurvivorISR-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorISR = точка появления выжившего в ISR
+  .desc = Создатель заданий RMC14. 
 

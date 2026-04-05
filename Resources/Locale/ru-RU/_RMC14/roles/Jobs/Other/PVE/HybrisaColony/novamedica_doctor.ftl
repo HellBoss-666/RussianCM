@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVENovaMedicaDoctor-name = точка появления доктора нова медика
-ent-RMCSpawnPointPVENovaMedicaDoctor-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPVENovaMedicaDoctor = точка появления доктора нова медика
+  .desc = Создатель заданий RMC14. 
 

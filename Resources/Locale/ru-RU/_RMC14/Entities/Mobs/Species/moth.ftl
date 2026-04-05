@@ -1,2 +1,2 @@
-ent-CMMobMoth-name = Морпех Урист Моль
+ent-CMMobMoth = Морпех Урист Моль
 

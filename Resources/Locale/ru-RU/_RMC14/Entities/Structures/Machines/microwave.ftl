@@ -1,6 +1,6 @@
-ent-CMMicrowave-name = микроволновая печь
-ent-CMMicrowave-desc = Это волшебство.
+ent-CMMicrowave = микроволновая печь
+  .desc = Это волшебство.
 
-ent-CMMicrowaveLockedPowered-name = микроволновая печь
-ent-CMMicrowaveLockedPowered-desc = Это волшебство.
+ent-CMMicrowaveLockedPowered = микроволновая печь
+  .desc = Это волшебство.
 

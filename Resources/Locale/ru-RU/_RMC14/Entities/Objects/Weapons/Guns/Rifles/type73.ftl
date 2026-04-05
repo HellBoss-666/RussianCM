@@ -1,2 +1,2 @@
-ent-RMCWeaponRifleType73-name = Штурмовой карабин Тип 71 «Коммандос»
+ent-RMCWeaponRifleType73 = Штурмовой карабин Тип 71 «Коммандос»
 

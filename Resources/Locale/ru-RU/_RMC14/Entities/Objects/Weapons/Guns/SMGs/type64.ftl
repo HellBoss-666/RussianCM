@@ -1,9 +1,9 @@
-ent-RMCCartridgeType64-name = cartridge (.25 caseless)
+ent-RMCCartridgeType64 = cartridge (.25 caseless)
 
-ent-RMCMagazineSMGType64-name = item
+ent-RMCMagazineSMGType64 = item
 
-ent-RMCWeaponSMGType64-name = Пистолет-пулемет Тип 64
+ent-RMCWeaponSMGType64 = Пистолет-пулемет Тип 64
 
-ent-RMCBulletType64-name = BaseBullet
-ent-RMCBulletType64-desc = If you can see this you're probably dead!
+ent-RMCBulletType64 = BaseBullet
+  .desc = If you can see this you're probably dead!
 

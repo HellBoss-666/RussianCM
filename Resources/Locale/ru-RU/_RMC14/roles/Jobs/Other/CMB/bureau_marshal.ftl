@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidBureauMarshal-name = роль призрака бюро маршал
+ent-RMCRandomHumanoidBureauMarshal = роль призрака бюро маршал
 

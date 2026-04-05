@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidBureauObserver-name = Бюро, роль призрака, наблюдатель за права межзвездной жизни
+ent-RMCRandomHumanoidBureauObserver = Бюро, роль призрака, наблюдатель за права межзвездной жизни
 

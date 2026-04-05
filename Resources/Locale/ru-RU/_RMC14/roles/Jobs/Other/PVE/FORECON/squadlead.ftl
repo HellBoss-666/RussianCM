@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVESquadLead-name = Точка появления руководителя отряда форекон
-ent-RMCSpawnPointFORECONPVESquadLead-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointFORECONPVESquadLead = Точка появления руководителя отряда форекон
+  .desc = Создатель заданий RMC14. 
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointParaAssaultEngineer-name = Точка появления инженера-парамарина
-ent-RMCSpawnPointParaAssaultEngineer-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointParaAssaultEngineer = Точка появления инженера-парамарина
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

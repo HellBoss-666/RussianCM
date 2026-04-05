@@ -1,3 +1,3 @@
-ent-CMSpawnPointOrdnanceTech-name = точка появления артиллерийских технологий
-ent-CMSpawnPointOrdnanceTech-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointOrdnanceTech = точка появления артиллерийских технологий
+  .desc = Создатель заданий RMC14. 
 

@@ -1,52 +1,52 @@
-ent-RMCPylonMapIcon-name = пилон улья
+ent-RMCPylonMapIcon = пилон улья
 
-ent-RMCRecovNodeMapIcon-name = Узел восстановления
+ent-RMCRecovNodeMapIcon = Узел восстановления
 
-ent-RMCTunnelMapIcon-name = Туннель
+ent-RMCTunnelMapIcon = Туннель
 
-ent-RMCClusterMapIcon-name = Кластер улья
+ent-RMCClusterMapIcon = Кластер улья
 
-ent-RMCMorpherMapIcon-name = Яичный морфер
+ent-RMCMorpherMapIcon = Яичный морфер
 
-ent-RMCHiveCoreMapIcon-name = Ядро улья
+ent-RMCHiveCoreMapIcon = Ядро улья
 
-ent-RMCLeaderMapIcon-name = Корона лидера
+ent-RMCLeaderMapIcon = Корона лидера
 
-ent-RMCQueenMapIcon-name = Королева
+ent-RMCQueenMapIcon = Королева
 
-ent-RMCPraetorianMapIcon-name = Преторианец
+ent-RMCPraetorianMapIcon = Преторианец
 
-ent-RMCRavagerMapIcon-name = Разрушитель
+ent-RMCRavagerMapIcon = Разрушитель
 
-ent-RMCLurkerMapIcon-name = Люркер
+ent-RMCLurkerMapIcon = Люркер
 
-ent-RMCRunnerMapIcon-name = Бегун
+ent-RMCRunnerMapIcon = Бегун
 
-ent-RMCBoilerMapIcon-name = Котел
+ent-RMCBoilerMapIcon = Котел
 
-ent-RMCSpitterMapIcon-name = Спиттер
+ent-RMCSpitterMapIcon = Спиттер
 
-ent-RMCSentinelMapIcon-name = Страж
+ent-RMCSentinelMapIcon = Страж
 
-ent-RMCCrusherMapIcon-name = Крушитель
+ent-RMCCrusherMapIcon = Крушитель
 
-ent-RMCWarriorMapIcon-name = Воин
+ent-RMCWarriorMapIcon = Воин
 
-ent-RMCDefenderMapIcon-name = Защитник
+ent-RMCDefenderMapIcon = Защитник
 
-ent-RMCCarrierMapIcon-name = Перевозчик
+ent-RMCCarrierMapIcon = Перевозчик
 
-ent-RMCBurrowerMapIcon-name = Роющий
+ent-RMCBurrowerMapIcon = Роющий
 
-ent-RMCHivelordMapIcon-name = Хивелорд
+ent-RMCHivelordMapIcon = Хивелорд
 
-ent-RMCDroneMapIcon-name = Дрон
+ent-RMCDroneMapIcon = Дрон
 
-ent-RMCLarvaMapIcon-name = Личинка
+ent-RMCLarvaMapIcon = Личинка
 
-ent-RMCParasiteMapIcon-name = Паразит
+ent-RMCParasiteMapIcon = Паразит
 
-ent-RMCLesserMapIcon-name = Меньший
+ent-RMCLesserMapIcon = Меньший
 
-ent-RMCBaseMapIcon-name = Икона
+ent-RMCBaseMapIcon = Икона
 

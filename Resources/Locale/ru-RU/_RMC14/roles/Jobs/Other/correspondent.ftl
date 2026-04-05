@@ -1,5 +1,5 @@
-ent-CMGuidebookRoleCorrespondent-name = Корреспондент
+ent-CMGuidebookRoleCorrespondent = Корреспондент
 
-ent-CMSpawnPointCorrespondent-name = соответствующая точка появления
-ent-CMSpawnPointCorrespondent-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointCorrespondent = соответствующая точка появления
+  .desc = Создатель заданий RMC14. 
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetCMBDeputy-name = Предустановленные настройки заместителя колониста cmb
+ent-RMCGearSurvivorPresetCMBDeputy = Предустановленные настройки заместителя колониста cmb
 
-ent-RMCSpawnPointSurvivorCMBDeputy-name = точка возрождения заместителя CMB выжившего
-ent-RMCSpawnPointSurvivorCMBDeputy-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorCMBDeputy = точка возрождения заместителя CMB выжившего
+  .desc = Создатель заданий RMC14. 
 

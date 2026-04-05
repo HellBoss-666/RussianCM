@@ -1,2 +1,2 @@
-ent-RMCSurvivorPresetHybrisaConstable-name = пресет констебля-колониста
+ent-RMCSurvivorPresetHybrisaConstable = пресет констебля-колониста
 

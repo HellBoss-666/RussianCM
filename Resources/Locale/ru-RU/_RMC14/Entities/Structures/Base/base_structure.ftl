@@ -1,13 +1,13 @@
-ent-RMCBlockerAirtight-name = герметичный блокиратор
+ent-RMCBlockerAirtight = герметичный блокиратор
 
-ent-RMCWallInvisibleBulletPassible-name = блокировщик стен
+ent-RMCWallInvisibleBulletPassible = блокировщик стен
 
-ent-CMBaseWallXeno-name = смоляная стена
-ent-CMBaseWallXeno-desc = Задерживает воздух и серую волну снаружи.
+ent-CMBaseWallXeno = смоляная стена
+  .desc = Задерживает воздух и серую волну снаружи.
 
-ent-RMCBaseWallInvincibleNoIcon-desc = Огромный кусок металла, используемый для разделения комнат.
+  .desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-CMBaseWallInvincible-desc = Огромный кусок металла, используемый для разделения комнат.
+  .desc = Огромный кусок металла, используемый для разделения комнат.
 
-ent-CMBaseWall-desc = Огромный кусок металла, используемый для разделения комнат.
+  .desc = Огромный кусок металла, используемый для разделения комнат.
 

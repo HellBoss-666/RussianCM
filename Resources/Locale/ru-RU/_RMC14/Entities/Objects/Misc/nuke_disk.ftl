@@ -1,49 +1,49 @@
-ent-RMCDisk15-name = диск
+ent-RMCDisk15 = диск
 
-ent-RMCDisk14-name = диск
+ent-RMCDisk14 = диск
 
-ent-RMCDisk13-name = диск
+ent-RMCDisk13 = диск
 
-ent-RMCDisk12-name = диск
+ent-RMCDisk12 = диск
 
-ent-RMCDisk11-name = диск
+ent-RMCDisk11 = диск
 
-ent-RMCDisk10-name = диск
+ent-RMCDisk10 = диск
 
-ent-RMCDisk9-name = диск
+ent-RMCDisk9 = диск
 
-ent-RMCDisk8-name = диск
+ent-RMCDisk8 = диск
 
-ent-RMCDisk7-name = диск
+ent-RMCDisk7 = диск
 
-ent-RMCDisk6-name = диск
+ent-RMCDisk6 = диск
 
-ent-RMCDisk5-name = диск
+ent-RMCDisk5 = диск
 
-ent-RMCDisk4-name = диск
+ent-RMCDisk4 = диск
 
-ent-RMCDisk3-name = диск
+ent-RMCDisk3 = диск
 
-ent-RMCDisk2-name = диск
+ent-RMCDisk2 = диск
 
-ent-RMCDisk1-name = диск
+ent-RMCDisk1 = диск
 
-ent-RMCDiskData7-name = диск
+ent-RMCDiskData7 = диск
 
-ent-RMCDiskData6-name = диск
+ent-RMCDiskData6 = диск
 
-ent-RMCDiskData5-name = диск
+ent-RMCDiskData5 = диск
 
-ent-RMCDiskData4-name = диск
+ent-RMCDiskData4 = диск
 
-ent-RMCDiskData3-name = диск
+ent-RMCDiskData3 = диск
 
-ent-RMCDiskData2-name = диск
+ent-RMCDiskData2 = диск
 
-ent-RMCDiskData1-name = диск
+ent-RMCDiskData1 = диск
 
-ent-RMCNukeDisk-name = диск ядерной аутентификации
-ent-RMCNukeDisk-desc = Лучше сохраните это.
+ent-RMCNukeDisk = диск ядерной аутентификации
+  .desc = Лучше сохраните это.
 
-ent-RMCDisk-name = диск
+ent-RMCDisk = диск
 

@@ -1,3 +1,3 @@
-ent-RMCIDCardUNMCAdjutant-name = Удостоверение адъютанта UNMC
-ent-RMCIDCardUNMCAdjutant-desc = Модное удостоверение личности. 
+ent-RMCIDCardUNMCAdjutant = Удостоверение адъютанта UNMC
+  .desc = Модное удостоверение личности. 
 

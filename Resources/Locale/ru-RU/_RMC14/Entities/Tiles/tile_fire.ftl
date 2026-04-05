@@ -1,60 +1,60 @@
-ent-RMCTileFire-name = огонь
+ent-RMCTileFire = огонь
 
-ent-RMCTileFireGreen-name = огонь
+ent-RMCTileFireGreen = огонь
 
-ent-RMCTileFireBlue-name = огонь
+ent-RMCTileFireBlue = огонь
 
-ent-RMCTileFireOB-name = огонь
+ent-RMCTileFireOB = огонь
 
-ent-RMCTileFireOBAegis-name = огонь
+ent-RMCTileFireOBAegis = огонь
 
-ent-RMCTileFireLaser-name = огонь
+ent-RMCTileFireLaser = огонь
 
-ent-RMCTileFireNapalm-name = огонь
+ent-RMCTileFireNapalm = огонь
 
-ent-RMCTileFireBanshee-name = огонь
+ent-RMCTileFireBanshee = огонь
 
-ent-RMCTileFireThermobaric-name = огонь
+ent-RMCTileFireThermobaric = огонь
 
-ent-RMCTileFireMiniMike-name = огонь
+ent-RMCTileFireMiniMike = огонь
 
-ent-RMCTileFireForever-name = огонь
-ent-RMCTileFireForever-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForever = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverStrong-name = огонь
-ent-RMCTileFireForeverStrong-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverStrong = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverNormal-name = огонь
-ent-RMCTileFireForeverNormal-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverNormal = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverWeak-name = огонь
-ent-RMCTileFireForeverWeak-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverWeak = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverOrange-name = огонь
-ent-RMCTileFireForeverOrange-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverOrange = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverStrongOrange-name = огонь
-ent-RMCTileFireForeverStrongOrange-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverStrongOrange = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverNormalOrange-name = огонь
-ent-RMCTileFireForeverNormalOrange-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverNormalOrange = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireForeverWeakOrange-name = огонь
-ent-RMCTileFireForeverWeakOrange-desc = Это не выйдет в ближайшее время!!
+ent-RMCTileFireForeverWeakOrange = огонь
+  .desc = Это не выйдет в ближайшее время!!
 
-ent-RMCTileFireStickyNapalm-name = огонь
+ent-RMCTileFireStickyNapalm = огонь
 
-ent-RMCTileFireHCNapalm-name = огонь
+ent-RMCTileFireHCNapalm = огонь
 
-ent-RMCTileFireNapalmE-name = огонь
+ent-RMCTileFireNapalmE = огонь
 
-ent-RMCTileFireNapalmEX-name = огонь
+ent-RMCTileFireNapalmEX = огонь
 
-ent-RMCTileFireR189-name = огонь
+ent-RMCTileFireR189 = огонь
 
-ent-RMCTileFireNapalmBase-name = огонь
+ent-RMCTileFireNapalmBase = огонь
 
-ent-RMCTileFireEthanol-name = огонь
+ent-RMCTileFireEthanol = огонь
 
-ent-RMCTileFireWeldingFuel-name = огонь
+ent-RMCTileFireWeldingFuel = огонь
 

@@ -1,8 +1,8 @@
-ent-RMCXenoCarrierBase-name = Перевозчик
-ent-RMCXenoCarrierBase-desc = Странное инопланетное существо. 
+ent-RMCXenoCarrierBase = Перевозчик
+  .desc = Странное инопланетное существо. 
 
-ent-CMXenoCarrier-name = cm-имя-задания-xeno-carrier
+ent-CMXenoCarrier = cm-имя-задания-xeno-carrier
 
-ent-RMCXenoCarrierEggsac-name = Перевозчик
-ent-RMCXenoCarrierEggsac-desc = Странное инопланетное существо. 
+ent-RMCXenoCarrierEggsac = Перевозчик
+  .desc = Странное инопланетное существо. 
 

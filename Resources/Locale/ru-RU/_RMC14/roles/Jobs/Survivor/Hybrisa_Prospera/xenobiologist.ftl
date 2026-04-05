@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaXenobiologist-name = пресет ксенобиолога
+ent-RMCGearSurvivorPresetHybrisaXenobiologist = пресет ксенобиолога
 
-ent-RMCSpawnPointSurvivorHybrisaXenobiologist-name = точка спавна ксенобиологов
-ent-RMCSpawnPointSurvivorHybrisaXenobiologist-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaXenobiologist = точка спавна ксенобиологов
+  .desc = Создатель заданий RMC14. 
 

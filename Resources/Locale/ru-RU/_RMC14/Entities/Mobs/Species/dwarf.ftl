@@ -1,2 +1,2 @@
-ent-CMMobDwarf-name = Урист К.М. Макхэндс Карлик
+ent-CMMobDwarf = Урист К.М. Макхэндс Карлик
 

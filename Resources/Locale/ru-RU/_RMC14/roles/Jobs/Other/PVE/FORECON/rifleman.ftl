@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVERifleman-name = точка появления стрелка Forecon
-ent-RMCSpawnPointFORECONPVERifleman-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointFORECONPVERifleman = точка появления стрелка Forecon
+  .desc = Создатель заданий RMC14. 
 

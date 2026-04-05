@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaMaterialReprocessingTechnician-name = Предварительная настройка специалиста по переработке материалов hybrisa
+ent-RMCGearSurvivorPresetHybrisaMaterialReprocessingTechnician = Предварительная настройка специалиста по переработке материалов hybrisa
 
-ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician-name = Точка возрождения техника по переработке материалов гибриды
-ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaMaterialReprocessingTechnician = Точка возрождения техника по переработке материалов гибриды
+  .desc = Создатель заданий RMC14. 
 

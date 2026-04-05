@@ -1,11 +1,11 @@
-ent-RMCKitchenKnifeButcher-name = butcher's cleaver
-ent-RMCKitchenKnifeButcher-desc = A huge thing used for chopping and chopping up meat. This includes clowns and clown-by-products.
+ent-RMCKitchenKnifeButcher = butcher's cleaver
+  .desc = A huge thing used for chopping and chopping up meat. This includes clowns and clown-by-products.
 
-ent-RMCKitchenKnifeChef-name = kitchen knife
-ent-RMCKitchenKnifeChef-desc = A general purpose Chef's Knife made by SpaceCook Incorporated. Guaranteed to stay sharp for years to come.
+ent-RMCKitchenKnifeChef = kitchen knife
+  .desc = A general purpose Chef's Knife made by SpaceCook Incorporated. Guaranteed to stay sharp for years to come.
 
-ent-RMCKitchenKnifePlastic-name = plastic knife
-ent-RMCKitchenKnifePlastic-desc = The bluntest of blades.
+ent-RMCKitchenKnifePlastic = plastic knife
+  .desc = The bluntest of blades.
 
-ent-RMCKitchenKnife-name = нож
+ent-RMCKitchenKnife = нож
 

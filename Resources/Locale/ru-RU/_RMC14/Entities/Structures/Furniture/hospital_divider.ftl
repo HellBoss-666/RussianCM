@@ -1,3 +1,3 @@
-ent-RMCHospitalDivider-name = больничная перегородка
-ent-RMCHospitalDivider-desc = Больничная перегородка для уединения.
+ent-RMCHospitalDivider = больничная перегородка
+  .desc = Больничная перегородка для уединения.
 

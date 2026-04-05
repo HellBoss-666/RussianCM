@@ -1,6 +1,6 @@
 ﻿rmc-intel-suffix = {$baseName} ({$number})
 rmc-intel-unlocked = {$baseName} ({$unlocked})
-rmc-intel-serial-name = {$baseName} №{$serial}
+rmc-intel-serial = {$baseName} №{$serial}
 rmc-intel-serial-examine = Серийный номер: {$serial}.
 rmc-intel-announcement = ТЕХОТЧЁТ: доступно {$points} очков.
 rmc-intel-announcement-gain = ТЕХОТЧЁТ: доступно {$points} очков (+{$change}).

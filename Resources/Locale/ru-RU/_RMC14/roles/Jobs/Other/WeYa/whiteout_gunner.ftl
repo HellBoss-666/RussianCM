@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidPMCWhiteoutGunner-name = DEATHSQUAD ЧВК в роли призрака, наводчика в темноте
+ent-RMCRandomHumanoidPMCWhiteoutGunner = DEATHSQUAD ЧВК в роли призрака, наводчика в темноте
 

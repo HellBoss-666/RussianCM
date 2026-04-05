@@ -1,6 +1,6 @@
-ent-RMCGuidebookRoleCE-name = CE
-ent-RMCGuidebookRoleCE-desc = Главный инженер.
+ent-RMCGuidebookRoleCE = CE
+  .desc = Главный инженер.
 
-ent-CMSpawnPointChiefEngineer-name = точка появления главного инженера
-ent-CMSpawnPointChiefEngineer-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointChiefEngineer = точка появления главного инженера
+  .desc = Создатель заданий RMC14. 
 

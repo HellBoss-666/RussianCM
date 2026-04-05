@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidProvostTeamLeader-name = руководитель группы роли призрака провоста
+ent-RMCRandomHumanoidProvostTeamLeader = руководитель группы роли призрака провоста
 

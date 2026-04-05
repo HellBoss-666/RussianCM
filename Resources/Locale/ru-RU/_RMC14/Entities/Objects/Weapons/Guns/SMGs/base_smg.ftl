@@ -1,2 +1,2 @@
-ent-CMCartridgeSMGBase-name = патрон (.25 безгильзовый)
+ent-CMCartridgeSMGBase = патрон (.25 безгильзовый)
 

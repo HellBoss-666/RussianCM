@@ -1,2 +1,2 @@
-ent-CMScopingChunkLoader-name = ОБЪЕМ ЧАНКА ЗАГРУЗЧИКА ВЫ НЕ ДОЛЖНЫ ВИДИТЬ ЭТО
+ent-CMScopingChunkLoader = ОБЪЕМ ЧАНКА ЗАГРУЗЧИКА ВЫ НЕ ДОЛЖНЫ ВИДИТЬ ЭТО
 

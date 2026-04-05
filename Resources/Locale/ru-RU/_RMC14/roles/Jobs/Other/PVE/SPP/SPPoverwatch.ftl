@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSPPPlatCoPVE-name = точка спавна командира взвода спп
-ent-RMCSpawnPointSPPPlatCoPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSPPPlatCoPVE = точка спавна командира взвода спп
+  .desc = Создатель заданий RMC14. 
 

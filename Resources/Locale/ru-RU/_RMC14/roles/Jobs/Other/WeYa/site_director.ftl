@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCSiteDirector-name = точка появления директора Weya PMC
-ent-RMCSpawnPointPMCSiteDirector-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCSiteDirector = точка появления директора Weya PMC
+  .desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCDirector-name = Weya PMC — режиссер роли-призрака
+ent-RMCRandomHumanoidPMCDirector = Weya PMC — режиссер роли-призрака
 

@@ -1,6 +1,6 @@
-ent-CMWindoorAssemblySecure-name = надежный монтаж оконной двери
-ent-CMWindoorAssemblySecure-desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
+ent-CMWindoorAssemblySecure = надежный монтаж оконной двери
+  .desc = Он открывается, закрывается, и вы можете видеть сквозь него! 
 
-ent-CMWindoorAssembly-name = оконная сборка
-ent-CMWindoorAssembly-desc = Он открывается, закрывается, и вы можете видеть сквозь него!
+ent-CMWindoorAssembly = оконная сборка
+  .desc = Он открывается, закрывается, и вы можете видеть сквозь него!
 

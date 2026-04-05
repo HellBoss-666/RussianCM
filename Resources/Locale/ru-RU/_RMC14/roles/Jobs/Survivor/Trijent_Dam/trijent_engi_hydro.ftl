@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentEngiHydro-name = Предварительная настройка инженера-гидроэлектрика-колониста
+ent-RMCGearSurvivorPresetTrijentEngiHydro = Предварительная настройка инженера-гидроэлектрика-колониста
 
-ent-RMCSpawnPointSurvivorTrijentEngiHydro-name = точка возрождения выжившего гидроэлектрика
-ent-RMCSpawnPointSurvivorTrijentEngiHydro-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorTrijentEngiHydro = точка возрождения выжившего гидроэлектрика
+  .desc = Создатель заданий RMC14. 
 

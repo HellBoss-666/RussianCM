@@ -1,24 +1,24 @@
-ent-RMCToolboxSyndicate-name = подозрительный ящик для инструментов
-ent-RMCToolboxSyndicate-desc = Компактный и подозрительно выглядящий ящик для инструментов. 
+ent-RMCToolboxSyndicate = подозрительный ящик для инструментов
+  .desc = Компактный и подозрительно выглядящий ящик для инструментов. 
 
-ent-RMCToolboxMechanical-name = механический ящик для инструментов
+ent-RMCToolboxMechanical = механический ящик для инструментов
 
-ent-RMCToolboxElectrical-name = электрический ящик для инструментов
+ent-RMCToolboxElectrical = электрический ящик для инструментов
 
-ent-RMCToolboxEmergency-name = аварийный ящик для инструментов
+ent-RMCToolboxEmergency = аварийный ящик для инструментов
 
-ent-RMCToolboxBase-name = предмет хранения
+ent-RMCToolboxBase = предмет хранения
 
-ent-RMCToolboxEmergencyFilled-name = аварийный ящик для инструментов
+ent-RMCToolboxEmergencyFilled = аварийный ящик для инструментов
 
-ent-RMCToolboxElectricalFilled-name = электрический ящик для инструментов
+ent-RMCToolboxElectricalFilled = электрический ящик для инструментов
 
-ent-RMCToolboxMechanicalFilled-name = механический ящик для инструментов
+ent-RMCToolboxMechanicalFilled = механический ящик для инструментов
 
-ent-RMCToolboxMechanicalGreen-name = механический ящик для инструментов
+ent-RMCToolboxMechanicalGreen = механический ящик для инструментов
 
-ent-RMCToolboxMechanicalGreenFilled-name = механический ящик для инструментов
+ent-RMCToolboxMechanicalGreenFilled = механический ящик для инструментов
 
-ent-RMCToolboxSyndicateFilled-name = подозрительный ящик для инструментов
-ent-RMCToolboxSyndicateFilled-desc = Компактный и подозрительно выглядящий ящик для инструментов. 
+ent-RMCToolboxSyndicateFilled = подозрительный ящик для инструментов
+  .desc = Компактный и подозрительно выглядящий ящик для инструментов. 
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoEngineer-name = Кутьевский инженер-колонист пресет
+ent-RMCGearSurvivorPresetKutjevoEngineer = Кутьевский инженер-колонист пресет
 
-ent-RMCSpawnPointSurvivorKutjevoEngineer-name = выживший инженер Кутьево, точка появления инженера
-ent-RMCSpawnPointSurvivorKutjevoEngineer-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorKutjevoEngineer = выживший инженер Кутьево, точка появления инженера
+  .desc = Создатель заданий RMC14. 
 

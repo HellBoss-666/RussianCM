@@ -1,46 +1,46 @@
-ent-RMCDoubleDoorBase-name = дверь
+ent-RMCDoubleDoorBase = дверь
 
-ent-RMCDoubleDoorAlmayerGlass-name = дверь
+ent-RMCDoubleDoorAlmayerGlass = дверь
 
-ent-RMCDoubleDoorAlmayerSolid-name = дверь
+ent-RMCDoubleDoorAlmayerSolid = дверь
 
-ent-RMCDoubleDoorCommandGlass-name = дверь
+ent-RMCDoubleDoorCommandGlass = дверь
 
-ent-RMCDoubleDoorCommandSolid-name = дверь
+ent-RMCDoubleDoorCommandSolid = дверь
 
-ent-RMCDoubleDoorEngineerGlass-name = дверь
+ent-RMCDoubleDoorEngineerGlass = дверь
 
-ent-RMCDoubleDoorEngineerSolid-name = дверь
+ent-RMCDoubleDoorEngineerSolid = дверь
 
-ent-RMCDoubleDoorGenericGlass-name = дверь
+ent-RMCDoubleDoorGenericGlass = дверь
 
-ent-RMCDoubleDoorGenericSolid-name = дверь
+ent-RMCDoubleDoorGenericSolid = дверь
 
-ent-RMCDoubleDoorMedicalGlass-name = дверь
+ent-RMCDoubleDoorMedicalGlass = дверь
 
-ent-RMCDoubleDoorMedicalSolid-name = дверь
+ent-RMCDoubleDoorMedicalSolid = дверь
 
-ent-RMCDoubleDoorPersonalGlass-name = дверь
+ent-RMCDoubleDoorPersonalGlass = дверь
 
-ent-RMCDoubleDoorPersonalSolid-name = дверь
+ent-RMCDoubleDoorPersonalSolid = дверь
 
-ent-RMCDoubleDoorPreparations-name = дверь
+ent-RMCDoubleDoorPreparations = дверь
 
-ent-RMCDoubleDoorPreparationsAlpha-name = дверь
+ent-RMCDoubleDoorPreparationsAlpha = дверь
 
-ent-RMCDoubleDoorPreparationsBravo-name = дверь
+ent-RMCDoubleDoorPreparationsBravo = дверь
 
-ent-RMCDoubleDoorPreparationsCharlie-name = дверь
+ent-RMCDoubleDoorPreparationsCharlie = дверь
 
-ent-RMCDoubleDoorPreparationsDelta-name = дверь
+ent-RMCDoubleDoorPreparationsDelta = дверь
 
-ent-RMCDoubleDoorSecurityGlass-name = дверь
+ent-RMCDoubleDoorSecurityGlass = дверь
 
-ent-RMCDoubleDoorSecuritySolid-name = дверь
+ent-RMCDoubleDoorSecuritySolid = дверь
 
-ent-RMCDoubleDoorSPPShipGlass-name = дверь
+ent-RMCDoubleDoorSPPShipGlass = дверь
 
-ent-RMCDoubleDoorSPPShipSolid-name = дверь
+ent-RMCDoubleDoorSPPShipSolid = дверь
 
-ent-RMCDoubleDoorSPPShipSolidUtility-name = дверь
+ent-RMCDoubleDoorSPPShipSolidUtility = дверь
 

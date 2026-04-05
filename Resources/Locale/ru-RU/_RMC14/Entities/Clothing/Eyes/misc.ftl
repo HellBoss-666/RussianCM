@@ -1,6 +1,6 @@
-ent-RMCEyepatchWhite-name = повязка на глазу
-ent-RMCEyepatchWhite-desc = Ярр.
+ent-RMCEyepatchWhite = повязка на глазу
+  .desc = Ярр.
 
-ent-RMCEyepatchWhiteFlipped-name = повязка на глазу
-ent-RMCEyepatchWhiteFlipped-desc = Ярр.
+ent-RMCEyepatchWhiteFlipped = повязка на глазу
+  .desc = Ярр.
 

@@ -1,3 +1,3 @@
-ent-RMCHydroElectricGenerator-name = Гидроэлектрический Генератор
-ent-RMCHydroElectricGenerator-desc = Мощный гидроэлектрогенератор.
+ent-RMCHydroElectricGenerator = Гидроэлектрический Генератор
+  .desc = Мощный гидроэлектрогенератор.
 

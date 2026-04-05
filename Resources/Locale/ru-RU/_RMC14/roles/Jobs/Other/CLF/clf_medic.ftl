@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidCLFMedic-name = clf роль призрака медик
+ent-RMCRandomHumanoidCLFMedic = clf роль призрака медик
 

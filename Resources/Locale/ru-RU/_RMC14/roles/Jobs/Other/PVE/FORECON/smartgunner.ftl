@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVESmartgunner-name = точка появления Forecon Smartgunner
-ent-RMCSpawnPointFORECONPVESmartgunner-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointFORECONPVESmartgunner = точка появления Forecon Smartgunner
+  .desc = Создатель заданий RMC14. 
 

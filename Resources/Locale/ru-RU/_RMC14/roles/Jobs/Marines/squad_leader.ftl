@@ -1,24 +1,24 @@
-ent-RMCGuidebookActionFocus-name = Порядок фокусировки
+ent-RMCGuidebookActionFocus = Порядок фокусировки
 
-ent-RMCGuidebookActionHold-name = Удержать заказ
+ent-RMCGuidebookActionHold = Удержать заказ
 
-ent-RMCGuidebookActionMove-name = Переместить заказ
+ent-RMCGuidebookActionMove = Переместить заказ
 
-ent-CMSpawnPointSquadLeader-name = точка появления командира отряда
-ent-CMSpawnPointSquadLeader-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointSquadLeader = точка появления командира отряда
+  .desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderAlpha-name = точка появления командира отряда
-ent-CMSpawnPointSquadLeaderAlpha-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointSquadLeaderAlpha = точка появления командира отряда
+  .desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderBravo-name = точка появления командира отряда
-ent-CMSpawnPointSquadLeaderBravo-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointSquadLeaderBravo = точка появления командира отряда
+  .desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderCharlie-name = точка появления командира отряда
-ent-CMSpawnPointSquadLeaderCharlie-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointSquadLeaderCharlie = точка появления командира отряда
+  .desc = Создатель заданий RMC14. 
 
-ent-CMSpawnPointSquadLeaderDelta-name = точка появления командира отряда
-ent-CMSpawnPointSquadLeaderDelta-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointSquadLeaderDelta = точка появления командира отряда
+  .desc = Создатель заданий RMC14. 
 
-ent-RMCGuidebookRoleSL-name = Лидер отряда
-ent-RMCGuidebookRoleSL-desc = Лидер отряда
+ent-RMCGuidebookRoleSL = Лидер отряда
+  .desc = Лидер отряда
 

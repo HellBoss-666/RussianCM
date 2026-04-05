@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetKutjevoCorporate-name = предустановка связи Кутьево
+ent-RMCGearSurvivorPresetKutjevoCorporate = предустановка связи Кутьево
 
-ent-RMCSpawnPointSurvivorKutjevoCorporate-name = survivor kutjevo liaison spawn point
-ent-RMCSpawnPointSurvivorKutjevoCorporate-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorKutjevoCorporate = survivor kutjevo liaison spawn point
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

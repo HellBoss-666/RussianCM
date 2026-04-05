@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPVEHybrisaCivilian-name = гражданская точка появления гибриды
-ent-RMCSpawnPointPVEHybrisaCivilian-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPVEHybrisaCivilian = гражданская точка появления гибриды
+  .desc = Создатель заданий RMC14. 
 

@@ -1,39 +1,39 @@
-ent-RMCGrenadeIED-name = граната
-ent-RMCGrenadeIED-desc = Утка и накрытие.
+ent-RMCGrenadeIED = граната
+  .desc = Утка и накрытие.
 
-ent-RMCGrenadeMolotov-name = импровизированная зажигательная бомба
-ent-RMCGrenadeMolotov-desc = Мощная импровизированная зажигательная бомба, смешанная с щепоткой пороха. 
+ent-RMCGrenadeMolotov = импровизированная зажигательная бомба
+  .desc = Мощная импровизированная зажигательная бомба, смешанная с щепоткой пороха. 
 
-ent-RMCGrenadeIncendiary-name = 30-мм зажигательная граната HIDP
-ent-RMCGrenadeIncendiary-desc = 30-мм HIDP — это небольшая, но обманчиво мощная зажигательная граната, предназначенная для нарушения мобильности противника с помощью напалма типа B длительного действия. 
+ent-RMCGrenadeIncendiary = 30-мм зажигательная граната HIDP
+  .desc = 30-мм HIDP — это небольшая, но обманчиво мощная зажигательная граната, предназначенная для нарушения мобильности противника с помощью напалма типа B длительного действия. 
 
-ent-RMCGrenadeTraining-name = граната
-ent-RMCGrenadeTraining-desc = Утка и накрытие.
+ent-RMCGrenadeTraining = граната
+  .desc = Утка и накрытие.
 
-ent-RMCGrenadeBlastM12-name = Взрывная граната М12
-ent-RMCGrenadeBlastM12-desc = Фугасная граната, выпускаемая для частных охранных предприятий. 
+ent-RMCGrenadeBlastM12 = Взрывная граната М12
+  .desc = Фугасная граната, выпускаемая для частных охранных предприятий. 
 
-ent-CMGrenadeFragOld-name = Осколочная граната М15
-ent-CMGrenadeFragOld-desc = Устаревшая осколочная граната UNMC. 
+ent-CMGrenadeFragOld = Осколочная граната М15
+  .desc = Устаревшая осколочная граната UNMC. 
 
-ent-CMGrenadeFrag-name = 30-мм граната HEFA
-ent-CMGrenadeFrag-desc = Осколочно-фугасно-противопехотный. 
+ent-CMGrenadeFrag = 30-мм граната HEFA
+  .desc = Осколочно-фугасно-противопехотный. 
 
-ent-CMGrenadeSmoke-name = 30-мм дымовая граната HSDP
-ent-CMGrenadeSmoke-desc = 30-мм HSDP — небольшая, но мощная дымовая граната. 
+ent-CMGrenadeSmoke = 30-мм дымовая граната HSDP
+  .desc = 30-мм HSDP — небольшая, но мощная дымовая граната. 
 
-ent-CMGrenadeHighExplosive-name = 30-мм граната HEDP
-ent-CMGrenadeHighExplosive-desc = Фугасный двойного назначения. 
+ent-CMGrenadeHighExplosive = 30-мм граната HEDP
+  .desc = Фугасный двойного назначения. 
 
-ent-RMCGrenadeFlashBang-name = граната
-ent-RMCGrenadeFlashBang-desc = Утка и накрытие.
+ent-RMCGrenadeFlashBang = граната
+  .desc = Утка и накрытие.
 
-ent-CMGrenadeBase-name = граната
-ent-CMGrenadeBase-desc = Утка и накрытие.
+ent-CMGrenadeBase = граната
+  .desc = Утка и накрытие.
 
-ent-RMCGrenade20mmIncendiary-name = 20-мм зажигательная граната L109A2
-ent-RMCGrenade20mmIncendiary-desc = 20-мм граната, при ударе создающая пламя. 
+ent-RMCGrenade20mmIncendiary = 20-мм зажигательная граната L109A2
+  .desc = 20-мм граната, при ударе создающая пламя. 
 
-ent-RMCGrenade20mmHE-name = L109A1 20-мм осколочно-фугасная граната
-ent-RMCGrenade20mmHE-desc = 20-мм граната, взрывающаяся при ударе. 
+ent-RMCGrenade20mmHE = L109A1 20-мм осколочно-фугасная граната
+  .desc = 20-мм граната, взрывающаяся при ударе. 
 

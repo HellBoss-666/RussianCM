@@ -1,3 +1,3 @@
-ent-RMCSpawnPointTSEPASeniorConstable-name = точка появления старшего констебля цепы
-ent-RMCSpawnPointTSEPASeniorConstable-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointTSEPASeniorConstable = точка появления старшего констебля цепы
+  .desc = Создатель заданий RMC14. 
 

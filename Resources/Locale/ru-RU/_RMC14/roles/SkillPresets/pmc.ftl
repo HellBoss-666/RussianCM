@@ -1,2 +1,2 @@
-ent-RMCSkillPresetPMCCommando-name = Выживший Ви-Я Коммандос
+ent-RMCSkillPresetPMCCommando = Выживший Ви-Я Коммандос
 

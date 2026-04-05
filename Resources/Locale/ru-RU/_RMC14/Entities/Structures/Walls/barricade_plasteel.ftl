@@ -1,4 +1,4 @@
-ent-CMBarricadePlasteelDoor-name = складная пластальная баррикада
+ent-CMBarricadePlasteelDoor = складная пластальная баррикада
 
-ent-RMCBarricadePlasteel-name = пластальная баррикада
+ent-RMCBarricadePlasteel = пластальная баррикада
 

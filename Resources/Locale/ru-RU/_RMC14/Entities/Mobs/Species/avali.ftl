@@ -1,2 +1,2 @@
-ent-CMMobAvali-name = Урист CM McRaptor
+ent-CMMobAvali = Урист CM McRaptor
 

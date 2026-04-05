@@ -1,10 +1,10 @@
-ent-RMCRandomHumanoidSPPKommissarNeutral-name = роль призрака комиссара
+ent-RMCRandomHumanoidSPPKommissarNeutral = роль призрака комиссара
 
-ent-RMCRandomHumanoidSPPBattalionKommissarNeutral-name = Роль призрака батальонного комиссара
+ent-RMCRandomHumanoidSPPBattalionKommissarNeutral = Роль призрака батальонного комиссара
 
-ent-RMCRandomHumanoidSPPSrBattalionKommissarNeutral-name = Старший батальон.
+ent-RMCRandomHumanoidSPPSrBattalionKommissarNeutral = Старший батальон.
 
-ent-RMCRandomHumanoidSPPRegimentalKommissarNeutral-name = Роль призрака полкового комиссара
+ent-RMCRandomHumanoidSPPRegimentalKommissarNeutral = Роль призрака полкового комиссара
 
-ent-RMCRandomHumanoidSPPBrigadeKommissarNeutral-name = Роль призрака бригадного комиссара
+ent-RMCRandomHumanoidSPPBrigadeKommissarNeutral = Роль призрака бригадного комиссара
 

@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetArmyReservist-name = Предварительная настройка народного вооруженного полицейского
+ent-RMCGearSurvivorPresetArmyReservist = Предварительная настройка народного вооруженного полицейского
 
-ent-RMCSpawnPointSurvivorArmyReservist-name = точка появления армейских резервистов
-ent-RMCSpawnPointSurvivorArmyReservist-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorArmyReservist = точка появления армейских резервистов
+  .desc = Создатель заданий RMC14. 
 

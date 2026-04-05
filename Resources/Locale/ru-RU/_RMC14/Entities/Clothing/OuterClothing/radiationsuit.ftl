@@ -1,6 +1,6 @@
-ent-RMCSuitRadiation-name = радиационный костюм
-ent-RMCSuitRadiation-desc = Костюм, защищающий от радиации. 
+ent-RMCSuitRadiation = радиационный костюм
+  .desc = Костюм, защищающий от радиации. 
 
-ent-RMCSuitTychoRadiationSuit-name = Радиационный костюм Тихо 4000
-ent-RMCSuitTychoRadiationSuit-desc = Огнестойкий костюм радиационной защиты Weston-Yamada Tycho 4000. 
+ent-RMCSuitTychoRadiationSuit = Радиационный костюм Тихо 4000
+  .desc = Огнестойкий костюм радиационной защиты Weston-Yamada Tycho 4000. 
 

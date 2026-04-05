@@ -1,48 +1,48 @@
-ent-RMCAttachmentLaserLightModule-name = элемент
+ent-RMCAttachmentLaserLightModule = элемент
 
-ent-RMCAttachmentFlashlightGrip-name = элемент
+ent-RMCAttachmentFlashlightGrip = элемент
 
-ent-RMCAttachmentVerticalGrip-name = элемент
+ent-RMCAttachmentVerticalGrip = элемент
 
-ent-RMCAttachmentM203GrenadeLauncher-name = элемент
+ent-RMCAttachmentM203GrenadeLauncher = элемент
 
-ent-RMCAttachmentMK1GrenadeLauncher-name = элемент
+ent-RMCAttachmentMK1GrenadeLauncher = элемент
 
-ent-RMCAttachmentU1GrenadeLauncher-name = элемент
+ent-RMCAttachmentU1GrenadeLauncher = элемент
 
-ent-RMCAttachmentUnderbarrelExtinguisher-name = Подствольный огнетушитель ТМЭ-12
-ent-RMCAttachmentUnderbarrelExtinguisher-desc = Подствольный огнетушитель Taiho-Technologies HME-12. 
+ent-RMCAttachmentUnderbarrelExtinguisher = Подствольный огнетушитель ТМЭ-12
+  .desc = Подствольный огнетушитель Taiho-Technologies HME-12. 
 
-ent-RMCAttachmentU7UnderbarrelShotgun-name = элемент
+ent-RMCAttachmentU7UnderbarrelShotgun = элемент
 
-ent-CMAttachmentXMVESG1FlamerNozzle-name = Сопло огнеметное ХМ-ВЕСГ-1
-ent-CMAttachmentXMVESG1FlamerNozzle-desc = Специальное сопло, предназначенное для модификации огнеметов для использования в наступательных целях. 
+ent-CMAttachmentXMVESG1FlamerNozzle = Сопло огнеметное ХМ-ВЕСГ-1
+  .desc = Специальное сопло, предназначенное для модификации огнеметов для использования в наступательных целях. 
 
-ent-RMCAttachmentMiniFlamethrower-name = подствольный огнемет
-ent-RMCAttachmentMiniFlamethrower-desc = Многоразовый огнемет, устанавливаемый на оружие. 
+ent-RMCAttachmentMiniFlamethrower = подствольный огнемет
+  .desc = Многоразовый огнемет, устанавливаемый на оружие. 
 
-ent-RMCAttachmentLaserSight-name = элемент
+ent-RMCAttachmentLaserSight = элемент
 
-ent-RMCAttachmentGyroscopicStabilizer-name = элемент
+ent-RMCAttachmentGyroscopicStabilizer = элемент
 
-ent-RMCAttachmentBurstFireAssembly-name = элемент
+ent-RMCAttachmentBurstFireAssembly = элемент
 
-ent-RMCAttachmentBipod-name = элемент
+ent-RMCAttachmentBipod = элемент
 
-ent-RMCAttachmentAngledGrip-name = элемент
+ent-RMCAttachmentAngledGrip = элемент
 
-ent-RMCUnderAttachmentBase-name = элемент
+ent-RMCUnderAttachmentBase = элемент
 
-ent-RMCAttachmentMicroLaserSight-name = элемент
+ent-RMCAttachmentMicroLaserSight = элемент
 
-ent-RMCAttachmentUnderbarrelExtinguisherSpec-name = Подствольный огнетушитель ХМЕ-88Б
-ent-RMCAttachmentUnderbarrelExtinguisherSpec-desc = Экспериментальный подствольный огнетушитель Taiho-Technologies HME-88B, интегрированный с некоторыми моделями пистолетов. 
+ent-RMCAttachmentUnderbarrelExtinguisherSpec = Подствольный огнетушитель ХМЕ-88Б
+  .desc = Экспериментальный подствольный огнетушитель Taiho-Technologies HME-88B, интегрированный с некоторыми моделями пистолетов. 
 
-ent-RMCAttachmentL91Bipod-name = элемент
+ent-RMCAttachmentL91Bipod = элемент
 
-ent-RMCAttachmentL90GL-name = элемент
+ent-RMCAttachmentL90GL = элемент
 
-ent-RMCAttachmentL90UBS-name = элемент
+ent-RMCAttachmentL90UBS = элемент
 
-ent-RMCAttachmentL88Grip-name = элемент
+ent-RMCAttachmentL88Grip = элемент
 

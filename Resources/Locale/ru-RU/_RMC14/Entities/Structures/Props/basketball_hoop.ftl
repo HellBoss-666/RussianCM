@@ -1,6 +1,6 @@
-ent-RMCBasketballHoop-name = баскетбольное кольцо
-ent-RMCBasketballHoop-desc = Бум, Шакалака!
+ent-RMCBasketballHoop = баскетбольное кольцо
+  .desc = Бум, Шакалака!
 
-ent-RMCBasketballHoopAlt-name = basketball hoop
-ent-RMCBasketballHoopAlt-desc = Boom, Shakalaka!
+ent-RMCBasketballHoopAlt = basketball hoop
+  .desc = Boom, Shakalaka!
 

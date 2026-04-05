@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetTrijentChaplain-name = предустановка капеллана триджента
+ent-RMCGearSurvivorPresetTrijentChaplain = предустановка капеллана триджента
 
-ent-RMCSpawnPointSurvivorTrijentChaplain-name = точка появления капеллана выжившего триджента
-ent-RMCSpawnPointSurvivorTrijentChaplain-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorTrijentChaplain = точка появления капеллана выжившего триджента
+  .desc = Создатель заданий RMC14. 
 

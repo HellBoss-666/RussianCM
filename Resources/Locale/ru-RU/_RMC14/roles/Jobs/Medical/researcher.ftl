@@ -1,3 +1,3 @@
-ent-CMSpawnPointResearcher-name = точка появления исследователя
-ent-CMSpawnPointResearcher-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointResearcher = точка появления исследователя
+  .desc = Создатель заданий RMC14. 
 

@@ -1,202 +1,202 @@
-ent-RMCAreaStrataInteriorOutpostClfOffice-name = Крайний Северный офис
+ent-RMCAreaStrataInteriorOutpostClfOffice = Крайний Северный офис
 
-ent-RMCAreaStrataInteriorOutpostClfDorms-name = Общежитие Крайнего Севера
+ent-RMCAreaStrataInteriorOutpostClfDorms = Общежитие Крайнего Севера
 
-ent-RMCAreaStrataInteriorCheckpointsClf-name = Бронированный блокпост Крайнего Севера
+ent-RMCAreaStrataInteriorCheckpointsClf = Бронированный блокпост Крайнего Севера
 
-ent-RMCAreaStrataExteriorRestricted-name = Суперсекретная комната кредитов
+ent-RMCAreaStrataExteriorRestricted = Суперсекретная комната кредитов
 
-ent-RMCAreaStrataInteriorResearch-name = Глубокие джунгли — секретная исследовательская станция
+ent-RMCAreaStrataInteriorResearch = Глубокие джунгли — секретная исследовательская станция
 
-ent-RMCAreaStrataInteriorPlanetCoreResearchStation-name = Глубокие джунгли — исследовательская станция мониторинга ядра планеты
+ent-RMCAreaStrataInteriorPlanetCoreResearchStation = Глубокие джунгли — исследовательская станция мониторинга ядра планеты
 
-ent-RMCAreaStrataExteriorDeepJungleTearlake-name = Глубокие джунгли – Плачущий пруд
+ent-RMCAreaStrataExteriorDeepJungleTearlake = Глубокие джунгли – Плачущий пруд
 
-ent-RMCAreaStrataExteriorDeepJungleRuin-name = Глубокие джунгли — древние общежития
+ent-RMCAreaStrataExteriorDeepJungleRuin = Глубокие джунгли — древние общежития
 
-ent-RMCAreaStrataExteriorDeepJunglePlanetCoreResearchStationExterior-name = Глубокие джунгли — исследовательская станция мониторинга ядра планеты
+ent-RMCAreaStrataExteriorDeepJunglePlanetCoreResearchStationExterior = Глубокие джунгли — исследовательская станция мониторинга ядра планеты
 
-ent-RMCAreaStrataExteriorDeepJungleEast-name = Глубокие джунгли — к востоку от мониторинга ядра планеты.
+ent-RMCAreaStrataExteriorDeepJungleEast = Глубокие джунгли — к востоку от мониторинга ядра планеты.
 
-ent-RMCAreaStrataExteriorDeepJungleSouth-name = Глубокие джунгли — к югу от мониторинга ядра планеты
+ent-RMCAreaStrataExteriorDeepJungleSouth = Глубокие джунгли — к югу от мониторинга ядра планеты
 
-ent-RMCAreaStrataExteriorDeepJungleWest-name = Глубокие джунгли — к западу от мониторинга ядра планеты.
+ent-RMCAreaStrataExteriorDeepJungleWest = Глубокие джунгли — к западу от мониторинга ядра планеты.
 
-ent-RMCAreaStrataExteriorDeepJungleNorth-name = Глубокие джунгли — к югу от секретной исследовательской станции.
+ent-RMCAreaStrataExteriorDeepJungleNorth = Глубокие джунгли — к югу от секретной исследовательской станции.
 
-ent-RMCAreaStrataExteriorDeepJungleOldTunnels-name = Глубокие джунгли – Старый путь – к западу от секретной исследовательской станции.
+ent-RMCAreaStrataExteriorDeepJungleOldTunnels = Глубокие джунгли – Старый путь – к западу от секретной исследовательской станции.
 
-ent-RMCAreaStrataExteriorDeepJungleHotSprings-name = Глубокие джунгли – Горячие источники
+ent-RMCAreaStrataExteriorDeepJungleHotSprings = Глубокие джунгли – Горячие источники
 
-ent-RMCAreaStrataExteriorDeepJunglePlatformEast-name = Глубокие джунгли — к востоку от платформы.
+ent-RMCAreaStrataExteriorDeepJunglePlatformEast = Глубокие джунгли — к востоку от платформы.
 
-ent-RMCAreaStrataExteriorDeepJunglePlatform-name = Глубокие джунгли — к югу от платформы.
+ent-RMCAreaStrataExteriorDeepJunglePlatform = Глубокие джунгли — к югу от платформы.
 
-ent-RMCAreaStrataExteriorDeepJungleCarplakeEast-name = Глубокие джунгли — к востоку от Карпового озера.
+ent-RMCAreaStrataExteriorDeepJungleCarplakeEast = Глубокие джунгли — к востоку от Карпового озера.
 
-ent-RMCAreaStrataExteriorDeepJungleCarplakeNorth-name = Глубокие джунгли — к северу от Карпового озера.
+ent-RMCAreaStrataExteriorDeepJungleCarplakeNorth = Глубокие джунгли — к северу от Карпового озера.
 
-ent-RMCAreaStrataExteriorDeepJungle-name = Не используйте.
+ent-RMCAreaStrataExteriorDeepJungle = Не используйте.
 
-ent-RMCAreaStrataExteriorCarplakeCenter-name = Глубокие джунгли — остров Лейк-Центр
+ent-RMCAreaStrataExteriorCarplakeCenter = Глубокие джунгли — остров Лейк-Центр
 
-ent-RMCAreaStrataExteriorOutpostPlatform-name = Глубокие джунгли — Платформа
+ent-RMCAreaStrataExteriorOutpostPlatform = Глубокие джунгли — Платформа
 
-ent-RMCAreaStrataInteriorUndergroundDormsBotany-name = Ботаническая исследовательская станция
+ent-RMCAreaStrataInteriorUndergroundDormsBotany = Ботаническая исследовательская станция
 
-ent-RMCAreaStrataInteriorUndergroundDormsMed2-name = Глубокие джунгли — Медицинское общежитие \#2
+ent-RMCAreaStrataInteriorUndergroundDormsMed2 = Глубокие джунгли — Медицинское общежитие \#2
 
-ent-RMCAreaStrataInteriorUndergroundDormsMed1-name = Глубокие джунгли — Медицинское общежитие \#1
+ent-RMCAreaStrataInteriorUndergroundDormsMed1 = Глубокие джунгли — Медицинское общежитие \#1
 
-ent-RMCAreaStrataInteriorUndergroundDormsAdmin4-name = Глубокие джунгли — Общежитие Генерального штаба \#4
+ent-RMCAreaStrataInteriorUndergroundDormsAdmin4 = Глубокие джунгли — Общежитие Генерального штаба \#4
 
-ent-RMCAreaStrataInteriorUndergroundDormsAdmin3-name = Глубокие джунгли — Общежитие Генерального штаба \#3
+ent-RMCAreaStrataInteriorUndergroundDormsAdmin3 = Глубокие джунгли — Общежитие Генерального штаба \#3
 
-ent-RMCAreaStrataInteriorUndergroundDormsAdmin2-name = Глубокие джунгли — Общежитие Генерального штаба \#2
+ent-RMCAreaStrataInteriorUndergroundDormsAdmin2 = Глубокие джунгли — Общежитие Генерального штаба \#2
 
-ent-RMCAreaStrataInteriorUndergroundDormsAdmin1-name = Глубокие джунгли — Общежитие Генерального штаба \#1
+ent-RMCAreaStrataInteriorUndergroundDormsAdmin1 = Глубокие джунгли — Общежитие Генерального штаба \#1
 
-ent-RMCAreaStrataInteriorUndergroundDormsSec2-name = Глубокие джунгли — общежитие охраны \#2
+ent-RMCAreaStrataInteriorUndergroundDormsSec2 = Глубокие джунгли — общежитие охраны \#2
 
-ent-RMCAreaStrataInteriorUndergroundDormsSec1-name = Глубокие джунгли — общежитие охраны \#1
+ent-RMCAreaStrataInteriorUndergroundDormsSec1 = Глубокие джунгли — общежитие охраны \#1
 
-ent-RMCAreaStrataInteriorUndergroundDorms-name = Не используйте.
+ent-RMCAreaStrataInteriorUndergroundDorms = Не используйте.
 
-ent-RMCAreaStrataInteriorSecureCheckpoint-name = Безопасный проход через контрольно-пропускной пункт
+ent-RMCAreaStrataInteriorSecureCheckpoint = Безопасный проход через контрольно-пропускной пункт
 
-ent-RMCAreaStrataInteriorBballCave-name = Аванпост — Пещеры Би-Болл
+ent-RMCAreaStrataInteriorBballCave = Аванпост — Пещеры Би-Болл
 
-ent-RMCAreaStrataInteriorBball-name = Outpost – баскетбольная площадка
+ent-RMCAreaStrataInteriorBball = Outpost – баскетбольная площадка
 
-ent-RMCAreaStrataExteriorPartsStorageCave-name = Инженерное дело – Складирование деталей снаружи
+ent-RMCAreaStrataExteriorPartsStorageCave = Инженерное дело – Складирование деталей снаружи
 
-ent-RMCAreaStrataExteriorPartsStorageExterior-name = Инженерное дело – Складирование деталей снаружи
+ent-RMCAreaStrataExteriorPartsStorageExterior = Инженерное дело – Складирование деталей снаружи
 
-ent-RMCAreaStrataInteriorGeneratorSubstation-name = Инжиниринг - Генераторная Подстанция
+ent-RMCAreaStrataInteriorGeneratorSubstation = Инжиниринг - Генераторная Подстанция
 
-ent-RMCAreaStrataInteriorPartsStorage-name = Инженерное дело – Хранение деталей
+ent-RMCAreaStrataInteriorPartsStorage = Инженерное дело – Хранение деталей
 
-ent-RMCAreaStrataInteriorCheckpointsOutpost-name = Аванпост — контрольно-пропускной пункт безопасности палубы
+ent-RMCAreaStrataInteriorCheckpointsOutpost = Аванпост — контрольно-пропускной пункт безопасности палубы
 
-ent-RMCAreaStrataInteriorCheckpointsSouth-name = Южный контрольно-пропускной пункт зоны приземления
+ent-RMCAreaStrataInteriorCheckpointsSouth = Южный контрольно-пропускной пункт зоны приземления
 
-ent-RMCAreaStrataInteriorCheckpointsWest-name = Западный контрольно-пропускной пункт зоны приземления
+ent-RMCAreaStrataInteriorCheckpointsWest = Западный контрольно-пропускной пункт зоны приземления
 
-ent-RMCAreaStrataInteriorCheckpointsNorth-name = Северный контрольно-пропускной пункт зоны приземления
+ent-RMCAreaStrataInteriorCheckpointsNorth = Северный контрольно-пропускной пункт зоны приземления
 
-ent-RMCAreaStrataInteriorCheckpointsNorthArmor-name = Бронированный контрольно-пропускной пункт Северной охраны
+ent-RMCAreaStrataInteriorCheckpointsNorthArmor = Бронированный контрольно-пропускной пункт Северной охраны
 
-ent-RMCAreaStrataInteriorWoodenRuins-name = Старое деревянное здание
+ent-RMCAreaStrataInteriorWoodenRuins = Старое деревянное здание
 
-ent-RMCAreaStrataInteriorWoodenHospital-name = Деревянная больница - Собственно больница
+ent-RMCAreaStrataInteriorWoodenHospital = Деревянная больница - Собственно больница
 
-ent-RMCAreaStrataInteriorAdministration-name = Офисы управления полетами
+ent-RMCAreaStrataInteriorAdministration = Офисы управления полетами
 
-ent-RMCAreaStrataInteriorMiningOutpostFlightControl-name = Горнодобывающая застава — Управление полетом
+ent-RMCAreaStrataInteriorMiningOutpostFlightControl = Горнодобывающая застава — Управление полетом
 
-ent-RMCAreaStrataInteriorMiningOutpostCanteen-name = Шахтерская застава – столовая общежития
+ent-RMCAreaStrataInteriorMiningOutpostCanteen = Шахтерская застава – столовая общежития
 
-ent-RMCAreaStrataInteriorMiningOutpostHive-name = Горнодобывающая застава — общежитие, геотермальное хранилище
+ent-RMCAreaStrataInteriorMiningOutpostHive = Горнодобывающая застава — общежитие, геотермальное хранилище
 
-ent-RMCAreaStrataInteriorMiningOutpostMaintenance-name = Горнодобывающая застава – Обслуживание общежития
+ent-RMCAreaStrataInteriorMiningOutpostMaintenance = Горнодобывающая застава – Обслуживание общежития
 
-ent-RMCAreaStrataInteriorMiningOutpostSouthDormitories-name = Горнодобывающая застава – Южные общежития
+ent-RMCAreaStrataInteriorMiningOutpostSouthDormitories = Горнодобывающая застава – Южные общежития
 
-ent-RMCAreaStrataInteriorMiningOutpost-name = Горнодобывающая застава — Центральный
+ent-RMCAreaStrataInteriorMiningOutpost = Горнодобывающая застава — Центральный
 
-ent-RMCAreaStrataInteriorOutpostCanteenBar-name = Аванпост - Бар
+ent-RMCAreaStrataInteriorOutpostCanteenBar = Аванпост - Бар
 
-ent-RMCAreaStrataInteriorOutpostCanteen-name = Застава - Столовая
+ent-RMCAreaStrataInteriorOutpostCanteen = Застава - Столовая
 
-ent-RMCAreaStrataInteriorOutpostAdmin-name = Аванпост - Администрация
+ent-RMCAreaStrataInteriorOutpostAdmin = Аванпост - Администрация
 
-ent-RMCAreaStrataInteriorOutpostSecurity-name = Аванпост - Безопасность
+ent-RMCAreaStrataInteriorOutpostSecurity = Аванпост - Безопасность
 
-ent-RMCAreaStrataInteriorSupplyShuttleSof-name = СПП-ДС-3 «Волк»
+ent-RMCAreaStrataInteriorSupplyShuttleSof = СПП-ДС-3 «Волк»
 
-ent-RMCAreaStrataInteriorShuttleSof-name = СПП-ДС-3 «Ворон»
+ent-RMCAreaStrataInteriorShuttleSof = СПП-ДС-3 «Ворон»
 
-ent-RMCAreaStrataInteriorOutpostEngiDromeShuttleMK3-name = ВДВК Орел Мк 3
+ent-RMCAreaStrataInteriorOutpostEngiDromeShuttleMK3 = ВДВК Орел Мк 3
 
-ent-RMCAreaStrataInteriorOutpostEngiDromeShuttle-name = Разобранный ВДВК Eagle Mk 4
+ent-RMCAreaStrataInteriorOutpostEngiDromeShuttle = Разобранный ВДВК Eagle Mk 4
 
-ent-RMCAreaStrataInteriorOutpostEngiDrome-name = Аванпост - Аэродом
+ent-RMCAreaStrataInteriorOutpostEngiDrome = Аванпост - Аэродом
 
-ent-RMCAreaStrataInteriorOutpostEngi-name = Аванпост – Инженерное дело
+ent-RMCAreaStrataInteriorOutpostEngi = Аванпост – Инженерное дело
 
-ent-RMCAreaStrataInteriorOutpostMed-name = Аванпост - Медицинский
+ent-RMCAreaStrataInteriorOutpostMed = Аванпост - Медицинский
 
-ent-RMCAreaStrataInteriorOutpostMaint-name = Застава – Столовая – Восточное обслуживание
+ent-RMCAreaStrataInteriorOutpostMaint = Застава – Столовая – Восточное обслуживание
 
-ent-RMCAreaStrataInteriorOutpostFoyer-name = Аванпост – Главное фойе
+ent-RMCAreaStrataInteriorOutpostFoyer = Аванпост – Главное фойе
 
-ent-RMCAreaStrataInteriorOutpost-name = Сорокинская застава
+ent-RMCAreaStrataInteriorOutpost = Сорокинская застава
 
-ent-RMCAreaStrataExteriorSouthOutpost-name = К югу от заставы
+ent-RMCAreaStrataExteriorSouthOutpost = К югу от заставы
 
-ent-RMCAreaStrataExteriorFarNorthOutpost-name = Крайний север заставы
+ent-RMCAreaStrataExteriorFarNorthOutpost = Крайний север заставы
 
-ent-RMCAreaStrataExteriorNorthOutpost-name = Аванпост — Северный канал доступа
+ent-RMCAreaStrataExteriorNorthOutpost = Аванпост — Северный канал доступа
 
-ent-RMCAreaStrataExteriorMiningOutpostExterior-name = Горнодобывающая застава — внешний вид
+ent-RMCAreaStrataExteriorMiningOutpostExterior = Горнодобывающая застава — внешний вид
 
-ent-RMCAreaStrataExteriorFlightControlExterior-name = Экстерьер управления полетом
+ent-RMCAreaStrataExteriorFlightControlExterior = Экстерьер управления полетом
 
-ent-RMCAreaStrataExteriorOutpostDecks-name = Аванпост - Колоды
+ent-RMCAreaStrataExteriorOutpostDecks = Аванпост - Колоды
 
-ent-RMCAreaStrataExteriorTcommsVehicleYard-name = Реле автомобильного двора
+ent-RMCAreaStrataExteriorTcommsVehicleYard = Реле автомобильного двора
 
-ent-RMCAreaStrataExteriorTcommsMiningCaves-name = Реле горного пути
+ent-RMCAreaStrataExteriorTcommsMiningCaves = Реле горного пути
 
-ent-RMCAreaStrataInteriorVanyard-name = Склад транспортных средств управления полетом
+ent-RMCAreaStrataInteriorVanyard = Склад транспортных средств управления полетом
 
-ent-RMCAreaStrataExteriorMarshWater-name = Геотермальная вода
+ent-RMCAreaStrataExteriorMarshWater = Геотермальная вода
 
-ent-RMCAreaStrataExteriorMarshCrash-name = Геотермальный разбившийся десантный корабль
+ent-RMCAreaStrataExteriorMarshCrash = Геотермальный разбившийся десантный корабль
 
-ent-RMCAreaStrataExteriorMarshRiver-name = Геотермальная река
+ent-RMCAreaStrataExteriorMarshRiver = Геотермальная река
 
-ent-RMCAreaStrataExteriorMarshCenter-name = Геотермальные источники
+ent-RMCAreaStrataExteriorMarshCenter = Геотермальные источники
 
-ent-RMCAreaStrataExteriorMarshRelayMarshes-name = Геотермальные релейные болота
+ent-RMCAreaStrataExteriorMarshRelayMarshes = Геотермальные релейные болота
 
-ent-RMCAreaStrataExteriorMarshIslandMarshes-name = Геотермальные островные болота
+ent-RMCAreaStrataExteriorMarshIslandMarshes = Геотермальные островные болота
 
-ent-RMCAreaStrataExteriorMarshWaterMarshes-name = Геотермальные воды болот
+ent-RMCAreaStrataExteriorMarshWaterMarshes = Геотермальные воды болот
 
-ent-RMCAreaStrataExteriorMarshSpringMarshes-name = Геотермальные источники Болота
+ent-RMCAreaStrataExteriorMarshSpringMarshes = Геотермальные источники Болота
 
-ent-RMCAreaStrataExteriorMarsh-name = Не используйте.
+ent-RMCAreaStrataExteriorMarsh = Не используйте.
 
-ent-RMCAreaStrataExteriorLzCaves-name = Путь внешнего горнодобывающего аэродрома
+ent-RMCAreaStrataExteriorLzCaves = Путь внешнего горнодобывающего аэродрома
 
-ent-RMCAreaStrataExteriorShedFiveCaves-name = Тропа наверху терминала номер пять
+ent-RMCAreaStrataExteriorShedFiveCaves = Тропа наверху терминала номер пять
 
-ent-RMCAreaStrataInteriorLandingZonesNearLz1-name = Зона приземления 1 — Шахтный аэродром
+ent-RMCAreaStrataInteriorLandingZonesNearLz1 = Зона приземления 1 — Шахтный аэродром
 
-ent-RMCAreaStrataInteriorLandingZonesLz1-name = Площадка посадочной зоны 1 — шахтерский аэродром
+ent-RMCAreaStrataInteriorLandingZonesLz1 = Площадка посадочной зоны 1 — шахтерский аэродром
 
-ent-RMCAreaStrataExteriorLandingZonesNearLz2-name = Зона приземления 2 — Скалистые поля
+ent-RMCAreaStrataExteriorLandingZonesNearLz2 = Зона приземления 2 — Скалистые поля
 
-ent-RMCAreaStrataExteriorLandingZonesLz2-name = Площадка посадочной зоны 2 — Скалистые поля
+ent-RMCAreaStrataExteriorLandingZonesLz2 = Площадка посадочной зоны 2 — Скалистые поля
 
-ent-RMCAreaStrataInteriorLandingZones-name = Не используйте.
+ent-RMCAreaStrataInteriorLandingZones = Не используйте.
 
-ent-RMCAreaStrataExteriorLandingZones-name = Не используйте.
+ent-RMCAreaStrataExteriorLandingZones = Не используйте.
 
-ent-RMCAreaStrataInterior-name = Интерьер
+ent-RMCAreaStrataInterior = Интерьер
 
-ent-RMCAreaStrataExterior-name = Экстерьер
+ent-RMCAreaStrataExterior = Экстерьер
 
-ent-RMCAreaStrataInteriorOutOfBounds-name = За пределами границ
+ent-RMCAreaStrataInteriorOutOfBounds = За пределами границ
 
-ent-RMCAreaStrata-name = Сорокинские пласты
+ent-RMCAreaStrata = Сорокинские пласты
 
-ent-RMCAreaStrataExteriorTcommsCrashedDropship-name = Разбившееся реле десантного корабля
+ent-RMCAreaStrataExteriorTcommsCrashedDropship = Разбившееся реле десантного корабля
 
-ent-RMCAreaStrataExteriorTcommsGeosprings-name = Реле геотермальных источников
+ent-RMCAreaStrataExteriorTcommsGeosprings = Реле геотермальных источников
 
-ent-RMCAreaStrataExteriorTcommsEngineeringPartsStorage-name = Инженерное дело — Реле платформы хранения деталей
+ent-RMCAreaStrataExteriorTcommsEngineeringPartsStorage = Инженерное дело — Реле платформы хранения деталей
 
-ent-RMCAreaStrataInteriorCheckpoints-name = Интерьер
+ent-RMCAreaStrataInteriorCheckpoints = Интерьер
 

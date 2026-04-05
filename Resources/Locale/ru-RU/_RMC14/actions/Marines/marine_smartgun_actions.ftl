@@ -1,15 +1,15 @@
-ent-RMCActionToggleMotionDetector-name = Переключить детектор движения
-ent-RMCActionToggleMotionDetector-desc = Периодически пингует любое неизвестное движение рядом с вами.
+ent-RMCActionToggleMotionDetector = Переключить детектор движения
+  .desc = Периодически пингует любое неизвестное движение рядом с вами.
 
-ent-RMCActionToggleFarSight-name = Переключить дальнее зрение
-ent-RMCActionToggleFarSight-desc = Позволяет видеть немного дальше.
+ent-RMCActionToggleFarSight = Переключить дальнее зрение
+  .desc = Позволяет видеть немного дальше.
 
-ent-RMCActionToggleAutoFire-name = Переключить автоматический огонь
-ent-RMCActionToggleAutoFire-desc = Заставляет оружие автоматически производить одиночный выстрел в сторону цели каждые пару секунд.
+ent-RMCActionToggleAutoFire = Переключить автоматический огонь
+  .desc = Заставляет оружие автоматически производить одиночный выстрел в сторону цели каждые пару секунд.
 
-ent-RMCActionToggleRecoil-name = Переключить компенсацию отдачи
-ent-RMCActionToggleRecoil-desc = Убирает всю отдачу при стрельбе из этого пистолета.
+ent-RMCActionToggleRecoil = Переключить компенсацию отдачи
+  .desc = Убирает всю отдачу при стрельбе из этого пистолета.
 
-ent-RMCActionToggleAmmo-name = Переключить тип боеприпасов
-ent-RMCActionToggleAmmo-desc = Переключите тип боеприпасов, выпущенных из этого оружия.
+ent-RMCActionToggleAmmo = Переключить тип боеприпасов
+  .desc = Переключите тип боеприпасов, выпущенных из этого оружия.
 

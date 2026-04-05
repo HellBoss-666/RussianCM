@@ -1,33 +1,33 @@
-ent-RMCCrateClothingOfficerOutfit-name = ящик офицерской экипировки
-ent-RMCCrateClothingOfficerOutfit-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingOfficerOutfit = ящик офицерской экипировки
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingDropPouchBlack-name = ящик чёрных разгрузок для сброса (x4)
-ent-RMCCrateClothingDropPouchBlack-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingDropPouchBlack = ящик чёрных разгрузок для сброса (x4)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingDropPouch-name = ящик разгрузок для сброса (x4)
-ent-RMCCrateClothingDropPouch-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingDropPouch = ящик разгрузок для сброса (x4)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingWebbingHolster-name = ящик наплечной кобуры (x4)
-ent-RMCCrateClothingWebbingHolster-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingWebbingHolster = ящик наплечной кобуры (x4)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingWebbingKnife-name = ящик разгрузки ножей (x3)
-ent-RMCCrateClothingWebbingKnife-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingWebbingKnife = ящик разгрузки ножей (x3)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingWebbingVest-name = ящик коричневой и черной разгузок (по 2 шт.)
-ent-RMCCrateClothingWebbingVest-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingWebbingVest = ящик коричневой и черной разгузок (по 2 шт.)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingWebbingBlack-name = ящик черных разгрузок (x4)
-ent-RMCCrateClothingWebbingBlack-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingWebbingBlack = ящик черных разгрузок (x4)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingWebbing-name = ящик разгузок (x4)
-ent-RMCCrateClothingWebbing-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingWebbing = ящик разгузок (x4)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingMedicalPouches-name = Ящик медицинских подсумков (1x аптечка первой помощи, медицинский, шприц, аптечка)
-ent-RMCCrateClothingMedicalPouches-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingMedicalPouches = Ящик медицинских подсумков (1x аптечка первой помощи, медицинский, шприц, аптечка)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingLargePouches-name = ящик с большими подсумками (2x Пистолет, Магазин, Общий)
-ent-RMCCrateClothingLargePouches-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingLargePouches = ящик с большими подсумками (2x Пистолет, Магазин, Общий)
+  .desc = Металлический ящик прямоугольной формы.
 
-ent-RMCCrateClothingWebbingHolsterBlack-name = ящик черной наплечной кобуры (4 шт.)
-ent-RMCCrateClothingWebbingHolsterBlack-desc = Металлический ящик прямоугольной формы.
+ent-RMCCrateClothingWebbingHolsterBlack = ящик черной наплечной кобуры (4 шт.)
+  .desc = Металлический ящик прямоугольной формы.
 

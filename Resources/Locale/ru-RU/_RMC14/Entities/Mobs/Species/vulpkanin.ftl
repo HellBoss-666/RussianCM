@@ -1,5 +1,5 @@
-ent-RMCMobVulpkanin-name = ересь
+ent-RMCMobVulpkanin = ересь
 
-ent-MobVulpkaninDummy-name = Vulpkanin Dummy
-ent-MobVulpkaninDummy-desc = A dummy vulpkanin meant to be used in character setup.
+ent-MobVulpkaninDummy = Vulpkanin Dummy
+  .desc = A dummy vulpkanin meant to be used in character setup.
 

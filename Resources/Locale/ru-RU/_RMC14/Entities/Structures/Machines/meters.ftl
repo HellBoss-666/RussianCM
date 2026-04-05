@@ -1,6 +1,6 @@
-ent-RMCWallMeterBase-name = метр
+ent-RMCWallMeterBase = метр
 
-ent-RMCWallMeterGreen-name = метр
+ent-RMCWallMeterGreen = метр
 
-ent-RMCWallMeterRed-name = метр
+ent-RMCWallMeterRed = метр
 

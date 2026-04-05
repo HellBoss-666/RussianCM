@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetArmedPoliceOfficer-name = Предварительная настройка народного вооруженного полицейского
+ent-RMCGearSurvivorPresetArmedPoliceOfficer = Предварительная настройка народного вооруженного полицейского
 
-ent-RMCSpawnPointSurvivorArmedPoliceOfficer-name = точка появления народного вооруженного полицейского
-ent-RMCSpawnPointSurvivorArmedPoliceOfficer-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorArmedPoliceOfficer = точка появления народного вооруженного полицейского
+  .desc = Создатель заданий RMC14. 
 

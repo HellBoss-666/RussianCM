@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetLV624CorporateDomeGoon-name = Пресет колониста lv624
+ent-RMCGearSurvivorPresetLV624CorporateDomeGoon = Пресет колониста lv624
 
-ent-RMCSpawnPointSurvivorLV624CorporateDomeGoon-name = Специальная точка спавна головорезов 624 уровня выжившего
-ent-RMCSpawnPointSurvivorLV624CorporateDomeGoon-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorLV624CorporateDomeGoon = Специальная точка спавна головорезов 624 уровня выжившего
+  .desc = Создатель заданий RMC14. 
 

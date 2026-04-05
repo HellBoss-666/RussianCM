@@ -1,151 +1,151 @@
-ent-RMCMaskNeckerchiefWhiteDown-name = шейный платок
+ent-RMCMaskNeckerchiefWhiteDown = шейный платок
 
-ent-RMCMaskNeckerchiefSquad-name = Шейный платок отряда UNMC
-ent-RMCMaskNeckerchiefSquad-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefSquad = Шейный платок отряда UNMC
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefGreenDown-name = шейный платок
+ent-RMCMaskNeckerchiefGreenDown = шейный платок
 
-ent-RMCMaskNeckerchiefGrayDown-name = шейный платок
+ent-RMCMaskNeckerchiefGrayDown = шейный платок
 
-ent-RMCMaskNeckerchiefBlackDown-name = шейный платок
+ent-RMCMaskNeckerchiefBlackDown = шейный платок
 
-ent-RMCMaskNeckerchiefTanDown-name = шейный платок
+ent-RMCMaskNeckerchiefTanDown = шейный платок
 
-ent-RMCMaskNeckerchiefFoxtrotDown-name = шейный платок
+ent-RMCMaskNeckerchiefFoxtrotDown = шейный платок
 
-ent-RMCMaskNeckerchiefEchoDown-name = шейный платок
+ent-RMCMaskNeckerchiefEchoDown = шейный платок
 
-ent-RMCMaskNeckerchiefDeltaDown-name = шейный платок
+ent-RMCMaskNeckerchiefDeltaDown = шейный платок
 
-ent-RMCMaskNeckerchiefCharlieDown-name = шейный платок
+ent-RMCMaskNeckerchiefCharlieDown = шейный платок
 
-ent-RMCMaskNeckerchiefBravoDown-name = шейный платок
+ent-RMCMaskNeckerchiefBravoDown = шейный платок
 
-ent-RMCMaskNeckerchiefAlphaDown-name = шейный платок
+ent-RMCMaskNeckerchiefAlphaDown = шейный платок
 
-ent-RMCMaskNeckerchiefAlpha-name = шейный платок
-ent-RMCMaskNeckerchiefAlpha-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefAlpha = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskSmockBlack-name = тактический халат
-ent-RMCMaskSmockBlack-desc = Тактический халат, который согревает в холода и обеспечивает повышенную маскировку.
+ent-RMCMaskSmockBlack = тактический халат
+  .desc = Тактический халат, который согревает в холода и обеспечивает повышенную маскировку.
 
-ent-RMCMaskTornScarfSnow-name = снежный тактический шарф
-ent-RMCMaskTornScarfSnow-desc = Тактический шарф, который согревал в холода.
+ent-RMCMaskTornScarfSnow = снежный тактический шарф
+  .desc = Тактический шарф, который согревал в холода.
 
-ent-RMCMaskTornScarfUrban-name = городской тактический шарф
-ent-RMCMaskTornScarfUrban-desc = Тактический шарф, который согревал в холода.
+ent-RMCMaskTornScarfUrban = городской тактический шарф
+  .desc = Тактический шарф, который согревал в холода.
 
-ent-RMCMaskTornScarfGrey-name = серый тактический шарф
-ent-RMCMaskTornScarfGrey-desc = Тактический шарф, который согревал в холода.
+ent-RMCMaskTornScarfGrey = серый тактический шарф
+  .desc = Тактический шарф, который согревал в холода.
 
-ent-RMCMaskTornScarfGreen-name = зеленый тактический шарф
-ent-RMCMaskTornScarfGreen-desc = Тактический шарф, который согревал в холода.
+ent-RMCMaskTornScarfGreen = зеленый тактический шарф
+  .desc = Тактический шарф, который согревал в холода.
 
-ent-RMCMaskTornScarfDesert-name = тактический шарф для пустыни
-ent-RMCMaskTornScarfDesert-desc = Тактический шарф, который согревал в холода.
+ent-RMCMaskTornScarfDesert = тактический шарф для пустыни
+  .desc = Тактический шарф, который согревал в холода.
 
-ent-RMCMaskTornScarfBlack-name = тактический шарф
-ent-RMCMaskTornScarfBlack-desc = Тактический шарф, который согревал в холода.
+ent-RMCMaskTornScarfBlack = тактический шарф
+  .desc = Тактический шарф, который согревал в холода.
 
-ent-RMCMaskScarfTanDown-name = коричневая тактическая накидка
+ent-RMCMaskScarfTanDown = коричневая тактическая накидка
 
-ent-RMCMaskScarfTan-name = коричневая тактическая накидка
-ent-RMCMaskScarfTan-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfTan = коричневая тактическая накидка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfGreenDown-name = зеленая тактическая упаковка
+ent-RMCMaskScarfGreenDown = зеленая тактическая упаковка
 
-ent-RMCMaskScarfGreen-name = зеленая тактическая упаковка
-ent-RMCMaskScarfGreen-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfGreen = зеленая тактическая упаковка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfGrayDown-name = серая тактическая упаковка
+ent-RMCMaskScarfGrayDown = серая тактическая упаковка
 
-ent-RMCMaskScarfGray-name = серая тактическая упаковка
-ent-RMCMaskScarfGray-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfGray = серая тактическая упаковка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfBlackDown-name = черная тактическая упаковка
+ent-RMCMaskScarfBlackDown = черная тактическая упаковка
 
-ent-RMCMaskScarfBlack-name = черная тактическая упаковка
-ent-RMCMaskScarfBlack-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfBlack = черная тактическая упаковка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfRedDown-name = красная тактическая упаковка
+ent-RMCMaskScarfRedDown = красная тактическая упаковка
 
-ent-RMCMaskScarfRed-name = красная тактическая упаковка
-ent-RMCMaskScarfRed-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfRed = красная тактическая упаковка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfFoxtrotDown-name = тактическая упаковка фокстрот
+ent-RMCMaskScarfFoxtrotDown = тактическая упаковка фокстрот
 
-ent-RMCMaskScarfFoxtrot-name = тактическая упаковка фокстрот
-ent-RMCMaskScarfFoxtrot-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfFoxtrot = тактическая упаковка фокстрот
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfEchoDown-name = эхо-тактическая упаковка
+ent-RMCMaskScarfEchoDown = эхо-тактическая упаковка
 
-ent-RMCMaskScarfEcho-name = эхо-тактическая упаковка
-ent-RMCMaskScarfEcho-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfEcho = эхо-тактическая упаковка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfDeltaDown-name = тактическая упаковка дельта
+ent-RMCMaskScarfDeltaDown = тактическая упаковка дельта
 
-ent-RMCMaskScarfDelta-name = тактическая упаковка дельта
-ent-RMCMaskScarfDelta-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfDelta = тактическая упаковка дельта
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfCharlieDown-name = тактическая упаковка Чарли
+ent-RMCMaskScarfCharlieDown = тактическая упаковка Чарли
 
-ent-RMCMaskScarfCharlie-name = тактическая упаковка Чарли
-ent-RMCMaskScarfCharlie-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfCharlie = тактическая упаковка Чарли
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfBravoDown-name = тактическая упаковка браво
+ent-RMCMaskScarfBravoDown = тактическая упаковка браво
 
-ent-RMCMaskScarfBravo-name = тактическая упаковка браво
-ent-RMCMaskScarfBravo-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfBravo = тактическая упаковка браво
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfAlphaDown-name = альфа-тактическая упаковка
+ent-RMCMaskScarfAlphaDown = альфа-тактическая упаковка
 
-ent-RMCMaskScarfAlpha-name = альфа-тактическая упаковка
-ent-RMCMaskScarfAlpha-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfAlpha = альфа-тактическая упаковка
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCMaskScarfSquad-name = Тактическая упаковка отряда UNMC
-ent-RMCMaskScarfSquad-desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
+ent-RMCMaskScarfSquad = Тактическая упаковка отряда UNMC
+  .desc = Тактическая повязка, используемая солдатами, чтобы скрыть лицо.
 
-ent-RMCBaseScarfMask-name = токарный станок-категория-одежда
+ent-RMCBaseScarfMask = токарный станок-категория-одежда
 
-ent-RMCBaseScarfDown-name = токарный станок-категория-одежда
+ent-RMCBaseScarfDown = токарный станок-категория-одежда
 
-ent-RMCMaskTornScarfBase-name = токарный станок-категория-одежда
+ent-RMCMaskTornScarfBase = токарный станок-категория-одежда
 
-ent-RMCMaskSmockCamo-name = тактический халат
-ent-RMCMaskSmockCamo-desc = Тактический халат, который согревает в холода и обеспечивает повышенную маскировку.
+ent-RMCMaskSmockCamo = тактический халат
+  .desc = Тактический халат, который согревает в холода и обеспечивает повышенную маскировку.
 
-ent-RMCMaskNeckerchiefBravo-name = шейный платок
-ent-RMCMaskNeckerchiefBravo-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefBravo = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefCharlie-name = шейный платок
-ent-RMCMaskNeckerchiefCharlie-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefCharlie = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefDelta-name = шейный платок
-ent-RMCMaskNeckerchiefDelta-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefDelta = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefEcho-name = шейный платок
-ent-RMCMaskNeckerchiefEcho-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefEcho = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefFoxtrot-name = шейный платок
-ent-RMCMaskNeckerchiefFoxtrot-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefFoxtrot = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefTan-name = шейный платок
-ent-RMCMaskNeckerchiefTan-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefTan = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefBlack-name = шейный платок
-ent-RMCMaskNeckerchiefBlack-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefBlack = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefGray-name = шейный платок
-ent-RMCMaskNeckerchiefGray-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefGray = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefGreen-name = шейный платок
-ent-RMCMaskNeckerchiefGreen-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefGreen = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefWhite-name = шейный платок
-ent-RMCMaskNeckerchiefWhite-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefWhite = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefRed-name = шейный платок
-ent-RMCMaskNeckerchiefRed-desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
+ent-RMCMaskNeckerchiefRed = шейный платок
+  .desc = Простая ткань, которую носят на шее, можно регулировать между свободным и более плотным кроем.
 
-ent-RMCMaskNeckerchiefRedDown-name = шейный платок
+ent-RMCMaskNeckerchiefRedDown = шейный платок
 

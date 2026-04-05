@@ -1,3 +1,3 @@
-ent-RMCFoodGoldenApple-name = золотое яблоко
-ent-RMCFoodGoldenApple-desc = На яблоке изображено слово «Каллисти».
+ent-RMCFoodGoldenApple = золотое яблоко
+  .desc = На яблоке изображено слово «Каллисти».
 

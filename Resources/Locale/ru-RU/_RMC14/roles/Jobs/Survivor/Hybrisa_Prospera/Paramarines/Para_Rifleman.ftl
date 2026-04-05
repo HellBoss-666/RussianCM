@@ -1,3 +1,3 @@
-ent-RMCSpawnPointParamarine-name = Точка появления парамарина-стрелка
-ent-RMCSpawnPointParamarine-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointParamarine = Точка появления парамарина-стрелка
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 

@@ -1,48 +1,48 @@
-ent-CMIntercom-name = домофон
-ent-CMIntercom-desc = Домофон. 
+ent-CMIntercom = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomCommon-name = домофон
-ent-CMIntercomCommon-desc = Домофон. 
+ent-CMIntercomCommon = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomCommand-name = домофон
-ent-CMIntercomCommand-desc = Домофон. 
+ent-CMIntercomCommand = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomMedical-name = домофон
-ent-CMIntercomMedical-desc = Домофон. 
+ent-CMIntercomMedical = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomEngineering-name = домофон
-ent-CMIntercomEngineering-desc = Домофон. 
+ent-CMIntercomEngineering = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomMilitaryPolice-name = домофон
-ent-CMIntercomMilitaryPolice-desc = Домофон. 
+ent-CMIntercomMilitaryPolice = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomRequisition-name = домофон
-ent-CMIntercomRequisition-desc = Домофон. 
+ent-CMIntercomRequisition = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomIntel-name = домофон
-ent-CMIntercomIntel-desc = Домофон. 
+ent-CMIntercomIntel = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomAlpha-name = домофон
-ent-CMIntercomAlpha-desc = Домофон. 
+ent-CMIntercomAlpha = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomBravo-name = домофон
-ent-CMIntercomBravo-desc = Домофон. 
+ent-CMIntercomBravo = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomCharlie-name = домофон
-ent-CMIntercomCharlie-desc = Домофон. 
+ent-CMIntercomCharlie = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomDelta-name = домофон
-ent-CMIntercomDelta-desc = Домофон. 
+ent-CMIntercomDelta = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomEcho-name = домофон
-ent-CMIntercomEcho-desc = Домофон. 
+ent-CMIntercomEcho = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomFoxtrot-name = домофон
-ent-CMIntercomFoxtrot-desc = Домофон. 
+ent-CMIntercomFoxtrot = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomColony-name = домофон
-ent-CMIntercomColony-desc = Домофон. 
+ent-CMIntercomColony = домофон
+  .desc = Домофон. 
 
-ent-CMIntercomAll-name = домофон
-ent-CMIntercomAll-desc = Домофон. 
+ent-CMIntercomAll = домофон
+  .desc = Домофон. 
 

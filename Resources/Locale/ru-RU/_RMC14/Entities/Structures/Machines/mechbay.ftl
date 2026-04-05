@@ -1,2 +1,2 @@
-ent-RMCPropPowerPort-name = порт питания мехотсека
+ent-RMCPropPowerPort = порт питания мехотсека
 

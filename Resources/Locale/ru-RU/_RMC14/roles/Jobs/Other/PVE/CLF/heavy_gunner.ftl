@@ -1,3 +1,3 @@
-ent-RMCSpawnPointCLFCHeavyGunnerPVE-name = Clf точка появления тяжелого стрелка
-ent-RMCSpawnPointCLFCHeavyGunnerPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointCLFCHeavyGunnerPVE = Clf точка появления тяжелого стрелка
+  .desc = Создатель заданий RMC14. 
 

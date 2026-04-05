@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidRoyalMarinesTeamlead-name = Роль призрака морской пехоты королевской короны, руководитель группы
+ent-RMCRandomHumanoidRoyalMarinesTeamlead = Роль призрака морской пехоты королевской короны, руководитель группы
 

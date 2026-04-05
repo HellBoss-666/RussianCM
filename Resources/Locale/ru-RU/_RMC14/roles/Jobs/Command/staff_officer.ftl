@@ -1,6 +1,6 @@
-ent-RMCGuidebookRoleSO-name = Штабной офицер
-ent-RMCGuidebookRoleSO-desc = Штабной офицер.
+ent-RMCGuidebookRoleSO = Штабной офицер
+  .desc = Штабной офицер.
 
-ent-CMSpawnPointStaffOfficer-name = точка появления штабного офицера
-ent-CMSpawnPointStaffOfficer-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointStaffOfficer = точка появления штабного офицера
+  .desc = Создатель заданий RMC14. 
 

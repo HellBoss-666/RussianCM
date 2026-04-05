@@ -1,5 +1,5 @@
-ent-RMCCampfire-name = костер
+ent-RMCCampfire = костер
 
-ent-RMCBrazier-name = brazier
-ent-RMCBrazier-desc = A burning pile of wood in a metal plate.
+ent-RMCBrazier = brazier
+  .desc = A burning pile of wood in a metal plate.
 

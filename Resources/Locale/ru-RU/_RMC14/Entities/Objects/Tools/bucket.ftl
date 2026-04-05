@@ -1,8 +1,8 @@
-ent-RMCReagentJug-name = элемент
+ent-RMCReagentJug = элемент
 
-ent-RMCBucketJanitorial-name = элемент
+ent-RMCBucketJanitorial = элемент
 
-ent-CMBucketMop-name = элемент
+ent-CMBucketMop = элемент
 
-ent-RMCBucket-name = элемент
+ent-RMCBucket = элемент
 

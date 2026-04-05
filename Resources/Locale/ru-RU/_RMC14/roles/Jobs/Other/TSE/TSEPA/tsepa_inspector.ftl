@@ -1,3 +1,3 @@
-ent-RMCSpawnPointTSEPAInspector-name = точка появления инспектора цепы
-ent-RMCSpawnPointTSEPAInspector-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointTSEPAInspector = точка появления инспектора цепы
+  .desc = Создатель заданий RMC14. 
 

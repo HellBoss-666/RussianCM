@@ -1,2 +1,2 @@
-ent-RMCWeaponShotgunM3717-name = элемент
+ent-RMCWeaponShotgunM3717 = элемент
 

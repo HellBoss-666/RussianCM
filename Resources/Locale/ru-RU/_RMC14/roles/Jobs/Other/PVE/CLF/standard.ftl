@@ -1,3 +1,3 @@
-ent-RMCSpawnPointCLFStandardPVE-name = clf стандартная точка появления
-ent-RMCSpawnPointCLFStandardPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointCLFStandardPVE = clf стандартная точка появления
+  .desc = Создатель заданий RMC14. 
 

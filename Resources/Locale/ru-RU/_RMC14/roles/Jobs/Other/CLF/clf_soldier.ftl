@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidCLFSoldier-name = clf роль призрака солдат
+ent-RMCRandomHumanoidCLFSoldier = clf роль призрака солдат
 

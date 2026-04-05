@@ -1,2 +1,2 @@
-ent-CMSPPSOFCockpit-name = люк экипажа ворон
+ent-CMSPPSOFCockpit = люк экипажа ворон
 

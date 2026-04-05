@@ -1,1 +1,1 @@
-ent-RMCAreaOCP-583-name = ОСР-583
+ent-RMCAreaOCP-583 = ОСР-583

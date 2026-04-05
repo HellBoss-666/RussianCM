@@ -1,3 +1,3 @@
-ent-RMCSpawnPointPMCTeamLeadPVE-name = точка появления руководителя команды weya pmc
-ent-RMCSpawnPointPMCTeamLeadPVE-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCTeamLeadPVE = точка появления руководителя команды weya pmc
+  .desc = Создатель заданий RMC14. 
 

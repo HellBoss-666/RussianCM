@@ -1,12 +1,12 @@
-ent-RMCFoamedIronMetal-name = вспененное железо металл
-ent-RMCFoamedIronMetal-desc = Немного более прочная и легкая стена из вспененного железа.
+ent-RMCFoamedIronMetal = вспененное железо металл
+  .desc = Немного более прочная и легкая стена из вспененного железа.
 
-ent-RMCFoamedAluminiumMetal-name = вспененный алюминий из металла
-ent-RMCFoamedAluminiumMetal-desc = Легкая стенка из пенометалла.
+ent-RMCFoamedAluminiumMetal = вспененный алюминий из металла
+  .desc = Легкая стенка из пенометалла.
 
-ent-RMCIronMetalFoamEffect-name = железо металл пена
+ent-RMCIronMetalFoamEffect = железо металл пена
 
-ent-RMCAluminiumMetalFoamEffect-name = алюминиевая металлическая пена
+ent-RMCAluminiumMetalFoamEffect = алюминиевая металлическая пена
 
-ent-RMCBaseFoamedMetal-name = Основание RMC из вспененного металла
+ent-RMCBaseFoamedMetal = Основание RMC из вспененного металла
 

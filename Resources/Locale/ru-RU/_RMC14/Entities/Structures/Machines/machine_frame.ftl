@@ -1,8 +1,8 @@
-ent-RMCComputerFrameUnfinished-name = компьютерная рама
-ent-RMCComputerFrameUnfinished-desc = Машина в стадии строительства. 
+ent-RMCComputerFrameUnfinished = компьютерная рама
+  .desc = Машина в стадии строительства. 
 
-ent-CMMachineFrameUnfinished-name = рама машины
-ent-CMMachineFrameUnfinished-desc = Машина в стадии строительства. 
+ent-CMMachineFrameUnfinished = рама машины
+  .desc = Машина в стадии строительства. 
 
-ent-CMMachineFrameDestroyed-name = разрушенный корпус машины
+ent-CMMachineFrameDestroyed = разрушенный корпус машины
 

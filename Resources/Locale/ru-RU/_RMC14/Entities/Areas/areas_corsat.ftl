@@ -1,262 +1,262 @@
-ent-RMCAreaCorsatInaccessible-name = Неизвестное местоположение
+ent-RMCAreaCorsatInaccessible = Неизвестное местоположение
 
-ent-RMCAreaCorsatOmegaControl-name = Модуль управления куполом Omega
+ent-RMCAreaCorsatOmegaControl = Модуль управления куполом Omega
 
-ent-RMCAreaCorsatOmegaAirlocknorthId-name = Контрольно-пропускной пункт Omega North ID
+ent-RMCAreaCorsatOmegaAirlocknorthId = Контрольно-пропускной пункт Omega North ID
 
-ent-RMCAreaCorsatOmegaAirlocknorth-name = Северный шлюзовой шлюз Omega Dome
+ent-RMCAreaCorsatOmegaAirlocknorth = Северный шлюзовой шлюз Omega Dome
 
-ent-RMCAreaCorsatOmegaMaint-name = Омега Техническое обслуживание
+ent-RMCAreaCorsatOmegaMaint = Омега Техническое обслуживание
 
-ent-RMCAreaCorsatOmegaCargo-name = Омега Карго
+ent-RMCAreaCorsatOmegaCargo = Омега Карго
 
-ent-RMCAreaCorsatOmegaOffices-name = Офисы Омеги
+ent-RMCAreaCorsatOmegaOffices = Офисы Омеги
 
-ent-RMCAreaCorsatOmegaCheckpoint-name = Контрольно-пропускной пункт Омега-доступа
+ent-RMCAreaCorsatOmegaCheckpoint = Контрольно-пропускной пункт Омега-доступа
 
-ent-RMCAreaCorsatOmegaSecurity-name = Центр безопасности Омега
+ent-RMCAreaCorsatOmegaSecurity = Центр безопасности Омега
 
-ent-RMCAreaCorsatOmegaContainment-name = Сдерживание исследований Омеги
+ent-RMCAreaCorsatOmegaContainment = Сдерживание исследований Омеги
 
-ent-RMCAreaCorsatOmegaComplex-name = Исследовательский Комплекс Омега
+ent-RMCAreaCorsatOmegaComplex = Исследовательский Комплекс Омега
 
-ent-RMCAreaCorsatOmegaHallways-name = Коридоры сектора Омега
+ent-RMCAreaCorsatOmegaHallways = Коридоры сектора Омега
 
-ent-RMCAreaCorsatOmegaHangarCorporate_shuttle-name = Омега Ангар Корпоративный шаттл
+ent-RMCAreaCorsatOmegaHangarCorporate_shuttle = Омега Ангар Корпоративный шаттл
 
-ent-RMCAreaCorsatOmegaHangarSecurity-name = Охрана ангара Омега
+ent-RMCAreaCorsatOmegaHangarSecurity = Охрана ангара Омега
 
-ent-RMCAreaCorsatOmegaHangarOffice-name = Омега Ангар Офис
+ent-RMCAreaCorsatOmegaHangarOffice = Омега Ангар Офис
 
-ent-RMCAreaCorsatOmegaHangar-name = Лендинг Бэй Омега
+ent-RMCAreaCorsatOmegaHangar = Лендинг Бэй Омега
 
-ent-RMCAreaCorsatOmegaBiodome-name = Биодом Омега
+ent-RMCAreaCorsatOmegaBiodome = Биодом Омега
 
-ent-RMCAreaCorsatOmega-name = Сектор Омега
+ent-RMCAreaCorsatOmega = Сектор Омега
 
-ent-RMCAreaCorsatThetaAirlockControl-name = Модуль управления куполом Тета
+ent-RMCAreaCorsatThetaAirlockControl = Модуль управления куполом Тета
 
-ent-RMCAreaCorsatThetaAirlockEastId-name = Контрольно-пропускной пункт Тета Ист
+ent-RMCAreaCorsatThetaAirlockEastId = Контрольно-пропускной пункт Тета Ист
 
-ent-RMCAreaCorsatThetaAirlockEast-name = Восточный шлюз Тета Доум
+ent-RMCAreaCorsatThetaAirlockEast = Восточный шлюз Тета Доум
 
-ent-RMCAreaCorsatThetaAirlockWestId-name = Контрольно-пропускной пункт Тета Вест
+ent-RMCAreaCorsatThetaAirlockWestId = Контрольно-пропускной пункт Тета Вест
 
-ent-RMCAreaCorsatThetaAirlockWest-name = Западный шлюз Тета Доум
+ent-RMCAreaCorsatThetaAirlockWest = Западный шлюз Тета Доум
 
-ent-RMCAreaCorsatThetaBiodomeHydrowest-name = Крыло гидропоники Тета Вест
+ent-RMCAreaCorsatThetaBiodomeHydrowest = Крыло гидропоники Тета Вест
 
-ent-RMCAreaCorsatThetaBiodomeHydroeast-name = Восточное крыло гидропоники Тета
+ent-RMCAreaCorsatThetaBiodomeHydroeast = Восточное крыло гидропоники Тета
 
-ent-RMCAreaCorsatThetaBiodomeComplex-name = Тета Исследовательский Комплекс
+ent-RMCAreaCorsatThetaBiodomeComplex = Тета Исследовательский Комплекс
 
-ent-RMCAreaCorsatThetaBiodome-name = Биодом Тета
+ent-RMCAreaCorsatThetaBiodome = Биодом Тета
 
-ent-RMCAreaCorsatTheta-name = Тета-сектор
+ent-RMCAreaCorsatTheta = Тета-сектор
 
-ent-RMCAreaCorsatGammaBiodomeToxins-name = Крыло гамма-токсинов
+ent-RMCAreaCorsatGammaBiodomeToxins = Крыло гамма-токсинов
 
-ent-RMCAreaCorsatGammaBiodomeVirology-name = Отделение гамма-вирусологии
+ent-RMCAreaCorsatGammaBiodomeVirology = Отделение гамма-вирусологии
 
-ent-RMCAreaCorsatGammaBiodomeComplex-name = Гамма-исследовательский комплекс
+ent-RMCAreaCorsatGammaBiodomeComplex = Гамма-исследовательский комплекс
 
-ent-RMCAreaCorsatGammaBiodome-name = Биодом Гамма
+ent-RMCAreaCorsatGammaBiodome = Биодом Гамма
 
-ent-RMCAreaCorsatGammaAirlockControl-name = Модуль управления гамма-куполом
+ent-RMCAreaCorsatGammaAirlockControl = Модуль управления гамма-куполом
 
-ent-RMCAreaCorsatGammaAirlockSouthId-name = Контрольно-пропускной пункт Гамма Юг
+ent-RMCAreaCorsatGammaAirlockSouthId = Контрольно-пропускной пункт Гамма Юг
 
-ent-RMCAreaCorsatGammaAirlockSouth-name = Южный шлюз Гамма-Купола
+ent-RMCAreaCorsatGammaAirlockSouth = Южный шлюз Гамма-Купола
 
-ent-RMCAreaCorsatGammaAirlockNorthId-name = Контрольно-пропускной пункт Гамма-Север
+ent-RMCAreaCorsatGammaAirlockNorthId = Контрольно-пропускной пункт Гамма-Север
 
-ent-RMCAreaCorsatGammaAirlockNorth-name = Северный шлюз Гамма-Купола
+ent-RMCAreaCorsatGammaAirlockNorth = Северный шлюз Гамма-Купола
 
-ent-RMCAreaCorsatGammaSigmaremoteTeleporter-name = Удаленный телепорт Сигмы
+ent-RMCAreaCorsatGammaSigmaremoteTeleporter = Удаленный телепорт Сигмы
 
-ent-RMCAreaCorsatGammaSigmaremote-name = Удаленный комплекс Сигма
+ent-RMCAreaCorsatGammaSigmaremote = Удаленный комплекс Сигма
 
-ent-RMCAreaCorsatGammaEngineeringCore-name = Ядро генератора КОРСАТ
+ent-RMCAreaCorsatGammaEngineeringCore = Ядро генератора КОРСАТ
 
-ent-RMCAreaCorsatGammaEngineeringAtmos-name = КОРСАТ Атмосфера
+ent-RMCAreaCorsatGammaEngineeringAtmos = КОРСАТ Атмосфера
 
-ent-RMCAreaCorsatGammaEngineeringLobby-name = Гамма Инжиниринговый Лобби
+ent-RMCAreaCorsatGammaEngineeringLobby = Гамма Инжиниринговый Лобби
 
-ent-RMCAreaCorsatGammaEngineering-name = Гамма Инжиниринг
+ent-RMCAreaCorsatGammaEngineering = Гамма Инжиниринг
 
-ent-RMCAreaCorsatGammaRnrLibrary-name = Библиотека КОРСАТ
+ent-RMCAreaCorsatGammaRnrLibrary = Библиотека КОРСАТ
 
-ent-RMCAreaCorsatGammaRnrArcade-name = КОРСАТ Аркады
+ent-RMCAreaCorsatGammaRnrArcade = КОРСАТ Аркады
 
-ent-RMCAreaCorsatGammaRnrBar-name = КОРСАТ Бар
+ent-RMCAreaCorsatGammaRnrBar = КОРСАТ Бар
 
-ent-RMCAreaCorsatGammaRnr-name = КОРСАТ R&R
+ent-RMCAreaCorsatGammaRnr = КОРСАТ R&R
 
-ent-RMCAreaCorsatGammaSecurityArmory-name = КОРСАТ Оружейная
+ent-RMCAreaCorsatGammaSecurityArmory = КОРСАТ Оружейная
 
-ent-RMCAreaCorsatGammaSecurityCells-name = Ячейки безопасности КОРСАТ
+ent-RMCAreaCorsatGammaSecurityCells = Ячейки безопасности КОРСАТ
 
-ent-RMCAreaCorsatGammaSecurity-name = Центр безопасности CORSAT
+ent-RMCAreaCorsatGammaSecurity = Центр безопасности CORSAT
 
-ent-RMCAreaCorsatGammaAdministration-name = Центр администрирования КОРСАТ
+ent-RMCAreaCorsatGammaAdministration = Центр администрирования КОРСАТ
 
-ent-RMCAreaCorsatGammaFreezer-name = КОРСАТ Хранение продуктов питания
+ent-RMCAreaCorsatGammaFreezer = КОРСАТ Хранение продуктов питания
 
-ent-RMCAreaCorsatGammaKitchen-name = КОРСАТ Кухня
+ent-RMCAreaCorsatGammaKitchen = КОРСАТ Кухня
 
-ent-RMCAreaCorsatGammaCanteen-name = КОРСАТ Столовая
+ent-RMCAreaCorsatGammaCanteen = КОРСАТ Столовая
 
-ent-RMCAreaCorsatGammaHydroponics-name = КОРСАТ Гидропоника
+ent-RMCAreaCorsatGammaHydroponics = КОРСАТ Гидропоника
 
-ent-RMCAreaCorsatGammaMedbayLobby-name = КОРСАТ Медицинский отсек, вестибюль
+ent-RMCAreaCorsatGammaMedbayLobby = КОРСАТ Медицинский отсек, вестибюль
 
-ent-RMCAreaCorsatGammaMedbaySurgery-name = КОРСАТ Хирургия
+ent-RMCAreaCorsatGammaMedbaySurgery = КОРСАТ Хирургия
 
-ent-RMCAreaCorsatGammaMedbayChemistry-name = КОРСАТ Химия
+ent-RMCAreaCorsatGammaMedbayChemistry = КОРСАТ Химия
 
-ent-RMCAreaCorsatGammaMedbayMorgue-name = КОРСАТ Морг
+ent-RMCAreaCorsatGammaMedbayMorgue = КОРСАТ Морг
 
-ent-RMCAreaCorsatGammaMedbay-name = КОРСАТ Медбэй
+ent-RMCAreaCorsatGammaMedbay = КОРСАТ Медбэй
 
-ent-RMCAreaCorsatGammaCargoDisposal-name = Гамма-захоронения
+ent-RMCAreaCorsatGammaCargoDisposal = Гамма-захоронения
 
-ent-RMCAreaCorsatGammaCargoLobby-name = Гамма Грузовой вестибюль
+ent-RMCAreaCorsatGammaCargoLobby = Гамма Грузовой вестибюль
 
-ent-RMCAreaCorsatGammaCargo-name = Гамма Карго
+ent-RMCAreaCorsatGammaCargo = Гамма Карго
 
-ent-RMCAreaCorsatGammaResidentialLaundry-name = Гамма Прачечная
+ent-RMCAreaCorsatGammaResidentialLaundry = Гамма Прачечная
 
-ent-RMCAreaCorsatGammaResidentialShowers-name = Гамма-ливни
+ent-RMCAreaCorsatGammaResidentialShowers = Гамма-ливни
 
-ent-RMCAreaCorsatGammaResidentialLavatory-name = Гамма Туалет
+ent-RMCAreaCorsatGammaResidentialLavatory = Гамма Туалет
 
-ent-RMCAreaCorsatGammaResidentialLounge-name = Исследовательская гостиная
+ent-RMCAreaCorsatGammaResidentialLounge = Исследовательская гостиная
 
-ent-RMCAreaCorsatGammaResidentialResearcher-name = Исследовательские кварталы
+ent-RMCAreaCorsatGammaResidentialResearcher = Исследовательские кварталы
 
-ent-RMCAreaCorsatGammaResidentialMaint-name = Гамма Жилищное Обслуживание
+ent-RMCAreaCorsatGammaResidentialMaint = Гамма Жилищное Обслуживание
 
-ent-RMCAreaCorsatGammaResidentialEast-name = Гамма Норт Жилой
+ent-RMCAreaCorsatGammaResidentialEast = Гамма Норт Жилой
 
-ent-RMCAreaCorsatGammaResidentialWest-name = Академия КОРСАТ
+ent-RMCAreaCorsatGammaResidentialWest = Академия КОРСАТ
 
-ent-RMCAreaCorsatGammaResidential-name = Жилой коридор Гамма
+ent-RMCAreaCorsatGammaResidential = Жилой коридор Гамма
 
-ent-RMCAreaCorsatGammaHallwaysouth-name = Южные коридоры сектора Гамма
+ent-RMCAreaCorsatGammaHallwaysouth = Южные коридоры сектора Гамма
 
-ent-RMCAreaCorsatGammaHallwaymain-name = Западный коридор сектора Гамма
+ent-RMCAreaCorsatGammaHallwaymain = Западный коридор сектора Гамма
 
-ent-RMCAreaCorsatGammaFoyer-name = Гамма Фойе
+ent-RMCAreaCorsatGammaFoyer = Гамма Фойе
 
-ent-RMCAreaCorsatGammaHangarArrivals-name = Гамма Прибытие
+ent-RMCAreaCorsatGammaHangarArrivals = Гамма Прибытие
 
-ent-RMCAreaCorsatGammaHangarSecurity-name = Гамма Ангар Охрана
+ent-RMCAreaCorsatGammaHangarSecurity = Гамма Ангар Охрана
 
-ent-RMCAreaCorsatGammaHangarFlightcontrol-name = Центр управления полетами КОРСАТ
+ent-RMCAreaCorsatGammaHangarFlightcontrol = Центр управления полетами КОРСАТ
 
-ent-RMCAreaCorsatGammaHangarOffice-name = Гамма Ангар Офис
+ent-RMCAreaCorsatGammaHangarOffice = Гамма Ангар Офис
 
-ent-RMCAreaCorsatGammaHangarCheckpoint-name = Контрольно-пропускной пункт Гамма-ангара
+ent-RMCAreaCorsatGammaHangarCheckpoint = Контрольно-пропускной пункт Гамма-ангара
 
-ent-RMCAreaCorsatGammaHangarCargo-name = Грузовой контрольно-пропускной пункт Гамма-ангара
+ent-RMCAreaCorsatGammaHangarCargo = Грузовой контрольно-пропускной пункт Гамма-ангара
 
-ent-RMCAreaCorsatGammaHangarMonorailRailcart-name = КОРСАТ Железнодорожная тележка
+ent-RMCAreaCorsatGammaHangarMonorailRailcart = КОРСАТ Железнодорожная тележка
 
-ent-RMCAreaCorsatGammaHangarMonorailControl-name = Гамма-монорельсовое управление
+ent-RMCAreaCorsatGammaHangarMonorailControl = Гамма-монорельсовое управление
 
-ent-RMCAreaCorsatGammaHangarMonorail-name = Станция монорельсовой дороги «Гамма»
+ent-RMCAreaCorsatGammaHangarMonorail = Станция монорельсовой дороги «Гамма»
 
-ent-RMCAreaCorsatGammaHangar-name = Лендинг Бэй Гамма
+ent-RMCAreaCorsatGammaHangar = Лендинг Бэй Гамма
 
-ent-RMCAreaCorsatGamma-name = Гамма-сектор
+ent-RMCAreaCorsatGamma = Гамма-сектор
 
-ent-RMCAreaCorsatSigmaBiodomeScrapyard-name = Свалка биокупола Сигма
+ent-RMCAreaCorsatSigmaBiodomeScrapyard = Свалка биокупола Сигма
 
-ent-RMCAreaCorsatSigmaBiodomeGunrange-name = Стрельбище «Сигма Биодом»
+ent-RMCAreaCorsatSigmaBiodomeGunrange = Стрельбище «Сигма Биодом»
 
-ent-RMCAreaCorsatSigmaBiodomeTestgrounds-name = Испытательный полигон Сигма Биодом
+ent-RMCAreaCorsatSigmaBiodomeTestgrounds = Испытательный полигон Сигма Биодом
 
-ent-RMCAreaCorsatSigmaBiodomeIce-name = Биодом Сигма
+ent-RMCAreaCorsatSigmaBiodomeIce = Биодом Сигма
 
-ent-RMCAreaCorsatSigmaBiodome-name = Биодом Сигма
+ent-RMCAreaCorsatSigmaBiodome = Биодом Сигма
 
-ent-RMCAreaCorsatSigmaSouthOffices-name = Офисы Сигмы
+ent-RMCAreaCorsatSigmaSouthOffices = Офисы Сигмы
 
-ent-RMCAreaCorsatSigmaSouthSecurity-name = Центр безопасности Сигма
+ent-RMCAreaCorsatSigmaSouthSecurity = Центр безопасности Сигма
 
-ent-RMCAreaCorsatSigmaSouthEngineering-name = Сигма Инжиниринг
+ent-RMCAreaCorsatSigmaSouthEngineering = Сигма Инжиниринг
 
-ent-RMCAreaCorsatSigmaSouthRobotics-name = Лаборатория робототехники Сигма
+ent-RMCAreaCorsatSigmaSouthRobotics = Лаборатория робототехники Сигма
 
-ent-RMCAreaCorsatSigmaSouthComplexTeleporter-name = Сигма-телепорт
+ent-RMCAreaCorsatSigmaSouthComplexTeleporter = Сигма-телепорт
 
-ent-RMCAreaCorsatSigmaSouthComplex-name = Исследовательский комплекс Сигма
+ent-RMCAreaCorsatSigmaSouthComplex = Исследовательский комплекс Сигма
 
-ent-RMCAreaCorsatSigmaSouth-name = Южные коридоры сектора Сигма
+ent-RMCAreaCorsatSigmaSouth = Южные коридоры сектора Сигма
 
-ent-RMCAreaCorsatSigmaSoutheastDatamaint-name = Обслуживание данных Сигмы
+ent-RMCAreaCorsatSigmaSoutheastDatamaint = Обслуживание данных Сигмы
 
-ent-RMCAreaCorsatSigmaSoutheastDataoffice-name = Офис данных Сигма
+ent-RMCAreaCorsatSigmaSoutheastDataoffice = Офис данных Сигма
 
-ent-RMCAreaCorsatSigmaSoutheastDatalab-name = Лаборатория данных Сигма
+ent-RMCAreaCorsatSigmaSoutheastDatalab = Лаборатория данных Сигма
 
-ent-RMCAreaCorsatSigmaSoutheastTelecomm-name = КОРСАТ Телекоммуникации
+ent-RMCAreaCorsatSigmaSoutheastTelecomm = КОРСАТ Телекоммуникации
 
-ent-RMCAreaCorsatSigmaSoutheastGenerator-name = Вторичные генераторы CORSAT
+ent-RMCAreaCorsatSigmaSoutheastGenerator = Вторичные генераторы CORSAT
 
-ent-RMCAreaCorsatSigmaSoutheast-name = Юго-восточные коридоры сектора Сигма
+ent-RMCAreaCorsatSigmaSoutheast = Юго-восточные коридоры сектора Сигма
 
-ent-RMCAreaCorsatSigmaCheckpoint-name = Контрольно-пропускной пункт Сигма
+ent-RMCAreaCorsatSigmaCheckpoint = Контрольно-пропускной пункт Сигма
 
-ent-RMCAreaCorsatSigmaDorms-name = Жилой модуль Сигма
+ent-RMCAreaCorsatSigmaDorms = Жилой модуль Сигма
 
-ent-RMCAreaCorsatSigmaCafe-name = Кафе Сигма
+ent-RMCAreaCorsatSigmaCafe = Кафе Сигма
 
-ent-RMCAreaCorsatSigmaLavatory-name = Сигма Туалет
+ent-RMCAreaCorsatSigmaLavatory = Сигма Туалет
 
-ent-RMCAreaCorsatSigmaLaundry-name = Сигма Прачечная
+ent-RMCAreaCorsatSigmaLaundry = Сигма Прачечная
 
-ent-RMCAreaCorsatSigmaCargo-name = Сигма Карго
+ent-RMCAreaCorsatSigmaCargo = Сигма Карго
 
-ent-RMCAreaCorsatSigmaAirlockControl-name = Модуль управления куполом Sigma
+ent-RMCAreaCorsatSigmaAirlockControl = Модуль управления куполом Sigma
 
-ent-RMCAreaCorsatSigmaAirlockSouthId-name = Контрольно-пропускной пункт Sigma South ID
+ent-RMCAreaCorsatSigmaAirlockSouthId = Контрольно-пропускной пункт Sigma South ID
 
-ent-RMCAreaCorsatSigmaAirlockSouth-name = Южный шлюз Sigma Dome
+ent-RMCAreaCorsatSigmaAirlockSouth = Южный шлюз Sigma Dome
 
-ent-RMCAreaCorsatSigmaAirlockEastId-name = Контрольно-пропускной пункт Sigma East ID
+ent-RMCAreaCorsatSigmaAirlockEastId = Контрольно-пропускной пункт Sigma East ID
 
-ent-RMCAreaCorsatSigmaAirlockEast-name = Восточный шлюз Sigma Dome
+ent-RMCAreaCorsatSigmaAirlockEast = Восточный шлюз Sigma Dome
 
-ent-RMCAreaCorsatSigmaHangarSecurity-name = Сигма Ангар Охрана
+ent-RMCAreaCorsatSigmaHangarSecurity = Сигма Ангар Охрана
 
-ent-RMCAreaCorsatSigmaHangarOffice-name = Офис ангара Сигма
+ent-RMCAreaCorsatSigmaHangarOffice = Офис ангара Сигма
 
-ent-RMCAreaCorsatSigmaHangarArrivals-name = Прибытие Сигмы
+ent-RMCAreaCorsatSigmaHangarArrivals = Прибытие Сигмы
 
-ent-RMCAreaCorsatSigmaHangarId-name = Контрольно-пропускной пункт с идентификатором ангара Сигма
+ent-RMCAreaCorsatSigmaHangarId = Контрольно-пропускной пункт с идентификатором ангара Сигма
 
-ent-RMCAreaCorsatSigmaHangarCheckpoint-name = Контрольно-пропускной пункт ангара Сигма
+ent-RMCAreaCorsatSigmaHangarCheckpoint = Контрольно-пропускной пункт ангара Сигма
 
-ent-RMCAreaCorsatSigmaHangarCargo-name = Грузовой контрольно-пропускной пункт ангара Сигма
+ent-RMCAreaCorsatSigmaHangarCargo = Грузовой контрольно-пропускной пункт ангара Сигма
 
-ent-RMCAreaCorsatSigmaHangarMonorailRailcart_transit-name = КОРСАТ Монорельсовый транспорт
+ent-RMCAreaCorsatSigmaHangarMonorailRailcart_transit = КОРСАТ Монорельсовый транспорт
 
-ent-RMCAreaCorsatSigmaHangarMonorailRailcart-name = КОРСАТ Монорельсовая дорога
+ent-RMCAreaCorsatSigmaHangarMonorailRailcart = КОРСАТ Монорельсовая дорога
 
-ent-RMCAreaCorsatSigmaHangarMonorailControl-name = Управление монорельсовой дорогой Сигма
+ent-RMCAreaCorsatSigmaHangarMonorailControl = Управление монорельсовой дорогой Сигма
 
-ent-RMCAreaCorsatSigmaHangarMonorail-name = Станция монорельсовой дороги Сигма
+ent-RMCAreaCorsatSigmaHangarMonorail = Станция монорельсовой дороги Сигма
 
-ent-RMCAreaCorsatSigmaHangar-name = Лендинг Бэй Сигма
+ent-RMCAreaCorsatSigmaHangar = Лендинг Бэй Сигма
 
-ent-RMCAreaCorsatSigmaNorth-name = Северный коридор сектора Сигма
+ent-RMCAreaCorsatSigmaNorth = Северный коридор сектора Сигма
 
-ent-RMCAreaCorsatSigma-name = Сигма Сектор
+ent-RMCAreaCorsatSigma = Сигма Сектор
 
-ent-RMCAreaCorsatEmergencyAccess-name = Неизвестный район
+ent-RMCAreaCorsatEmergencyAccess = Неизвестный район
 
-ent-RMCAreaCorsatLandingConsole2-name = LZ2 'Сигма'
+ent-RMCAreaCorsatLandingConsole2 = LZ2 'Сигма'
 
-ent-RMCAreaCorsatLandingConsole-name = ЛЗ1 'Гамма'
+ent-RMCAreaCorsatLandingConsole = ЛЗ1 'Гамма'
 

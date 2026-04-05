@@ -1,3 +1,3 @@
-ent-CMShower-name = душ
-ent-CMShower-desc = ХС-451. 
+ent-CMShower = душ
+  .desc = ХС-451. 
 

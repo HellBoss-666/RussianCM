@@ -1,18 +1,18 @@
-ent-RMCLockerFridgeFish-name = рыба
-ent-RMCLockerFridgeFish-desc = Это неподвижное хранилище, закрывающееся картой.
+ent-RMCLockerFridgeFish = рыба
+  .desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeMeat-name = мясо
-ent-RMCLockerFridgeMeat-desc = Это неподвижное хранилище, закрывающееся картой.
+ent-RMCLockerFridgeMeat = мясо
+  .desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeDry-name = сухой
-ent-RMCLockerFridgeDry-desc = Это неподвижное хранилище, закрывающееся картой.
+ent-RMCLockerFridgeDry = сухой
+  .desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeOrganic-name = органический
-ent-RMCLockerFridgeOrganic-desc = Это неподвижное хранилище, закрывающееся картой.
+ent-RMCLockerFridgeOrganic = органический
+  .desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-RMCLockerFridgeGroceries-name = продукты
-ent-RMCLockerFridgeGroceries-desc = Это неподвижное хранилище, закрывающееся картой.
+ent-RMCLockerFridgeGroceries = продукты
+  .desc = Это неподвижное хранилище, закрывающееся картой.
 
-ent-CMLockerFridge-name = холодильник
-ent-CMLockerFridge-desc = Это неподвижное хранилище, закрывающееся картой.
+ent-CMLockerFridge = холодильник
+  .desc = Это неподвижное хранилище, закрывающееся картой.
 

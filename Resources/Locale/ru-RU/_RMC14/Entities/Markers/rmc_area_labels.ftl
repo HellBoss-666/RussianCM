@@ -1,14 +1,14 @@
-ent-RMCMarkerAreaLabel-name = область
+ent-RMCMarkerAreaLabel = область
 
-ent-RMCMarkerAreaLabelRed-name = область
+ent-RMCMarkerAreaLabelRed = область
 
-ent-RMCMarkerAreaLabelBlue-name = область
+ent-RMCMarkerAreaLabelBlue = область
 
-ent-RMCMarkerAreaLabelGreen-name = область
+ent-RMCMarkerAreaLabelGreen = область
 
-ent-RMCMarkerAreaLabelCyan-name = область
+ent-RMCMarkerAreaLabelCyan = область
 
-ent-RMCMarkerAreaLabelPurple-name = область
+ent-RMCMarkerAreaLabelPurple = область
 
-ent-RMCMarkerAreaLabelOrange-name = область
+ent-RMCMarkerAreaLabelOrange = область
 

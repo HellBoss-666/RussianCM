@@ -1,3 +1,3 @@
-ent-RMCGuidebookRolePvM-name = Провост Маршал
-ent-RMCGuidebookRolePvM-desc = Провост Маршал
+ent-RMCGuidebookRolePvM = Провост Маршал
+  .desc = Провост Маршал
 

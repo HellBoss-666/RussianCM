@@ -1,48 +1,48 @@
-ent-CMUpgradedTraumaKit-name = upgraded trauma kit
+ent-CMUpgradedTraumaKit = upgraded trauma kit
 
-ent-CMUpgradedBurnKit-name = upgraded burn kit
+ent-CMUpgradedBurnKit = upgraded burn kit
 
-ent-CMTraumaKit-name = advanced trauma kit
+ent-CMTraumaKit = advanced trauma kit
 
-ent-CMBurnKit-name = advanced burn kit
+ent-CMBurnKit = advanced burn kit
 
-ent-CMSynthGraft-name = synth graft
-ent-CMSynthGraft-desc = An applicator for silicon skin field grafts. The stuff reeks, itches like the dickens, hurts going on, and the color is a perfectly averaged multiethnic tone that doesn't blend with anyone's complexion. But at least you don't have to stay in sickbay.
+ent-CMSynthGraft = synth graft
+  .desc = An applicator for silicon skin field grafts. The stuff reeks, itches like the dickens, hurts going on, and the color is a perfectly averaged multiethnic tone that doesn't blend with anyone's complexion. But at least you don't have to stay in sickbay.
 
-ent-CMSurgicalLine-name = surgical line
-ent-CMSurgicalLine-desc = A roll of military-grade surgical line, able to seamlessly sew up any wound. Also works as a robust fishing line for maritime deployments.
+ent-CMSurgicalLine = surgical line
+  .desc = A roll of military-grade surgical line, able to seamlessly sew up any wound. Also works as a robust fishing line for maritime deployments.
 
-ent-CMGauze-name = gauze
+ent-CMGauze = gauze
 
-ent-CMOintment-name = ointment
+ent-CMOintment = ointment
 
-ent-CMUpgradedTraumaKit10-name = upgraded trauma kit
+ent-CMUpgradedTraumaKit10 = upgraded trauma kit
 
-ent-CMUpgradedBurnKit10-name = upgraded burn kit
+ent-CMUpgradedBurnKit10 = upgraded burn kit
 
-ent-CMTraumaKit10-name = advanced trauma kit
+ent-CMTraumaKit10 = advanced trauma kit
 
-ent-CMBurnKit10-name = advanced burn kit
+ent-CMBurnKit10 = advanced burn kit
 
-ent-CMSynthGraft10-name = синтетический трансплантат
+ent-CMSynthGraft10 = синтетический трансплантат
 
-ent-CMSurgicalLine10-name = хирургическая нить
+ent-CMSurgicalLine10 = хирургическая нить
 
-ent-CMGauze10-name = gauze
+ent-CMGauze10 = gauze
 
-ent-CMOintment10-name = ointment
+ent-CMOintment10 = ointment
 
-ent-CMBaseHealingItem-name = item
+ent-CMBaseHealingItem = item
 
-ent-CMOintment1-name = ointment
+ent-CMOintment1 = ointment
 
-ent-CMGauze1-name = gauze
+ent-CMGauze1 = gauze
 
-ent-CMBurnKit1-name = advanced burn kit
+ent-CMBurnKit1 = advanced burn kit
 
-ent-CMTraumaKit1-name = advanced trauma kit
+ent-CMTraumaKit1 = advanced trauma kit
 
-ent-CMUpgradedBurnKit1-name = upgraded burn kit
+ent-CMUpgradedBurnKit1 = upgraded burn kit
 
-ent-CMUpgradedTraumaKit1-name = upgraded trauma kit
+ent-CMUpgradedTraumaKit1 = upgraded trauma kit
 

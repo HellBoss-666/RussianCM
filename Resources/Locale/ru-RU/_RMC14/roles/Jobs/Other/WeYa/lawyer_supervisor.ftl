@@ -1,2 +1,2 @@
-ent-RMCRandomHumanoidWeYaLawyerSupervisor-name = Weya Корпоративный призрак, роль юриста-супервайзера
+ent-RMCRandomHumanoidWeYaLawyerSupervisor = Weya Корпоративный призрак, роль юриста-супервайзера
 

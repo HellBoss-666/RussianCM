@@ -1,2 +1,2 @@
-ent-RMCAegisSpawner-name = Создатель ящиков AEGIS
+ent-RMCAegisSpawner = Создатель ящиков AEGIS
 

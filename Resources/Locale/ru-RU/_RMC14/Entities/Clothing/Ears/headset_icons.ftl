@@ -1,16 +1,16 @@
-ent-RMCHeadsetIcons-name = токарный станок-категория-одежда
+ent-RMCHeadsetIcons = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsWeYa-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsWeYa = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsUNMC-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsUNMC = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsSPP-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsSPP = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsTSE-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsTSE = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsPara-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsPara = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsCLF-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsCLF = токарный станок-категория-одежда
 
-ent-RMCHeadsetIconsCMB-name = токарный станок-категория-одежда
+ent-RMCHeadsetIconsCMB = токарный станок-категория-одежда
 

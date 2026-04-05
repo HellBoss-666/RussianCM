@@ -1,3 +1,3 @@
-ent-RMCIDCardFreePressResponder-name = Удостоверение свободы прессы
-ent-RMCIDCardFreePressResponder-desc = Обычное удостоверение личности. 
+ent-RMCIDCardFreePressResponder = Удостоверение свободы прессы
+  .desc = Обычное удостоверение личности. 
 

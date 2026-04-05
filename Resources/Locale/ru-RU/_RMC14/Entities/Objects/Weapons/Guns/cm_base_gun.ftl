@@ -1,3 +1,3 @@
-ent-RMCBaseBullet-name = БазаBullet
-ent-RMCBaseBullet-desc = Если ты это видишь, ты, вероятно, мертв!
+ent-RMCBaseBullet = БазаBullet
+  .desc = Если ты это видишь, ты, вероятно, мертв!
 

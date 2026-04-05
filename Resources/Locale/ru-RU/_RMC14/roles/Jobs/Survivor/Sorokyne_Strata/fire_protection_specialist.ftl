@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetFireProtectionSpecialist-name = Предварительная настройка специалиста по пожарной безопасности
+ent-RMCGearSurvivorPresetFireProtectionSpecialist = Предварительная настройка специалиста по пожарной безопасности
 
-ent-RMCSpawnPointSurvivorFireProtectionSpecialist-name = Место появления специалиста по пожарной безопасности
-ent-RMCSpawnPointSurvivorFireProtectionSpecialist-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorFireProtectionSpecialist = Место появления специалиста по пожарной безопасности
+  .desc = Создатель заданий RMC14. 
 

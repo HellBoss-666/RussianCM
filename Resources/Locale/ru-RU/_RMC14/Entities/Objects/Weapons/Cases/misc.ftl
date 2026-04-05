@@ -1,3 +1,3 @@
-ent-RMCKitHonorGuard-name = комплект почетного караула
-ent-RMCKitHonorGuard-desc = Кейс со снаряжением почетного караула.
+ent-RMCKitHonorGuard = комплект почетного караула
+  .desc = Кейс со снаряжением почетного караула.
 

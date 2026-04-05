@@ -1,3 +1,3 @@
-ent-RMCIDCardCLFResponder-name = Удостоверение информационного корреспондента CLF
-ent-RMCIDCardCLFResponder-desc = Неровная резьба букв CLF скрывает выцветший корпоративный логотип.
+ent-RMCIDCardCLFResponder = Удостоверение информационного корреспондента CLF
+  .desc = Неровная резьба букв CLF скрывает выцветший корпоративный логотип.
 

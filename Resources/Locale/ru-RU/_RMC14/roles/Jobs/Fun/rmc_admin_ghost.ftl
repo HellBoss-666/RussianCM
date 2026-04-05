@@ -1,3 +1,3 @@
-ent-RMCAdminObserver-name = администратор-наблюдатель
-ent-RMCAdminObserver-desc = Бу!
+ent-RMCAdminObserver = администратор-наблюдатель
+  .desc = Бу!
 

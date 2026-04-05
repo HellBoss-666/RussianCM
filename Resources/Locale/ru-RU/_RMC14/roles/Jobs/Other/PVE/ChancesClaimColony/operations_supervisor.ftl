@@ -1,5 +1,5 @@
-ent-RMCSpawnPointSurvivorOperationsSupervisor-name = точка появления
-ent-RMCSpawnPointSurvivorOperationsSupervisor-desc = A RMC14 job spawner. Used for roundstart and late joins.
+ent-RMCSpawnPointSurvivorOperationsSupervisor = точка появления
+  .desc = A RMC14 job spawner. Used for roundstart and late joins.
 
-ent-RMCRandomHumanoidSurvivorOperationsSupervisor-name = роль призрака руководителя операций шансов
+ent-RMCRandomHumanoidSurvivorOperationsSupervisor = роль призрака руководителя операций шансов
 

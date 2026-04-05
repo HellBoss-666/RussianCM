@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetHybrisaTMCCMiner-name = настройки майнера tmcc
+ent-RMCGearSurvivorPresetHybrisaTMCCMiner = настройки майнера tmcc
 
-ent-RMCSpawnPointSurvivorHybrisaTMCCMiner-name = Точка спавна майнера tmcc
-ent-RMCSpawnPointSurvivorHybrisaTMCCMiner-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorHybrisaTMCCMiner = Точка спавна майнера tmcc
+  .desc = Создатель заданий RMC14. 
 

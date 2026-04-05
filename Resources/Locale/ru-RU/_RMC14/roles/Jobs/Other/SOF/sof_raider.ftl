@@ -1,8 +1,8 @@
-ent-RMCDogtagMarineRaider-name = Жетоны Морпеха Рейдера
-ent-RMCDogtagMarineRaider-desc = Жетон Морпех.
+ent-RMCDogtagMarineRaider = Жетоны Морпеха Рейдера
+  .desc = Жетон Морпех.
 
-ent-RMCRandomHumanoidMarineRaider-name = DEATHSQUAD Морпех роль призрака рейдера
+ent-RMCRandomHumanoidMarineRaider = DEATHSQUAD Морпех роль призрака рейдера
 
-ent-RMCDogtagMarineRaiderHidden-name = жетон для собаки
-ent-RMCDogtagMarineRaiderHidden-desc = Жетон Морпех.
+ent-RMCDogtagMarineRaiderHidden = жетон для собаки
+  .desc = Жетон Морпех.
 

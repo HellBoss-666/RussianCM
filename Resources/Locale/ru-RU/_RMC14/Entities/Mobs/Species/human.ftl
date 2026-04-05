@@ -1,2 +1,2 @@
-ent-CMMobHuman-name = Урист С.М. 
+ent-CMMobHuman = Урист С.М. 
 

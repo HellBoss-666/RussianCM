@@ -1,2 +1,2 @@
-ent-RMCDogLizard-name = собака
+ent-RMCDogLizard = собака
 

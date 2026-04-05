@@ -1,3 +1,3 @@
-ent-RMCSpawnPointFORECONPVERadioTelephoneOperator-name = точка появления Forecon RTO
-ent-RMCSpawnPointFORECONPVERadioTelephoneOperator-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointFORECONPVERadioTelephoneOperator = точка появления Forecon RTO
+  .desc = Создатель заданий RMC14. 
 

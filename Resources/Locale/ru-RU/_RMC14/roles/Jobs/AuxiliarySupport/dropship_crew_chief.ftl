@@ -1,3 +1,3 @@
-ent-CMSpawnPointDCC-name = Место появления начальника экипажа десантного корабля
-ent-CMSpawnPointDCC-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointDCC = Место появления начальника экипажа десантного корабля
+  .desc = Создатель заданий RMC14. 
 

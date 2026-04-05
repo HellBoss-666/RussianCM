@@ -1,5 +1,5 @@
-ent-RMCGearSurvivorPresetMedicalTechnician-name = Предварительная настройка медицинского техника-колониста
+ent-RMCGearSurvivorPresetMedicalTechnician = Предварительная настройка медицинского техника-колониста
 
-ent-RMCSpawnPointSurvivorMedicalTechnician-name = Точка появления выжившего медицинского техника
-ent-RMCSpawnPointSurvivorMedicalTechnician-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorMedicalTechnician = Точка появления выжившего медицинского техника
+  .desc = Создатель заданий RMC14. 
 

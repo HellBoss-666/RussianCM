@@ -1,3 +1,3 @@
-ent-WeaponShotgunCustomBuilt-name = дробовик, изготовленный по индивидуальному заказу
-ent-WeaponShotgunCustomBuilt-desc = Слепленная куча металлолома и чужеродной древесины. 
+ent-WeaponShotgunCustomBuilt = дробовик, изготовленный по индивидуальному заказу
+  .desc = Слепленная куча металлолома и чужеродной древесины. 
 

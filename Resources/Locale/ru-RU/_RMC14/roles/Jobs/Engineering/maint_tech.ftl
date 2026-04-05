@@ -1,3 +1,3 @@
-ent-CMSpawnPointMaintTech-name = точка спавна техники
-ent-CMSpawnPointMaintTech-desc = Создатель заданий RMC14. 
+ent-CMSpawnPointMaintTech = точка спавна техники
+  .desc = Создатель заданий RMC14. 
 

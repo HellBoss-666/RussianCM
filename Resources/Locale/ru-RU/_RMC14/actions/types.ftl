@@ -1,9 +1,9 @@
-ent-ActionToggleVulpkaninWagging-name = Вилять хвостом
-ent-ActionToggleVulpkaninWagging-desc = Начни или перестань вилять хвостом.
+ent-ActionToggleVulpkaninWagging = Вилять хвостом
+  .desc = Начни или перестань вилять хвостом.
 
-ent-ActionToggleFelinidWagging-name = Вилять хвостом
-ent-ActionToggleFelinidWagging-desc = Начни или перестань вилять хвостом.
+ent-ActionToggleFelinidWagging = Вилять хвостом
+  .desc = Начни или перестань вилять хвостом.
 
-ent-ActionToggleAvaliWagging-name = Вилять хвостом
-ent-ActionToggleAvaliWagging-desc = Начни или перестань вилять хвостом.
+ent-ActionToggleAvaliWagging = Вилять хвостом
+  .desc = Начни или перестань вилять хвостом.
 

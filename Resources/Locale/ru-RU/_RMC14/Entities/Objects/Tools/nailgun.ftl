@@ -1,4 +1,4 @@
-ent-RMCNailgunTactical-name = элемент
+ent-RMCNailgunTactical = элемент
 
-ent-RMCNailgunCompact-name = элемент
+ent-RMCNailgunCompact = элемент
 

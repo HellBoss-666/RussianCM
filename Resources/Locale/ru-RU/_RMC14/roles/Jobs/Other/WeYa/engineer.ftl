@@ -1,5 +1,5 @@
-ent-RMCSpawnPointPMCEngineer-name = точка появления инженера Weya PMC
-ent-RMCSpawnPointPMCEngineer-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointPMCEngineer = точка появления инженера Weya PMC
+  .desc = Создатель заданий RMC14. 
 
-ent-RMCRandomHumanoidPMCEngineer-name = инженер-призрак weya pmc
+ent-RMCRandomHumanoidPMCEngineer = инженер-призрак weya pmc
 

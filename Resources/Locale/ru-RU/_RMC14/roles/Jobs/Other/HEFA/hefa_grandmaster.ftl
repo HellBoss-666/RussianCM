@@ -1,4 +1,4 @@
-ent-RMCRandomHumanoidHEFAShrapnelswornFriendly-name = роль призрака хефа, гроссмейстер
+ent-RMCRandomHumanoidHEFAShrapnelswornFriendly = роль призрака хефа, гроссмейстер
 
-ent-RMCRandomHumanoidHEFAShrapnelswornHostile-name = роль призрака хефа, гроссмейстер
+ent-RMCRandomHumanoidHEFAShrapnelswornHostile = роль призрака хефа, гроссмейстер
 

@@ -1,3 +1,3 @@
-ent-RMCSpawnPointSurvivorGoon-name = точка спавна выжившего головореза
-ent-RMCSpawnPointSurvivorGoon-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorGoon = точка спавна выжившего головореза
+  .desc = Создатель заданий RMC14. 
 

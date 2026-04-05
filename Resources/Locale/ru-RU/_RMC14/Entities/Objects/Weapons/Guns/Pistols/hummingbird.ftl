@@ -1,5 +1,5 @@
-ent-RMCMagazinePistolD18-name = item
-ent-RMCMagazinePistolD18-desc = A pistol magazine.
+ent-RMCMagazinePistolD18 = item
+  .desc = A pistol magazine.
 
-ent-RMCWeaponPistolD18-name = D18 «Колибри»
+ent-RMCWeaponPistolD18 = D18 «Колибри»
 

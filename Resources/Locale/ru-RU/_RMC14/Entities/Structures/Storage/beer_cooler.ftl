@@ -1,9 +1,9 @@
-ent-RMCBeerCoolerBase-name = ящик для заморозки
-ent-RMCBeerCoolerBase-desc = Уютный холодильник для пива и других напитков.
+ent-RMCBeerCoolerBase = ящик для заморозки
+  .desc = Уютный холодильник для пива и других напитков.
 
-ent-RMCBeerCooler-name = ящик для заморозки
-ent-RMCBeerCooler-desc = Уютный холодильник для пива и других напитков.
+ent-RMCBeerCooler = ящик для заморозки
+  .desc = Уютный холодильник для пива и других напитков.
 
-ent-RMCBeerCoolerFilled-name = ящик для заморозки
-ent-RMCBeerCoolerFilled-desc = Уютный холодильник для пива и других напитков.
+ent-RMCBeerCoolerFilled = ящик для заморозки
+  .desc = Уютный холодильник для пива и других напитков.
 

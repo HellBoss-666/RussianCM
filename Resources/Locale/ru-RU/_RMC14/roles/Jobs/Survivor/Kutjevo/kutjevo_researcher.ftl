@@ -1,5 +1,5 @@
-ent-RMCSurvivorPresetKutjevoResearcher-name = Кутьево исследователь колонист пресет
+ent-RMCSurvivorPresetKutjevoResearcher = Кутьево исследователь колонист пресет
 
-ent-RMCSpawnPointSurvivorKutjevoResearcher-name = выживший исследователь Кутьево точка возрождения
-ent-RMCSpawnPointSurvivorKutjevoResearcher-desc = Создатель заданий RMC14. 
+ent-RMCSpawnPointSurvivorKutjevoResearcher = выживший исследователь Кутьево точка возрождения
+  .desc = Создатель заданий RMC14. 
 

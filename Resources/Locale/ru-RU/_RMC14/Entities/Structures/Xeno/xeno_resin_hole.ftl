@@ -1,3 +1,3 @@
-ent-XenoResinHole-name = смоляная ловушка
-ent-XenoResinHole-desc = Похоже на тайник.
+ent-XenoResinHole = смоляная ловушка
+  .desc = Похоже на тайник.
 

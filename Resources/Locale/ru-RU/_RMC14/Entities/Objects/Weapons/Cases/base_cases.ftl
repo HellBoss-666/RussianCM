@@ -1,8 +1,8 @@
-ent-RMCBaseEquipmentCase-name = кейс для базового оборудования
-ent-RMCBaseEquipmentCase-desc = Разгрузочный кейс.
+ent-RMCBaseEquipmentCase = кейс для базового оборудования
+  .desc = Разгрузочный кейс.
 
-ent-RMCGunCaseBase-name = базовый чехол для пистолета
-ent-RMCGunCaseBase-desc = Кейс с оружием.
+ent-RMCGunCaseBase = базовый чехол для пистолета
+  .desc = Кейс с оружием.
 
-ent-RMCCaseBase-name = случай
+ent-RMCCaseBase = случай
 

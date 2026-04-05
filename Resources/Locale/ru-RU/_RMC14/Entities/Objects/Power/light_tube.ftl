@@ -1,17 +1,17 @@
-ent-CMLightTubeBroken-name = люминесцентная лампа
+ent-CMLightTubeBroken = люминесцентная лампа
 
-ent-CMLightTube-name = люминесцентная лампа
+ent-CMLightTube = люминесцентная лампа
 
-ent-RMCLightTubeBase-name = item
+ent-RMCLightTubeBase = item
 
-ent-RMCLightTube-name = item
+ent-RMCLightTube = item
 
-ent-RMCLightTubeBlue-name = item
+ent-RMCLightTubeBlue = item
 
-ent-RMCLightTubeWarm-name = item
+ent-RMCLightTubeWarm = item
 
-ent-RMCLightTubeRed-name = item
+ent-RMCLightTubeRed = item
 
-ent-RMCLightTubeBroken-name = light tube
-ent-RMCLightTubeBroken-desc = A replacement light tube.
+ent-RMCLightTubeBroken = light tube
+  .desc = A replacement light tube.
 

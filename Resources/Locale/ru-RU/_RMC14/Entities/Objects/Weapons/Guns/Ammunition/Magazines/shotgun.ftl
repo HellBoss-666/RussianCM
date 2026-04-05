@@ -1,2 +1,2 @@
-ent-RMCMagazineShotgunXM51-name = элемент
+ent-RMCMagazineShotgunXM51 = элемент
 
