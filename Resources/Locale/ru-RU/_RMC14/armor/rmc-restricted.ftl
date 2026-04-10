@@ -1,4 +1,3 @@
-```ftl id="a2m8vz"
 rmc-armor-not-intel-jumpsuit = Вы не можете носить это без формы офицера разведки морской пехоты.
 
 rmc-armor-not-marine-jumpsuit = Вы не можете носить это без униформы UNMC.
