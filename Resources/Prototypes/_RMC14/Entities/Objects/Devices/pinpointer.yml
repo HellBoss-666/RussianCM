@@ -67,8 +67,8 @@
 
 - type: entity
   parent: BaseItem
-  id: RMCCrewPinpointer
-  name: crew pinpointer
+  id: RMCCrewMonitor
+  name: crew monitor
   description: A handheld personnel tracker. Use it to select a crew member to track.
   components:
   - type: Transform
