@@ -1,4 +1,4 @@
-ent-RMCVendorBundleCompactNailgunKit = компактный набор для гвоздамета
+ent-RMCVendorBundleCompactNailgunKit = компактный набор для гвоздомета
   .desc = В комплект входит компактный гвоздодер, два магазина и кобура для гвоздемета.
 
 ent-WeYaExperimentalToolsVendor = We-Ya Торговец экспериментальными инструментами

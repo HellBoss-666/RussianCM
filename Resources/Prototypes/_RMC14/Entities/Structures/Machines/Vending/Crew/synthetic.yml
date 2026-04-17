@@ -325,7 +325,7 @@
       entries:
       - id: RMCSynthBreachingHammer
         points: 15
-      - id: RMCDefibrillatorCompact
+      - id: RuMCDefibrillatorCompact
         points: 15
       - id: RMCVendorBundleCompactNailgunKit
         points: 15
