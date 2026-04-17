@@ -1,12 +1,12 @@
 using System.Threading.Tasks;
 using Content.Server.Chat.Systems;
-using Content.Server.Database.Migrations.Postgres;
+using Content.Shared._RMC14.Marines;
 using Content.Shared.Corvax.CCCVars;
 using Content.Shared.Corvax.TTS;
 using Content.Shared.GameTicking;
+using Content.Shared.Ghost;
 using Content.Shared.Players.RateLimiting;
 using Content.Shared.Radio;
-using Microsoft.CodeAnalysis.Emit;
 using Robust.Shared.Configuration;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
@@ -15,8 +15,6 @@ using Content.Server.Radio.EntitySystems;
 using Content.Server.Radio.Components;
 using Content.Shared.Radio.Components;
 using Content.Server.Radio;
-using Content.Shared.RetractableItemAction;
-using Content.Shared._RMC14.Medical.Wounds;
 using Content.Shared._RMC14.Radio;
 
 namespace Content.Server.Corvax.TTS;
@@ -64,6 +62,7 @@ public sealed partial class TTSSystem : EntitySystem
 
         SubscribeLocalEvent<ActorComponent, HeadsetRadioReceiveRelayEvent>(OnHeadsetRadioReceive);
         SubscribeLocalEvent<TTSComponent, RadioReceiveEvent>(OnIntrinsicRadioReceive);
+        SubscribeLocalEvent<RMCAnnouncementMadeEvent>(OnAnnouncementMade);
         SubscribeNetworkEvent<RequestPreviewTTSEvent>(OnRequestPreviewTTS);
 
         RegisterRateLimits();
@@ -173,6 +172,36 @@ public sealed partial class TTSSystem : EntitySystem
     {
         if (TryComp<ActorComponent>(uid, out var actor))
             _ = HandleRadioTTS(uid, actor, args);
+    }
+
+    private async void OnAnnouncementMade(RMCAnnouncementMadeEvent args)
+    {
+        Logger.Debug("OnAnnouncementMade");
+        var voiceId = "TURRET_FLOOR";
+        if (TryComp<TTSComponent>(args.Source, out var component))
+            voiceId = component.VoicePrototypeId;
+        if (voiceId is null)
+            voiceId = "TURRET_FLOOR";
+
+        Logger.Debug(voiceId);
+        if (!_isEnabled)
+            return;
+
+        if (!_prototypeManager.TryIndex<TTSVoicePrototype>(voiceId, out var protoVoice))
+            return;
+        Logger.Debug("get him");
+        var soundData = await GenerateTTS(args.RawMessage, protoVoice.Speaker);
+        if (soundData is null)
+            return;
+        Logger.Debug("get his ass");
+
+        var filter = Filter.Empty()
+            .AddWhereAttachedEntity(e => HasComp<MarineComponent>(e) || HasComp<GhostComponent>(e));
+
+        foreach (var session in filter.Recipients)
+        {
+            RaiseNetworkEvent(new PlayTTSEvent(soundData, isRadio: true), session);
+        }
     }
 
     public async Task HandleRadioTTS(

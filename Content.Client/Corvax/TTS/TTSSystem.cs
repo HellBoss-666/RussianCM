@@ -88,9 +88,10 @@ public sealed class TTSSystem : EntitySystem
 
         if (ev.IsRadio)
         {
+            Logger.Debug("ev.IsRadio сработало!");
             _audio.PlayGlobal(audioResource.AudioStream, soundSpecifier, audioParams);
         }
-        else if (ev.SourceUid != null)
+        if (ev.SourceUid != null)
         {
             if (!TryGetEntity(ev.SourceUid.Value, out _))
                 return;
