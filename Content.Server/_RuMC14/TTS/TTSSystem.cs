@@ -109,16 +109,31 @@ public sealed partial class TTSSystem : EntitySystem
             return;
         }
 
-        HandleSay(uid, args.Message, protoVoice.Speaker);
+        HandleSay(uid, args.Message, protoVoice.Speaker, component.Faction);
     }
 
-    private async void HandleSay(EntityUid uid, string message, string speaker)
+    private async void HandleSay(EntityUid uid, string message, string speaker, HearingFaction faction)
     {
         var soundData = await GenerateTTS(message, speaker);
         if (soundData is null) return;
-        RaiseNetworkEvent(new PlayTTSEvent(soundData, GetNetEntity(uid)), Filter.Pvs(uid));
-    }
+        var recipients = Filter.Pvs(uid).Recipients;
 
+        foreach (var session in recipients)
+        {
+            if (!session.AttachedEntity.HasValue)
+                continue;
+
+            var listener = session.AttachedEntity.Value;
+
+            if (!TryComp<TTSComponent>(listener, out var listenerTts))
+                continue;
+
+            if (listenerTts.Faction != faction)
+                continue;
+
+            RaiseNetworkEvent(new PlayTTSEvent(soundData, GetNetEntity(uid)), session);
+        }
+    }
     private async void HandleWhisper(EntityUid uid, string message, string obfMessage, string speaker)
     {
         var fullSoundData = await GenerateTTS(message, speaker, true);

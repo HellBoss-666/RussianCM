@@ -1656,3 +1656,11 @@
   sex: Female
   speaker: mitashorthairs
   roundStart: true
+
+- type: ttsVoice
+  id: BOYZ_ORKS
+  name: Бойзы Орков
+  sex: Female
+  speaker: orks_dow
+  roundStart: true
+

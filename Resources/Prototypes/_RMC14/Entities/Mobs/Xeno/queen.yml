@@ -10,6 +10,9 @@
   name: Королева
   description: Огромное, угрожающее инопланетное существо. Самое большое и самое зловещее.
   components:
+    - type: TTS
+      voice: CIRILLA
+      faction: Xeno
     - type: GuideHelp
       guides:
         - RMCGuideRoleQueen
