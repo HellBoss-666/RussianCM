@@ -11,6 +11,9 @@
   name: Плеватель
   description: Какой-то отвратительный, склизкий инопланетянин.
   components:
+  - type: TTS
+    voice: REXXAR
+    faction: Xeno
   - type: GuideHelp
     guides:
     - RMCGuideRoleSpitter

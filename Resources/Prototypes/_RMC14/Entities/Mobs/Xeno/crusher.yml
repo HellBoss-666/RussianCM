@@ -11,6 +11,9 @@
   name: Крушитель
   description: Большой инопланетянин с очень бронированным панцирем.
   components:
+    - type: TTS
+      voice: BOYZ_ORKS
+      faction: Xeno
     - type: GuideHelp
       guides:
         - RMCGuideRoleCrusher
