@@ -3,17 +3,26 @@
   parent: BaseItem
   id: RMCCasingBase
   name: base casing
-  description:  An empty casing.
+  description: An empty casing.
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/CustomOrdnance/m40grenadecasing.rsi
     state: icon
   - type: Item
     size: Small
+  - type: PayloadCase
+  - type: ExplosionResistance
+    damageCoefficient: 0
+  - type: Destructible
+    thresholds: []
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Grenade casings
+# ──────────────────────────────────────────────────────────────────────────────
 
 - type: entity
-  name: 30mm grenade casing
-  description: A casing for an 30mm Grenade.
+  name: 30mm grenade casing (M40)
+  description: An empty M40 grenade casing. Fill with a detonator assembly and chemicals, then prime.
   parent: RMCCasingBase
   id: RMCM40GrenadeCasing
   components:
@@ -22,10 +31,36 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 4250
+  - type: RMCChembombCasing
+    maxVolume: 120
+    basePower: 180
+    baseFalloff: 80
+    baseShards: 40
+    minFireIntensity: 3
+    maxFireIntensity: 25
+    minFireRadius: 1
+    maxFireRadius: 5
+    minFireDuration: 3
+    maxFireDuration: 24
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 120
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
+  - type: Tag
+    tags:
+    - RMCGrenadeM40
+    - LauncherCompatibleGrenade
 
 - type: entity
   name: M15 grenade casing
-  description: A casing for an M15 Grenade.
+  description: An empty M15 grenade casing. Fill with a detonator assembly and chemicals, then prime.
   parent: RMCCasingBase
   id: RMCM15GrenadeCasing
   components:
@@ -34,10 +69,32 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 7000
+  - type: RMCChembombCasing
+    maxVolume: 180
+    basePower: 220
+    baseFalloff: 120
+    baseShards: 80
+    minFireIntensity: 3
+    maxFireIntensity: 30
+    minFireRadius: 1
+    maxFireRadius: 6
+    minFireDuration: 3
+    maxFireDuration: 32
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
 
 - type: entity
   name: M20 mine casing
-  description: A casing for an M20 Claymore mine.
+  description: An empty M20 claymore mine casing. Fill with a detonator assembly and chemicals.
   parent: RMCCasingBase
   id: RMCM20MineCasing
   components:
@@ -46,10 +103,32 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 3750
+  - type: RMCChembombCasing
+    maxVolume: 120
+    basePower: 100
+    baseFalloff: 80
+    baseShards: 40
+    minFireIntensity: 3
+    maxFireIntensity: 20
+    minFireRadius: 2
+    maxFireRadius: 4
+    minFireDuration: 3
+    maxFireDuration: 18
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 120
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
 
 - type: entity
   name: C4 plastic casing
-  description: A casing for a plastic explosive.
+  description: An empty C4 plastic explosive casing. Must be planted on an object. Fill with a detonator assembly and chemicals.
   parent: RMCCasingBase
   id: RMCC4PlasticCasing
   components:
@@ -59,10 +138,36 @@
     materialComposition:
       CMSteel: 7500
       RMCPlastic: 2000
+  - type: RMCChembombCasing
+    maxVolume: 180
+    basePower: 280
+    baseFalloff: 120
+    baseShards: 100
+    minFireIntensity: 4
+    maxFireIntensity: 50
+    minFireRadius: 2
+    maxFireRadius: 4
+    minFireDuration: 5
+    maxFireDuration: 20
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Rocket / Mortar components
+# ──────────────────────────────────────────────────────────────────────────────
 
 - type: entity
   name: 84mm rocket tube
-  description: A tube for a 84mm rocket.
+  description: A fuel tube for the 84mm rocket. Fill with 60u of methane before assembly.
   parent: RMCCasingBase
   id: RMC84mmRocketTube
   components:
@@ -71,10 +176,16 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 7500
+  - type: SolutionContainerManager
+    solutions:
+      fuel:
+        maxVol: 60
+  - type: Item
+    size: Normal
 
 - type: entity
   name: 84mm rocket warhead
-  description: A warhead for a 84mm rocket.
+  description: A warhead for the 84mm rocket. Insert two igniters and fill with chemicals.
   parent: RMCCasingBase
   id: RMC84mmRocketWarhead
   components:
@@ -83,10 +194,34 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 11250
+  - type: RMCChembombCasing
+    maxVolume: 180
+    basePower: 220
+    baseFalloff: 160
+    baseShards: 80
+    minFireIntensity: 4
+    maxFireIntensity: 45
+    minFireRadius: 2
+    maxFireRadius: 4
+    minFireDuration: 5
+    maxFireDuration: 36
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
+  - type: Item
+    size: Normal
 
 - type: entity
   name: 80mm mortar shell casing
-  description: A shell for a 84mm mortar.
+  description: A shell for the 80mm mortar. Fill with 60u of hydrogen fuel before assembly.
   parent: RMCCasingBase
   id: RMC80mmMortarShell
   components:
@@ -95,10 +230,16 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 18750
+  - type: SolutionContainerManager
+    solutions:
+      fuel:
+        maxVol: 60
+  - type: Item
+    size: Normal
 
 - type: entity
-  name: 80mm mortar shell warhead
-  description: A warhead for a 84mm mortar.
+  name: 80mm mortar warhead
+  description: A warhead for the 80mm mortar. Insert two igniters and fill with chemicals.
   parent: RMCCasingBase
   id: RMC80mmMortarWarhead
   components:
@@ -107,10 +248,34 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 11250
+  - type: RMCChembombCasing
+    maxVolume: 240
+    basePower: 360
+    baseFalloff: 130
+    baseShards: 200
+    minFireIntensity: 5
+    maxFireIntensity: 45
+    minFireRadius: 3
+    maxFireRadius: 8
+    minFireDuration: 5
+    maxFireDuration: 48
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 240
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
+  - type: Item
+    size: Normal
 
 - type: entity
-  name: 80mm mortar shell camera warhead
-  description: A camera warhead for a 84mm mortar.
+  name: 80mm mortar camera warhead
+  description: A camera warhead for the 80mm mortar. Meant to be used with Flash Powder.
   parent: RMCCasingBase
   id: RMC80mmMortarCameraWarhead
   components:
@@ -119,6 +284,30 @@
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 15000
+  - type: RMCChembombCasing
+    maxVolume: 180
+    basePower: 360
+    baseFalloff: 130
+    baseShards: 200
+    minFireIntensity: 5
+    maxFireIntensity: 45
+    minFireRadius: 3
+    maxFireRadius: 8
+    minFireDuration: 5
+    maxFireDuration: 48
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          components:
+          - RMCDetonatorAssembly
+  - type: Item
+    size: Normal
 
 - type: entity
   name: Custom M34 smoke tank

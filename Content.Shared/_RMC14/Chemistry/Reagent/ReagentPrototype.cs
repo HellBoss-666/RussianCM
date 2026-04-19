@@ -38,6 +38,12 @@ public partial class ReagentPrototype
     public FixedPoint2 RadiusMod;
 
     [DataField]
+    public FixedPoint2 PowerMod;
+
+    [DataField]
+    public FixedPoint2 FalloffMod;
+
+    [DataField]
     public bool FireSpread;
 
     [DataField]

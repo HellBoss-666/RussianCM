@@ -1,0 +1,147 @@
+# Explosive reagents for Ordnance Technician chembomb crafting.
+# powerMod  = added explosion power per unit
+# falloffMod = explosion falloff per unit (positive = smaller blast, negative = larger)
+# intensityMod/radiusMod/durationMod = fire modifiers per unit
+# Based on CMSS13 Ordnance Technician wiki chembomb chart.
+
+- type: reagent
+  parent: CMReagent
+  id: RMCCyclonite
+  name: reagent-name-rmc-cyclonite
+  desc: reagent-desc-rmc-cyclonite
+  physicalDesc: reagent-physical-desc-crystalline
+  flavor: bitter
+  color: "#FFFFFF"
+  unknown: true
+  powerMod: 1.5
+  falloffMod: -0.4
+
+- type: reagent
+  parent: CMReagent
+  id: RMCANFO
+  name: reagent-name-rmc-anfo
+  desc: reagent-desc-rmc-anfo
+  physicalDesc: reagent-physical-desc-granular
+  flavor: bitter
+  color: "#C8B880"
+  unknown: true
+  powerMod: 1
+  falloffMod: -0.6
+
+- type: reagent
+  parent: CMReagent
+  id: RMCNitroglycerin
+  name: reagent-name-rmc-nitroglycerin
+  desc: reagent-desc-rmc-nitroglycerin
+  physicalDesc: reagent-physical-desc-oily
+  flavor: bitter
+  color: "#F0E8D0"
+  unknown: true
+  powerMod: 1
+  falloffMod: -0.5
+
+- type: reagent
+  parent: CMReagent
+  id: RMCOctogen
+  name: reagent-name-rmc-octogen
+  desc: reagent-desc-rmc-octogen
+  physicalDesc: reagent-physical-desc-crystalline
+  flavor: bitter
+  color: "#E8E8E8"
+  unknown: true
+  powerMod: 2
+  falloffMod: -0.2
+  intensityMod: 0.4
+  radiusMod: -0.02
+  durationMod: -0.2
+
+- type: reagent
+  parent: CMReagent
+  id: RMCAmmoniumNitrate
+  name: reagent-name-rmc-ammonium-nitrate
+  desc: reagent-desc-rmc-ammonium-nitrate
+  physicalDesc: reagent-physical-desc-granular
+  flavor: bitter
+  color: "#FFFFFF"
+  unknown: true
+  powerMod: 0.4
+  falloffMod: 1.5
+  intensityMod: 0.5
+  durationMod: -0.2
+
+- type: reagent
+  parent: CMReagent
+  id: RMCPotassiumHydroxide
+  name: reagent-name-rmc-potassium-hydroxide
+  desc: reagent-desc-rmc-potassium-hydroxide
+  physicalDesc: reagent-physical-desc-crystalline
+  flavor: bitter
+  color: "#F0F0F0"
+  unknown: true
+  powerMod: 0.5
+
+- type: reagent
+  parent: CMReagent
+  id: RMCHexamine
+  name: reagent-name-rmc-hexamine
+  desc: reagent-desc-rmc-hexamine
+  physicalDesc: reagent-physical-desc-crystalline
+  flavor: bitter
+  color: "#FFFAFA"
+  unknown: true
+  durationMod: 0.5
+
+- type: reagent
+  parent: CMReagent
+  id: RMCPotassiumChloride
+  name: reagent-name-rmc-potassium-chloride
+  desc: reagent-desc-rmc-potassium-chloride
+  physicalDesc: reagent-physical-desc-crystalline
+  flavor: salty
+  color: "#F5F5F5"
+  unknown: true
+  intensityMod: 0.1
+
+- type: reagent
+  parent: CMReagent
+  id: RMCSodiumChloride
+  name: reagent-name-rmc-sodium-chloride
+  desc: reagent-desc-rmc-sodium-chloride
+  physicalDesc: reagent-physical-desc-granular
+  flavor: salty
+  color: "#FFFFFF"
+  unknown: true
+  intensityMod: 0.1
+
+# Synthesis reactions
+- type: reaction
+  id: RMCAmmoniumNitrateReaction
+  reactants:
+    Ammonia:
+      amount: 1
+    SulfuricAcid:
+      amount: 1
+  products:
+    RMCAmmoniumNitrate: 1
+    Water: 1
+
+- type: reaction
+  id: RMCANFOReaction
+  reactants:
+    RMCAmmoniumNitrate:
+      amount: 3
+    WeldingFuel:
+      amount: 1
+  products:
+    RMCANFO: 4
+
+- type: reaction
+  id: RMCPotassiumHydroxideReaction
+  reactants:
+    RMCPotassium:
+      amount: 1
+    Water:
+      amount: 1
+  products:
+    RMCPotassiumHydroxide: 1
+    RMCHydrogen: 1

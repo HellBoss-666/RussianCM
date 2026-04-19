@@ -1,0 +1,102 @@
+# Detonator assemblies for Ordnance Technician chembomb crafting.
+# Insert one of these into a chembomb casing to give it a trigger mechanism.
+# Based on CMSS13 Ordnance Technician detonation assembly mechanics.
+
+- type: entity
+  abstract: true
+  parent: BaseItem
+  id: RMCDetonatorAssemblyBase
+  name: detonator assembly
+  description: A detonator assembly for use in custom ordnance.
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Devices/timer.rsi
+    state: timer
+  - type: Item
+    size: Small
+  - type: RMCDetonatorAssembly
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Timer assembly — user activates the casing to start a countdown.
+# ──────────────────────────────────────────────────────────────────────────────
+
+- type: entity
+  parent: RMCDetonatorAssemblyBase
+  id: RMCTimerDetonatorAssembly
+  name: timer detonator assembly
+  description: Insert into a casing, then use the casing in-hand to start the countdown.
+  components:
+  - type: RMCDetonatorAssembly
+    detonatorType: Timer
+  - type: PayloadTrigger
+    components:
+    - type: OnUseTimerTrigger
+      delay: 5
+      delayOptions: [3, 5, 10, 30]
+      initialBeepDelay: 0
+      beepInterval: 5
+      beepSound:
+        path: /Audio/_RMC14/Explosion/armbomb.ogg
+        params:
+          volume: -5
+      doPopup: true
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Double igniter assembly — near-instant detonation on use.
+# ──────────────────────────────────────────────────────────────────────────────
+
+- type: entity
+  parent: RMCDetonatorAssemblyBase
+  id: RMCDoubleIgniterAssembly
+  name: double igniter assembly
+  description: Use the casing in-hand to detonate immediately after a 1-second safety delay.
+  components:
+  - type: RMCDetonatorAssembly
+    detonatorType: DoubleIgniter
+  - type: PayloadTrigger
+    components:
+    - type: OnUseTimerTrigger
+      delay: 1
+      initialBeepDelay: 0
+      beepInterval: 99999
+      doPopup: false
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Proximity sensor assembly — step-triggered timer detonation.
+# ──────────────────────────────────────────────────────────────────────────────
+
+- type: entity
+  parent: RMCDetonatorAssemblyBase
+  id: RMCProximitySensorAssembly
+  name: proximity sensor assembly
+  description: Triggers when an enemy approaches. Activates a short-delay timer when stepped on.
+  components:
+  - type: RMCDetonatorAssembly
+    detonatorType: Proximity
+  - type: PayloadTrigger
+    components:
+    - type: OnUseTimerTrigger
+      delay: 0.5
+      initialBeepDelay: 0
+      beepInterval: 99999
+      doPopup: false
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Remote signaler assembly — triggered by a matching-frequency signaler.
+# ──────────────────────────────────────────────────────────────────────────────
+
+- type: entity
+  parent: RMCDetonatorAssemblyBase
+  id: RMCSignalerAssembly
+  name: remote signaler assembly
+  description: Pair it with a handheld signaler on the same frequency to detonate remotely.
+  components:
+  - type: RMCDetonatorAssembly
+    detonatorType: Signaler
+  - type: PayloadTrigger
+    components:
+    - type: OnUseTimerTrigger
+      delay: 3
+      initialBeepDelay: 0
+      beepInterval: 99999
+      doPopup: false

@@ -1,0 +1,63 @@
+using Content.Shared.FixedPoint;
+using Robust.Shared.GameStates;
+using Robust.Shared.Prototypes;
+
+namespace Content.Shared._RMC14.Ordnance;
+
+[RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
+public sealed partial class RMCChembombCasingComponent : Component
+{
+    /// <summary>Maximum chemical volume this casing can hold.</summary>
+    [DataField(required: true), AutoNetworkedField]
+    public FixedPoint2 MaxVolume;
+
+    /// <summary>Base explosion power before chemical modifiers.</summary>
+    [DataField, AutoNetworkedField]
+    public float BasePower = 180f;
+
+    /// <summary>Base explosion falloff before chemical modifiers.</summary>
+    [DataField, AutoNetworkedField]
+    public float BaseFalloff = 80f;
+
+    /// <summary>Number of shrapnel projectiles spawned on detonation.</summary>
+    [DataField, AutoNetworkedField]
+    public int BaseShards;
+
+    /// <summary>Whether a detonator assembly has been inserted.</summary>
+    [DataField, AutoNetworkedField]
+    public bool HasDetonator;
+
+    /// <summary>Whether the bomb is locked (armed, no more changes allowed).</summary>
+    [DataField, AutoNetworkedField]
+    public bool IsLocked;
+
+    /// <summary>Name of the solution container holding the chemicals.</summary>
+    [DataField]
+    public string ChemicalSolution = "chemicals";
+
+    // Fire stat ranges for this casing type
+    [DataField]
+    public float MinFireIntensity = 3f;
+    [DataField]
+    public float MaxFireIntensity = 25f;
+    [DataField]
+    public float MinFireRadius = 1f;
+    [DataField]
+    public float MaxFireRadius = 5f;
+    [DataField]
+    public float MinFireDuration = 3f;
+    [DataField]
+    public float MaxFireDuration = 24f;
+
+    /// <summary>Default fire entity spawned if no reagent-specific fire is set.</summary>
+    [DataField, AutoNetworkedField]
+    public EntProtoId DefaultFireEntity = "RMCTileFire";
+
+    /// <summary>Minimum effective falloff (CMSS13 minimum = 25).</summary>
+    [DataField]
+    public float MinFalloff = 25f;
+
+    /// <summary>Shrapnel projectile prototype ID.</summary>
+    [DataField]
+    public EntProtoId ShrapnelProto = "RMCShrapnel";
+}
