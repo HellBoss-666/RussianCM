@@ -42,7 +42,9 @@ public sealed partial class TTSTab : Control
         foreach (var voice in _allVoices)
         {
             var name = Loc.GetString(voice.Name);
-            var category = Loc.GetString("humanoid-profile-editor-voice-other");
+            var category = string.IsNullOrWhiteSpace(voice.Category)
+                ? Loc.GetString("humanoid-profile-editor-voice-other")
+                : voice.Category;
 
             var match = CategoryRegex.Match(name);
             if (match.Success)
