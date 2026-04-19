@@ -1897,7 +1897,7 @@
 - type: ttsVoice
   id: BOYZ_ORKS
   name: Бойзы Орков
-  category: Warhammer 40k: Dawn of War
+  category: Warhammer
   sex: Female
   speaker: orks_dow
   roundStart: true
