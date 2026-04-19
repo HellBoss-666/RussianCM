@@ -1,0 +1,69 @@
+<cc:RMCDemolitionsSimulatorWindow
+    xmlns="https://spacestation14.io"
+    xmlns:cc="clr-namespace:Content.Client._RMC14.Ordnance"
+    Title="Demolitions Simulator"
+    MinSize="560 480"
+    SetSize="560 480">
+    <BoxContainer Orientation="Vertical" Margin="8" SeparationOverride="6">
+
+        <!-- Top row: grid + stats side-by-side -->
+        <BoxContainer Orientation="Horizontal" SeparationOverride="10" VerticalExpand="True">
+
+            <!-- Left: blast visualisation grid -->
+            <BoxContainer Orientation="Vertical" SeparationOverride="4">
+                <Label Text="Blast Zone" FontColorOverride="#aaaaaa" HorizontalAlignment="Center"/>
+                <!-- Grid cells are created programmatically in code-behind -->
+                <GridContainer Name="BlastGrid"
+                               Access="Public"
+                               MinSize="306 306"
+                               SetSize="306 306"/>
+                <!-- Target selector -->
+                <BoxContainer Orientation="Horizontal" HorizontalAlignment="Center" SeparationOverride="4">
+                    <Label Text="Target:"/>
+                    <Button Name="TargetButton" Access="Public" Text="Xenomorph Drone" MinSize="160 0"/>
+                </BoxContainer>
+            </BoxContainer>
+
+            <!-- Right: stats readout -->
+            <BoxContainer Orientation="Vertical" HorizontalExpand="True" SeparationOverride="6">
+                <Label Name="CasingLabel" Access="Public"
+                       Text="No casing simulated."
+                       FontColorOverride="#cccccc"/>
+                <Label Name="VolumeLabel" Access="Public"
+                       Text="" FontColorOverride="#aaaaaa"/>
+                <Control MinSize="0 4"/>
+                <Label Text="Blast Parameters" FontColorOverride="#ffcc44"/>
+                <Label Name="BlastStatsLabel" Access="Public"
+                       Text="—"
+                       FontColorOverride="#ffffff"/>
+                <Control MinSize="0 4"/>
+                <Label Text="Fire Parameters" FontColorOverride="#ff6633"/>
+                <Label Name="FireStatsLabel" Access="Public"
+                       Text="—"
+                       FontColorOverride="#ffffff"/>
+                <Control MinSize="0 8"/>
+                <Label Text="Damage Estimates" FontColorOverride="#88dd88"/>
+                <ScrollContainer HScrollEnabled="False" HorizontalExpand="True" VerticalExpand="True">
+                    <RichTextLabel Name="DamageTable" Access="Public" HorizontalExpand="True"/>
+                </ScrollContainer>
+            </BoxContainer>
+
+        </BoxContainer>
+
+        <!-- Bottom: simulate button + cooldown -->
+        <BoxContainer Orientation="Horizontal" SeparationOverride="8" HorizontalAlignment="Center">
+            <Button Name="SimulateButton" Access="Public"
+                    Text="▶ Simulate"
+                    MinSize="120 0"/>
+            <Label Name="CooldownLabel" Access="Public"
+                   Visible="False"
+                   FontColorOverride="#ff8800"/>
+        </BoxContainer>
+
+        <Label Name="StatusLabel" Access="Public"
+               Text="Hold a chembomb casing in your active hand and press Simulate."
+               FontColorOverride="#888888"
+               HorizontalAlignment="Center"/>
+
+    </BoxContainer>
+</cc:RMCDemolitionsSimulatorWindow>

@@ -1,8 +1,17 @@
+using Content.Shared.DoAfter;
 using Content.Shared.FixedPoint;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
+using Robust.Shared.Serialization;
 
 namespace Content.Shared._RMC14.Ordnance;
+
+public enum RMCCasingAssemblyStage : byte
+{
+    Open,    // can insert/remove detonator, fill chemicals
+    Sealed,  // screwdriver applied — chemicals locked in, detonator slot locked
+    Armed,   // wirecutters applied — ready to trigger
+}
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 public sealed partial class RMCChembombCasingComponent : Component
@@ -25,11 +34,11 @@ public sealed partial class RMCChembombCasingComponent : Component
 
     /// <summary>Whether a detonator assembly has been inserted.</summary>
     [DataField, AutoNetworkedField]
-    public bool HasDetonator;
+    public bool HasActiveDetonator;
 
-    /// <summary>Whether the bomb is locked (armed, no more changes allowed).</summary>
+    /// <summary>Current assembly stage of the casing.</summary>
     [DataField, AutoNetworkedField]
-    public bool IsLocked;
+    public RMCCasingAssemblyStage Stage;
 
     /// <summary>Name of the solution container holding the chemicals.</summary>
     [DataField]
@@ -61,3 +70,9 @@ public sealed partial class RMCChembombCasingComponent : Component
     [DataField]
     public EntProtoId ShrapnelProto = "RMCShrapnel";
 }
+
+[Serializable, NetSerializable]
+public sealed partial class RMCCasingScrewDoAfterEvent : SimpleDoAfterEvent;
+
+[Serializable, NetSerializable]
+public sealed partial class RMCCasingCutDoAfterEvent : SimpleDoAfterEvent;

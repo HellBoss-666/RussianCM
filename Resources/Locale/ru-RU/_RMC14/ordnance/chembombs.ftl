@@ -46,3 +46,26 @@ rmc-demolitions-sim-volume = Загружено химикатов: {$current}/{
 rmc-demolitions-sim-empty = [color=gray]Взрывчатые или зажигательные химикаты не обнаружены.[/color]
 rmc-demolitions-sim-explosion = [bold]Взрыв:[/bold] Мощность {$power}, Затухание {$falloff}, Прим. радиус ~{$radius} тайл.
 rmc-demolitions-sim-fire = [bold]Огонь:[/bold] Интенсивность {$intensity}, Радиус {$radius} тайл., Длительность {$duration}с
+
+# Assembly tool steps
+rmc-chembomb-seal-no-detonator = Сначала вставьте детонаторную сборку.
+rmc-chembomb-seal-disarm-first = Сначала обезвредьте корпус.
+rmc-chembomb-arm-seal-first = Сначала закройте корпус отвёрткой.
+rmc-chembomb-sealed = Вы закручиваете корпус.
+rmc-chembomb-unsealed = Вы откручиваете корпус.
+rmc-chembomb-armed = Вы перерезаете провода взрывателя. Корпус взведён.
+rmc-chembomb-disarmed = Вы перерезаете провод взведения. Корпус обезврежен.
+rmc-chembomb-not-armed = Корпус не готов. Сначала завершите сборку.
+
+# Examine stage
+rmc-chembomb-examine-open = Не закрыт.
+rmc-chembomb-examine-sealed = [color=yellow]Закрыт.[/color] Взведите кусачками.
+
+# Mine casing deployment
+rmc-mine-no-detonator = Детонаторная сборка не установлена.
+rmc-mine-deploy-fail-occupied = Здесь уже есть мина!
+rmc-mine-planted = Мина установлена.
+
+# Ordnance part assembly (combine igniter/timer → detonator assembly)
+rmc-ordnance-assembly-incompatible = Эти части несовместимы.
+rmc-ordnance-assembly-combined = Вы соединяете части в {$result}.

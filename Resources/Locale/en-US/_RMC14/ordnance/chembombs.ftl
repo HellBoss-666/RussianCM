@@ -46,3 +46,26 @@ rmc-demolitions-sim-volume = Chemicals loaded: {$current}/{$max}u
 rmc-demolitions-sim-empty = [color=gray]No explosive or incendiary chemicals detected.[/color]
 rmc-demolitions-sim-explosion = [bold]Blast:[/bold] Power {$power}, Falloff {$falloff}, Est. radius ~{$radius} tiles
 rmc-demolitions-sim-fire = [bold]Fire:[/bold] Intensity {$intensity}, Radius {$radius} tiles, Duration {$duration}s
+
+# Assembly tool steps
+rmc-chembomb-seal-no-detonator = Insert a detonator assembly first.
+rmc-chembomb-seal-disarm-first = Disarm the casing before unsealing.
+rmc-chembomb-arm-seal-first = Seal the casing with a screwdriver first.
+rmc-chembomb-sealed = You screw the casing shut.
+rmc-chembomb-unsealed = You unscrew the casing.
+rmc-chembomb-armed = You prime the detonator. The casing is armed.
+rmc-chembomb-disarmed = You cut the arming wire. The casing is safe.
+rmc-chembomb-not-armed = The casing is not ready. Complete the assembly first.
+
+# Examine stage
+rmc-chembomb-examine-open = Unsealed.
+rmc-chembomb-examine-sealed = [color=yellow]Sealed.[/color] Prime with wirecutters.
+
+# Mine casing deployment
+rmc-mine-no-detonator = No detonator assembly installed.
+rmc-mine-deploy-fail-occupied = There is already a mine here!
+rmc-mine-planted = Mine planted.
+
+# Ordnance part assembly (combine igniter/timer → detonator assembly)
+rmc-ordnance-assembly-incompatible = These parts are not compatible.
+rmc-ordnance-assembly-combined = You combine the parts into a {$result}.

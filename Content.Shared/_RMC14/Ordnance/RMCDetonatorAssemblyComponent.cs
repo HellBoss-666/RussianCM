@@ -11,6 +11,10 @@ public sealed partial class RMCDetonatorAssemblyComponent : Component
 {
     [DataField, AutoNetworkedField]
     public RMCDetonatorType DetonatorType = RMCDetonatorType.Timer;
+
+    // Готова ли она к применению
+    [DataField, AutoNetworkedField]
+    public bool Ready = false;
 }
 
 public enum RMCDetonatorType : byte

@@ -7,12 +7,16 @@ using Content.Shared._RMC14.Ordnance;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Chemistry.Reagent;
+using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Coordinates.Helpers;
+using Content.Shared.DoAfter;
 using Content.Shared.Examine;
 using Content.Shared.FixedPoint;
 using Content.Shared.Interaction;
+using Content.Shared.Interaction.Events;
 using Content.Shared.Payload.Components;
 using Content.Shared.Popups;
+using Content.Shared.Tools.Systems;
 using Robust.Server.GameObjects;
 using Robust.Shared.Containers;
 using Robust.Shared.Map;
@@ -26,20 +30,78 @@ public sealed class RMCChembombSystem : EntitySystem
     [Dependency] private readonly ExplosionSystem _explosion = default!;
     [Dependency] private readonly IMapManager _map = default!;
     [Dependency] private readonly INetManager _net = default!;
+    [Dependency] private readonly ItemSlotsSystem _itemSlots = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
+    [Dependency] private readonly SharedDoAfterSystem _doAfter = default!;
     [Dependency] private readonly SharedRMCFlammableSystem _flammable = default!;
     [Dependency] private readonly SharedSolutionContainerSystem _solution = default!;
+    [Dependency] private readonly SharedToolSystem _tool = default!;
     [Dependency] private readonly TransformSystem _transform = default!;
 
     public override void Initialize()
     {
+        SubscribeLocalEvent<RMCChembombCasingComponent, UseInHandEvent>(OnUseInHand);
         SubscribeLocalEvent<RMCChembombCasingComponent, TriggerEvent>(OnTrigger);
         SubscribeLocalEvent<RMCChembombCasingComponent, InteractUsingEvent>(OnInteractUsing);
         SubscribeLocalEvent<RMCChembombCasingComponent, ExaminedEvent>(OnExamined);
         SubscribeLocalEvent<RMCChembombCasingComponent, EntInsertedIntoContainerMessage>(OnItemInserted);
         SubscribeLocalEvent<RMCChembombCasingComponent, EntRemovedFromContainerMessage>(OnItemRemoved);
+        SubscribeLocalEvent<RMCChembombCasingComponent, RMCCasingScrewDoAfterEvent>(OnScrewDoAfter);
+        SubscribeLocalEvent<RMCChembombCasingComponent, RMCCasingCutDoAfterEvent>(OnCutDoAfter);
         SubscribeLocalEvent<RMCDemolitionsScannerComponent, AfterInteractEvent>(OnScannerAfterInteract);
+    }
+
+    private void OnUseInHand(Entity<RMCChembombCasingComponent> ent, ref UseInHandEvent args)
+    {
+        if (args.Handled || _net.IsClient)
+            return;
+
+        if (ent.Comp.Stage == RMCCasingAssemblyStage.Armed)
+            return;
+
+        _popup.PopupEntity(Loc.GetString("rmc-chembomb-not-armed"), ent, args.User, PopupType.SmallCaution);
+        args.Handled = true;
+    }
+
+    private void OnScrewDoAfter(Entity<RMCChembombCasingComponent> ent, ref RMCCasingScrewDoAfterEvent args)
+    {
+        if (args.Cancelled || _net.IsClient)
+            return;
+
+        if (ent.Comp.Stage == RMCCasingAssemblyStage.Open)
+        {
+            ent.Comp.Stage = RMCCasingAssemblyStage.Sealed;
+            _itemSlots.SetLock(ent, "detonator", true);
+            _popup.PopupEntity(Loc.GetString("rmc-chembomb-sealed"), ent, args.User);
+        }
+        else if (ent.Comp.Stage == RMCCasingAssemblyStage.Sealed)
+        {
+            ent.Comp.Stage = RMCCasingAssemblyStage.Open;
+            _itemSlots.SetLock(ent, "detonator", false);
+            _popup.PopupEntity(Loc.GetString("rmc-chembomb-unsealed"), ent, args.User);
+        }
+
+        Dirty(ent);
+    }
+
+    private void OnCutDoAfter(Entity<RMCChembombCasingComponent> ent, ref RMCCasingCutDoAfterEvent args)
+    {
+        if (args.Cancelled || _net.IsClient)
+            return;
+
+        if (ent.Comp.Stage == RMCCasingAssemblyStage.Sealed)
+        {
+            ent.Comp.Stage = RMCCasingAssemblyStage.Armed;
+            _popup.PopupEntity(Loc.GetString("rmc-chembomb-armed"), ent, args.User);
+        }
+        else if (ent.Comp.Stage == RMCCasingAssemblyStage.Armed)
+        {
+            ent.Comp.Stage = RMCCasingAssemblyStage.Sealed;
+            _popup.PopupEntity(Loc.GetString("rmc-chembomb-disarmed"), ent, args.User);
+        }
+
+        Dirty(ent);
     }
 
     private void OnScannerAfterInteract(Entity<RMCDemolitionsScannerComponent> scanner, ref AfterInteractEvent args)
@@ -118,6 +180,13 @@ public sealed class RMCChembombSystem : EntitySystem
         if (_net.IsClient)
             return;
 
+        if (ent.Comp.Stage != RMCCasingAssemblyStage.Armed)
+        {
+            QueueDel(ent);
+            args.Handled = true;
+            return;
+        }
+
         var comp = ent.Comp;
 
         if (!_solution.TryGetSolution(ent.Owner, comp.ChemicalSolution, out _, out var solution))
@@ -127,7 +196,6 @@ public sealed class RMCChembombSystem : EntitySystem
             return;
         }
 
-        // Accumulate chemical modifiers
         float powerMod = 0f;
         float falloffMod = 0f;
         float intensityMod = 0f;
@@ -163,7 +231,6 @@ public sealed class RMCChembombSystem : EntitySystem
 
         var coords = _transform.GetMoverCoordinates(ent.Owner);
 
-        // Explosion
         if (hasExplosive || powerMod > 0)
         {
             float power = comp.BasePower + powerMod;
@@ -182,7 +249,6 @@ public sealed class RMCChembombSystem : EntitySystem
                 ent.Owner);
         }
 
-        // Fire
         if (hasIncendiary)
         {
             float intensity = Math.Clamp(comp.MinFireIntensity + intensityMod, comp.MinFireIntensity, comp.MaxFireIntensity);
@@ -199,20 +265,54 @@ public sealed class RMCChembombSystem : EntitySystem
 
     private void OnInteractUsing(Entity<RMCChembombCasingComponent> ent, ref InteractUsingEvent args)
     {
-        if (args.Handled)
+        if (args.Handled || _net.IsClient)
             return;
 
-        if (_net.IsClient)
-            return;
+        // Screwdriver: seal (Open→Sealed) or unseal (Sealed→Open)
+        if (_tool.HasQuality(args.Used, "Screwing"))
+        {
+            if (ent.Comp.Stage == RMCCasingAssemblyStage.Armed)
+            {
+                _popup.PopupEntity(Loc.GetString("rmc-chembomb-seal-disarm-first"), ent, args.User, PopupType.SmallCaution);
+                args.Handled = true;
+                return;
+            }
 
-        if (ent.Comp.IsLocked)
+            if (ent.Comp.Stage == RMCCasingAssemblyStage.Open && !ent.Comp.HasActiveDetonator)
+            {
+                _popup.PopupEntity(Loc.GetString("rmc-chembomb-seal-no-detonator"), ent, args.User, PopupType.SmallCaution);
+                args.Handled = true;
+                return;
+            }
+
+            StartToolDoAfter<RMCCasingScrewDoAfterEvent>(ent, args.User, args.Used, 2f);
+            args.Handled = true;
+            return;
+        }
+
+        // Wirecutters: arm (Sealed→Armed) or disarm (Armed→Sealed)
+        if (_tool.HasQuality(args.Used, "Cutting"))
+        {
+            if (ent.Comp.Stage == RMCCasingAssemblyStage.Open)
+            {
+                _popup.PopupEntity(Loc.GetString("rmc-chembomb-arm-seal-first"), ent, args.User, PopupType.SmallCaution);
+                args.Handled = true;
+                return;
+            }
+
+            StartToolDoAfter<RMCCasingCutDoAfterEvent>(ent, args.User, args.Used, 2f);
+            args.Handled = true;
+            return;
+        }
+
+        // Beaker: fill with chemicals (only when Open)
+        if (ent.Comp.Stage != RMCCasingAssemblyStage.Open)
             return;
 
         var used = args.Used;
         if (!HasComp<FitsInDispenserComponent>(used))
             return;
 
-        // Transfer solution from beaker/container to the casing's chemicals
         if (!_solution.TryGetSolution(ent.Owner, ent.Comp.ChemicalSolution, out var casingSoln, out var casingChem))
             return;
 
@@ -224,7 +324,6 @@ public sealed class RMCChembombSystem : EntitySystem
             return;
         }
 
-        // Find a transferable solution on the beaker
         if (!_solution.TryGetFitsInDispenser(used, out var beakerSoln, out var beakerChem))
             return;
 
@@ -261,22 +360,28 @@ public sealed class RMCChembombSystem : EntitySystem
                 ("current", currentVol),
                 ("max", ent.Comp.MaxVolume)));
 
-            if (ent.Comp.HasDetonator)
+            if (ent.Comp.HasActiveDetonator)
                 args.PushMarkup(Loc.GetString("rmc-chembomb-examine-detonator"));
             else
                 args.PushMarkup(Loc.GetString("rmc-chembomb-examine-no-detonator"));
 
-            if (ent.Comp.IsLocked)
-                args.PushMarkup(Loc.GetString("rmc-chembomb-examine-locked"));
+            args.PushMarkup(ent.Comp.Stage switch
+            {
+                RMCCasingAssemblyStage.Sealed => Loc.GetString("rmc-chembomb-examine-sealed"),
+                RMCCasingAssemblyStage.Armed  => Loc.GetString("rmc-chembomb-examine-locked"),
+                _                             => Loc.GetString("rmc-chembomb-examine-open"),
+            });
         }
     }
 
     private void OnItemInserted(Entity<RMCChembombCasingComponent> ent, ref EntInsertedIntoContainerMessage args)
     {
-        if (!HasComp<RMCDetonatorAssemblyComponent>(args.Entity))
+        if (!TryComp<RMCDetonatorAssemblyComponent>(args.Entity, out var comp))
             return;
-
-        ent.Comp.HasDetonator = true;
+        // Если взрыватель не готов к использованию => вставляем его, но не делаем детонатор активным
+        if (!comp.Ready)
+            return;
+        ent.Comp.HasActiveDetonator = true;
         Dirty(ent);
     }
 
@@ -285,8 +390,19 @@ public sealed class RMCChembombSystem : EntitySystem
         if (!HasComp<RMCDetonatorAssemblyComponent>(args.Entity))
             return;
 
-        ent.Comp.HasDetonator = false;
-        ent.Comp.IsLocked = false;
+        ent.Comp.HasActiveDetonator = false;
         Dirty(ent);
+    }
+
+    private void StartToolDoAfter<T>(Entity<RMCChembombCasingComponent> ent, EntityUid user, EntityUid tool, float delay)
+        where T : SimpleDoAfterEvent, new()
+    {
+        var doAfterArgs = new DoAfterArgs(EntityManager, user, delay, new T(), ent, ent, tool)
+        {
+            NeedHand = true,
+            BreakOnMove = true,
+            BreakOnHandChange = true,
+        };
+        _doAfter.TryStartDoAfter(doAfterArgs);
     }
 }

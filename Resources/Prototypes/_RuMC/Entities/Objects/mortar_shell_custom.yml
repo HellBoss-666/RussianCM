@@ -1,0 +1,68 @@
+- type: entity
+  name: 80mm mortar warhead
+  description: A warhead for the 80mm mortar. Insert a double-igniter assembly and fill with chemicals.
+  parent: RMCCasingBase
+  id: RMC80mmMortarWarhead
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/80mmmortarwarhead.rsi
+  - type: PhysicalComposition
+    materialComposition:
+      CMSteel: 11250
+  - type: RMCChembombCasing
+    maxVolume: 240
+    basePower: 360
+    baseFalloff: 130
+    baseShards: 200
+    minFireIntensity: 5
+    maxFireIntensity: 45
+    minFireRadius: 3
+    maxFireRadius: 8
+    minFireDuration: 5
+    maxFireDuration: 48
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 240
+  # - type: ItemSlots
+  #   slots:
+  #     detonator:
+  #       name: rmc-chembomb-detonator-slot
+  #       whitelist:
+  #         tags:
+  #         - RMCDoubleIgniterAssembly
+  #     propellingCharge:
+  #       name: rmc-propelling-charge-slot
+  #       whitelist::
+  #         tags:
+  #         - RMC80mmMortarShell
+
+  - type: Item
+    size: Normal
+
+- type: entity
+  name: 80mm mortar shell casing
+  description: A shell for the 80mm mortar. Fill with 60u of hydrogen fuel before assembly.
+  parent: RMCCasingBase
+  id: RMC80mmMortarShell
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/80mmmortarshell.rsi
+  - type: PhysicalComposition
+    materialComposition:
+      CMSteel: 18750
+  - type: SolutionContainerManager
+    solutions:
+      fuel:
+        maxVol: 60
+  - type: Item
+    size: Normal
+  - type: Tag
+    tags:
+    - RMC80mmMortarShell
+  - type: Construction
+    graph: RMC80mmMortarCasingCustomGraph
+    node: emptyCasing
+
+- type: Tag
+  id: RMC80mmMortarShell
