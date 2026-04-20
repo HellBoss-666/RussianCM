@@ -40,7 +40,7 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
 
     // ── State ─────────────────────────────────────────────────────────────────
     private RMCDemolitionsSimulatorWindow? _window;
-    private Panel[,]? _cells;
+    private PanelContainer[,]? _cells;
     private int _targetIndex;
     private RMCDemolitionsSimulatorBuiState? _pendingState;
     private float _animTimer;   // counts down from AnimDuration to 0
@@ -81,7 +81,7 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
     {
         if (_window == null) return;
 
-        _cells = new Panel[GridSize, GridSize];
+        _cells = new PanelContainer[GridSize, GridSize];
         var grid = _window.BlastGrid;
         grid.RemoveAllChildren();
 
@@ -89,7 +89,7 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
         {
             for (var col = 0; col < GridSize; col++)
             {
-                var cell = new Panel
+                var cell = new PanelContainer
                 {
                     SetWidth  = CellPx,
                     SetHeight = CellPx,
@@ -101,7 +101,7 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
         }
     }
 
-    private static void SetCellColor(Panel cell, Color color)
+    private static void SetCellColor(PanelContainer cell, Color color)
     {
         cell.PanelOverride = new StyleBoxFlat { BackgroundColor = color };
     }
@@ -282,7 +282,8 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
 
         var (targetName, targetHp, armour) = Targets[_targetIndex];
         var sb = new System.Text.StringBuilder();
-        sb.AppendLine($"[bold][color=#88dd88]{targetName}[/color][/bold] — HP: {(int)targetHp}  Armour: {(int)(armour*100)}%");
+        string header = $"[bold][color=#88dd88]{targetName}[/color][/bold] — HP: {(int)targetHp}  Armour: {(int)(armour*100)}%";
+        sb.AppendLine(header);
         sb.AppendLine();
 
         for (var dist = 0; dist <= 6; dist++)
@@ -308,7 +309,8 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
                           :                     "[color=#88ff88]Alive[/color]";
 
             string label = dist == 0 ? "0 (epicentre)" : $"{dist} tile{(dist == 1 ? "" : "s")}";
-            sb.AppendLine($"[color=#aaaaaa]{label,-14}[/color] {(int)blastDmg}+{(int)fireDmg} = [bold]{(int)total}[/bold] dmg → {status}");
+            string row = $"[color=#aaaaaa]{label,-14}[/color] {(int)blastDmg}+{(int)fireDmg} = [bold]{(int)total}[/bold] dmg → {status}";
+            sb.AppendLine(row);
         }
 
         _window.DamageTable.SetMarkup(sb.ToString());

@@ -1,0 +1,64 @@
+- type: entity
+  parent: CMBaseStructure
+  id: RMCExplosionSimulator
+  name: explosion simulation computer
+  description: A high-powered simulation computer for analyzing the explosive effects of chemical mixtures against different target types. Insert a beaker of reagents, select a target type, and run a 2-minute simulation to see the results.
+  components:
+  - type: Transform
+    anchored: true
+  - type: Physics
+    bodyType: Static
+    canCollide: true
+  - type: Sprite
+    drawdepth: SmallObjects
+    sprite: _RMC14/Structures/Machines/computer.rsi
+    layers:
+    - state: engineering_terminal
+    - state: engineering_terminal
+      map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
+      visible: false
+  - type: Clickable
+  - type: Corrodible
+    isCorrodible: false
+  - type: InteractionOutline
+  - type: Damageable
+    damageContainer: Inorganic
+    damageModifierSet: Metallic
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 50
+      behaviors:
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+      - !type:PlaySoundBehavior
+        sound:
+          collection: MetalBreak
+  - type: InteractedBlacklist
+    blacklist:
+      components:
+      - Xeno
+  - type: WallMount
+    arc: 360
+  - type: ContainerContainer
+    containers:
+      beakerSlot: !type:ContainerSlot
+  - type: ItemSlots
+    slots:
+      beakerSlot:
+        name: Beaker Slot
+        whitelist:
+          components:
+          - FitsInDispenser
+  - type: RMCExplosionSimulator
+  - type: ActivatableUI
+    key: enum.RMCExplosionSimulatorUiKey.Key
+  - type: UserInterface
+    interfaces:
+      enum.RMCExplosionSimulatorUiKey.Key:
+        type: RMCExplosionSimulatorBui
+  - type: AccessReader
+    access:
+    - - OT
+    - - CMAccessCE

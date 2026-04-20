@@ -1,0 +1,57 @@
+<DefaultWindow
+    xmlns="https://spacestation14.io"
+    xmlns:controls="clr-namespace:Robust.Client.UserInterface.Controls"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="Content.Client._RMC14.Ordnance.RMCExplosionSimulatorWindow"
+    Title="Explosion Simulation Computer"
+    MinSize="460 320"
+    SetSize="460 320">
+
+    <BoxContainer Orientation="Vertical" Margin="10" SeparationOverride="8">
+
+        <!-- Beaker slot status -->
+        <Label Name="BeakerLabel" Access="Public"
+               Text="Beaker: Not inserted"
+               FontColorOverride="#cccccc"/>
+
+        <!-- Target type selection -->
+        <BoxContainer Orientation="Horizontal" SeparationOverride="4">
+            <Label Text="Target:  " FontColorOverride="#aaaaaa" VerticalAlignment="Center"/>
+            <Button Name="MarinesButton" Access="Public" Text="USCM Marines" MinSize="110 0"/>
+            <Button Name="SpecialForcesButton" Access="Public" Text="Special Forces" MinSize="110 0"/>
+            <Button Name="XenomorphsButton" Access="Public" Text="Xenomorphs" MinSize="100 0"/>
+        </BoxContainer>
+
+        <!-- Simulate button -->
+        <BoxContainer Orientation="Horizontal" SeparationOverride="6">
+            <Button Name="SimulateButton" Access="Public"
+                    Text="▶ Simulate (120s)"
+                    MinSize="150 0"/>
+        </BoxContainer>
+
+        <!-- Status label -->
+        <Label Name="StatusLabel" Access="Public"
+               Text="Insert a beaker and press Simulate."
+               FontColorOverride="#888888"/>
+
+        <!-- Results (hidden until simulation ready) -->
+        <BoxContainer Name="ResultsBox" Access="Public" Orientation="Vertical" SeparationOverride="4" Visible="False">
+            <Control MinSize="0 4"/>
+            <Label Text="Blast Parameters" FontColorOverride="#ffcc44"/>
+            <Label Name="BlastLabel" Access="Public" Text="—" FontColorOverride="#ffffff"/>
+            <Label Text="Fire Parameters" FontColorOverride="#ff6633"/>
+            <Label Name="FireLabel" Access="Public" Text="—" FontColorOverride="#ffffff"/>
+        </BoxContainer>
+
+        <Control VerticalExpand="True"/>
+
+        <!-- Replay button -->
+        <Button Name="ReplayButton" Access="Public"
+                Text="▶ Replay Simulation"
+                Disabled="True"
+                MinSize="160 0"
+                HorizontalAlignment="Left"/>
+
+    </BoxContainer>
+
+</DefaultWindow>
