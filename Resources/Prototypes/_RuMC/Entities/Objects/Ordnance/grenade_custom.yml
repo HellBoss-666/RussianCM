@@ -6,6 +6,7 @@
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/CustomOrdnance/m40grenadecasing.rsi
+    state: icon
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 4250

@@ -145,3 +145,128 @@
   products:
     RMCPotassiumHydroxide: 1
     RMCHydrogen: 1
+
+
+# Polytrinic acid
+- type: reagent
+  id: RMCPolytrinicAcid
+  name: reagent-name-polytrinic-acid
+  group: Toxins
+  desc: reagent-desc-polytrinic-acid
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: acid
+  color: "#8E18A9"
+  boilingPoint: 78.2 # This isn't a real chemical...
+  meltingPoint: -19.4
+  plantMetabolism:
+  - !type:PlantAdjustToxins
+    amount: 20
+  - !type:PlantAdjustWeeds
+    amount: -4
+  - !type:PlantAdjustHealth
+    amount: -8
+  reactiveEffects:
+    Acidic:
+      methods: [ Touch ]
+      effects:
+      - !type:HealthChange
+        scaleByQuantity: true
+        ignoreResistances: false
+        damage:
+          types:
+            Caustic: 0.5
+      - !type:Emote
+        emote: Scream
+        probability: 0.3
+  metabolisms:
+    Poison:
+      metabolismRate : 3.00 # High damage, high metabolism rate. You need a lot of units to crit. Simulates acid burning through you fast.
+      effects:
+      - !type:HealthChange
+        damage:
+          types:
+            Caustic: 11.0
+      - !type:PopupMessage
+        type: Local
+        visualType: Large
+        messages: [ "generic-reagent-effect-burning-insides" ]
+        probability: 0.33
+      - !type:Emote
+        emote: Scream
+        probability: 0.3
+
+- type: reaction
+  id: RMCPolytrinicAcid
+  reactants:
+    SulfuricAcid:
+      amount: 1
+    Chlorine:
+      amount: 1
+    Potassium:
+      amount: 1
+  products:
+    PolytrinicAcid: 3
+
+# Formaldehyde
+- type: reagent
+  id: Formaldehyde
+  name: reagent-name-formaldehyde
+  group: Toxins
+  desc: reagent-desc-formaldehyde
+  physicalDesc: reagent-physical-desc-pungent
+  flavor: bitter
+  color: "#b7fff2"
+  boilingPoint: 253.9
+  meltingPoint: -92.0
+  metabolisms:
+    Poison:
+      effects:
+      - !type:HealthChange
+        damage:
+          types:
+            Caustic: 1
+      - !type:HealthChange
+        damage:
+          types:
+            Radiation: 0.5
+
+- type: reaction
+  id: Formaldehyde
+  reactants:
+    Methane:
+      amount: 1
+    Phoron:
+      amount: 1
+    Oxygen:
+      amount: 1
+  products:
+    Formaldehyde: 3
+  minTemp: 0.1
+
+- type: reagent
+  id: Paraformaldehyde
+  name: reagent-name-paraformaldehyde
+  group: Toxins
+  desc: reagent-desc-paraformaldehyde
+  physicalDesc: reagent-physical-desc-powdery
+  flavor: bitter
+  color: "#e6fff7"
+  metabolisms:
+    Poison:
+      effects:
+      - !type:HealthChange
+        damage:
+          types:
+            Poison: 1
+
+- type: reaction
+  id: Paraformaldehyde
+  reactants:
+    Formaldehyde:
+      amount: 1
+    Water:
+      amount: 1
+  products:
+    Paraformaldehyde: 2
+  minTemp: 200
+  maxTemp: 260
