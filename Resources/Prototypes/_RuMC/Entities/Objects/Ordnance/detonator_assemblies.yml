@@ -15,11 +15,11 @@
   parent: BaseItem
   id: RMCOrdnanceIgniter
   name: ordnance igniter
-  description: A small electrical igniter. Combine with a timer to produce a timer assembly, or combine two igniters for a double-igniter assembly (required for rockets).
+  description: A small electrical igniter. Combine with a timer to produce a timer assembly, or combine two igniters for a double-igniter assembly.
   components:
   - type: Sprite
-    sprite: Objects/Devices/igniter.rsi
-    state: timer
+    sprite: _RuMC14/Ordnance/igniter.rsi
+    state: igniter
   - type: Item
     size: Tiny
   - type: RMCOrdnancePart
@@ -29,10 +29,10 @@
   parent: BaseItem
   id: RMCOrdnanceTimer
   name: ordnance timer
-  description: A configurable countdown timer. Combine with an igniter to produce a timer assembly.
+  description: A configurable countdown timer.
   components:
   - type: Sprite
-    sprite: _RMC14/Objects/Devices/timer.rsi
+    sprite: _RuMC14/Ordnance/timer.rsi
     state: timer
   - type: Item
     size: Small
@@ -44,6 +44,25 @@
 # ──────────────────────────────────────────────────────────────────────────────
 
 - type: entity
+  id: RMCOrdnanceAssembly
+  parent: BaseItem
+  name: ordnance assembly
+  description: A modular ordnance assembly.
+  components:
+  - type: Sprite
+    sprite: _RuMC14/Ordnance/assembly.rsi
+    layers:
+    - state: base
+    - state: igniter_left
+      map: ["0"]
+    - state: igniter_right
+      map: ["1"]
+  - type: Item
+    size: Small
+  - type: RMCOrdnanceAssembly
+
+# Ниже старая хуйня
+- type: entity
   abstract: true
   parent: BaseItem
   id: RMCDetonatorAssemblyBase
@@ -51,7 +70,13 @@
   description: A detonator assembly for use in custom ordnance.
   components:
   - type: Sprite
-    sprite: _RMC14/Objects/Devices/timer.rsi
+    layers:
+    - state: igniter
+      sprite: _RuMC14/Ordnance/igniter.rsi
+      map: ["igniter"]
+    - state: timer
+      sprite: _RuMC14/Ordnance/timer.rsi
+      map: ["timer"]
     state: timer
   - type: Item
     size: Small
@@ -84,6 +109,13 @@
         params:
           volume: -5
       doPopup: true
+  - type: Sprite
+    layers:
+    - state: timer_left
+      sprite: _RuMC14/Ordnance/timer.rsi
+
+    - state: igniter_right
+      sprite: _RuMC14/Ordnance/igniter.rsi
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Double igniter assembly — near-instant detonation on use.
@@ -107,6 +139,13 @@
       initialBeepDelay: 0
       beepInterval: 99999
       doPopup: false
+  - type: Sprite
+    layers:
+    - state: igniter_left
+      sprite: _RuMC14/Ordnance/igniter.rsi
+
+    - state: igniter_right
+      sprite: _RuMC14/Ordnance/igniter.rsi
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Proximity sensor assembly — step-triggered timer detonation.
@@ -123,6 +162,13 @@
   - type: Tag
     tags:
     - RMCProximityAssembly
+  - type: Sprite
+    layers:
+    - state: prox_left
+      sprite: _RuMC14/Ordnance/prox.rsi
+
+    - state: igniter_right
+      sprite: _RuMC14/Ordnance/igniter.rsi
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Remote signaler assembly — triggered by a matching-frequency signaler.
@@ -146,7 +192,13 @@
       initialBeepDelay: 0
       beepInterval: 99999
       doPopup: false
+  - type: Sprite
+    layers:
+    - state: signaller_left
+      sprite: _RuMC14/Ordnance/signaller.rsi
 
+    - state: igniter_right
+      sprite: _RuMC14/Ordnance/igniter.rsi
 - type: Tag
   id: RMCSignalerAssembly
 - type: Tag
