@@ -1,5 +1,5 @@
 using Content.Server.Popups;
-using Content.Shared._RMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance;
 using Content.Shared.Hands.EntitySystems;
 using Content.Shared.Interaction;
 using Content.Shared.Popups;
@@ -8,7 +8,7 @@ using Robust.Server.GameObjects;
 using Robust.Shared.Network;
 using Robust.Shared.Prototypes;
 
-namespace Content.Server._RMC14.Ordnance;
+namespace Content.Server._RuMC14.Ordnance;
 
 /// <summary>
 ///     Handles combining two ordnance parts (igniter / timer) into a complete detonator assembly.

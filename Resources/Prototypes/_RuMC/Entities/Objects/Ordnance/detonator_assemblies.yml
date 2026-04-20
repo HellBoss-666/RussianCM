@@ -18,7 +18,7 @@
   description: A small electrical igniter. Combine with a timer to produce a timer assembly, or combine two igniters for a double-igniter assembly (required for rockets).
   components:
   - type: Sprite
-    sprite: _RMC14/Objects/Devices/timer.rsi
+    sprite: Objects/Devices/igniter.rsi
     state: timer
   - type: Item
     size: Tiny

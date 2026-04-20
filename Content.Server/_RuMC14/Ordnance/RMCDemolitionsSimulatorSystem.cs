@@ -1,6 +1,6 @@
 using Content.Server.Explosion.EntitySystems;
 using Content.Shared._RMC14.Chemistry.Reagent;
-using Content.Shared._RMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Chemistry.Reagent;
 using Content.Shared.FixedPoint;
@@ -13,7 +13,7 @@ using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 
-namespace Content.Server._RMC14.Ordnance;
+namespace Content.Server._RuMC14.Ordnance;
 
 public sealed class RMCDemolitionsSimulatorSystem : EntitySystem
 {

@@ -64,5 +64,42 @@
     graph: RMC80mmMortarCasingCustomGraph
     node: emptyCasing
 
+
+- type: entity
+  name: 80mm mortar camera warhead
+  description: A camera warhead for the 80mm mortar. Meant to be used with Flash Powder.
+  parent: RMCCasingBase
+  id: RMC80mmMortarCameraWarhead
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/80mmmortarwarhead.rsi
+  - type: PhysicalComposition
+    materialComposition:
+      CMSteel: 15000
+  - type: RMCChembombCasing
+    maxVolume: 180
+    basePower: 360
+    baseFalloff: 130
+    baseShards: 200
+    minFireIntensity: 5
+    maxFireIntensity: 45
+    minFireRadius: 3
+    maxFireRadius: 8
+    minFireDuration: 5
+    maxFireDuration: 48
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          tags:
+          - RMCDoubleIgniterAssembly
+  - type: Item
+    size: Normal
+
 - type: Tag
   id: RMC80mmMortarShell

@@ -1,7 +1,3 @@
-# ──────────────────────────────────────────────────────────────────────────────
-# Grenade casings
-# ──────────────────────────────────────────────────────────────────────────────
-
 - type: entity
   name: 30mm grenade casing (M40)
   description: An empty M40 grenade casing. Fill with a detonator assembly and chemicals, then prime.

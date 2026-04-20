@@ -1,0 +1,53 @@
+- type: entity
+  name: 84mm rocket tube
+  description: A fuel tube for the 84mm rocket. Fill with 60u of methane before assembly.
+  parent: RMCCasingBase
+  id: RMC84mmRocketTube
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/84mmrockettube.rsi
+  - type: PhysicalComposition
+    materialComposition:
+      CMSteel: 7500
+  - type: SolutionContainerManager
+    solutions:
+      fuel:
+        maxVol: 60
+  - type: Item
+    size: Normal
+
+- type: entity
+  name: 84mm rocket warhead
+  description: A warhead for the 84mm rocket. Insert a double-igniter assembly and fill with chemicals.
+  parent: RMCCasingBase
+  id: RMC84mmRocketWarhead
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/84mmrocketwarhead.rsi
+  - type: PhysicalComposition
+    materialComposition:
+      CMSteel: 11250
+  - type: RMCChembombCasing
+    maxVolume: 180
+    basePower: 220
+    baseFalloff: 160
+    baseShards: 80
+    minFireIntensity: 4
+    maxFireIntensity: 45
+    minFireRadius: 2
+    maxFireRadius: 4
+    minFireDuration: 5
+    maxFireDuration: 36
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          tags:
+          - RMCDoubleIgniterAssembly
+  - type: Item
+    size: Normal

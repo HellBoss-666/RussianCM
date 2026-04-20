@@ -3,7 +3,7 @@ using Content.Server.Popups;
 using Content.Shared._RMC14.Atmos;
 using Content.Shared._RMC14.Chemistry.Reagent;
 using Content.Shared._RMC14.Explosion;
-using Content.Shared._RMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Chemistry.Reagent;
@@ -23,7 +23,7 @@ using Robust.Shared.Map;
 using Robust.Shared.Network;
 using Robust.Shared.Prototypes;
 
-namespace Content.Server._RMC14.Ordnance;
+namespace Content.Server._RuMC14.Ordnance;
 
 public sealed class RMCChembombSystem : EntitySystem
 {

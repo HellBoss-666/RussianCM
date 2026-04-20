@@ -2,7 +2,7 @@ using Content.Server.Explosion.EntitySystems;
 using Content.Server.Popups;
 using Content.Shared._RMC14.Explosion;
 using Content.Shared._RMC14.Map;
-using Content.Shared._RMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance;
 using Content.Shared._RMC14.Weapons.Ranged.IFF;
 using Content.Shared.DoAfter;
 using Content.Shared.Interaction.Events;
@@ -13,7 +13,7 @@ using Robust.Shared.Network;
 using Robust.Shared.Physics;
 using Robust.Shared.Physics.Systems;
 
-namespace Content.Server._RMC14.Ordnance;
+namespace Content.Server._RuMC14.Ordnance;
 
 /// <summary>
 ///     Mine-casing deployment: use-in-hand → DoAfter → anchor in-place.

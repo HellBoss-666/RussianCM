@@ -1,0 +1,73 @@
+
+- type: entity
+  name: M20 mine casing
+  description: An empty M20 mine casing. Insert a proximity sensor assembly, fill with chemicals, then use in-hand to plant at your feet.
+  parent: RMCCasingBase
+  id: RMCM20MineCasing
+  components:
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/m20minecasing.rsi
+    drawdepth: BelowMobs
+    layers:
+    - state: icon
+      map: ["enum.ToggleableVisuals.Layer"]
+  - type: Appearance
+  - type: GenericVisualizer
+    visuals:
+      enum.ToggleableVisuals.Enabled:
+        enum.ToggleableVisuals.Layer:
+          True: {state: icon}
+          False: {state: icon}
+  - type: PhysicalComposition
+    materialComposition:
+      CMSteel: 3750
+  - type: Fixtures
+    fixtures:
+      # Item physics — active while held/on floor as item
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.2,-0.2,0.2,0.2"
+        density: 20
+        mask:
+        - ItemMask
+        restitution: 0.3
+        friction: 0.2
+      # Step-trigger hitbox — activated when mine is planted
+      trigger:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-1.5,0.25,0"
+        hard: false
+        layer:
+        - Opaque
+        mask:
+        - MobLayer
+        enabled: false
+  - type: RMCChembombCasing
+    maxVolume: 120
+    basePower: 100
+    baseFalloff: 80
+    baseShards: 40
+    minFireIntensity: 3
+    maxFireIntensity: 20
+    minFireRadius: 2
+    maxFireRadius: 4
+    minFireDuration: 3
+    maxFireDuration: 18
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 120
+  - type: ItemSlots
+    slots:
+      detonator:
+        name: rmc-chembomb-detonator-slot
+        whitelist:
+          tags:
+          - RMCProximityAssembly
+  - type: StepTrigger
+    active: false
+    requiredTriggeredSpeed: 0
+  - type: RMCMineCasing
+    placementDelay: 3
