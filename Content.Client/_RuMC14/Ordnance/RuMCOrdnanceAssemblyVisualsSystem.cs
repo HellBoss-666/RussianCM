@@ -1,46 +1,43 @@
 using Content.Shared._RuMC14.Ordnance;
 using Robust.Client.GameObjects;
+using Robust.Shared.Utility;
 
 namespace Content.Client._RuMC14.Ordnance;
 
-public sealed class RMCOrdnanceAssemblyVisualsSystem : VisualizerSystem<RMCOrdnanceAssemblyComponent>
+public sealed class RuMCOrdnanceAssemblyVisualsSystem : VisualizerSystem<RMCOrdnanceAssemblyComponent>
 {
-    private readonly SpriteSystem _sprite = default!;
-
-    public override void Initialize()
-    {
-        SubscribeLocalEvent<RMCOrdnanceAssemblyComponent, AppearanceChangeEvent>(OnAppearanceChanged);
-    }
-
-    private string GetState(RMCOrdnancePartType type, bool left)
-    {
-        return type switch
-        {
-            RMCOrdnancePartType.Igniter => left ? "igniter_left" : "igniter_right",
-            RMCOrdnancePartType.Timer => left ? "timer_left" : "timer_right",
-            RMCOrdnancePartType.Signaler => left ? "signaller_left" : "signaller_right",
-            RMCOrdnancePartType.Proximity => left ? "prox_left" : "prox_right",
-            _ => "base"
-        };
-    }
-
-    private void OnAppearanceChanged(EntityUid uid,
-        RMCOrdnanceAssemblyComponent comp,
-        ref AppearanceChangeEvent args)
+    protected override void OnAppearanceChange(EntityUid uid, RMCOrdnanceAssemblyComponent component, ref AppearanceChangeEvent args)
     {
         if (args.Sprite == null)
             return;
 
-        if (args.AppearanceData.TryGetValue(RMCAssemblyVisualKey.LeftType, out var leftObj) &&
-            leftObj is RMCOrdnancePartType left)
-        {
-            _sprite.LayerSetRsiState(uid, 0, GetState(left, true));
-        }
+        if (AppearanceSystem.TryGetData(uid, RMCAssemblyVisualKey.LeftType, out RMCOrdnancePartType left, args.Component))
+            SpriteSystem.LayerSetSprite((uid, args.Sprite), 0, MakeSpecifier(left, true));
 
-        if (args.AppearanceData.TryGetValue(RMCAssemblyVisualKey.RightType, out var rightObj) &&
-            rightObj is RMCOrdnancePartType right)
+        if (AppearanceSystem.TryGetData(uid, RMCAssemblyVisualKey.RightType, out RMCOrdnancePartType right, args.Component))
+            SpriteSystem.LayerSetSprite((uid, args.Sprite), 1, MakeSpecifier(right, false));
+    }
+
+    private static SpriteSpecifier.Rsi MakeSpecifier(RMCOrdnancePartType type, bool left)
+    {
+        var rsi = type switch
         {
-            _sprite.LayerSetRsiState(uid, 1, GetState(right, false));
-        }
+            RMCOrdnancePartType.RMCOrdnanceIgniter => "igniter",
+            RMCOrdnancePartType.RMCOrdnanceTimer => "timer",
+            RMCOrdnancePartType.RMCOrdnanceSignaler => "signaller",
+            RMCOrdnancePartType.RMCOrdnanceProximitySensor => "prox",
+            _ => "igniter"
+        };
+
+        var state = type switch
+        {
+            RMCOrdnancePartType.RMCOrdnanceIgniter => left ? "igniter_left" : "igniter_right",
+            RMCOrdnancePartType.RMCOrdnanceTimer => left ? "timer_left" : "timer_right",
+            RMCOrdnancePartType.RMCOrdnanceSignaler => left ? "signaller_left" : "signaller_right",
+            RMCOrdnancePartType.RMCOrdnanceProximitySensor => left ? "prox_left" : "prox_right",
+            _ => "igniter_left"
+        };
+
+        return new SpriteSpecifier.Rsi(new ResPath($"_RuMC14/Ordnance/{rsi}.rsi"), state);
     }
 }

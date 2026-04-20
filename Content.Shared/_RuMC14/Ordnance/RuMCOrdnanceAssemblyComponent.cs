@@ -1,13 +1,16 @@
-using Robust.Shared.GameObjects;
+using Robust.Shared.GameStates;
 
 namespace Content.Shared._RuMC14.Ordnance;
 
-[RegisterComponent]
+[RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 public sealed partial class RMCOrdnanceAssemblyComponent : Component
 {
-    [DataField]
-    public EntityUid? Left;
+    [DataField, AutoNetworkedField]
+    public RMCOrdnancePartType? LeftPartType;
 
-    [DataField]
-    public EntityUid? Right;
+    [DataField, AutoNetworkedField]
+    public RMCOrdnancePartType? RightPartType;
+
+    [DataField, AutoNetworkedField]
+    public bool
 }

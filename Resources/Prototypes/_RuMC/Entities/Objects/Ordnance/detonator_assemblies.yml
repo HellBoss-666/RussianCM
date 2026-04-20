@@ -39,6 +39,34 @@
   - type: RMCOrdnancePart
     partType: Timer
 
+- type: entity
+  parent: BaseItem
+  id: RMCOrdnanceProximitySensor
+  name: ordnance proximity sensor
+  description: A configurable proximity sensor.
+  components:
+  - type: Sprite
+    sprite: _RuMC14/Ordnance/prox.rsi
+    state: prox
+  - type: Item
+    size: Small
+  - type: RMCOrdnancePart
+    partType: Proximity
+
+- type: entity
+  parent: BaseItem
+  id: RMCOrdnanceSignaler
+  name: ordnance signaler
+  description: A configurable signaller.
+  components:
+  - type: Sprite
+    sprite: _RuMC14/Ordnance/signaller.rsi
+    state: signaller
+  - type: Item
+    size: Small
+  - type: RMCOrdnancePart
+    partType: Signaler
+
 # ──────────────────────────────────────────────────────────────────────────────
 # Complete assemblies (result of combining parts)
 # ──────────────────────────────────────────────────────────────────────────────
@@ -50,13 +78,12 @@
   description: A modular ordnance assembly.
   components:
   - type: Sprite
-    sprite: _RuMC14/Ordnance/assembly.rsi
     layers:
-    - state: base
-    - state: igniter_left
-      map: ["0"]
-    - state: igniter_right
-      map: ["1"]
+    - sprite: _RuMC14/Ordnance/igniter.rsi
+      state: igniter_left
+    - sprite: _RuMC14/Ordnance/igniter.rsi
+      state: igniter_right
+  - type: Appearance
   - type: Item
     size: Small
   - type: RMCOrdnanceAssembly

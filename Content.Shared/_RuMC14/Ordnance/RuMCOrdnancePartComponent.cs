@@ -15,8 +15,8 @@ public sealed partial class RMCOrdnancePartComponent : Component
 }
 public enum RMCOrdnancePartType
 {
-    Igniter,
-    Timer,
-    Signaler,
-    Proximity
+    RMCOrdnanceIgniter,
+    RMCOrdnanceTimer,
+    RMCOrdnanceSignaler,
+    RMCOrdnanceProximitySensor
 }
