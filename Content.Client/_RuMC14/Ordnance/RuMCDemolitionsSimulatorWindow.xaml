@@ -1,6 +1,6 @@
-<cc:RMCDemolitionsSimulatorWindow
+<cc:RuMCDemolitionsSimulatorWindow
     xmlns="https://spacestation14.io"
-    xmlns:cc="clr-namespace:Content.Client._RMC14.Ordnance"
+    xmlns:cc="clr-namespace:Content.Client._RuMC14.Ordnance"
     Title="Demolitions Simulator"
     MinSize="560 480"
     SetSize="560 480">
@@ -66,4 +66,4 @@
                HorizontalAlignment="Center"/>
 
     </BoxContainer>
-</cc:RMCDemolitionsSimulatorWindow>
+</cc:RuMCDemolitionsSimulatorWindow>

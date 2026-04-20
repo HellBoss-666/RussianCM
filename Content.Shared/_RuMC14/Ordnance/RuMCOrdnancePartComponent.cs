@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared._RMC14.Ordnance;
+namespace Content.Shared._RuMC14.Ordnance;
 
 /// <summary>
 ///     Marks an entity as an ordnance assembly part (igniter or timer).

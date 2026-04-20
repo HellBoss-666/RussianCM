@@ -3,14 +3,14 @@ using Robust.Client.UserInterface.CustomControls;
 using Robust.Client.UserInterface.XAML;
 using Robust.Shared.Timing;
 
-namespace Content.Client._RMC14.Ordnance;
+namespace Content.Client._RuMC14.Ordnance;
 
 [GenerateTypedNameReferences]
-public sealed partial class RMCDemolitionsSimulatorWindow : DefaultWindow
+public sealed partial class RuMCDemolitionsSimulatorWindow : DefaultWindow
 {
     public Action<FrameEventArgs>? OnFrameUpdate;
 
-    public RMCDemolitionsSimulatorWindow()
+    public RuMCDemolitionsSimulatorWindow()
     {
         RobustXamlLoader.Load(this);
     }

@@ -1,15 +1,15 @@
 using Content.Client.Message;
-using Content.Shared._RMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance;
 using JetBrains.Annotations;
 using Robust.Client.Graphics;
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 using Robust.Shared.Timing;
 
-namespace Content.Client._RMC14.Ordnance;
+namespace Content.Client._RuMC14.Ordnance;
 
 [UsedImplicitly]
-public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
+public sealed class RuMCDemolitionsSimulatorBui : BoundUserInterface
 {
     // ── Grid constants ────────────────────────────────────────────────────────
     private const int GridSize = 17;
@@ -39,21 +39,21 @@ public sealed class RMCDemolitionsSimulatorBui : BoundUserInterface
     private static readonly Color ColPending = Color.FromHex("#223344");
 
     // ── State ─────────────────────────────────────────────────────────────────
-    private RMCDemolitionsSimulatorWindow? _window;
+    private RuMCDemolitionsSimulatorWindow? _window;
     private PanelContainer[,]? _cells;
     private int _targetIndex;
     private RMCDemolitionsSimulatorBuiState? _pendingState;
     private float _animTimer;   // counts down from AnimDuration to 0
     private const float AnimDuration = 1.5f;
 
-    public RMCDemolitionsSimulatorBui(EntityUid owner, Enum uiKey) : base(owner, uiKey) { }
+    public RuMCDemolitionsSimulatorBui(EntityUid owner, Enum uiKey) : base(owner, uiKey) { }
 
     // ── Open ──────────────────────────────────────────────────────────────────
 
     protected override void Open()
     {
         base.Open();
-        _window = this.CreateWindow<RMCDemolitionsSimulatorWindow>();
+        _window = this.CreateWindow<RuMCDemolitionsSimulatorWindow>();
 
         BuildGrid();
 

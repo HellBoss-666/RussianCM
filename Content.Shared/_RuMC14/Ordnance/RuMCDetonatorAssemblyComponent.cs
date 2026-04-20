@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared._RMC14.Ordnance;
+namespace Content.Shared._RuMC14.Ordnance;
 
 /// <summary>
 ///     Marks an item as a detonator assembly that can be inserted into a chembomb casing.

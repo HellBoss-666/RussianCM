@@ -4,7 +4,7 @@ using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
 
-namespace Content.Shared._RMC14.Ordnance;
+namespace Content.Shared._RuMC14.Ordnance;
 
 /// <summary>
 ///     Marks a casing as a mine-type ordnance.

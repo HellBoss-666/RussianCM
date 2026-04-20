@@ -1,6 +1,6 @@
 using Robust.Shared.Serialization;
 
-namespace Content.Shared._RMC14.Ordnance;
+namespace Content.Shared._RuMC14.Ordnance;
 
 [Serializable, NetSerializable]
 public enum RMCDemolitionsSimulatorUiKey

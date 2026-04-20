@@ -1,22 +1,22 @@
-using Content.Shared._RMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance;
 using JetBrains.Annotations;
 using Robust.Client.UserInterface;
 using Robust.Shared.Timing;
 
-namespace Content.Client._RMC14.Ordnance;
+namespace Content.Client._RuMC14.Ordnance;
 
 [UsedImplicitly]
-public sealed class RMCExplosionSimulatorBui : BoundUserInterface
+public sealed class RuMCExplosionSimulatorBui : BoundUserInterface
 {
-    private RMCExplosionSimulatorWindow? _window;
+    private RuMCExplosionSimulatorWindow? _window;
     private RMCExplosionSimulatorBuiState? _lastState;
 
-    public RMCExplosionSimulatorBui(EntityUid owner, Enum uiKey) : base(owner, uiKey) { }
+    public RuMCExplosionSimulatorBui(EntityUid owner, Enum uiKey) : base(owner, uiKey) { }
 
     protected override void Open()
     {
         base.Open();
-        _window = this.CreateWindow<RMCExplosionSimulatorWindow>();
+        _window = this.CreateWindow<RuMCExplosionSimulatorWindow>();
 
         _window.MarinesButton.OnPressed += _ =>
             SendPredictedMessage(new RMCExplosionSimulatorTargetMsg(RMCExplosionSimulatorTarget.Marines));
