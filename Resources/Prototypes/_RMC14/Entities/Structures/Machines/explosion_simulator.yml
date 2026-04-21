@@ -57,7 +57,7 @@
   - type: UserInterface
     interfaces:
       enum.RMCExplosionSimulatorUiKey.Key:
-        type: RMCExplosionSimulatorBui
+        type: RuMCExplosionSimulatorBui
   - type: AccessReader
     access:
     - - OT

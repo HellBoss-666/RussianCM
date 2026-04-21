@@ -11,6 +11,12 @@ rmc-chembomb-examine-locked = [color=orange]ВЗВЕДЕНО[/color]
 rmc-chembomb-detonator-slot = Детонаторная сборка
 
 # Explosive reagents
+reagent-name-rmc-nitric-acid = Азотная кислота
+reagent-desc-rmc-nitric-acid = Дымящая сильная кислота. Ключевой прекурсор для синтеза взрывчатых соединений. Хранить в холоде.
+
+reagent-name-rmc-glycerol = Глицерол
+reagent-desc-rmc-glycerol = Бесцветная вязкая жидкость без запаха. Реагирует с азотной кислотой при охлаждении, образуя нитроглицерин.
+
 reagent-name-rmc-cyclonite = Циклонит (RDX)
 reagent-desc-rmc-cyclonite = Белое кристаллическое твёрдое вещество, применяемое как взрывчатка. Одно из самых мощных военных взрывчатых веществ.
 

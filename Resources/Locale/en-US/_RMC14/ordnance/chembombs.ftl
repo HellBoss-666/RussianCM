@@ -11,6 +11,12 @@ rmc-chembomb-examine-locked = [color=orange]ARMED[/color]
 rmc-chembomb-detonator-slot = Detonator Assembly
 
 # Explosive reagents
+reagent-name-rmc-nitric-acid = Nitric Acid
+reagent-desc-rmc-nitric-acid = A corrosive, fuming strong acid. Essential precursor for synthesizing explosive compounds. Keep cold.
+
+reagent-name-rmc-glycerol = Glycerol
+reagent-desc-rmc-glycerol = A colorless, odorless, viscous liquid. Reacts with nitric acid to form nitroglycerin under cold conditions.
+
 reagent-name-rmc-cyclonite = Cyclonite (RDX)
 reagent-desc-rmc-cyclonite = A white crystalline solid used as an explosive. One of the most powerful military explosives known.
 

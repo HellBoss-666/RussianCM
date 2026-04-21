@@ -31,6 +31,8 @@ public sealed partial class RMCChemicalDispenserComponent : Component
         "RMCHydrogen", "RMCIron", "RMCLithium", "RMCMercury", "RMCNitrogen", "RMCOxygen",
         "RMCPhosphorus", "RMCPotassium", "RMCRadium", "RMCSilicon", "RMCSodium", "RMCSugar",
         "RMCSulfur", "RMCSulphuricAcid", "Water",
+        // Прекурсоры для синтеза взрывчатки (OT-химия)
+        "Ammonia", "RMCGlycerol",
     ];
 
     [DataField, AutoNetworkedField]

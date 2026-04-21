@@ -113,13 +113,33 @@
   unknown: true
   intensityMod: 0.1
 
+- type: reagent
+  parent: CMReagent
+  id: RMCNitricAcid
+  name: reagent-name-rmc-nitric-acid
+  desc: reagent-desc-rmc-nitric-acid
+  physicalDesc: reagent-physical-desc-fuming
+  flavor: acid
+  color: "#E8F0E0"
+  unknown: true
+
+- type: reagent
+  parent: CMReagent
+  id: RMCGlycerol
+  name: reagent-name-rmc-glycerol
+  desc: reagent-desc-rmc-glycerol
+  physicalDesc: reagent-physical-desc-oily
+  flavor: sweet
+  color: "#F5F5DC"
+  unknown: true
+
 # Synthesis reactions
 - type: reaction
   id: RMCAmmoniumNitrateReaction
   reactants:
     Ammonia:
       amount: 1
-    SulfuricAcid:
+    RMCPolytrinicAcid:
       amount: 1
   products:
     RMCAmmoniumNitrate: 1
@@ -145,6 +165,95 @@
   products:
     RMCPotassiumHydroxide: 1
     RMCHydrogen: 1
+
+# Азотная кислота: нитрогенизация через нагрев (N2 + 2O2 + H2O → 2HNO3)
+- type: reaction
+  id: RMCNitricAcidReaction
+  reactants:
+    RMCNitrogen:
+      amount: 1
+    RMCOxygen:
+      amount: 2
+    Water:
+      amount: 1
+  products:
+    RMCNitricAcid: 2
+  minTemp: 450
+
+# Гексамин: конденсация формальдегида с аммиаком (6CH2O + 4NH3 → C6H12N4 + 6H2O)
+- type: reaction
+  id: RMCHexamineReaction
+  reactants:
+    Formaldehyde:
+      amount: 6
+    Ammonia:
+      amount: 4
+  products:
+    RMCHexamine: 4
+    Water: 2
+
+# Циклонит: нитрование гексамина (требует охлаждения!)
+- type: reaction
+  id: RMCCycloniteReaction
+  reactants:
+    RMCHexamine:
+      amount: 3
+    RMCPolytrinicAcid:
+      amount: 6
+  products:
+    RMCCyclonite: 3
+    Water: 3
+    Ammonia: 3
+  maxTemp: 280
+
+# Октоген: синтез из циклонита и нитрата аммония (требует охлаждения!)
+- type: reaction
+  id: RMCOctogenReaction
+  reactants:
+    RMCCyclonite:
+      amount: 3
+    RMCAmmoniumNitrate:
+      amount: 1
+  products:
+    RMCOctogen: 4
+  maxTemp: 280
+
+# Нитроглицерин: нитрование глицерола (требует охлаждения!)
+- type: reaction
+  id: RMCNitroglycerinReaction
+  reactants:
+    RMCGlycerol:
+      amount: 1
+    RMCNitricAcid:
+      amount: 3
+    SulfuricAcid:
+      amount: 1
+  products:
+    RMCNitroglycerin: 3
+    Water: 1
+  maxTemp: 280
+
+# Хлорид калия: реакция калия с хлором
+- type: reaction
+  id: RMCPotassiumChlorideReaction
+  reactants:
+    RMCPotassium:
+      amount: 1
+    RMCChlorine:
+      amount: 1
+  products:
+    RMCPotassiumChloride: 1
+
+# Хлорид натрия: реакция натрия с хлором
+- type: reaction
+  id: RMCSodiumChlorideReaction
+  reactants:
+    RMCSodium:
+      amount: 1
+    RMCChlorine:
+      amount: 1
+  products:
+    RMCSodiumChloride: 1
 
 
 # Polytrinic acid
@@ -233,11 +342,11 @@
 - type: reaction
   id: Formaldehyde
   reactants:
-    Methane:
+    RMCMethane:
       amount: 1
-    Phoron:
+    RMCPhoron:
       amount: 1
-    Oxygen:
+    RMCOxygen:
       amount: 1
   products:
     Formaldehyde: 3
