@@ -2,9 +2,7 @@
 using Content.Server.Storage.Components;
 using Content.Shared.Chemistry.Components.SolutionManager;
 using Content.Shared.Chemistry.EntitySystems;
-using Content.Shared.Power;
 using Content.Shared.Storage.Components;
-using Robust.Shared.Containers;
 
 namespace Content.Server._RuMC14.Chemistry;
 
@@ -16,75 +14,52 @@ public sealed class RuMCCoolingChamberSystem : EntitySystem
     public override void Initialize()
     {
         base.Initialize();
-
-        SubscribeLocalEvent<RuMCCoolingChamberComponent, PowerChangedEvent>(OnPowerChanged);
-        SubscribeLocalEvent<RuMCCoolingChamberComponent, StorageAfterCloseEvent>(OnStorageAfterClose);
-        SubscribeLocalEvent<RuMCCoolingChamberComponent, StorageAfterOpenEvent>(OnStorageAfterOpen);
-        SubscribeLocalEvent<RuMCCoolingChamberComponent, EntInsertedIntoContainerMessage>(OnContentsChanged);
-        SubscribeLocalEvent<RuMCCoolingChamberComponent, EntRemovedFromContainerMessage>(OnContentsChanged);
+        SubscribeLocalEvent<RuMCCoolingChamberComponent, StorageAfterCloseEvent>(OnStorageClosed);
     }
 
-    private void OnPowerChanged(Entity<RuMCCoolingChamberComponent> ent, ref PowerChangedEvent args)
+    // После закрытия двери PVS ещё не успел обработать переход сущностей в контейнер —
+    // помечаем флаг, чтобы пропустить один тик и избежать PVS-ассерта на грязных сетевых компонентах.
+    private void OnStorageClosed(Entity<RuMCCoolingChamberComponent> ent, ref StorageAfterCloseEvent args)
     {
-        UpdateActive(ent);
-    }
-
-    private void OnStorageAfterClose(Entity<RuMCCoolingChamberComponent> ent, ref StorageAfterCloseEvent args)
-    {
-        UpdateActive(ent);
-    }
-
-    private void OnStorageAfterOpen(Entity<RuMCCoolingChamberComponent> ent, ref StorageAfterOpenEvent args)
-    {
-        UpdateActive(ent);
-    }
-
-    private void OnContentsChanged(Entity<RuMCCoolingChamberComponent> ent, ref EntInsertedIntoContainerMessage args)
-    {
-        UpdateActive(ent);
-    }
-
-    private void OnContentsChanged(Entity<RuMCCoolingChamberComponent> ent, ref EntRemovedFromContainerMessage args)
-    {
-        UpdateActive(ent);
-    }
-
-    private void UpdateActive(Entity<RuMCCoolingChamberComponent> ent)
-    {
-        if (!TryComp<EntityStorageComponent>(ent, out var storage))
-            return;
-
-        if (_power.IsPowered(ent) && !storage.Open && storage.Contents.ContainedEntities.Count > 0)
-            EnsureComp<ActiveRuMCCoolingChamberComponent>(ent);
-        else
-            RemCompDeferred<ActiveRuMCCoolingChamberComponent>(ent);
+        ent.Comp.SkipNextTick = true;
     }
 
     public override void Update(float frameTime)
     {
         base.Update(frameTime);
 
-        var query = EntityQueryEnumerator<ActiveRuMCCoolingChamberComponent, RuMCCoolingChamberComponent, EntityStorageComponent>();
-        while (query.MoveNext(out _, out _, out var cooler, out var storage))
+        var query = EntityQueryEnumerator<RuMCCoolingChamberComponent, EntityStorageComponent>();
+        while (query.MoveNext(out var uid, out var cooler, out var storage))
         {
-            foreach (var contained in new List<EntityUid>(storage.Contents.ContainedEntities))
+            // Если он открыт, или внутри ничего нет, пропускаем
+            if (storage.Open || storage.Contents.ContainedEntities.Count == 0)
+                continue;
+
+            // Если не запитан - пропускаем
+            if (!_power.IsPowered(uid))
+                continue;
+
+            // Пропускаем один тик после закрытия — PVS должен завершить скрытие содержимого
+            if (cooler.SkipNextTick)
+            {
+                cooler.SkipNextTick = false;
+                continue;
+            }
+
+            foreach (var contained in storage.Contents.ContainedEntities)
             {
                 if (!TryComp<SolutionContainerManagerComponent>(contained, out var manager))
                     continue;
 
-                Entity<SolutionContainerManagerComponent?> entityManager = new(contained, manager);
-                foreach (var (_, solution) in _solutionContainer.EnumerateSolutions(entityManager))
+                var energy = -cooler.CoolPerSecond * frameTime;
+                foreach (var (_, solution) in _solutionContainer.EnumerateSolutions((contained, manager)))
                 {
                     if (solution.Comp.Solution.Temperature <= cooler.TargetTemperature)
                         continue;
 
-                    _solutionContainer.AddThermalEnergy(solution, -cooler.CoolPerSecond * frameTime);
-
-                    if (solution.Comp.Solution.Temperature < cooler.TargetTemperature)
-                        _solutionContainer.SetTemperature(solution, cooler.TargetTemperature);
+                    _solutionContainer.AddThermalEnergy(solution, energy);
                 }
             }
         }
     }
 }
-

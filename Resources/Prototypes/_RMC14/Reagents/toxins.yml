@@ -293,10 +293,11 @@
 
 - type: reaction
   id: RMCParaformaldehydeReaction
+  maxTemp: 280
   reactants:
     RMCFormaldehyde:
       amount: 1
-    FrostOil:
+    Water:
       amount: 1
   products:
     RMCParaformaldehyde: 1

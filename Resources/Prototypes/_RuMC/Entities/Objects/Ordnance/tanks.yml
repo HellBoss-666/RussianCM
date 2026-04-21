@@ -43,13 +43,13 @@
 - type: entity
   parent: RMCTankReagentEmpty
   id: RuMCTankReagentSulfuricAcid
-  suffix: SulfuricAcid
+  suffix: RMCSulphuricAcid
   components:
   - type: SolutionContainerManager
     solutions:
       tank:
         reagents:
-        - ReagentId: SulfuricAcid
+        - ReagentId: RMCSulphuricAcid
           Quantity: 1000
   - type: Label
     currentLabel: reagent-name-sulfuric-acid

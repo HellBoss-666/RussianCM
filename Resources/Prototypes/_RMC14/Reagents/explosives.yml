@@ -151,6 +151,7 @@
 
 - type: reaction
   id: RMCCycloniteReaction
+  priority: 1
   reactants:
     RMCHexamine:
       amount: 1
@@ -161,6 +162,7 @@
 
 - type: reaction
   id: RMCOctogenReaction
+  priority: 10
   reactants:
     RMCHexamine:
       amount: 1
