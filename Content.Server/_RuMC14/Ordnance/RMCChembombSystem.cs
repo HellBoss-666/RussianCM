@@ -1,24 +1,31 @@
+using Content.Server.DeviceNetwork.Components;
+using Content.Server.DeviceNetwork.Systems;
+using Content.Server.Explosion.Components;
 using Content.Server.Explosion.EntitySystems;
 using Content.Server.Popups;
-using Content.Shared.Explosion.Components;
 using Content.Shared._RMC14.Atmos;
 using Content.Shared._RMC14.Chemistry.Reagent;
 using Content.Shared._RMC14.Explosion;
+using Content.Shared._RMC14.Mortar;
 using Content.Shared._RuMC14.Ordnance;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.EntitySystems;
-using Content.Shared.Chemistry.Reagent;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Coordinates.Helpers;
+using Content.Shared.DeviceLinking;
+using Content.Shared.DeviceNetwork.Components;
 using Content.Shared.DoAfter;
 using Content.Shared.Examine;
+using Content.Shared.Explosion.Components;
 using Content.Shared.FixedPoint;
 using Content.Shared.Interaction;
 using Content.Shared.Interaction.Events;
-using Content.Shared.Payload.Components;
 using Content.Shared.Popups;
+using Content.Shared.Tools;
 using Content.Shared.Tools.Systems;
 using Robust.Server.GameObjects;
+using Robust.Shared.Audio;
+using Robust.Shared.Audio.Systems;
 using Robust.Shared.Containers;
 using Robust.Shared.Map;
 using Robust.Shared.Network;
@@ -28,20 +35,28 @@ namespace Content.Server._RuMC14.Ordnance;
 
 public sealed class RMCChembombSystem : EntitySystem
 {
+    [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
+    [Dependency] private readonly SharedAudioSystem _audio = default!;
+    [Dependency] private readonly DeviceNetworkSystem _deviceNetwork = default!;
     [Dependency] private readonly ExplosionSystem _explosion = default!;
+    [Dependency] private readonly SharedRMCFlammableSystem _flammable = default!;
     [Dependency] private readonly IMapManager _map = default!;
     [Dependency] private readonly INetManager _net = default!;
     [Dependency] private readonly ItemSlotsSystem _itemSlots = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
     [Dependency] private readonly SharedDoAfterSystem _doAfter = default!;
-    [Dependency] private readonly SharedRMCFlammableSystem _flammable = default!;
     [Dependency] private readonly SharedSolutionContainerSystem _solution = default!;
     [Dependency] private readonly SharedToolSystem _tool = default!;
     [Dependency] private readonly TransformSystem _transform = default!;
 
+    private static readonly SoundSpecifier InsertSound = new SoundPathSpecifier("/Audio/_RMC14/Weapons/Guns/Reload/grenade_insert.ogg");
+    private static readonly SoundSpecifier ArmSound = new SoundPathSpecifier("/Audio/_RMC14/Explosion/armbomb.ogg");
+    private static readonly ProtoId<ToolQualityPrototype> ScrewingQuality = "Screwing";
+
     public override void Initialize()
     {
+        SubscribeLocalEvent<RMCChembombCasingComponent, MapInitEvent>(OnMapInit);
         SubscribeLocalEvent<RMCChembombCasingComponent, UseInHandEvent>(OnUseInHand);
         SubscribeLocalEvent<RMCChembombCasingComponent, TriggerEvent>(OnTrigger);
         SubscribeLocalEvent<RMCChembombCasingComponent, InteractUsingEvent>(OnInteractUsing);
@@ -49,8 +64,13 @@ public sealed class RMCChembombSystem : EntitySystem
         SubscribeLocalEvent<RMCChembombCasingComponent, EntInsertedIntoContainerMessage>(OnItemInserted);
         SubscribeLocalEvent<RMCChembombCasingComponent, EntRemovedFromContainerMessage>(OnItemRemoved);
         SubscribeLocalEvent<RMCChembombCasingComponent, RMCCasingScrewDoAfterEvent>(OnScrewDoAfter);
-        SubscribeLocalEvent<RMCChembombCasingComponent, RMCCasingCutDoAfterEvent>(OnCutDoAfter);
+        SubscribeLocalEvent<RMCChembombCasingComponent, MortarShellLandEvent>(OnMortarShellLand);
         SubscribeLocalEvent<RMCDemolitionsScannerComponent, AfterInteractEvent>(OnScannerAfterInteract);
+    }
+
+    private void OnMapInit(Entity<RMCChembombCasingComponent> ent, ref MapInitEvent args)
+    {
+        UpdateCasingVisuals(ent);
     }
 
     private void OnUseInHand(Entity<RMCChembombCasingComponent> ent, ref UseInHandEvent args)
@@ -72,36 +92,19 @@ public sealed class RMCChembombSystem : EntitySystem
 
         if (ent.Comp.Stage == RMCCasingAssemblyStage.Open)
         {
-            ent.Comp.Stage = RMCCasingAssemblyStage.Sealed;
+            ent.Comp.Stage = RMCCasingAssemblyStage.Armed;
             _itemSlots.SetLock(ent, "detonator", true);
-            _popup.PopupEntity(Loc.GetString("rmc-chembomb-sealed"), ent, args.User);
+            _popup.PopupEntity(Loc.GetString("rmc-chembomb-armed"), ent, args.User);
         }
-        else if (ent.Comp.Stage == RMCCasingAssemblyStage.Sealed)
+        else if (ent.Comp.Stage == RMCCasingAssemblyStage.Armed)
         {
             ent.Comp.Stage = RMCCasingAssemblyStage.Open;
             _itemSlots.SetLock(ent, "detonator", false);
             _popup.PopupEntity(Loc.GetString("rmc-chembomb-unsealed"), ent, args.User);
         }
 
-        Dirty(ent);
-    }
-
-    private void OnCutDoAfter(Entity<RMCChembombCasingComponent> ent, ref RMCCasingCutDoAfterEvent args)
-    {
-        if (args.Cancelled || _net.IsClient)
-            return;
-
-        if (ent.Comp.Stage == RMCCasingAssemblyStage.Sealed)
-        {
-            ent.Comp.Stage = RMCCasingAssemblyStage.Armed;
-            _popup.PopupEntity(Loc.GetString("rmc-chembomb-armed"), ent, args.User);
-        }
-        else if (ent.Comp.Stage == RMCCasingAssemblyStage.Armed)
-        {
-            ent.Comp.Stage = RMCCasingAssemblyStage.Sealed;
-            _popup.PopupEntity(Loc.GetString("rmc-chembomb-disarmed"), ent, args.User);
-        }
-
+        _audio.PlayPredicted(ArmSound, ent, args.User);
+        UpdateCasingVisuals(ent);
         Dirty(ent);
     }
 
@@ -135,19 +138,22 @@ public sealed class RMCChembombSystem : EntitySystem
                 radiusMod += qty * (float) proto.RadiusMod;
                 durationMod += qty * (float) proto.DurationMod;
 
-                if (proto.PowerMod > FixedPoint2.Zero) hasExplosive = true;
-                if (proto.IntensityMod > FixedPoint2.Zero || proto.Intensity > 0) hasIncendiary = true;
+                if (proto.PowerMod > FixedPoint2.Zero)
+                    hasExplosive = true;
+
+                if (proto.IntensityMod > FixedPoint2.Zero || proto.Intensity > 0)
+                    hasIncendiary = true;
             }
         }
 
         var sb = new System.Text.StringBuilder();
         sb.AppendLine(Loc.GetString("rmc-demolitions-sim-header", ("name", MetaData(target).EntityName)));
 
-        FixedPoint2 currentVol = FixedPoint2.Zero;
+        var currentVol = FixedPoint2.Zero;
         if (_solution.TryGetSolution(target, casing.ChemicalSolution, out _, out var chem))
             currentVol = chem.Volume;
         sb.AppendLine(Loc.GetString("rmc-demolitions-sim-volume",
-            ("current", (int)(float) currentVol), ("max", (int)(float) casing.MaxVolume)));
+            ("current", (int) (float) currentVol), ("max", (int) (float) casing.MaxVolume)));
 
         if (!hasExplosive && !hasIncendiary)
         {
@@ -157,17 +163,18 @@ public sealed class RMCChembombSystem : EntitySystem
         {
             if (hasExplosive || powerMod > 0)
             {
-                float power = casing.BasePower + powerMod;
-                float falloff = MathF.Max(casing.MinFalloff, casing.BaseFalloff + falloffMod);
-                float approxRadius = MathF.Sqrt(MathF.Max(1f, power) / MathF.Max(1.5f, falloff / 14f));
+                var power = casing.BasePower + powerMod;
+                var falloff = MathF.Max(casing.MinFalloff, casing.BaseFalloff + falloffMod);
+                var approxRadius = MathF.Sqrt(MathF.Max(1f, power) / MathF.Max(1.5f, falloff / 14f));
                 sb.AppendLine(Loc.GetString("rmc-demolitions-sim-explosion",
                     ("power", (int) power), ("falloff", (int) falloff), ("radius", approxRadius.ToString("F1"))));
             }
+
             if (hasIncendiary)
             {
-                float intensity = Math.Clamp(casing.MinFireIntensity + intensityMod, casing.MinFireIntensity, casing.MaxFireIntensity);
-                float radius = Math.Clamp(casing.MinFireRadius + radiusMod, casing.MinFireRadius, casing.MaxFireRadius);
-                float duration = Math.Clamp(casing.MinFireDuration + durationMod, casing.MinFireDuration, casing.MaxFireDuration);
+                var intensity = Math.Clamp(casing.MinFireIntensity + intensityMod, casing.MinFireIntensity, casing.MaxFireIntensity);
+                var radius = Math.Clamp(casing.MinFireRadius + radiusMod, casing.MinFireRadius, casing.MaxFireRadius);
+                var duration = Math.Clamp(casing.MinFireDuration + durationMod, casing.MinFireDuration, casing.MaxFireDuration);
                 sb.AppendLine(Loc.GetString("rmc-demolitions-sim-fire",
                     ("intensity", (int) intensity), ("radius", (int) radius), ("duration", (int) duration)));
             }
@@ -188,23 +195,21 @@ public sealed class RMCChembombSystem : EntitySystem
             return;
         }
 
-        var comp = ent.Comp;
-
-        if (!_solution.TryGetSolution(ent.Owner, comp.ChemicalSolution, out _, out var solution))
+        if (!_solution.TryGetSolution(ent.Owner, ent.Comp.ChemicalSolution, out _, out var solution))
         {
             QueueDel(ent);
             args.Handled = true;
             return;
         }
 
-        float powerMod = 0f;
-        float falloffMod = 0f;
-        float intensityMod = 0f;
-        float radiusMod = 0f;
-        float durationMod = 0f;
-        EntProtoId fireEntity = comp.DefaultFireEntity;
-        bool hasExplosive = false;
-        bool hasIncendiary = false;
+        var powerMod = 0f;
+        var falloffMod = 0f;
+        var intensityMod = 0f;
+        var radiusMod = 0f;
+        var durationMod = 0f;
+        var fireEntity = ent.Comp.DefaultFireEntity;
+        var hasExplosive = false;
+        var hasIncendiary = false;
 
         foreach (var reagent in solution)
         {
@@ -212,7 +217,6 @@ public sealed class RMCChembombSystem : EntitySystem
                 continue;
 
             var qty = (float) reagent.Quantity;
-
             powerMod += qty * (float) proto!.PowerMod;
             falloffMod += qty * (float) proto.FalloffMod;
             intensityMod += qty * (float) proto.IntensityMod;
@@ -234,12 +238,11 @@ public sealed class RMCChembombSystem : EntitySystem
 
         if (hasExplosive || powerMod > 0)
         {
-            float power = comp.BasePower + powerMod;
-            float falloff = MathF.Max(comp.MinFalloff, comp.BaseFalloff + falloffMod);
-
-            float totalIntensity = MathF.Max(1f, power);
-            float intensitySlope = MathF.Max(1.5f, falloff / 14f);
-            float maxIntensity = MathF.Max(5f, power / 15f);
+            var power = ent.Comp.BasePower + powerMod;
+            var falloff = MathF.Max(ent.Comp.MinFalloff, ent.Comp.BaseFalloff + falloffMod);
+            var totalIntensity = MathF.Max(1f, power);
+            var intensitySlope = MathF.Max(1.5f, falloff / 14f);
+            var maxIntensity = MathF.Max(5f, power / 15f);
 
             _explosion.QueueExplosion(
                 _transform.GetMapCoordinates(ent.Owner),
@@ -252,10 +255,9 @@ public sealed class RMCChembombSystem : EntitySystem
 
         if (hasIncendiary)
         {
-            float intensity = Math.Clamp(comp.MinFireIntensity + intensityMod, comp.MinFireIntensity, comp.MaxFireIntensity);
-            float radius = Math.Clamp(comp.MinFireRadius + radiusMod, comp.MinFireRadius, comp.MaxFireRadius);
-            float duration = Math.Clamp(comp.MinFireDuration + durationMod, comp.MinFireDuration, comp.MaxFireDuration);
-
+            var intensity = Math.Clamp(ent.Comp.MinFireIntensity + intensityMod, ent.Comp.MinFireIntensity, ent.Comp.MaxFireIntensity);
+            var radius = Math.Clamp(ent.Comp.MinFireRadius + radiusMod, ent.Comp.MinFireRadius, ent.Comp.MaxFireRadius);
+            var duration = Math.Clamp(ent.Comp.MinFireDuration + durationMod, ent.Comp.MinFireDuration, ent.Comp.MaxFireDuration);
             var tile = coords.SnapToGrid(EntityManager, _map);
             _flammable.SpawnFireDiamond(fireEntity, tile, (int) radius, (int) intensity, (int) duration);
         }
@@ -264,21 +266,21 @@ public sealed class RMCChembombSystem : EntitySystem
         QueueDel(ent.Owner);
     }
 
+    private void OnMortarShellLand(Entity<RMCChembombCasingComponent> ent, ref MortarShellLandEvent args)
+    {
+        if (_net.IsClient || ent.Comp.Stage != RMCCasingAssemblyStage.Armed)
+            return;
+
+        RaiseLocalEvent(ent.Owner, new TriggerEvent(ent.Owner));
+    }
+
     private void OnInteractUsing(Entity<RMCChembombCasingComponent> ent, ref InteractUsingEvent args)
     {
         if (args.Handled || _net.IsClient)
             return;
 
-        // Screwdriver: seal (Open→Sealed) or unseal (Sealed→Open)
-        if (_tool.HasQuality(args.Used, "Screwing"))
+        if (_tool.HasQuality(args.Used, ScrewingQuality))
         {
-            if (ent.Comp.Stage == RMCCasingAssemblyStage.Armed)
-            {
-                _popup.PopupEntity(Loc.GetString("rmc-chembomb-seal-disarm-first"), ent, args.User, PopupType.SmallCaution);
-                args.Handled = true;
-                return;
-            }
-
             if (ent.Comp.Stage == RMCCasingAssemblyStage.Open && !ent.Comp.HasActiveDetonator)
             {
                 _popup.PopupEntity(Loc.GetString("rmc-chembomb-seal-no-detonator"), ent, args.User, PopupType.SmallCaution);
@@ -291,27 +293,10 @@ public sealed class RMCChembombSystem : EntitySystem
             return;
         }
 
-        // Wirecutters: arm (Sealed→Armed) or disarm (Armed→Sealed)
-        if (_tool.HasQuality(args.Used, "Cutting"))
-        {
-            if (ent.Comp.Stage == RMCCasingAssemblyStage.Open)
-            {
-                _popup.PopupEntity(Loc.GetString("rmc-chembomb-arm-seal-first"), ent, args.User, PopupType.SmallCaution);
-                args.Handled = true;
-                return;
-            }
-
-            StartToolDoAfter<RMCCasingCutDoAfterEvent>(ent, args.User, args.Used, 2f);
-            args.Handled = true;
-            return;
-        }
-
-        // Beaker: fill with chemicals (only when Open)
         if (ent.Comp.Stage != RMCCasingAssemblyStage.Open)
             return;
 
-        var used = args.Used;
-        if (!HasComp<FitsInDispenserComponent>(used))
+        if (!HasComp<FitsInDispenserComponent>(args.Used))
             return;
 
         if (!_solution.TryGetSolution(ent.Owner, ent.Comp.ChemicalSolution, out var casingSoln, out var casingChem))
@@ -325,7 +310,7 @@ public sealed class RMCChembombSystem : EntitySystem
             return;
         }
 
-        if (!_solution.TryGetFitsInDispenser(used, out var beakerSoln, out var beakerChem))
+        if (!_solution.TryGetFitsInDispenser(args.Used, out var beakerSoln, out var beakerChem))
             return;
 
         if (beakerChem.Volume <= FixedPoint2.Zero)
@@ -339,9 +324,11 @@ public sealed class RMCChembombSystem : EntitySystem
         var transferred = _solution.SplitSolution(beakerSoln.Value, toTransfer);
         _solution.TryAddSolution(casingSoln.Value, transferred);
 
+        _audio.PlayPredicted(InsertSound, ent.Owner, args.User);
         _popup.PopupEntity(
             Loc.GetString("rmc-chembomb-fill", ("amount", toTransfer), ("total", casingChem.Volume + toTransfer), ("max", ent.Comp.MaxVolume)),
-            ent.Owner, args.User);
+            ent.Owner,
+            args.User);
 
         args.Handled = true;
     }
@@ -353,103 +340,114 @@ public sealed class RMCChembombSystem : EntitySystem
 
         using (args.PushGroup(nameof(RMCChembombCasingComponent)))
         {
-            FixedPoint2 currentVol = FixedPoint2.Zero;
+            var currentVol = FixedPoint2.Zero;
             if (_solution.TryGetSolution(ent.Owner, ent.Comp.ChemicalSolution, out _, out var chem))
                 currentVol = chem.Volume;
 
-            args.PushMarkup(Loc.GetString("rmc-chembomb-examine-volume",
-                ("current", currentVol),
-                ("max", ent.Comp.MaxVolume)));
-
-            if (ent.Comp.HasActiveDetonator)
-                args.PushMarkup(Loc.GetString("rmc-chembomb-examine-detonator"));
-            else
-                args.PushMarkup(Loc.GetString("rmc-chembomb-examine-no-detonator"));
+            args.PushMarkup(Loc.GetString("rmc-chembomb-examine-volume", ("current", currentVol), ("max", ent.Comp.MaxVolume)));
+            args.PushMarkup(ent.Comp.HasActiveDetonator
+                ? Loc.GetString("rmc-chembomb-examine-detonator")
+                : Loc.GetString("rmc-chembomb-examine-no-detonator"));
 
             args.PushMarkup(ent.Comp.Stage switch
             {
                 RMCCasingAssemblyStage.Sealed => Loc.GetString("rmc-chembomb-examine-sealed"),
-                RMCCasingAssemblyStage.Armed  => Loc.GetString("rmc-chembomb-examine-locked"),
-                _                             => Loc.GetString("rmc-chembomb-examine-open"),
+                RMCCasingAssemblyStage.Armed => Loc.GetString("rmc-chembomb-examine-locked"),
+                _ => Loc.GetString("rmc-chembomb-examine-open"),
             });
         }
     }
 
     private void OnItemInserted(Entity<RMCChembombCasingComponent> ent, ref EntInsertedIntoContainerMessage args)
     {
-        // Старая система детонаторов
         if (TryComp<RMCDetonatorAssemblyComponent>(args.Entity, out var oldComp))
         {
             if (!oldComp.Ready)
                 return;
+
             ent.Comp.HasActiveDetonator = true;
+            _audio.PlayPredicted(InsertSound, ent.Owner, null);
+            UpdateCasingVisuals(ent);
             Dirty(ent);
             return;
         }
 
-        // Новая система: RMCOrdnanceAssembly должна быть закрыта отвёрткой
         if (!TryComp<RMCOrdnanceAssemblyComponent>(args.Entity, out var assembly) || !assembly.IsLocked)
             return;
 
         ent.Comp.HasActiveDetonator = true;
+        _audio.PlayPredicted(InsertSound, ent.Owner, null);
+        UpdateCasingVisuals(ent);
         Dirty(ent);
 
-        // Добавляем компонент триггера на корпус в зависимости от типа сенсора
-        var sensor = GetSensorType(assembly);
-        switch (sensor)
+        ClearAssemblyTriggerComponents(ent);
+
+        switch (GetAssemblyKind(assembly))
         {
-            case null: // DoubleIgniter — мгновенная детонация
+            case RMCOrdnanceAssemblyKind.DoubleIgniter:
             {
                 var trigger = EnsureComp<OnUseTimerTriggerComponent>(ent);
                 trigger.Delay = 1f;
+                trigger.DelayOptions = null;
+                trigger.BeepSound = ArmSound;
                 trigger.DoPopup = false;
                 trigger.InitialBeepDelay = 0f;
                 trigger.BeepInterval = 99999f;
                 break;
             }
-            case RMCOrdnancePartType.RMCOrdnanceTimer:
+            case RMCOrdnanceAssemblyKind.Timer:
             {
                 var trigger = EnsureComp<OnUseTimerTriggerComponent>(ent);
                 trigger.Delay = assembly.TimerDelay;
-                trigger.DelayOptions = new List<float> { 3f, 5f, 10f, 30f };
-                trigger.DoPopup = true;
+                trigger.DelayOptions = null;
+                trigger.BeepSound = ArmSound;
+                trigger.DoPopup = false;
                 trigger.InitialBeepDelay = 0f;
                 trigger.BeepInterval = 5f;
                 break;
             }
-            // Proximity и Signaler: триггер реализуется отдельно
+            case RMCOrdnanceAssemblyKind.Signaler:
+            {
+                EnsureComp<TriggerOnSignalComponent>(ent);
+                var network = EnsureComp<DeviceNetworkComponent>(ent);
+                _deviceNetwork.SetReceiveFrequency(ent, assembly.SignalFrequency, network);
+                _deviceNetwork.SetTransmitFrequency(ent, assembly.SignalFrequency, network);
+                Dirty(ent, network);
+                break;
+            }
+            case RMCOrdnanceAssemblyKind.Proximity:
+                if (TryComp<RMCMineCasingComponent>(ent, out var mine))
+                {
+                    mine.TriggerRange = assembly.ProximityRange;
+                    Dirty(ent, mine);
+                }
+                break;
         }
     }
 
     private void OnItemRemoved(Entity<RMCChembombCasingComponent> ent, ref EntRemovedFromContainerMessage args)
     {
-        // Старая система
         if (HasComp<RMCDetonatorAssemblyComponent>(args.Entity))
         {
             ent.Comp.HasActiveDetonator = false;
+            UpdateCasingVisuals(ent);
             Dirty(ent);
             return;
         }
 
-        // Новая система
         if (!HasComp<RMCOrdnanceAssemblyComponent>(args.Entity))
             return;
 
-        RemCompDeferred<OnUseTimerTriggerComponent>(ent);
+        ClearAssemblyTriggerComponents(ent);
         ent.Comp.HasActiveDetonator = false;
+        UpdateCasingVisuals(ent);
         Dirty(ent);
     }
 
-    /// <summary>
-    /// Возвращает тип сенсора сборки (не-igniter часть), или null если обе части — igniters.
-    /// </summary>
-    private static RMCOrdnancePartType? GetSensorType(RMCOrdnanceAssemblyComponent comp)
+    private void ClearAssemblyTriggerComponents(Entity<RMCChembombCasingComponent> ent)
     {
-        if (comp.LeftPartType != null && comp.LeftPartType != RMCOrdnancePartType.RMCOrdnanceIgniter)
-            return comp.LeftPartType;
-        if (comp.RightPartType != null && comp.RightPartType != RMCOrdnancePartType.RMCOrdnanceIgniter)
-            return comp.RightPartType;
-        return null;
+        RemCompDeferred<OnUseTimerTriggerComponent>(ent);
+        RemCompDeferred<TriggerOnSignalComponent>(ent);
     }
 
     private void StartToolDoAfter<T>(Entity<RMCChembombCasingComponent> ent, EntityUid user, EntityUid tool, float delay)
@@ -462,5 +460,40 @@ public sealed class RMCChembombSystem : EntitySystem
             BreakOnHandChange = true,
         };
         _doAfter.TryStartDoAfter(doAfterArgs);
+    }
+
+    private void UpdateCasingVisuals(Entity<RMCChembombCasingComponent> ent)
+    {
+        var state = ent.Comp.Stage switch
+        {
+            RMCCasingAssemblyStage.Armed => RMCCasingVisualState.Armed,
+            RMCCasingAssemblyStage.Sealed => RMCCasingVisualState.Sealed,
+            RMCCasingAssemblyStage.Open when ent.Comp.HasActiveDetonator => RMCCasingVisualState.Loaded,
+            _ => RMCCasingVisualState.Empty,
+        };
+
+        _appearance.SetData(ent, RMCCasingVisualKey.State, state);
+    }
+
+    private static RMCOrdnanceAssemblyKind GetAssemblyKind(RMCOrdnanceAssemblyComponent comp)
+    {
+        if (comp.LeftPartType == RMCOrdnancePartType.RMCOrdnanceTimer || comp.RightPartType == RMCOrdnancePartType.RMCOrdnanceTimer)
+            return RMCOrdnanceAssemblyKind.Timer;
+
+        if (comp.LeftPartType == RMCOrdnancePartType.RMCOrdnanceSignaler || comp.RightPartType == RMCOrdnancePartType.RMCOrdnanceSignaler)
+            return RMCOrdnanceAssemblyKind.Signaler;
+
+        if (comp.LeftPartType == RMCOrdnancePartType.RMCOrdnanceProximitySensor || comp.RightPartType == RMCOrdnancePartType.RMCOrdnanceProximitySensor)
+            return RMCOrdnanceAssemblyKind.Proximity;
+
+        return RMCOrdnanceAssemblyKind.DoubleIgniter;
+    }
+
+    private enum RMCOrdnanceAssemblyKind : byte
+    {
+        DoubleIgniter,
+        Timer,
+        Signaler,
+        Proximity,
     }
 }

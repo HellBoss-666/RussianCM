@@ -7,6 +7,18 @@
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/CustomOrdnance/c4plasticcasing.rsi
+    layers:
+    - state: icon
+      map: ["state"]
+  - type: Appearance
+  - type: GenericVisualizer
+    visuals:
+      enum.RMCCasingVisualKey.State:
+        state:
+          Empty: { state: icon }
+          Loaded: { state: icon }
+          Sealed: { state: icon }
+          Armed: { state: icon }
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 7500

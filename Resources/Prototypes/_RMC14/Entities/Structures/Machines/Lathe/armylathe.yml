@@ -63,9 +63,3 @@
   # - RMCTankFlamerUpgraded # Hidden behind research.
   - RMCTankFlamerLargeCustom
   # - RMCCustomM34A1SmokeTankCase
-  # Assembly parts — combine to produce detonator assemblies
-  - RMCOrdnanceIgniter
-  - RMCOrdnanceTimer
-  # Standalone assemblies (no combining needed)
-  - RMCProximitySensorAssembly
-  - RMCSignalerAssembly

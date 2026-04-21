@@ -65,36 +65,6 @@
   materials:
     CMSteel: 18750 # 15000
 
-# Assembly parts
-- type: latheRecipe
-  id: RMCOrdnanceIgniter
-  result: RMCOrdnanceIgniter
-  completetime: 2
-  materials:
-    CMSteel: 625
-
-- type: latheRecipe
-  id: RMCOrdnanceTimer
-  result: RMCOrdnanceTimer
-  completetime: 2
-  materials:
-    CMSteel: 937
-
-# Standalone assemblies
-- type: latheRecipe
-  id: RMCProximitySensorAssembly
-  result: RMCProximitySensorAssembly
-  completetime: 3
-  materials:
-    CMSteel: 937
-
-- type: latheRecipe
-  id: RMCSignalerAssembly
-  result: RMCSignalerAssembly
-  completetime: 3
-  materials:
-    CMSteel: 937
-
 - type: latheRecipe
   id: RMCTankFlamerCustom
   result: RMCTankFlamerCustom

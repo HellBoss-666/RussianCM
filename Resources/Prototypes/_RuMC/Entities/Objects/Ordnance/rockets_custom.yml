@@ -13,6 +13,14 @@
     solutions:
       fuel:
         maxVol: 60
+  - type: RefillableSolution
+    solution: fuel
+  - type: RMCOrdnancePayloadAssembly
+    fuelSolution: fuel
+    requiredFuel: 60
+    results:
+    - payload: RMC84mmRocketWarhead
+      result: RMCRocket84mmCustom
   - type: Item
     size: Normal
 
@@ -24,6 +32,18 @@
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/CustomOrdnance/84mmrocketwarhead.rsi
+    layers:
+    - state: icon
+      map: ["state"]
+  - type: Appearance
+  - type: GenericVisualizer
+    visuals:
+      enum.RMCCasingVisualKey.State:
+        state:
+          Empty: { state: icon }
+          Loaded: { state: ass }
+          Sealed: { state: locked }
+          Armed: { state: locked }
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 11250
@@ -52,3 +72,95 @@
           - RMCDoubleIgniterAssembly
   - type: Item
     size: Normal
+
+- type: entity
+  id: RMCRocket84mmCustom
+  name: 84mm custom rocket
+  parent: BaseItem
+  description: A custom-built 84mm rocket loaded with a chemical warhead.
+  components:
+  - type: Tag
+    tags:
+    - RMCRocketAmmo84mm
+  - type: CartridgeAmmo
+    proto: RMCProjectileRocket84mmCustom
+    deleteOnSpawn: false
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/CustomOrdnance/84mmrockettube.rsi
+    layers:
+    - state: custom
+      map: ["enum.AmmoVisualLayers.Base"]
+  - type: Item
+    size: Normal
+  - type: Appearance
+  - type: SpentAmmoVisuals
+    state: custom_e
+    suffix: false
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: RMCChemicalAmmoTransfer
+    solution: chemicals
+  - type: IgnorePredictionHide
+  - type: AssistedReloadAmmo
+
+- type: entity
+  id: RMCProjectileRocket84mmCustom
+  name: 84mm custom rocket
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: TriggerOnCollide
+    fixtureID: projectile
+  - type: Physics
+    bodyType: Dynamic
+    fixedRotation: false
+  - type: Fixtures
+    fixtures:
+      projectile:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.15,-0.15,0.15,0.15"
+        hard: false
+        mask:
+        - Impassable
+        - BulletImpassable
+        restitution: 0.0
+        density: 20
+  - type: Projectile
+    impactEffect: BulletImpactEffect
+    damage:
+      types:
+        Blunt: 15
+    maxFixedRange: 6
+    queueDeletion: true
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/Guns/Ammunition/Projectiles/m5spec_projectiles.rsi
+    layers:
+    - state: m5_84mm_he
+  - type: RMCChembombCasing
+    maxVolume: 180
+    chemicalSolution: chemicals
+    basePower: 220
+    baseFalloff: 160
+    baseShards: 80
+    minFireIntensity: 4
+    maxFireIntensity: 45
+    minFireRadius: 2
+    maxFireRadius: 4
+    minFireDuration: 5
+    maxFireDuration: 36
+  - type: SolutionContainerManager
+    solutions:
+      chemicals:
+        maxVol: 180
+  - type: PointLight
+    radius: 3.5
+    color: orange
+    energy: 0.5
+  - type: IgnorePredictionHide
+  - type: RMCProjectileAccuracy
+    accuracy: 95
+    thresholds:
+    - range: 7
+      falloff: 10

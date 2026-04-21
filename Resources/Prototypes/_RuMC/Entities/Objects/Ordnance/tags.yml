@@ -8,4 +8,10 @@
   id: RMCDoubleIgniterAssembly
 
 - type: Tag
+  id: RMCTimerAssembly
+
+- type: Tag
+  id: RMCSignalerAssembly
+
+- type: Tag
   id: RMC80mmMortarShell

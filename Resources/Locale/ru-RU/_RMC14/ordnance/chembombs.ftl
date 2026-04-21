@@ -75,3 +75,24 @@ rmc-mine-planted = Мина установлена.
 # Ordnance part assembly (combine igniter/timer → detonator assembly)
 rmc-ordnance-assembly-incompatible = Эти части несовместимы.
 rmc-ordnance-assembly-combined = Вы соединяете части в {$result}.
+
+# Ordnance assembly overrides
+rmc-chembomb-examine-sealed = [color=yellow]Закрыт.[/color]
+rmc-ordnance-assembly-pry-locked = Сначала разблокируйте сборку отвёрткой.
+rmc-ordnance-assembly-locked = Вы фиксируете сборку. Теперь её можно установить в корпус.
+rmc-ordnance-assembly-unlocked = Вы разблокируете сборку. Её параметры снова можно менять.
+rmc-ordnance-assembly-disassembled = Вы разбираете сборку обратно на части.
+rmc-ordnance-payload-not-ready = Боеголовка ещё не готова к установке.
+rmc-ordnance-payload-no-fuel = В двигательном корпусе нет топлива.
+rmc-ordnance-payload-no-chemicals = В боеголовке нет химической смеси.
+rmc-ordnance-payload-assembled = Боеприпас полностью собран.
+rmc-ordnance-assembly-combined = Вы соединяете части в detonator assembly.
+rmc-ordnance-timer-set = {$time} секунд
+rmc-ordnance-timer-current = {$time} секунд (текущее)
+rmc-ordnance-timer-popup = Таймер установлен на {$time} секунд.
+rmc-ordnance-frequency-set = {$frequency}
+rmc-ordnance-frequency-current = {$frequency} (текущая)
+rmc-ordnance-frequency-popup = Частота установлена на {$frequency}.
+rmc-ordnance-proximity-set = Радиус {$range} тайла
+rmc-ordnance-proximity-current = Радиус {$range} тайла (текущий)
+rmc-ordnance-proximity-popup = Радиус срабатывания установлен на {$range} тайла.

@@ -6,7 +6,26 @@
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/CustomOrdnance/m40grenadecasing.rsi
-    state: icon
+    layers:
+    - state: icon
+      map: ["state"]
+  - type: Appearance
+  - type: TimerTriggerVisuals
+    primingSound:
+      path: /Audio/_RMC14/Explosion/armbomb.ogg
+      params:
+        volume: -5
+  - type: GenericVisualizer
+    visuals:
+      enum.RMCCasingVisualKey.State:
+        state:
+          Empty: { state: icon }
+          Loaded: { state: ass }
+          Sealed: { state: locked }
+          Armed: { state: locked }
+      enum.Trigger.TriggerVisuals.VisualState:
+        state:
+          Primed: { state: active }
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 4250
@@ -48,6 +67,26 @@
   components:
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/CustomOrdnance/m15grenadecasing.rsi
+    layers:
+    - state: icon
+      map: ["state"]
+  - type: Appearance
+  - type: TimerTriggerVisuals
+    primingSound:
+      path: /Audio/_RMC14/Explosion/armbomb.ogg
+      params:
+        volume: -5
+  - type: GenericVisualizer
+    visuals:
+      enum.RMCCasingVisualKey.State:
+        state:
+          Empty: { state: icon }
+          Loaded: { state: ass }
+          Sealed: { state: locked }
+          Armed: { state: locked }
+      enum.Trigger.TriggerVisuals.VisualState:
+        state:
+          Primed: { state: active }
   - type: PhysicalComposition
     materialComposition:
       CMSteel: 7000

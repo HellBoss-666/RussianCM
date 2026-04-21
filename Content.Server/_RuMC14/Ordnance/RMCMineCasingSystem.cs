@@ -2,28 +2,30 @@ using Content.Server.Explosion.EntitySystems;
 using Content.Server.Popups;
 using Content.Shared._RMC14.Explosion;
 using Content.Shared._RMC14.Map;
-using Content.Shared._RuMC14.Ordnance;
 using Content.Shared._RMC14.Weapons.Ranged.IFF;
+using Content.Shared._RuMC14.Ordnance;
 using Content.Shared.DoAfter;
 using Content.Shared.Interaction.Events;
+using Content.Shared.Physics;
 using Content.Shared.Popups;
 using Content.Shared.StepTrigger.Systems;
+using Content.Shared.Trigger;
 using Robust.Server.GameObjects;
 using Robust.Shared.Network;
 using Robust.Shared.Physics;
+using Robust.Shared.Physics.Collision.Shapes;
+using Robust.Shared.Physics.Components;
 using Robust.Shared.Physics.Systems;
 
 namespace Content.Server._RuMC14.Ordnance;
 
-/// <summary>
-///     Mine-casing deployment: use-in-hand → DoAfter → anchor in-place.
-///     Follows the same pattern as <see cref="SharedRMCLandmineSystem"/>.
-/// </summary>
 public sealed class RMCMineCasingSystem : EntitySystem
 {
     [Dependency] private readonly INetManager _net = default!;
     [Dependency] private readonly CollisionWakeSystem _collisionWake = default!;
     [Dependency] private readonly SharedDoAfterSystem _doAfter = default!;
+    [Dependency] private readonly FixtureSystem _fixtures = default!;
+    [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
     [Dependency] private readonly SharedPhysicsSystem _physics = default!;
     [Dependency] private readonly StepTriggerSystem _stepTrigger = default!;
@@ -36,11 +38,10 @@ public sealed class RMCMineCasingSystem : EntitySystem
     {
         SubscribeLocalEvent<RMCMineCasingComponent, UseInHandEvent>(OnUseInHand);
         SubscribeLocalEvent<RMCMineCasingComponent, RMCMinePlantDoAfterEvent>(OnDoAfter);
+        SubscribeLocalEvent<RMCPlantedMineComponent, StepTriggeredOnEvent>(OnStepOn);
         SubscribeLocalEvent<RMCPlantedMineComponent, StepTriggeredOffEvent>(OnStepOff);
         SubscribeLocalEvent<RMCPlantedMineComponent, StepTriggerAttemptEvent>(OnStepAttempt);
     }
-
-    // ── Deploy: use in hand → start DoAfter ──────────────────────────────────
 
     private void OnUseInHand(Entity<RMCMineCasingComponent> ent, ref UseInHandEvent args)
     {
@@ -87,8 +88,6 @@ public sealed class RMCMineCasingSystem : EntitySystem
         args.Handled = true;
     }
 
-    // ── DoAfter complete: anchor entity in-place ──────────────────────────────
-
     private void OnDoAfter(Entity<RMCMineCasingComponent> ent, ref RMCMinePlantDoAfterEvent args)
     {
         if (args.Cancelled || _net.IsClient)
@@ -108,17 +107,15 @@ public sealed class RMCMineCasingSystem : EntitySystem
         _physics.SetBodyType(ent, BodyType.Static);
 
         ent.Comp.Planted = true;
-
-        // Activate the step trigger now that the mine is on the floor
+        UpdateTriggerFixture(ent);
         _stepTrigger.SetActive(ent, true);
         var plantedComp = EnsureComp<RMCPlantedMineComponent>(ent);
         GunIff.TryGetFaction(args.User, out var faction);
         plantedComp.Faction = faction;
+        _appearance.SetData(ent, TriggerVisuals.VisualState, TriggerVisualState.Primed);
         Dirty(ent);
         _popup.PopupEntity(Loc.GetString("rmc-mine-planted"), args.User, args.User, PopupType.Medium);
     }
-
-    // ── Placement validation (mirrors RMCLandmineSystem.CanDeployPopup) ────────
 
     private bool CanDeploy(Entity<RMCMineCasingComponent> ent, EntityUid user)
     {
@@ -137,8 +134,6 @@ public sealed class RMCMineCasingSystem : EntitySystem
         return true;
     }
 
-    // ── Planted mine: step-trigger → TriggerEvent → RMCChembombSystem ─────────
-
     private void OnStepAttempt(Entity<RMCPlantedMineComponent> ent, ref StepTriggerAttemptEvent args)
     {
         if (ent.Comp.Faction != null && GunIff.IsInFaction(args.Tripper, ent.Comp.Faction.Value))
@@ -146,8 +141,30 @@ public sealed class RMCMineCasingSystem : EntitySystem
         args.Continue = true;
     }
 
-    private void OnStepOff(Entity<RMCPlantedMineComponent> ent, ref StepTriggeredOffEvent args)
+    private void OnStepOn(Entity<RMCPlantedMineComponent> ent, ref StepTriggeredOnEvent args)
     {
         _trigger.Trigger(ent.Owner, args.Tripper);
+    }
+
+    private void OnStepOff(Entity<RMCPlantedMineComponent> ent, ref StepTriggeredOffEvent args)
+    {
+    }
+
+    private void UpdateTriggerFixture(Entity<RMCMineCasingComponent> ent)
+    {
+        if (!TryComp(ent, out PhysicsComponent? physics))
+            return;
+
+        _fixtures.DestroyFixture(ent, "trigger", body: physics);
+        var range = MathF.Max(0.25f, ent.Comp.TriggerRange);
+        var shape = new PhysShapeCircle(range);
+        _fixtures.TryCreateFixture(
+            ent,
+            shape,
+            "trigger",
+            hard: false,
+            collisionLayer: (int) CollisionGroup.Opaque,
+            collisionMask: (int) CollisionGroup.MobLayer,
+            body: physics);
     }
 }

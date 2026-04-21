@@ -16,3 +16,9 @@
     damageCoefficient: 0
   - type: Destructible
     thresholds: []
+  - type: DeviceLinkSink
+  - type: DeviceNetwork
+    deviceNetId: Wireless
+    receiveFrequencyId: BasicDevice
+  - type: WirelessNetworkConnection
+    range: 200

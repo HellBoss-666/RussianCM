@@ -11,15 +11,15 @@ public sealed partial class RMCOrdnanceAssemblyComponent : Component
     [DataField, AutoNetworkedField]
     public RMCOrdnancePartType? RightPartType;
 
-    /// <summary>
-    /// Закрыта ли сборка отвёрткой. Только закрытая сборка может быть вставлена в корпус.
-    /// </summary>
     [DataField, AutoNetworkedField]
     public bool IsLocked;
 
-    /// <summary>
-    /// Задержка в секундах для сенсора Timer.
-    /// </summary>
     [DataField, AutoNetworkedField]
     public float TimerDelay = 5f;
+
+    [DataField, AutoNetworkedField]
+    public uint SignalFrequency = 1280;
+
+    [DataField, AutoNetworkedField]
+    public float ProximityRange = 1.5f;
 }

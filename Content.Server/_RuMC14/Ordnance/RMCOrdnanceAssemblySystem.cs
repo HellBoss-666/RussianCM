@@ -1,11 +1,18 @@
+using Content.Server.DeviceNetwork.Systems;
+using Content.Server.Explosion.EntitySystems;
 using Content.Server.Popups;
 using Content.Shared._RuMC14.Ordnance;
+using Content.Shared.DeviceNetwork;
+using Content.Shared.DeviceNetwork.Components;
 using Content.Shared.Interaction;
 using Content.Shared.Popups;
 using Content.Shared.Tag;
 using Content.Shared.Tools;
 using Content.Shared.Tools.Systems;
+using Content.Shared.Verbs;
 using Robust.Server.GameObjects;
+using Robust.Shared.Audio;
+using Robust.Shared.Audio.Systems;
 using Robust.Shared.Prototypes;
 
 namespace Content.Server._RuMC14.Ordnance;
@@ -13,6 +20,8 @@ namespace Content.Server._RuMC14.Ordnance;
 public sealed class RMCOrdnanceAssemblySystem : EntitySystem
 {
     [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
+    [Dependency] private readonly SharedAudioSystem _audio = default!;
+    [Dependency] private readonly DeviceNetworkSystem _deviceNetwork = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
     [Dependency] private readonly TagSystem _tags = default!;
     [Dependency] private readonly TransformSystem _transform = default!;
@@ -20,13 +29,24 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
 
     private static readonly EntProtoId AssemblyPrototype = "RMCOrdnanceAssembly";
     private static readonly ProtoId<TagPrototype> LockedTag = "RMCOrdnanceAssemblyLocked";
+    private static readonly ProtoId<TagPrototype> TimerTag = "RMCTimerAssembly";
+    private static readonly ProtoId<TagPrototype> ProximityTag = "RMCProximityAssembly";
+    private static readonly ProtoId<TagPrototype> SignalerTag = "RMCSignalerAssembly";
+    private static readonly ProtoId<TagPrototype> DoubleIgniterTag = "RMCDoubleIgniterAssembly";
     private static readonly ProtoId<ToolQualityPrototype> PryingQuality = "Prying";
     private static readonly ProtoId<ToolQualityPrototype> ScrewingQuality = "Screwing";
+    private static readonly SoundSpecifier InsertSound = new SoundPathSpecifier("/Audio/_RMC14/Weapons/Guns/Reload/grenade_insert.ogg");
+    private static readonly SoundSpecifier ArmSound = new SoundPathSpecifier("/Audio/_RMC14/Explosion/armbomb.ogg");
+    private static readonly float[] TimerOptions = { 3f, 5f, 10f, 30f };
+    private static readonly uint[] FrequencyOptions = { 1278, 1279, 1280, 1281, 1282 };
+    private static readonly float[] ProximityOptions = { 0.5f, 1f, 1.5f, 2f, 2.5f };
 
     public override void Initialize()
     {
         SubscribeLocalEvent<RMCOrdnancePartComponent, InteractUsingEvent>(OnPartInteractUsing);
+        SubscribeLocalEvent<RMCOrdnancePartComponent, GetVerbsEvent<AlternativeVerb>>(OnPartVerbs);
         SubscribeLocalEvent<RMCOrdnanceAssemblyComponent, InteractUsingEvent>(OnAssemblyInteractUsing);
+        SubscribeLocalEvent<RMCOrdnanceAssemblyComponent, GetVerbsEvent<AlternativeVerb>>(OnAssemblyVerbs);
     }
 
     private void OnPartInteractUsing(Entity<RMCOrdnancePartComponent> target, ref InteractUsingEvent args)
@@ -37,22 +57,31 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         if (!TryComp<RMCOrdnancePartComponent>(args.Used, out var usedPart))
             return;
 
-        args.Handled = true;
+        if (!IsValidCombination(usedPart.PartType, target.Comp.PartType))
+        {
+            _popup.PopupEntity(Loc.GetString("rmc-ordnance-assembly-incompatible"), target, args.User, PopupType.SmallCaution);
+            args.Handled = true;
+            return;
+        }
 
-        // Предмет в активной руке — LEFT, цель взаимодействия — RIGHT
-        var leftType = usedPart.PartType;
-        var rightType = target.Comp.PartType;
+        args.Handled = true;
 
         var assemblyEnt = Spawn(AssemblyPrototype, _transform.GetMapCoordinates(args.User));
         var assembly = EnsureComp<RMCOrdnanceAssemblyComponent>(assemblyEnt);
-        assembly.LeftPartType = leftType;
-        assembly.RightPartType = rightType;
+        assembly.LeftPartType = usedPart.PartType;
+        assembly.RightPartType = target.Comp.PartType;
+        assembly.IsLocked = false;
+        assembly.TimerDelay = 5f;
+        assembly.SignalFrequency = GetInitialFrequency(args.Used, target.Owner);
+        assembly.ProximityRange = 1.5f;
 
         QueueDel(args.Used);
         QueueDel(target.Owner);
 
-        _appearance.SetData(assemblyEnt, RMCAssemblyVisualKey.LeftType, leftType);
-        _appearance.SetData(assemblyEnt, RMCAssemblyVisualKey.RightType, rightType);
+        UpdateVisuals((assemblyEnt, assembly));
+        UpdateTags((assemblyEnt, assembly));
+        _audio.PlayPredicted(InsertSound, assemblyEnt, args.User);
+        _popup.PopupEntity(Loc.GetString("rmc-ordnance-assembly-combined"), assemblyEnt, args.User);
     }
 
     private void OnAssemblyInteractUsing(Entity<RMCOrdnanceAssemblyComponent> ent, ref InteractUsingEvent args)
@@ -64,7 +93,7 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         {
             if (ent.Comp.IsLocked)
             {
-                _popup.PopupEntity("Сначала разберите сборку отвёрткой.", ent, args.User, PopupType.SmallCaution);
+                _popup.PopupEntity(Loc.GetString("rmc-ordnance-assembly-pry-locked"), ent, args.User, PopupType.SmallCaution);
                 args.Handled = true;
                 return;
             }
@@ -81,38 +110,248 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         }
     }
 
+    private void OnAssemblyVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
+    {
+        if (!args.CanAccess || !args.CanInteract)
+            return;
+
+        if (HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceTimer))
+            AddTimerVerbs(ent, ref args);
+
+        if (HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceSignaler))
+            AddFrequencyVerbs(ent, ref args);
+
+        if (HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceProximitySensor))
+            AddProximityVerbs(ent, ref args);
+    }
+
+    private void OnPartVerbs(Entity<RMCOrdnancePartComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
+    {
+        if (!args.CanAccess || !args.CanInteract)
+            return;
+
+        if (ent.Comp.PartType != RMCOrdnancePartType.RMCOrdnanceSignaler ||
+            !TryComp<DeviceNetworkComponent>(ent, out var net))
+            return;
+
+        var user = args.User;
+
+        foreach (var option in FrequencyOptions)
+        {
+            var current = net.ReceiveFrequency == option;
+            args.Verbs.Add(new AlternativeVerb
+            {
+                Category = TriggerSystem.TimerOptions,
+                Text = current
+                    ? Loc.GetString("rmc-ordnance-frequency-current", ("frequency", option.FrequencyToString()))
+                    : Loc.GetString("rmc-ordnance-frequency-set", ("frequency", option.FrequencyToString())),
+                Disabled = current,
+                Priority = -(int) option,
+                Act = () =>
+                {
+                    _deviceNetwork.SetReceiveFrequency(ent, option, net);
+                    _deviceNetwork.SetTransmitFrequency(ent, option, net);
+                    Dirty(ent, net);
+                    _popup.PopupEntity(
+                        Loc.GetString("rmc-ordnance-frequency-popup", ("frequency", option.FrequencyToString())),
+                        ent,
+                        user);
+                }
+            });
+        }
+    }
+
+    private void AddTimerVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
+    {
+        var user = args.User;
+
+        foreach (var option in TimerOptions)
+        {
+            var current = IsClose(option, ent.Comp.TimerDelay);
+            args.Verbs.Add(new AlternativeVerb
+            {
+                Category = TriggerSystem.TimerOptions,
+                Text = current
+                    ? Loc.GetString("rmc-ordnance-timer-current", ("time", option))
+                    : Loc.GetString("rmc-ordnance-timer-set", ("time", option)),
+                Disabled = current,
+                Priority = -(int) (option * 10),
+                Act = () =>
+                {
+                    ent.Comp.TimerDelay = option;
+                    Dirty(ent);
+                    _popup.PopupEntity(Loc.GetString("rmc-ordnance-timer-popup", ("time", option)), ent, user);
+                }
+            });
+        }
+    }
+
+    private void AddFrequencyVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
+    {
+        var user = args.User;
+
+        foreach (var option in FrequencyOptions)
+        {
+            var current = ent.Comp.SignalFrequency == option;
+            args.Verbs.Add(new AlternativeVerb
+            {
+                Category = TriggerSystem.TimerOptions,
+                Text = current
+                    ? Loc.GetString("rmc-ordnance-frequency-current", ("frequency", option.FrequencyToString()))
+                    : Loc.GetString("rmc-ordnance-frequency-set", ("frequency", option.FrequencyToString())),
+                Disabled = current,
+                Priority = -(int) option,
+                Act = () =>
+                {
+                    ent.Comp.SignalFrequency = option;
+                    Dirty(ent);
+                    _popup.PopupEntity(
+                        Loc.GetString("rmc-ordnance-frequency-popup", ("frequency", option.FrequencyToString())),
+                        ent,
+                        user);
+                }
+            });
+        }
+    }
+
+    private void AddProximityVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
+    {
+        var user = args.User;
+
+        foreach (var option in ProximityOptions)
+        {
+            var current = IsClose(option, ent.Comp.ProximityRange);
+            args.Verbs.Add(new AlternativeVerb
+            {
+                Category = TriggerSystem.TimerOptions,
+                Text = current
+                    ? Loc.GetString("rmc-ordnance-proximity-current", ("range", option))
+                    : Loc.GetString("rmc-ordnance-proximity-set", ("range", option)),
+                Disabled = current,
+                Priority = -(int) (option * 10),
+                Act = () =>
+                {
+                    ent.Comp.ProximityRange = option;
+                    Dirty(ent);
+                    _popup.PopupEntity(
+                        Loc.GetString("rmc-ordnance-proximity-popup", ("range", option)),
+                        ent,
+                        user);
+                }
+            });
+        }
+    }
+
     private void ToggleLocked(Entity<RMCOrdnanceAssemblyComponent> ent, EntityUid user)
     {
         ent.Comp.IsLocked = !ent.Comp.IsLocked;
         Dirty(ent);
 
+        UpdateVisuals(ent);
+        UpdateTags(ent);
+        _audio.PlayPredicted(ArmSound, ent, user);
+
         if (ent.Comp.IsLocked)
-        {
-            _tags.AddTag(ent, LockedTag);
-            _popup.PopupEntity("Сборка закрыта. Можно вставить в корпус.", ent, user);
-        }
+            _popup.PopupEntity(Loc.GetString("rmc-ordnance-assembly-locked"), ent, user);
         else
+            _popup.PopupEntity(Loc.GetString("rmc-ordnance-assembly-unlocked"), ent, user);
+    }
+
+    private void Disassemble(Entity<RMCOrdnanceAssemblyComponent> ent, EntityUid user)
+    {
+        var coords = Transform(ent).Coordinates;
+
+        if (ent.Comp.LeftPartType is { } left)
+            Spawn(GetPartProto(left), coords);
+
+        if (ent.Comp.RightPartType is { } right)
+            Spawn(GetPartProto(right), coords);
+
+        _audio.PlayPredicted(InsertSound, ent, user);
+        _popup.PopupEntity(Loc.GetString("rmc-ordnance-assembly-disassembled"), ent, user);
+        QueueDel(ent);
+    }
+
+    private void UpdateVisuals(Entity<RMCOrdnanceAssemblyComponent> ent)
+    {
+        if (ent.Comp.LeftPartType is { } left)
+            _appearance.SetData(ent, RMCAssemblyVisualKey.LeftType, left);
+
+        if (ent.Comp.RightPartType is { } right)
+            _appearance.SetData(ent, RMCAssemblyVisualKey.RightType, right);
+
+        _appearance.SetData(ent, RMCAssemblyVisualKey.Locked, ent.Comp.IsLocked);
+    }
+
+    private void UpdateTags(Entity<RMCOrdnanceAssemblyComponent> ent)
+    {
+        _tags.RemoveTag(ent, LockedTag);
+        _tags.RemoveTag(ent, TimerTag);
+        _tags.RemoveTag(ent, ProximityTag);
+        _tags.RemoveTag(ent, SignalerTag);
+        _tags.RemoveTag(ent, DoubleIgniterTag);
+
+        if (ent.Comp.IsLocked)
+            _tags.AddTag(ent, LockedTag);
+
+        switch (GetAssemblyKind(ent.Comp))
         {
-            _tags.RemoveTag(ent, LockedTag);
-            _popup.PopupEntity("Сборка открыта. Можно настроить сенсоры.", ent, user);
+            case RMCOrdnanceAssemblyKind.Timer:
+                _tags.AddTag(ent, TimerTag);
+                break;
+            case RMCOrdnanceAssemblyKind.Proximity:
+                _tags.AddTag(ent, ProximityTag);
+                break;
+            case RMCOrdnanceAssemblyKind.Signaler:
+                _tags.AddTag(ent, SignalerTag);
+                break;
+            case RMCOrdnanceAssemblyKind.DoubleIgniter:
+                _tags.AddTag(ent, DoubleIgniterTag);
+                break;
         }
     }
 
-    /// <summary>
-    /// Разбирает Assembly обратно на две части.
-    /// </summary>
-    private void Disassemble(Entity<RMCOrdnanceAssemblyComponent> ent, EntityUid user)
+    private static bool IsValidCombination(RMCOrdnancePartType first, RMCOrdnancePartType second)
     {
-        var xform = Transform(ent).Coordinates;
+        if (first == RMCOrdnancePartType.RMCOrdnanceIgniter && second == RMCOrdnancePartType.RMCOrdnanceIgniter)
+            return true;
 
-        if (ent.Comp.LeftPartType is { } left)
-            Spawn(GetPartProto(left), xform);
+        return first == RMCOrdnancePartType.RMCOrdnanceIgniter || second == RMCOrdnancePartType.RMCOrdnanceIgniter;
+    }
 
-        if (ent.Comp.RightPartType is { } right)
-            Spawn(GetPartProto(right), xform);
+    private static bool HasType(RMCOrdnanceAssemblyComponent comp, RMCOrdnancePartType type)
+    {
+        return comp.LeftPartType == type || comp.RightPartType == type;
+    }
 
-        _popup.PopupEntity("Сборка разобрана.", ent, user);
-        QueueDel(ent);
+    private static bool IsClose(float a, float b)
+    {
+        return Math.Abs(a - b) < 0.001f;
+    }
+
+    private static RMCOrdnanceAssemblyKind GetAssemblyKind(RMCOrdnanceAssemblyComponent comp)
+    {
+        if (HasType(comp, RMCOrdnancePartType.RMCOrdnanceTimer))
+            return RMCOrdnanceAssemblyKind.Timer;
+
+        if (HasType(comp, RMCOrdnancePartType.RMCOrdnanceSignaler))
+            return RMCOrdnanceAssemblyKind.Signaler;
+
+        if (HasType(comp, RMCOrdnancePartType.RMCOrdnanceProximitySensor))
+            return RMCOrdnanceAssemblyKind.Proximity;
+
+        return RMCOrdnanceAssemblyKind.DoubleIgniter;
+    }
+
+    private uint GetInitialFrequency(EntityUid first, EntityUid second)
+    {
+        if (TryComp<DeviceNetworkComponent>(first, out var firstNet) && firstNet.ReceiveFrequency is { } firstFreq)
+            return firstFreq;
+
+        if (TryComp<DeviceNetworkComponent>(second, out var secondNet) && secondNet.ReceiveFrequency is { } secondFreq)
+            return secondFreq;
+
+        return 1280;
     }
 
     private static EntProtoId GetPartProto(RMCOrdnancePartType type)
@@ -121,9 +360,17 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         {
             RMCOrdnancePartType.RMCOrdnanceIgniter => "RMCOrdnanceIgniter",
             RMCOrdnancePartType.RMCOrdnanceTimer => "RMCOrdnanceTimer",
-            RMCOrdnancePartType.RMCOrdnanceSignaler => "RMCOrdnanceSignaller",
+            RMCOrdnancePartType.RMCOrdnanceSignaler => "RMCOrdnanceSignaler",
             RMCOrdnancePartType.RMCOrdnanceProximitySensor => "RMCOrdnanceProximitySensor",
-            _ => "RMCOrdnanceIgniter"
+            _ => "RMCOrdnanceIgniter",
         };
+    }
+
+    private enum RMCOrdnanceAssemblyKind : byte
+    {
+        DoubleIgniter,
+        Timer,
+        Signaler,
+        Proximity,
     }
 }

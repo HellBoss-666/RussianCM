@@ -75,3 +75,24 @@ rmc-mine-planted = Mine planted.
 # Ordnance part assembly (combine igniter/timer → detonator assembly)
 rmc-ordnance-assembly-incompatible = These parts are not compatible.
 rmc-ordnance-assembly-combined = You combine the parts into a {$result}.
+rmc-ordnance-assembly-pry-locked = Unlock the assembly with a screwdriver first.
+rmc-ordnance-assembly-locked = You lock the assembly. It is ready to be installed into a casing.
+rmc-ordnance-assembly-unlocked = You unlock the assembly. The parts can be adjusted again.
+rmc-ordnance-assembly-disassembled = You separate the assembly back into parts.
+rmc-ordnance-payload-not-ready = The warhead is not armed yet.
+rmc-ordnance-payload-no-fuel = The propulsion casing is missing fuel.
+rmc-ordnance-payload-no-chemicals = The warhead has no chemical payload.
+rmc-ordnance-payload-assembled = The ordnance is fully assembled.
+
+# Ordnance assembly overrides
+rmc-chembomb-examine-sealed = [color=yellow]Sealed.[/color]
+rmc-ordnance-assembly-combined = You combine the parts into an ordnance assembly.
+rmc-ordnance-timer-set = {$time} seconds
+rmc-ordnance-timer-current = {$time} seconds (current)
+rmc-ordnance-timer-popup = Timer set to {$time} seconds.
+rmc-ordnance-frequency-set = {$frequency}
+rmc-ordnance-frequency-current = {$frequency} (current)
+rmc-ordnance-frequency-popup = Frequency set to {$frequency}.
+rmc-ordnance-proximity-set = {$range} tile radius
+rmc-ordnance-proximity-current = {$range} tile radius (current)
+rmc-ordnance-proximity-popup = Proximity radius set to {$range} tiles.
