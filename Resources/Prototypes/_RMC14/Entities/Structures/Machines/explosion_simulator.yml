@@ -47,7 +47,7 @@
   - type: ItemSlots
     slots:
       beakerSlot:
-        name: Beaker Slot
+        name: rmc-explosion-sim-slot-beaker
         whitelist:
           components:
           - FitsInDispenser
