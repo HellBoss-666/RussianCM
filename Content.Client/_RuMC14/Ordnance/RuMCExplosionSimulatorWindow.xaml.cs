@@ -51,10 +51,10 @@ public sealed partial class RuMCExplosionSimulatorWindow : FancyWindow
         SpecialForcesButton.Pressed = state.Target == RMCExplosionSimulatorTarget.SpecialForces;
         XenomorphsButton.Pressed = state.Target == RMCExplosionSimulatorTarget.Xenomorphs;
 
-        BeakerLabel.Text = state.HasBeaker
-            ? Loc.GetString("rmc-explosion-sim-ui-beaker-loaded")
-            : Loc.GetString("rmc-explosion-sim-ui-no-beaker");
-        BeakerLabel.FontColorOverride = state.HasBeaker
+        SampleLabel.Text = state.HasSample
+            ? Loc.GetString("rmc-explosion-sim-ui-sample-loaded", ("name", state.SampleName))
+            : Loc.GetString("rmc-explosion-sim-ui-no-sample");
+        SampleLabel.FontColorOverride = state.HasSample
             ? Color.FromHex("#d9e8ff")
             : Color.FromHex("#b8a27f");
 
@@ -73,7 +73,7 @@ public sealed partial class RuMCExplosionSimulatorWindow : FancyWindow
         StatusLabel.Text = BuildStatusSummary(state, targetProfile.Summary, secondsLeft);
         StatusLabel.FontColorOverride = GetStatusColor(state);
 
-        SimulateButton.Disabled = state.IsProcessing || !state.HasBeaker;
+        SimulateButton.Disabled = state.IsProcessing || !state.HasSample;
         ReplayButton.Disabled = state.IsProcessing || !state.SimulationReady;
     }
 
@@ -85,11 +85,11 @@ public sealed partial class RuMCExplosionSimulatorWindow : FancyWindow
 
     private static string BuildReadinessSummary(RMCExplosionSimulatorBuiState state, string targetSummary)
     {
-        if (!state.HasBeaker)
+        if (!state.HasSample)
         {
             return string.Join('\n',
-                Loc.GetString("rmc-explosion-sim-ui-readiness-no-beaker-line1"),
-                Loc.GetString("rmc-explosion-sim-ui-readiness-no-beaker-line2"));
+                Loc.GetString("rmc-explosion-sim-ui-readiness-no-sample-line1"),
+                Loc.GetString("rmc-explosion-sim-ui-readiness-no-sample-line2"));
         }
 
         if (state.IsProcessing)
@@ -208,7 +208,7 @@ public sealed partial class RuMCExplosionSimulatorWindow : FancyWindow
 
     private static Color GetReadinessColor(RMCExplosionSimulatorBuiState state)
     {
-        if (!state.HasBeaker)
+        if (!state.HasSample)
             return Color.FromHex("#ffb36b");
 
         if (state.IsProcessing)

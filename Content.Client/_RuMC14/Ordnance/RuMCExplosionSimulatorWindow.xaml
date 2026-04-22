@@ -99,9 +99,9 @@
                                       SeparationOverride="4">
                             <Label Text="{Loc 'rmc-explosion-sim-ui-sample-status'}"
                                    FontColorOverride="#ffd37a" />
-                            <Label Name="BeakerLabel"
+                            <Label Name="SampleLabel"
                                    Access="Public"
-                                   Text="{Loc 'rmc-explosion-sim-ui-no-beaker'}" />
+                                   Text="{Loc 'rmc-explosion-sim-ui-no-sample'}" />
                             <Label Name="ReadinessLabel"
                                    Access="Public" />
                         </BoxContainer>

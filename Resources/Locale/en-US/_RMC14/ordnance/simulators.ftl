@@ -2,12 +2,12 @@ ent-CMDemolitionsScanner = demolitions scanner
     .desc = A handheld scanner for analyzing custom ordnance. Use it on a chembomb casing to get a readout of its projected explosive and fire characteristics.
 
 ent-RMCExplosionSimulator = explosion simulation computer
-    .desc = A high-powered simulation computer for analyzing the explosive effects of chemical mixtures against different target types. Insert a beaker of reagents, select a target type, and run a two-minute simulation to see the results.
+    .desc = A high-powered simulation computer for analyzing ready ordnance payloads against different target types. Insert a finished grenade, mine, rocket, or other explosive sample, select a target profile, and run a two-minute simulation.
 
 ent-RMCDemolitionsCamera = simulation camera
     .desc = A disposable chamber camera used by the demolitions simulators.
 
-rmc-explosion-sim-slot-beaker = Beaker Slot
+rmc-explosion-sim-slot-sample = Sample Slot
 
 rmc-demolitions-simulator-ui-title = Demolitions Simulator
 rmc-demolitions-simulator-ui-blast-zone = Blast Zone
@@ -55,7 +55,7 @@ rmc-explosion-sim-ui-target-special-forces = Special Forces
 rmc-explosion-sim-ui-target-xenomorphs = Xenomorph Hive
 rmc-explosion-sim-ui-threat-notes = Threat Notes
 rmc-explosion-sim-ui-sample-status = Sample Status
-rmc-explosion-sim-ui-no-beaker = No beaker sample inserted.
+rmc-explosion-sim-ui-no-sample = No ordnance sample inserted.
 rmc-explosion-sim-ui-blast-projection = Blast Projection
 rmc-explosion-sim-ui-incendiary-projection = Incendiary Projection
 rmc-explosion-sim-ui-summary = Simulation Summary
@@ -68,9 +68,9 @@ rmc-explosion-sim-ui-header-processing = Chemical Analysis In Progress
 rmc-explosion-sim-ui-header-ready = Simulation Package Ready
 rmc-explosion-sim-ui-processing-remaining = {$seconds}s remaining
 rmc-explosion-sim-ui-processing-complete = Analysis complete
-rmc-explosion-sim-ui-beaker-loaded = Chemical sample loaded into the analysis bay.
-rmc-explosion-sim-ui-readiness-no-beaker-line1 = Insert a beaker
-rmc-explosion-sim-ui-readiness-no-beaker-line2 = to unlock analysis.
+rmc-explosion-sim-ui-sample-loaded = Sample loaded: {$name}
+rmc-explosion-sim-ui-readiness-no-sample-line1 = Insert a finished payload
+rmc-explosion-sim-ui-readiness-no-sample-line2 = to unlock analysis.
 rmc-explosion-sim-ui-readiness-processing-line1 = Sample is sealed
 rmc-explosion-sim-ui-readiness-processing-line2 = Profiling against {$target}.
 rmc-explosion-sim-ui-readiness-ready-line1 = Solution package cached.
@@ -90,7 +90,7 @@ rmc-explosion-sim-ui-fire-present-line2 = Radius {$radius} tiles
 rmc-explosion-sim-ui-fire-present-line3 = Duration {$duration} seconds
 rmc-explosion-sim-ui-status-processing-line1 = Processing the loaded sample against the {$target} formation.
 rmc-explosion-sim-ui-status-processing-line2 = Playback data will unlock in approximately {$seconds} seconds.
-rmc-explosion-sim-ui-status-idle-line1 = Load a beaker sample, pick a target profile,
+rmc-explosion-sim-ui-status-idle-line1 = Load a finished ordnance sample, pick a target profile,
 rmc-explosion-sim-ui-status-idle-line2 = and run the two-minute simulation cycle.
 rmc-explosion-sim-ui-status-ready-line1 = Simulation complete for the {$target} formation.
 rmc-explosion-sim-ui-status-ready-blast = Blast envelope reaches roughly {$radius} tiles from the epicenter.

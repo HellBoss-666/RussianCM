@@ -1,4 +1,6 @@
 using Robust.Shared.GameStates;
+using Robust.Shared.Prototypes;
+using Robust.Shared.Utility;
 
 namespace Content.Shared._RuMC14.Ordnance;
 
@@ -62,6 +64,12 @@ public sealed partial class RMCDemolitionsSimulatorComponent : Component
     public float LastFireDuration;
 
     /// <summary>
+    ///     Chamber grid loaded for replay instead of being generated procedurally.
+    /// </summary>
+    [DataField("chamberMap")]
+    public ResPath ChamberMap = RMCOrdnanceSimulationDefaults.ChamberMap;
+
+    /// <summary>
     ///     Server-only replay chamber map used to stage the simulated blast.
     /// </summary>
     public EntityUid ChamberMapEnt = EntityUid.Invalid;
@@ -80,4 +88,9 @@ public sealed partial class RMCDemolitionsSimulatorComponent : Component
     public float PendingTotalIntensity;
     public float PendingIntensitySlope;
     public float PendingMaxIntensity;
+    public bool PendingFire;
+    public float PendingFireIntensity;
+    public float PendingFireRadius;
+    public float PendingFireDuration;
+    public EntProtoId PendingFireEntity = "RMCTileFire";
 }

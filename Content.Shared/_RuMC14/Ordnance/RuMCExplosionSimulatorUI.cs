@@ -12,7 +12,7 @@ public enum RMCExplosionSimulatorUiKey
 }
 
 /// <summary>
-///     Requests a fresh two-minute simulation pass for the inserted beaker.
+///     Requests a fresh two-minute simulation pass for the inserted ordnance sample.
 /// </summary>
 [Serializable, NetSerializable]
 public sealed class RMCExplosionSimulatorSimulateMsg : BoundUserInterfaceMessage;
@@ -37,7 +37,8 @@ public sealed class RMCExplosionSimulatorReplayMsg : BoundUserInterfaceMessage;
 /// </summary>
 [Serializable, NetSerializable]
 public sealed class RMCExplosionSimulatorBuiState(
-    bool hasBeaker,
+    bool hasSample,
+    string sampleName,
     RMCExplosionSimulatorTarget target,
     bool isProcessing,
     int processingSecsLeft,
@@ -52,7 +53,8 @@ public sealed class RMCExplosionSimulatorBuiState(
     float fireDuration,
     NetEntity? cameraNetId) : BoundUserInterfaceState
 {
-    public readonly bool HasBeaker = hasBeaker;
+    public readonly bool HasSample = hasSample;
+    public readonly string SampleName = sampleName;
     public readonly RMCExplosionSimulatorTarget Target = target;
     public readonly bool IsProcessing = isProcessing;
     public readonly int ProcessingSecsLeft = processingSecsLeft;

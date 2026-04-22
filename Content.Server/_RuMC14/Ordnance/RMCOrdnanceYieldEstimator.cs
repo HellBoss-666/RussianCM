@@ -14,7 +14,7 @@ namespace Content.Server._RuMC14.Ordnance;
 public static class RMCOrdnanceYieldEstimator
 {
     /// <summary>
-    ///     Default simulator profile used when we only have a reagent beaker and no physical casing.
+    ///     Default simulator profile used when we only have raw chemistry and no physical casing profile.
     /// </summary>
     public static readonly RMCOrdnanceYieldProfile ExplosionSimulationProfile = new(
         180f,

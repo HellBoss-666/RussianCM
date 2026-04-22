@@ -1,4 +1,6 @@
 using Robust.Shared.GameStates;
+using Robust.Shared.Prototypes;
+using Robust.Shared.Utility;
 
 namespace Content.Shared._RuMC14.Ordnance;
 
@@ -20,7 +22,7 @@ public sealed partial class RMCExplosionSimulatorComponent : Component
     public RMCExplosionSimulatorTarget SelectedTarget = RMCExplosionSimulatorTarget.Marines;
 
     /// <summary>
-    ///     True while the console is processing the inserted reagent sample.
+    ///     True while the console is processing the inserted ordnance sample.
     /// </summary>
     [DataField, AutoNetworkedField]
     public bool IsProcessing;
@@ -44,8 +46,8 @@ public sealed partial class RMCExplosionSimulatorComponent : Component
     public NetEntity? ChamberCamera;
 
     /// <summary>
-    ///     Cached explosive estimate from the most recent simulation pass.
-    /// </summary>
+     ///     Cached explosive estimate from the most recent simulation pass.
+     /// </summary>
     [DataField, AutoNetworkedField]
     public bool LastHasExplosion;
 
@@ -71,6 +73,12 @@ public sealed partial class RMCExplosionSimulatorComponent : Component
     public float LastFireDuration;
 
     /// <summary>
+    ///     Chamber grid loaded for replay instead of being generated procedurally.
+    /// </summary>
+    [DataField("chamberMap")]
+    public ResPath ChamberMap = RMCOrdnanceSimulationDefaults.ChamberMap;
+
+    /// <summary>
     ///     Server-only replay chamber map for the currently cached result.
     /// </summary>
     public EntityUid ChamberMapEnt = EntityUid.Invalid;
@@ -93,6 +101,11 @@ public sealed partial class RMCExplosionSimulatorComponent : Component
     public float PendingTotalIntensity;
     public float PendingIntensitySlope;
     public float PendingMaxIntensity;
+    public bool PendingFire;
+    public float PendingFireIntensity;
+    public float PendingFireRadius;
+    public float PendingFireDuration;
+    public EntProtoId PendingFireEntity = "RMCTileFire";
 }
 
 /// <summary>
