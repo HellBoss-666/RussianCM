@@ -90,6 +90,7 @@ rmc-ordnance-assembly-combined = You combine the parts into an ordnance assembly
 rmc-ordnance-timer-set = {$time} seconds
 rmc-ordnance-timer-current = {$time} seconds (current)
 rmc-ordnance-timer-popup = Timer set to {$time} seconds.
+rmc-ordnance-frequency-configure = Configure frequency
 rmc-ordnance-frequency-set = {$frequency}
 rmc-ordnance-frequency-current = {$frequency} (current)
 rmc-ordnance-frequency-popup = Frequency set to {$frequency}.

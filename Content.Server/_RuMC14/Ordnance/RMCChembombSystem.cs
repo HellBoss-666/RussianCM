@@ -412,7 +412,6 @@ public sealed class RMCChembombSystem : EntitySystem
                 var network = EnsureComp<DeviceNetworkComponent>(ent);
                 _deviceNetwork.SetReceiveFrequency(ent, assembly.SignalFrequency, network);
                 _deviceNetwork.SetTransmitFrequency(ent, assembly.SignalFrequency, network);
-                Dirty(ent, network);
                 break;
             }
             case RMCOrdnanceAssemblyKind.Proximity:

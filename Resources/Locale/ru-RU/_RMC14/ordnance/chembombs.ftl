@@ -90,6 +90,7 @@ rmc-ordnance-assembly-combined = Вы соединяете части в detonat
 rmc-ordnance-timer-set = {$time} секунд
 rmc-ordnance-timer-current = {$time} секунд (текущее)
 rmc-ordnance-timer-popup = Таймер установлен на {$time} секунд.
+rmc-ordnance-frequency-configure = Настроить частоту
 rmc-ordnance-frequency-set = {$frequency}
 rmc-ordnance-frequency-current = {$frequency} (текущая)
 rmc-ordnance-frequency-popup = Частота установлена на {$frequency}.

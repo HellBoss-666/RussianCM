@@ -53,16 +53,24 @@
     size: Small
   - type: RMCOrdnancePart
     partType: RMCOrdnanceSignaler
-  - type: Signaller
+  # - type: Signaller
   - type: UseDelay
-  - type: DeviceLinkSource
-    ports:
-    - Pressed
+  # - type: DeviceLinkSource
+  #   ports:
+  #   - Pressed
   - type: DeviceNetwork
     deviceNetId: Wireless
-    receiveFrequencyId: BasicDevice
+    receiveFrequency: 1100
+    transmitFrequency: 1100
   - type: WirelessNetworkConnection
     range: 200
+  - type: ActivatableUI
+    key: enum.OrdnanceSignalerUiKey.Key
+  - type: UserInterface
+    interfaces:
+      enum.OrdnanceSignalerUiKey.Key:
+        type: RuMCOrdnanceSignalerBoundUserInterface
+  - type: RuMCOrdnanceSignaler
 
 - type: entity
   id: RMCOrdnanceAssembly
@@ -95,4 +103,8 @@
           RMCOrdnanceSignaler: { sprite: _RuMC14/Ordnance/signaller.rsi, state: signaller_right }
   - type: Item
     size: Small
+  - type: UserInterface
+    interfaces:
+      enum.OrdnanceSignalerUiKey.Key:
+        type: RuMCOrdnanceSignalerBoundUserInterface
   - type: RMCOrdnanceAssembly

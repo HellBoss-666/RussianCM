@@ -1,7 +1,7 @@
-using Content.Server.DeviceNetwork.Systems;
 using Content.Server.Explosion.EntitySystems;
 using Content.Server.Popups;
 using Content.Shared._RuMC14.Ordnance;
+using Content.Shared._RuMC14.Ordnance.Signaler;
 using Content.Shared.DeviceNetwork;
 using Content.Shared.DeviceNetwork.Components;
 using Content.Shared.Interaction;
@@ -9,6 +9,7 @@ using Content.Shared.Popups;
 using Content.Shared.Tag;
 using Content.Shared.Tools;
 using Content.Shared.Tools.Systems;
+using Content.Shared.UserInterface;
 using Content.Shared.Verbs;
 using Robust.Server.GameObjects;
 using Robust.Shared.Audio;
@@ -21,11 +22,11 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
 {
     [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
     [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly DeviceNetworkSystem _deviceNetwork = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
     [Dependency] private readonly TagSystem _tags = default!;
     [Dependency] private readonly TransformSystem _transform = default!;
     [Dependency] private readonly SharedToolSystem _toolSystem = default!;
+    [Dependency] private readonly SharedUserInterfaceSystem _ui = default!;
 
     private static readonly EntProtoId AssemblyPrototype = "RMCOrdnanceAssembly";
     private static readonly ProtoId<TagPrototype> LockedTag = "RMCOrdnanceAssemblyLocked";
@@ -38,7 +39,6 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
     private static readonly SoundSpecifier InsertSound = new SoundPathSpecifier("/Audio/_RMC14/Weapons/Guns/Reload/grenade_insert.ogg");
     private static readonly SoundSpecifier ArmSound = new SoundPathSpecifier("/Audio/_RMC14/Explosion/armbomb.ogg");
     private static readonly float[] TimerOptions = { 3f, 5f, 10f, 30f };
-    private static readonly uint[] FrequencyOptions = { 1278, 1279, 1280, 1281, 1282 };
     private static readonly float[] ProximityOptions = { 0.5f, 1f, 1.5f, 2f, 2.5f };
 
     public override void Initialize()
@@ -47,6 +47,12 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         SubscribeLocalEvent<RMCOrdnancePartComponent, GetVerbsEvent<AlternativeVerb>>(OnPartVerbs);
         SubscribeLocalEvent<RMCOrdnanceAssemblyComponent, InteractUsingEvent>(OnAssemblyInteractUsing);
         SubscribeLocalEvent<RMCOrdnanceAssemblyComponent, GetVerbsEvent<AlternativeVerb>>(OnAssemblyVerbs);
+
+        Subs.BuiEvents<RMCOrdnanceAssemblyComponent>(OrdnanceSignalerUiKey.Key, subs =>
+        {
+            subs.Event<BoundUIOpenedEvent>(OnAssemblyUiOpened);
+            subs.Event<SelectOrdnanceSignalerFrequencyMessage>(OnAssemblyFrequencyChange);
+        });
     }
 
     private void OnPartInteractUsing(Entity<RMCOrdnancePartComponent> target, ref InteractUsingEvent args)
@@ -115,15 +121,11 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         if (!args.CanAccess || !args.CanInteract)
             return;
 
-        // Если сборка закручена, изменять нельзя
-        if (ent.Comp.IsLocked)
-            return;
-
         if (HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceTimer))
             AddTimerVerbs(ent, ref args);
 
         if (HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceSignaler))
-            AddFrequencyVerbs(ent, ref args);
+            AddFrequencyUiVerb(ent, ref args);
 
         if (HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceProximitySensor))
             AddProximityVerbs(ent, ref args);
@@ -134,35 +136,16 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         if (!args.CanAccess || !args.CanInteract)
             return;
 
-        if (ent.Comp.PartType != RMCOrdnancePartType.RMCOrdnanceSignaler ||
-            !TryComp<DeviceNetworkComponent>(ent, out var net))
+        if (ent.Comp.PartType != RMCOrdnancePartType.RMCOrdnanceSignaler)
             return;
 
         var user = args.User;
-
-        foreach (var option in FrequencyOptions)
+        args.Verbs.Add(new AlternativeVerb
         {
-            var current = net.ReceiveFrequency == option;
-            args.Verbs.Add(new AlternativeVerb
-            {
-                Category = TriggerSystem.TimerOptions,
-                Text = current
-                    ? Loc.GetString("rmc-ordnance-frequency-current", ("frequency", option.FrequencyToString()))
-                    : Loc.GetString("rmc-ordnance-frequency-set", ("frequency", option.FrequencyToString())),
-                Disabled = current,
-                Priority = -(int) option,
-                Act = () =>
-                {
-                    _deviceNetwork.SetReceiveFrequency(ent, option, net);
-                    _deviceNetwork.SetTransmitFrequency(ent, option, net);
-                    Dirty(ent, net);
-                    _popup.PopupEntity(
-                        Loc.GetString("rmc-ordnance-frequency-popup", ("frequency", option.FrequencyToString())),
-                        ent,
-                        user);
-                }
-            });
-        }
+            Category = TriggerSystem.TimerOptions,
+            Text = Loc.GetString("rmc-ordnance-frequency-configure"),
+            Act = () => _ui.TryOpenUi(ent.Owner, OrdnanceSignalerUiKey.Key, user),
+        });
     }
 
     private void AddTimerVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
@@ -190,32 +173,15 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         }
     }
 
-    private void AddFrequencyVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
+    private void AddFrequencyUiVerb(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
     {
         var user = args.User;
-
-        foreach (var option in FrequencyOptions)
+        args.Verbs.Add(new AlternativeVerb
         {
-            var current = ent.Comp.SignalFrequency == option;
-            args.Verbs.Add(new AlternativeVerb
-            {
-                Category = TriggerSystem.TimerOptions,
-                Text = current
-                    ? Loc.GetString("rmc-ordnance-frequency-current", ("frequency", option.FrequencyToString()))
-                    : Loc.GetString("rmc-ordnance-frequency-set", ("frequency", option.FrequencyToString())),
-                Disabled = current,
-                Priority = -(int) option,
-                Act = () =>
-                {
-                    ent.Comp.SignalFrequency = option;
-                    Dirty(ent);
-                    _popup.PopupEntity(
-                        Loc.GetString("rmc-ordnance-frequency-popup", ("frequency", option.FrequencyToString())),
-                        ent,
-                        user);
-                }
-            });
-        }
+            Category = TriggerSystem.TimerOptions,
+            Text = Loc.GetString("rmc-ordnance-frequency-configure"),
+            Act = () => _ui.TryOpenUi(ent.Owner, OrdnanceSignalerUiKey.Key, user),
+        });
     }
 
     private void AddProximityVerbs(Entity<RMCOrdnanceAssemblyComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
@@ -333,6 +299,41 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         return Math.Abs(a - b) < 0.001f;
     }
 
+    private void OnAssemblyUiOpened(Entity<RMCOrdnanceAssemblyComponent> ent, ref BoundUIOpenedEvent args)
+    {
+        if (!HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceSignaler))
+            return;
+
+        UpdateAssemblyUi(ent);
+    }
+
+    private void OnAssemblyFrequencyChange(Entity<RMCOrdnanceAssemblyComponent> ent, ref SelectOrdnanceSignalerFrequencyMessage args)
+    {
+        if (!HasType(ent.Comp, RMCOrdnancePartType.RMCOrdnanceSignaler))
+            return;
+
+        if (args.Frequency != 0)
+        {
+            ent.Comp.SignalFrequency = args.Frequency;
+            Dirty(ent);
+        }
+
+        UpdateAssemblyUi(ent);
+
+        if (args.Frequency != 0)
+        {
+            _popup.PopupEntity(
+                Loc.GetString("rmc-ordnance-frequency-popup", ("frequency", args.Frequency.FrequencyToString())),
+                ent,
+                args.Actor);
+        }
+    }
+
+    private void UpdateAssemblyUi(Entity<RMCOrdnanceAssemblyComponent> ent)
+    {
+        _ui.SetUiState(ent.Owner, OrdnanceSignalerUiKey.Key, new OrdnanceSignalerBoundUIState((int) ent.Comp.SignalFrequency));
+    }
+
     private static RMCOrdnanceAssemblyKind GetAssemblyKind(RMCOrdnanceAssemblyComponent comp)
     {
         if (HasType(comp, RMCOrdnancePartType.RMCOrdnanceTimer))
@@ -378,3 +379,4 @@ public sealed class RMCOrdnanceAssemblySystem : EntitySystem
         Proximity,
     }
 }
+
