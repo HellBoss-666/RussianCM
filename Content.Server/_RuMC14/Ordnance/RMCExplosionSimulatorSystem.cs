@@ -1,5 +1,8 @@
 using System.Numerics;
 using System.Linq;
+using Content.Server._RMC14.Ghost;
+using Content.Server.Ghost.Roles.Components;
+using Content.Server.Humanoid.Systems;
 using Content.Server.Explosion.EntitySystems;
 using Content.Shared._RMC14.Atmos;
 using Content.Shared._RuMC14.Ordnance;
@@ -28,37 +31,39 @@ public sealed class RMCExplosionSimulatorSystem : EntitySystem
     private static readonly SoundPathSpecifier BeepSound = new("/Audio/Machines/twobeep.ogg");
     private const string SampleSlotId = "beakerSlot";
 
-    private static readonly Dictionary<RMCExplosionSimulatorTarget, Vector2[]> TargetFormations = new()
+    private sealed record TargetSpawnProfile(Vector2 Position, string PrototypeId, bool RandomHumanoid = false);
+
+    private static readonly Dictionary<RMCExplosionSimulatorTarget, TargetSpawnProfile[]> TargetProfiles = new()
     {
         [RMCExplosionSimulatorTarget.Marines] =
         [
-            new Vector2(2, 1),
-            new Vector2(2, -1),
-            new Vector2(3, 2),
-            new Vector2(3, 0),
-            new Vector2(3, -2),
-            new Vector2(4, 1),
-            new Vector2(4, -1),
+            new(new Vector2(2, 1), "RMCRifleman", true),
+            new(new Vector2(2, -1), "RMCSmartGunOperator", true),
+            new(new Vector2(3, 2), "RMCHospitalCorpsman", true),
+            new(new Vector2(3, 0), "RMCCombatTech", true),
+            new(new Vector2(3, -2), "RMCRifleman", true),
+            new(new Vector2(4, 1), "RMCSmartGunOperator", true),
+            new(new Vector2(4, -1), "RMCHospitalCorpsman", true),
         ],
         [RMCExplosionSimulatorTarget.SpecialForces] =
         [
-            new Vector2(2, 0),
-            new Vector2(2, 1),
-            new Vector2(2, -1),
-            new Vector2(3, 0),
-            new Vector2(3, 1),
+            new(new Vector2(2, 0), "RMCMarineRaiderLeader", true),
+            new(new Vector2(2, 1), "RMCMarineRaider", true),
+            new(new Vector2(2, -1), "RMCMarineRaider", true),
+            new(new Vector2(3, 0), "RMCMarineRaider", true),
+            new(new Vector2(3, 1), "RMCMarineRaider", true),
         ],
         [RMCExplosionSimulatorTarget.Xenomorphs] =
         [
-            new Vector2(1, 0),
-            new Vector2(1, 1),
-            new Vector2(1, -1),
-            new Vector2(2, 0),
-            new Vector2(2, 1),
-            new Vector2(2, -1),
-            new Vector2(3, 0),
-            new Vector2(3, 1),
-            new Vector2(3, -1),
+            new(new Vector2(1, 0), "CMXenoRunner"),
+            new(new Vector2(1, 1), "CMXenoSentinel"),
+            new(new Vector2(1, -1), "CMXenoWarrior"),
+            new(new Vector2(2, 0), "CMXenoSpitter"),
+            new(new Vector2(2, 1), "CMXenoDefender"),
+            new(new Vector2(2, -1), "CMXenoLurker"),
+            new(new Vector2(3, 0), "CMXenoPraetorian"),
+            new(new Vector2(3, 1), "CMXenoRavager"),
+            new(new Vector2(3, -1), "CMXenoRunner"),
         ],
     };
 
@@ -71,6 +76,7 @@ public sealed class RMCExplosionSimulatorSystem : EntitySystem
     [Dependency] private readonly IMapManager _mapManager = default!;
     [Dependency] private readonly IPlayerManager _playerManager = default!;
     [Dependency] private readonly SharedPopupSystem _popup = default!;
+    [Dependency] private readonly RandomHumanoidSystem _randomHumanoid = default!;
     [Dependency] private readonly RMCOrdnanceSampleResolverSystem _resolver = default!;
     [Dependency] private readonly IGameTiming _timing = default!;
     [Dependency] private readonly SharedUserInterfaceSystem _ui = default!;
@@ -243,13 +249,29 @@ public sealed class RMCExplosionSimulatorSystem : EntitySystem
 
     private void SpawnTargetEntities(RMCExplosionSimulatorTarget target, EntityUid gridEnt)
     {
-        if (!TargetFormations.TryGetValue(target, out var positions))
+        if (!TargetProfiles.TryGetValue(target, out var profiles))
             return;
 
-        foreach (var position in positions)
+        foreach (var profile in profiles)
         {
-            Spawn("RMCTrainingDummy", new EntityCoordinates(gridEnt, position));
+            var coordinates = new EntityCoordinates(gridEnt, profile.Position);
+            var spawned = profile.RandomHumanoid
+                ? _randomHumanoid.SpawnRandomHumanoid(profile.PrototypeId, coordinates, profile.PrototypeId)
+                : Spawn(profile.PrototypeId, coordinates);
+
+            StripGhostTakeoverComponents(spawned);
         }
+    }
+
+    /// <summary>
+    ///     Simulator chamber mobs should never become available to ghosts while the replay is open.
+    /// </summary>
+    private void StripGhostTakeoverComponents(EntityUid uid)
+    {
+        RemComp<GhostRoleComponent>(uid);
+        RemComp<GhostTakeoverAvailableComponent>(uid);
+        RemComp<GhostRolePreventCryoSleepComponent>(uid);
+        RemComp<GhostRoleApplySpecialComponent>(uid);
     }
 
     private void UpdateUiState(Entity<RMCExplosionSimulatorComponent> ent)
