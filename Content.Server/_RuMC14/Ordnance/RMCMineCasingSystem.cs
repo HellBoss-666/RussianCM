@@ -1,3 +1,4 @@
+using System.Numerics;
 using Content.Server.Explosion.EntitySystems;
 using Content.Server.Popups;
 using Content.Shared._RMC14.Explosion;
@@ -38,7 +39,6 @@ public sealed class RMCMineCasingSystem : EntitySystem
     {
         SubscribeLocalEvent<RMCMineCasingComponent, UseInHandEvent>(OnUseInHand);
         SubscribeLocalEvent<RMCMineCasingComponent, RMCMinePlantDoAfterEvent>(OnDoAfter);
-        SubscribeLocalEvent<RMCPlantedMineComponent, StepTriggeredOnEvent>(OnStepOn);
         SubscribeLocalEvent<RMCPlantedMineComponent, StepTriggeredOffEvent>(OnStepOff);
         SubscribeLocalEvent<RMCPlantedMineComponent, StepTriggerAttemptEvent>(OnStepAttempt);
     }
@@ -108,6 +108,7 @@ public sealed class RMCMineCasingSystem : EntitySystem
 
         ent.Comp.Planted = true;
         UpdateTriggerFixture(ent);
+        _stepTrigger.SetIntersectRatio(ent, 0.05f);
         _stepTrigger.SetActive(ent, true);
         var plantedComp = EnsureComp<RMCPlantedMineComponent>(ent);
         GunIff.TryGetFaction(args.User, out var faction);
@@ -141,13 +142,13 @@ public sealed class RMCMineCasingSystem : EntitySystem
         args.Continue = true;
     }
 
-    private void OnStepOn(Entity<RMCPlantedMineComponent> ent, ref StepTriggeredOnEvent args)
-    {
-        _trigger.Trigger(ent.Owner, args.Tripper);
-    }
-
+    /// <summary>
+    ///     StepTrigger defaults to StepOn=false, so the first valid intrusion arrives through StepTriggeredOffEvent.
+    ///     This matches the existing claymore path and lets the mine detonate as soon as someone enters the cone.
+    /// </summary>
     private void OnStepOff(Entity<RMCPlantedMineComponent> ent, ref StepTriggeredOffEvent args)
     {
+        _trigger.Trigger(ent.Owner, args.Tripper);
     }
 
     private void UpdateTriggerFixture(Entity<RMCMineCasingComponent> ent)
@@ -157,7 +158,9 @@ public sealed class RMCMineCasingSystem : EntitySystem
 
         _fixtures.DestroyFixture(ent, "trigger", body: physics);
         var range = MathF.Max(0.25f, ent.Comp.TriggerRange);
-        var shape = new PhysShapeCircle(range);
+        // CM mines watch a directional strip in front of the casing rather than a circular bubble.
+        var shape = new PolygonShape();
+        shape.SetAsBox(0.25f, range / 2f, new Vector2(0f, -range / 2f), 0f);
         _fixtures.TryCreateFixture(
             ent,
             shape,

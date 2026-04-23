@@ -1,4 +1,5 @@
 using System.Numerics;
+using System.Linq;
 using Content.Server.Explosion.EntitySystems;
 using Content.Shared._RMC14.Atmos;
 using Content.Shared._RuMC14.Ordnance;
@@ -132,11 +133,13 @@ public sealed class RMCDemolitionsSimulatorSystem : EntitySystem
             QueueDel(ent.Comp.ChamberMapEnt);
 
         var options = DeserializationOptions.Default with { InitializeMaps = true };
-        if (!_mapLoader.TryLoadGrid(ent.Comp.ChamberMap, out var map, out var grid, options) ||
+        if (!_mapLoader.TryLoadMap(ent.Comp.ChamberMap, out var map, out var grids, options) ||
             map is not { } chamberMap ||
-            grid is not { } chamberGrid)
+            grids == null ||
+            grids.Count == 0)
             return;
 
+        var chamberGrid = grids.First();
         ent.Comp.ChamberMapEnt = chamberMap.Owner;
 
         for (var index = 1; index <= 4; index++)

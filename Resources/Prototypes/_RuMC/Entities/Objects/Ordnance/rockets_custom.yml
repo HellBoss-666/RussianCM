@@ -52,7 +52,9 @@
     maxVolume: 180
     basePower: 220
     baseFalloff: 160
-    baseShards: 80
+    maxShards: 80
+    shrapnelSpread: 90
+    directionalShrapnel: true
     minFireIntensity: 4
     maxFireIntensity: 45
     minFireRadius: 2
@@ -143,7 +145,9 @@
     chemicalSolution: chemicals
     basePower: 220
     baseFalloff: 160
-    baseShards: 80
+    maxShards: 80
+    shrapnelSpread: 90
+    directionalShrapnel: true
     hasActiveDetonator: true
     stage: Armed
     minFireIntensity: 4

@@ -145,6 +145,7 @@
   physicalDesc: reagent-physical-desc-metallic
   flavor: metallic
   color: "#a19d94"
+  shardMod: 1
   overdose: 30
   criticalOverdose: 50
   metabolisms:

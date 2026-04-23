@@ -7,5 +7,8 @@ namespace Content.Shared._RuMC14.Ordnance;
 /// </summary>
 public static class RMCOrdnanceSimulationDefaults
 {
-    public static readonly ResPath ChamberMap = new("/Maps/_RuMC14/ordnance_simulation_chamber.yml");
+    // The original custom chamber map is currently corrupted and trips the map loader with
+    // EndOfStreamException while deserializing tile chunks, so we point both simulators at a
+    // known-good template until the bespoke chamber is regenerated in the editor.
+    public static readonly ResPath ChamberMap = new("/Maps/Test/admin_test_arena.yml");
 }

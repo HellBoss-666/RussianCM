@@ -46,7 +46,7 @@
     maxVolume: 180
     basePower: 280
     baseFalloff: 120
-    baseShards: 100
+    maxShards: 100
     minFireIntensity: 4
     maxFireIntensity: 50
     minFireRadius: 2

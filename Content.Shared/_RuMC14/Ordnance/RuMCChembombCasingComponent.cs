@@ -46,9 +46,12 @@ public sealed partial class RMCChembombCasingComponent : Component
     [DataField, AutoNetworkedField]
     public float BaseFalloff = 80f;
 
-    /// <summary>Number of shrapnel projectiles spawned on detonation.</summary>
+    /// <summary>
+    ///     Maximum number of shrapnel projectiles this casing may emit.
+    ///     CMSS13 treats the listed shard value as a cap, not as the default runtime count.
+    /// </summary>
     [DataField, AutoNetworkedField]
-    public int BaseShards;
+    public int MaxShards;
 
     /// <summary>Whether a valid detonator assembly is currently installed.</summary>
     [DataField, AutoNetworkedField]
@@ -94,9 +97,36 @@ public sealed partial class RMCChembombCasingComponent : Component
     [DataField]
     public float MinFalloff = 25f;
 
-    /// <summary>Shrapnel projectile prototype ID.</summary>
+    /// <summary>Default shrapnel projectile used when no special shard type is present.</summary>
     [DataField]
-    public EntProtoId ShrapnelProto = "RMCShrapnel";
+    public EntProtoId DefaultShrapnelProto = "CMProjectileShrapnel";
+
+    /// <summary>Projectile used when the payload crosses the incendiary shard threshold.</summary>
+    [DataField]
+    public EntProtoId IncendiaryShrapnelProto = "RMCShrapnelIncendiary";
+
+    /// <summary>Projectile used when the payload crosses the hornet shard threshold.</summary>
+    [DataField]
+    public EntProtoId HornetShrapnelProto = "RMCHornetRound";
+
+    /// <summary>
+    ///     Projectile used for neuro shards.
+    ///     We currently fall back to plain shrapnel until a dedicated local neuro shard projectile is tuned.
+    /// </summary>
+    [DataField]
+    public EntProtoId NeuroShrapnelProto = "CMProjectileShrapnel";
+
+    /// <summary>Angular spread, in degrees, used when shards are emitted.</summary>
+    [DataField]
+    public float ShrapnelSpread = 360f;
+
+    /// <summary>Whether the shrapnel cone should be oriented around the casing's facing direction.</summary>
+    [DataField]
+    public bool DirectionalShrapnel;
+
+    /// <summary>Projectile speed for spawned shards.</summary>
+    [DataField]
+    public float ShrapnelSpeed = 20f;
 }
 
 /// <summary>

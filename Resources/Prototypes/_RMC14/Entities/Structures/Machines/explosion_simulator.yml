@@ -13,8 +13,8 @@
     drawdepth: SmallObjects
     sprite: _RMC14/Structures/Machines/computer.rsi
     layers:
-    - state: engineering_terminal
-    - state: engineering_terminal
+    - state: demo_sim
+    - state: demo_sim0
       map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
       visible: false
   - type: Clickable

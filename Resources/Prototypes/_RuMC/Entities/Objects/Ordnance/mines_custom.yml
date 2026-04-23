@@ -50,7 +50,9 @@
     maxVolume: 120
     basePower: 100
     baseFalloff: 80
-    baseShards: 40
+    maxShards: 40
+    shrapnelSpread: 60
+    directionalShrapnel: true
     minFireIntensity: 3
     maxFireIntensity: 20
     minFireRadius: 2

@@ -25,7 +25,7 @@
     maxVolume: 240
     basePower: 360
     baseFalloff: 130
-    baseShards: 200
+    maxShards: 200
     minFireIntensity: 5
     maxFireIntensity: 45
     minFireRadius: 3
@@ -105,7 +105,7 @@
     maxVolume: 180
     basePower: 360
     baseFalloff: 130
-    baseShards: 200
+    maxShards: 200
     minFireIntensity: 5
     maxFireIntensity: 45
     minFireRadius: 3
@@ -140,7 +140,7 @@
     chemicalSolution: chemicals
     basePower: 360
     baseFalloff: 130
-    baseShards: 200
+    maxShards: 200
     minFireIntensity: 5
     maxFireIntensity: 45
     minFireRadius: 3
@@ -168,7 +168,7 @@
     chemicalSolution: chemicals
     basePower: 360
     baseFalloff: 130
-    baseShards: 200
+    maxShards: 200
     minFireIntensity: 5
     maxFireIntensity: 45
     minFireRadius: 3

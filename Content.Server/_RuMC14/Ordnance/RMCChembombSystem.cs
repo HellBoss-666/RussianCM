@@ -29,6 +29,7 @@ using Robust.Shared.Audio;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Containers;
 using Robust.Shared.Map;
+using Robust.Shared.Maths;
 using Robust.Shared.Network;
 using Robust.Shared.Prototypes;
 
@@ -44,6 +45,7 @@ public sealed class RMCChembombSystem : EntitySystem
     [Dependency] private readonly IMapManager _map = default!;
     [Dependency] private readonly INetManager _net = default!;
     [Dependency] private readonly ItemSlotsSystem _itemSlots = default!;
+    [Dependency] private readonly RMCOrdnanceShrapnelSystem _shrapnel = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
     [Dependency] private readonly IPrototypeManager _prototype = default!;
     [Dependency] private readonly SharedDoAfterSystem _doAfter = default!;
@@ -171,6 +173,22 @@ public sealed class RMCChembombSystem : EntitySystem
                 (int) estimate.FireRadius,
                 (int) estimate.FireIntensity,
                 (int) estimate.FireDuration);
+        }
+
+        if (estimate.HasShards)
+        {
+            var shardAngle = estimate.Shrapnel.UseCasingDirection
+                ? Transform(ent.Owner).WorldRotation
+                : Angle.Zero;
+
+            _shrapnel.SpawnBurst(
+                _transform.GetMapCoordinates(ent.Owner),
+                estimate.Shrapnel.ProjectileProto,
+                estimate.Shrapnel.Count,
+                ent.Owner,
+                shardAngle,
+                estimate.Shrapnel.SpreadAngle,
+                estimate.Shrapnel.ProjectileSpeed);
         }
 
         args.Handled = true;
